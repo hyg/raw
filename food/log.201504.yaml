@@ -1,0 +1,17 @@
+foodlog:
+- date:"20150401"
+  breakfast: |+
+    time:"20150401062500"
+    content:
+    - name:"杂粮粥"
+      amount:40
+      unit:"克"
+    - name:"海鸭蛋"
+      amount:1
+      unit:"个"
+  water:
+  - time:"20150401074500"
+  	type:"龙井茶"
+	amount:1
+    unit:"杯"
+  - 

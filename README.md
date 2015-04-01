@@ -20,14 +20,21 @@
 ##版本管理
 1. 版本库路径：http://git.oschina.net/hyg/raw
 1. 参与者fork本库，提交pull request
-2. 版本库文件夹增补定义：
+1. 版本库文件夹增补定义：
 	1. food：
 		* 食物计划：plan.md
 		* 采购清单：resource.md
-		* 食物日志：log.yyyymm.md		(yyyy=年，mm=月)
+		* 食物日志：log.yyyymm.yaml		(yyyy=年，mm=月)
 	1. health：
 		* 健康方案：solution.md
-		* 健康日志：log.yyyymm.md		(yyyy=年，mm=月)
+		* 健康日志：log.yyyymm.yaml		(yyyy=年，mm=月)
+1. 日志要求：
+	1. food/log.yyyymm.yaml:
+		1. 每天饮水时间，次数，每次量
+		2. 每餐的时间，每餐内容，数量
+		3. 零食时间，内容，数量
+		4. 外来食品需要供应商，简单描述
+	2. health/log.yyyymm.yaml:
 
 ##沟通管理
 1. wiki路径：http://git.oschina.net/hyg/raw/wikis/home  
