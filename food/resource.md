@@ -1,5 +1,17 @@
 ##食品采购
 
+###年度排期
+<table>
+<tr><th>功用</th><th>常年</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th><th>12</th></tr>
+<tr><th>纤维素</th><td>空心菜、麦片、水果干</td><td></td><td></td><td></td><td></td><td>海带</td><td>海带</td><td>海带、沙葛</td><td>沙葛</td><td>紫菜</td><td>木耳、紫菜</td><td>木耳、紫菜</td><td>紫菜</td></tr>
+<tr><th>钙</th><td>豆腐干、奶制品</td><td></td><td>酸角</td><td>酸角</td><td>酸角</td><td>酸角</td><td></td><td></td><td>黑芝麻</td><td>黑芝麻、发菜</td><td>发菜</td><td></td><td></td></tr>
+<tr><th>蛋白质</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><th>抗氧化</th><td>水果干</td><td>胡萝卜</td><td>胡萝卜</td><td>胡萝卜</td><td></td><td></td><td>胡萝卜</td><td></td><td></td><td></td><td></td><td></td><td>胡萝卜</td></tr>
+
+<tr><th>其它</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>拐枣</td><td></td></tr>
+</table>
+
+###单品信息
 * 大米：
 	* http://baiyouli.taobao.com/
 	* http://shop59214560.taobao.com
