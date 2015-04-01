@@ -1,6 +1,9 @@
 ##食品采购
 
-* 大米：http://baiyouli.taobao.com/
+* 大米：
+	* http://baiyouli.taobao.com/
+	* http://shop59214560.taobao.com
+	* http://shop59801199.taobao.com
 * 燕麦片：http://shop33278606.taobao.com
 * 麦胚芽：http://shop57151106.taobao.com
 * 海鸭蛋：http://shop100425773.taobao.com
