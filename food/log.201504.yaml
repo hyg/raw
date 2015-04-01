@@ -19,6 +19,19 @@ foodlog:
       amount:400
       unit:"g"
       remark:"水焯:红花籽油+盐"
+  dinner: |+
+    time:"20150401211500"
+    content:
+    - name:"雪花面"
+      amount:100
+      unit:"g"
+      remark:"汤面:酱油+芝麻油+料酒"
+    - name:"紫菜"
+      amount:10
+      unit:"g" 
+    - name:"番茄酱"
+      amount:30
+      unit:"g"
   snack:
   - time:"20150401152500"
     content:
@@ -67,9 +80,3 @@ foodlog:
     主食摄入不足
     
     建议晚饭： 蛋白质  一种蔬菜／水果  主食
-    
-    
-    
-    
-    
-    
