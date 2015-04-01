@@ -20,7 +20,7 @@ foodlog:
       unit:"g"
       remark:"水焯:红花籽油+盐"
   snack:
-  - time:"2015040115250000"
+  - time:"20150401152500"
 	content:
 	- name:"麦片"
       amount:60
@@ -28,7 +28,7 @@ foodlog:
 	- name:"葡萄干"
       amount:10
       unit:"g"
-  - time:"2015040118400000"
+  - time:"20150401184000"
 	content:
 	- name:"哈密瓜"
       amount:1000
