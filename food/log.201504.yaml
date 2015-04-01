@@ -18,3 +18,7 @@ foodlog:
   	type:"龙井茶"
 	amount:1
     unit:"杯"
+  - time:"20150401092000"
+  	type:"龙井茶"
+	amount:1
+    unit:"杯"
