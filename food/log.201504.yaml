@@ -5,20 +5,35 @@ foodlog:
     content:
     - name:"杂粮粥"
       amount:40
-      unit:"克"
+      unit:"g"
     - name:"海鸭蛋"
       amount:1
       unit:"个"
+  lunch: |+
+    time:"20150401113000"
+    content:
+    - name:"麦菜"
+      amount:400
+      unit:"g"
+      remark:"水焯:红花籽油+盐"
   water:
   - time:"20150401074500"
   	type:"龙井茶"
-	amount:1
-    unit:"杯"
+	amount:300
+    unit:"ml"
   - time:"20150401084000"
   	type:"龙井茶"
-	amount:1
-    unit:"杯"
+	amount:200
+    unit:"ml"
   - time:"20150401092000"
   	type:"龙井茶"
-	amount:1
-    unit:"杯"
+	amount:300
+    unit:"ml"
+  - time:"20150401123500"
+  	type:"麦菜汤"
+	amount:800
+    unit:"ml"
+  - time:"20150401132000"
+  	type:"龙井茶"
+	amount:300
+    unit:"ml"

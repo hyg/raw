@@ -5,8 +5,8 @@ healthlog:
     item:
 	- type:"¶×Ç½"
 	  amount:20
-	  unit:"´Î"
+	  unit:"turn"
 	- type:"ÅõÆø¹à¶¥"
 	  amount:1
-	  unit:"´Î"
+	  unit:"turn"
     endheartrate:68
