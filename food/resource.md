@@ -50,3 +50,13 @@
 * <s>腐竹、八角：http://licuilin2009.taobao.com</s>
 * <s>大枣、雪菊：http://hthb.taobao.com</s>
 * <s>酒曲：http://jiuqu.taobao.com</s>
+* 
+
+
+###忌口 
+1 腐乳 酱菜 酸菜 萝卜干
+2 米粉 米线 粉条
+3 薯片 巧克力 糖果 饼干 蛋糕 零食pie等高糖食品
+4 外卖奶茶
+5 松花蛋
+
