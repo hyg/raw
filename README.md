@@ -23,6 +23,7 @@
 2. 版本库文件夹增补定义：
 	1. food：
 		* 食物计划：plan.md
+		* 采购清单：resource.md
 		* 食物日志：log.yyyymm.md		(yyyy=年，mm=月)
 	1. health：
 		* 健康方案：solution.md
