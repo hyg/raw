@@ -28,6 +28,11 @@ foodlog:
 	- name:"葡萄干"
       amount:10
       unit:"g"
+  - time:"2015040118400000"
+	content:
+	- name:"哈密瓜"
+      amount:1000
+      unit:"g"
   water:
   - time:"20150401074500"
   	type:"龙井茶"
@@ -47,5 +52,9 @@ foodlog:
     unit:"ml"
   - time:"20150401132000"
   	type:"龙井茶"
+	amount:300
+    unit:"ml"
+  - time:"20150401172500"
+  	type:"凉开水"
 	amount:300
     unit:"ml"
