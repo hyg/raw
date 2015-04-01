@@ -9,7 +9,7 @@ foodlog:
     - name:"麦胚芽"
       amount:10
       unit:"g"
-	  - name:"海鸭蛋"
+    - name:"海鸭蛋"
       amount:1
       unit:"个"
   lunch: |+
@@ -21,45 +21,45 @@ foodlog:
       remark:"水焯:红花籽油+盐"
   snack:
   - time:"20150401152500"
-	content:
-	- name:"麦片"
+    content:
+    - name:"麦片"
       amount:60
       unit:"g"
-	- name:"葡萄干"
+    - name:"葡萄干"
       amount:10
       unit:"g"
   - time:"20150401184000"
-	content:
-	- name:"哈密瓜"
+    content:
+    - name:"哈密瓜"
       amount:1000
       unit:"g"
   water:
   - time:"20150401074500"
-  	type:"龙井茶"
-	amount:300
+    type:"龙井茶"
+    amount:300
     unit:"ml"
   - time:"20150401084000"
-  	type:"龙井茶"
-	amount:200
+    type:"龙井茶"
+    amount:200
     unit:"ml"
   - time:"20150401092000"
-  	type:"龙井茶"
-	amount:300
+    type:"龙井茶"
+    amount:300
     unit:"ml"
   - time:"20150401123500"
-  	type:"麦菜汤"
-	amount:800
+    type:"麦菜汤"
+    amount:800
     unit:"ml"
   - time:"20150401132000"
-  	type:"龙井茶"
-	amount:300
+    type:"龙井茶"
+    amount:300
     unit:"ml"
   - time:"20150401172500"
-  	type:"凉开水"
-	amount:300
+    type:"凉开水"
+    amount:300
     unit:"ml"
   comment: |+
     今天的评价。
-	今天的评价。
-	今天的评价。
-	今天的评价。
+    今天的评价。
+    今天的评价。
+    今天的评价。
