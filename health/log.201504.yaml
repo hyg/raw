@@ -10,3 +10,9 @@ healthlog:
 	  amount:1
 	  unit:"turn"
     endheartrate:68
+  - time:"20150401150000"
+    item:
+	- type:"ÅõÆø¹à¶¥"
+	  amount:1
+	  unit:"turn"
+    endheartrate:63
