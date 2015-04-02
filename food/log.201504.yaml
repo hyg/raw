@@ -82,7 +82,7 @@ foodlog:
     建议晚饭： 蛋白质  一种蔬菜／水果  主食
 - date:20150402
   breakfast:|+
-    time:20150401064500
+    time:20150402064500
     content:
     - name:杂粮粥
       amount:40
@@ -94,7 +94,7 @@ foodlog:
       amount:1
       unit:个
   lunch:|+
-    time:20150401113000
+    time:20150402113000
     content:
     - name:麦片
       amount:60
@@ -159,3 +159,30 @@ foodlog:
     type:开水
     amount:200
     unit:ml
+- date:20150403
+  breakfast:|+
+    time:20150403063500
+    content:
+    - name:杂粮粥
+      amount:40
+      unit:g
+    - name:麦胚芽
+      amount:10
+      unit:g
+    - name:海鸭蛋
+      amount:1
+      unit:个
+    - name:肉包
+      amount:1
+      unit:个
+  water:
+  - time:20150403061500
+    type:开水
+    amount:400
+    unit:ml
+  snack:
+  - time:20150403061500
+    content:
+    - name:苹果
+      amount:1
+      unit:个
