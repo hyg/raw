@@ -1,29 +1,29 @@
 healthlog:
-- date:"20150401"
+- date:20150401
   worktime:
-  - time:"20150401085500"
+  - time:20150401085500
     item:
-    - type:"¶×Ç½"
+    - type:¶×Ç½
       amount:20
-      unit:"turn"
-    - type:"ÅõÆø¹à¶¥"
+      unit:turn
+    - type:ÅõÆø¹à¶¥
       amount:1
-      unit:"turn"
+      unit:turn
     endheartrate:68
-  - time:"20150401150000"
+  - time:20150401150000
     item:
-    - type:"ÅõÆø¹à¶¥"
+    - type:ÅõÆø¹à¶¥
       amount:1
-      unit:"turn"
+      unit:turn
     endheartrate:63
-- date:"20150402"
+- date:20150402
   worktime:
-  - time:"20150402093500"
+  - time:20150402093500
     item:
-    - type:"pilates.p057"
+    - type:pilates.p057
       amount:5
-      unit:"turn"
-    - type:"Æ½°åÖ§³Å"
+      unit:turn
+    - type:Æ½°åÖ§³Å
       amount:1
-      unit:"turn"
+      unit:turn
     endheartrate:70
