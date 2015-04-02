@@ -8,7 +8,7 @@
 1. 项目预算及支付方式：
 	* 食物计划：
 		* 主版本：20000 Token
-		* 维护：    800 Token/month
+		* 维护：    800 Token/week
 	* 健康方案：
 		* 主版本：20000 Token
 		* 维护：   2000 Token/month
