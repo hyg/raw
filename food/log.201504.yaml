@@ -80,3 +80,29 @@ foodlog:
     主食摄入不足
     
     建议晚饭： 蛋白质  一种蔬菜／水果  主食
+- date:"20150402"
+  breakfast: |+
+    time:"20150401064500"
+    content:
+    - name:"杂粮粥"
+      amount:40
+      unit:"g"
+    - name:"麦胚芽"
+      amount:10
+      unit:"g"
+    - name:"海鸭蛋"
+      amount:1
+      unit:"个"
+  water:
+  - time:"20150401080500"
+    type:"龙井茶"
+    amount:300
+    unit:"ml"
+  - time:"20150401083500"
+    type:"龙井茶"
+    amount:200
+    unit:"ml"
+  - time:"20150401090000"
+    type:"龙井茶"
+    amount:300
+    unit:"ml"
