@@ -99,6 +99,21 @@ foodlog:
     - name:麦片
       amount:60
       unit:g
+  dinner:|+
+    time:20150402181000
+    content:
+    - name:肉包
+      amount:2
+      unit:个
+    - name:菜包
+      amount:2
+      unit:个
+    - name:胡萝卜
+      amount:250
+      unit:g 
+    - name:菠菜
+      amount:250
+      unit:g
   water:
   - time:20150402080500
     type:龙井茶
@@ -135,4 +150,12 @@ foodlog:
   - time:20150402154500
     type:开水
     amount:300
+    unit:ml
+  - time:20150402173500
+    type:柠檬水
+    amount:250
+    unit:ml
+  - time:20150402173500
+    type:开水
+    amount:200
     unit:ml
