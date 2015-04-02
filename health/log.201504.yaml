@@ -27,3 +27,9 @@ healthlog:
       amount:1
       unit:turn
     endheartrate:70
+  - time:20150402154500
+    item:
+    - type:Æ½°åÖ§³Å
+      amount:1
+      unit:turn
+    endheartrate:71
