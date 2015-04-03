@@ -159,6 +159,10 @@ foodlog:
     type:开水
     amount:200
     unit:ml
+ comment:|+
+    粗粮摄入良好
+    水摄入量略显不足，晨起没有喝水
+    柠檬水需要该在餐前半小时之前喝   
 - date:20150403
   breakfast:|+
     time:20150403063500
@@ -234,3 +238,11 @@ foodlog:
     - name:苹果
       amount:1
       unit:个
+      
+      comment:|+
+    蔬菜种类不够，建议至少增加一种
+    
+    
+    
+    
+    
