@@ -175,9 +175,33 @@ foodlog:
     - name:肉包
       amount:1
       unit:个
+  lunch:
+  - time:20150403114300
+    content:
+    - name:海带
+      amount:5
+      unit:g
+    - name:麦片
+      amount:60
+      unit:g
+    - name:葡萄干
+      amount:10
+      unit:g
   water:
   - time:20150403061500
     type:开水
+    amount:400
+    unit:ml
+  - time:20150403080500
+    type:龙井茶
+    amount:350
+    unit:ml
+  - time:20150403104900
+    type:龙井茶
+    amount:300
+    unit:ml
+  - time:20150403115000
+    type:海带汤
     amount:400
     unit:ml
   snack:
