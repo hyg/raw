@@ -1,15 +1,16 @@
+sleep: 20150403235000
 wake: 20150404061500
-sleep: 20150404
+stool:
 exercise: 
 - time: 20150404114000
   item: 
   - type: pilates.p057
     amount: 10
     unit: turn
-  - type: pilates.p066.3
+  - type: pilates.p055
     amount: 5
     unit: turn
-  - type: ∆Ω∞Â÷ß≥≈
-    amount: 1
+  - type: pilates.p079
+    amount: 5
     unit: turn
-  endheartrate: 72
+  endheartrate: 76

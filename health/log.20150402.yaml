@@ -1,6 +1,11 @@
+sleep: 201504012300
 wake: 20150402060000
-sleep: 201504022300
+stool:
+- time: 201504022000
+  type: 正常
 exercise:
+- time: 201504012000
+  type: 正常
 - time: 20150402093500
   item:
   - type: pilates.p057

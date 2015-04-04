@@ -16,6 +16,21 @@ breakfast:|+
   - name:紫薯
     amount:60
     unit:g
+lunch: 
+- time: 20150404133000
+  content: 
+  - name: 紫菜
+    amount: 15
+    unit: g
+  - name: 面条
+    amount: 60
+    unit: g
+  - name: 番茄酱
+    amount: 25
+    unit: g
+  - name: 茄子
+    amount: 300
+    unit: g
 water:
 - time:20150404064500
   type:开水
@@ -24,14 +39,15 @@ water:
 - time:20150404083000
   type:开水
   amount:100
-  unit:ml
-- time:20150404094000
+- time:20150404091000
+  type:开水
+  amount:100
+- time:20150404112000
   type:开水
   amount:300
-  unit:ml
-snack:
-- time:20150404070500
-  content:
-  - name:梨
-    amount:1
-    unit:个
+- time:20150404111000
+  type:开水
+  amount:300
+- time:20150404141000
+  type:开水
+  amount:100
