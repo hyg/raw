@@ -51,3 +51,22 @@ water:
 - time:20150404141000
   type:开水
   amount:100
+- time:20150404143000
+  type:碧螺春
+  amount:300
+- time:20150404151000
+  type:碧螺春
+  amount:300
+- time:20150404165000
+  type:碧螺春
+  amount:300
+- time: 20150404184000
+  type: 柠檬水
+  amount: 450
+  unit: ml
+dinner: |+
+  time: 20150404183500
+  content: 
+  - name: 包子
+    amount: 2
+    unit: 个
