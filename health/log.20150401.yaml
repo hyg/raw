@@ -1,0 +1,18 @@
+wake: 20150401055000
+sleep: 201504012300
+exercise: 
+- time: 20150401085500
+  item: 
+  - type: ¶×Ç½
+    amount: 20
+    unit: turn
+  - type: ÅõÆø¹à¶¥
+    amount: 1
+    unit: turn
+  endheartrate: 68
+- time: 20150401150000
+  item: 
+  - type: ÅõÆø¹à¶¥
+    amount: 1
+    unit: turn
+  endheartrate: 63

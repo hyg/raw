@@ -1,0 +1,18 @@
+wake: 20150402060000
+sleep: 201504022300
+exercise:
+- time: 20150402093500
+  item:
+  - type: pilates.p057
+    amount: 5
+    unit: turn
+  - type: 平板支撑
+    amount: 1
+    unit: turn
+  endheartrate: 70
+- time: 20150402154500
+  item:
+  - type: 平板支撑
+    amount: 1
+    unit: turn
+  endheartrate: 71

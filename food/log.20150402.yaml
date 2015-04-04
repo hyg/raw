@@ -1,0 +1,82 @@
+breakfast: |+
+  time: 20150402064500
+  content: 
+  - name: 杂粮粥
+    amount: 40
+    unit: g
+  - name: 麦胚芽
+    amount: 10
+    unit: g
+  - name: 海鸭蛋
+    amount: 1
+    unit: 个
+lunch: |+
+  time: 20150402113000
+  content: 
+  - name: 麦片
+    amount: 60
+    unit: g
+dinner: |+
+  time: 20150402181000
+  content: 
+  - name: 肉包
+    amount: 2
+    unit: 个
+  - name: 菜包
+    amount: 2
+    unit: 个
+  - name: 胡萝卜
+    amount: 250
+    unit: g 
+  - name: 菠菜
+    amount: 250
+    unit: g
+water: 
+- time: 20150402080500
+  type: 龙井茶
+  amount: 300
+  unit: ml
+- time: 20150402083500
+  type: 龙井茶
+  amount: 200
+  unit: ml
+- time: 20150402090000
+  type: 龙井茶
+  amount: 300
+  unit: ml
+- time: 20150402105000
+  type: 龙井茶
+  amount: 300
+  unit: ml
+- time: 20150402123500
+  type: 开水
+  amount: 300
+  unit: ml
+- time: 20150402150000
+  type: 开水
+  amount: 300
+  unit: ml
+- time: 20150402150000
+  type: 奶粉
+  amount: 25
+  unit: g
+- time: 20150402150000
+  type: 可可
+  amount: 2
+  unit: g
+- time: 20150402154500
+  type: 开水
+  amount: 300
+  unit: ml
+- time: 20150402173500
+  type: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20150402173500
+  type: 开水
+  amount: 200
+  unit: ml
+comment: |+
+  粗粮摄入良好
+  水摄入量略显不足，晨起没有喝水
+  柠檬水需要该在餐前半小时之前喝   
