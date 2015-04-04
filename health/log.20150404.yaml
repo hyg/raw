@@ -14,3 +14,27 @@ exercise:
     amount: 5
     unit: turn
   endheartrate: 76
+- time: 20150404150000
+  item: 
+  - type: ¶×Ç½
+    amount: 20
+    unit: turn
+  - type: ÅõÆø¹à¶¥
+    amount: 1
+    unit: turn
+  endheartrate: 85
+- time: 20150404160000
+  item: 
+  - type: pilates.p033
+    amount: 10
+    unit: turn
+  - type: pilates.p057
+    amount: 10
+    unit: turn
+  - type: pilates.p034
+    amount: 5
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 73
