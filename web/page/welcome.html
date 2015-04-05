@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  	<title>欢迎</title>
+  	<meta charset="UTF-8"> 
+  	<link rel="stylesheet" type="text/css" href="web/css/sidebar.css" />
+	<link rel="stylesheet" type="text/css" href="web/css/pure-min.css" />
+</head>
+	<body>
+	<!--content begin-->
+		<div class="header" align="center">
+			<h2>首页</h2>
+			<hr>
+		</div>
+		<div class="pure-g">
+		
+		    <div class="pure-u-1-2"  align="center"> 
+				食物：<br>
+				<p>
+				<a href="patient/search">查找</a>
+				<a href="patient/new">新增</a>
+				</p>
+			</div>
+			
+		    <div class="pure-u-1-2"  align="center">
+				健康：<br>
+				<p>
+				{{range .}}
+				<a href="case/detial?CaseID={{.CaseID}}">{{.PatientName}} : [{{.CreateTime}}]</a> <br>
+				{{end}}
+				</p>
+			</div>
+		</div>
+	<!--content end-->
+		<div class="nav">
+			<div class="home">
+			  <span>RAW</span>
+			</div>
+			<div class="sidebar">
+				<ul>
+					<li onclick="window.location.href='/'">Home</li>
+					<li class="devider"></li>
+					<li onclick="window.location.href='/food'">食物日志</li>
+					<li class="devider"></li>
+					<li onclick="window.location.href='/health'">健康日志</li>
+				</ul>
+			</div>
+		</div>
+	</body>
+</html>
