@@ -1,0 +1,49 @@
+breakfast:|+
+  time:20150405064500
+  content:
+  - name:白粥
+    amount:25
+    unit:g
+  - name:包子
+    amount:3
+    unit:个
+lunch: 
+- time: 20150405113000
+  content: 
+  - name: 鸭肉
+    amount: 300
+    unit: g
+  - name: 苦荞面
+    amount: 60
+    unit: g
+  - name: 茄子
+    amount: 200
+    unit: g
+water:
+- time:20150405064500
+  type:开水
+  amount:250
+  unit:ml
+- time:20150405083500
+  type:开水
+  amount:250
+  unit:ml
+- time:20150405093000
+  type:开水
+  amount:250
+  unit:ml
+- time:20150405102500
+  type:开水
+  amount:200
+  unit:ml
+- time:20150405132000
+  type:开水
+  amount:500
+  unit:ml
+snack: 
+- time: 20150405063500
+  content: 
+  - name: 梨
+    amount: 1
+    unit: 个
+
