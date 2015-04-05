@@ -40,10 +40,39 @@ water:
   type:¿ªË®
   amount:500
   unit:ml
+- time:20150405143000
+  type:Áú¾®²è
+  amount:500
+  unit:ml
+- time:20150405152000
+  type:Áú¾®²è
+  amount:500
+  unit:ml
+- time:20150405162500
+  type:Áú¾®²è
+  amount:200
+  unit:ml
+- time:20150405172000
+  type:ÄûÃÊË®
+  amount:500
+  unit:ml
+dinner: 
+- time: 20150405181000
+  content: 
+  - name: Ñ©»¨Ãæ
+    amount: 50
+    unit: g
+  - name: ÂÜ²·
+    amount: 750
+    unit: g
 snack: 
 - time: 20150405063500
   content: 
   - name: Àæ
     amount: 1
     unit: ¸ö
-
+- time: 20150405161500
+  content: 
+  - name: ²¤ÂÜ
+    amount: 400
+    unit: g
