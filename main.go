@@ -24,16 +24,17 @@ func welcome(w http.ResponseWriter, r *http.Request) {
 	//c := cbarray[0:0]
 
 	t, _ := template.ParseFiles("web/page/welcome.html")
-	t.Execute(w, nil)
+	t.Execute(w, dslice)
 }
 
 func main() {
 	foodinit()
 	//foodtestdata()
-	return
+	//return
 
 	openbrowser("http://127.0.0.1:9253")
 	http.HandleFunc("/", welcome)
+	http.HandleFunc("/food/daylog", fooddaylog)
 
 	// static files
 	http.HandleFunc("/web/", func(w http.ResponseWriter, req *http.Request) {

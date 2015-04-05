@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh-cn">
 	<head>
-	  	<title>欢迎</title>
+	  	<title>食物日志</title>
 	  	<meta charset="UTF-8"> 
 	  	<link rel="stylesheet" type="text/css" href="/web/css/sidebar.css" />
 		<link rel="stylesheet" type="text/css" href="/web/css/pure-min.css" />
@@ -9,27 +9,22 @@
 	<body>
 	<!--content begin-->
 		<div class="header" align="center">
-			<h2>首页</h2>
+			<h2>食物日志</h2>
 			<hr>
 		</div>
-		<div class="pure-g">
-		    <div class="pure-u-1-2"  align="center"> 
-				食物：<br>
-				<p>
-				{{range .}}
-				<a href="food/daylog?date={{.Date}}">日期: [{{.Date}}]</a> <br>
+		<div >
+			<table class="pure-table pure-table-bordered" align="center" width="100%">
+				<thead><tr>
+					<th>名称</th><th>数量</th><th>单位</th>
+				</tr></thead>
+				<tbody>
+				{{range .Item}}
+					<tr  align="center">
+						<td>{{.Name}}</td><td>{{.Amount}}</td><td>{{.Unit}}</td>
+					</tr>
 				{{end}}
-				</p>
-			</div>
-			
-		    <div class="pure-u-1-2"  align="center">
-				健康：<br>
-				<p>
-				{{range .}}
-				<a href="health/daylog?date={{.Date}}">日期 : [{{.Date}}]</a> <br>
-				{{end}}
-				</p>
-			</div>
+				</tbody>
+			</table>
 		</div>
 	<!--content end-->
 		<div class="nav">

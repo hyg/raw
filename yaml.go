@@ -31,10 +31,12 @@ type FoodDayLog struct {
 }
 
 var index Index
-var dlog []FoodDayLog
+var dslice []FoodDayLog
+var dmap map[string]FoodDayLog
 
 func foodinit() {
 	var d FoodDayLog
+	dmap = make(map[string]FoodDayLog)
 	filepath.Walk("food",
 		func(path string, info os.FileInfo, err error) error {
 			if strings.Contains(path, "food\\log.") {
@@ -45,7 +47,8 @@ func foodinit() {
 				log.Printf("path=%s\ninfo=%v", path, info)
 				dbyte, _ := ioutil.ReadFile(path)
 				yaml.Unmarshal(dbyte, &d)
-				dlog = append(dlog, d)
+				dslice = append(dslice, d)
+				dmap[d.Date] = d
 			}
 
 			if strings.Contains(path, "food\\m.") {
@@ -54,11 +57,12 @@ func foodinit() {
 			return nil
 		})
 
-	log.Print(dlog)
+	log.Print(dslice)
+	log.Print(dmap)
 }
 
 func foodtestdata() {
-	dtest := FoodDayLog{"20150401", []FoodItem{{"20150401120000", "water", 250, "ml"}, {"20150401130000", "面条", 150, "g"}}, []FoodItem{{"20150401120000", "water", 250, "ml"}, {"20150401130000", "面条", 150, "g"}}, 0, "comment..."}
+	dtest := FoodDayLog{"20150401", []FoodItem{{"20150401120000", "water", 250, "ml"}, {"20150401130000", "面条", 150, "g"}}, []FoodItem{{"20150401120000", "water", 250, "ml"}, {"20150401130000", "面条", 150, "g"}}, "comment..."}
 	d, _ := yaml.Marshal(&dtest)
 	log.Print(string(d))
 }
