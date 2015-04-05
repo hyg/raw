@@ -1,81 +1,86 @@
 breakfast:|+
   time:20150405064500
   content:
-  - name:°×Öà
+  - name:ç™½ç²¥
     amount:25
     unit:g
-  - name:°ü×Ó
+  - name:åŒ…å­
     amount:3
-    unit:¸ö
+    unit:ä¸ª
 lunch: 
 - time: 20150405113000
   content: 
-  - name: Ñ¼Èâ
+  - name: é¸­è‚‰
     amount: 300
     unit: g
-  - name: ¿àÜñÃæ
+  - name: è‹¦èé¢
     amount: 60
     unit: g
-  - name: ÇÑ×Ó
+  - name: èŒ„å­
     amount: 200
     unit: g
-  - name: º£Ñ¼µ°
+  - name: æµ·é¸­è›‹
     amount: 1
-    unit: ¸ö
+    unit: ä¸ª
 water:
 - time:20150405064500
-  type:¿ªË®
+  type:å¼€æ°´
   amount:250
   unit:ml
 - time:20150405083500
-  type:¿ªË®
+  type:å¼€æ°´
   amount:250
   unit:ml
 - time:20150405093000
-  type:¿ªË®
+  type:å¼€æ°´
   amount:250
   unit:ml
 - time:20150405102500
-  type:¿ªË®
+  type:å¼€æ°´
   amount:200
   unit:ml
 - time:20150405132000
-  type:¿ªË®
+  type:å¼€æ°´
   amount:500
   unit:ml
 - time:20150405143000
-  type:Áú¾®²è
+  type:é¾™äº•èŒ¶
   amount:500
   unit:ml
 - time:20150405152000
-  type:Áú¾®²è
+  type:é¾™äº•èŒ¶
   amount:500
   unit:ml
 - time:20150405162500
-  type:Áú¾®²è
+  type:é¾™äº•èŒ¶
   amount:200
   unit:ml
 - time:20150405172000
-  type:ÄûÃÊË®
+  type:æŸ æª¬æ°´
   amount:500
   unit:ml
 dinner: 
 - time: 20150405181000
   content: 
-  - name: Ñ©»¨Ãæ
+  - name: é›ªèŠ±é¢
     amount: 50
     unit: g
-  - name: ÂÜ²·
+  - name: èåœ
     amount: 750
     unit: g
 snack: 
 - time: 20150405063500
   content: 
-  - name: Àæ
+  - name: æ¢¨
     amount: 1
-    unit: ¸ö
+    unit: ä¸ª
 - time: 20150405161500
   content: 
-  - name: ²¤ÂÜ
+  - name: è è
     amount: 400
     unit: g
+    
+    comment: |+
+åˆæ­¥åˆ¤æ–­è¥å…»æ‘„å…¥è‰¯å¥½
+
+

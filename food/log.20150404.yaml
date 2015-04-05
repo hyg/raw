@@ -1,82 +1,90 @@
 breakfast:|+
   time:20150404070500
   content:
-  - name:ÔÓÁ¸Öà
+  - name:æ‚ç²®ç²¥
     amount:40
     unit:g
-  - name:ÂóÅßÑ¿
+  - name:éº¦èƒšèŠ½
     amount:10
     unit:g
-  - name:º£Ñ¼µ°
+  - name:æµ·é¸­è›‹
     amount:1
-    unit:¸ö
-  - name:Èâ°ü
+    unit:ä¸ª
+  - name:è‚‰åŒ…
     amount:2
-    unit:¸ö
-  - name:×ÏÊí
+    unit:ä¸ª
+  - name:ç´«è–¯
     amount:60
     unit:g
 lunch: 
 - time: 20150404133000
   content: 
-  - name: ×Ï²Ë
+  - name: ç´«èœ
     amount: 15
     unit: g
-  - name: ÃæÌõ
+  - name: é¢æ¡
     amount: 60
     unit: g
-  - name: ·¬ÇÑ½´
+  - name: ç•ªèŒ„é…±
     amount: 25
     unit: g
-  - name: ÇÑ×Ó
+  - name: èŒ„å­
     amount: 300
     unit: g
 snack: 
 - time: 20150404100000
   content: 
-  - name: ÄÌ·Û
+  - name: å¥¶ç²‰
     amount: 45
     unit: g
-  - name: ¿É¿É·Û
+  - name: å¯å¯ç²‰
     amount: 3
     unit: g
 
 water:
 - time:20150404064500
-  type:¿ªË®
+  type:å¼€æ°´
   amount:500
   unit:ml
 - time:20150404083000
-  type:¿ªË®
+  type:å¼€æ°´
   amount:100
 - time:20150404091000
-  type:¿ªË®
+  type:å¼€æ°´
   amount:100
 - time:20150404112000
-  type:¿ªË®
+  type:å¼€æ°´
   amount:300
 - time:20150404111000
-  type:¿ªË®
+  type:å¼€æ°´
   amount:300
 - time:20150404141000
-  type:¿ªË®
+  type:å¼€æ°´
   amount:100
 - time:20150404143000
-  type:±ÌÂİ´º
+  type:ç¢§èºæ˜¥
   amount:300
 - time:20150404151000
-  type:±ÌÂİ´º
+  type:ç¢§èºæ˜¥
   amount:300
 - time:20150404165000
-  type:±ÌÂİ´º
+  type:ç¢§èºæ˜¥
   amount:300
 - time: 20150404184000
-  type: ÄûÃÊË®
+  type: æŸ æª¬æ°´
   amount: 450
   unit: ml
 dinner: |+
   time: 20150404183500
   content: 
-  - name: °ü×Ó
+  - name: åŒ…å­
     amount: 2
-    unit: ¸ö
+    unit: ä¸ª
+    
+    
+    comment: |+
+ åˆæ­¥åˆ¤æ–­è¥å…»æ‘„å…¥è‰¯å¥½
+ åˆåæ’æ°”è¾ƒå¤šï¼Ÿï¼ŸåŸå› ï¼Ÿ
+
+
+

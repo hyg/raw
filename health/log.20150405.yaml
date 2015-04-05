@@ -2,16 +2,16 @@ sleep: 20150405020000
 wake: 20150405051500
 stool:
 - time: 20150405140000
-  amount: 2 # 1:¶à;2:ÊÊÖĞ;3:ÉÙ
-  type: 2 # Ë®Ñù:0;Èí:1;ÊÊÖĞ:2;Ó²:3
-  diffcault: 1 # 1:²»À§ÄÑ;2:À§ÄÑ
+  amount: 2 # 1:å¤š;2:é€‚ä¸­;3:å°‘
+  type: 2 # æ°´æ ·:0;è½¯:1;é€‚ä¸­:2;ç¡¬:3
+  diffcault: 1 # 1:ä¸å›°éš¾;2:å›°éš¾
 exercise: 
 - time: 20150405095500
   item: 
-  - type: ¶×Ç½
+  - type: è¹²å¢™
     amount: 30
     unit: turn
-  - type: ÅõÆø¹à¶¥
+  - type: æ§æ°”çŒé¡¶
     amount: 1
     unit: turn
   endheartrate: 78
@@ -45,3 +45,6 @@ exercise:
     amount: 5
     unit: turn
   endheartrate: 75
+  
+  comment: |+
+ç¡çœ æ—¶é—´ä¸¥é‡ä¸è¶³ï¼ï¼ï¼
