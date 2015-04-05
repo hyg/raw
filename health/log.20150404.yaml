@@ -16,10 +16,10 @@ exercise:
   endheartrate: 76
 - time: 20150404150000
   item: 
-  - type: ��ǽ
+  - type: 蹲墙
     amount: 20
     unit: turn
-  - type: �����ඥ
+  - type: 捧气灌顶
     amount: 1
     unit: turn
   endheartrate: 85
@@ -38,3 +38,9 @@ exercise:
     amount: 5
     unit: turn
   endheartrate: 73
+  
+  comment: |+
+ 晚上需要11点半前上床睡觉
+  
+  
+  
