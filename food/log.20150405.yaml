@@ -19,6 +19,9 @@ lunch:
   - name: 茄子
     amount: 200
     unit: g
+  - name: 海鸭蛋
+    amount: 1
+    unit: 个
 water:
 - time:20150405064500
   type:开水

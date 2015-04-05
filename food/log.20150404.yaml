@@ -31,6 +31,16 @@ lunch:
   - name: 茄子
     amount: 300
     unit: g
+snack: 
+- time: 20150404100000
+  content: 
+  - name: 奶粉
+    amount: 45
+    unit: g
+  - name: 可可粉
+    amount: 3
+    unit: g
+
 water:
 - time:20150404064500
   type:开水
