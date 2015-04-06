@@ -1,0 +1,29 @@
+sleep: 20150405235000
+wake: 20150406063500
+exercise: 
+- time: 20150406142000
+  item: 
+  - type: 蹲墙
+    amount: 20
+    unit: turn
+  - type: 捧气灌顶
+    amount: 1
+    unit: turn
+  endheartrate: 81
+- time: 20150405210000
+  item: 
+  - type: pilates.p053
+    amount: 10
+    unit: turn
+  - type: fw01
+    amount: 5
+    unit: turn
+  - type: pilates.p032
+    amount: 10
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 75
+comment: |+
+  ...
