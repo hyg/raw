@@ -1,5 +1,11 @@
 sleep: 20150406232000
 wake: 20150407063000
+stool:
+stool:
+- time: 20150407193000
+  amount: 2 # 1:多;2:适中;3:少
+  type: 2 # 水样:0;软:1;适中:2;硬:3
+  diffcault: 1 # 1:不困难;2:困难
 exercise: 
 - time: 20150407070000
   item: 
@@ -25,5 +31,24 @@ exercise:
     amount: 1
     unit: turn
   endheartrate: 77
+- time: 20150407153000
+  item: 
+  - type: 蹲墙
+    amount: 30
+    unit: turn
+  - type: 平板支撑
+    amount: 3
+    unit: turn
+  endheartrate: 66
+- time: 20150407224000
+  item: 
+  - type: pilates.p053
+    amount: 10
+    unit: turn
+  - type: fw01
+    amount: 5
+    unit: turn
+  endheartrate: 70
+
 comment: |+
   ...

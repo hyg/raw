@@ -32,6 +32,22 @@ food:
   name: 葡萄干
   amount: 20
   unit: g
+- time: 20150407174000
+  name: 冬瓜
+  amount: 150
+  unit: g
+- time: 20150407174000
+  name: 紫菜
+  amount: 15
+  unit: g
+- time: 20150407174000
+  name: 元宵
+  amount: 3
+  unit: 个
+- time: 20150407203000
+  name: 杂粮粥
+  amount: 50
+  unit: g
 water:
 - time: 20150407064000
   name: 开水
@@ -44,6 +60,22 @@ water:
 - time: 20150407094500
   name: 开水
   amount: 300
+  unit: ml
+- time: 20150407142000
+  name: 龙井茶
+  amount: 300
+  unit: ml
+- time: 20150407153000
+  name: 龙井茶
+  amount: 300
+  unit: ml
+- time: 20150407160500
+  name: 龙井茶
+  amount: 300
+  unit: ml
+- time: 20150407173000
+  name: 柠檬水
+  amount: 500
   unit: ml
 comment: |+
   ...
