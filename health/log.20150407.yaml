@@ -16,5 +16,14 @@ exercise:
     amount: 5
     unit: turn
   endheartrate: 74
+- time: 20150407093000
+  item: 
+  - type: 蹲墙
+    amount: 20
+    unit: turn
+  - type: 捧气灌顶
+    amount: 1
+    unit: turn
+  endheartrate: 77
 comment: |+
   ...

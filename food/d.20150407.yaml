@@ -12,8 +12,36 @@ food:
   name: 奶粉
   amount: 30
   unit: g
+- time: 20150407114000
+  name: 海带
+  amount: 15
+  unit: g
+- time: 20150407114000
+  name: 菠菜
+  amount: 15
+  unit: g
+- time: 20150407114000
+  name: 虾米
+  amount: 5
+  unit: g
+- time: 20150407120000
+  name: 麦片
+  amount: 60
+  unit: g
+- time: 20150407120000
+  name: 葡萄干
+  amount: 20
+  unit: g
 water:
 - time: 20150407064000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150407071000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150407094500
   name: 开水
   amount: 300
   unit: ml
