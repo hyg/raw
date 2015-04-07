@@ -9,15 +9,15 @@ food:
   amount: 400
   unit: g
 - time: 20150407072000
-  name: 奶粉
-  amount: 30
+  name: 酸奶
+  amount: 250
   unit: g
 - time: 20150407114000
   name: 海带
   amount: 15
   unit: g
 - time: 20150407114000
-  name: 菠菜
+  name: 干菠菜
   amount: 15
   unit: g
 - time: 20150407114000
