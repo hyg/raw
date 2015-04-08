@@ -1,0 +1,43 @@
+sleep: 
+  time: 20150407232500
+  wright: 54.3
+wake: 
+  time: 20150408061400
+  weight: 54.1
+stool:
+exercise: 
+- time: 20150408064000
+  item: 
+  - type: pilates.p053
+    amount: 10
+    unit: turn
+  - type: fw02
+    amount: 5
+    unit: turn
+  - type: pilates.p032
+    amount: 10
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 85
+- time: 20150408112000
+  item: 
+  - type: 蹲墙
+    amount: 20
+    unit: turn
+  - type: 捧气灌顶
+    amount: 1
+    unit: turn
+  endheartrate: 73
+- time: 20150408150000
+  item: 
+  - type: 蹲墙
+    amount: 30
+    unit: turn
+  - type: 形神庄
+    amount: 1
+    unit: turn
+  endheartrate: 83
+comment: |+
+  ...
