@@ -1,0 +1,29 @@
+sleep: 
+  time: 20150411004700
+  wright: 53.8
+wake: 
+  time: 20150411082000
+  weight: 53.8
+stool:
+- time: 20150411100000
+  amount: 2 # 1:多;2:适中;3:少
+  type: 2 # 水样:0;软:1;适中:2;硬:3
+  diffcault: 1 # 1:不困难;2:困难
+exercise: 
+- time: 20150411083000
+  item: 
+  - type: pilates.p053
+    amount: 10
+    unit: turn
+  - type: fw01
+    amount: 15
+    unit: turn
+  - type: pilates.p032
+    amount: 11
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 67
+comment: |+
+  ... 
