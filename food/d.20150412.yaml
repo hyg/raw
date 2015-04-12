@@ -1,0 +1,33 @@
+date: 20150412
+food:
+- time: 20150412055000
+  name: 香蕉
+  amount: 200
+  unit: g
+- time: 20150411084500
+  name: 杂粮粥
+  amount: 60
+  unit: g
+- time: 20150411084500
+  name: 麦胚芽
+  amount: 15
+  unit: g
+- time: 20150411084500
+  name: 包子
+  amount: 2
+  unit: 个
+water:
+- time: 20150412055000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20150412085400
+  name: 开水
+  amount: 350
+  unit: ml
+- time: 20150412100500
+  name: 开水
+  amount: 350
+  unit: ml
+comment: |+
+  ...

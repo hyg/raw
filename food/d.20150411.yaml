@@ -1,96 +1,96 @@
 date: 20150411
 food:
 - time: 20150411084500
-  name: æ‚ç²®ç²¥
+  name: ÔÓÁ¸Öà
   amount: 60
   unit: g
 - time: 20150411084500
-  name: éº¦èƒšèŠ½
+  name: ÂóÅßÑ¿
   amount: 15
   unit: g
 - time: 20150411084500
-  name: åŒ…å­
+  name: °ü×Ó
   amount: 2
-  unit: ä¸ª
+  unit: ¸ö
 - time: 20150411084500
-  name: é…¸å¥¶
+  name: ËáÄÌ
   amount: 250
   unit: ml
 - time: 20150411114500
-  name: å¥¶ç²‰
+  name: ÄÌ·Û
   amount: 25
   unit: g
 - time: 20150411133500
-  name: é¢æ¡
+  name: ÃæÌõ
   amount: 70
   unit: g
 - time: 20150411133500
-  name: å†¬ç“œ
+  name: ¶¬¹Ï
   amount: 150
   unit: g
 - time: 20150411133500
-  name: ç´«èœ
+  name: ×Ï²Ë
   amount: 10
   unit: g
 - time: 20150411164000
-  name: è è
+  name: ²¤ÂÜ
   amount: 100
   unit: g
 - time: 20150411192000
-  name: è±†è…
+  name: ¶¹¸¯
   amount: 150
   unit: g
 - time: 20150411192000
-  name: æµ·å¸¦
+  name: º£´ø
   amount: 15
   unit: g
 - time: 20150411192000
-  name: è‹¦ç“œ
+  name: ¿à¹Ï
   amount: 150
   unit: g
 - time: 20150411192000
-  name: è‘›æ ¹ç²‰
+  name: ¸ğ¸ù·Û
   amount: 10
   unit: g
 - time: 20150411201000
-  name: è‘›æ ¹ç²‰
+  name: ¸ğ¸ù·Û
   amount: 100
   unit: g
 - time: 20150411201000
-  name: è‘¡è„å¹²
+  name: ÆÏÌÑ¸É
   amount: 20
   unit: g
 water:
 - time: 20150411062000
-  name: å¼€æ°´
+  name: ¿ªË®
   amount: 500
   unit: ml
 - time: 20150411105000
-  name: å¼€æ°´
+  name: ¿ªË®
   amount: 300
   unit: ml
 - time: 20150411121500
-  name: å¼€æ°´
+  name: ¿ªË®
   amount: 300
   unit: ml
 - time: 20150411152500
-  name: å¼€æ°´
+  name: ¿ªË®
   amount: 200
   unit: ml
 - time: 20150411165500
-  name: å¼€æ°´
+  name: ¿ªË®
   amount: 250
   unit: ml
 - time: 20150411175500
-  name: æŸ æª¬æ°´
+  name: ÄûÃÊË®
   amount: 500
   unit: ml
 - time: 20150411192000
-  name: æ±¤æ°´
+  name: ÌÀË®
   amount: 100
   unit: ml
 - time: 20150411201000
-  name: å¼€æ°´
+  name: ¿ªË®
   amount: 300
   unit: ml
 comment: |+
