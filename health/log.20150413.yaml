@@ -1,9 +1,18 @@
 sleep: 
-  time: 20150412231300
+  time: 20150413031300
   wright: 54.4
 wake: 
   time: 20150412065300
   weight: 53.9
 exercise: 
+- time: 20150413103000
+  item: 
+  - type: 蹲墙
+    amount: 20
+    unit: turn
+  - type: 捧气灌顶
+    amount: 1
+    unit: turn
+  endheartrate: 72
 comment: |+
   ... 
