@@ -16,6 +16,42 @@ food:
   name: 切糕
   amount: 100
   unit: g
+- time: 20150413115000
+  name: 麦片
+  amount: 60
+  unit: g
+- time: 20150413115000
+  name: 奶粉
+  amount: 25
+  unit: g
+- time: 20150413171000
+  name: 香蕉
+  amount: 250
+  unit: g
+- time: 20150413174000
+  name: 苦瓜
+  amount: 750
+  unit: g
+- time: 20150413115000
+  name: 蛋羹
+  amount: 50
+  unit: g
+- time: 20150413195000
+  name: 馒头
+  amount: 1
+  unit:个
+- time: 20150413195000
+  name: 海带
+  amount: 15
+  unit:g
+- time: 20150413195000
+  name: 番茄酱
+  amount: 30
+  unit:g
+- time: 20150413195000
+  name: 酸奶
+  amount: 250
+  unit:g
 water:
 - time: 20150413065000
   name: 开水
@@ -23,6 +59,18 @@ water:
   unit: ml
 - time: 20150413094000
   name: 开水
+  amount: 300
+  unit: ml
+- time: 20150413144000
+  name: 龙井茶
+  amount: 400
+  unit: ml
+- time: 20150413164500
+  name: 龙井茶
+  amount: 300
+  unit: ml
+- time: 20150413195000
+  name: 汤水
   amount: 300
   unit: ml
 comment: |+

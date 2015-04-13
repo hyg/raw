@@ -1,9 +1,9 @@
 sleep: 
   time: 20150413031300
-  wright: 54.4
+  wright: 55.1
 wake: 
   time: 20150412065300
-  weight: 53.9
+  weight: 54.3
 exercise: 
 - time: 20150413103000
   item: 
@@ -14,5 +14,26 @@ exercise:
     amount: 1
     unit: turn
   endheartrate: 72
+- time: 20150413123000
+  item: 
+  - type: 步行
+    amount: 70
+    unit: minute
+  endheartrate: 74
+- time: 20150413144500
+  item: 
+  - type: pilates.p065
+    amount: 10
+    unit: turn
+  - type: fw01
+    amount: 10
+    unit: turn
+  - type: pilates.p053
+    amount: 10
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 88
 comment: |+
   ... 
