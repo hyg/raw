@@ -13,6 +13,9 @@ import (
 type winfo struct {
 	DMAP map[string]FoodDayLog
 	HMAP map[string]HealthDayLog
+	D    string
+	W1   string
+	W2   string
 }
 
 func welcome(w http.ResponseWriter, r *http.Request) {
@@ -30,7 +33,7 @@ func welcome(w http.ResponseWriter, r *http.Request) {
 
 	t, _ := template.ParseFiles("web/page/welcome.html")
 	//t.Execute(w, dslice)
-	t.Execute(w, winfo{dmap, hmap})
+	t.Execute(w, winfo{dmap, hmap, d, w1, w2})
 	//log.Print(winfo{dmap, hmap})
 }
 

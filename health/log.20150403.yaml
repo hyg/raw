@@ -14,16 +14,16 @@ exercise:
   - type: pilates.p066.3
     amount: 5
     unit: turn
-  - type: Æ½°åÖ§³Å
+  - type: å¹³æ¿æ”¯æ’‘
     amount: 1
     unit: turn
   endheartrate: 72
 - time: 20150403131500
   item: 
-  - type: ¶×Ç½
+  - type: è¹²å¢™
     amount: 20
     unit: turn
-  - type: ÅõÆø¹à¶¥
+  - type: æ§æ°”çŒé¡¶
     amount: 1
     unit: turn
   endheartrate: 68

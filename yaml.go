@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"gopkg.in/yaml.v2"
 	"io/ioutil"
 	"log"
@@ -105,10 +106,16 @@ type HealthDayLog struct {
 }
 
 var hmap map[string]HealthDayLog
+var weightR string
+var d, w1, w2 string
 
 func healthinit() {
 	var h HealthDayLog
 	hmap = make(map[string]HealthDayLog)
+	d = "date <- c("
+	w1 = "weight1 <- c("
+	w2 = "weight2 <- c("
+	bFirst := true
 	filepath.Walk("health",
 		func(path string, info os.FileInfo, err error) error {
 			if strings.Contains(path, "health\\log.") {
@@ -117,6 +124,21 @@ func healthinit() {
 				yaml.Unmarshal(hbyte, &h)
 				hmap[h.Date] = h
 				log.Printf("path=%s\ndate=%s\ninfo=%v\n\n", path, h.Date, h)
+
+				if h.Date > "20150407" {
+					if bFirst {
+						d = fmt.Sprintf("%s%s", d, h.Date)
+						w1 = fmt.Sprintf("%s%v", w1, h.Sleep.Weight)
+						w2 = fmt.Sprintf("%s%v", w2, h.Wake.Weight)
+
+						bFirst = false
+					} else {
+						d = fmt.Sprintf("%s,%s", d, h.Date)
+						w1 = fmt.Sprintf("%s,%v", w1, h.Sleep.Weight)
+						w2 = fmt.Sprintf("%s,%v", w2, h.Wake.Weight)
+					}
+				}
+
 			}
 
 			if strings.Contains(path, "health\\m.") {
@@ -125,5 +147,11 @@ func healthinit() {
 			return nil
 		})
 
-	log.Print(hmap)
+	d = fmt.Sprintf("%s)", d)
+	w1 = fmt.Sprintf("%s)", w1)
+	w2 = fmt.Sprintf("%s)", w2)
+
+	log.Print(d)
+	log.Print(w1)
+	log.Print(w2)
 }

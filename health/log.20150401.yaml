@@ -7,22 +7,22 @@ wake:
   weight: 54.0
 stool:
 - time: 20150401200000
-  amount: 2 	# 				1:¶à;		2:ÊÊÖĞ;		3:ÉÙ;
-  type: 2 		# 	0:Ë®Ñù;		1:Èí;		2:ÊÊÖĞ;		3:Ó²;
-  diffcult: 1 	# 				1:²»À§ÄÑ;	2:À§ÄÑ;
+  amount: 2 	# 				1:å¤š;		2:é€‚ä¸­;		3:å°‘;
+  type: 2 		# 	0:æ°´æ ·;		1:è½¯;		2:é€‚ä¸­;		3:ç¡¬;
+  diffcult: 1 	# 				1:ä¸å›°éš¾;	2:å›°éš¾;
 exercise: 
 - time: 20150401085500
   item: 
-  - type: "¶×Ç½"
+  - type: "è¹²å¢™"
     amount: 20
     unit: turn
-  - type: "ÅõÆø¹à¶¥"
+  - type: "æ§æ°”çŒé¡¶"
     amount: 1
     unit: turn
   endheartrate: 68
 - time: 20150401150000
   item: 
-  - type: "ÅõÆø¹à¶¥"
+  - type: "æ§æ°”çŒé¡¶"
     amount: 1
     unit: turn
   endheartrate: 63
