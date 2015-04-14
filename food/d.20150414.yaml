@@ -32,6 +32,18 @@ food:
   name: 蛋羹
   amount: 50
   unit: g
+- time: 20150414202000
+  name: 西葫芦
+  amount: 200
+  unit: g
+- time: 20150414202000
+  name: 紫菜
+  amount: 10
+  unit: g
+- time: 20150414202000
+  name: 番茄酱
+  amount: 15
+  unit: g
 water:
 - time: 20150414071000
   name: 开水
@@ -60,6 +72,10 @@ water:
 - time: 20150414150000
   name: 龙井茶
   amount: 400
+  unit: ml
+- time: 20150414150000
+  name: 龙井茶
+  amount: 300
   unit: ml
 comment: |+
   ...
