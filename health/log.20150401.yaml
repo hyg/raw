@@ -1,21 +1,30 @@
-sleep: 201503312300
-wake: 20150401055000
+date: 20150401
+sleep: 
+  time: 20150331230000
+  weight: 54.5
+wake: 
+  time: 20150401055000
+  weight: 54.0
 stool:
-- time: 201504012000
-  type: 正常
+- time: 20150401200000
+  amount: 2 	# 				1:多;		2:适中;		3:少;
+  type: 2 		# 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 1 	# 				1:不困难;	2:困难;
 exercise: 
 - time: 20150401085500
   item: 
-  - type: 蹲墙
+  - type: "蹲墙"
     amount: 20
     unit: turn
-  - type: 捧气灌顶
+  - type: "捧气灌顶"
     amount: 1
     unit: turn
   endheartrate: 68
 - time: 20150401150000
   item: 
-  - type: 捧气灌顶
+  - type: "捧气灌顶"
     amount: 1
     unit: turn
   endheartrate: 63
+comment: |+
+  ...

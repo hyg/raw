@@ -1,5 +1,10 @@
-sleep: 20150405235000
-wake: 20150406063500
+date: 20150406
+sleep: 
+  time: 20150405235000
+  weight: 54.5
+wake: 
+  time: 20150406063500
+  weight: 54.0
 exercise: 
 - time: 20150406142000
   item: 

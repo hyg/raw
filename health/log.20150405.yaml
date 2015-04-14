@@ -1,10 +1,15 @@
-sleep: 20150405020000
-wake: 20150405051500
+date: 20150405
+sleep: 
+  time: 20150405020000
+  weight: 54.5
+wake: 
+  time: 20150405051500
+  weight: 54.0
 stool:
 - time: 20150405140000
   amount: 2 # 1:多;2:适中;3:少
   type: 2 # 水样:0;软:1;适中:2;硬:3
-  diffcault: 1 # 1:不困难;2:困难
+  diffcult: 1 # 1:不困难;2:困难
 exercise: 
 - time: 20150405095500
   item: 
@@ -45,6 +50,5 @@ exercise:
     amount: 5
     unit: turn
   endheartrate: 75
-  
-  comment: |+
-睡眠时间严重不足！！！
+comment: |+
+  睡眠时间严重不足！！！

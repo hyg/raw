@@ -1,6 +1,10 @@
-sleep: 201504022300
-wake: 20150403063000
-stool:
+date: 20150403
+sleep: 
+  time: 20150402230000
+  weight: 54.5
+wake: 
+  time: 20150403063000
+  weight: 54.0
 exercise: 
 - time: 20150403111000
   item: 
@@ -23,3 +27,5 @@ exercise:
     amount: 1
     unit: turn
   endheartrate: 68
+comment: |+
+  ...

@@ -10,6 +10,11 @@ import (
 	"strings"
 )
 
+type winfo struct {
+	DMAP map[string]FoodDayLog
+	HMAP map[string]HealthDayLog
+}
+
 func welcome(w http.ResponseWriter, r *http.Request) {
 	r.ParseForm() //解析参数，默认是不会解析的
 	fmt.Println("method", r.Method)
@@ -24,11 +29,14 @@ func welcome(w http.ResponseWriter, r *http.Request) {
 	//c := cbarray[0:0]
 
 	t, _ := template.ParseFiles("web/page/welcome.html")
-	t.Execute(w, dslice)
+	//t.Execute(w, dslice)
+	t.Execute(w, winfo{dmap, hmap})
+	//log.Print(winfo{dmap, hmap})
 }
 
 func main() {
 	foodinit()
+	healthinit()
 	//foodtestdata()
 	//return
 

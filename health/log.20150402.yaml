@@ -1,11 +1,16 @@
-sleep: 201504012300
-wake: 20150402060000
+date: 20150402
+sleep: 
+  time: 20150401230000
+  weight: 54.5
+wake: 
+  time: 20150402060000
+  weight: 54.0
 stool:
 - time: 201504022000
-  type: 正常
+  amount: 2 	# 				1:多;		2:适中;		3:少;
+  type: 2 		# 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 1 	# 				1:不困难;	2:困难;
 exercise:
-- time: 201504012000
-  type: 正常
 - time: 20150402093500
   item:
   - type: pilates.p057
@@ -21,3 +26,5 @@ exercise:
     amount: 1
     unit: turn
   endheartrate: 71
+comment: |+
+  ...

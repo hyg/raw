@@ -1,5 +1,10 @@
-sleep: 20150403235000
-wake: 20150404061500
+date: 20150404
+sleep: 
+  time: 20150403235000
+  weight: 54.5
+wake: 
+  time: 20150404061500
+  weight: 54.0
 stool:
 exercise: 
 - time: 20150404114000
@@ -38,8 +43,7 @@ exercise:
     amount: 5
     unit: turn
   endheartrate: 73
-  
-  comment: |+
+comment: |+
  晚上需要11点半前上床睡觉
   
   

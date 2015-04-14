@@ -16,7 +16,7 @@
 		    <div class="pure-u-1-2"  align="center"> 
 				食物：<br>
 				<p>
-				{{range .}}
+				{{range .DMAP}}
 				<a href="food/daylog?date={{.Date}}">日期: [{{.Date}}]</a> <br>
 				{{end}}
 				</p>
@@ -25,7 +25,7 @@
 		    <div class="pure-u-1-2"  align="center">
 				健康：<br>
 				<p>
-				{{range .}}
+				{{range .HMAP}}
 				<a href="health/daylog?date={{.Date}}">日期 : [{{.Date}}]</a> <br>
 				{{end}}
 				</p>
