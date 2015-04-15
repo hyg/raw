@@ -34,13 +34,31 @@ type FoodDayLog struct {
 //var index Index
 var dmap map[string]FoodDayLog
 
+type Food struct {
+	Name    string
+	Amount  int
+	Unit    string
+	Element map[string]float64
+	NRV     map[string]float64
+}
+
+var fmap map[string]Food
+
 func foodinit() {
 	var d FoodDayLog
 	dmap = make(map[string]FoodDayLog)
+
+	var f Food
+	fmap = make(map[string]Food)
+
 	filepath.Walk("food",
 		func(path string, info os.FileInfo, err error) error {
-			if strings.Contains(path, "food\\log.") {
-				//log.Printf("path=%s\ninfo=%v", path, info)
+			if strings.Contains(path, "food\\e.") {
+				log.Printf("path=%s\ninfo=%v", path, info)
+				fbyte, _ := ioutil.ReadFile(path)
+				yaml.Unmarshal(fbyte, &f)
+				fmap[f.Name] = f
+				//log.Printf("fbyte=%s\nf=%v\n", fbyte, f)
 			}
 
 			if strings.Contains(path, "food\\d.") {
@@ -56,13 +74,20 @@ func foodinit() {
 			return nil
 		})
 
-	//log.Print(dmap)
+	log.Print(fmap)
 }
 
 func foodtestdata() {
 	dtest := FoodDayLog{"20150401", []FoodItem{{"20150401120000", "water", 250, "ml"}, {"20150401130000", "面条", 150, "g"}}, []FoodItem{{"20150401120000", "water", 250, "ml"}, {"20150401130000", "面条", 150, "g"}}, "comment..."}
 	d, _ := yaml.Marshal(&dtest)
 	log.Print(string(d))
+}
+
+func foodelementinit() {
+	//f := Food{"奶粉", 100, "g", map[string]float64{"蛋白质": 23.2, "钙": 15.4, "脂肪": 5.6}, map[string]float64{"蛋白质": 17.6, "钙": 3.4, "脂肪": 15.9}}
+	//d, _ := yaml.Marshal(&f)
+	//log.Printf("--- Food Element:\n%s\n\n", string(d))
+
 }
 
 type SleepPoint struct {
@@ -123,7 +148,7 @@ func healthinit() {
 				hbyte, _ := ioutil.ReadFile(path)
 				yaml.Unmarshal(hbyte, &h)
 				hmap[h.Date] = h
-				log.Printf("path=%s\ndate=%s\ninfo=%v\n\n", path, h.Date, h)
+				//log.Printf("path=%s\ndate=%s\ninfo=%v\n\n", path, h.Date, h)
 
 				if h.Date > "20150407" {
 					if bFirst {
@@ -151,7 +176,7 @@ func healthinit() {
 	w1 = fmt.Sprintf("%s)", w1)
 	w2 = fmt.Sprintf("%s)", w2)
 
-	log.Print(d)
-	log.Print(w1)
-	log.Print(w2)
+	//log.Print(d)
+	//log.Print(w1)
+	//log.Print(w2)
 }

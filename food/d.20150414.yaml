@@ -32,6 +32,10 @@ food:
   name: 蛋羹
   amount: 50
   unit: g
+- time: 201504141910000
+  name: 奶粉
+  amount: 25
+  unit: g
 - time: 20150414202000
   name: 西葫芦
   amount: 200

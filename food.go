@@ -14,7 +14,7 @@ type elementlist struct {
 
 type element struct {
 	Name   string
-	Amount int
+	Amount float64
 	Unit   string
 }
 
@@ -38,13 +38,36 @@ func fooddaylog(w http.ResponseWriter, r *http.Request) {
 			water := element{"water", 0, "ml"}
 			for _, v := range d.Water {
 				if v.Unit == "ml" {
-					water.Amount = water.Amount + v.Amount
+					water.Amount = water.Amount + float64(v.Amount)
 				}
 				if v.Unit == "l" {
-					water.Amount = water.Amount + 1000*v.Amount
+					water.Amount = water.Amount + float64(1000*v.Amount)
 				}
 			}
 			el.Item = append(el.Item, water)
+
+			emap := make(map[string]float64)
+			vmap := make(map[string]string)
+
+			for _, item := range d.Food {
+				f := fmap[item.Name]
+				a := item.Amount
+
+				for k, v := range f.Element {
+					_, ok := emap[k]
+					if ok {
+						emap[k] = float64(a) / float64(f.Amount) * v
+					} else {
+						emap[k] = emap[k] + float64(a)/float64(f.Amount)*v
+					}
+					vmap[k] = f.Unit
+				}
+			}
+
+			for k, v := range emap {
+				el.Item = append(el.Item, element{k, v, vmap[k]})
+			}
+
 		}
 		log.Print(el)
 

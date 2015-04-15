@@ -16,6 +16,14 @@ food:
   name: 酸奶
   amount: 250
   unit: ml
+- time: 20150415113500
+  name: 麦片
+  amount: 60
+  unit: g
+- time: 20150415113500
+  name: 鹰嘴豆
+  amount: 15
+  unit: g
 water:
 - time: 20150415063000
   name: 开水

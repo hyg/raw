@@ -38,6 +38,7 @@ func welcome(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
+	//foodelementinit()
 	foodinit()
 	healthinit()
 	//foodtestdata()
