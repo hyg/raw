@@ -118,7 +118,7 @@ func healthinit() {
 	bFirst := true
 	filepath.Walk("health",
 		func(path string, info os.FileInfo, err error) error {
-			if strings.Contains(path, "health\\log.") {
+			if strings.Contains(path, "health\\d.") {
 				//log.Printf("path=%s\ninfo=%v", path, info)
 				hbyte, _ := ioutil.ReadFile(path)
 				yaml.Unmarshal(hbyte, &h)

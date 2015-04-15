@@ -1,0 +1,87 @@
+date: 20150404
+food: 
+- time: 20150404070500
+  name: 杂粮粥
+  amount: 40
+  unit: g
+- time: 20150404070500
+  name: 麦胚芽
+  amount: 10
+  unit: g
+- time: 20150404070500
+  name: 海鸭蛋
+  amount: 1
+  unit: 个
+- time: 20150404070500
+  name: 肉包
+  amount: 2
+  unit: 个
+- time: 20150404070500
+  name: 紫薯
+  amount: 60
+  unit: g
+- time: 20150404133000
+  name: 紫菜
+  amount: 15
+  unit: g
+- time: 20150404133000
+  name: 面条
+  amount: 60
+  unit: g
+- time: 20150404133000
+  name: 番茄酱
+  amount: 25
+  unit: g
+- time: 20150404133000
+  name: 茄子
+  amount: 300
+  unit: g
+- time: 20150404100000
+  name: 奶粉
+  amount: 45
+  unit: g
+- time: 20150404100000
+  name: 可可粉
+  amount: 3
+  unit: g
+- time: 20150404183500
+  name: 包子
+  amount: 2
+  unit: 个
+water: 
+- time: 20150404064500
+  type: 开水
+  amount: 500
+  unit: ml
+- time: 20150404083000
+  type: 开水
+  amount: 100
+- time: 20150404091000
+  type: 开水
+  amount: 100
+- time: 20150404112000
+  type: 开水
+  amount: 300
+- time: 20150404111000
+  type: 开水
+  amount: 300
+- time: 20150404141000
+  type: 开水
+  amount: 100
+- time: 20150404143000
+  type: 碧螺春
+  amount: 300
+- time: 20150404151000
+  type: 碧螺春
+  amount: 300
+- time: 20150404165000
+  type: 碧螺春
+  amount: 300
+- time: 20150404184000
+  type: 柠檬水
+  amount: 450
+  unit: ml
+comment: |+
+ 初步判断营养摄入良好
+ 午后排气较多？？原因？
+ 

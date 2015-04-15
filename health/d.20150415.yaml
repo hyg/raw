@@ -1,0 +1,20 @@
+date: 20150415
+sleep: 
+  time: 20150414224900
+  weight: 54.7
+wake: 
+  time: 20150415062700
+  weight: 54.2
+stool:
+exercise: 
+- time: 20150415111500
+  item:
+  - type: pilates.p057蹲墙
+    amount: 20
+    unit: turn
+  - type: 捧气灌顶
+    amount: 1
+    unit: turn
+  endheartrate: 59
+comment: |+
+  ... 

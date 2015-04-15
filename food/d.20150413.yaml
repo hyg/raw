@@ -43,15 +43,15 @@ food:
 - time: 20150413195000
   name: 海带
   amount: 15
-  unit:g
+  unit: g
 - time: 20150413195000
   name: 番茄酱
   amount: 30
-  unit:g
+  unit: g
 - time: 20150413195000
   name: 酸奶
   amount: 250
-  unit:g
+  unit: g
 water:
 - time: 20150413065000
   name: 开水
