@@ -10,6 +10,7 @@ import (
 
 type elementlist struct {
 	Item []element
+	Food []FoodItem
 }
 
 type element struct {
@@ -36,7 +37,7 @@ func fooddaylog(w http.ResponseWriter, r *http.Request) {
 			d := dmap[r.Form["date"][0]]
 			log.Print(d.Water)
 
-			water := element{"water", 0, "ml", 0}
+			water := element{"水", 0, "ml", 0}
 			for _, v := range d.Water {
 				if v.Unit == "ml" {
 					water.Amount = water.Amount + float64(v.Amount)
@@ -54,8 +55,12 @@ func fooddaylog(w http.ResponseWriter, r *http.Request) {
 
 			for _, item := range d.Food {
 				log.Printf("FOOD:摄入%s\t %d %s", item.Name, item.Amount, item.Unit)
-				f := fmap[item.Name]
+				f, ok := fmap[item.Name]
 				a := item.Amount
+
+				if !ok {
+					el.Food = append(el.Food, item)
+				}
 
 				for k, v := range f.Element {
 

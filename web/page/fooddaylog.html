@@ -13,6 +13,7 @@
 			<hr>
 		</div>
 		<div >
+			<h4 align="center">成份表</h4>
 			<table class="pure-table pure-table-bordered" align="center" width="100%">
 				<thead><tr>
 					<th>名称</th><th>数量</th><th>单位</th><th>NRV</th>
@@ -21,6 +22,21 @@
 				{{range .Item}}
 					<tr  align="center">
 						<td>{{.Name}}</td><td>{{.Amount}}</td><td>{{.Unit}}</td><td>{{.NRV}}</td>
+					</tr>
+				{{end}}
+				</tbody>
+			</table>
+		</div>
+		<div >
+			<h4 align="center">未算入成份表的食物</h4>
+			<table class="pure-table pure-table-bordered" align="center" width="100%">
+				<thead><tr>
+					<th>名称</th><th>数量</th><th>单位</th><th>时间</th>
+				</tr></thead>
+				<tbody>
+				{{range .Food}}
+					<tr  align="center">
+						<td>{{.Name}}</td><td>{{.Amount}}</td><td>{{.Unit}}</td><td>{{.Time}}</td>
 					</tr>
 				{{end}}
 				</tbody>
