@@ -15,12 +15,12 @@
 		<div >
 			<table class="pure-table pure-table-bordered" align="center" width="100%">
 				<thead><tr>
-					<th>名称</th><th>数量</th><th>单位</th>
+					<th>名称</th><th>数量</th><th>单位</th><th>NRV</th>
 				</tr></thead>
 				<tbody>
 				{{range .Item}}
 					<tr  align="center">
-						<td>{{.Name}}</td><td>{{.Amount}}</td><td>{{.Unit}}</td>
+						<td>{{.Name}}</td><td>{{.Amount}}</td><td>{{.Unit}}</td><td>{{.NRV}}</td>
 					</tr>
 				{{end}}
 				</tbody>

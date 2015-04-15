@@ -4,7 +4,7 @@ sleep:
   weight: 53.8
 wake: 
   time: 20150411082000
-  weight: 53.8
+  weight: 53.5
 stool:
 - time: 20150411100000
   amount: 2 # 1:多;2:适中;3:少
