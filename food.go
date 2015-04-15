@@ -46,7 +46,7 @@ func fooddaylog(w http.ResponseWriter, r *http.Request) {
 					water.Amount = water.Amount + float64(1000*v.Amount)
 				}
 			}
-			water.NRV = water.Amount / 2000
+			water.NRV = water.Amount / 20
 			el.Item = append(el.Item, water)
 
 			emap := make(map[string]float64) //摄入量

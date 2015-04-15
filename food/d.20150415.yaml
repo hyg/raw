@@ -24,6 +24,26 @@ food:
   name: 鹰嘴豆
   amount: 15
   unit: g
+- time: 20150415153000
+  name: 鹰嘴豆
+  amount: 50
+  unit: g
+- time: 20150415160000
+  name: 馒头
+  amount: 75
+  unit: g
+- time: 20150415113500
+  name: 鱼肉
+  amount: 110
+  unit: g
+- time: 20150415184500
+  name: 菠萝
+  amount: 400
+  unit: g
+- time: 20150415195500
+  name: 西兰花
+  amount: 200
+  unit: g
 water:
 - time: 20150415063000
   name: 开水
@@ -36,6 +56,22 @@ water:
 - time: 20150415134000
   name: 开水
   amount: 300
+  unit: ml
+- time: 20150415143000
+  name: 碧螺春
+  amount: 300
+  unit: ml
+- time: 20150415151500
+  name: 碧螺春
+  amount: 300
+  unit: ml
+- time: 20150415164000
+  name: 碧螺春
+  amount: 300
+  unit: ml
+- time: 20150415181000
+  name: 柠檬水
+  amount: 700
   unit: ml
 comment: |+
   ...
