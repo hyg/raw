@@ -1,0 +1,24 @@
+date: 20150416
+sleep: 
+  time: 20150416001400
+  weight: 54.7
+wake: 
+  time: 20150416064000
+  weight: 54.2
+stool:
+- time: 20150414110000
+  amount: 3 	# 				1:多;		2:适中;		3:少;
+  type: 1 		# 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 1 	# 				1:不困难;	2:困难;
+exercise: 
+- time: 20150416093000
+  item:
+  - type: 蹲墙
+    amount: 30
+    unit: turn
+  - type: 捧气灌顶
+    amount: 1
+    unit: turn
+  endheartrate: 54
+comment: |+
+  ... 
