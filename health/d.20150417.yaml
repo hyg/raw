@@ -1,0 +1,25 @@
+date: 20150417
+sleep: 
+  time: 20150416231100
+  weight: 54.2
+wake: 
+  time: 2015041706330
+  weight: 53.8
+exercise: 
+- time: 20150417094000
+  item:
+  - type: 蹲墙
+    amount: 20
+    unit: turn
+  endheartrate: 81
+- time: 20150417200000
+  item: 
+  - type: pilates.p065
+    amount: 10
+    unit: turn
+  - type: fw01
+    amount: 10
+    unit: turn
+  endheartrate: 64
+comment: |+
+  ... 

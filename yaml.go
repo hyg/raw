@@ -47,18 +47,20 @@ var fmap map[string]Food
 func foodinit() {
 	var d FoodDayLog
 	dmap = make(map[string]FoodDayLog)
-
-	var f Food
 	fmap = make(map[string]Food)
 
 	filepath.Walk("food",
 		func(path string, info os.FileInfo, err error) error {
 			if strings.Contains(path, "food\\e.") {
+				var f Food
 				log.Printf("path=%s\ninfo=%v", path, info)
 				fbyte, _ := ioutil.ReadFile(path)
 				yaml.Unmarshal(fbyte, &f)
+				log.Printf("fmap1=%v\n", fmap)
+				log.Printf("f=%v\n", f)
 				fmap[f.Name] = f
-				//log.Printf("fbyte=%s\nf=%v\n", fbyte, f)
+				log.Printf("fmap2=%v\n", fmap)
+				//log.Printf("fbyte=%s\nf=%v\nf.Element=%v\n", fbyte, f, f.Element)
 			}
 
 			if strings.Contains(path, "food\\d.") {

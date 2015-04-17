@@ -60,21 +60,22 @@ func fooddaylog(w http.ResponseWriter, r *http.Request) {
 
 				if !ok {
 					el.Food = append(el.Food, item)
-				}
+				} else {
+					//log.Printf("f:%v\n f.Element:%v\n\n", f, f.Element)
+					for k, v := range f.Element {
+						//log.Printf("k:%v\t v:%v", k, v)
+						_, ok := emap[k]
+						if ok {
+							emap[k] = float64(a) / float64(f.Amount) * v
+							nmap[k] = float64(a) / float64(f.Amount) * f.NRV[k]
+						} else {
+							emap[k] = emap[k] + float64(a)/float64(f.Amount)*v
+							nmap[k] = nmap[k] + float64(a)/float64(f.Amount)*f.NRV[k]
+						}
+						vmap[k] = f.Unit
 
-				for k, v := range f.Element {
-
-					_, ok := emap[k]
-					if ok {
-						emap[k] = float64(a) / float64(f.Amount) * v
-						nmap[k] = float64(a) / float64(f.Amount) * f.NRV[k]
-					} else {
-						emap[k] = emap[k] + float64(a)/float64(f.Amount)*v
-						nmap[k] = nmap[k] + float64(a)/float64(f.Amount)*f.NRV[k]
+						log.Printf("ELEMNT:%s\t %f %s NRV:%f", k, emap[k], vmap[k], nmap[k])
 					}
-					vmap[k] = f.Unit
-
-					log.Printf("ELEMNT:%s\t %f %s NRV:%f", k, emap[k], vmap[k], nmap[k])
 				}
 			}
 
