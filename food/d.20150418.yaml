@@ -73,5 +73,9 @@ water:
   name: 龙井茶
   amount: 300
   unit: ml
+- time: 20150418203500
+  name: 龙井茶
+  amount: 300
+  unit: ml
 comment: |+
   ...

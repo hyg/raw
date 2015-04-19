@@ -65,7 +65,7 @@ func fooddaylog(w http.ResponseWriter, r *http.Request) {
 					for k, v := range f.Element {
 						//log.Printf("k:%v\t v:%v", k, v)
 						_, ok := emap[k]
-						if ok {
+						if !ok {
 							emap[k] = float64(a) / float64(f.Amount) * v
 							nmap[k] = float64(a) / float64(f.Amount) * f.NRV[k]
 						} else {
