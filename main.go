@@ -23,6 +23,9 @@ func welcome(w http.ResponseWriter, r *http.Request) {
 	fmt.Println("method", r.Method)
 	fmt.Println("path", r.URL.Path)
 
+	foodinit()
+	healthinit()
+
 	for k, v := range r.Form {
 		fmt.Println("key:", k)
 		fmt.Println("val:", strings.Join(v, ""))
