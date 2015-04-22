@@ -77,5 +77,9 @@ water:
   name: 开水
   amount: 300
   unit: ml
+- time: 20150422220000
+  name: 开水
+  amount: 150
+  unit: ml
 comment: |+
   ...
