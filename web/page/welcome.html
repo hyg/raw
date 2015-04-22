@@ -13,11 +13,11 @@
 			<hr>
 		</div>
 		<div class="pure-g">
-		    <div class="pure-u-1-2"  align="center"> 
+		    <div class="pure-u-1-2"  align="left"> 
 				食物：<br>
 				<p>
 				{{range .DMAP}}
-				<a href="/food/daylog?date={{.Date}}">日期: [{{.Date}}]</a> <br>
+				<a href="/food/daylog?date={{.Date}}">日期: [{{.Date}}]</a>评语：{{.Comment}} <br>
 				{{end}}
 				</p>
 			</div>
