@@ -24,6 +24,10 @@ food:
   name: 芋头
   amount: 300
   unit: g
+- time: 20150424201000
+  name: 白菜
+  amount: 400
+  unit: g
 water:
 - time: 20150424060000
   name: 开水
@@ -42,6 +46,10 @@ water:
   amount: 300
   unit: g
 - time: 20150424153000
+  name: 开水
+  amount: 300
+  unit: g
+- time: 20150424173000
   name: 开水
   amount: 300
   unit: g
