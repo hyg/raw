@@ -20,6 +20,66 @@ food:
   name: 杂粮粥
   amount: 60
   unit: g
+- time: 20150423131000
+  name: 海带
+  amount: 10
+  unit: g
+- time: 20150423134000
+  name: 麦片
+  amount: 60
+  unit: g
+- time: 20150423134000
+  name: 奶粉
+  amount: 25
+  unit: g
+- time: 20150423134000
+  name: 麦胚芽
+  amount: 10
+  unit: g
+- time: 20150423175000
+  name: 苦菊
+  amount: 250
+  unit: g
+- time: 20150423175000
+  name: 生菜
+  amount: 200
+  unit: g
+- time: 20150423175000
+  name: 油浸沙丁鱼
+  amount: 100
+  unit: g
+- time: 20150423175000
+  name: 馒头
+  amount: 40
+  unit: g
 water:
+- time: 20150423073000
+  name: 开水
+  amount: 200
+  unit: g
+- time: 20150423113000
+  name: 开水
+  amount: 400
+  unit: g
+- time: 20150423113300
+  name: 汤水
+  amount: 400
+  unit: g
+- time: 20150423150500
+  name: 龙井茶
+  amount: 350
+  unit: g
+- time: 20150423154000
+  name: 龙井茶
+  amount: 350
+  unit: g
+- time: 20150423171000
+  name: 柠檬水
+  amount: 300
+  unit: g
+- time: 20150423201000
+  name: 龙井茶
+  amount: 350
+  unit: g
 comment: |+
   ...

@@ -6,6 +6,29 @@ wake:
   time: 20150423065800
   weight: 53.4
 exercise: 
-
+- time: 20150423112500
+  item: 
+  - type: 蹲墙
+    amount: 30
+    unit: turn
+  - type: 捧气灌顶
+    amount: 1
+    unit: turn
+  endheartrate: 63
+- time: 20150423160500
+  item: 
+  - type: pilates.p065
+    amount: 10
+    unit: turn
+  - type: fw01
+    amount: 20
+    unit: turn
+  - type: pilates.p053
+    amount: 20
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 78
 comment: |+
   ... 
