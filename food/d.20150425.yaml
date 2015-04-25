@@ -1,0 +1,57 @@
+date: 20150424
+food:
+- time: 20150425083000
+  name: 白粥
+  amount: 50
+  unit: g
+- time: 20150425130000
+  name: 馒头
+  amount: 60
+  unit: g
+- time: 20150425190000
+  name: 猪肉
+  amount: 30
+  unit: g
+- time: 20150425193000
+  name: 淮山
+  amount: 20
+  unit: g
+- time: 20150425193000
+  name: 虾仁
+  amount: 10
+  unit: g
+- time: 20150425193000
+  name: 腌萝卜
+  amount: 10
+  unit: g
+water:
+- time: 20150425073000
+  name: 开水
+  amount: 500
+  unit: g
+- time: 20150425104000
+  name: 开水
+  amount: 400
+  unit: g
+- time: 20150425131800
+  name: 开水
+  amount: 300
+  unit: g
+- time: 20150425140000
+  name: 碧螺春
+  amount: 300
+  unit: g
+- time: 20150425144000
+  name: 碧螺春
+  amount: 300
+  unit: g
+- time: 20150425155000
+  name: 碧螺春
+  amount: 300
+  unit: g
+- time: 20150425185000
+  name: 碧螺春
+  amount: 500
+  unit: 
+comment: |+
+  ...
