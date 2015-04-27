@@ -1,0 +1,57 @@
+date: 20150427
+food:
+- time: 20150427064000
+  name: 小米粥
+  amount: 20
+  unit: g
+- time: 20150427064000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20150427114000
+  name: 鳕鱼盒饭
+  amount: 300
+  unit: g
+- time: 20150427174000
+  name: 猪肉
+  amount: 50
+  unit: g
+- time: 20150427174000
+  name: 紫菜
+  amount: 10
+  unit: g
+- time: 20150427174000
+  name: 洋葱
+  amount: 30
+  unit: g
+- time: 20150427174000
+  name: 馒头
+  amount: 50
+  unit: g
+water:
+- time: 20150427043000
+  name: 开水
+  amount: 500
+  unit: g
+- time: 20150427083000
+  name: 开水
+  amount: 300
+  unit: g
+- time: 20150427110000
+  name: 龙井茶
+  amount: 300
+  unit: g
+- time: 20150427123000
+  name: 龙井茶
+  amount: 300
+  unit: g
+- time: 20150427153000
+  name: 龙井茶
+  amount: 300
+  unit: g
+- time: 20150427170000
+  name: 柠檬水
+  amount: 300
+  unit: g
+comment: |+
+  ...
