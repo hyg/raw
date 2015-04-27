@@ -6,8 +6,12 @@ wake:
   time: 20150427042000
   weight: 52.8
 stool: 
+- time: 20150427200000
+  amount: 2 	# 				1:多;		2:适中;		3:少;
+  type: 1 		# 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 1 	# 				1:不困难;	2:困难;
 exercise: 
-- time: 20150425075500
+- time: 20150427075500
   item: 
   - type: pilates.p065
     amount: 10
@@ -22,5 +26,12 @@ exercise:
     amount: 2
     unit: turn
   endheartrate: 68
+exercise: 
+- time: 20150427135500
+  item: 
+  - type: 蹲墙
+    amount: 20
+    unit: turn
+  endheartrate: 78
 comment: |+
   ... 
