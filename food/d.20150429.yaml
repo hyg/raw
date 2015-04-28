@@ -1,0 +1,13 @@
+date: 20150429
+food:
+- time: 20150429054000
+  name: 梨
+  amount: 60
+  unit: g
+water:
+- time: 20150429053500
+  name: 开水
+  amount: 300
+  unit: g
+comment: |+
+  ...
