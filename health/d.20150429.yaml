@@ -21,5 +21,20 @@ exercise:
     amount: 5
     unit: turn
   endheartrate: 87
+- time: 20150429195000
+  item: 
+  - type: pilates.p065
+    amount: 10
+    unit: turn
+  - type: fw01
+    amount: 15
+    unit: turn
+  - type: pilates.p053
+    amount: 15
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 69
 comment: |+
   ... 

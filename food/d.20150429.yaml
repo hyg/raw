@@ -20,6 +20,14 @@ food:
   name: 商务套餐
   amount: 500
   unit: g
+- time: 20150429193000
+  name: 猪肉
+  amount: 100
+  unit: g
+- time: 20150429193000
+  name: 洋葱
+  amount: 150
+  unit: g
 water:
 - time: 20150429053500
   name: 开水
