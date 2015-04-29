@@ -16,6 +16,10 @@ food:
   name: 馒头
   amount: 75
   unit: g
+- time: 20150429123000
+  name: 商务套餐
+  amount: 500
+  unit: g
 water:
 - time: 20150429053500
   name: 开水
@@ -24,6 +28,26 @@ water:
 - time: 20150429063500
   name: 开水
   amount: 200
+  unit: g
+- time: 20150429111500
+  name: 开水
+  amount: 300
+  unit: g
+- time: 20150429121500
+  name: 碧螺春
+  amount: 300
+  unit: g
+- time: 20150429141500
+  name: 碧螺春
+  amount: 300
+  unit: g
+- time: 20150429154500
+  name: 碧螺春
+  amount: 300
+  unit: g
+- time: 20150429164500
+  name: 柠檬水
+  amount: 500
   unit: g
 comment: |+
   ...
