@@ -5,13 +5,37 @@ food:
   amount: 60
   unit: g
 - time: 20150430065500
-  name: 糖卷
+  name: 肉卷
   amount: 60
+  unit: g
+- time: 20150430121500
+  name: 麦片
+  amount: 30
+  unit: g
+- time: 20150430121500
+  name: 麦胚芽
+  amount: 10
+  unit: g
+- time: 20150430121500
+  name: 奶粉
+  amount: 25
+  unit: g
+- time: 20150430161500
+  name: 麦胚芽
+  amount: 10
+  unit: g
+- time: 20150430161500
+  name: 奶粉
+  amount: 25
   unit: g
 water:
 - time: 20150430063500
   name: 开水
   amount: 200
+  unit: g
+- time: 20150430101000
+  name: 开水
+  amount: 400
   unit: g
 comment: |+
   ...
