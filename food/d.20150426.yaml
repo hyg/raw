@@ -28,31 +28,31 @@ water:
 - time: 20150426051500
   name: 开水
   amount: 500
-  unit: g
+  unit: ml
 - time: 20150426061500
   name: 开水
   amount: 250
-  unit: g
+  unit: ml
 - time: 20150426084000
   name: 开水
   amount: 300
-  unit: g
+  unit: ml
 - time: 20150426133000
   name: 开水
   amount: 300
-  unit: g
+  unit: ml
 - time: 20150426153000
   name: 开水
   amount: 300
-  unit: g
+  unit: ml
 - time: 20150426170000
   name: 柠檬水
   amount: 300
-  unit: g
+  unit: ml
 - time: 20150426173000
   name: 开水
   amount: 300
-  unit: g
+  unit: ml
 comment: |+
   蔬菜水果种类数量不足，蛋白质种类数量不足
   

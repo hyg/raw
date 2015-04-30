@@ -28,14 +28,38 @@ food:
   name: 奶粉
   amount: 25
   unit: g
+- time: 20150430191000
+  name: 菜花
+  amount: 500
+  unit: g
+- time: 20150430191000
+  name: 木耳
+  amount: 15
+  unit: g
+- time: 20150430191000
+  name: 馒头
+  amount: 75
+  unit: g
 water:
 - time: 20150430063500
   name: 开水
   amount: 200
-  unit: g
+  unit: ml
 - time: 20150430101000
   name: 开水
   amount: 400
-  unit: g
+  unit: ml
+- time: 20150430171000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20150430190000
+  name: 柠檬水
+  amount: 300
+  unit: ml
+- time: 20150430200000
+  name: 柠檬水
+  amount: 300
+  unit: ml
 comment: |+
   ...

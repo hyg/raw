@@ -32,30 +32,30 @@ water:
 - time: 20150428051500
   name: 开水
   amount: 200
-  unit: g
+  unit: ml
 - time: 20150428061500
   name: 开水
   amount: 300
-  unit: g
+  unit: ml
 - time: 20150428070000
   name: 开水
   amount: 300
-  unit: g
+  unit: ml
 - time: 20150428103000
   name: 开水
   amount: 300
-  unit: g
+  unit: ml
 - time: 20150428123000
   name: 开水
   amount: 300
-  unit: g
+  unit: ml
 - time: 20150428143000
   name: 开水
   amount: 300
-  unit: g
+  unit: ml
 - time: 20150428213000
   name: 开水
   amount: 300
-  unit: g
+  unit: ml
 comment: |+
   ...

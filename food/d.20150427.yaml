@@ -32,26 +32,26 @@ water:
 - time: 20150427043000
   name: 开水
   amount: 500
-  unit: g
+  unit: ml
 - time: 20150427083000
   name: 开水
   amount: 300
-  unit: g
+  unit: ml
 - time: 20150427110000
   name: 龙井茶
   amount: 300
-  unit: g
+  unit: ml
 - time: 20150427123000
   name: 龙井茶
   amount: 300
-  unit: g
+  unit: ml
 - time: 20150427153000
   name: 龙井茶
   amount: 300
-  unit: g
+  unit: ml
 - time: 20150427170000
   name: 柠檬水
   amount: 300
-  unit: g
+  unit: ml
 comment: |+
   ...

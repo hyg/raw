@@ -28,27 +28,27 @@ water:
 - time: 20150425073000
   name: 开水
   amount: 500
-  unit: g
+  unit: ml
 - time: 20150425104000
   name: 开水
   amount: 400
-  unit: g
+  unit: ml
 - time: 20150425131800
   name: 开水
   amount: 300
-  unit: g
+  unit: ml
 - time: 20150425140000
   name: 碧螺春
   amount: 300
-  unit: g
+  unit: ml
 - time: 20150425144000
   name: 碧螺春
   amount: 300
-  unit: g
+  unit: ml
 - time: 20150425155000
   name: 碧螺春
   amount: 300
-  unit: g
+  unit: ml
 - time: 20150425185000
   name: 碧螺春
   amount: 500
