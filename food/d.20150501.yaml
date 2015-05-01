@@ -1,0 +1,25 @@
+date: 20150501
+food:
+- time: 20150501074000
+  name: 杂粮粥
+  amount: 60
+  unit: g
+- time: 20150501074000
+  name: 麦胚芽
+  amount: 10
+  unit: g
+- time: 20150501074000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20150501074000
+  name: 苹果
+  amount: 75
+  unit: g
+water:
+- time: 20150501071000
+  name: 开水
+  amount: 300
+  unit: ml
+comment: |+
+  ...
