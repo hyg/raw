@@ -33,9 +33,12 @@
 				{{.D}} <br>
 				{{.W1}}<br>
 				{{.W2}}<br>
-				plot(date,weight1,type="b",pch=15,lty=1,col="red")<br>
-				lines(date,weight2,type="b",pch=17,lty=2,col="blue")<br>
+				plot(c(1:{{.Cnt}}),weight1,type="b",pch=15,lty=1,col="red",xaxt="n",xlab = "date")<br>
+				lines(c(1:{{.Cnt}}),weight2,type="b",pch=17,lty=2,col="blue")<br>
 				legend("topleft",inset=.05,title="体重曲线",c("睡前","醒后"),lty=c(1,2),pch=c(15,17),col=c("red","blue"))<br>
+				axis(1, c(1:{{.Cnt}}),date)<br>
+
+				<br>
 			</div>
 		</div>
 	<!--content end-->

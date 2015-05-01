@@ -135,6 +135,7 @@ type HealthDayLog struct {
 var hmap map[string]HealthDayLog
 var weightR string
 var d, w1, w2 string
+var cnt int
 
 func healthinit() {
 	var h HealthDayLog
@@ -142,6 +143,7 @@ func healthinit() {
 	d = "date <- c("
 	w1 = "weight1 <- c("
 	w2 = "weight2 <- c("
+	cnt = 0
 	bFirst := true
 	filepath.Walk("health",
 		func(path string, info os.FileInfo, err error) error {
@@ -153,14 +155,15 @@ func healthinit() {
 				//log.Printf("path=%s\ndate=%s\ninfo=%v\n\n", path, h.Date, h)
 
 				if h.Date > "20150407" {
+					cnt = cnt + 1
 					if bFirst {
-						d = fmt.Sprintf("%s%s", d, h.Date)
+						d = fmt.Sprintf("%s\"%s\"", d, h.Date)
 						w1 = fmt.Sprintf("%s%v", w1, h.Sleep.Weight)
 						w2 = fmt.Sprintf("%s%v", w2, h.Wake.Weight)
 
 						bFirst = false
 					} else {
-						d = fmt.Sprintf("%s,%s", d, h.Date)
+						d = fmt.Sprintf("%s,\"%s\"", d, h.Date)
 						w1 = fmt.Sprintf("%s,%v", w1, h.Sleep.Weight)
 						w2 = fmt.Sprintf("%s,%v", w2, h.Wake.Weight)
 					}

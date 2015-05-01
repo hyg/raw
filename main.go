@@ -16,6 +16,7 @@ type winfo struct {
 	D    string
 	W1   string
 	W2   string
+	Cnt  int
 }
 
 func welcome(w http.ResponseWriter, r *http.Request) {
@@ -36,7 +37,7 @@ func welcome(w http.ResponseWriter, r *http.Request) {
 
 	t, _ := template.ParseFiles("web/page/welcome.html")
 	//t.Execute(w, dslice)
-	t.Execute(w, winfo{dmap, hmap, d, w1, w2})
+	t.Execute(w, winfo{dmap, hmap, d, w1, w2, cnt})
 	//log.Print(winfo{dmap, hmap})
 }
 
