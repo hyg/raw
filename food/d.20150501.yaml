@@ -28,6 +28,26 @@ food:
   name: 奶粉
   amount: 25
   unit: g
+- time: 20150501600000
+  name: 红薯
+  amount: 400
+  unit: g
+- time: 20150501163000
+  name: 奶粉
+  amount: 25
+  unit: g
+- time: 20150501190000
+  name: 紫菜
+  amount: 25
+  unit: g
+- time: 20150501190000
+  name: 番茄酱
+  amount: 15
+  unit: g
+- time: 20150501210000
+  name: 南瓜
+  amount: 200
+  unit: g
 water:
 - time: 20150501071000
   name: 开水
@@ -48,6 +68,10 @@ water:
 - time: 2015050135000
   name: 开水
   amount: 400
+  unit: ml
+- time: 20150501520000
+  name: 龙井
+  amount: 250
   unit: ml
 comment: |+
   ...
