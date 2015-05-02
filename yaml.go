@@ -181,6 +181,9 @@ func healthinit() {
 	w1 = fmt.Sprintf("%s)", w1)
 	w2 = fmt.Sprintf("%s)", w2)
 
+	wstr := fmt.Sprintf("%s\r\n%s\r\n%s\r\nplot(c(1:%d),weight1,type=\"b\",pch=15,lty=1,col=\"red\",xaxt=\"n\",xlab = \"date\")\r\nlines(c(1:%d),weight2,type=\"b\",pch=17,lty=2,col=\"blue\")\r\nlegend(\"topleft\",inset=.05,title=\"体重曲线\",c(\"睡前\",\"醒后\"),lty=c(1,2),pch=c(15,17),col=c(\"red\",\"blue\"))\r\naxis(1, c(1:%d),date)\r\n", d, w1, w2, cnt, cnt, cnt)
+
+	ioutil.WriteFile("health\\weight.R", []byte(wstr), 0644)
 	//log.Print(d)
 	//log.Print(w1)
 	//log.Print(w2)

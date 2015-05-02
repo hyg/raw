@@ -1,0 +1,21 @@
+date: 20150502
+food:
+- time: 20150502084500
+  name: 小米粥
+  amount: 60
+  unit: g
+- time: 20150502084500
+  name: 切糕
+  amount: 300
+  unit: g
+- time: 20150502084500
+  name: 麦胚芽
+  amount: 15
+  unit: g
+water:
+- time: 20150502081500
+  name: 开水
+  amount: 300
+  unit: ml
+comment: |+
+  ...
