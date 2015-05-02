@@ -12,8 +12,64 @@ food:
   name: 麦胚芽
   amount: 15
   unit: g
+- time: 20150502131500
+  name: 笋
+  amount: 100
+  unit: g
+- time: 20150502131500
+  name: 猪肉
+  amount: 50
+  unit: g
+- time: 20150502131500
+  name: 竹荪
+  amount: 10
+  unit: g
+- time: 20150502135500
+  name: 芋头
+  amount: 60
+  unit: g
+- time: 20150502185500
+  name: 芋头
+  amount: 60
+  unit: g
+- time: 20150502185500
+  name: 面条
+  amount: 60
+  unit: g
+- time: 20150502185500
+  name: 紫菜
+  amount: 15
+  unit: g
+- time: 20150502185500
+  name: 肉蛋酱
+  amount: 80
+  unit: g
 water:
 - time: 20150502081500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150502103000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150502122000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150502155000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150502162000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150502165500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20150502172500
   name: 开水
   amount: 300
   unit: ml
