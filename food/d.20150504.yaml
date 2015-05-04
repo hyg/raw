@@ -8,8 +8,56 @@ food:
   name: 海鸭蛋
   amount: 60
   unit: g
+- time: 20150504133000
+  name: 花卷
+  amount: 50
+  unit: g
+- time: 20150504133000
+  name: 奶粉
+  amount: 25
+  unit: g
+- time: 20150504133000
+  name: 麦胚芽
+  amount: 20
+  unit: g
+- time: 20150504183000
+  name: 番石榴
+  amount: 50
+  unit: g
+- time: 20150504191000
+  name: 面条
+  amount: 80
+  unit: g
+- time: 20150504191000
+  name: 紫菜
+  amount: 30
+  unit: g
+- time: 20150504191000
+  name: 番茄酱
+  amount: 30
+  unit: g
+- time: 20150504191000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
 water:
 - time: 20150504062500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150504122500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150504150500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150504160500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150504185500
   name: 开水
   amount: 300
   unit: ml
