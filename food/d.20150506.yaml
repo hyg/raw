@@ -20,6 +20,18 @@ food:
   name: 番石榴
   amount: 150
   unit: g
+- time: 20150506122000
+  name: 馒头
+  amount: 60
+  unit: g
+- time: 20150506182000
+  name: 笋丁肉包
+  amount: 100
+  unit: g
+- time: 20150506182000
+  name: 玉米
+  amount: 200
+  unit: g
 water:
 - time: 20150506054000
   name: 开水
