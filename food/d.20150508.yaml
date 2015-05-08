@@ -16,9 +16,53 @@ food:
   name: 笋丁肉包
   amount: 100
   unit: g
+- time: 20150508113000
+  name: 炸酱面（面条、黄瓜、豆芽、白菜、萝卜丝、肉酱）
+  amount: 300
+  unit: g
+- time: 20150508183000
+  name: 橘子
+  amount: 75
+  unit: g
+- time: 20150508183000
+  name: 番石榴
+  amount: 75
+  unit: g
+- time: 20150508183000
+  name: 圣女果
+  amount: 150
+  unit: g
+- time: 20150508193000
+  name: 香蕉
+  amount: 150
+  unit: g
+- time: 20150508203000
+  name: 西兰花
+  amount: 350
+  unit: g
+- time: 20150508203000
+  name: 红薯
+  amount: 500
+  unit: g
 water:
 - time: 20150508061000
   name: 开水
+  amount: 300
+  unit: ml
+- time: 20150508091500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150508111500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150508131500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150508141500
+  name: 普洱茶
   amount: 300
   unit: ml
 comment: |+
