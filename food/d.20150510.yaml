@@ -20,10 +20,66 @@ food:
   name: 窝窝头
   amount: 50
   unit: g
+- time: 20150510100000
+  name: 无花果
+  amount: 50
+  unit: g
+- time: 20150510110000
+  name: 圣女果
+  amount: 100
+  unit: g
+- time: 20150510120000
+  name: 馒头
+  amount: 75
+  unit: g
+- time: 20150510120000
+  name: 鱼肉
+  amount: 120
+  unit: g
+- time: 20150510163000
+  name: 香蕉
+  amount: 150
+  unit: g
+- time: 20150510173000
+  name: 西兰花
+  amount: 150
+  unit: g
+- time: 20150510173000
+  name: 丝瓜
+  amount: 150
+  unit: g
+- time: 20150510173000
+  name: 切糕
+  amount: 100
+  unit: g
+- time: 20150510180000
+  name: 橘子
+  amount: 40
+  unit: g
 water:
 - time: 20150510061000
   name: 开水
   amount: 200
+  unit: ml
+- time: 20150510083000
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20150510103000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20150510133000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20150510151000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150510171000
+  name: 柠檬水
+  amount: 400
   unit: ml
 comment: |+
   ...
