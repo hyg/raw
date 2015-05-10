@@ -1,0 +1,25 @@
+date: 20150511
+sleep: 
+  time: 20150510220500
+  weight: 53.0
+wake: 
+  time: 20150511060000
+  weight: 52.5
+exercise: 
+- time: 20150511060000
+  item: 
+  - type: pilates.p065
+    amount: 10
+    unit: turn
+  - type: fw01
+    amount: 10
+    unit: turn
+  - type: pilates.p053
+    amount: 10
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 62
+comment: |+
+  ... 
