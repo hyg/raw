@@ -20,6 +20,38 @@ food:
   name: 花卷
   amount: 50
   unit: g
+- time: 20150512131500
+  name: 莴笋
+  amount: 200
+  unit: g
+- time: 20150512171500
+  name: 馒头
+  amount: 100
+  unit: g
+- time: 20150512171500
+  name: 海带丝
+  amount: 30
+  unit: g
+- time: 20150512171500
+  name: 土豆丝
+  amount: 50
+  unit: g
+- time: 20150512171500
+  name: 咖喱土豆牛肉
+  amount: 100
+  unit: g
+- time: 20150512171500
+  name: 鸡蛋西红柿
+  amount: 100
+  unit: g
+- time: 20150512171500
+  name: 黄豆
+  amount: 40
+  unit: g
+- time: 20150512171500
+  name: 鱼香茄子
+  amount: 100
+  unit: g
 water:
 - time: 20150512054000
   name: 开水
@@ -35,6 +67,18 @@ water:
   unit: ml
 - time: 20150512114000
   name: 龙井茶
+  amount: 300
+  unit: ml
+- time: 20150512153000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150512183000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20150512193000
+  name: 开水
   amount: 300
   unit: ml
 comment: |+
