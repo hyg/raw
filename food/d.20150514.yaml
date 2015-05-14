@@ -1,0 +1,21 @@
+date: 20150514
+food:
+- time: 20150514072500
+  name: 奥灶面
+  amount: 150
+  unit: g
+- time: 20150514072500
+  name: 肥肠
+  amount: 50
+  unit: g
+- time: 20150514072500
+  name: 生煎
+  amount: 60
+  unit: g
+water:
+- time: 20150514063500
+  name: 开水
+  amount: 400
+  unit: ml
+comment: |+
+  ...
