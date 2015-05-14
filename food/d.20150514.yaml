@@ -20,6 +20,10 @@ food:
   name: 快餐盒饭（土豆炖牛腩）
   amount: 610
   unit: g
+- time: 20150514205500
+  name: 苦瓜
+  amount: 150
+  unit: g
 water:
 - time: 20150514063500
   name: 开水
