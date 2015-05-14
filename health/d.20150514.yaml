@@ -1,30 +1,16 @@
-date: 20150513
+date: 20150514
 sleep: 
-  time: 20150512223700
+  time: 20150514013700
   weight: 53.0
 wake: 
-  time: 20150513054600
+  time: 20150514063000
   weight: 52.6
-stool: 
-- time: 20150514004000
-  amount: 1	# 				1:多;		2:适中;		3:少;
-  type: 1 		# 	0:水样;		1:软;		2:适中;		3:硬;
-  diffcult: 1 	# 				1:不困难;	2:困难;
 exercise: 
-- time: 20150514002000
+- time: 20150514063000
   item: 
-  - type: pilates.p065
-    amount: 10
-    unit: turn
-  - type: fw
-    amount: 10
-    unit: turn
-  - type: pilates.p053
-    amount: 10
-    unit: turn
-  - type: pilates.p079
-    amount: 5
-    unit: turn
+  - type: 步行
+    amount: 60
+    unit: minutes
   endheartrate: 77
 comment: |+
   ... 

@@ -12,10 +12,34 @@ food:
   name: 生煎
   amount: 60
   unit: g
+- time: 20150514122500
+  name: 三明治（鸡肉、面包片）
+  amount: 300
+  unit: g
+- time: 20150514182500
+  name: 快餐盒饭（土豆炖牛腩）
+  amount: 610
+  unit: g
 water:
 - time: 20150514063500
   name: 开水
   amount: 400
+  unit: ml
+- time: 20150514093500
+  name: 龙井
+  amount: 250
+  unit: ml
+- time: 20150514123500
+  name: 姜茶
+  amount: 350
+  unit: ml
+- time: 20150514163500
+  name: 龙井
+  amount: 400
+  unit: ml
+- time: 20150514211000
+  name: 开水
+  amount: 300
   unit: ml
 comment: |+
   ...
