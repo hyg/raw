@@ -6,6 +6,35 @@ wake:
   time: 2015051505200
   weight: 52.8
 exercise: 
-
+- time: 20150515055000
+  item: 
+  - type: pilates.p065
+    amount: 10
+    unit: turn
+  - type: fw
+    amount: 10
+    unit: turn
+  - type: pilates.p053
+    amount: 10
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 74
+- time: 20150515175000
+  item: 
+  - type: pilates.p065
+    amount: 10
+    unit: turn
+  - type: fw
+    amount: 10
+    unit: turn
+  - type: pilates.p053
+    amount: 10
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 77
 comment: |+
   ... 
