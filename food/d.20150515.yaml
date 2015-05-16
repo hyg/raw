@@ -4,6 +4,10 @@ food:
   name: 番石榴
   amount: 75
   unit: g
+- time: 20150515063000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
 - time: 20150515130000
   name: 包子
   amount: 100
@@ -46,4 +50,4 @@ water:
   amount: 500
   unit: ml
 comment: |+
-  ...
+  蛋白质摄入数略少，建议增加蔬菜水果种类。
