@@ -16,6 +16,34 @@ food:
   name: 海鸭蛋
   amount: 60
   unit: g
+- time: 20150516122000
+  name: 馒头
+  amount: 120
+  unit: g
+- time: 20150516122000
+  name: 牛肉午餐肉
+  amount: 80
+  unit: g
+- time: 20150516122000
+  name: 麦片
+  amount: 30
+  unit: g
+- time: 20150516122000
+  name: 奶粉
+  amount: 40
+  unit: g
+- time: 20150516182000
+  name: 小米粥
+  amount: 30
+  unit: g
+- time: 20150516182000
+  name: 南瓜
+  amount: 150
+  unit: g
+- time: 20150516182000
+  name: 秋葵
+  amount: 200
+  unit: g
 water:
 - time: 20150516071000
   name: 开水
@@ -28,6 +56,14 @@ water:
 - time: 20150516093000
   name: 龙井茶
   amount: 700
+  unit: ml
+- time: 20150516153000
+  name: 龙井茶
+  amount: 250
+  unit: ml
+- time: 20150516173000
+  name: 柠檬水
+  amount: 500
   unit: ml
 comment: |+
   ...
