@@ -64,6 +64,14 @@ food:
   name: 秋葵
   amount: 100
   unit: g
+- time: 20150519171500
+  name: 青杏
+  amount: 20
+  unit: g
+- time: 20150519171500
+  name: 豆瓣酱
+  amount: 20
+  unit: g
 water:
 - time: 20150519063500
   name: 开水
