@@ -13,8 +13,40 @@ food:
   amount: 60
   unit: g
 - time: 20150521062500
+  name: 麦胚芽
+  amount: 20
+  unit: g
+- time: 20150521062500
   name: 包子（猪肉白菜）
   amount: 120
+  unit: g
+- time: 20150521132500
+  name: 麦片
+  amount: 60
+  unit: g
+- time: 20150521132500
+  name: 麦胚芽
+  amount: 20
+  unit: g
+- time: 20150521132500
+  name: 奶粉
+  amount: 25
+  unit: g
+- time: 20150521192500
+  name: 西兰花
+  amount: 300
+  unit: g
+- time: 20150521192500
+  name: 豇豆
+  amount: 150
+  unit: g
+- time: 20150521192500
+  name: 梅花肉
+  amount: 100
+  unit: g
+- time: 20150521192500
+  name: 苦荞面
+  amount: 80
   unit: g
 water:
 - time: 20150521061500
@@ -22,6 +54,34 @@ water:
   amount: 300
   unit: ml
 - time: 20150521071500
+  name: 开水
+  amount: 100
+  unit: ml
+- time: 20150521084500
+  name: 碧螺春
+  amount: 400
+  unit: ml
+- time: 20150521104500
+  name: 碧螺春
+  amount: 400
+  unit: ml
+- time: 20150521124500
+  name: 碧螺春
+  amount: 400
+  unit: ml
+- time: 20150521144500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20150521165500
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20150521195500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20150521224000
   name: 开水
   amount: 100
   unit: ml
