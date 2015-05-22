@@ -32,6 +32,14 @@ food:
   name: 豆角
   amount: 50
   unit: g
+- time: 20150522125000
+  name: 橙汁
+  amount: 400
+  unit: g
+- time: 20150522165000
+  name: 玉米
+  amount: 300
+  unit: g
 water:
 - time: 20150522064500
   name: 开水
@@ -40,6 +48,14 @@ water:
 - time: 20150522144500
   name: 开水
   amount: 200
+  unit: ml
+- time: 20150522172500
+  name: 炒青
+  amount: 350
+  unit: ml
+- time: 20150522212500
+  name: 炒青
+  amount: 250
   unit: ml
 comment: |+
   ...
