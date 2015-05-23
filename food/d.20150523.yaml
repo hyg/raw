@@ -1,5 +1,9 @@
 date: 20150523
 food:
+- time: 20150523043500
+  name: 梨
+  amount: 100
+  unit: g
 - time: 20150523073500
   name: 杂粮粥
   amount: 60
@@ -16,6 +20,38 @@ food:
   name: 馒头
   amount: 80
   unit: g
+- time: 20150523122500
+  name: 西兰花
+  amount: 150
+  unit: g
+- time: 20150523122500
+  name: 包子（猪肉白菜）
+  amount: 100
+  unit: g
+- time: 20150523122500
+  name: 猪肉
+  amount: 60
+  unit: g
+- time: 20150523122500
+  name: 玉米
+  amount: 150
+  unit: g
+- time: 20150523182500
+  name: 穿心莲
+  amount: 200
+  unit: g
+- time: 20150523182500
+  name: 西兰花
+  amount: 50
+  unit: g
+- time: 20150523182500
+  name: 南瓜
+  amount: 160
+  unit: g
+- time: 20150523182500
+  name: 绿豆
+  amount: 20
+  unit: g
 water:
 - time: 20150523042000
   name: 开水
@@ -28,6 +64,26 @@ water:
 - time: 20150523071500
   name: 开水
   amount: 200
+  unit: ml
+- time: 201505230103000
+  name: 龙井茶
+  amount: 300
+  unit: ml
+- time: 201505230133000
+  name: 龙井茶
+  amount: 200
+  unit: ml
+- time: 201505230153000
+  name: 龙井茶
+  amount: 200
+  unit: ml
+- time: 201505230163000
+  name: 柠檬水
+  amount: 300
+  unit: ml
+- time: 201505230163000
+  name: 绿豆汤
+  amount: 400
   unit: ml
 comment: |+
   ...
