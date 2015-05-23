@@ -3,7 +3,7 @@ sleep:
   time: 20150522003900
   weight: 53.2
 wake: 
-  time: 20150523063600
+  time: 20150522063600
   weight: 52.8
 exercise: 
 - time: 20150522205000
