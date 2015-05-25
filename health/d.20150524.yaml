@@ -6,20 +6,26 @@ wake:
   time: 201505240711100
   weight: 52.2
 exercise: 
-- time: 20150522172000
+- time: 20150524154000
+  item: 
+  - type: 蹲墙
+    amount: 30
+    unit: turn
+  endheartrate: 90
+- time: 20150524164000
   item: 
   - type: pilates.p065
-    amount: 20
+    amount: 15
     unit: turn
   - type: fw03    # fw03 = fw01 * 10 + fw02 * 10
     amount: 4
     unit: turn
   - type: pilates.p053
-    amount: 20
+    amount: 15
     unit: turn
   - type: pilates.p079
     amount: 5
     unit: turn
-  endheartrate: 76
+  endheartrate: 71
 comment: |+
   ... 
