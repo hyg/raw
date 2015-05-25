@@ -20,10 +20,46 @@ food:
   name: 馒头
   amount: 50
   unit: g
+- time: 20150525135500
+  name: 豇豆
+  amount: 150
+  unit: g
+- time: 20150525135500
+  name: 猪肉
+  amount: 30
+  unit: g
+- time: 20150525171500
+  name: 菜花
+  amount: 400
+  unit: g
+- time: 20150525171500
+  name: 猪肉
+  amount: 70
+  unit: g
+- time: 20150525171500
+  name: 绿豆
+  amount: 30
+  unit: g
 water:
 - time: 20150525083500
   name: 开水
   amount: 300
+  unit: ml
+- time: 20150525103500
+  name: 碧螺春+绞股蓝
+  amount: 400
+  unit: ml
+- time: 20150525133500
+  name: 碧螺春+绞股蓝
+  amount: 400
+  unit: ml
+- time: 20150525163500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20150525173500
+  name: 绿豆汤
+  amount: 400
   unit: ml
 comment: |+
   ...
