@@ -1,30 +1,69 @@
 date: 20150526
 food:
-- time: 20150526073500
-  name: 番石榴
-  amount: 100
-  unit: g
-- time: 20150526073500
-  name: 杂粮粥
-  amount: 60
-  unit: g
-- time: 20150526073500
-  name: 海鸭蛋
-  amount: 60
-  unit: g
-- time: 20150526073500
-  name: 麦胚芽
-  amount: 20
-  unit: g
-- time: 20150526073500
+- time: 20150526075000
   name: 馒头
   amount: 50
   unit: g
-
+- time: 20150526083500
+  name: 番石榴
+  amount: 100
+  unit: g
+- time: 20150526083500
+  name: 杂粮粥
+  amount: 80
+  unit: g
+- time: 20150526083500
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20150526083500
+  name: 麦胚芽
+  amount: 20
+  unit: g
+- time: 20150526131500
+  name: 玉米
+  amount: 150
+  unit: g
+- time: 20150526131500
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20150526183500
+  name: 豇豆
+  amount: 250
+  unit: g
+- time: 20150526183500
+  name: 猪肉
+  amount: 120
+  unit: g
+- time: 20150526183500
+  name: 糟菜
+  amount: 30
+  unit: g
+- time: 20150526183500
+  name: 绿豆
+  amount: 30
+  unit: g
 water:
 - time: 20150526070500
   name: 开水
   amount: 300
+  unit: ml
+- time: 20150526084500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150526094500
+  name: 碧螺春+绞股蓝
+  amount: 400
+  unit: ml
+- time: 20150526144500
+  name: 碧螺春+绞股蓝
+  amount: 400
+  unit: ml
+- time: 20150526184500
+  name: 绿豆汤
+  amount: 400
   unit: ml
 comment: |+
   ...
