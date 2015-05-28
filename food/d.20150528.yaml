@@ -1,0 +1,57 @@
+date: 20150528
+food:
+- time: 20150528064500
+  name: 包子（肉三鲜）
+  amount: 150
+  unit: g
+- time: 20150528064500
+  name: 香蕉
+  amount: 200
+  unit: g
+- time: 20150528064500
+  name: 杂粮粥
+  amount: 80
+  unit: g
+- time: 20150528064500
+  name: 麦胚芽
+  amount: 20
+  unit: g
+- time: 20150528134500
+  name: 麦胚芽
+  amount: 20
+  unit: g
+- time: 20150528134500
+  name: 麦片
+  amount: 60
+  unit: g
+- time: 20150528134500
+  name: 奶粉
+  amount: 25
+  unit: g
+- time: 20150528182500
+  name: 白菜
+  amount: 200
+  unit: g
+- time: 20150528182500
+  name: 鸭肉
+  amount: 100
+  unit: g
+water:
+- time: 20150528044000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150528064000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150528084000
+  name: 碧螺春+绞股蓝
+  amount: 300
+  unit: ml
+- time: 20150528104000
+  name: 碧螺春+绞股蓝
+  amount: 300
+  unit: ml
+comment: |+
+  ...
