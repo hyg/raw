@@ -5,5 +5,33 @@ sleep:
 wake: 
   time: 20150529055300
   weight: 52.2
+exercise: 
+- time: 20150529105000
+  item: 
+  - type: 步行
+    amount: 25
+    unit: minutes
+  endheartrate: 70
+- time: 201505291334500
+  item: 
+  - type: 步行
+    amount: 25
+    unit: minutes
+  endheartrate: 70
+- time: 20150529204500
+  item: 
+  - type: pilates.p065
+    amount: 10
+    unit: turn
+  - type: fw03
+    amount: 4
+    unit: turn
+  - type: pilates.p053
+    amount: 10
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 70
 comment: |+
   ... 

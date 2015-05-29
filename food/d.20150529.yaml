@@ -12,10 +12,50 @@ food:
   name: 海鸭蛋
   amount: 60
   unit: g
+- time: 20150529151500
+  name: 冻豆腐
+  amount: 160
+  unit: g
+- time: 20150529151500
+  name: 白菜
+  amount: 100
+  unit: g
+- time: 20150529151500
+  name: 猪肉
+  amount: 150
+  unit: g
+- time: 20150529151500
+  name: 玉米
+  amount: 150
+  unit: g
+- time: 20150529191500
+  name: 西瓜
+  amount: 800
+  unit: g
 water:
 - time: 20150529061500
   name: 开水
   amount: 300
+  unit: ml
+- time: 20150529084500
+  name: 龙井+绞股蓝
+  amount: 300
+  unit: ml
+- time: 20150529144500
+  name: 龙井+绞股蓝
+  amount: 300
+  unit: ml
+- time: 20150529155500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150529175500
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20150529190500
+  name: 柠檬水
+  amount: 250
   unit: ml
 comment: |+
   ...
