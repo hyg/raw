@@ -16,7 +16,42 @@ food:
   name: 馒头
   amount: 75
   unit: g
-
+- time: 20150531122500
+  name: 面条
+  amount: 75
+  unit: g
+- time: 20150531122500
+  name: 紫菜
+  amount: 30
+  unit: g
+- time: 20150531122500
+  name: 番茄酱
+  amount: 15
+  unit: g
+- time: 20150531122500
+  name: 油浸沙丁鱼
+  amount: 120
+  unit: g
+- time: 20150531122500
+  name: 蛋羹（海鸭蛋+豆瓣酱）
+  amount: 75
+  unit: g
+- time: 20150531144500
+  name: 夏橙
+  amount: 150
+  unit: g
+- time: 20150531184500
+  name: 紫甘蓝
+  amount: 250
+  unit: g
+- time: 20150531184500
+  name: 灰水粽
+  amount: 100
+  unit: g
+- time: 20150531184500
+  name: 夏橙
+  amount: 75
+  unit: g
 water:
 - time: 20150531062500
   name: 开水
@@ -25,6 +60,30 @@ water:
 - time: 20150531080000
   name: 开水
   amount: 150
+  unit: ml
+- time: 20150531092800
+  name: 龙井+绞股蓝
+  amount: 200
+  unit: ml
+- time: 20150531094000
+  name: 龙井+绞股蓝
+  amount: 200
+  unit: ml
+- time: 20150531102000
+  name: 龙井+绞股蓝
+  amount: 200
+  unit: ml
+- time: 20150531104500
+  name: 龙井+绞股蓝
+  amount: 200
+  unit: ml
+- time: 20150531141500
+  name: 龙井+绞股蓝
+  amount: 400
+  unit: ml
+- time: 20150531151500
+  name: 开水
+  amount: 300
   unit: ml
 comment: |+
   ...
