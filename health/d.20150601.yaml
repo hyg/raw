@@ -5,6 +5,11 @@ sleep:
 wake: 
   time: 20150601060000
   weight: 52.3
+stool: 
+- time: 20150601185500
+  amount: 3	# 				1:多;		2:适中;		3:少;
+  type: 1 		# 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 1 	# 				1:不困难;	2:困难;
 exercise: 
 - time: 20150601063000
   item: 
@@ -21,5 +26,14 @@ exercise:
     amount: 5
     unit: turn
   endheartrate: 76
+- time: 20150601124000
+  item: 
+  - type: 42.2
+    amount: 30
+    unit: turn
+  - type: fw04
+    amount: 45
+    unit: turn
+  endheartrate: 78
 comment: |+
   ... 
