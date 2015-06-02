@@ -16,9 +16,69 @@ food:
   name: 麦胚芽
   amount: 30
   unit: g
+- time: 20150602115500
+  name: 夏橙
+  amount: 150
+  unit: g
+- time: 20150602125500
+  name: 面条
+  amount: 70
+  unit: g
+- time: 20150602125500
+  name: 猪肉
+  amount: 200
+  unit: g
+- time: 20150602125500
+  name: 海带
+  amount: 10
+  unit: g
+- time: 20150602125500
+  name: 玉米
+  amount: 150
+  unit: g
+- time: 20150602125500
+  name: 豆瓣酱
+  amount: 10
+  unit: g
+- time: 20150602193500
+  name: 百香果
+  amount: 100
+  unit: g
+- time: 20150602201500
+  name: 醪糟
+  amount: 300
+  unit: g
+- time: 20150602201500
+  name: 豇豆
+  amount: 200
+  unit: g
+- time: 20150602201500
+  name: 梅花肉
+  amount: 100
+  unit: g
 water:
 - time: 20150602063500
   name: 开水
+  amount: 300
+  unit: ml
+- time: 20150602083500
+  name: 龙井+绞股蓝
+  amount: 300
+  unit: ml
+- time: 20150602093500
+  name: 龙井+绞股蓝
+  amount: 400
+  unit: ml
+- time: 20150602111500
+  name: 龙井+绞股蓝
+  amount: 300
+  unit: ml
+- time: 20150602141500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150602193500
+  name: 柠檬水
   amount: 300
   unit: ml
 comment: |+
