@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+	<head>
+		<title>zhaoyh's financial</title>
+		<meta charset="UTF-8"> 
+
+		<script type="text/javascript">
+
+
+		</script>	
+	</head>
+	<body>
+		<!--content begin-->
+		<div class="header"  align="center">
+			<h1>赵宇昊的财务</h1>
+			<hr>
+		</div>
+
+		<div >
+			<h4 align="center">详细数据</h4>
+			<table class="pure-table pure-table-bordered" align="center" width="100%">
+				<thead><tr>
+					<th>年份</th><th>月份</th><th>w1</th><th>z1</th><th>z2</th><th>z3</th><th>z4</th><th>z5</th><th>hw</th><th>hz</th><th>备注</th>
+				</tr></thead>
+				<tbody>
+				{{range .Item}}
+					<tr  align="center">
+						<td>{{.Year}}</td><td>{{.Month}}</td><td>{{.W1}}</td><td>{{.Z1}}</td><td>{{.Z2}}</td><td>{{.Z3}}</td><td>{{.Z4}}</td><td>{{.Z5}}</td><td>{{.Hw}}</td><td>{{.Hz}}</td><td>{{.Remark}}</td>
+					</tr>
+				{{end}}
+				</tbody>
+			</table>
+		</div>
+		
+		<!--content end-->
+
+	</body>
+</html>
