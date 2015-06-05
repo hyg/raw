@@ -5,5 +5,53 @@ sleep:
 wake: 
   time: 20150605061500
   weight: 52.3
+stool: 
+- time: 20150605084000
+  amount: 2	# 				1:多;		2:适中;		3:少;
+  type: 1 		# 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 1 	# 				1:不困难;	2:困难;
+exercise: 
+- time: 20150605200000
+  item: 
+  - type: 42.2
+    amount: 10
+    unit: turn
+  - type: 42.38	#侧支撑抬腿
+    amount: 10
+    unit: turn
+  - type: fw04
+    amount: 20
+    unit: turn
+  - type: 42.39	#侧支撑抬腿
+    amount: 10
+    unit: turn
+  - type: 42.2
+    amount: 10
+    unit: turn
+  - type: 42.38	#侧支撑抬腿
+    amount: 10
+    unit: turn
+  - type: fw04
+    amount: 20
+    unit: turn
+  - type: 42.39	#侧支撑抬腿
+    amount: 10
+    unit: turn
+  - type: 42.2
+    amount: 10
+    unit: turn
+  - type: 42.38	#侧支撑抬腿
+    amount: 10
+    unit: turn
+  - type: fw04
+    amount: 20
+    unit: turn
+  - type: 42.39	#侧支撑抬腿
+    amount: 10
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 83
 comment: |+
   ... 

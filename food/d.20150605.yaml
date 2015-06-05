@@ -16,9 +16,61 @@ food:
   name: 麦胚芽
   amount: 30
   unit: g
+- time: 20150605081500
+  name: 小番茄
+  amount: 250
+  unit: g
+- time: 20150605122500
+  name: 鸡肉
+  amount: 250
+  unit: g
+- time: 20150605122500
+  name: 青椒
+  amount: 200
+  unit: g
+- time: 20150605122500
+  name: 玉米
+  amount: 150
+  unit: g
+- time: 20150605133500
+  name: 小番茄
+  amount: 250
+  unit: g
+- time: 20150605164500
+  name: 西红柿
+  amount: 200
+  unit: g
+- time: 20150605181500
+  name: 芦笋
+  amount: 150
+  unit: g
+- time: 20150605181500
+  name: 小白菜
+  amount: 200
+  unit: g
+- time: 20150605211500
+  name: 百香果
+  amount: 50
+  unit: g
 water:
 - time: 20150605062000
   name: 开水
+  amount: 300
+  unit: ml
+- time: 20150605084000
+  name: 碧螺春+绞股蓝
+  amount: 400
+  unit: ml
+- time: 20150605094000
+  name: 碧螺春+绞股蓝
+  amount: 500
+  unit: ml
+- time: 20150605124000
+  name: 碧螺春+绞股蓝
+  amount: 300
+  unit: ml
+- time: 20150605144000
+  name: 碧螺春+绞股蓝
   amount: 300
   unit: ml
 comment: |+
