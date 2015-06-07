@@ -5,5 +5,12 @@ sleep:
 wake: 
   time: 20150607060600
   weight: 51.6
+exercise: 
+- time: 20150607070000
+  item: 
+  - type: 步行
+    amount: 180
+    unit: minute
+  endheartrate: 70
 comment: |+
   ... 
