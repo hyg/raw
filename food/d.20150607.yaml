@@ -24,6 +24,10 @@ food:
   name: 圣女果
   amount: 400
   unit: g
+- time: 20150607165000
+  name: 菠萝
+  amount: 400
+  unit: g
 water:
 - time: 20150607061000
   name: 开水

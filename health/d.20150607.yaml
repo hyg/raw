@@ -12,5 +12,41 @@ exercise:
     amount: 180
     unit: minute
   endheartrate: 70
+- time: 20150607155000
+  item: 
+  - type: 42.2
+    amount: 15
+    unit: turn
+  - type: 42.38	#侧支撑抬腿
+    amount: 10
+    unit: turn
+  - type: fw04
+    amount: 15
+    unit: turn
+  - type: 42.39	#侧支撑抬腿
+    amount: 10
+    unit: turn
+  - type: 42.2
+    amount: 15
+    unit: turn
+  - type: 42.38	#侧支撑抬腿
+    amount: 10
+    unit: turn
+  - type: fw04
+    amount: 15
+    unit: turn
+  - type: 42.39	#侧支撑抬腿
+    amount: 10
+    unit: turn
+  - type: 42.3.1
+    amount: 10
+    unit: turn
+  - type: 42.2
+    amount: 15
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 83
 comment: |+
   ... 
