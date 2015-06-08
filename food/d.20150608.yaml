@@ -29,8 +29,32 @@ food:
   amount: 100
   unit: g
 - time: 20150608124500
+  name: 胡萝卜
+  amount: 150
+  unit: g
+- time: 20150608124500
   name: 猪肉酱（豆瓣酱、紫苏）
   amount: 60
+  unit: g
+- time: 20150608164500
+  name: 猪肉酱（豆瓣酱）
+  amount: 60
+  unit: g
+- time: 20150608164500
+  name: 胡萝卜
+  amount: 150
+  unit: g
+- time: 20150608164500
+  name: 南瓜
+  amount: 100
+  unit: g
+- time: 20150608204500
+  name: 杨桃
+  amount: 250
+  unit: g
+- time: 20150608164500
+  name: 黑李
+  amount: 200
   unit: g
 water:
 - time: 20150608070800
@@ -52,6 +76,18 @@ water:
 - time: 20150608134000
   name: 开水
   amount: 200
+  unit: ml
+- time: 20150608154000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150608174000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150608194000
+  name: 开水
+  amount: 300
   unit: ml
 comment: |+
   ...
