@@ -24,8 +24,56 @@ food:
   name: 花卷
   amount: 150
   unit: g
+- time: 20150610103500
+  name: 圣女果
+  amount: 200
+  unit: g
+- time: 20150610105000
+  name: 玉米
+  amount: 150
+  unit: g
+- time: 20150610135000
+  name: 豇豆
+  amount: 300
+  unit: g
+- time: 20150610135000
+  name: 五花肉
+  amount: 80
+  unit: g
+- time: 20150610135000
+  name: 猪肝
+  amount: 120
+  unit: g
+- time: 20150610195000
+  name: 李子
+  amount: 250
+  unit: g
+- time: 20150610195000
+  name: 桃子
+  amount: 120
+  unit: g
+- time: 20150610210000
+  name: 紫米馒头
+  amount: 150
+  unit: g
 water:
 - time: 20150610061500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150610091500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150610104500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150610124500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150610154500
   name: 开水
   amount: 300
   unit: ml

@@ -1,12 +1,12 @@
-date: 20150608
+date: 20150610
 sleep: 
-  time: 20150608215300
+  time: 20150609223800
   weight: 52.6
 wake: 
-  time: 20150609054400
-  weight: 52.1
+  time: 20150610061500
+  weight: 51.9
 stool: 
-- time: 20150609221500
+- time: 20150610131500
   amount: 3	# 				1:多;		2:适中;		3:少;
   type: 2 		# 	0:水样;		1:软;		2:适中;		3:硬;
   diffcult: 1 	# 				1:不困难;	2:困难;
@@ -26,7 +26,7 @@ exercise:
     amount: 15
     unit: turn
   - type: 42.2
-    amount: 15
+    amount: 20
     unit: turn
   - type: 42.38	#侧支撑抬腿
     amount: 15
@@ -43,6 +43,6 @@ exercise:
   - type: pilates.p079
     amount: 5
     unit: turn
-  endheartrate: 70
+  endheartrate: 79
 comment: |+
   ... 
