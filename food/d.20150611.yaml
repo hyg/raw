@@ -20,8 +20,40 @@ food:
   name: 麦胚芽
   amount: 30
   unit: g
+- time: 20150611114500
+  name: 面条
+  amount: 60
+  unit: g
+- time: 20150611114500
+  name: 黄瓜
+  amount: 50
+  unit: g
+- time: 20150611114500
+  name: 青椒
+  amount: 40
+  unit: g
+- time: 20150611114500
+  name: 猪肉酱（豆瓣酱、紫苏）
+  amount: 120
+  unit: g
+- time: 20150611144500
+  name: 圣女果
+  amount: 200
+  unit: g
 water:
 - time: 20150611053500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150611085500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 201506111085500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150611145500
   name: 开水
   amount: 300
   unit: ml
