@@ -16,8 +16,56 @@ food:
   name: 麦胚芽
   amount: 30
   unit: g
+- time: 20150614082500
+  name: 圣女果
+  amount: 150
+  unit: g
+- time: 20150614123500
+  name: 麦片
+  amount: 60
+  unit: g
+- time: 20150614123500
+  name: 奶粉
+  amount: 50
+  unit: g
+- time: 20150614123500
+  name: 麦胚芽
+  amount: 30
+  unit: g
+- time: 20150614153500
+  name: 面条
+  amount: 50
+  unit: g
+- time: 20150614153500
+  name: 海带
+  amount: 10
+  unit: g
+- time: 20150614173500
+  name: 粽子（猪肉+绿豆）
+  amount: 200
+  unit: g
+- time: 20150614193500
+  name: 猪肉
+  amount: 150
+  unit: g
 water:
 - time: 20150614061500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150614084500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150614102500
+  name: 龙井
+  amount: 300
+  unit: ml
+- time: 20150614112500
+  name: 龙井
+  amount: 300
+  unit: ml
+- time: 20150614142500
   name: 开水
   amount: 300
   unit: ml
