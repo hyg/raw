@@ -1,0 +1,21 @@
+date: 20150615
+food:
+- time: 20150615075500
+  name: 菠萝
+  amount: 200
+  unit: g
+- time: 20150615083500
+  name: 绿豆粥
+  amount: 100
+  unit: g
+- time: 20150615083500
+  name: 粽子（猪肉+绿豆）
+  amount: 200
+  unit: g
+water:
+- time: 20150615074500
+  name: 开水
+  amount: 300
+  unit: ml
+comment: |+
+  ...
