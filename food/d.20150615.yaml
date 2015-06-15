@@ -12,8 +12,64 @@ food:
   name: 粽子（猪肉+绿豆）
   amount: 200
   unit: g
+- time: 20150615103500
+  name: 圣女果
+  amount: 200
+  unit: g
+- time: 20150615152000
+  name: 玉米
+  amount: 300
+  unit: g
+- time: 20150615152000
+  name: 麦胚芽
+  amount: 30
+  unit: g
+- time: 20150615152000
+  name: 奶粉
+  amount: 50
+  unit: g
+- time: 20150615152000
+  name: 可可
+  amount: 10
+  unit: g
+- time: 20150615205000
+  name: 香蕉
+  amount: 70
+  unit: g
+- time: 20150615213000
+  name: 面条
+  amount: 75
+  unit: g
+- time: 20150615213000
+  name: 胡萝卜
+  amount: 150
+  unit: g
+- time: 20150615213000
+  name: 穿心莲
+  amount: 100
+  unit: g
+- time: 20150615213000
+  name: 猪肉酱
+  amount: 75
+  unit: g
 water:
 - time: 20150615074500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150615104500
+  name: 绞股蓝+碧螺春
+  amount: 300
+  unit: ml
+- time: 20150615134500
+  name: 绞股蓝+碧螺春
+  amount: 400
+  unit: ml
+- time: 20150615164000
+  name: 绞股蓝+碧螺春
+  amount: 400
+  unit: ml
+- time: 20150615215000
   name: 开水
   amount: 300
   unit: ml
