@@ -1,0 +1,17 @@
+date: 20150616
+food:
+- time: 20150616075500
+  name: 百香果
+  amount: 100
+  unit: g
+- time: 20150616073500
+  name: 杂粮粥
+  amount: 60
+  unit: g
+water:
+- time: 20150616074800
+  name: 开水
+  amount: 300
+  unit: ml
+comment: |+
+  ...
