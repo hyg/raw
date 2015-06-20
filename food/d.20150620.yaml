@@ -1,77 +1,61 @@
-date: 20150619
+date: 20150620
 food:
-- time: 20150619054000
+- time: 20150620084000
   name: 橙子
   amount: 150
   unit: g
-- time: 20150619091000
+- time: 20150620084500
   name: 杂粮粥
   amount: 60
   unit: g
-- time: 20150619091000
-  name: 鸡蛋
+- time: 20150620084500
+  name: 紫米馒头
   amount: 50
   unit: g
-- time: 20150619091000
-  name: 毛豆
-  amount: 200
+- time: 20150620124500
+  name: 饺子
+  amount: 450
   unit: g
-- time: 20150619131000
-  name: 黑芝麻核桃粉
-  amount: 100
+- time: 20150620154500
+  name: 黄杏
+  amount: 500
   unit: g
-- time: 20150619131000
-  name: 奶粉
-  amount: 25
-  unit: g
-- time: 20150619133000
-  name: 麦片
-  amount: 30
-  unit: g
-- time: 20150619133000
-  name: 可可
-  amount: 10
-  unit: g
-- time: 20150619133000
-  name: 麦胚芽
-  amount: 60
-  unit: g
-- time: 20150619145000
-  name: 橙子
+- time: 20150620191500
+  name: 粽子（猪肉+绿豆）
   amount: 300
   unit: g
-- time: 20150619213000
-  name: 土豆
+- time: 20150620191500
+  name: 丝瓜
   amount: 200
   unit: g
-- time: 20150619213000
-  name: 秋葵
-  amount: 200
-  unit: g
-- time: 20150619213000
-  name: 豆芽
-  amount: 50
+- time: 20150620191500
+  name: 紫菜
+  amount: 20
   unit: g
 water:
-- time: 20150619054000
+- time: 20150620065000
   name: 开水
   amount: 300
   unit: ml
-- time: 20150619085500
+- time: 20150620082000
   name: 开水
   amount: 300
   unit: ml
-- time: 20150619111000
-  name: 绞股蓝——碧螺春
-  amount: 400
+- time: 20150620112000
+  name: 龙井
+  amount: 300
   unit: ml
-- time: 20150619144500
+- time: 20150620132000
   name: 绞股蓝——碧螺春
-  amount: 400
+  amount: 300
   unit: ml
-- time: 20150619172000
-  name: 绞股蓝——碧螺春
-  amount: 400
+- time: 20150620182000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150620192000
+  name: 丝瓜汤
+  amount: 300
   unit: ml
 comment: |+
   ...
