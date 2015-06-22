@@ -1,0 +1,21 @@
+date: 20150623
+food:
+- time: 20150623081000
+  name: 橙子
+  amount: 75
+  unit: g
+- time: 20150623084500
+  name: 杂粮粥
+  amount: 60
+  unit: g
+- time: 20150623084500
+  name: 鸡蛋
+  amount: 50
+  unit: g
+water:
+- time: 20150623055900
+  name: 开水
+  amount: 300
+  unit: ml
+comment: |+
+  ...
