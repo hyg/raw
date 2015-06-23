@@ -1,21 +1,69 @@
 date: 20150623
 food:
-- time: 20150623081000
-  name: 橙子
-  amount: 75
-  unit: g
-- time: 20150623084500
+- time: 20150623072500
   name: 杂粮粥
   amount: 60
   unit: g
-- time: 20150623084500
+- time: 20150623072500
   name: 鸡蛋
   amount: 50
+  unit: g
+- time: 20150623122500
+  name: 沙棘汁
+  amount: 400
+  unit: g
+- time: 20150623122500
+  name: 牛棒骨
+  amount: 300
+  unit: g
+- time: 20150623122500
+  name: 莜面（西红柿、芹菜）
+  amount: 300
+  unit: g
+- time: 20150623122500
+  name: 凉面（黄瓜）
+  amount: 200
+  unit: g
+- time: 20150623141500
+  name: 西红柿
+  amount: 150
+  unit: g
+- time: 20150623171500
+  name: 百香果
+  amount: 50
+  unit: g
+- time: 20150623200000
+  name: 甜瓜
+  amount: 300
+  unit: g
+- time: 20150623200000
+  name: 蟠桃
+  amount: 150
+  unit: g
+- time: 20150623200000
+  name: 黑葡萄
+  amount: 200
   unit: g
 water:
 - time: 20150623055900
   name: 开水
   amount: 300
+  unit: ml
+- time: 20150623075900
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150623112000
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20150623143000
+  name: 绞股蓝-碧螺春
+  amount: 200
+  unit: ml
+- time: 20150623161000
+  name: 绞股蓝-碧螺春
+  amount: 200
   unit: ml
 comment: |+
   ...
