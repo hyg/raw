@@ -1,19 +1,63 @@
 date: 20150624
 food:
-- time: 20150624084500
+- time: 20150624094500
   name: 杂粮粥
   amount: 60
   unit: g
-- time: 20150624084500
+- time: 20150624094500
   name: 鸡蛋
   amount: 50
   unit: g
-- time: 20150624084500
+- time: 20150624094500
   name: 毛豆
   amount: 200
   unit: g
+- time: 20150624132500
+  name: 沙棘汁
+  amount: 400
+  unit: g
+- time: 20150624132500
+  name: 牛棒骨
+  amount: 250
+  unit: g
+- time: 20150624132500
+  name: 莜面（西红柿、胡萝卜、芹菜）
+  amount: 250
+  unit: g
+- time: 20150624132500
+  name: 莜面饺子
+  amount: 150
+  unit: g
+- time: 20150624132500
+  name: 玉米面窝窝头（甜豆沙）
+  amount: 100
+  unit: g
+- time: 20150624173500
+  name: 西红柿
+  amount: 300
+  unit: g
+- time: 20150624203500
+  name: 百香果
+  amount: 100
+  unit: g
+- time: 20150624203500
+  name: 黑葡萄
+  amount: 300
+  unit: g
 water:
 - time: 20150624073500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150624083200
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150624113000
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20150624153000
   name: 开水
   amount: 300
   unit: ml
