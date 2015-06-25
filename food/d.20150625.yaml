@@ -1,0 +1,53 @@
+date: 20150625
+food:
+- time: 20150625081500
+  name: 凤梨
+  amount: 250
+  unit: g
+- time: 20150625085500
+  name: 杂粮粥
+  amount: 60
+  unit: g
+- time: 20150625085500
+  name: 鸡蛋
+  amount: 50
+  unit: g
+- time: 20150625145500
+  name: 玉米
+  amount: 150
+  unit: g
+- time: 20150625175500
+  name: 三杯鸡饭
+  amount: 250
+  unit: g
+- time: 20150625215500
+  name: 甜瓜
+  amount: 250
+  unit: g
+water:
+- time: 20150625074500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150625103000
+  name: 绞股蓝+碧螺春
+  amount: 300
+  unit: ml
+- time: 20150625123000
+  name: 绞股蓝+碧螺春
+  amount: 400
+  unit: ml
+- time: 20150625143000
+  name: 绞股蓝+碧螺春
+  amount: 300
+  unit: ml
+- time: 20150625164500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150625180500
+  name: 绿茶
+  amount: 300
+  unit: ml
+comment: |+
+  ...
