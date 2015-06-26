@@ -16,8 +16,44 @@ food:
   name: 毛豆
   amount: 250
   unit: g
+- time: 20150625143500
+  name: 玉米
+  amount: 150
+  unit: g
+- time: 20150625153500
+  name: 菠萝饭
+  amount: 300
+  unit: g
+- time: 20150625153500
+  name: 肥牛+金针菇
+  amount: 200
+  unit: g
+- time: 20150625153500
+  name: 炸鱼
+  amount: 150
+  unit: g
 water:
 - time: 20150626074700
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150626101000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150626113000
+  name: 绞股蓝+碧螺春
+  amount: 300
+  unit: ml
+- time: 20150626143000
+  name: 绞股蓝+碧螺春
+  amount: 300
+  unit: ml
+- time: 20150626173000
+  name: 矿泉水
+  amount: 850
+  unit: ml
+- time: 20150626203000
   name: 开水
   amount: 300
   unit: ml
