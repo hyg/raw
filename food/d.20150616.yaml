@@ -56,7 +56,7 @@ food:
   name: 猪肉
   amount: 50
   unit: g
- - time: 20150616193000
+- time: 20150616193000
   name: 豇豆
   amount: 猪肝
   unit: 40g
