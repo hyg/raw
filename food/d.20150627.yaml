@@ -13,5 +13,21 @@ water:
   name: 开水
   amount: 300
   unit: ml
+- time: 201506270100000
+  name: 龙井茶
+  amount: 300
+  unit: ml
+- time: 201506270130000
+  name: 龙井茶
+  amount: 300
+  unit: ml
+- time: 201506270143000
+  name: 龙井茶
+  amount: 300
+  unit: ml
+- time: 201506270151000
+  name: 龙井茶
+  amount: 400
+  unit: ml
 comment: |+
   ...
