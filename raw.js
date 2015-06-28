@@ -66,12 +66,12 @@ console.log(os.release());
 //darwin
 //14.1.0
 
-openbrowser("www.xuemen.com")
+openbrowser("http://www.xuemen.com")
 
 function openbrowser(url) {
 	switch (os.platform()) {
 	case "linux":
-		child.execSync("xdg-open", url);
+		child.exec("xdg-open "+ url);
 		break;
 	case "win32":
 	case "win64":
