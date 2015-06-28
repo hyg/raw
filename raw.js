@@ -1,7 +1,7 @@
 var fs = require('fs');
 var yaml = require('js-yaml');
 var os = require('os');
-//var path = require('path');
+var child  =  require('child_process');
 
 var fmap = new Object();
 var hmap = new Object();
@@ -51,10 +51,42 @@ w1 = w1 + ")";
 w2 = w2 + ")";
 
 var wstr = d+"\r\n"+w1+"\r\n"+w2+"\r\nplot(c(1:"+cnt+"),weight1,type=\"b\",pch=15,lty=1,col=\"red\",xaxt=\"n\",xlab = \"date\")\r\nlines(c(1:"+cnt+"),weight2,type=\"b\",pch=17,lty=2,col=\"blue\")\r\nlegend(\"topleft\",inset=.05,title=\"体重曲线\",c(\"睡前\",\"醒后\"),lty=c(1,2),pch=c(15,17),col=c(\"red\",\"blue\"))\r\naxis(1, c(1:"+cnt+"),date)\r\n";
-//console.log(wstr);
 fs.writeFile("health/weight.R",wstr);
 console.log("\n\n体重曲线在health/weight.R");
 
-console.log(os.type());
-console.log(os.platform());
-console.log(os.release());
+//console.log(os.type());
+//console.log(os.platform());
+//console.log(os.release());
+
+//Windows_NT
+//win32
+//6.1.7601
+
+//Darwin
+//darwin
+//14.1.0
+
+openbrowser("www.xuemen.com")
+
+function openbrowser(url) {
+	
+	child.exec("start", url);
+	
+	return;
+	switch (os.platform()) {
+	case "linux":
+		child.execSync("xdg-open", url);
+		break;
+	case "win32":
+	case "win64":
+		console.log("win32");
+		child.spawnSync("rundll32", "url.dll,FileProtocolHandler", url);
+		break;
+	case "darwin":
+		child.execSync("open", url);
+		break;
+	default:
+		console.log("unsupported platform");
+		break;
+	};
+}
