@@ -54,9 +54,9 @@ var wstr = d+"\r\n"+w1+"\r\n"+w2+"\r\nplot(c(1:"+cnt+"),weight1,type=\"b\",pch=1
 fs.writeFile("health/weight.R",wstr);
 console.log("\n\n体重曲线在health/weight.R");
 
-//console.log(os.type());
-//console.log(os.platform());
-//console.log(os.release());
+console.log(os.type());
+console.log(os.platform());
+console.log(os.release());
 
 //Windows_NT
 //win32
@@ -69,10 +69,6 @@ console.log("\n\n体重曲线在health/weight.R");
 openbrowser("www.xuemen.com")
 
 function openbrowser(url) {
-	
-	child.exec("start", url);
-	
-	return;
 	switch (os.platform()) {
 	case "linux":
 		child.execSync("xdg-open", url);
@@ -80,7 +76,9 @@ function openbrowser(url) {
 	case "win32":
 	case "win64":
 		console.log("win32");
-		child.spawnSync("rundll32", "url.dll,FileProtocolHandler", url);
+		//child.spawnSync("rundll32", "url.dll,FileProtocolHandler", url);
+		//child.exec("start", url);
+		child.exec("start "+url);
 		break;
 	case "darwin":
 		child.execSync("open", url);
