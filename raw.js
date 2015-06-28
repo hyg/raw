@@ -54,9 +54,9 @@ var wstr = d+"\r\n"+w1+"\r\n"+w2+"\r\nplot(c(1:"+cnt+"),weight1,type=\"b\",pch=1
 fs.writeFile("health/weight.R",wstr);
 console.log("\n\n体重曲线在health/weight.R");
 
-console.log(os.type());
-console.log(os.platform());
-console.log(os.release());
+//console.log(os.type());
+//console.log(os.platform());
+//console.log(os.release());
 
 //Windows_NT
 //win32
@@ -65,6 +65,10 @@ console.log(os.release());
 //Darwin
 //darwin
 //14.1.0
+
+//Linux
+//linux
+//3.13.0-53-generic
 
 openbrowser("http://www.xuemen.com")
 
@@ -75,13 +79,12 @@ function openbrowser(url) {
 		break;
 	case "win32":
 	case "win64":
-		console.log("win32");
 		//child.spawnSync("rundll32", "url.dll,FileProtocolHandler", url);
 		//child.exec("start", url);
 		child.exec("start "+url);
 		break;
 	case "darwin":
-		child.execSync("open", url);
+		child.exec("open "+ url);
 		break;
 	default:
 		console.log("unsupported platform");
