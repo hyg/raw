@@ -16,6 +16,34 @@ food:
   name: 圣女果
   amount: 250
   unit: g
+- time: 20150628132500
+  name: 粽子（五花肉+绿豆）
+  amount: 500
+  unit: g
+- time: 20150628132500
+  name: 豆腐
+  amount: 120
+  unit: g
+- time: 20150628203500
+  name: 土豆
+  amount: 150
+  unit: g
+- time: 20150628203500
+  name: 胡萝卜
+  amount: 200
+  unit: g
+- time: 20150628203500
+  name: 黄瓜
+  amount: 200
+  unit: g
+- time: 20150628203500
+  name: 青椒
+  amount: 100
+  unit: g
+- time: 20150628214000
+  name: 柿子
+  amount: 200
+  unit: g
 water:
 - time: 20150628073100
   name: 开水
@@ -24,6 +52,22 @@ water:
 - time: 20150628092000
   name: 开水
   amount: 300
+  unit: ml
+- time: 20150628112000
+  name: 绞股蓝+龙井
+  amount: 300
+  unit: ml
+- time: 20150628134000
+  name: 绞股蓝+龙井
+  amount: 300
+  unit: ml
+- time: 20150628154000
+  name: 绞股蓝+龙井
+  amount: 300
+  unit: ml
+- time: 20150628182000
+  name: 开水
+  amount: 400
   unit: ml
 comment: |+
   ...

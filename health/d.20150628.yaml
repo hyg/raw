@@ -44,5 +44,14 @@ exercise:
     amount: 5
     unit: turn
   endheartrate: 86
+- time: 20150628075500
+  item: 
+  - type: 平板支撑
+    amount: 5
+    unit: turn
+  - type: 蹲墙
+    amount: 20
+    unit: turn
+  endheartrate: 88
 comment: |+
   ... 
