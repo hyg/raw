@@ -1,5 +1,6 @@
 var fs = require('fs');
 var yaml = require('js-yaml');
+var os = require('os');
 //var path = require('path');
 
 var fmap = new Object();
@@ -53,3 +54,7 @@ var wstr = d+"\r\n"+w1+"\r\n"+w2+"\r\nplot(c(1:"+cnt+"),weight1,type=\"b\",pch=1
 //console.log(wstr);
 fs.writeFile("health/weight.R",wstr);
 console.log("\n\n体重曲线在health/weight.R");
+
+console.log(os.type());
+console.log(os.platform());
+console.log(os.release());

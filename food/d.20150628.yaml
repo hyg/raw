@@ -1,0 +1,21 @@
+date: 20150628
+food:
+- time: 20150628075000
+  name: 菠萝
+  amount: 400
+  unit: g
+- time: 20150628082500
+  name: 杂粮粥
+  amount: 60
+  unit: g
+- time: 20150628082500
+  name: 鸡蛋
+  amount: 50
+  unit: g
+water:
+- time: 20150628073100
+  name: 开水
+  amount: 300
+  unit: ml
+comment: |+
+  ...

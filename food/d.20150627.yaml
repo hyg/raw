@@ -4,6 +4,34 @@ food:
   name: 百香果
   amount: 100
   unit: g
+- time: 20150627081000
+  name: 酱牛肉
+  amount: 100
+  unit: g
+- time: 20150627081000
+  name: 青椒
+  amount: 1050
+  unit: g
+- time: 20150627081000
+  name: 黄瓜
+  amount: 200
+  unit: g
+- time: 20150627081000
+  name: 面条
+  amount: 100
+  unit: g
+- time: 20150627164000
+  name: 玉米
+  amount: 150
+  unit: g
+- time: 20150627172000
+  name: 木瓜
+  amount: 350
+  unit: g
+- time: 20150627202000
+  name: 杂粮粥
+  amount: 120
+  unit: g
 water:
 - time: 20150627062900
   name: 开水
@@ -28,6 +56,10 @@ water:
 - time: 201506270151000
   name: 龙井茶
   amount: 400
+  unit: ml
+- time: 201506270213000
+  name: 开水
+  amount: 300
   unit: ml
 comment: |+
   ...
