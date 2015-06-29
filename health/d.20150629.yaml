@@ -5,6 +5,11 @@ sleep:
 wake: 
   time: 20150629065500
   weight: 52.4
+stool: 
+- time: 20150629184500
+  amount: 2	# 				1:多;		2:适中;		3:少;
+  type: 1 		# 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 1 	# 				1:不困难;	2:困难;
 exercise: 
 - time: 20150629075500
   item: 
@@ -39,5 +44,14 @@ exercise:
     amount: 5
     unit: turn
   endheartrate: 70
+- time: 20150629105500
+  item: 
+  - type: 平板支撑
+    amount: 5
+    unit: turn
+  - type: 蹲墙
+    amount: 30
+    unit: turn
+  endheartrate: 79
 comment: |+
   ... 
