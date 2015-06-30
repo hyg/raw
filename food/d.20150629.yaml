@@ -26,19 +26,19 @@ food:
   unit: g
 - time: 20150629183000
   name: 黄瓜
-  amount:200
+  amount: 200
   unit: g
 - time: 20150629183000
   name: 香蕉
-  amount:100
+  amount: 100
   unit: g
 - time: 20150629193000
   name: 肉包子
-  amount:150
+  amount: 150
   unit: g
 - time: 20150629193000
   name: 葡萄
-  amount:250
+  amount: 250
   unit: g
 water:
 - time: 20150629065500
