@@ -1,0 +1,21 @@
+date: 20150701
+food:
+- time: 20150701062500
+  name: 香蕉
+  amount: 120
+  unit: g
+- time: 20150701063000
+  name: 杂粮粥
+  amount: 60
+  unit: g
+- time: 20150701063000
+  name: 酱肉
+  amount: 150
+  unit: g
+water:
+- time: 20150701061500
+  name: 开水
+  amount: 300
+  unit: ml
+comment: |+
+  ...

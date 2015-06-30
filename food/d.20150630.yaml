@@ -24,6 +24,34 @@ food:
   name: 粽子（五花肉、绿豆）
   amount: 350
   unit: g
+- time: 20150630183000
+  name: 枸杞
+  amount: 50
+  unit: g
+- time: 20150630183000
+  name: 炒小米
+  amount: 50
+  unit: g
+- time: 20150630183000
+  name: 麦胚芽
+  amount: 20
+  unit: g
+- time: 20150630183000
+  name: 奶粉
+  amount: 25
+  unit: g
+- time: 20150630194000
+  name: 香蕉
+  amount: 150
+  unit: g
+- time: 20150630203000
+  name: 丝瓜
+  amount: 250
+  unit: g
+- time: 20150630203000
+  name: 紫菜
+  amount: 20
+  unit: g
 water:
 - time: 20150630073600
   name: 开水
@@ -51,6 +79,10 @@ water:
   unit: ml
 - time: 20150630181900
   name: 绞股蓝+碧螺春
+  amount: 300
+  unit: ml
+- time: 20150630203000
+  name: 丝瓜汤
   amount: 300
   unit: ml
 comment: |+
