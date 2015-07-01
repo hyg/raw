@@ -1,0 +1,25 @@
+date: 20150702
+food:
+- time: 20150702071500
+  name: 葡萄
+  amount: 300
+  unit: g
+- time: 20150702074500
+  name: 绿豆汤
+  amount: 60
+  unit: g
+- time: 20150702074500
+  name: 西兰花
+  amount: 60
+  unit: g
+- time: 20150702074500
+  name: 酱肉
+  amount: 50
+  unit: g
+water:
+- time: 20150702064500
+  name: 开水
+  amount: 300
+  unit: ml
+comment: |+
+  ...
