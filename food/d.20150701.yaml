@@ -4,16 +4,80 @@ food:
   name: 香蕉
   amount: 120
   unit: g
-- time: 20150701063000
+- time: 20150701064000
   name: 杂粮粥
   amount: 60
   unit: g
-- time: 20150701063000
+- time: 20150701064000
+  name: 麦胚芽
+  amount: 60
+  unit: g
+- time: 20150701064000
   name: 酱肉
   amount: 150
   unit: g
+- time: 20150701064000
+  name: 胡萝卜
+  amount: 100
+  unit: g
+- time: 20150701124000
+  name: 鸡肉
+  amount: 200
+  unit: g
+- time: 20150701132000
+  name: 麦片
+  amount: 60
+  unit: g
+- time: 20150701132000
+  name: 奶粉
+  amount: 50
+  unit: g
+- time: 20150701132000
+  name: 麦胚芽
+  amount: 10
+  unit: g
+- time: 20150701132000
+  name: 可可
+  amount: 10
+  unit: g
+- time: 20150701912000
+  name: 青椒
+  amount: 100
+  unit: g
+- time: 20150701930000
+  name: 土豆
+  amount: 400
+  unit: g
+- time: 20150701930000
+  name: 胡萝卜
+  amount: 300
+  unit: g
+- time: 20150702020000
+  name: 甜瓜
+  amount: 450
+  unit: g
 water:
 - time: 20150701061500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150701082500
+  name: 绞股蓝+碧螺春
+  amount: 300
+  unit: ml
+- time: 20150701094500
+  name: 绞股蓝+碧螺春
+  amount: 300
+  unit: ml
+- time: 20150701134500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20150701174500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20150701202500
   name: 开水
   amount: 300
   unit: ml
