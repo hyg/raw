@@ -10,11 +10,23 @@ food:
   unit: g
 - time: 20150702074500
   name: 西兰花
-  amount: 60
+  amount: 400
   unit: g
 - time: 20150702074500
   name: 酱肉
   amount: 50
+  unit: g
+- time: 20150702095000
+  name: 西红柿
+  amount: 300
+  unit: g
+- time: 20150702105000
+  name: 葡萄
+  amount: 750
+  unit: g
+- time: 20150702124500
+  name: 番薯叶
+  amount: 350
   unit: g
 water:
 - time: 20150702064500
