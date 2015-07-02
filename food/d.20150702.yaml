@@ -28,8 +28,48 @@ food:
   name: 番薯叶
   amount: 350
   unit: g
+- time: 20150702181000
+  name: 豇豆炒肉丁
+  amount: 75
+  unit: g
+- time: 20150702181000
+  name: 西红柿炒鸡蛋
+  amount: 75
+  unit: g
+- time: 20150702181000
+  name: 土豆丝
+  amount: 75
+  unit: g
+- time: 20150702181000
+  name: 苦瓜
+  amount: 75
+  unit: g
+- time: 20150702181000
+  name: 米饭
+  amount: 150
+  unit: g
 water:
 - time: 20150702064500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150702092500
+  name: 绞股蓝——龙井
+  amount: 300
+  unit: ml
+- time: 20150702103000
+  name: 绞股蓝——龙井
+  amount: 300
+  unit: ml
+- time: 20150702120000
+  name: 绞股蓝——龙井
+  amount: 300
+  unit: ml
+- time: 20150702140000
+  name: 矿泉水
+  amount: 850
+  unit: ml
+- time: 20150702214500
   name: 开水
   amount: 300
   unit: ml
