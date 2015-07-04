@@ -1,28 +1,76 @@
 date: 20150704
 food:
-- time: 20150704074000
+- time: 20150704075000
   name: 甜瓜
   amount: 300
   unit: g
-- time: 20150704074000
+- time: 20150704075000
   name: 小米粥
   amount: 50
   unit: g
-- time: 20150704074000
+- time: 20150704075000
   name: 酱肉
   amount: 75
   unit: g
-- time: 20150704074000
+- time: 20150704075000
   name: 毛豆
   amount: 250
   unit: g
-- time: 20150704074000
+- time: 20150704075000
   name: 馒头
   amount: 150
+  unit: g
+- time: 20150704121000
+  name: 西红柿
+  amount: 250
+  unit: g
+- time: 20150704125000
+  name: 面条
+  amount: 80
+  unit: g
+- time: 20150704125000
+  name: 酱牛肉
+  amount: 200
+  unit: g
+- time: 20150704125000
+  name: 青椒
+  amount: 150
+  unit: g
+- time: 20150704125000
+  name: 黄瓜
+  amount: 150
+  unit: g
+- time: 20150704125000
+  name: 娃娃菜
+  amount: 100
+  unit: g
+- time: 20150704195000
+  name: 肉包子
+  amount: 175
+  unit: g
+- time: 20150704202000
+  name: 柿子
+  amount: 200
   unit: g
 water:
 - time: 20150704064000
   name: 开水
+  amount: 300
+  unit: ml
+- time: 20150704092400
+  name: 绞股蓝+碧螺春
+  amount: 500
+  unit: ml
+- time: 20150704105000
+  name: 绞股蓝+碧螺春
+  amount: 500
+  unit: ml
+- time: 20150704143000
+  name: 绞股蓝+碧螺春
+  amount: 300
+  unit: ml
+- time: 20150704163000
+  name: 绞股蓝+碧螺春
   amount: 300
   unit: ml
 comment: |+
