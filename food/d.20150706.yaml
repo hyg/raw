@@ -1,0 +1,33 @@
+date: 20150706
+food:
+- time: 20150706072000
+  name: 甜瓜
+  amount: 300
+  unit: g
+- time: 20150706083000
+  name: 杂粮粥
+  amount: 60
+  unit: g
+- time: 20150706083000
+  name: 麦胚芽
+  amount: 30
+  unit: g
+- time: 20150706083000
+  name: 毛豆
+  amount: 250
+  unit: g
+- time: 20150706083000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+water:
+- time: 20150706034500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150706070500
+  name: 开水
+  amount: 300
+  unit: ml
+comment: |+
+  ...
