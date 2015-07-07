@@ -20,9 +20,29 @@ food:
   name: 粉片
   amount: 30
   unit: g
+- time: 20150707125000
+  name: 李子
+  amount: 300
+  unit: g
+- time: 20150707175000
+  name: 玉米
+  amount: 250
+  unit: g
 water:
 - time: 20150707062500
   name: 开水
+  amount: 300
+  unit: ml
+- time: 20150707092500
+  name: 绞股蓝+碧螺春
+  amount: 300
+  unit: ml
+- time: 20150707142500
+  name: 绞股蓝+碧螺春
+  amount: 300
+  unit: ml
+- time: 20150707162500
+  name: 绞股蓝+碧螺春
   amount: 300
   unit: ml
 comment: |+
