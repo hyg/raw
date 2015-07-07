@@ -28,6 +28,18 @@ food:
   name: 玉米
   amount: 250
   unit: g
+- time: 20150707202000
+  name: 穿心莲
+  amount: 150
+  unit: g
+- time: 20150707202000
+  name: 秋葵
+  amount: 200
+  unit: g
+- time: 20150707202000
+  name: 猪肉（粉片、豆角干）
+  amount: 150
+  unit: g
 water:
 - time: 20150707062500
   name: 开水
