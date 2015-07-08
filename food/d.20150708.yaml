@@ -8,10 +8,66 @@ food:
   name: 杂粮粥
   amount: 60
   unit: g
+- time: 20150708132000
+  name: 番石榴
+  amount: 75
+  unit: g
+- time: 20150708132000
+  name: 甜瓜
+  amount: 300
+  unit: g
+- time: 20150708151000
+  name: 玉米
+  amount: 300
+  unit: g
+- time: 20150708193000
+  name: 穿心莲
+  amount: 200
+  unit: g
+- time: 20150708193000
+  name: 肉包子
+  amount: 150
+  unit: g
+- time: 20150708193000
+  name: 紫米馒头
+  amount: 100
+  unit: g
+- time: 20150708193000
+  name: 鱼
+  amount: 200
+  unit: g
+- time: 20150708195000
+  name: 番石榴
+  amount: 50
+  unit: g
+- time: 20150708195000
+  name: 甜瓜
+  amount: 200
+  unit: g
 water:
-- time: 201507008072000
+- time: 20150708072000
   name: 柠檬水
   amount: 500
+  unit: ml
+- time: 20150708082000
+  name: 绞股蓝+碧螺春
+  amount: 400
+  unit: ml
+- time: 20150708111000
+  name: 绞股蓝+碧螺春
+  amount: 400
+  unit: ml
+- time: 20150708141000
+  name: 绞股蓝+碧螺春
+  amount: 400
+  unit: ml
+- time: 201507008181000
+  name: 绞股蓝+碧螺春
+  amount: 400
+  unit: ml
+- time: 201507008205000
+  name: 开水
+  amount: 300
   unit: ml
 comment: |+
   ...
