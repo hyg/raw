@@ -5,6 +5,11 @@ sleep:
 wake: 
   time: 20150710053800
   weight: 52.0
+stool: 
+- time: 20150710190000
+  amount: 3	# 				1:多;		2:适中;		3:少;
+  type: 2 		# 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 2 	# 				1:不困难;	2:困难;
 exercise: 
 - time: 20150710061000
   item: 
