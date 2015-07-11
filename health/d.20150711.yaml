@@ -5,5 +5,18 @@ sleep:
 wake: 
   time: 20150711063000
   weight: 51.9
+exercise: 
+- time: 20150711154000
+  item: 
+  - type: 蹲墙
+    amount: 60
+    unit: turn
+  endheartrate: 71
+- time: 20150711164000
+  item: 
+  - type: 平板支撑
+    amount: 5
+    unit: turn
+  endheartrate: 70
 comment: |+
   ... 

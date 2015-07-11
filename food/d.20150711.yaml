@@ -20,12 +20,24 @@ food:
   name: 海鸭蛋
   amount: 60
   unit: g
+- time: 20150711101000
+  name: 圣女果
+  amount: 300
+  unit: g
 water:
 - time: 20150711063500
   name: 开水
   amount: 300
   unit: ml
 - time: 20150711074500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150711125000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150711161000
   name: 开水
   amount: 300
   unit: ml
