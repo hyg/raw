@@ -5,6 +5,11 @@ sleep:
 wake: 
   time: 20150712055600
   weight: 52.2
+stool: 
+- time: 20150712203000
+  amount: 2	# 				1:多;		2:适中;		3:少;
+  type: 2 		# 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 2 	# 				1:不困难;	2:困难;
 exercise: 
 - time: 20150712061000
   item: 
@@ -38,6 +43,12 @@ exercise:
   - type: pilates.p079
     amount: 5
     unit: turn
-  endheartrate: 70
+  endheartrate: 84
+- time: 20150712101000
+  item: 
+  - type: 蹲墙
+    amount: 30
+    unit: turn
+  endheartrate: 76
 comment: |+
   ... 
