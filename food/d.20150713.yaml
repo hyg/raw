@@ -16,6 +16,30 @@ food:
   name: 海鸭蛋
   amount: 120
   unit: g
+- time: 20150713124000
+  name: 紫薯
+  amount: 250
+  unit: g
+- time: 20150713150000
+  name: 西红柿
+  amount: 300
+  unit: g
+- time: 20150713154000
+  name: 果丹皮
+  amount: 100
+  unit: g
+- time: 20150713193000
+  name: 面条
+  amount: 175
+  unit: g
+- time: 20150713193000
+  name: 酱牛肉
+  amount: 250
+  unit: g
+- time: 20150713193000
+  name: 娃娃菜
+  amount: 200
+  unit: g
 water:
 - time: 20150713072000
   name: 开水
@@ -24,6 +48,18 @@ water:
 - time: 20150713084000
   name: 绞股蓝+碧螺春
   amount: 400
+  unit: ml
+- time: 20150713104000
+  name: 绞股蓝+碧螺春
+  amount: 400
+  unit: ml
+- time: 20150713144000
+  name: 绞股蓝+碧螺春
+  amount: 400
+  unit: ml
+- time: 20150713172000
+  name: 开水
+  amount: 300
   unit: ml
 comment: |+
   ...
