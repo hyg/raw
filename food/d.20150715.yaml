@@ -32,6 +32,26 @@ food:
   name: 百香果
   amount: 50
   unit: g
+- time: 20150715174500
+  name: 西红柿
+  amount: 250
+  unit: g
+- time: 20150715194500
+  name: 馒头
+  amount: 150
+  unit: g
+- time: 20150715194500
+  name: 么话肉
+  amount: 200
+  unit: g
+- time: 20150715194500
+  name: 紫菜
+  amount: 40
+  unit: g
+- time: 20150715194500
+  name: 葡萄
+  amount: 250
+  unit: g
 water:
 - time: 20150715060000
   name: 开水
@@ -42,6 +62,18 @@ water:
   amount: 400
   unit: ml
 - time: 20150715090000
+  name: 绞股蓝+龙井
+  amount: 400
+  unit: ml
+- time: 20150715112000
+  name: 绞股蓝+龙井
+  amount: 400
+  unit: ml
+- time: 20150715130000
+  name: 绞股蓝+龙井
+  amount: 400
+  unit: ml
+- time: 20150715160000
   name: 绞股蓝+龙井
   amount: 400
   unit: ml
