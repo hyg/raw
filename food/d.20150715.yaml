@@ -1,12 +1,36 @@
 date: 20150715
 food:
 - time: 20150715062000
+  name: 木瓜
+  amount: 200
+  unit: g
+- time: 20150715062000
   name: 麦胚芽
   amount: 20
   unit: g
 - time: 20150715062000
   name: 杂粮粥
   amount: 60
+  unit: g
+- time: 20150715110000
+  name: 馒头
+  amount: 150
+  unit: g
+- time: 20150715110000
+  name: 酱牛肉
+  amount: 150
+  unit: g
+- time: 20150715110000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20150715114500
+  name: 番石榴
+  amount: 120
+  unit: g
+- time: 20150715114500
+  name: 百香果
+  amount: 50
   unit: g
 water:
 - time: 20150715060000
