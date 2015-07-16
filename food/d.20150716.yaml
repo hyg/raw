@@ -20,10 +20,62 @@ food:
   name: 梅花肉
   amount: 100
   unit: g
+- time: 20150716085000
+  name: 西红柿
+  amount: 150
+  unit: g
+- time: 20150716132000
+  name: 面条
+  amount: 75
+  unit: g
+- time: 20150716132000
+  name: 苦瓜
+  amount: 100
+  unit: g
+- time: 20150716132000
+  name: 胡萝卜
+  amount: 50
+  unit: g
+- time: 20150716132000
+  name: 西兰花
+  amount: 200
+  unit: g
+- time: 20150716194000
+  name: 馒头
+  amount: 150
+  unit: g
+- time: 20150716194000
+  name: 木耳
+  amount: 30
+  unit: g
+- time: 20150716194000
+  name: 青椒
+  amount: 100
+  unit: g
+- time: 20150716194000
+  name: 猪大肠
+  amount: 200
+  unit: g
 water:
 - time: 20150716063500
   name: 开水
   amount: 300
+  unit: ml
+- time: 20150716091000
+  name: 绞股蓝+龙井
+  amount: 400
+  unit: ml
+- time: 20150716111000
+  name: 绞股蓝+龙井
+  amount: 400
+  unit: ml
+- time: 20150716141000
+  name: 绞股蓝+龙井
+  amount: 400
+  unit: ml
+- time: 20150716161000
+  name: 绞股蓝+龙井
+  amount: 400
   unit: ml
 comment: |+
   ...
