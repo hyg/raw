@@ -1,0 +1,61 @@
+date: 20150719
+food:
+- time: 20150719082000
+  name: 杂粮粥
+  amount: 100
+  unit: g
+- time: 20150719082000
+  name: 麦胚芽
+  amount: 30
+  unit: g
+- time: 20150719123000
+  name: 快餐（牛柳、鸡蛋、白菜、猪肉丁）
+  amount: 350
+  unit: g
+- time: 20150719162000
+  name: 木瓜
+  amount: 250
+  unit: g
+- time: 20150719162000
+  name: 百香果
+  amount: 500
+  unit: g
+- time: 20150719183000
+  name: 馒头
+  amount: 150
+  unit: g
+- time: 20150719183000
+  name: 豇豆
+  amount: 150
+  unit: g
+- time: 20150719183000
+  name: 豆腐
+  amount: 100
+  unit: g
+- time: 20150719183000
+  name: 五花肉
+  amount: 150
+  unit: g
+water:
+- time: 20150719080800
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150719092000
+  name: 绞股蓝+碧螺春
+  amount: 300
+  unit: ml
+- time: 201507190112000
+  name: 绞股蓝+碧螺春
+  amount: 300
+  unit: ml
+- time: 201507190162000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 201507190222000
+  name: 开水
+  amount: 300
+  unit: ml
+comment: |+
+  ...

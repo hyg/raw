@@ -4,8 +4,12 @@ food:
   name: 百香果
   amount: 200
   unit: g
+- time: 20150718082000
+  name: 香蕉
+  amount: 150
+  unit: g
 - time: 20150718085000
-  name: 帮骨肉
+  name: 棒骨肉
   amount: 120
   unit: g
 - time: 20150718085000
@@ -16,8 +20,32 @@ food:
   name: 麦胚芽
   amount: 30
   unit: g
+- time: 20150718125000
+  name: 馒头
+  amount: 150
+  unit: g
+- time: 20150718125000
+  name: 豆腐
+  amount: 220
+  unit: g
+- time: 20150718172000
+  name: 香蕉
+  amount: 150
+  unit: g
 water:
 - time: 20150718075600
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150718101000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150718133000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150718170500
   name: 开水
   amount: 300
   unit: ml
