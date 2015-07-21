@@ -1,0 +1,29 @@
+date: 20150721
+food:
+- time: 20150721080000
+  name: 番石榴
+  amount: 200
+  unit: g
+- time: 20150721080000
+  name: 百香果
+  amount: 150
+  unit: g
+- time: 20150721083000
+  name: 杂粮粥
+  amount: 60
+  unit: g
+- time: 20150721083000
+  name: 麦胚芽
+  amount: 30
+  unit: g
+- time: 20150721083000
+  name: 牛肉（土豆、胡萝卜）
+  amount: 200
+  unit: g
+water:
+- time: 20150721061500
+  name: 开水
+  amount: 300
+  unit: ml
+comment: |+
+  ...
