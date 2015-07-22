@@ -20,8 +20,68 @@ food:
   name: 牛肉（土豆、胡萝卜）
   amount: 200
   unit: g
+- time: 20150721143000
+  name: 馒头
+  amount: 150
+  unit: g
+- time: 20150721143000
+  name: 紫薯
+  amount: 150
+  unit: g
+- time: 20150721143000
+  name: 海带
+  amount: 20
+  unit: g
+- time: 20150721143000
+  name: 腊八豆腐
+  amount: 100
+  unit: g
+- time: 20150721181000
+  name: 百香果
+  amount: 100
+  unit: g
+- time: 20150721183000
+  name: 馒头
+  amount: 150
+  unit: g
+- time: 20150721183000
+  name: 豇豆
+  amount: 100
+  unit: g
+- time: 20150721183000
+  name: 排骨
+  amount: 100
+  unit: g
+- time: 20150721183000
+  name: 土豆
+  amount: 50
+  unit: g
 water:
 - time: 20150721061500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150721083000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150721103000
+  name: 绞股蓝+龙井
+  amount: 400
+  unit: ml
+- time: 20150721114800
+  name: 绞股蓝+龙井
+  amount: 400
+  unit: ml
+- time: 20150721124800
+  name: 绞股蓝+龙井
+  amount: 200
+  unit: ml
+- time: 20150721162000
+  name: 绞股蓝+龙井
+  amount: 400
+  unit: ml
+- time: 20150721185000
   name: 开水
   amount: 300
   unit: ml
