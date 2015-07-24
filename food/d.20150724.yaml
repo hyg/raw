@@ -1,27 +1,47 @@
 date: 20150724
 food:
-- time: 20150724091500
+- time: 20150724102500
+  name: 馒头
+  amount: 200
+  unit: g
+- time: 20150724140000
   name: 海鸭蛋
   amount: 120
   unit: g
-- time: 20150724091500
-  name: 麦胚芽
-  amount: 30
+- time: 20150724153000
+  name: 鲜无花果
+  amount: 250
   unit: g
-- time: 20150724091500
-  name: 麦片
-  amount: 60
+- time: 20150724193000
+  name: 杂粮粥
+  amount: 120
   unit: g
-- time: 20150724091500
+- time: 20150724193000
+  name: 猪棒骨
+  amount: 150
+  unit: g
+- time: 20150724223000
   name: 奶粉
   amount: 25
   unit: g
-- time: 20150724091500
-  name: 鲜无花果
-  amount: 150
-  unit: g
 water:
 - time: 20150724084500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150724093000
+  name: 绞股蓝+碧螺春
+  amount: 300
+  unit: ml
+- time: 20150724113000
+  name: 绞股蓝+碧螺春
+  amount: 300
+  unit: ml
+- time: 20150724153000
+  name: 绞股蓝+碧螺春
+  amount: 300
+  unit: ml
+- time: 20150724184500
   name: 开水
   amount: 300
   unit: ml
