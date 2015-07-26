@@ -1,0 +1,21 @@
+date: 20150726
+food:
+- time: 20150726094500
+  name: 木瓜
+  amount: 300
+  unit: g
+- time: 20150726094500
+  name: 杂粮粥
+  amount: 100
+  unit: g
+- time: 20150726094500
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+water:
+- time: 20150726094500
+  name: 开水
+  amount: 300
+  unit: ml
+comment: |+
+  ...
