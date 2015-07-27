@@ -12,6 +12,30 @@ food:
   name: 海鸭蛋
   amount: 60
   unit: g
+- time: 20150727132500
+  name: 麦片
+  amount: 60
+  unit: g
+- time: 20150727193500
+  name: 番石榴
+  amount: 60
+  unit: g
+- time: 20150727193500
+  name: 百香果
+  amount: 100
+  unit: g
+- time: 20150727184500
+  name: 面条
+  amount: 60
+  unit: g
+- time: 20150727184500
+  name: 苦荞面
+  amount: 60
+  unit: g
+- time: 20150727184500
+  name: 红烧牛肉
+  amount: 220
+  unit: g
 water:
 - time: 20150727071500
   name: 开水
@@ -28,6 +52,18 @@ water:
 - time: 20150727121500
   name: 绞股蓝+碧螺春+罗汉果
   amount: 400
+  unit: ml
+- time: 20150727133500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150727143500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150727203500
+  name: 开水
+  amount: 300
   unit: ml
 comment: |+
   ...
