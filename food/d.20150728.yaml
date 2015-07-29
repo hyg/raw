@@ -16,8 +16,48 @@ food:
   name: 海鸭蛋
   amount: 60
   unit: g
+- time: 20150728164500
+  name: 馒头
+  amount: 200
+  unit: g
+- time: 20150728165500
+  name: 西红柿
+  amount: 200
+  unit: g
+- time: 20150728192500
+  name: 鸡肉
+  amount: 200
+  unit: g
+- time: 20150728192500
+  name: 墨鱼
+  amount: 200
+  unit: g
+- time: 20150728192500
+  name: 馒头
+  amount: 150
+  unit: g
 water:
 - time: 20150728071500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150728085500
+  name: 绞股蓝+龙井+罗汉果
+  amount: 400
+  unit: ml
+- time: 20150728120000
+  name: 绞股蓝+龙井+罗汉果
+  amount: 400
+  unit: ml
+- time: 20150728143000
+  name: 绞股蓝+龙井+罗汉果
+  amount: 400
+  unit: ml
+- time: 20150728174500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150728203000
   name: 开水
   amount: 300
   unit: ml
