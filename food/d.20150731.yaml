@@ -24,6 +24,26 @@ food:
   name: 紫薯
   amount: 120
   unit: g
+- time: 20150731192000
+  name: 青椒
+  amount: 150
+  unit: g
+- time: 20150731192000
+  name: 苦瓜
+  amount: 250
+  unit: g
+- time: 20150731192000
+  name: 鸡肉
+  amount: 350
+  unit: g
+- time: 20150731192000
+  name: 鲍鱼
+  amount: 200
+  unit: g
+- time: 20150731192000
+  name: 秋葵
+  amount: 400
+  unit: g
 water:
 - time: 20150731061500
   name: 开水
@@ -36,6 +56,18 @@ water:
 - time: 20150731123000
   name: 绞股蓝+龙井
   amount: 400
+  unit: ml
+- time: 20150731143000
+  name: 绞股蓝+龙井
+  amount: 400
+  unit: ml
+- time: 20150731173000
+  name: 绞股蓝+龙井
+  amount: 400
+  unit: ml
+- time: 20150731201500
+  name: 开水
+  amount: 300
   unit: ml
 comment: |+
   ...
