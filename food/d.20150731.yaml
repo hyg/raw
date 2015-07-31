@@ -1,0 +1,41 @@
+date: 20150731
+food:
+- time: 20150731062500
+  name: 葡萄
+  amount: 200
+  unit: g
+- time: 20150731062500
+  name: 百香果
+  amount: 200
+  unit: g
+- time: 20150731065500
+  name: 杂粮粥
+  amount: 60
+  unit: g
+- time: 20150731065500
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20150731132500
+  name: 玉米
+  amount: 150
+  unit: g
+- time: 20150731132500
+  name: 紫薯
+  amount: 120
+  unit: g
+water:
+- time: 20150731061500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150731093000
+  name: 绞股蓝+龙井
+  amount: 400
+  unit: ml
+- time: 20150731123000
+  name: 绞股蓝+龙井
+  amount: 400
+  unit: ml
+comment: |+
+  ...
