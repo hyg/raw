@@ -1,0 +1,57 @@
+date: 20150725
+food:
+- time: 20150725090000
+  name: 米饭
+  amount: 150
+  unit: g
+- time: 20150725090000
+  name: 榨菜
+  amount: 80
+  unit: g
+- time: 20150725155000
+  name: 枸杞
+  amount: 30
+  unit: g
+- time: 20150725155000
+  name: 麦片
+  amount: 60
+  unit: g
+- time: 20150725193000
+  name: 墨鱼
+  amount: 150
+  unit: g
+- time: 20150725193000
+  name: 鸡肉
+  amount: 250
+  unit: g
+- time: 20150725193000
+  name: 馒头
+  amount: 250
+  unit: g
+water:
+- time: 20150725084500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150725114500
+  name: 绞股蓝+碧螺春+罗汉果
+  amount: 400
+  unit: ml
+- time: 20150725144500
+  name: 绞股蓝+碧螺春+罗汉果
+  amount: 400
+  unit: ml
+- time: 20150725163500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150725193500
+  name: 汤水
+  amount: 600
+  unit: ml
+- time: 20150725215000
+  name: 开水
+  amount: 300
+  unit: ml
+comment: |+
+   蔬菜水果种类数量不足

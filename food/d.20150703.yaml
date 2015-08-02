@@ -1,0 +1,65 @@
+date: 20150703
+food:
+- time: 20150703072500
+  name: 小米粥
+  amount: 50
+  unit: g
+- time: 20150703072500
+  name: 酱肉
+  amount: 75
+  unit: g
+- time: 20150703072500
+  name: 毛豆
+  amount: 250
+  unit: g
+- time: 20150703072500
+  name: 粽子（五花肉、绿豆）
+  amount: 350
+  unit: g
+- time: 20150703123500
+  name: 西红柿
+  amount: 550
+  unit: g
+- time: 20150703123500
+  name: 鸡蛋
+  amount: 60
+  unit: g
+- time: 20150703172500
+  name: 甜瓜
+  amount: 600
+  unit: g
+- time: 20150703190500
+  name: 豆腐
+  amount: 220
+  unit: g
+- time: 20150703190500
+  name: 丝瓜
+  amount: 400
+  unit: g
+- time: 20150703201500
+  name: 凤梨
+  amount: 250
+  unit: g
+water:
+- time: 20150703062500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150703120000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150703124500
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20150703162500
+  name: 绞股蓝+龙井
+  amount: 300
+  unit: ml
+- time: 20150703182500
+  name: 开水
+  amount: 300
+  unit: ml
+comment: |+
+  营养摄入良好

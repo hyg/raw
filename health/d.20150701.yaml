@@ -1,17 +1,17 @@
-date: 20150630
+date: 20150701
 sleep: 
-  time: 20150630003900
+  time: 20150701010900
   weight: 52.3
 wake: 
-  time: 20150630073600
-  weight: 52.0
+  time: 20150701061200
+  weight: 51.8
 stool: 
-- time: 20150630212000
-  amount: 3	# 				1:多;		2:适中;		3:少;
+- time: 20150701212500
+  amount: 2	# 				1:多;		2:适中;		3:少;
   type: 1 		# 	0:水样;		1:软;		2:适中;		3:硬;
-  diffcult: 2 	# 				1:不困难;	2:困难;
+  diffcult: 1 	# 				1:不困难;	2:困难;
 exercise: 
-- time: 20150630081500
+- time: 20150701184000
   item: 
   - type: 42.2
     amount: 15
@@ -43,6 +43,6 @@ exercise:
   - type: pilates.p079
     amount: 5
     unit: turn
-  endheartrate: 68
+  endheartrate: 75
 comment: |+
-   睡眠时间过晚 排便困难？
+   睡眠时间太晚

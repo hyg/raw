@@ -1,0 +1,27 @@
+date: 20150711
+sleep: 
+  time: 20150710225800
+  weight: 53.0
+wake: 
+  time: 20150711063000
+  weight: 51.9
+stool: 
+- time: 20150711214000
+  amount: 2	# 				1:多;		2:适中;		3:少;
+  type: 2 		# 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 1 	# 				1:不困难;	2:困难;
+exercise: 
+- time: 20150711154000
+  item: 
+  - type: 蹲墙
+    amount: 60
+    unit: turn
+  endheartrate: 71
+- time: 20150711164000
+  item: 
+  - type: 平板支撑
+    amount: 5
+    unit: turn
+  endheartrate: 70
+comment: |+
+   运动种类建议增加
