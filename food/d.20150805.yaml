@@ -1,0 +1,74 @@
+date: 20150805
+food:
+- time: 20150805075000
+  name: 甜瓜
+  amount: 300
+  unit: g  
+- time: 20150805083000
+  name: 麦片
+  amount: 60
+  unit: g
+- time: 20150805083000
+  name: 麦胚芽
+  amount: 20
+  unit: g
+- time: 20150805083000
+  name: 奶粉
+  amount: 25
+  unit: g
+- time: 20150805132000
+  name: 紫米馒头
+  amount: 150
+  unit: g
+- time: 20150805132000
+  name: 胡萝卜
+  amount: 200
+  unit: g
+- time: 20150805132000
+  name: 冻卤水豆腐
+  amount: 250
+  unit: g
+- time: 20150805132000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20150805192000
+  name: 猪棒骨
+  amount: 250
+  unit: g
+- time: 20150805192000
+  name: 豇豆
+  amount: 200
+  unit: g
+- time: 20150805192000
+  name: 红薯粉片
+  amount: 100
+  unit: g
+water:
+- time: 20150805064500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150805084500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20150805093500
+  name: 绞股蓝+龙井+罗汉果
+  amount: 400
+  unit: ml
+- time: 20150805113000
+  name: 绞股蓝+龙井+罗汉果
+  amount: 400
+  unit: ml
+- time: 20150805152000
+  name: 绞股蓝+龙井+罗汉果
+  amount: 400
+  unit: ml
+water:
+- time: 20150805194500
+  name: 开水
+  amount: 300
+  unit: ml
+comment: |+
+  ...

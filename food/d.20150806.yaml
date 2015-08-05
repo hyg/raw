@@ -1,0 +1,29 @@
+date: 20150806
+food:
+- time: 20150806073000
+  name: 木瓜
+  amount: 300
+  unit: g  
+- time: 20150806074000
+  name: 紫菜
+  amount: 30
+  unit: g
+- time: 20150806074000
+  name: 紫米馒头
+  amount: 150
+  unit: g
+- time: 20150806074000
+  name: 海鸭蛋
+  amount: 25
+  unit: g
+water:
+- time: 20150806071500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150806074000
+  name: 汤水
+  amount: 300
+  unit: ml
+comment: |+
+  ...

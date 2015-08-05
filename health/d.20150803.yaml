@@ -1,0 +1,21 @@
+date: 20150803
+sleep: 
+  time: 20150802221700
+  weight: 53.9
+wake: 
+  time: 20150803062900
+  weight: 52.5
+stool: 
+- time: 20150803202500
+  amount: 2	# 				1:多;		2:适中;		3:少;
+  type: 2 		# 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 1 	# 				1:不困难;	2:困难;
+exercise: 
+- time: 2015080319250000
+  item: 
+  - type: 步行
+    amount: 55
+    unit: minute
+  endheartrate: 75
+comment: |+
+  ... 
