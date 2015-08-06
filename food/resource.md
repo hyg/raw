@@ -9,7 +9,7 @@
 <tr><th>抗氧化</th><td>水果干</td><td>胡萝卜</td><td>胡萝卜</td><td>胡萝卜</td><td></td><td></td><td>胡萝卜</td><td></td><td></td><td></td><td></td><td></td><td>胡萝卜</td></tr>
 <tr><th>蔬菜</th><td></td><td>青椒、洋葱、花椰菜、芹菜、莴苣、油菜、菠菜、春笋。 
 </td><td>青椒、洋葱、花椰菜、芹菜、莴苣、油菜、菠菜、春笋。 </td><td>青椒、洋葱、花椰菜、芹菜、莴苣、油菜、菠菜、春笋。 </td><td>丝瓜、苦瓜、冬瓜、菜豆、芦笋、洋葱、南瓜、空心菜、地瓜叶、竹笋、生菜、西红柿、卷心菜、茄子。</td><td>丝瓜、苦瓜、冬瓜、菜豆、芦笋、洋葱、南瓜、空心菜、地瓜叶、竹笋、生菜、西红柿、卷心菜、茄子。</td><td>丝瓜、苦瓜、冬瓜、菜豆、芦笋、洋葱、南瓜、空心菜、地瓜叶、竹笋、生菜、西红柿、卷心菜、茄子。</td><td>秋葵、莲藕、栗子、冬瓜、四季豆、芸豆、地瓜叶、豆角、白菜、扁豆。</td><td>秋葵、莲藕、栗子、冬瓜、四季豆、芸豆、地瓜叶、豆角、白菜、扁豆。</td><td>秋葵、莲藕、栗子、冬瓜、四季豆、芸豆、地瓜叶、豆角、白菜、扁豆。</td><td>青椒、卷心菜、白菜、洋葱、花椰菜、胡萝卜、萝卜、芹菜、菠菜、芥菜、葵年菜、莴苣。 </td><td>青椒、卷心菜、白菜、洋葱、花椰菜、胡萝卜、萝卜、芹菜、菠菜、芥菜、葵年菜、莴苣。</td><td>青椒、卷心菜、白菜、洋葱、花椰菜、胡萝卜、萝卜、芹菜、菠菜、芥菜、葵年菜、莴苣。</td></tr>
-<tr><th>水果</th><td></td><td>番石榴</td><td>番石榴</td><td>番石榴、夏橙</td><td>番石榴、香蕉、夏橙、清见、不知火</td><td>番石榴、香蕉、夏橙、清见、不知火、百香果</td><td>桃、李、杏、香蕉、樱桃、夏橙、菠萝、百香果</td><td>桃、李、杏、柚子、柿子、苹果、梨、杨桃、橘子、核桃</td><td>柚子、柿子、苹果、梨、杨桃、橘子、核桃</td><td>柚子、柿子、苹果、梨、杨桃、橘子、核桃、猕猴桃</td><td>橙、柚子、橘子、猕猴桃</td><td>橙、柚子、橘子</td><td>橙、柚子、橘子</td></tr>
+<tr><th>水果</th><td></td><td>番石榴</td><td>番石榴</td><td>番石榴、夏橙</td><td>番石榴、香蕉、夏橙、清见、不知火</td><td>番石榴、香蕉、夏橙、清见、不知火、百香果</td><td>桃、李、杏、香蕉、樱桃、夏橙、菠萝、百香果</td><td>番石榴、李、杏、百香果、甜瓜、木瓜、杨桃、菠萝、葡萄</td><td>番石榴、百香果、杨桃、桃、木瓜、甜瓜、葡萄、菠萝、猕猴桃</td><td>柚子、柿子、苹果、梨、杨桃、橘子、核桃、猕猴桃</td><td>橙、柚子、橘子、猕猴桃</td><td>橙、柚子、橘子</td><td>橙、柚子、橘子</td></tr>
 <tr><th>其它</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>拐枣</td><td></td></tr>
 </table>
 
@@ -33,13 +33,13 @@
 * 海带
 * 杂粮粥
 	<table>
-	<tr><th>供货商</th><th>黑米</th><th>黑糯米</th><th>糙米</th><th>小米</th><th>红米</th><th>燕麦米</th><th>苦荞麦</th><th>鹰嘴豆</th><th>莲子</th><th>百合</th><th>黑花生米</th><th>红豆</th></tr>
-	<tr><td>寒地黑土北大荒</td><td>1</td><td>1</td><td>1</td><td></td><td></td><td>1</td><td>1</td><td></td><td></td><td></td><td></td><td>1</td></tr>
-	<tr><td>表嫂农家</td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-	<tr><td>*两只小蜜蜂*</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.5</td><td>0.5</td><td></td><td></td></tr>
-	<tr><td>西域之尚</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td></tr>
-	<tr><td>乡村里农产品</td><td><td></td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.7</td><td></td></tr>
-	<tr><td>渊娃娃武乡山西小</td><td></td><td></td><td></td><td>2</td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+	<tr><th>供货商</th><th>黑米</th><th>糙米</th><th>小米</th><th>红米</th><th>燕麦米</th><th>苦荞麦</th><th>鹰嘴豆</th><th>莲子</th><th>百合</th><th>黑花生米</th></tr>
+	<tr><td>寒地黑土北大荒</td><td>1</td><td>1</td><td></td><td></td><td>1</td><td>1</td><td></td><td></td><td></td><td></td></tr>
+	<tr><td>表嫂农家</td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+	<tr><td>*两只小蜜蜂*</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.5</td><td>0.5</td><td></td></tr>
+	<tr><td>西域之尚</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td></tr>
+	<tr><td>乡村里农产品</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.7</td></tr>
+	<tr><td>渊娃娃武乡山西小</td><td></td><td></td><td>0.5</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 	</table>
 * 干果（葡萄干、无花果）
 * 奶粉（海乳）
