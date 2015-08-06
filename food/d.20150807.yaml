@@ -1,0 +1,29 @@
+date: 20150807
+food:
+- time: 20150807044000
+  name: 番石榴
+  amount: 300
+  unit: g  
+- time: 20150807044000
+  name: 紫菜
+  amount: 30
+  unit: g
+- time: 20150807044000
+  name: 卤水豆腐
+  amount: 200
+  unit: g
+- time: 20150807044000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+water:
+- time: 20150807043500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150807044500
+  name: 汤水
+  amount: 300
+  unit: ml
+comment: |+
+  ...
