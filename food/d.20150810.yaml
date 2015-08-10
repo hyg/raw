@@ -1,0 +1,65 @@
+date: 20150810
+food:
+- time: 20150810075000
+  name: 番石榴
+  amount: 300
+  unit: g  
+- time: 20150810075000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20150810095000
+  name: 桃子
+  amount: 200
+  unit: g
+- time: 20150810123000
+  name: 糙米饭
+  amount: 100
+  unit: g
+- time: 20150810125000
+  name: 桃子
+  amount: 500
+  unit: g
+- time: 20150810175000
+  name: 杂粮粥
+  amount: 50
+  unit: g
+- time: 20150810235000
+  name: 鸡肉
+  amount: 200
+  unit: g
+- time: 20150810235000
+  name: 墨鱼
+  amount: 30
+  unit: g
+- time: 20150810235000
+  name: 胡萝卜
+  amount: 150
+  unit: g
+water:
+- time: 20150810074300
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150810085500
+  name: 绞股蓝+龙井
+  amount: 400
+  unit: ml
+- time: 20150810102000
+  name: 绞股蓝+龙井
+  amount: 400
+  unit: ml
+- time: 20150810133000
+  name: 绞股蓝+龙井
+  amount: 400
+  unit: ml
+- time: 20150810174000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150810235000
+  name: 汤水
+  amount: 300
+  unit: ml
+comment: |+
+  ...
