@@ -20,6 +20,34 @@ food:
   name: 奶粉
   amount: 50
   unit: g
+- time: 20150811154000
+  name: 木瓜
+  amount: 250
+  unit: g
+- time: 20150811180000
+  name: 苦荞面
+  amount: 150
+  unit: g
+- time: 20150811180000
+  name: 胡萝卜
+  amount: 200
+  unit: g
+- time: 20150811180000
+  name: 黄瓜
+  amount: 250
+  unit: g
+- time: 20150811180000
+  name: 五花肉
+  amount: 200
+  unit: g
+- time: 20150811180000
+  name: 紫苏
+  amount: 30
+  unit: g
+- time: 201508119100000
+  name: 紫薯
+  amount: 200
+  unit: g
 water:
 - time: 20150811051000
   name: 开水
@@ -38,6 +66,10 @@ water:
   amount: 450
   unit: ml
 - time: 20150811140000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150811830000
   name: 开水
   amount: 300
   unit: ml
