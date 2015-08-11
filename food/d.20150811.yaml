@@ -1,19 +1,43 @@
 date: 20150811
 food:
-- time: 20150811062000
+- time: 20150811063500
   name: 桃子
-  amount: 200
+  amount: 450
   unit: g  
-- time: 20150811062000
+- time: 20150811081000
   name: 海鸭蛋
   amount: 60
   unit: g
-- time: 20150811062000
+- time: 20150811081000
   name: 杂粮粥
   amount: 60
   unit: g
+- time: 20150811134000
+  name: 麦片
+  amount: 60
+  unit: g
+- time: 20150811134000
+  name: 奶粉
+  amount: 50
+  unit: g
 water:
 - time: 20150811051000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150811081000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 2015081109200
+  name: 绞股蓝+龙井
+  amount: 450
+  unit: ml
+- time: 2015081111000
+  name: 绞股蓝+龙井
+  amount: 450
+  unit: ml
+- time: 20150811140000
   name: 开水
   amount: 300
   unit: ml
