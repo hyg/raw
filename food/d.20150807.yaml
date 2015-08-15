@@ -78,4 +78,4 @@ water:
   amount: 300
   unit: ml
 comment: |+
-  ...
+  主食数量不够
