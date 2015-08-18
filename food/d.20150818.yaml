@@ -12,6 +12,42 @@ food:
   name: 杂粮粥
   amount: 60
   unit: g
+- time: 20150818103000
+  name: 葡萄
+  amount: 150
+  unit: g
+- time: 20150818105000
+  name: 胡萝卜
+  amount: 100
+  unit: g
+- time: 20150818105000
+  name: 冻豆腐
+  amount: 100
+  unit: g
+- time: 20150818135000
+  name: 玉米
+  amount: 150
+  unit: g
+- time: 20150818175000
+  name: 馒头
+  amount: 200
+  unit: g
+- time: 20150818175000
+  name: 榨菜
+  amount: 30
+  unit: g
+- time: 20150818185000
+  name: 绿豆
+  amount: 50
+  unit: g
+- time: 20150818194000
+  name: 芦笋
+  amount: 150
+  unit: g
+- time: 20150818195000
+  name: 圣女果
+  amount: 200
+  unit: g
 water:
 - time: 20150818061500
   name: 开水
@@ -20,6 +56,18 @@ water:
 - time: 20150818081000
   name: 绞股蓝+龙井
   amount: 400
+  unit: ml
+- time: 20150818112000
+  name: 绞股蓝+龙井
+  amount: 400
+  unit: ml
+- time: 20150818151000
+  name: 绞股蓝+龙井
+  amount: 400
+  unit: ml
+- time: 20150818185000
+  name: 绿豆汤
+  amount: 500
   unit: ml
 comment: |+
   ...
