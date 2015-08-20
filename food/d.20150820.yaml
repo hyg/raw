@@ -1,0 +1,29 @@
+date: 20150820
+food:
+- time: 20150820063000
+  name: 葡萄
+  amount: 150
+  unit: g
+- time: 20150820063000
+  name: 杂粮粥
+  amount: 60
+  unit: g
+- time: 20150820063000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20150820063000
+  name: 水煮花生
+  amount: 150
+  unit: g
+water:
+- time: 20150820061500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150820082000
+  name: 龙井
+  amount: 400
+  unit: ml
+comment: |+
+  ...
