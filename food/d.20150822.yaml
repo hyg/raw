@@ -24,6 +24,30 @@ food:
   name: 番石榴
   amount: 150
   unit: g
+- time: 20150822182000
+  name: 米饭
+  amount: 100
+  unit: g
+- time: 20150822182000
+  name: 梭梭葡萄干
+  amount: 10
+  unit: g
+- time: 20150822182000
+  name: 猪肉
+  amount: 150
+  unit: g
+- time: 20150822182000
+  name: 紫苏
+  amount: 30
+  unit: g
+- time: 20150822182000
+  name: 豇豆
+  amount: 200
+  unit: g
+- time: 20150822182000
+  name: 青椒
+  amount: 100
+  unit: g
 water:
 - time: 20150822062500
   name: 开水
@@ -38,6 +62,14 @@ water:
   amount: 300
   unit: ml
 - time: 20150822120000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150822180000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150822200000
   name: 开水
   amount: 300
   unit: ml
