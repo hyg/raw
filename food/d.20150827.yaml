@@ -32,6 +32,18 @@ food:
   name: 番石榴
   amount: 150
   unit: g
+- time: 20150827173000
+  name: 绿豆
+  amount: 30
+  unit: g
+- time: 20150827183000
+  name: 麦菜
+  amount: 200
+  unit: g
+- time: 20150827183000
+  name: 猪心
+  amount: 400
+  unit: g
 water:
 - time: 20150827033500
   name: 开水
@@ -51,6 +63,10 @@ water:
   unit: ml
 - time: 20150827143000
   name: 龙井+罗汉果
+  amount: 400
+  unit: ml
+- time: 20150827173000
+  name: 绿豆汤
   amount: 400
   unit: ml
 comment: |+
