@@ -1,0 +1,57 @@
+date: 20150827
+food:
+- time: 20150827035000
+  name: 葡萄
+  amount: 150
+  unit: g
+- time: 20150827074000
+  name: 杂粮粥
+  amount: 60
+  unit: g
+- time: 20150827074000
+  name: 猪肉
+  amount: 150
+  unit: g
+- time: 20150827074000
+  name: 葡萄干
+  amount: 30
+  unit: g
+- time: 20150827074000
+  name: 葡萄
+  amount: 150
+  unit: g
+- time: 20150827124000
+  name: 馒头
+  amount: 300
+  unit: g
+- time: 20150827124000
+  name: 猪肉
+  amount: 200
+  unit: g
+- time: 20150827153000
+  name: 番石榴
+  amount: 150
+  unit: g
+water:
+- time: 20150827033500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150827073500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150827083000
+  name: 龙井+罗汉果
+  amount: 400
+  unit: ml
+- time: 20150827113000
+  name: 龙井+罗汉果
+  amount: 400
+  unit: ml
+- time: 20150827143000
+  name: 龙井+罗汉果
+  amount: 400
+  unit: ml
+comment: |+
+  ...
