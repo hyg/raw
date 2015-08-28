@@ -16,6 +16,34 @@ food:
   name: 鸡蛋
   amount: 60
   unit: g
+- time: 20150828114000
+  name: 玉米
+  amount: 300
+  unit: g
+- time: 20150828142000
+  name: 馒头
+  amount: 120
+  unit: g
+- time: 20150828185000
+  name: 绿豆
+  amount: 40
+  unit: g
+- time: 20150828185000
+  name: 梅花肉
+  amount: 150
+  unit: g
+- time: 20150828185000
+  name: 糟菜
+  amount: 50
+  unit: g
+- time: 20150828185000
+  name: 豇豆
+  amount: 250
+  unit: g
+- time: 20150828185000
+  name: 青椒
+  amount: 150
+  unit: g
 water:
 - time: 20150828053900
   name: 开水
@@ -24,6 +52,26 @@ water:
 - time: 20150828072000
   name: 开水
   amount: 300
+  unit: ml
+- time: 20150828090000
+  name: 龙井
+  amount: 400
+  unit: ml
+- time: 20150828103000
+  name: 龙井
+  amount: 400
+  unit: ml
+- time: 20150828120000
+  name: 龙井
+  amount: 400
+  unit: ml
+- time: 20150828160000
+  name: 龙井
+  amount: 400
+  unit: ml
+- time: 20150828184000
+  name: 绿豆汤
+  amount: 400
   unit: ml
 comment: |+
   ...
