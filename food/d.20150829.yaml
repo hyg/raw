@@ -24,6 +24,26 @@ food:
   name: 枸杞
   amount: 30
   unit: g
+- time: 20150829103500
+  name: 玉米
+  amount: 150
+  unit: g
+- time: 20150829103500
+  name: 馒头
+  amount: 150
+  unit: g
+- time: 20150829154000
+  name: 玉米
+  amount: 150
+  unit: g
+- time: 20150829190000
+  name: 猪肚
+  amount: 150
+  unit: g
+- time: 20150829190000
+  name: 青椒
+  amount: 230
+  unit: g
 water:
 - time: 20150829060500
   name: 开水
@@ -32,6 +52,22 @@ water:
 - time: 20150829075000
   name: 龙井
   amount: 400
+  unit: ml
+- time: 20150829110000
+  name: 龙井
+  amount: 400
+  unit: ml
+- time: 20150829135000
+  name: 龙井
+  amount: 400
+  unit: ml
+- time: 20150829155000
+  name: 龙井
+  amount: 400
+  unit: ml
+- time: 20150829185000
+  name: 鸡汤
+  amount: 600
   unit: ml
 comment: |+
   ...
