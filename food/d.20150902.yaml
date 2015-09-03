@@ -20,12 +20,60 @@ food:
   name: 甜瓜
   amount: 200
   unit: g
+- time: 20150902114500
+  name: 无花果
+  amount: 150
+  unit: g
+- time: 20150902114500
+  name: 杏干
+  amount: 200
+  unit: g
+- time: 20150902123000
+  name: 玉米
+  amount: 150
+  unit: g
+- time: 20150902123000
+  name: 酸黄瓜
+  amount: 200
+  unit: g
+- time: 20150902172000
+  name: 馒头
+  amount: 300
+  unit: g
+- time: 20150902185000
+  name: 香蕉
+  amount: 300
+  unit: g
+- time: 20150902185000
+  name: 酸猪肚
+  amount: 150
+  unit: g
+- time: 20150902185000
+  name: 绿豆芽
+  amount: 200
+  unit: g
 water:
 - time: 20150902050900
   name: 开水
   amount: 300
   unit: ml
-- time: 2015090255000
+- time: 20150902055000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150902085000
+  name: 碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20150902112000
+  name: 碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20150902134000
+  name: 碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20150902185000
   name: 开水
   amount: 300
   unit: ml
