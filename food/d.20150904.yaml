@@ -1,0 +1,62 @@
+date: 20150904
+food:
+- time: 20150904071000
+  name: 甜瓜
+  amount: 200
+  unit: g
+- time: 20150904071000
+  name: 杂粮粥
+  amount: 60
+  unit: g
+- time: 20150904071000
+  name: 黄豆
+  amount: 100
+  unit: g
+- time: 20150904131000
+  name: 面条
+  amount: 150
+  unit: g
+- time: 20150904131000
+  name: 护心肉
+  amount: 150
+  unit: g
+- time: 20150904183000
+  name: 葡萄干
+  amount: 100
+  unit: g
+- time: 20150904183000
+  name: 无花果
+  amount: 100
+  unit: g
+- time: 20150904211000
+  name: 米饭
+  amount: 100
+  unit: g
+- time: 20150904211000
+  name: 胡萝卜
+  amount: 250
+  unit: g
+- time: 20150904211000
+  name: 猪肉
+  amount: 150
+  unit: g
+water:
+- time: 20150904052000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150904072000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150904122000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150904152000
+  name: 开水
+  amount: 300
+  unit: ml
+
+comment: |+
+  ...
