@@ -1,0 +1,57 @@
+date: 20150908
+food:
+- time: 20150908080000
+  name: 杂粮粥
+  amount: 100
+  unit: g
+- time: 20150908080000
+  name: 鸡蛋
+  amount: 60
+  unit: g
+- time: 20150908080000
+  name: 柿子
+  amount: 200
+  unit: g
+- time: 20150908124000
+  name: 玉米
+  amount: 300
+  unit: g
+- time: 20150908124000
+  name: 米饭
+  amount: 150
+  unit: g
+- time: 20150908124000
+  name: 秋葵
+  amount: 600
+  unit: g
+- time: 20150908124000
+  name: 护心肉
+  amount: 250
+  unit: g
+- time: 20150908221000
+  name: 柿子
+  amount: 200
+  unit: g
+water:
+- time: 20150908071000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150908085000
+  name: 碧螺春炒青+石崖茶
+  amount: 400
+  unit: ml
+- time: 20150908102000
+  name: 碧螺春炒青+石崖茶
+  amount: 400
+  unit: ml
+- time: 20150908133500
+  name: 碧螺春炒青+石崖茶
+  amount: 400
+  unit: ml
+- time: 20150908155500
+  name: 碧螺春炒青+石崖茶
+  amount: 400
+  unit: ml
+comment: |+
+  ...
