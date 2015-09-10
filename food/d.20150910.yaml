@@ -16,6 +16,34 @@ food:
   name: 鸡蛋
   amount: 60
   unit: g
+- time: 20150910115000
+  name: 哈密瓜
+  amount: 300
+  unit: g
+- time: 20150910134000
+  name: 馒头
+  amount: 150
+  unit: g
+- time: 20150910134000
+  name: 猪肠
+  amount: 150
+  unit: g
+- time: 20150910134000
+  name: 酸黄瓜
+  amount: 200
+  unit: g
+- time: 20150910134000
+  name: 胡萝卜
+  amount: 200
+  unit: g
+- time: 20150910174000
+  name: 黄瓜
+  amount: 400
+  unit: g
+- time: 20150910174000
+  name: 豆角
+  amount: 400
+  unit: g
 water:
 - time: 20150910061500
   name: 开水
@@ -26,6 +54,18 @@ water:
   amount: 300
   unit: ml
 - time: 20150910083000
+  name: 碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20150910110000
+  name: 碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20150910140000
+  name: 碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20150910162000
   name: 碧螺春炒青
   amount: 400
   unit: ml
