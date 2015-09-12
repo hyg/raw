@@ -16,8 +16,72 @@ food:
   name: 鸡蛋
   amount: 60
   unit: g
+- time: 20150912114000
+  name: 番石榴
+  amount: 200
+  unit: g
+- time: 20150912114000
+  name: 米饭
+  amount: 120
+  unit: g
+- time: 20150912114000
+  name: 猪心
+  amount: 200
+  unit: g
+- time: 20150912114000
+  name: 豆芽
+  amount: 200
+  unit: g
+- time: 20150912114000
+  name: 胡萝卜
+  amount: 100
+  unit: g
+- time: 20150912173000
+  name: 梨
+  amount: 150
+  unit: g
+ - time: 20150912180000
+  name: 葡萄
+  amount: 200
+  unit: g
+ - time: 20150912184000
+  name: 青椒
+  amount: 200
+  unit: g
+ - time: 20150912184000
+  name: 胡萝卜
+  amount: 400
+  unit: g 
+- time: 20150912184000
+  name: 花生
+  amount: 150
+  unit: g
+ - time: 20150912203000
+  name: 葡萄
+  amount: 200
+  unit: g
 water:
 - time: 20150912062000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150912090000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150912111000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150912143000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150912154000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150912225000
   name: 开水
   amount: 300
   unit: ml
