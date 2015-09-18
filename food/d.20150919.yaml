@@ -1,0 +1,21 @@
+date: 20150919
+food:
+- time: 20150919065000
+  name: 番石榴
+  amount: 150
+  unit: g
+- time: 20150919065000
+  name: 杂粮粥
+  amount: 60
+  unit: g
+- time: 20150919065000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+water:
+- time: 20150919063500
+  name: 开水
+  amount: 300
+  unit: ml
+comment: |+
+  ...
