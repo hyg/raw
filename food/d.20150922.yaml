@@ -23,9 +23,81 @@ food:
 - time: 20150922065000
   name: 麦胚芽
   amount: 20
-  unit: 
+  unit: g
+- time: 20150922133000
+  name: 粉条
+  amount: 250
+  unit: g
+- time: 20150922133000
+  name: 豆芽
+  amount: 250
+  unit: g
+- time: 20150922133000
+  name: 面条
+  amount: 100
+  unit: g
+- time: 20150922133000
+  name: 猪心
+  amount: 100
+  unit: g
+- time: 20150922133000
+  name: 葡萄干
+  amount: 50
+  unit: g
+- time: 20150922192000
+  name: 鲍鱼
+  amount: 250
+  unit: g
+- time: 20150922192000
+  name: 猪肉
+  amount: 150
+  unit: g
+- time: 20150922192000
+  name: 胡萝卜
+  amount: 100
+  unit: g
+- time: 20150922192000
+  name: 花生
+  amount: 50
+  unit: g
+- time: 20150922192000
+  name: 秋葵
+  amount: 200
+  unit: g
+- time: 20150922192000
+  name: 豆芽
+  amount: 120
+  unit: g
+- time: 20150922192000
+  name: 粉条
+  amount: 100
+  unit: g
 water:
 - time: 20150922061500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150922090000
+  name: 碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20150922122000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150922144000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150922155000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150922165000
+  name: 开水
+  amount: 300
+  unit: 
+- time: 20150922195000
   name: 开水
   amount: 300
   unit: ml
