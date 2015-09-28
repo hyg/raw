@@ -1,0 +1,57 @@
+date: 20150928
+food:
+- time: 20150928082500
+  name: 白粥
+  amount: 80
+  unit: g
+- time: 20150928082500
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20150928082500
+  name: 腐乳
+  amount: 15
+  unit: g
+- time: 20150928133000
+  name: 红薯
+  amount: 250
+  unit: g
+- time: 20150928173000
+  name: 猕猴桃
+  amount: 250
+  unit: g
+- time: 20150928183000
+  name: 豆芽
+  amount: 250
+  unit: g
+- time: 20150928183000
+  name: 粉条
+  amount: 50
+  unit: g
+- time: 20150928183000
+  name: 猪肉
+  amount: 400
+  unit: g
+water:
+- time: 20150928082000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150928102000
+  name: 碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20150928123000
+  name: 碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20150928140000
+  name: 碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20150928192000
+  name: 开水
+  amount: 300
+  unit: ml
+comment: |+
+  ...
