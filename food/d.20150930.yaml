@@ -16,12 +16,68 @@ food:
   name: 麦胚芽
   amount: 20
   unit: g
+- time: 20150930103000
+  name: 胡萝卜
+  amount: 150
+  unit: g
+- time: 20150930103000
+  name: 黄瓜
+  amount: 100
+  unit: g
+- time: 20150930103000
+  name: 炒鸡蛋
+  amount: 100
+  unit: g
+- time: 20150930112000
+  name: 柿子
+  amount: 120
+  unit: g
+- time: 20150930112000
+  name: 猕猴桃
+  amount: 120
+  unit: g
+- time: 20150930133000
+  name: 寿司
+  amount: 250
+  unit: g
+- time: 20150930160000
+  name: 桔子
+  amount: 250
+  unit: g
+- time: 20150930163000
+  name: 红薯
+  amount: 250
+  unit: g
+- time: 20150930185000
+  name: 秋葵
+  amount: 250
+  unit: g
+- time: 20150930185000
+  name: 釀苦瓜
+  amount: 250
+  unit: g
 water:
 - time: 20150930073700
   name: 开水
   amount: 300
   unit: ml
 - time: 20150930082000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20150930120000
+  name: 碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20150930140000
+  name: 碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20150930153000
+  name: 碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20150930202000
   name: 开水
   amount: 300
   unit: ml
