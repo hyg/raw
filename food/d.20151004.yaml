@@ -24,10 +24,70 @@ food:
   name: 毛豆
   amount: 200
   unit: g
+- time: 20151004135500
+  name: 红薯
+  amount: 200
+  unit: g
+- time: 20151004135500
+  name: 胡萝卜
+  amount: 200
+  unit: g
+- time: 20151004135500
+  name: 豆腐
+  amount: 60
+  unit: g
+- time: 20151004135500
+  name: 鹅肝酱
+  amount: 20
+  unit: g
+- time: 20151004182500
+  name: 猕猴桃
+  amount: 200
+  unit: g
+- time: 20151004192000
+  name: 米饭
+  amount: 150
+  unit: g
+- time: 20151004192000
+  name: 黄瓜
+  amount: 150
+  unit: g
+- time: 20151004192000
+  name: 西红柿
+  amount: 150
+  unit: g
+- time: 20151004192000
+  name: 猪肉
+  amount: 150
+  unit: g
 water:
 - time: 20151004083000
   name: 开水
   amount: 300
+  unit: ml
+- time: 20151004105000
+  name: 碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20151004113000
+  name: 碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20151004133000
+  name: 碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20151004160000
+  name: 碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20151004200000
+  name: 碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20151004203000
+  name: 开水
+  amount: 200
   unit: ml
 comment: |+
   ...
