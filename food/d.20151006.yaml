@@ -1,0 +1,65 @@
+date: 20151006
+food:
+- time: 20151006092000
+  name: 番石榴
+  amount: 150
+  unit: g
+- time: 20151006092000
+  name: 杂粮粥
+  amount: 60
+  unit: g
+- time: 20151006092000
+  name: 麦胚芽
+  amount: 20
+  unit: g
+- time: 20151006130000
+  name: 红薯
+  amount: 400
+  unit: g
+- time: 20151006160000
+  name: 红薯
+  amount: 400
+  unit: g
+- time: 20151006193000
+  name: 番石榴
+  amount: 300
+  unit: g
+- time: 20151006220000
+  name: 猪肉
+  amount: 150
+  unit: g
+- time: 20151006220000
+  name: 豆芽
+  amount: 150
+  unit: g
+- time: 20151006220000
+  name: 鸡蛋
+  amount: 120
+  unit: g
+water:
+- time: 20151006080500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20151006100000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20151006115000
+  name: 碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20151006143000
+  name: 碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20151006160000
+  name: 碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20151006203000
+  name: 开水
+  amount: 300
+  unit: ml
+comment: |+
+  ...
