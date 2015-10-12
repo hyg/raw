@@ -1,0 +1,37 @@
+date: 20151012
+food:
+- time: 20151012073500
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20151012073500
+  name: 杂粮粥
+  amount: 60
+  unit: g
+- time: 20151012073500
+  name: 猕猴桃
+  amount: 200
+  unit: g
+- time: 20151012073500
+  name: 麦胚芽
+  amount: 20
+  unit: g
+- time: 20151012082500
+  name: 花生
+  amount: 30
+  unit: g
+water:
+- time: 20151012073000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20151012090000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20151012111000
+  name: 绞股蓝+罗汉果
+  amount: 400
+  unit: ml
+comment: |+
+  ...
