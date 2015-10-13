@@ -20,6 +20,35 @@ food:
   name: 花生
   amount: 30
   unit: g
+- time: 20151012093000
+  name: 寿司
+  amount: 150
+  unit: g
+- time: 20151012093000
+  name: 寿司
+  amount: 400
+  unit: g
+- time: 20151012160000
+  name: 寿司
+  amount: 250
+  unit: g
+- time: 20151012192000
+  name: 玉米
+  amount: 75
+  unit: g
+- time: 20151012192000
+  name: 猪心
+  amount: 250
+  unit: g
+- time: 20151012192000
+  name: 胡萝卜
+  amount: 150
+  unit: g
+- time: 20151012192000
+  name: 青椒
+  amount: 120
+  unit: g
+
 water:
 - time: 20151012073000
   name: 开水
@@ -32,6 +61,18 @@ water:
 - time: 20151012111000
   name: 绞股蓝+罗汉果
   amount: 400
+  unit: ml
+- time: 20151012133000
+  name: 绞股蓝+罗汉果
+  amount: 400
+  unit: ml
+- time: 20151012160000
+  name: 绞股蓝+罗汉果
+  amount: 400
+  unit: ml
+- time: 20151012190000
+  name: 开水
+  amount: 300
   unit: ml
 comment: |+
   ...
