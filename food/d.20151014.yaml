@@ -20,6 +20,38 @@ food:
   name: 红薯
   amount: 200
   unit: g
+- time: 20151014122000
+  name: 葡萄干
+  amount: 200
+  unit: g
+- time: 20151014124000
+  name: 面条
+  amount: 200
+  unit: g
+- time: 20151014124000
+  name: 海鸭蛋
+  amount: 60
+  unit: g  
+- time: 20151014124000
+  name: 胡萝卜
+  amount: 200
+  unit: g
+- time: 20151014124000
+  name: 黄瓜
+  amount: 120
+  unit: g
+- time: 20151014194000
+  name: 米饭
+  amount: 150
+  unit: g
+- time: 20151014194000
+  name: 苦瓜
+  amount: 200
+  unit: g
+- time: 20151014204000
+  name: 猪蹄
+  amount: 250
+  unit: g
 water:
 - time: 20151014083500
   name: 开水
@@ -28,6 +60,22 @@ water:
 - time: 20151014093000
   name: 开水
   amount: 300
+  unit: ml
+- time: 20151014121000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20151014134500
+  name: 绞股蓝+罗汉果
+  amount: 400
+  unit: ml
+- time: 2015101414300
+  name: 绞股蓝+罗汉果
+  amount: 400
+  unit: ml
+- time: 20151014160000
+  name: 绞股蓝+罗汉果
+  amount: 400
   unit: ml
 comment: |+
   ...
