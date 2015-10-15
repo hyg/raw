@@ -16,6 +16,42 @@ food:
   name: 麦胚芽
   amount: 20
   unit: g
+- time: 20151015122000
+  name: 面条
+  amount: 120
+  unit: g
+- time: 20151015122000
+  name: 海鸭蛋
+  amount: 40
+  unit: g
+- time: 20151015122000
+  name: 青椒
+  amount: 250
+  unit: g
+- time: 20151015122000
+  name: 小白菜
+  amount: 200
+  unit: g
+- time: 20151015183400
+  name: 香蕉
+  amount: 600
+  unit: g
+- time: 20151015201000
+  name: 鸡蛋炒饭+腊肉
+  amount: 200
+  unit: g
+- time: 20151015201000
+  name: 虾饺
+  amount: 150
+  unit: g
+- time: 20151015201000
+  name: 菠萝咕佬肉
+  amount: 250
+  unit: g
+- time: 20151015201000
+  name: 生菜
+  amount: 100
+  unit: g
 water:
 - time: 20151015083500
   name: 开水
@@ -32,6 +68,18 @@ water:
 - time: 20151015105000
   name: 绞股蓝+罗汉果
   amount: 400
+  unit: ml
+- time: 20151015133000
+  name: 绞股蓝+罗汉果
+  amount: 400
+  unit: ml
+- time: 20151015160000
+  name: 绞股蓝+罗汉果
+  amount: 400
+  unit: ml
+- time: 20151015183500
+  name: 矿泉水
+  amount: 200
   unit: ml
 comment: |+
   ...
