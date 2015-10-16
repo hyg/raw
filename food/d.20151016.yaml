@@ -16,8 +16,56 @@ food:
   name: 麦胚芽
   amount: 20
   unit: g
+- time: 20151016122000
+  name: 麦片
+  amount: 60
+  unit: g
+- time: 20151016122000
+  name: 奶粉
+  amount: 50
+  unit: g
+- time: 20151016161000
+  name: 番石榴
+  amount: 300
+  unit: g
+- time: 20151016190000
+  name: 米饭
+  amount: 150
+  unit: g
+- time: 20151016190000
+  name: 胡萝卜
+  amount: 350
+  unit: g
+- time: 20151016190000
+  name: 西兰花
+  amount: 400
+  unit: g
 water:
 - time: 20151016073500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20151016092000
+  name: 罗汉果+碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20151016110000
+  name: 罗汉果+碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20151016123500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20151016145000
+  name: 罗汉果+碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20151016163000
+  name: 罗汉果+碧螺春炒青
+  amount: 400
+  unit: ml
+- time: 20151016193000
   name: 开水
   amount: 300
   unit: ml
