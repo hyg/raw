@@ -6,11 +6,6 @@
 <tr><th>蔬菜</th><td></td><td>青椒、洋葱、花椰菜、芹菜、莴苣、油菜、菠菜、春笋。 
 </td><td>青椒、花椰菜、油菜、菠菜。 </td><td>青椒、花椰菜、油菜、菠菜。 </td><td>丝瓜、苦瓜、冬瓜、芦笋、南瓜、地瓜叶、生菜、西红柿、卷心菜、茄子。</td><td>丝瓜、苦瓜、冬瓜、芦笋、南瓜、地瓜叶、生菜、西红柿、卷心菜、茄子。</td><td>丝瓜、苦瓜、冬瓜、芦笋、南瓜、地瓜叶、生菜、西红柿、卷心菜、茄子。</td><td>秋葵、莲藕、冬瓜、豇豆、地瓜叶、白菜、西红柿。</td><td>秋葵、莲藕、冬瓜、豇豆、地瓜叶、白菜、西红柿。</td><td>秋葵、莲藕、冬瓜、豇豆、地瓜叶、白菜、西红柿。</td><td>青椒、卷心菜、白菜、花椰菜、胡萝卜、萝卜、芹菜、菠菜、芥菜</td><td>青椒、卷心菜、白菜、花椰菜、胡萝卜、萝卜、芹菜、菠菜、芥菜</td><td>青椒、卷心菜、白菜、花椰菜、胡萝卜、萝卜、芹菜、菠菜、芥菜</td></tr>
 <tr><th>水果</th><td></td><td>番石榴</td><td>番石榴</td><td>番石榴、夏橙</td><td>番石榴、香蕉、夏橙、清见、不知火</td><td>番石榴、香蕉、夏橙、清见、不知火、百香果</td><td>桃、李、杏、香蕉、樱桃、夏橙、菠萝、百香果</td><td>番石榴、李、杏、百香果、甜瓜、木瓜、杨桃、菠萝、葡萄</td><td>番石榴、百香果、杨桃、桃、木瓜、甜瓜、葡萄、菠萝、猕猴桃、葡萄</td><td>番石榴、杨桃、橘子、核桃、葡萄</td><td>番石榴、柿子、橙、柚子、橘子、猕猴桃</td><td>番石榴、橙、柚子、橘子</td><td>番石榴、橙、柚子、橘子</td></tr>
-<tr><th>纤维素</th><td>麦片、海带、紫菜、木耳、水果干</td><td></td><td></td><td></td><td></td><td></td><td></td><td>沙葛</td><td>沙葛</td><td></td><td></td><td></td><td></td></tr>
-<tr><th>钙</th><td>豆制品、奶制品、黑芝麻</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><th>蛋白质</th><td>猪肉、鸭肉、豆制品、奶制品</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><th>抗氧化</th><td>水果干</td><td>胡萝卜</td><td>胡萝卜</td><td>胡萝卜</td><td></td><td></td><td>胡萝卜</td><td></td><td></td><td></td><td></td><td></td><td>胡萝卜</td></tr>
-<tr><th>其它</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>拐枣</td><td></td></tr>
 </table>
 
 ###持续补货
@@ -20,12 +15,14 @@
 4. 木耳
 5. 水果干
 	* 葡萄干：https://jiangpinjiuye.taobao.com
+
 #### 钙
 1. 豆制品
 2. 奶制品：
 	* 海乳
 	* 酸奶菌种:http://youduoyi.tmall.com
 3. 黑芝麻
+
 #### 蛋白质
 1. 猪肉
 	* https://laojuantou.taobao.com
@@ -37,10 +34,11 @@
 5. 海鸭蛋：http://shop100425773.taobao.com
 
 #### 抗氧化
-1. 胡萝卜
+1. 胡萝卜：https://item.taobao.com/item.htm?id=43953456326
 2. 麦胚芽：http://shop57151106.taobao.com
 3. 番茄酱：http://item.taobao.com/item.htm?id=5030927605
 4. 绞股蓝：https://yigengtang.taobao.com
+5. 柠檬：https://92nm.taobao.com
 
 ####主食
 * 大米：
