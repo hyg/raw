@@ -13,5 +13,9 @@ water:
   name: 开水
   amount: 300
   unit: ml
+- time: 20151022121000
+  name: 绿茶
+  amount: 400
+  unit: ml
 comment: |+
   ...
