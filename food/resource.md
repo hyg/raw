@@ -13,7 +13,36 @@
 <tr><th>其它</th><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>拐枣</td><td></td></tr>
 </table>
 
-###单品信息
+###持续补货
+#### 纤维素
+1. 麦片：http://shop33278606.taobao.com
+2. 紫菜\海带：https://sanshatuhaichan.taobao.com
+4. 木耳
+5. 水果干
+	* 葡萄干：https://jiangpinjiuye.taobao.com
+#### 钙
+1. 豆制品
+2. 奶制品：
+	* 海乳
+	* 酸奶菌种:http://youduoyi.tmall.com
+3. 黑芝麻
+#### 蛋白质
+1. 猪肉
+	* https://laojuantou.taobao.com
+	* http://xiaotuanshan.taobao.com
+	* http://shop103590607.taobao.com
+2. 鸭肉
+3. 豆制品
+4. 奶制品
+5. 海鸭蛋：http://shop100425773.taobao.com
+
+#### 抗氧化
+1. 胡萝卜
+2. 麦胚芽：http://shop57151106.taobao.com
+3. 番茄酱：http://item.taobao.com/item.htm?id=5030927605
+4. 绞股蓝：https://yigengtang.taobao.com
+
+####主食
 * 大米：
 	* http://baiyouli.taobao.com/
 	* http://shop59214560.taobao.com
@@ -21,22 +50,12 @@
 	* https://wcdmxtx.taobao.com
 * 面粉：
 	* https://shop118425805.taobao.com
-* 燕麦片：http://shop33278606.taobao.com
-* 麦胚芽：http://shop57151106.taobao.com
-* 海鸭蛋：http://shop100425773.taobao.com
-* 猪肉：
-	* https://laojuantou.taobao.com
-	* http://xiaotuanshan.taobao.com
-	* http://shop103590607.taobao.com
-* 番茄酱：http://item.taobao.com/item.htm?id=5030927605
-* 紫菜\海带：https://sanshatuhaichan.taobao.com
-* 绞股蓝：https://yigengtang.taobao.com
-* 干果（葡萄干、无花果）
-	* 葡萄干：https://jiangpinjiuye.taobao.com
-* 奶粉（海乳）
-* 酸奶菌种:http://youduoyi.tmall.com
-* 酱油（禾然）
 * 酵母：https://hhlxc.taobao.com
+* 红薯：https://item.taobao.com/item.htm?id=522099347224
+* 玉米
+
+####其它
+* 酱油（禾然）
 
 ###杂粮粥
  <table>
@@ -50,8 +69,8 @@
     </table>
 
 
-###忌口 * 使用添加剂的腌制品：腐乳、酱菜、酸菜、松花蛋、咸蛋。 
-* 各种菜干* 使用添加剂的米粉、米线、粉条* 人工提炼的糖* 咖啡
+###忌口 * 使用添加剂的腌制品：腐乳、酱菜、酸菜、松花蛋、咸蛋、米粉、米线、粉条
+* 各种菜干* 人工提炼的糖* 咖啡
 * 洋葱
 
 ###参考
