@@ -1,0 +1,61 @@
+date: 20151025
+food:
+- time: 20151025102500
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20151025102500
+  name: 杂粮粥
+  amount: 100
+  unit: g
+- time: 20151025162000
+  name: 玉米
+  amount: 150
+  unit: g
+- time: 20151025162000
+  name: 红薯
+  amount: 200
+  unit: g
+- time: 20151025173000
+  name: 红薯
+  amount: 500
+  unit: g
+- time: 20151025193000
+  name: 西兰花
+  amount: 200
+  unit: g
+- time: 20151025193000
+  name: 穿心莲
+  amount: 300
+  unit: g  
+- time: 20151025203000
+  name: 花生
+  amount: 150
+  unit: g  
+- time: 20151025203000
+  name: 桑梓酒
+  amount: 30
+  unit: g  
+water:
+- time: 20151025102500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20151025120000
+  name: 绿茶
+  amount: 400
+  unit: ml
+- time: 20151025130000
+  name: 绿茶
+  amount: 400
+  unit: ml
+- time: 20151025163000
+  name: 绿茶
+  amount: 400
+  unit: ml
+- time: 20151025203000
+  name: 开水
+  amount: 300
+  unit: ml
+comment: |+
+  ...

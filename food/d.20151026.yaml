@@ -1,0 +1,21 @@
+date: 20151026
+food:
+- time: 20151026113500
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20151026113500
+  name: 杂粮粥
+  amount: 100
+  unit: g
+- time: 20151026113500
+  name: 红薯
+  amount: 200
+  unit: g
+water:
+- time: 20151026111500
+  name: 柠檬水
+  amount: 300
+  unit: ml
+comment: |+
+  ...
