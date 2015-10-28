@@ -12,9 +12,49 @@ food:
   name: 红薯
   amount: 200
   unit: g
+- time: 201510261193500
+  name: 番石榴
+  amount: 200
+  unit: g
+- time: 20151026201000
+  name: 米饭
+  amount: 130
+  unit: ml
+- time: 20151026201000
+  name: 豆腐
+  amount: 350
+  unit: ml
+- time: 20151026201000
+  name: 猪肉
+  amount: 120
+  unit: ml
+- time: 20151026201000
+  name: 菠菜
+  amount: 350
+  unit: ml
+- time: 20151026201000
+  name: 红薯
+  amount: 200
+  unit: ml
+- time: 20151026223000
+  name: 柿子
+  amount: 150
+  unit: ml
 water:
 - time: 20151026111500
   name: 柠檬水
+  amount: 300
+  unit: ml
+- time: 20151026130500
+  name: 绿茶
+  amount: 400
+  unit: ml
+- time: 20151026150000
+  name: 绿茶
+  amount: 400
+  unit: ml
+- time: 20151026212000
+  name: 开水
   amount: 300
   unit: ml
 comment: |+
