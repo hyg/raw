@@ -4,6 +4,10 @@ food:
   name: 番石榴
   amount: 200
   unit: g
+- time: 20151028095000
+  name: 红薯
+  amount: 200
+  unit: g
 - time: 20151028103500
   name: 海鸭蛋
   amount: 60
@@ -12,12 +16,56 @@ food:
   name: 杂粮粥
   amount: 100
   unit: g
-- time: 20151028103500
-  name: 红薯
+- time: 20151028140000
+  name: 菠菜
+  amount: 250
+  unit: g
+- time: 20151028140000
+  name: 猪肉
+  amount: 150
+  unit: g
+- time: 20151028140000
+  name: 桑梓酒
+  amount: 25
+  unit: g
+- time: 20151028193000
+  name: 粉条
   amount: 200
+  unit: g
+- time: 20151028193000
+  name: 豆芽
+  amount: 200
+  unit: g
+- time: 20151028201000
+  name: 柿子
+  amount: 150
+  unit: g
+- time: 20151028213000
+  name: 奶粉
+  amount: 50
   unit: g
 water:
 - time: 20151028092000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20151028100000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20151028131000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20151028150000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20151028175000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20151028183000
   name: 开水
   amount: 300
   unit: ml
