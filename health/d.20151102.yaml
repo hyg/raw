@@ -1,0 +1,42 @@
+date: 20151102
+sleep: 
+  time: 20151101220000
+  weight: 54.4
+wake: 
+  time: 20151102080600
+  weight: 53.6
+exercise: 
+- time: 20151102082500
+  item: 
+  - type: 42.2
+    amount: 20
+    unit: turn
+  - type: 侧平板支撑
+    amount: 20
+    unit: turn
+  - type: fw04
+    amount: 20
+    unit: turn
+  - type: pilates.p095++
+    amount: 6
+    unit: turn
+  - type: 侧平板支撑
+    amount: 20
+	unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 94
+- time: 20151102173000
+  item: 
+  - type: 平板支撑
+    amount: 5
+    unit: minute
+  endheartrate: 85
+stool: 
+- time: 20151102185000
+  amount: 2	# 				1:多;		2:适中;		3:少;
+  type: 3		# 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 1 	# 				1:不困难;	2:困难;
+comment: |+
+  ...

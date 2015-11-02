@@ -5,5 +5,29 @@ sleep:
 wake: 
   time: 20151101101500
   weight: 53.4
+stool: 
+- time: 20151101170000
+  amount: 2	# 				1:多;		2:适中;		3:少;
+  type: 2		# 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 1 	# 				1:不困难;	2:困难;
+exercise: 
+- time: 20151101174000
+  item: 
+  - type: 42.2
+    amount: 20
+    unit: turn
+  - type: 42.38	#侧支撑抬腿
+    amount: 20
+    unit: turn
+  - type: fw04
+    amount: 20
+    unit: turn
+  - type: pilates.p095++
+    amount: 5
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 89
 comment: |+
   ...
