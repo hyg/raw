@@ -12,6 +12,34 @@ food:
   name: 馒头
   amount: 50
   unit: g
+- time: 20151103133000
+  name: 梨
+  amount: 300
+  unit: g
+- time: 20151103133000
+  name: 脐橙
+  amount: 300
+  unit: g
+- time: 20151103142500
+  name: 面条
+  amount: 200
+  unit: g
+- time: 20151103142500
+  name: 猪肉
+  amount: 125
+  unit: g
+- time: 20151103194500
+  name: 胡萝卜
+  amount: 400
+  unit: g
+- time: 20151103194500
+  name: 白菜
+  amount: 500
+  unit: g
+- time: 20151103194500
+  name: 红薯
+  amount: 450
+  unit: g
 water:
 - time: 20151103082500
   name: 柠檬水
@@ -20,6 +48,22 @@ water:
 - time: 20151103093500
   name: 开水
   amount: 350
+  unit: ml
+- time: 20151103101000
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+- time: 20151103123000
+  name: 绞股蓝
+  amount: 200
+  unit: ml
+- time: 20151103123000
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+- time: 20151103204500
+  name: 开水
+  amount: 300
   unit: ml
 comment: |+
   ...
