@@ -18,14 +18,19 @@ exercise:
     amount: 20
     unit: turn
   - type: pilates.p095++
-    amount: 5
+    amount: 3
     unit: turn
   - type: 侧平板支撑
     amount: 40
-	unit: turn
+    unit: turn
   - type: pilates.p079
     amount: 5
     unit: turn
-  endheartrate: 91
+  endheartrate: 79
+stool: 
+- time: 20151104200000
+  amount: 2	# 				1:多;		2:适中;		3:少;
+  type: 0		# 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 1 	# 				1:不困难;	2:困难;
 comment: |+
   ...
