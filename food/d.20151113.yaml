@@ -1,0 +1,65 @@
+date: 20151113
+food:
+- time: 20151113093000
+  name: 番石榴
+  amount: 200
+  unit: g
+- time: 20151113100000
+  name: 杂粮粥+黑芝麻核桃粉
+  amount: 120
+  unit: g
+- time: 20151113100000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20151113100000
+  name: 馒头
+  amount: 40
+  unit: g
+- time: 20151113143000
+  name: 玉米
+  amount: 150
+  unit: g
+- time: 20151113173000
+  name: 红薯
+  amount: 450
+  unit: g
+- time: 20151113205000
+  name: 毛豆
+  amount: 400
+  unit: g
+- time: 20151113210500
+  name: 脐橙
+  amount: 200
+  unit: g
+water:
+- time: 20151113093500
+  name: 柠檬水
+  amount: 300
+  unit: ml
+- time: 20151113113500
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+- time: 20151113135500
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+- time: 20151113160000
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+- time: 20151113170000
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+- time: 20151113182000
+  name: 绞股蓝
+  amount: 200
+  unit: ml
+- time: 20151113195000
+  name: 开水
+  amount: 200
+  unit: ml
+comment: |+
+  ...
