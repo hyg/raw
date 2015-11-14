@@ -48,6 +48,10 @@ food:
   name: 花生
   amount: 200
   unit: g
+- time: 20151114230000
+  name: 苹果
+  amount: 200
+  unit: g  
 water:
 - time: 20151114101500
   name: 开水
