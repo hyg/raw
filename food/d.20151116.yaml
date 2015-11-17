@@ -20,11 +20,79 @@ food:
   name: 南瓜
   amount: 120
   unit: g
+- time: 20151116143000
+  name: 面条
+  amount: 200
+  unit: g
+- time: 20151116143000
+  name: 咸鸭蛋
+  amount: 60
+  unit: g
+- time: 20151116151000
+  name: 胡柚
+  amount: 450
+  unit: g
+- time: 20151116193000
+  name: 南瓜馒头
+  amount: 250
+  unit: g
+- time: 20151116193000
+  name: 穿心莲
+  amount: 300
+  unit: g
+- time: 20151116193000
+  name: 菠菜
+  amount: 350
+  unit: g
+- time: 20151116193000
+  name: 猪肉猪心
+  amount: 150
+  unit: g
+- time: 20151116213000
+  name: 柿子
+  amount: 250
+  unit: g
 water:
 - time: 20151116090000
   name: 开水
   amount: 300
   unit: ml
-
+- time: 20151116101000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20151116124000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20151116144000
+  name: 面汤
+  amount: 300
+  unit: ml
+- time: 20151116183000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20151116232500
+  name: 开水
+  amount: 300
+  unit: ml
+med:
+- time: 20151116101000
+  name: 维生素
+  amount: 1
+  unit: 片
+- time: 20151116101000
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+- time: 20151116115000
+  name: 中药
+  amount: 0.5
+  unit: 包
+- time: 20151116174500
+  name: 中药
+  amount: 0.5
+  unit: 包
 comment: |+
   ...
