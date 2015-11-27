@@ -1,12 +1,12 @@
-date: 20151126
+date: 20151127
 sleep: 
-  time: 20151125232200
-  weight: 55.6
+  time: 20151127001500
+  weight: 55.4
 wake: 
-  time: 20151126073600
-  weight: 54.6
+  time: 20151127100600
+  weight: 54.4
 exercise: 
-- time: 20151126075000
+- time: 20151127102500
   item: 
   - type: 42.2
     amount: 20
@@ -32,11 +32,6 @@ exercise:
   - type: pilates.p095++
     amount: 1
     unit: turn
-  endheartrate: 89
-stool: 
-- time: 20151126233000
-  amount: 3	# 				1:多;		2:适中;		3:少;
-  type: 2		# 	0:水样;		1:软;		2:适中;		3:硬;
-  diffcult: 1 	# 				1:不困难;	2:困难;
+  endheartrate: 95
 comment: |+
   ...
