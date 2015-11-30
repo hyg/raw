@@ -4,35 +4,69 @@ food:
   name: 番石榴
   amount: 200
   unit: g
-- time: 20151130081000
+- time: 20151130091500
   name: 杂粮粥+黑芝麻
   amount: 110
   unit: g
-- time: 20151130081000
+- time: 20151130091500
   name: 海鸭蛋
   amount: 60
   unit: g
-
+- time: 20151130091500
+  name: 红薯
+  amount: 150
+  unit: g
+- time: 20151130153000
+  name: 猪肉白菜饺子
+  amount: 200
+  unit: g
+- time: 20151130182500
+  name: 馒头
+  amount: 80
+  unit: g
+- time: 20151130235500
+  name: 猪肉白菜南瓜饺子
+  amount: 250
+  unit: g
 water:
 - time: 20151130072300
   name: 开水
   amount: 300
   unit: ml
-
+- time: 20151130095500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20151130122000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20151130130500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20151130155500
+  name: 饺子汤
+  amount: 1000
+  unit: ml
+- time: 20151130170000
+  name: 开水
+  amount: 300
+  unit: ml
 med:
-- time: 20151130082500
+- time: 20151130095500
   name: 维生素
   amount: 1
   unit: 片
-- time: 20151130082500
+- time: 20151130095500
   name: SelenoPrecise
   amount: 1
   unit: 片
-- time: 20151130095000
+- time: 20151130113000
   name: 中药
   amount: 0.5
   unit: 包
-- time: 20151130182000
+- time: 20151130214500
   name: 中药
   amount: 0.5
   unit: 包
