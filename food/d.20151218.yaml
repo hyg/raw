@@ -1,0 +1,34 @@
+date: 20151218
+food:
+- time: 20151218073000
+  name: 脐橙
+  amount: 200
+  unit: g
+- time: 20151218082500
+  name: 馒头
+  amount: 75
+  unit: g
+- time: 20151218082500
+  name: 杂粮粥+麦胚芽+黑芝麻
+  amount: 120
+  unit: g
+- time: 20151218082500
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+water:
+- time: 20151218073000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20151218209000
+  name: 开水
+  amount: 300
+  unit: ml
+med:
+- time: 20151218209000
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+comment: |+
+  ...
