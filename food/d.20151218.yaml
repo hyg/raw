@@ -16,19 +16,75 @@ food:
   name: 海鸭蛋
   amount: 60
   unit: g
+- time: 20151218135500
+  name: 豆腐
+  amount: 320
+  unit: g
+- time: 20151218135500
+  name: 紫菜
+  amount: 30
+  unit: g
+- time: 20151218173000
+  name: 脐橙
+  amount: 200
+  unit: g
+- time: 20151218182000
+  name: 米饭
+  amount: 200
+  unit: g
+- time: 20151218182000
+  name: 菠菜
+  amount: 300
+  unit: g
+- time: 20151218182000
+  name: 猪肉
+  amount: 150
+  unit: g
+- time: 2015121915000
+  name: 冰糖橙
+  amount: 160
+  unit: g
 water:
 - time: 20151218073000
   name: 开水
   amount: 300
   unit: ml
-- time: 20151218209000
+- time: 20151218090000
   name: 开水
   amount: 300
   unit: ml
+- time: 20151218104000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20151218114000
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+- time: 20151218135500
+  name: 豆腐紫菜汤
+  amount: 1000
+  unit: g
+- time: 20151218151000
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+- time: 20151218163000
+  name: 绞股蓝
+  amount: 400
+  unit: ml
 med:
-- time: 20151218209000
+- time: 20151218090000
   name: SelenoPrecise
   amount: 1
   unit: 片
+- time: 20151218094500
+  name: 中药
+  amount: 0.5
+  unit: 包
+- time: 20151218200000
+  name: 中药
+  amount: 0.5
+  unit: 包
 comment: |+
   ...
