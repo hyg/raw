@@ -66,10 +66,6 @@ water:
   amount: 600
   unit: ml
 med:
-- time: 20151224120000
-  name: SelenoPrecise
-  amount: 1
-  unit: 片
 - time: 20151224102500
   name: 中药
   amount: 0.5
