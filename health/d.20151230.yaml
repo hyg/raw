@@ -1,0 +1,16 @@
+date: 20151230
+sleep: 
+  time: 20151230004100
+  weight: 54.3
+wake: 
+  time: 20151230074500
+  weight: 53.6
+exercise: 
+- time: 20151230190000
+  item: 
+  - type: 步行
+    amount: 10
+    unit: km
+  endheartrate: 75
+comment: |+
+  ...

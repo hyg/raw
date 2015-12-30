@@ -1,0 +1,66 @@
+date: 20151230
+food:
+- time: 20151230074500
+  name: 番石榴
+  amount: 160
+  unit: g
+- time: 20151230105000
+  name: 杂粮粥+黑芝麻
+  amount: 100
+  unit: g
+- time: 20151230105000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20151230155000
+  name: 番石榴
+  amount: 160
+  unit: g
+- time: 20151230155000
+  name: 冰糖橙
+  amount: 160
+  unit: g
+- time: 20151230155000
+  name: 脐橙
+  amount: 160
+  unit: g
+- time: 20151230235000
+  name: 玉米
+  amount: 150
+  unit: g
+- time: 20151230235000
+  name: 红薯
+  amount: 150
+  unit: g
+water:
+- time: 20151230075000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20151230105000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20151230122500
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+- time: 20151230133700
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+- time: 20151230154000
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20151230223000
+  name: 绞股蓝
+  amount: 300
+  unit: ml
+med:
+- time: 20151230084500
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+comment: |+
+  ...
