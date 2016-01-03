@@ -24,6 +24,10 @@ food:
   name: 脐橙
   amount: 160
   unit: g
+- time: 20151230223000
+  name: 芭蕉
+  amount: 450
+  unit: g
 - time: 20151230235000
   name: 玉米
   amount: 150
