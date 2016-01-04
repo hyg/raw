@@ -56,6 +56,10 @@ food:
   name: 猪肉白菜饺子
   amount: 250
   unit: g
+- time: 20160103223000
+  name: 双歧奶片
+  amount: 37
+  unit: g
 water:
 - time: 20160103080600
   name: 开水
