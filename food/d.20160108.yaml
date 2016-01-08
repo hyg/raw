@@ -1,0 +1,70 @@
+date: 20160108
+food:
+- time: 20160108091500
+  name: 脐橙
+  amount: 160
+  unit: g
+- time: 20160108102000
+  name: 杂粮粥+黑芝麻
+  amount: 100
+  unit: g
+- time: 20160108102000
+  name: 馒头+枸杞+桑葚
+  amount: 75
+  unit: g
+- time: 20160108102000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20160108155500
+  name: 番石榴
+  amount: 160
+  unit: g
+- time: 20160108163500
+  name: 面条
+  amount: 200
+  unit: g
+- time: 20160108163500
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20160108180000
+  name: 柚子
+  amount: 300
+  unit: g
+- time: 20160108210000
+  name: 穿心莲
+  amount: 300
+  unit: g
+- time: 20160108220000
+  name: 桑葚
+  amount: 30
+  unit: g
+water:
+- time: 20160108092000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20160108113000
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+- time: 20160108155700
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+- time: 20160108180500
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+- time: 20160108221200
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+med:
+- time: 20160108113000
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+comment: |+
+  ...

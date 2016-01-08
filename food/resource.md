@@ -51,6 +51,7 @@
 	* http://shop59801199.taobao.com
 * 面条：
 	* https://qiushisp.tmall.com
+	* https://jinshahe.tmall.com
 * 酵母：
 	* https://hhlxc.taobao.com
 	* https://rxnj.taobao.com
