@@ -1,0 +1,21 @@
+date: 20160111
+sleep: 
+  time: 20160111003000
+  weight: 54.0
+wake: 
+  time: 20160111082300
+  weight: 53.7
+exercise: 
+- time: 20160111161000
+  item: 
+  - type: 步行
+    amount: 1
+    unit: hour
+  endheartrate: 75
+stool: 
+- time: 20160111144500
+  amount: 2	# 				1:多;		2:适中;		3:少;
+  type: 1		# 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 1 	# 				1:不困难;	2:困难;
+comment: |+
+  右肩胛骨下一点还是疼，胸腹运动还是会扯到，用暖宝宝温着。傍晚去紫竹院绕湖走了大半圈。
