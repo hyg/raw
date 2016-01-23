@@ -1,0 +1,74 @@
+date: 20160123
+food:
+- time: 20160123101000
+  name: 脐橙
+  amount: 170
+  unit: g
+- time: 20160123114000
+  name: 杂粮粥+黑芝麻
+  amount: 100
+  unit: g
+- time: 20160123114000
+  name: 馒头
+  amount: 75
+  unit: g
+- time: 20160123114000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20160123193000
+  name: 米饭
+  amount: 120
+  unit: g
+- time: 20160123193000
+  name: 酱猪肉
+  amount: 70
+  unit: g
+- time: 20160123193000
+  name: 青豆
+  amount: 60
+  unit: g
+- time: 20160123193000
+  name: 枸杞
+  amount: 15
+  unit: g
+- time: 20160123193000
+  name: 番茄酱
+  amount: 30
+  unit: g
+- time: 20160123223000
+  name: 苹果
+  amount: 250
+  unit: g
+- time: 20160123233000
+  name: 番石榴
+  amount: 160
+  unit: g
+water:
+- time: 20160123100000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160123120000
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20160123142000
+  name: 柠檬水
+  amount: 200
+  unit: ml
+- time: 20160123210000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20160123222000
+  name: 开水
+  amount: 400
+  unit: ml
+med:
+- time: 20160123195000
+  name: 中药
+  amount: 1
+  unit: 包
+comment: |+
+  ...
