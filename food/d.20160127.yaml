@@ -1,0 +1,46 @@
+date: 20160127
+food:
+- time: 20160127084500
+  name: 杂粮粥+黑芝麻+麦胚芽
+  amount: 100
+  unit: g
+- time: 20160127084500
+  name: 馒头
+  amount: 75
+  unit: g
+- time: 20160127084500
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20160127175900
+  name: 脐橙
+  amount: 160
+  unit: g
+water:
+- time: 20160127132800
+  name: 六堡茶+罗汉果
+  amount: 400
+  unit: ml
+- time: 20160127142000
+  name: 六堡茶+罗汉果
+  amount: 400
+  unit: ml
+- time: 20160127151400
+  name: 六堡茶+罗汉果
+  amount: 400
+  unit: ml
+- time: 20160127161100
+  name: 六堡茶+罗汉果
+  amount: 400
+  unit: ml
+- time: 20160127202000
+  name: 六堡茶+罗汉果
+  amount: 200
+  unit: ml
+med:
+- time: 20160127094500
+  name: 中药
+  amount: 0.5
+  unit: 包
+comment: |+
+  ...

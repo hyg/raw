@@ -1,0 +1,43 @@
+date: 20160128
+food:
+- time: 20160128103500
+  name: 脐橙
+  amount: 160
+  unit: g
+- time: 20160128114500
+  name: 大米
+  amount: 100
+  unit: g
+- time: 20160128114500
+  name: 甜玉米
+  amount: 100
+  unit: 120g
+- time: 20160128114500
+  name: 青豆
+  amount: 50
+  unit: g
+- time: 20160128114500
+  name: 酱猪肉
+  amount: 70
+  unit: g
+- time: 20160128114500
+  name: 胡萝卜
+  amount: 52
+  unit: g
+- time: 20160128114500
+  name: 西红柿
+  amount: 150
+  unit: g
+water:
+- time: 20160128100000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160128122000
+  name: 六堡茶+罗汉果
+  amount: 400
+  unit: ml
+med:
+
+comment: |+
+  ...
