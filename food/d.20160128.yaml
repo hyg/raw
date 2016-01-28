@@ -28,6 +28,14 @@ food:
   name: 西红柿
   amount: 150
   unit: g
+- time: 20160128194000
+  name: 扇骨
+  amount: 150
+  unit: g
+- time: 20160128194000
+  name: 土豆
+  amount: 250
+  unit: g
 water:
 - time: 20160128100000
   name: 开水
@@ -37,7 +45,22 @@ water:
   name: 六堡茶+罗汉果
   amount: 400
   unit: ml
+- time: 20160128202000
+  name: 土豆肉骨汤
+  amount: 200
+  unit: ml
+- time: 20160128223000
+  name: 六堡茶+罗汉果
+  amount: 400
+  unit: ml
+- time: 20160128235500
+  name: 六堡茶+罗汉果
+  amount: 200
+  unit: ml
 med:
-
+- time: 20160128235500
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
 comment: |+
   ...
