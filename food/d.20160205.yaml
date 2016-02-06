@@ -1,0 +1,66 @@
+date: 20160205
+food:
+- time: 20160205093000
+  name: 杂粮粥+黑芝麻+麦胚芽
+  amount: 120
+  unit: g
+- time: 20160205093000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20160205093000
+  name: 馒头
+  amount: 60
+  unit: g
+- time: 20160205154000
+  name: 鸡肉
+  amount: 400
+  unit: g
+- time: 20160205192000
+  name: 粉条
+  amount: 200
+  unit: g
+- time: 20160205192000
+  name: 蔬菜沙拉
+  amount: 150
+  unit: g
+- time: 20160205192000
+  name: 酸奶
+  amount: 200
+  unit: g
+- time: 20160205222000
+  name: 柿饼
+  amount: 150
+  unit: g
+water:
+- time: 20160205090000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160205141000
+  name: 六堡茶
+  amount: 400
+  unit: ml
+- time: 20160205161000
+  name: 六堡茶
+  amount: 400
+  unit: ml
+- time: 20160205193000
+  name: 大麦茶
+  amount: 400
+  unit: ml
+- time: 20160205203000
+  name: 大麦茶
+  amount: 400
+  unit: ml
+- time: 20160205235500
+  name: 开水
+  amount: 200
+  unit: ml
+med:
+- time: 20160205235500
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+comment: |+
+  ...
