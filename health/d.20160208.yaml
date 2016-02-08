@@ -1,0 +1,37 @@
+date: 20160208
+sleep: 
+  time: 20160208055400
+  weight: 54.0
+wake: 
+  time: 20160208134100
+  weight: 53.2
+exercise: 
+- time: 20160208222000
+  item: 
+  - type: 42.2
+    amount: 20
+    unit: turn
+  - type: 侧平板支撑
+    amount: 40
+    unit: turn
+  - type: fw04
+    amount: 20
+    unit: turn
+  - type: pilates.p095++
+    amount: 3
+    unit: turn
+  - type: 侧平板支撑
+    amount: 40
+    unit: turn
+  - type: pilates.p095++
+    amount: 2
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  - type: pilates.p095++
+    amount: 2
+    unit: turn
+  endheartrate: 99
+comment: |+
+  
