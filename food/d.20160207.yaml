@@ -48,7 +48,7 @@ food:
   name: 柚子
   amount: 300
   unit: g
-waterater:
+water:
 - time: 20160207135500
   name: 开水
   amount: 400

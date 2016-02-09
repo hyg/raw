@@ -40,7 +40,7 @@ food:
   name: 番茄酱
   amount: 30
   unit: g
-waterater:
+water:
 - time: 20160208135000
   name: 开水
   amount: 400
