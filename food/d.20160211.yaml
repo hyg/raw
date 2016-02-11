@@ -1,0 +1,65 @@
+date: 20160211
+food:
+- time: 20160211144500
+  name: 杂粮粥+黑芝麻+麦胚芽
+  amount: 120
+  unit: g
+- time: 20160211144500
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20160211154000
+  name: 砂糖橙
+  amount: 150
+  unit: g
+- time: 20160211154000
+  name: 香蕉
+  amount: 105
+  unit: g
+- time: 20160211183000
+  name: 猪肉白菜饺子
+  amount: 500
+  unit: g
+- time: 20160211183000
+  name: 素饺子
+  amount: 100
+  unit: g
+- time: 20160211213000
+  name: 柿饼
+  amount: 150
+  unit: g
+- time: 20160211213000
+  name: 砂糖橙
+  amount: 150
+  unit: g
+- time: 20160211221000
+  name: 香蕉
+  amount: 105
+  unit: g
+- time: 20160211225000
+  name: 桑葚
+  amount: 35
+  unit: g
+- time: 20160211235500
+  name: 香蕉
+  amount: 105
+  unit: g
+water:
+- time: 20160211134500
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160211154500
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160211193000
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+- time: 20160211224000
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+comment: |+
+  ...
