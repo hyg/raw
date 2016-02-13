@@ -1,0 +1,58 @@
+date: 20160213
+food:
+- time: 20160213135500
+  name: 香蕉
+  amount: 100
+  unit: g
+- time: 20160213140500
+  name: 杂粮粥+黑芝麻+麦胚芽
+  amount: 120
+  unit: g
+- time: 20160213140500
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20160213192500
+  name: 胡柚
+  amount: 300
+  unit: g
+- time: 20160213223500
+  name: 麦片
+  amount: 60
+  unit: g
+- time: 20160213223500
+  name: 奶粉
+  amount: 25
+  unit: g
+- time: 20160213235500
+  name: 香蕉
+  amount: 100
+  unit: g
+water:
+- time: 20160213142000
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+- time: 20160213161000
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+- time: 20160213175000
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+- time: 20160213193000
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+- time: 20160213233000
+  name: 开水
+  amount: 400
+  unit: ml
+med:
+- time: 20160213222500
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+comment: |+
+  ...
