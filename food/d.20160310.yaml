@@ -1,0 +1,62 @@
+date: 20160310
+food:
+- time: 20160310103000
+  name: 番石榴
+  amount: 150
+  unit: g
+- time: 20160310111500
+  name: 早餐粥
+  amount: 120
+  unit: g
+- time: 20160310111500
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20160310180000
+  name: 粉条
+  amount: 100
+  unit: g
+- time: 20160310180000
+  name: 鸡胸肉
+  amount: 150
+  unit: g
+- time: 20160310180000
+  name: 胡萝卜
+  amount: 50
+  unit: g
+- time: 20160310180000
+  name: 豆瓣酱
+  amount: 30
+  unit: g
+- time: 20160310210000
+  name: 番石榴
+  amount: 150
+  unit: g
+- time: 20160310230000
+  name: 脐橙
+  amount: 150
+  unit: g
+water:
+- time: 20160310102500
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160310132500
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+- time: 20160310163000
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+- time: 20160310211500
+  name: 绞股蓝
+  amount: 400
+  unit: ml
+med:
+- time: 20160310223000
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+comment: |+
+  ...
