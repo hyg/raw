@@ -1,66 +1,66 @@
 date: 20160313
 food:
 - time: 20160313125000
-  name: è„æ©™
+  name: Æê³È
   amount: 150
   unit: g
 - time: 20160313131500
-  name: æµ·é¸­è›‹
+  name: º£Ñ¼µ°
   amount: 60
   unit: g
 - time: 20160313131500
-  name: æ—©é¤ç²¥
+  name: Ôç²ÍÖà
   amount: 120
   unit: g
 - time: 20160313171000
-  name: æŠ«è¨
+  name: ÅûÈø
   amount: 350
   unit: g
 - time: 20160313171000
-  name: çƒ¤é¸¡ç¿…
+  name: ¿¾¼¦³á
   amount: 100
   unit: g
 - time: 20160313203000
-  name: æŠ«è¨
+  name: ÅûÈø
   amount: 200
   unit: g
 - time: 20160313203000
-  name: çƒ¤é¸¡ç¿…
+  name: ¿¾¼¦³á
   amount: 120
   unit: g
 - time: 20160313203000
-  name: è˜‘è‡æ±¤
+  name: Ä¢¹½ÌÀ
   amount: 250
   unit: g
 - time: 20160313223000
-  name: è„æ©™
+  name: Æê³È
   amount: 150
   unit: g
 water:
 - time: 20160313124000
-  name: å¼€æ°´
+  name: ¿ªË®
   amount: 400
   unit: ml
 - time: 20160313154000
-  name: ç»è‚¡è“
+  name: ½Ê¹ÉÀ¶
   amount: 400
   unit: ml
-- time: 2016031316300
-  name: ç»è‚¡è“
+- time: 20160313163000
+  name: ½Ê¹ÉÀ¶
   amount: 400
   unit: ml
 - time: 20160313192000
-  name: ç»è‚¡è“
+  name: ½Ê¹ÉÀ¶
   amount: 400
   unit: ml
 - time: 20160313232000
-  name: ç»è‚¡è“
+  name: ½Ê¹ÉÀ¶
   amount: 400
   unit: ml
 med:
 - time: 20160313232000
   name: SelenoPrecise
   amount: 1
-  unit: ç‰‡
+  unit: Æ¬
 comment: |+
   ...

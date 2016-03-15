@@ -1,0 +1,55 @@
+date: 20160314
+food:
+- time: 201603141102000
+  name: 脐橙
+  amount: 150
+  unit: g
+- time: 20160314113000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20160314125000
+  name: 米饭
+  amount: 100
+  unit: g
+- time: 20160314125000
+  name: 杂烩（猪肉+十几种蔬菜）
+  amount: 250
+  unit: g
+- time: 20160314191000
+  name: 牛肉面
+  amount: 300
+  unit: g
+- time: 20160314203000
+  name: 脐橙
+  amount: 150
+  unit: g
+- time: 20160314203000
+  name: 血橙
+  amount: 150
+  unit: g
+water:
+- time: 20160314101500
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160314134000
+  name: 柠檬水
+  amount: 300
+  unit: ml
+- time: 20160314133000
+  name: 矿泉水
+  amount: 500
+  unit: ml
+- time: 20160314202000
+  name: 开水
+  amount: 400
+  unit: ml
+  unit: ml
+med:
+- time: 20160314232000
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+comment: |+
+  ...
