@@ -60,6 +60,10 @@ food:
   name: 豆瓣酱
   amount: 40
   unit: g
+- time: 20160320220000
+  name: 油浸金枪鱼
+  amount: 185
+  unit: g
 water:
 - time: 20160320131000
   name: 开水
@@ -77,8 +81,12 @@ water:
   name: 绞股蓝
   amount: 400
   unit: ml
+- time: 20160320235500
+  name: 绞股蓝
+  amount: 200
+  unit: ml
 med:
-- time: 20160320235000
+- time: 20160320223000
   name: SelenoPrecise
   amount: 1
   unit: 片
