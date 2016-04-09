@@ -1,0 +1,38 @@
+date: 20160405
+food:
+- time: 20160405102000
+  name: 杂粮粥+黑芝麻+麦胚芽
+  amount: 120
+  unit: g
+- time: 20160405160000
+  name: 鸡肉
+  amount: 500
+  unit: g
+- time: 20160405231000
+  name: 脐橙
+  amount: 150
+  unit: g
+- time: 20160405231000
+  name: 梨
+  amount: 400
+  unit: g
+water:
+- time: 20160405092500
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160405130000
+  name: 龙井
+  amount: 400
+  unit: ml
+- time: 20160405143000
+  name: 龙井
+  amount: 600
+  unit: ml
+med:
+- time: 20160405233000
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+comment: |+
+  ...

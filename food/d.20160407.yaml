@@ -1,0 +1,58 @@
+date: 20160407
+food:
+- time: 20160407094500
+  name: 杂粮粥+黑芝麻+麦胚芽
+  amount: 120
+  unit: g
+- time: 20160407102500
+  name: 丑柑
+  amount: 120
+  unit: g
+- time: 20160407110000
+  name: 丑柑
+  amount: 120
+  unit: g
+- time: 20160407130500
+  name: 玉米
+  amount: 150
+  unit: g
+- time: 20160407163000
+  name: 玉米
+  amount: 150
+  unit: g
+- time: 20160407192000
+  name: 土豆
+  amount: 80
+  unit: g
+- time: 20160407192000
+  name: 鸡肉
+  amount: 200
+  unit: g
+- time: 20160407192000
+  name: 豆腐
+  amount: 150
+  unit: g
+water:
+- time: 20160407092500
+  name: 矿泉水
+  amount: 200
+  unit: ml
+- time: 20160407101000
+  name: 矿泉水
+  amount: 200
+  unit: ml
+- time: 20160407113000
+  name: 龙井
+  amount: 400
+  unit: ml
+- time: 20160407143000
+  name: 龙井
+  amount: 400
+  unit: ml  
+med:
+- time: 20160407233000
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+comment: |+
+  ...
