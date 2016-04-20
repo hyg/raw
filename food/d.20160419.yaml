@@ -1,58 +1,69 @@
 date: 20160419
 food:
-- time: 20160419110000
+- time: 20160419111200
   name: 番石榴
   amount: 120
   unit: g
-- time: 20160419133000
-  name: 杂粮粥+麦胚芽+桑葚
+- time: 20160419114400
+  name: 杂粮粥+麦胚芽
   amount: 120
   unit: g
-- time: 20160419215000
-  name: 大米
-  amount: 125
-  unit: g
-- time: 20160419215000
-  name: 枸杞
-  amount: 10
-  unit: g
-- time: 20160419215000
-  name: 毛豆
-  amount: 60
-  unit: g
-- time: 20160419215000
-  name: 脊骨
+- time: 20160419154000
+  name: 手擀面
   amount: 200
   unit: g
-- time: 20160419215000
-  name: 番茄酱
-  amount: 30
+- time: 20160419154000
+  name: 梅花肉
+  amount: 200
+  unit: g 
+- time: 20160419154000
+  name: 秋葵
+  amount: 200
+  unit: g  
+- time: 20160419154000
+  name: 雪菜
+  amount: 120
   unit: g
-- time: 20160419223000
+- time: 20160419193500
   name: 柑橘
-  amount: 150
+  amount: 120
   unit: g
 - time: 20160419235500
   name: 海鸭蛋
   amount: 60
   unit: g
-
+- time: 20160420004500
+  name: 奶粉
+  amount: 50
+  unit: g
+- time: 20160420004500
+  name: 葛根粉
+  amount: 10
+  unit: g
+- time: 20160420004500
+  name: 可可
+  amount: 10
+  unit: g
 water:
-- time: 20160419104500
+- time: 20160419110500
   name: 柠檬水
   amount: 400
   unit: ml
-- time: 20160419144000
+- time: 20160419134500
   name: 柠檬水
-  amount: 400
+  amount: 350
   unit: ml
-- time: 20160419163000
+- time: 20160419181500
   name: 开水
   amount: 400
   unit: ml
-- time: 20160419231100
+- time: 20160419224800
   name: 开水
   amount: 400
+  unit: ml
+- time: 20160419224800
+  name: 可可奶
+  amount: 200
   unit: ml
 med:
 - time: 20160419233000
