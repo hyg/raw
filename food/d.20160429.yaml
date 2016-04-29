@@ -1,0 +1,66 @@
+date: 20160429
+food:
+- time: 20160429092000
+  name: 番石榴
+  amount: 150
+  unit: g
+- time: 20160429102500
+  name: 麦片+奶粉+葡萄干
+  amount: 60
+  unit: g
+- time: 20160429121000
+  name: 猕猴桃
+  amount: 120
+  unit: g
+- time: 20160429122000
+  name: 米饭
+  amount: 120
+  unit: g
+- time: 20160429122000
+  name: 西红柿
+  amount: 50
+  unit: g
+- time: 20160429122000
+  name: 牛腩
+  amount: 80
+  unit: g
+- time: 20160429123500
+  name: 丑桔
+  amount: 50
+  unit: g
+- time: 20160429154000
+  name: 西瓜
+  amount: 450
+  unit: g
+- time: 20160429173000
+  name: 菠萝
+  amount: 200
+  unit: g
+water:
+- time: 20160429091500
+  name: 柠檬水
+  amount: 400
+  unit: ml
+- time: 20160429105500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20160429113000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20160429145400
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20160429160400
+  name: 开水
+  amount: 300
+  unit: ml
+med:
+- time: 20160429233000
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+comment: |+
+  ...
