@@ -77,27 +77,27 @@ food:
   amount: 120
   unit: g
 water:
-- time: 201604300063500
+- time: 20160430063500
   name: 开水
   amount: 400
   unit: ml
-- time: 201604300010000
+- time: 20160430010000
   name: 开水
   amount: 300
   unit: ml
-- time: 201604300113500
+- time: 20160430113500
   name: 开水
   amount: 300
   unit: ml
-- time: 201604300145500
+- time: 20160430145500
   name: 开水
   amount: 300
   unit: ml
-- time: 201604300203000
+- time: 20160430203000
   name: 开水
   amount: 300
   unit: ml
-- time: 201604300233000
+- time: 20160430233000
   name: 开水
   amount: 200
   unit: ml
