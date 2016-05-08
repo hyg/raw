@@ -28,6 +28,22 @@ food:
   name: 番茄酱
   amount: 30
   unit: g
+- time: 20160507212000
+  name: 牛尾
+  amount: 70
+  unit: g
+- time: 20160507212000
+  name: 三文鱼
+  amount: 150
+  unit: g
+- time: 20160507212000
+  name: 藕
+  amount: 100
+  unit: g
+- time: 20160507212000
+  name: 豆腐
+  amount: 120
+  unit: g
 water:
 - time: 20160507100800
   name: 开水
@@ -37,7 +53,11 @@ water:
   name: 开水
   amount: 400
   unit: ml
-- time: 201605071364000
+- time: 20160507164000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160507203000
   name: 开水
   amount: 400
   unit: ml
