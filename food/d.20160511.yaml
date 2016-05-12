@@ -1,0 +1,58 @@
+date: 20160511
+food:
+- time: 20160511063200
+  name: 奶酪
+  amount: 18
+  unit: g
+- time: 20160511101000
+  name: 牛角包
+  amount: 100
+  unit: g
+- time: 20160511122000
+  name: 素什锦饭
+  amount: 300
+  unit: ml
+- time: 20160511170000
+  name: 番石榴
+  amount: 150
+  unit: g
+- time: 20160511191600
+  name: 五花肉
+  amount: 150
+  unit: g
+- time: 20160511191600
+  name: 小白菜
+  amount: 400
+  unit: g
+- time: 20160511191600
+  name: 水萝卜
+  amount: 400
+  unit: g
+- time: 20160511225000
+  name: 青见
+  amount: 200
+  unit: g
+water:
+- time: 20160511063500
+  name: 牛奶
+  amount: 700
+  unit: ml
+- time: 20160511102000
+  name: 咖啡
+  amount: 300
+  unit: ml
+- time: 20160511131000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20160511163000
+  name: 开水
+  amount: 400
+  unit: ml
+med:
+- time: 20160511180000
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+comment: |+
+  ...
