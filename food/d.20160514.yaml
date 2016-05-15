@@ -1,10 +1,10 @@
 date: 20160514
 food:
-- time: 201605141115000
+- time: 20160514115000
   name: 丹麦酸奶
   amount: 400
   unit: g
-- time: 201605141115000
+- time: 20160514115000
   name: 奶酪
   amount: 18
   unit: g
@@ -24,6 +24,10 @@ food:
   name: 大米100g+枸杞10g+(青豆+玉米+胡萝卜)30g+毛豆20g+蚕豆20g+鱼肉50g+鸡肉50g
   amount: 280
   unit: g
+- time: 20160514223000
+  name: 青见
+  amount: 160
+  unit: g
 water:
 - time: 20160514155000
   name: 柠檬水
@@ -31,6 +35,10 @@ water:
   unit: ml
 - time: 20160514202000
   name: 柠檬水
+  amount: 400
+  unit: ml
+- time: 20160514235000
+  name: 开水
   amount: 400
   unit: ml
 med:

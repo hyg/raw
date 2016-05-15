@@ -1,0 +1,74 @@
+date: 20160515
+food:
+- time: 20160515101300
+  name: 丹麦酸奶
+  amount: 400
+  unit: g
+- time: 20160515122000
+  name: 杂粮粥+黑芝麻+麦胚芽
+  amount: 120
+  unit: g
+- time: 20160515122000
+  name: 海鸭蛋
+  amount: 60
+  unit: ml
+- time: 20160515144200
+  name: 番石榴
+  amount: 130
+  unit: g
+- time: 20160515164500
+  name: 大米100g+枸杞10g+(青豆+玉米+胡萝卜)30g+毛豆20g+蚕豆20g+鱼肉50g+鸡肉50g
+  amount: 280
+  unit: g
+- time: 20160515172500
+  name: 青见
+  amount: 160
+  unit: g
+- time: 20160515185500
+  name: 苹果
+  amount: 120
+  unit: g
+- time: 20160515233500
+  name: 麦片
+  amount: 60
+  unit: g
+- time: 20160515233500
+  name: 麦胚芽
+  amount: 10
+  unit: g
+- time: 20160515233500
+  name: 奶粉
+  amount: 50
+  unit: g
+- time: 20160515233500
+  name: 黑芝麻
+  amount: 10
+  unit: g
+- time: 20160515233500
+  name: 可可
+  amount: 10
+  unit: g
+water:
+- time: 20160515100000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160515140000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160515185000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20160515214400
+  name: 开水
+  amount: 300
+  unit: ml
+med:
+- time: 20160515180000
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+comment: |+
+  ...
