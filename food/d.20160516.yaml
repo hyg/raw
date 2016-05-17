@@ -36,9 +36,9 @@ food:
   name: 苹果
   amount: 120
   unit: g
-- time: 20160516164500
-  name: 大米100g+枸杞10g+(青豆+玉米+胡萝卜)30g+毛豆20g+蚕豆20g+鱼肉50g+鸡肉50g
-  amount: 280
+- time: 20160516234500
+  name: 苹果
+  amount: 120
   unit: g
 water:
 - time: 20160516100000
