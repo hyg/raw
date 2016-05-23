@@ -17,8 +17,28 @@ food:
   amount: 120
   unit: g
 - time: 20160522134000
-  name: 大米100g+混合蔬菜100g（青豆、蚕豆、毛豆、玉米、胡萝卜）+肉150g（牛肉、鱼肉、肌肉）+酸黄瓜60g+番茄酱30g
+  name: 大米100g+混合蔬菜100g（青豆、蚕豆、毛豆、玉米、胡萝卜）+肉150g（牛肉、鱼肉、鸡肉）+酸黄瓜60g+番茄酱30g
   amount: 440
+  unit: g
+- time: 20160522165000
+  name: 夏橙
+  amount: 120
+  unit: g
+- time: 20160522182500
+  name: 樱桃
+  amount: 120
+  unit: g
+- time: 20160522202500
+  name: 西兰花
+  amount: 530
+  unit: g
+- time: 20160522225500
+  name: 夏橙
+  amount: 120
+  unit: g
+- time: 20160522233500
+  name: 奶粉
+  amount: 50
   unit: g
 water:
 - time: 20160522051000
@@ -30,6 +50,14 @@ water:
   amount: 400
   unit: ml
 - time: 20160522114500
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160522150000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20160522185000
   name: 开水
   amount: 400
   unit: ml
