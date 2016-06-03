@@ -1,0 +1,58 @@
+date: 20160603
+food:
+- time: 20160603092500
+  name: 杏
+  amount: 200
+  unit: g
+- time: 20160603092500
+  name: 樱桃
+  amount: 150
+  unit: g
+- time: 20160603110000
+  name: 杂粮粥+黑芝麻+麦胚芽
+  amount: 120
+  unit: g
+- time: 20160603110000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20160603161000
+  name: 大米100g+蔬菜150g(玉米50g+毛豆50g+蚕豆40g+枸杞10g)+肉185g(鱼肉90g+鸡肉55g+酱牛肉40g)+酸豆角75g
+  amount: 510
+  unit: g
+- time: 20160603222500
+  name: 苹果
+  amount: 120
+  unit: g
+- time: 20160603223000
+  name: 麦片
+  amount: 60
+  unit: g
+- time: 20160603223000
+  name: 奶粉
+  amount: 50
+  unit: g
+water:
+- time: 20160603091500
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160603112000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160603170800
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160603233000
+  name: 开水
+  amount: 400
+  unit: ml
+med:
+- time: 20160603215500
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+comment: |+
+  ...
