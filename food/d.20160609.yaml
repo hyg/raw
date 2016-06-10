@@ -25,15 +25,15 @@ food:
   amount: 120
   unit: g
 water:
-- time: 201606090084300
+- time: 20160609084300
   name: 柠檬水
   amount: 400
   unit: ml
-- time: 201606090133000
+- time: 20160609133000
   name: 柠檬水
   amount: 400
   unit: ml
-- time: 201606090210000
+- time: 20160609210000
   name: 开水
   amount: 400
   unit: ml

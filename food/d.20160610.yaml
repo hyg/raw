@@ -1,0 +1,58 @@
+date: 20160610
+food:
+- time: 20160610100000
+  name: 杂麦片
+  amount: 60
+  unit: g
+- time: 20160610100000
+  name: 奶粉
+  amount: 50
+  unit: g
+- time: 20160610124000
+  name: 夏橙
+  amount: 120
+  unit: g
+- time: 20160610142000
+  name: 苹果
+  amount: 120
+  unit: g
+- time: 20160610154000
+  name: 手擀面
+  amount: 150
+  unit: g
+- time: 20160610154000
+  name: 牛肉
+  amount: 200
+  unit: g
+- time: 20160610191000
+  name: 葡萄干
+  amount: 50
+  unit: g
+- time: 20160610231000
+  name: 豆腐
+  amount: 150
+  unit: g
+water:
+- time: 20160610094500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20160610172000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 201606101910000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 201606102310000
+  name: 汤水
+  amount: 1200
+  unit: ml
+med:
+- time: 20160610215500
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+comment: |+
+  ...
