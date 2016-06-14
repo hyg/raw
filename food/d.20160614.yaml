@@ -1,0 +1,62 @@
+date: 20160614
+food:
+- time: 20160614101000
+  name: 杂粮粥
+  amount: 120
+  unit: g
+- time: 20160614101000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20160614120000
+  name: 黄豆、鹰嘴豆
+  amount: 100
+  unit: g
+- time: 20160614152000
+  name: 脆桃
+  amount: 120
+  unit: g
+- time: 20160614162000
+  name: 大米75g+玉米20g+毛豆25g+蚕豆30g+牛腩30g
+  amount: 180
+  unit: g
+- time: 20160614162000
+  name: 猪肉
+  amount: 100
+  unit: g
+- time: 20160614213000
+  name: 苹果
+  amount: 120
+  unit: g
+- time: 20160615031000
+  name: 豆泡
+  amount: 200
+  unit: g
+- time: 20160615031000
+  name: 紫菜
+  amount: 60
+  unit: g
+water:
+- time: 20160614093000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160614111000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160614165000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160615032000
+  name: 汤水
+  amount: 1200
+  unit: ml
+med:
+- time: 20160614215500
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+comment: |+
+  ...
