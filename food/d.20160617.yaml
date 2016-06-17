@@ -1,0 +1,66 @@
+date: 20160617
+food:
+- time: 20160617074000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20160617113000
+  name: 大米
+  amount: 80
+  unit: g
+- time: 20160617113000
+  name: 蔬菜
+  amount: 150
+  unit: g
+- time: 20160617113000
+  name: 鸡蛋
+  amount: 50
+  unit: g
+- time: 20160617113000
+  name: 虾肉
+  amount: 20
+  unit: g
+- time: 20160617113000
+  name: 鸡腿
+  amount: 100
+  unit: g
+- time: 20160617180000
+  name: 花生米
+  amount: 100
+  unit: g
+- time: 20160617182000
+  name: 板栗
+  amount: 100
+  unit: g
+water:
+- time: 20160617053000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160617075000
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20160617100000
+  name: 牛奶
+  amount: 400
+  unit: ml
+- time: 20160617113000
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20160617121000
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20160617173000
+  name: 开水
+  amount: 400
+  unit: ml
+med:
+- time: 20160617215500
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+comment: |+
+  ...
