@@ -1,0 +1,74 @@
+date: 20160618
+food:
+- time: 20160618054500
+  name: 脆桃
+  amount: 120
+  unit: g
+- time: 20160618073500
+  name: 煎饼果子
+  amount: 200
+  unit: g
+- time: 20160618124500
+  name: 米饭
+  amount: 100
+  unit: g
+- time: 20160618124500
+  name: 排骨
+  amount: 150
+  unit: g
+- time: 20160618124500
+  name: 小白菜
+  amount: 100
+  unit: g
+- time: 20160618124500
+  name: 香芹肉丝
+  amount: 150
+  unit: g
+- time: 20160618124500
+  name: 地三鲜
+  amount: 150
+  unit: g
+- time: 20160618173500
+  name: 李子
+  amount: 150
+  unit: g
+- time: 20160618222000
+  name: 桑葚
+  amount: 50
+  unit: g
+- time: 20160618224000
+  name: 麦片
+  amount: 60
+  unit: g
+water:
+- time: 20160618053000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160618080000
+  name: 咖啡
+  amount: 400
+  unit: ml
+- time: 20160618100000
+  name: 咖啡
+  amount: 400
+  unit: ml
+- time: 20160618140000
+  name: 牛奶
+  amount: 400
+  unit: ml
+- time: 20160618150000
+  name: 牛奶
+  amount: 400
+  unit: ml
+- time: 20160618223000
+  name: 开水
+  amount: 200
+  unit: ml
+med:
+- time: 20160618215500
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+comment: |+
+  ...
