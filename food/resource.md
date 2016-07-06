@@ -3,10 +3,11 @@
 ###持续补货
 #### 纤维素
 1. 麦片：http://shop33278606.taobao.com
-2. 紫菜\海带：https://sanshatuhaichan.taobao.com
+2. 紫菜\海带：https://shop73332289.taobao.com
 4. 木耳
 5. 南瓜：
 	* https://shop111981265.taobao.com
+	* https://shop148199399.taobao.com
 6. 水果干
 	* 葡萄干：https://jiangpinjiuye.taobao.com
 
@@ -14,6 +15,7 @@
 1. 豆制品
 2. 奶制品：
 	* 海乳
+	* 奶酪：https://altlml.taobao.com
 	* 酸奶菌种:http://youduoyi.tmall.com
 3. 黑芝麻
 
@@ -21,8 +23,8 @@
 1. 猪肉
 	* https://laojuantou.taobao.com
 	* http://xiaotuanshan.taobao.com
-	* http://shop103590607.taobao.com
-2. 鸭肉
+2. 牛肉：
+	* https://tianmaroupu.taobao.com
 3. 豆制品
 4. 奶制品：
 	* 海乳
@@ -33,10 +35,17 @@
 1. 胡萝卜：
 	* https://item.taobao.com/item.htm?id=43953456326
 	* https://item.taobao.com/item.htm?id=42513102840
+	* https://mnrj365.taobao.com
 2. 麦胚芽：http://shop57151106.taobao.com
 3. 番茄酱：http://item.taobao.com/item.htm?id=5030927605
 4. 绞股蓝：https://yigengtang.taobao.com
-5. 柠檬：https://92nm.taobao.com
+5. 柠檬：
+	* https://92nm.taobao.com
+	* https://hfxinghongfa.tmall.com
+
+####蔬菜
+* https://mnrj365.taobao.com
+* https://shop117345879.taobao.com
 
 ####主食
 * 大米：
@@ -52,6 +61,7 @@
 * 面条：
 	* https://qiushisp.tmall.com
 	* https://jinshahe.tmall.com
+	* https://shop69357144.taobao.com
 * 酵母：
 	* https://hhlxc.taobao.com
 	* https://rxnj.taobao.com
@@ -59,10 +69,18 @@
 * 玉米：https://zhzysp.tmall.com/
 
 ####水果
-* 番石榴：https://shop116047606.taobao.com
+* 番石榴：
+	* https://shop116047606.taobao.com
+	* https://gyy8888.taobao.com
 * 橙：
 	* https://hn-feel.taobao.com
 	* https://zhihuicheng.taobao.com 
+	* https://shop124649320.taobao.com
+* 甜瓜：
+	* https://shop117345879.taobao.com
+* 桃：
+	* https://shop127939892.taobao.com
+
 
 ####其它
 * 酱油（禾然）
@@ -79,12 +97,6 @@
 
 
 ###年度排期
-<table>
-<tr><th>功用</th><th>常年</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th><th>12</th></tr>
-<tr><th>蔬菜</th><td></td><td>青椒、花椰菜、油菜、菠菜
-</td><td>青椒、花椰菜、油菜、菠菜</td><td>青椒、花椰菜、油菜、菠菜 </td><td>丝瓜、苦瓜、冬瓜、芦笋、南瓜、地瓜叶、生菜、西红柿</td><td>丝瓜、苦瓜、冬瓜、芦笋、南瓜、地瓜叶、生菜、西红柿</td><td>丝瓜、苦瓜、冬瓜、芦笋、南瓜、地瓜叶、生菜、西红柿</td><td>秋葵、莲藕、冬瓜、豇豆、地瓜叶、白菜、西红柿、胡萝卜</td><td>秋葵、莲藕、冬瓜、豇豆、地瓜叶、白菜、西红柿、胡萝卜</td><td>秋葵、莲藕、冬瓜、豇豆、地瓜叶、白菜、西红柿、胡萝卜</td><td>青椒、卷心菜、白菜、花椰菜、胡萝卜、萝卜、菠菜</td><td>南瓜、白菜、西兰花、萝卜、菠菜、穿心莲</td><td>白菜、西兰花、萝卜、菠菜、穿心莲</td></tr>
-<tr><th>水果</th><td></td><td>番石榴、胡柚</td><td>番石榴、胡柚</td><td>番石榴、胡柚、夏橙</td><td>番石榴、胡柚、香蕉、夏橙、清见、不知火</td><td>番石榴、香蕉、夏橙、清见、不知火、百香果</td><td>桃、李、杏、香蕉、樱桃、夏橙、菠萝、百香果</td><td>番石榴、李、杏、百香果、甜瓜、木瓜、杨桃、菠萝、葡萄</td><td>番石榴、百香果、杨桃、桃、木瓜、甜瓜、葡萄、菠萝、猕猴桃、葡萄</td><td>番石榴、杨桃、橘子、核桃、葡萄</td><td>番石榴、柿子、橙、柚子、橘子、猕猴桃</td><td>番石榴、橙、胡柚、柚子、橘子</td><td>番石榴、橙、胡柚、柚子、橘子</td></tr>
-</table>
 
 |月.旬| 蔬菜 | 水果 |
 |----|------|-----|
@@ -104,20 +116,20 @@
 |5.2||青见、夏橙|
 |5.3||青见、脆桃、青脆李、夏橙、黄杏|
 |6.1||脆桃、青脆李、夏橙、黄杏|
-|6.2||脆桃、青脆李、夏橙|
-|6.3||脆桃、青脆李、夏橙|
-|7.1||红心猕猴桃|
-|7.2||红心猕猴桃|
-|7.3||红心猕猴桃|
+|6.2||脆桃、青脆李、夏橙、红杏|
+|6.3||脆桃、青脆李、夏橙、红杏|
+|7.1||红心猕猴桃、水蜜桃、红杏|
+|7.2||红心猕猴桃、水蜜桃|
+|7.3||红心猕猴桃、水蜜桃|
 |8.1||红心猕猴桃|
 |8.2||红心猕猴桃|
 |8.3||红心猕猴桃|八月炸|
 |9.1||红心猕猴桃|八月炸|
 |9.2||红心猕猴桃|八月炸|
-|9.3||红心猕猴桃|八月炸|
-|10.1|白心红薯|红心猕猴桃、黄心猕猴桃|
-|10.2|白心红薯|红心猕猴桃、黄心猕猴桃|
-|10.3|白心红薯|红心猕猴桃、黄心猕猴桃|
+|9.3||红心猕猴桃|八月炸、石榴|
+|10.1|白心红薯|红心猕猴桃、黄心猕猴桃、石榴|
+|10.2|白心红薯|红心猕猴桃、黄心猕猴桃、石榴|
+|10.3|白心红薯|红心猕猴桃、黄心猕猴桃、石榴|
 |11.1|秦岭胡萝卜、白心红薯|黄心猕猴桃、赣南脐橙|
 |11.2|秦岭胡萝卜、白心红薯|黄心猕猴桃、赣南脐橙|拐枣|
 |11.3|秦岭胡萝卜、白心红薯|黄心猕猴桃、赣南脐橙|拐枣|
@@ -126,9 +138,9 @@
 |12.3|秦岭胡萝卜、白心红薯|黄心猕猴桃、赣南脐橙|
 
 ###忌口 
-* 食腐动物的肉
+* 食腐动物
 * 肉食性的鱼类
 * 使用添加剂的腌制品：腐乳、酱菜、酸菜、松花蛋、咸蛋、米粉、米线、粉条，各种菜干。
 * 人工提炼的糖
 * 咖啡
-* 洋葱
+* 刺激性食物：葱蒜韭、洋葱、辣椒
