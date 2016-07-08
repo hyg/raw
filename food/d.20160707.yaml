@@ -8,11 +8,11 @@ food:
   name: 坚果
   amount: 50
   unit: g
-- time: 2016070707500
+- time: 20160707075000
   name: 杂粮粥
   amount: 120
   unit: g
-- time: 20160707073500
+- time: 20160707075500
   name: 鸡蛋
   amount: 50
   unit: g
