@@ -1,0 +1,66 @@
+date: 20160710
+food:
+- time: 20160710103500
+  name: 夏橙
+  amount: 100
+  unit: g
+- time: 20160710114000
+  name: 巴旦木
+  amount: 100
+  unit: g
+- time: 20160710120500
+  name: 杂粮粥
+  amount: 120
+  unit: g
+- time: 20160710120500
+  name: 鸡蛋
+  amount: 50
+  unit: g
+- time: 20160710173000
+  name: 紫薯
+  amount: 250
+  unit: g
+- time: 20160710175000
+  name: 南瓜
+  amount: 350
+  unit: g
+- time: 20160710195500
+  name: 番茄酱
+  amount: 30
+  unit: g
+- time: 20160710195500
+  name: 鸡蛋
+  amount: 50
+  unit: g
+- time: 20160710195500
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20160710221500
+  name: 葡萄干
+  amount: 60
+  unit: g
+water:
+- time: 20160710101500
+  name: 开水
+  amount: 473
+  unit: ml
+- time: 20160710135500
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160710174500
+  name: 牛奶
+  amount: 400
+  unit: ml
+- time: 20160710194500
+  name: 开水
+  amount: 400
+  unit: ml
+med:
+- time: 20160710215500
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+comment: |+
+  ...
