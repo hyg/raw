@@ -6,7 +6,7 @@ wake:
   time: 20160710101500
   weight: 55.1
 exercise: 
-- time: 201607101100
+- time: 20160710110000
   item: 
   - type: 42.2
     amount: 20

@@ -1,0 +1,70 @@
+date: 20160711
+food:
+- time: 20160711090000
+  name: 杂粮粥
+  amount: 120
+  unit: g
+- time: 20160711090000
+  name: 鸡蛋
+  amount: 50
+  unit: g
+- time: 20160711144500
+  name: 大米
+  amount: 100
+  unit: g
+- time: 20160711144500
+  name: 蚕豆+毛豆+玉米
+  amount: 150
+  unit: g
+- time: 20160711144500
+  name: 牛蹄筋
+  amount: 100
+  unit: g
+- time: 20160711153000
+  name: 巴旦木
+  amount: 150
+  unit: g
+- time: 20160711155000
+  name: 夏橙
+  amount: 100
+  unit: g
+- time: 20160711201500
+  name: 酸奶
+  amount: 250
+  unit: g
+- time: 20160711201500
+  name: 葡萄干
+  amount: 100
+  unit: g
+- time: 20160711215000
+  name: 夏橙
+  amount: 100
+  unit: g
+- time: 20160711235000
+  name: 秋葵
+  amount: 200
+  unit: g
+water:
+- time: 20160711085000
+  name: 开水
+  amount: 473
+  unit: ml
+- time: 20160711110000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160711163500
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160711190500
+  name: 开水
+  amount: 400
+  unit: ml
+med:
+- time: 20160711215500
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+comment: |+
+  ...
