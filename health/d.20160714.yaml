@@ -1,0 +1,24 @@
+date: 20160714
+sleep: 
+  time: 20160714020800
+  weight: 56.6
+wake: 
+  time: 20160714103500
+  weight: 55.9
+exercise: 
+- time: 20160714075000
+  item: 
+  - type: 步行
+    amount: 90
+    unit: minute
+  - type: 步行
+    amount: 180
+    unit: minute
+  endheartrate: 74
+stool: 
+- time: 20160714160500
+  amount: 1 # 				1:多;		2:适中;		3:少;
+  type: 2		# 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 1	# 				1:不困难;	2:困难
+comment: |+
+  ...
