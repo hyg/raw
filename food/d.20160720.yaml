@@ -1,0 +1,70 @@
+date: 20160720
+food:
+- time: 20160720074500
+  name: 番石榴
+  amount: 150
+  unit: g
+- time: 20160720105000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20160720105000
+  name: 杂粮粥
+  amount: 120
+  unit: g
+- time: 20160720105000
+  name: 咸鱼
+  amount: 100
+  unit: g
+- time: 20160720144000
+  name: 奶粉
+  amount: 50
+  unit: g
+- time: 20160720144000
+  name: 可可粉
+  amount: 10
+  unit: g
+- time: 20160720190000
+  name: 荞麦冷面
+  amount: 200
+  unit: g
+- time: 20160720190000
+  name: 胡萝卜
+  amount: 200
+  unit: g
+- time: 20160720190000
+  name: 黄瓜
+  amount: 200
+  unit: g
+- time: 20160720190000
+  name: 猪肉
+  amount: 150
+  unit: g
+- time: 20160720190000
+  name: 豆泡
+  amount: 150
+  unit: g
+water:
+- time: 20160720074000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160720122000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160720142000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160720144000
+  name: 可可奶
+  amount: 200
+  unit: ml
+- time: 20160720164000
+  name: 开水
+  amount: 400
+  unit: ml
+
+comment: |+
+  ...

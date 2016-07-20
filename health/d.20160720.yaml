@@ -1,0 +1,16 @@
+date: 20160720
+sleep: 
+  time: 20160720021400
+  weight: 56.5
+wake: 
+  time: 20160720074000
+  weight: 55.6
+exercise: 
+- time: 20160720075000
+  item: 
+  - type: 步行
+    amount: 180
+    unit: minute
+  endheartrate: 75
+comment: |+
+  ...
