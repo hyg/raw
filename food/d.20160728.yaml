@@ -1,0 +1,65 @@
+date: 20160728
+food:
+- time: 20160728105500
+  name: 李子
+  amount: 150
+  unit: g
+- time: 20160728122000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20160728122000
+  name: 杂粮粥
+  amount: 120
+  unit: g
+- time: 20160728155000
+  name: 酸奶
+  amount: 650
+  unit: g
+- time: 20160728155000
+  name: 蓝靛果汁
+  amount: 100
+  unit: g
+- time: 20160728174000
+  name: 大米
+  amount: 100
+  unit: g
+- time: 20160728174000
+  name: 紫背天葵
+  amount: 200
+  unit: g
+- time: 20160728174000
+  name: 穿心莲
+  amount: 150
+  unit: g
+- time: 20160728174000
+  name: 猪肉
+  amount: 150
+  unit: g
+- time: 20160728174000
+  name: 豆泡
+  amount: 50
+  unit: g
+- time: 20160728234000
+  name: 带鱼
+  amount: 80
+  unit: g
+- time: 20160728235000
+  name: 梨
+  amount: 200
+  unit: g
+water:
+- time: 20160728101500
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160728145000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160728224700
+  name: 开水
+  amount: 400
+  unit: ml
+comment: |+
+  ...
