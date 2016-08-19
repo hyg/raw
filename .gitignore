@@ -2,3 +2,4 @@
 /node_modules
 /health/weight.R
 .DS_Store
+/web/js/Chart.min.js

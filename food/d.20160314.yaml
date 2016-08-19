@@ -45,7 +45,6 @@ water:
   name: 开水
   amount: 400
   unit: ml
-  unit: ml
 med:
 - time: 20160314232000
   name: SelenoPrecise

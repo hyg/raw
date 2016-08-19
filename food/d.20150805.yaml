@@ -65,7 +65,6 @@ water:
   name: 绞股蓝+龙井+罗汉果
   amount: 400
   unit: ml
-water:
 - time: 20150805194500
   name: 开水
   amount: 300

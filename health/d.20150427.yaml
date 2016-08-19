@@ -26,7 +26,6 @@ exercise:
     amount: 2
     unit: turn
   endheartrate: 68
-exercise: 
 - time: 20150427135500
   item: 
   - type: 蹲墙

@@ -44,14 +44,12 @@ exercise:
     amount: 5
     unit: turn
   endheartrate: 79
-exercise: 
 - time: 20150616115500
   item: 
   - type: 42平板支撑.2
     amount: 5
     unit: turn
   endheartrate: 60
-exercise: 
 - time: 20150616162500
   item: 
   - type: 42平板支撑.2
