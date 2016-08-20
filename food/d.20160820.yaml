@@ -1,0 +1,42 @@
+date: 20160820
+food:
+- time: 20160820101000
+  name: 黑布林
+  amount: 80
+  unit: g
+- time: 20160820113000
+  name: 猕猴桃
+  amount: 70
+  unit: g
+- time: 20160820121000
+  name: 杂粮粥+黑芝麻+麦胚芽
+  amount: 120
+  unit: g
+- time: 20160820121000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+
+- time: 20160820200000
+  name: 酸奶
+  amount: 250
+  unit: g
+- time: 20160820200000
+  name: 蓝莓
+  amount: 50
+  unit: g
+- time: 20160820233000
+  name: 黑布林
+  amount: 160
+  unit: g
+water:
+- time: 20160820095500
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160820123000
+  name: 开水
+  amount: 400
+  unit: ml
+comment: |+
+  ...

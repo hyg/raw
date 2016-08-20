@@ -7,7 +7,6 @@
 4. 木耳
 5. 南瓜：
 	* https://shop111981265.taobao.com
-	* https://shop148199399.taobao.com
 6. 水果干
 	* 葡萄干：https://jiangpinjiuye.taobao.com
 
@@ -17,7 +16,7 @@
 	* 海乳
 	* 奶酪：https://altlml.taobao.com
 	* 酸奶菌种:http://youduoyi.tmall.com
-3. 黑芝麻
+3. 黑芝麻:https://baiyouli.taobao.com
 
 #### 蛋白质
 1. 猪肉
@@ -28,12 +27,10 @@
 3. 豆制品
 4. 奶制品：
 	* 海乳
-	* https://wulantubao.taobao.com
 5. 海鸭蛋：http://shop100425773.taobao.com
 
 #### 抗氧化
 1. 胡萝卜：
-	* https://item.taobao.com/item.htm?id=43953456326
 	* https://item.taobao.com/item.htm?id=42513102840
 	* https://mnrj365.taobao.com
 2. 麦胚芽：http://shop57151106.taobao.com
@@ -77,10 +74,10 @@
 	* https://zhihuicheng.taobao.com 
 	* https://shop124649320.taobao.com
 * 甜瓜：
+	* https://yangjiaocui.taobao.com
 	* https://shop117345879.taobao.com
-* 桃：
-	* https://shop127939892.taobao.com
-
+* 桃：https://shop127939892.taobao.com
+* 葡萄：https://shop118074275.taobao.com
 
 ####其它
 * 酱油（禾然）
