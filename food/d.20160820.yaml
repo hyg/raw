@@ -16,18 +16,41 @@ food:
   name: 海鸭蛋
   amount: 60
   unit: g
-
-- time: 20160820200000
+- time: 20160820162000
   name: 酸奶
   amount: 250
   unit: g
-- time: 20160820200000
+- time: 20160820162000
   name: 蓝莓
   amount: 50
   unit: g
-- time: 20160820233000
+- time: 20160820180500
+  name: 馒头
+  amount: 150
+  unit: g
+- time: 20160820180500
+  name: 章鱼
+  amount: 50
+  unit: g
+- time: 20160820180500
+  name: 豆泡
+  amount: 120
+  unit: g
+- time: 20160820184000
+  name: 秋葵
+  amount: 200
+  unit: g
+- time: 20160820200000
   name: 黑布林
-  amount: 160
+  amount: 70
+  unit: g
+- time: 20160820235500
+  name: 番石榴
+  amount: 180
+  unit: g
+- time: 20160821020000
+  name: 鱼肉
+  amount: 120
   unit: g
 water:
 - time: 20160820095500
@@ -35,6 +58,10 @@ water:
   amount: 400
   unit: ml
 - time: 20160820123000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160820232400
   name: 开水
   amount: 400
   unit: ml
