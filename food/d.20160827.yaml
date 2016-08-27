@@ -1,0 +1,65 @@
+date: 20160827
+food:
+- time: 20160827092000
+  name: 梨
+  amount: 100
+  unit: g
+- time: 20160827092000
+  name: 葡萄
+  amount: 100
+  unit: g
+- time: 20160827094500
+  name: 杂粮粥+黑芝麻+麦胚芽
+  amount: 80
+  unit: g
+- time: 20160827154000
+  name: 馒头
+  amount: 120
+  unit: g
+- time: 20160827154000
+  name: 豆泡
+  amount: 150
+  unit: g
+- time: 20160827154000
+  name: 青豆
+  amount: 100
+  unit: g
+- time: 20160827154000
+  name: 酱牛肉
+  amount: 150
+  unit: g
+- time: 20160827201000
+  name: 南瓜
+  amount: 550
+  unit: g
+- time: 20160827220000
+  name: 梨
+  amount: 200
+  unit: g
+- time: 20160828013000
+  name: 红薯
+  amount: 200
+  unit: g
+water:
+- time: 20160827092400
+  name: 牛奶
+  amount: 600
+  unit: ml
+- time: 20160827121700
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160827140000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20160827174700
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160828014000
+  name: 开水
+  amount: 300
+  unit: ml
+comment: |+
+  ...
