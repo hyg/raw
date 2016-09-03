@@ -33,6 +33,7 @@
 1. 胡萝卜：
 	* https://item.taobao.com/item.htm?id=42513102840
 	* https://mnrj365.taobao.com
+	* https://xnlshipin.tmall.com/
 2. 麦胚芽：http://shop57151106.taobao.com
 3. 番茄酱：http://item.taobao.com/item.htm?id=5030927605
 4. 绞股蓝：https://yigengtang.taobao.com
@@ -41,6 +42,7 @@
 	* https://hfxinghongfa.tmall.com
 
 ####蔬菜
+* https://xnlshipin.tmall.com/
 * https://mnrj365.taobao.com
 * https://shop117345879.taobao.com
 
@@ -52,6 +54,7 @@
 	* https://shop121507938.taobao.com
 	* http://baiyouli.taobao.com/
 * 面粉：
+	* https://bfnjsp.taobao.com
 	* https://shop118425805.taobao.com
 	* http://shop59214560.taobao.com
 	* http://shop59801199.taobao.com
@@ -63,7 +66,9 @@
 	* https://hhlxc.taobao.com
 	* https://rxnj.taobao.com
 * 红薯：https://item.taobao.com/item.htm?id=522099347224
-* 玉米：https://zhzysp.tmall.com/
+* 玉米：
+	* https://bfnjsp.taobao.com
+	* https://zhzysp.tmall.com/
 
 ####水果
 * 番石榴：
@@ -73,11 +78,12 @@
 	* https://hn-feel.taobao.com
 	* https://zhihuicheng.taobao.com 
 	* https://shop124649320.taobao.com
-* 甜瓜：
+* 甜瓜、羊角脆：
 	* https://yangjiaocui.taobao.com
 	* https://shop117345879.taobao.com
 * 桃：https://shop127939892.taobao.com
 * 葡萄：https://shop118074275.taobao.com
+* 猕猴桃：https://shop63311758.taobao.com
 
 ####其它
 * 酱油（禾然）
