@@ -1,0 +1,86 @@
+date: 20160922
+food:
+- time: 20160922055500
+  name: 八月炸
+  amount: 100
+  unit: g
+- time: 20160922055500
+  name: 番石榴
+  amount: 75
+  unit: g
+- time: 20160922112000
+  name: 玉米
+  amount: 120
+  unit: g
+- time: 20160922112000
+  name: 大米
+  amount: 50
+  unit: g
+- time: 20160922120000
+  name: 南瓜
+  amount: 120
+  unit: g
+- time: 20160922162000
+  name: 胡萝卜
+  amount: 150
+  unit: g
+- time: 20160922162000
+  name: 西红柿
+  amount: 200
+  unit: g
+- time: 20160922162000
+  name: 海鸭蛋
+  amount: 60
+  unit: 
+- time: 20160922193500
+  name: 南瓜
+  amount: 250
+  unit: g
+- time: 20160922220000
+  name: 猪肉
+  amount: 325
+  unit: g
+- time: 20160922220000
+  name: 大米
+  amount: 50
+  unit: g
+- time: 20160922231000
+  name: 甜瓜
+  amount: 400
+  unit: g
+- time: 20160923013000
+  name: 鱼肉
+  amount: 120
+  unit: g
+water:
+- time: 20160922055000
+  name: 柠檬水
+  amount: 400
+  unit: ml
+- time: 20160922120000
+  name: 咖啡
+  amount: 400
+  unit: ml
+- time: 20160922133000
+  name: 咖啡
+  amount: 300
+  unit: ml
+- time: 20160922150000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20160922163000
+  name: 汤水
+  amount: 600
+  unit: ml
+med:
+- time: 20160922221100
+  name: CalciumCitrate
+  amount: 1
+  unit: 片
+- time: 20160922221100
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+comment: |+
+  ...
