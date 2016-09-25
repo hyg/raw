@@ -1,0 +1,50 @@
+date: 20160925
+food:
+- time: 20160925062500
+  name: 甜瓜
+  amount: 250
+  unit: g
+- time: 20160925063000
+  name: 番石榴
+  amount: 75
+  unit: g
+- time: 20160925115000
+  name: 吐司
+  amount: 250
+  unit: g
+- time: 20160925172000
+  name: 吐司
+  amount: 50
+  unit: g
+- time: 20160925193000
+  name: 金枪鱼
+  amount: 120
+  unit: g
+- time: 20160925205000
+  name: 黄瓜
+  amount: 250
+  unit: g
+- time: 20160925230000
+  name: 八月炸
+  amount: 150
+  unit: g
+water:
+- time: 20160925063000
+  name: 柠檬水
+  amount: 400
+  unit: ml
+- time: 20160925120000
+  name: 咖啡
+  amount: 300
+  unit: ml
+- time: 20160925133000
+  name: 咖啡
+  amount: 300
+  unit: ml
+- time: 20160925152000
+  name: 开水
+  amount: 400
+  unit: ml
+
+comment: |+
+  ...
