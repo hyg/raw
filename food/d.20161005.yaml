@@ -1,0 +1,57 @@
+date: 20161005
+food:
+- time: 20161005124000
+  name: 桔子
+  amount: 70
+  unit: g 
+- time: 20161005124500
+  name: 纯肉香肠
+  amount: 150
+  unit: g 
+- time: 20161005125500
+  name: 番石榴
+  amount: 150
+  unit: g 
+- time: 20161005154000
+  name: 纯肉香肠
+  amount: 100
+  unit: g 
+- time: 20161005154000
+  name: 纯肉香肠
+  amount: 100
+  unit: g 
+- time: 20161005184000
+  name: 蛋糕
+  amount: 125
+  unit: g 
+- time: 20161005215000
+  name: 玉米
+  amount: 120
+  unit: g   
+- time: 20161006003900
+  name: 杂粮粥+黑芝麻+麦胚芽
+  amount: 120
+  unit: g   
+water:
+- time: 20161005160000
+  name: 碧螺春
+  amount: 400
+  unit: ml
+- time: 20161005162200
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20161005171500
+  name: 碧螺春
+  amount: 400
+  unit: ml
+- time: 20161005190400
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20161005203000
+  name: 碧螺春
+  amount: 400
+  unit: ml
+comment: |+
+  ...
