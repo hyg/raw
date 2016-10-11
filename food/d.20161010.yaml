@@ -1,0 +1,65 @@
+date: 20161010
+food:
+- time: 20161010154500
+  name: 桔子
+  amount: 70
+  unit: g 
+- time: 20161010161000
+  name: 板栗仁
+  amount: 80
+  unit: g 
+- time: 20161010171000
+  name: 玉米
+  amount: 120
+  unit: g 
+- time: 20161010185000
+  name: 杂粮粥+黑芝麻+麦胚芽
+  amount: 120
+  unit: g 
+- time: 20161010195000
+  name: 鱼肉
+  amount: 60
+  unit: g 
+- time: 20161010231000
+  name: 板栗仁
+  amount: 80
+  unit: g 
+- time: 20161011023000
+  name: 板栗仁
+  amount: 160
+  unit: g 
+- time: 20161011033000
+  name: 猕猴桃
+  amount: 200
+  unit: g 
+- time: 20161011050500
+  name: 麦片
+  amount: 60
+  unit: g 
+- time: 20161011050500
+  name: 奶粉
+  amount: 25
+  unit: g 
+water:
+- time: 20161010161000
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20161010184000
+  name: 碧螺春
+  amount: 400
+  unit: ml
+- time: 20161010201000
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20161010220000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20161010234000
+  name: 碧螺春
+  amount: 400
+  unit: ml
+comment: |+
+  ...
