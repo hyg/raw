@@ -1,0 +1,66 @@
+date: 20161013
+food:
+- time: 20161013150000
+  name: 桔子
+  amount: 140
+  unit: g 
+- time: 20161013154000
+  name:  南瓜
+  amount: 200
+  unit: g 
+- time: 20161013160300
+  name: 桔子
+  amount: 70
+  unit: g 
+- time: 20161013163000
+  name: 荞麦面
+  amount: 150
+  unit: g 
+- time: 20161013163000
+  name: 小白菜
+  amount: 400
+  unit: g 
+- time: 20161013163000
+  name: 猪肉
+  amount: 135
+  unit: g 
+- time: 20161013223000
+  name: 杂粮粥+黑芝麻+麦胚芽
+  amount: 120
+  unit: g 
+- time: 20161014020000
+  name: 胡萝卜
+  amount: 150
+  unit: g 
+- time: 20161014020000
+  name: 西红柿
+  amount: 200
+  unit: g 
+- time: 20161014020000
+  name: 海鸭蛋
+  amount: 60
+  unit: g 
+
+water:
+- time: 20161013165000
+  name: 碧螺春
+  amount: 400
+  unit: ml
+- time: 20161013203600
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20161013213000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20161014004600
+  name: 碧螺春
+  amount: 400
+  unit: ml
+- time: 20161014025000
+  name: 汤水
+  amount: 1200
+  unit: ml
+comment: |+
+  ...
