@@ -1,0 +1,53 @@
+date: 20161015
+food:
+- time: 20161015064800
+  name:  番石榴
+  amount: 150
+  unit: g 
+- time: 20161015065000
+  name: 桔子
+  amount: 70
+  unit: g 
+- time: 20161015085000
+  name: 小米粥
+  amount: 300
+  unit: g 
+- time: 20161015085000
+  name: 猪肉三鲜包
+  amount: 300
+  unit: g 
+- time: 20161015143000
+  name: 红烧肉
+  amount: 120
+  unit: g 
+- time: 20161015143000
+  name: 西红柿炒鸡蛋
+  amount: 150
+  unit: g 
+- time: 20161015143000
+  name: 圆白菜
+  amount: 100
+  unit: g 
+- time: 20161015143000
+  name: 大米
+  amount: 100
+  unit: g 
+- time: 20161015143000
+  name: 鸡蛋海鲜汤
+  amount: 250
+  unit: g 
+- time: 20161015201000
+  name: 杂粮粥+黑芝麻+麦胚芽
+  amount: 120
+  unit: g 
+water:
+- time: 20161015064500
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20161015161500
+  name: 开水
+  amount: 400
+  unit: ml
+comment: |+
+  ...
