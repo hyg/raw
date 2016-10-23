@@ -1,0 +1,57 @@
+date: 20161023
+food:
+- time: 20161023111500
+  name: 猕猴桃
+  amount: 200
+  unit: g 
+- time: 20161023120500
+  name: 南瓜
+  amount: 250
+  unit: g 
+- time: 20161023141500
+  name: 胡萝卜
+  amount: 300
+  unit: g 
+- time: 20161023141500
+  name: 番茄酱
+  amount: 30
+  unit: g 
+- time: 20161023141500
+  name: 海鸭蛋
+  amount: 60
+  unit: g 
+- time: 20161023141500
+  name: 豆泡
+  amount: 200
+  unit: g 
+- time: 20161023174500
+  name: 猕猴桃
+  amount: 200
+  unit: g 
+- time: 20161023190500
+  name: 荞麦面
+  amount: 150
+  unit: g 
+- time: 20161023190500
+  name: 牛肉
+  amount: 220
+  unit: g 
+water:
+- time: 20161023101500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20161023111700
+  name: 咖啡
+  amount: 100
+  unit: ml
+- time: 20161023114500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20161023141500
+  name: 汤水
+  amount: 1200
+  unit: ml
+comment: |+
+  ...
