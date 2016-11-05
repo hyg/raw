@@ -1,0 +1,85 @@
+date: 20161105
+food:
+- time: 20161105100000
+  name: 蜜桔
+  amount: 200
+  unit: g 
+- time: 20161105102000
+  name: 番石榴
+  amount: 150
+  unit: g 
+- time: 20161105121000
+  name: 南瓜
+  amount: 300
+  unit: g 
+- time: 20161105125000
+  name: 玉米
+  amount: 120
+  unit: g 
+- time: 20161105144000
+  name: 杂粮粥+黑芝麻+麦胚芽
+  amount: 120
+  unit: g 
+- time: 20161105182000
+  name: 胡萝卜
+  amount: 150
+  unit: g 
+- time: 20161105182000
+  name: 西红柿
+  amount: 150
+  unit: g 
+- time: 20161105182000
+  name: 海鸭蛋
+  amount: 60
+  unit: g 
+- time: 20161105182000
+  name: 豆泡
+  amount:150
+  unit: g 
+- time: 20161105230000
+  name: 甜虾
+  amount:150
+  unit: g 
+- time: 20161106030000
+  name: 柿子
+  amount:300
+  unit: g 
+water:
+- time: 20161105095500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20161105103000
+  name: 六堡茶
+  amount: 200
+  unit: ml
+- time: 20161105113000
+  name: 六堡茶
+  amount: 200
+  unit: ml
+- time: 20161105122000
+  name: 六堡茶
+  amount: 200
+  unit: ml
+- time: 20161105150500
+  name: 六堡茶
+  amount: 200
+  unit: ml
+- time: 20161105162500
+  name: 六堡茶
+  amount: 200
+  unit: ml
+- time: 20161105182500
+  name: 汤水
+  amount: 1000
+  unit: ml
+- time: 20161105201300
+  name: 六堡茶
+  amount: 200
+  unit: ml
+- time: 20161105235500
+  name: 六堡茶
+  amount: 200
+  unit: ml
+comment: |+
+  ...
