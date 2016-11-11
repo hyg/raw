@@ -1,0 +1,65 @@
+date: 20161111
+food:
+- time: 20161111100000
+  name: 冰糖橙
+  amount: 360
+  unit: g 
+- time: 20161111140000
+  name: 南瓜
+  amount: 400
+  unit: g 
+- time: 20161111135000
+  name: 玉米
+  amount: 120
+  unit: g 
+- time: 20161111174000
+  name: 大米
+  amount: 100
+  unit: g 
+- time: 20161111192000
+  name: 柚子
+  amount: 500
+  unit: g 
+- time: 20161111214000
+  name: 鳕鱼
+  amount: 200
+  unit: g 
+- time: 20161111214000
+  name: 豆泡
+  amount: 150
+  unit: g 
+- time: 20161111235000
+  name: 柿子
+  amount: 480
+  unit: g 
+water:
+- time: 20161111100500
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20161111120000
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 2016111112300
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20161111160000
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 2016111116300
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 2016111121400
+  name: 汤水
+  amount: 600
+  unit: ml
+- time: 2016111123300
+  name: 开水
+  amount: 200
+  unit: ml
+comment: |+
+  ...
