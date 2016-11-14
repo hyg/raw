@@ -8,7 +8,7 @@ food:
   name: 南瓜
   amount: 400
   unit: g 
-- time: 201611131143000
+- time: 20161113143000
   name: 玉米
   amount: 120
   unit: g 
