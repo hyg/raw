@@ -5,23 +5,11 @@ sleep:
 wake: 
   time: 20161201125500
   weight: 58.1
-exercise: 
-- time: 20161201130500
-  item: 
-  - type: 42.2
-    amount: 20
-    unit: turn
-  - type: 侧平板支撑
-    amount: 40
-    unit: turn
-  - type: fw04
-    amount: 20
-    unit: turn
-  endheartrate: 97
+
 stool: 
-- time: 20161201054000
-  amount: 3 # 				1:多;		2:适中;		3:少;
+- time: 20161202044000
+  amount: 2 # 				1:多;		2:适中;		3:少;
   type: 2		# 	0:水样;		1:软;		2:适中;		3:硬;
-  diffcult: 2	# 				1:不困难;	2:困难
+  diffcult: 1	# 				1:不困难;	2:困难
 comment: |+
   ...
