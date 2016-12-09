@@ -39,19 +39,6 @@ food:
   name: 虾肉
   amount: 50
   unit: g 
-
-- time: 20161208163000
-  name: 猪肉
-  amount: 150
-  unit: g 
-- time: 20161208024000
-  name: 红薯
-  amount: 300
-  unit: g 
-- time: 20161208033000
-  name: 番石榴
-  amount: 150
-  unit: g 
 water:
 - time: 20161208141000
   name: 开水
