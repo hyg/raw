@@ -1,12 +1,12 @@
-date: 20161212
+date: 20161213
 sleep: 
-  time: 20161212041400
-  weight: 58.8
+  time: 20161213043600
+  weight: 58.6
 wake: 
-  time: 20161212124500
-  weight: 58.0
+  time: 20161213103500
+  weight: 58.1
 exercise: 
-- time: 20161212134000
+- time: 20161213215000
   item: 
   - type: 42.2
     amount: 20
@@ -18,16 +18,16 @@ exercise:
     amount: 20
     unit: turn
   - type: pilates.p095++
-    amount: 1
+    amount: 2
     unit: turn
   - type: pilates.p079
     amount: 5
     unit: turn
-  endheartrate: 92
+  endheartrate: 104
 stool: 
-- time: 201613040000
-  amount: 2 # 				1:多;		2:适中;		3:少;
-  type: 2		# 	0:水样;		1:软;		2:适中;		3:硬;
+- time: 201613123000
+  amount: 1 # 				1:多;		2:适中;		3:少;
+  type: 1		# 	0:水样;		1:软;		2:适中;		3:硬;
   diffcult: 1	# 				1:不困难;	2:困难
 comment: |+
   ...
