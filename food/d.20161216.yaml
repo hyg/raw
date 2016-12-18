@@ -1,35 +1,35 @@
 date: 20161216
 food:
-- time: 20161215113500
+- time: 20161216113500
   name: 香梨
   amount: 200
   unit: g 
-- time: 20161215120600
+- time: 20161216120600
   name: 玉米
   amount: 150
   unit: g 
-- time: 20161215120600
+- time: 20161216120600
   name: 南瓜
   amount: 350
   unit: g 
 
-- time: 20161215161000
+- time: 20161216161000
   name: 娃娃菜
   amount: 300
   unit: g 
-- time: 20161215161000
+- time: 20161216161000
   name: 芥菜
   amount: 300
   unit: g 
-- time: 20161215161000
+- time: 20161216161000
   name: 牛肉
   amount: 100
   unit: g 
-- time: 20161215161000
+- time: 20161216161000
   name: 西红柿
   amount: 150
   unit: g 
-- time: 20161215161000
+- time: 20161216161000
   name: 荞麦面
   amount: 150
   unit: g 
@@ -42,35 +42,35 @@ food:
   amount: 300
   unit: g 
 water:
-- time: 20161215112500
+- time: 20161216112500
   name: 开水
   amount: 200
   unit: ml
-- time: 20161215123000
+- time: 20161216123000
   name: 开水
   amount: 200
   unit: ml
-- time: 20161215141800
+- time: 20161216141800
   name: 牛奶
   amount: 200
   unit: ml
-- time: 20161215150900
+- time: 20161216150900
   name: 开水
   amount: 200
   unit: ml
-- time: 20161215164000
+- time: 20161216164000
   name: 汤水
   amount: 1000
   unit: ml
-- time: 20161215172000
+- time: 20161216172000
   name: 咖啡
   amount: 200
   unit: ml
-- time: 20161215170000
+- time: 20161216170000
   name: 开水
   amount: 220
   unit: ml
-- time: 20161215195500
+- time: 20161216195500
   name: 开水
   amount: 200
   unit: ml

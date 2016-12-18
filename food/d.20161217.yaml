@@ -1,42 +1,42 @@
 date: 20161217
 food:
-- time: 20161215123500
+- time: 20161217123500
   name: 冰糖橙
   amount: 250
   unit: g 
-- time: 20161215124000
+- time: 20161217124000
   name: 馒头
   amount: 100
   unit: g 
-- time: 20161215131000
+- time: 20161217131000
   name: 南瓜
   amount: 350
   unit: g 
-- time: 20161215132500
+- time: 20161217132500
   name: 鱼肉
   amount: 150
   unit: g 
-- time: 20161215154000
+- time: 20161217154000
   name: 柿饼
   amount: 120
   unit: g 
-- time: 20161215154000
+- time: 20161217154000
   name: 大米
   amount: 100
   unit: g 
-- time: 20161215190000
+- time: 20161217190000
   name: 胡萝卜
   amount: 120
   unit: g 
-- time: 20161215190000
+- time: 20161217190000
   name: 牛肉
   amount: 100
   unit: g 
-- time: 20161215190000
+- time: 20161217190000
   name: 西红柿
   amount: 150
   unit: g 
-- time: 20161215190000
+- time: 20161217190000
   name: 豆泡
   amount: 120
   unit: g 
