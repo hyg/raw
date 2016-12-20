@@ -1,0 +1,83 @@
+date: 20161220
+food:
+- time: 20161220115600
+  name: 冰糖橙
+  amount: 120
+  unit: g 
+- time: 20161216120000
+  name: 番石榴
+  amount: 200
+  unit: g 
+- time: 20161220135000
+  name: 杂粮粥+黑芝麻
+  amount: 120
+  unit: g 
+- time: 20161220135000
+  name: 咸鸭蛋
+  amount: 60
+  unit: g 
+
+- time: 20161220180000
+  name: 胡萝卜
+  amount: 120
+  unit: g 
+- time: 20161220180000
+  name: 西红柿
+  amount: 150
+  unit: g 
+- time: 20161220180000
+  name: 馒头
+  amount: 150
+  unit: g 
+- time: 20161220180000
+  name: 醪糟
+  amount: 100
+  unit: g 
+- time: 20161220180000
+  name: 牛肉
+  amount: 100
+  unit: g 
+- time: 20161220210000
+  name: 柿饼
+  amount: 100
+  unit: g 
+- time: 20161220210000
+  name: 玉米
+  amount: 150
+  unit: g 
+- time: 20161220210000
+  name: 南瓜
+  amount: 150
+  unit: g 
+water:
+- time: 20161220115000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20161220152200
+  name: 六堡茶
+  amount: 200
+  unit: ml
+- time: 20161220160600
+  name: 六堡茶
+  amount: 200
+  unit: ml
+- time: 20161220182500
+  name: 汤水
+  amount: 1000
+  unit: ml
+- time: 20161220185000
+  name: 六堡茶
+  amount: 200
+  unit: ml
+- time: 20161220220000
+  name: 六堡茶
+  amount: 200
+  unit: ml
+med:
+- time: 20161220020700
+  name: CalciumCitrate
+  amount: 1
+  unit: 片
+comment: |+
+  ...
