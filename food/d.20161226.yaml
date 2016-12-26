@@ -1,0 +1,87 @@
+date: 20161226
+food:
+- time: 20161226110000
+  name: 芭蕉
+  amount: 400
+  unit: g 
+- time: 20161226121200
+  name: 番石榴
+  amount: 250
+  unit: g 
+- time: 20161226134000
+  name: 南瓜
+  amount: 250
+  unit: g 
+- time: 20161226134000
+  name: 玉米
+  amount: 150
+  unit: g 
+- time: 20161226182000
+  name: 胡萝卜
+  amount: 120
+  unit: g 
+- time: 20161226182000
+  name: 西红柿
+  amount: 150
+  unit: g 
+- time: 20161226182000
+  name: 豆泡
+  amount: 120
+  unit: g 
+- time: 20161226182000
+  name: 牛肉
+  amount: 100
+  unit: g 
+- time: 20161226182000
+  name: 醪糟
+  amount: 60
+  unit: g 
+- time: 20161227020000
+  name: 南瓜
+  amount: 300
+  unit: g 
+- time: 20161227045600
+  name: 苹果
+  amount: 200
+  unit: g 
+
+water:
+- time: 20161226110500
+  name: 梨水
+  amount: 200
+  unit: ml
+- time: 20161226110800
+  name: 牛奶
+  amount: 200
+  unit: ml
+- time: 20161226140500
+  name: 梨水
+  amount: 200
+  unit: ml
+- time: 20161226145000
+  name: 梨水
+  amount: 200
+  unit: ml
+- time: 20161226151400
+  name: 梨水
+  amount: 200
+  unit: ml
+- time: 20161226172000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20161226185000
+  name: 汤水
+  amount: 1000
+  unit: ml
+- time: 20161226203000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+med:
+- time: 20161226211500
+  name: CalciumCitrate
+  amount: 1
+  unit: 片
+comment: |+
+  ...
