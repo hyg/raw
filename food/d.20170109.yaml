@@ -1,0 +1,79 @@
+date: 20170109
+food:
+- time: 20170109114700
+  name: 冰糖橙
+  amount: 200
+  unit: g 
+- time: 20170109132000
+  name: 南瓜
+  amount: 250
+  unit: g 
+- time: 20170109132000
+  name: 玉米
+  amount: 150
+  unit: g 
+- time: 20170109132000
+  name: 杂粮粥+黑芝麻+麦胚芽
+  amount: 120
+  unit: g 
+- time: 20170109132000
+  name: 咸鸭蛋
+  amount: 60
+  unit: g 
+- time: 20170109175000
+  name: 胡萝卜
+  amount: 160
+  unit: g 
+- time: 20170109175000
+  name: 番茄酱
+  amount: 30
+  unit: g 
+- time: 20170109175000
+  name: 猪肉
+  amount: 150
+  unit: g 
+- time: 20170109175000
+  name: 黄酒
+  amount: 50
+  unit: g 
+- time: 20170109183000
+  name: 枸杞
+  amount: 10
+  unit: g 
+- time: 20170109175000
+  name: 豆腐
+  amount: 150
+  unit: g 
+- time: 20170109175000
+  name: 荞麦面
+  amount: 150
+  unit: g 
+
+water:
+- time: 20170109114500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170109114500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170109121400
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170109144700
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170109161100
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170109182500
+  name: 汤水
+  amount: 800
+  unit: ml
+
+comment: |+
+  ...
