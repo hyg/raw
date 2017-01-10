@@ -1,0 +1,95 @@
+date: 20170110
+food:
+- time: 20170110074200
+  name: 冰糖橙
+  amount: 200
+  unit: g 
+- time: 20170110092000
+  name: 南瓜
+  amount: 250
+  unit: g 
+- time: 20170110092000
+  name: 玉米
+  amount: 150
+  unit: g 
+- time: 20170110092000
+  name: 大米
+  amount: 100
+  unit: g 
+- time: 20170110092000
+  name: 咸鸭蛋
+  amount: 60
+  unit: g 
+- time: 20170110144000
+  name: 大米
+  amount: 100
+  unit: g 
+- time: 20170110144000
+  name: 番茄酱
+  amount: 30
+  unit: g 
+- time: 20170110144000
+  name: 牛肉
+  amount: 100
+  unit: g 
+- time: 20170110144000
+  name: 枸杞
+  amount: 10
+  unit: g 
+- time: 20170110205000
+  name: 菠菜
+  amount: 250
+  unit: g 
+- time: 20170110205000
+  name: 豆腐
+  amount: 80
+  unit: g 
+
+water:
+- time: 20170110073900
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170110075700
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170110100000
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20170110103500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170110125000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170110151200
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20170110180000
+  name: 开水
+  amount: 250
+  unit: 
+- time: 20170110184200
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170111005000
+  name: 开水
+  amount: 200
+  unit: ml
+med:
+- time: 20170111005000
+  name: CalciumCitrate
+  amount: 1
+  unit: 片
+- time: 20170111005000
+  name: SelenoPrecise
+  amount: 1
+  unit: 片
+comment: |+
+  ...
