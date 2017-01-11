@@ -1,0 +1,70 @@
+date: 20170111
+food:
+- time: 20170111121000
+  name: 番石榴
+  amount: 200
+  unit: g 
+- time: 20170111121500
+  name: 冰糖橙
+  amount: 200
+  unit: g 
+- time: 20170111140000
+  name: 南瓜
+  amount: 250
+  unit: g 
+- time: 20170111140000
+  name: 玉米
+  amount: 150
+  unit: g 
+- time: 20170111140000
+  name: 杂粮粥+黑芝麻+麦胚芽
+  amount: 100
+  unit: g 
+- time: 20170111140000
+  name: 咸鸭蛋
+  amount: 60
+  unit: g 
+- time: 20170111144000
+  name: 大米
+  amount: 100
+  unit: g 
+- time: 20170111200000
+  name: 西红柿
+  amount: 250
+  unit: g 
+- time: 20170111200000
+  name: 猪肉
+  amount: 150
+  unit: g 
+- time: 20170111200000
+  name: 胡萝卜
+  amount: 150
+  unit: g 
+- time: 20170111200000
+  name: 醪糟
+  amount: 50
+  unit: g 
+- time: 20170111223000
+  name: 番石榴
+  amount: 250
+  unit: g 
+water:
+- time: 20170111120500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170111160000
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170111202000
+  name: 汤水
+  amount: 800
+  unit: ml
+- time: 20170111230000
+  name: 牛奶
+  amount: 200
+  unit: ml
+
+comment: |+
+  ...
