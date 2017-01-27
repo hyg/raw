@@ -96,7 +96,7 @@ water:
 - time: 20170126234000
   name: 碧螺春
   amount: 200
-  unit: 
+  unit: ml
 med:
 - time: 20170126234000
   name: CalciumCitrate
