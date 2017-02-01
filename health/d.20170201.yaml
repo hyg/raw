@@ -1,0 +1,22 @@
+date: 20170201
+sleep: 
+  time: 20170201040000
+  weight: 57.5
+wake: 
+  time: 20170201123500
+  weight: 56.9
+exercise: 
+- time: 20170201134000
+  item: 
+  - type: 捧气贯顶
+    amount: 1
+    unit: turn
+  endheartrate: 86
+
+stool: 
+- time: 20170201002000
+  amount: 3 # 				1:多;		2:适中;		3:少;
+  type: 2		# 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 2	# 				1:不困难;	2:困难
+comment: |+
+  ...
