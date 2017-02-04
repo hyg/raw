@@ -3,8 +3,8 @@ sleep:
   time: 20170203051200
   weight: 58.4
 wake: 
-  time: 20170204051400
-  weight: 58.0
+  time: 20170203121500
+  weight: 57.6
 exercise: 
 - time: 20170203135000
   item: 
