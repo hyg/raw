@@ -18,7 +18,7 @@ food:
   unit: g 
 - time: 20161106122000
   name: 柿子
-  amount:200
+  amount: 200
   unit: g   
 - time: 20161106121500
   name: 玉米

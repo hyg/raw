@@ -40,6 +40,7 @@ var bFirst = true ;
 
 try{
 	for (var day in fmap) {
+		//console.log("\nday=",day);
 		sleepday = Math.floor(hmap[day].sleep.time/1000000);
 		sleephour = Math.floor(hmap[day].sleep.time%1000000/10000);
 		sleepminute = Math.floor(hmap[day].sleep.time%10000/100);

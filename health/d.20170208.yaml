@@ -6,30 +6,12 @@ wake:
   time: 20170208065000
   weight: 57.2
 exercise: 
-- time: 20170208141000
+- time: 20170208073000
   item: 
-  - type: 42.2
-    amount: 20
-    unit: turn
-  - type: 侧平板支撑
-    amount: 40
-    unit: turn
-  - type: fw04
-    amount: 20
-    unit: turn
-  - type: pilates.p095++
-    amount: 6
-    unit: turn
-  - type: pilates.p079
-    amount: 5
-    unit: turn
-  endheartrate: 101
-- time: 20170208143000
-  item: 
-  - type: 捧气贯顶
-    amount: 1
-    unit: turn
-  endheartrate: 99
+  - type: walk
+    amount: 480
+    unit: minute
+  endheartrate: 85
 stool: 
 - time: 20170209010000
   amount: 3 # 				1:多;		2:适中;		3:少;

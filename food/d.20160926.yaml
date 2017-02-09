@@ -69,7 +69,6 @@ water:
   name: 汤水
   amount: 800
   unit: ml
-  unit: ml
 - time: 20160926204000
   name: 咖啡
   amount: 300

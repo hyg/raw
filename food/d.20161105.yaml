@@ -34,15 +34,15 @@ food:
   unit: g 
 - time: 20161105182000
   name: 豆泡
-  amount:150
+  amount: 150
   unit: g 
 - time: 20161105230000
   name: 甜虾
-  amount:150
+  amount: 150
   unit: g 
 - time: 20161106030000
   name: 柿子
-  amount:300
+  amount: 300
   unit: g 
 water:
 - time: 20161105095500

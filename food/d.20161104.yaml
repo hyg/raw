@@ -46,7 +46,7 @@ food:
   unit: g 
 - time: 20161104202000
   name: 柿子
-  amount:250
+  amount: 250
   unit: g 
 water:
 - time: 20161104095500
