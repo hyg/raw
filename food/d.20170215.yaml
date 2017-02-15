@@ -1,0 +1,62 @@
+date: 20170215
+food:
+- time: 20170215110500
+  name: 冰糖橙
+  amount: 100
+  unit: g 
+- time: 20170215111000
+  name: 番石榴
+  amount: 150
+  unit: g 
+- time: 20170215123000
+  name: 牛肉
+  amount: 500
+  unit: g 
+- time: 20170215123000
+  name: 豆皮
+  amount: 400
+  unit: g 
+- time: 20170215123000
+  name: 豆腐
+  amount: 100
+  unit: g 
+- time: 20170215123000
+  name: 菠菜
+  amount: 100
+  unit: g 
+- time: 20170215173000
+  name: 玉米片
+  amount: 100
+  unit: g 
+- time: 20170215210000
+  name: 甜瓜
+  amount: 200
+  unit: g 
+- time: 20170215222500
+  name: 玉米
+  amount: 150
+  unit: g 
+water:
+- time: 20170215110000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20170215132000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20170215143000
+  name: 开水
+  amount: 600
+  unit: ml
+- time: 20170215171900
+  name: 开水
+  amount: 200
+  unit: ml
+med:
+- time: 20170215230000
+  name: CalciumCitrate
+  amount: 1
+  unit: 片
+comment: |+
+  ...
