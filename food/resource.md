@@ -23,7 +23,9 @@
 	* https://laojuantou.taobao.com
 	* http://xiaotuanshan.taobao.com
 2. 牛肉：
-	* <s>https://tianmaroupu.taobao.com</s>
+	* https://hystnc.taobao.com
+	* https://shop103590607.taobao.com
+	* <s>https://tianmaroupu.taobao.com</s> 
 3. 豆制品
 4. 奶制品：
 	* 海乳
@@ -63,6 +65,8 @@
 	* https://qiushisp.tmall.com
 	* https://jinshahe.tmall.com
 	* https://shop69357144.taobao.com
+* 面点
+	* https://playbakery.taobao.com
 * 酵母：
 	* https://hhlxc.taobao.com
 	* https://rxnj.taobao.com
