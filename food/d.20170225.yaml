@@ -6,7 +6,7 @@ food:
   unit: g 
 - time: 20170225115000
   name: 玉米
-  amount: 2150
+  amount: 150
   unit: g 
 - time: 20170225115000
   name: 小米
