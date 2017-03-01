@@ -16,11 +16,11 @@ food:
   name: 海鸭蛋
   amount: 50
   unit: g 
-- time: 201702281125500
+- time: 20170228125500
   name: 酸奶
   amount: 125
   unit: g 
-- time: 201702281125500
+- time: 20170228125500
   name: 蔓越莓
   amount: 20
   unit: g 

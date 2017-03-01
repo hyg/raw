@@ -1,0 +1,16 @@
+date: 20170301
+sleep: 
+  time: 20170301032100
+  weight: 57.9
+wake:  54
+  time: 20170301064500
+  weight: 57.5
+exercise: 
+- time: 20170301071000
+  item: 
+  - type: walk
+    amount: 300
+    unit: minute
+  endheartrate: 85
+comment: |+
+  ...

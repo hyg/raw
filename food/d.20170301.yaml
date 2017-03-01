@@ -1,0 +1,58 @@
+date: 20170301
+food:
+- time: 20170301082000
+  name: 鸡蛋饼
+  amount: 150
+  unit: g 
+- time: 20170301082000
+  name: 豆腐脑
+  amount: 500
+  unit: g 
+- time: 20170301082000
+  name: 咸菜
+  amount: 50
+  unit: g 
+- time: 20170301120000
+  name: 面筋
+  amount: 100
+  unit: g 
+- time: 20170301120000
+  name: 胡萝卜
+  amount: 150
+  unit: g 
+- time: 20170301112000
+  name: 大米
+  amount: 75
+  unit: g 
+- time: 20170301192000
+  name: 大米
+  amount: 80
+  unit: g 
+- time: 20170301230000
+  name: 板栗仁
+  amount: 100
+  unit: g 
+- time: 20170301233000
+  name: 不知火
+  amount: 150
+  unit: g 
+water:
+- time: 20170301065000
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170301100000
+  name: 咖啡
+  amount: 400
+  unit: ml
+- time: 20170301160000
+  name: 开水
+  amount: 400
+  unit: ml
+med:
+- time: 20170301010000
+  name: CalciumCitrate
+  amount: 1
+  unit: 片
+comment: |+
+  ...
