@@ -1,0 +1,66 @@
+date: 20170305
+food:
+- time: 20170305122500
+  name: 小米
+  amount: 80
+  unit: g 
+- time: 20170305122500
+  name: 豆干
+  amount: 100
+  unit: g 
+- time: 20170305164500
+  name: 面包
+  amount: 100
+  unit: g 
+- time: 20170305203500
+  name: 菠菜
+  amount: 250
+  unit: g 
+- time: 20170305203500
+  name: 小白菜
+  amount: 200
+  unit: g 
+- time: 20170306001000
+  name: 面包
+  amount: 300
+  unit: g 
+- time: 20170306005500
+  name: 冰糖橙
+  amount: 200
+  unit: g 
+water:
+- time: 20170305115200
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170305133100
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170305144500
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20170305153500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170305165500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170305184500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170306003000
+  name: 开水
+  amount: 200
+  unit: ml
+med:
+- time: 20170306003000
+  name: CalciumCitrate
+  amount: 1
+  unit: 片
+comment: |+
+  ...
