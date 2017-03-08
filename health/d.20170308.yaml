@@ -1,0 +1,21 @@
+date: 20170308
+sleep: 
+  time: 20170308054000
+  weight: 58.0
+wake:  54
+  time: 20170308082000
+  weight: 57.7
+exercise: 
+- time: 20170308090000
+  item: 
+  - type: walk
+    amount: 300
+    unit: turn
+  endheartrate: 85
+stool: 
+- time: 20170309033500
+  amount: 3 # 				1:多;		2:适中;		3:少;
+  type: 2		# 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 2	# 				1:不困难;	2:困难
+comment: |+
+  ...
