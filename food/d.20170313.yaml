@@ -1,0 +1,74 @@
+date: 20170313
+food:
+- time: 20170313112500
+  name: 面包
+  amount: 300
+  unit: g 
+- time: 20170313153000
+  name: 不知火
+  amount: 150
+  unit: g 
+- time: 20170313162500
+  name: 番石榴
+  amount: 150
+  unit: g 
+- time: 20170313182500
+  name: 豆腐
+  amount: 250
+  unit: g 
+- time: 20170313182500
+  name: 菠菜
+  amount: 250
+  unit: g 
+- time: 20170313182500
+  name: 小白菜
+  amount: 300
+  unit: g 
+- time: 20170313235500
+  name: 板栗仁
+  amount: 100
+  unit: g 
+water:
+- time: 20170313100500
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20170313112500
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20170313123500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170313132200
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170313143000
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20170313173000
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170313202800
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170313210500
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20170313213000
+  name: 开水
+  amount: 200
+  unit: ml
+med:
+- time: 20170313010000
+  name: CalciumCitrate
+  amount: 1
+  unit: 片
+comment: |+
+  ...
