@@ -34,6 +34,7 @@ var w1 = "weight1 <- c(";
 var w2 = "weight2 <- c(";
 var sleep = "sleep <- c(";
 var wake = "wake <- c(";
+var sleeplong = "sleeplong <- c(";
 
 var cnt = 0;
 var bFirst = true ;
@@ -55,10 +56,13 @@ try{
 		wakeminute = Math.floor(hmap[day].wake.time%10000/100);
 		waketime = wakehour*60+wakeminute;
 		
+		sleeplongtime = waketime - sleeptime ;
+		
 		//if(waketime > 1000) {console.log(day)}
 		
 		//console.log("\n================="+day+"=================\nfood:\t"+fmap[day].comment+"\nhealth:\t"+hmap[day].comment);
 		if (day > "20150407") {
+		//if (day > "20170101") {
 			cnt = cnt + 1;
 			if (bFirst) {
 				d = d+ "\"" + day + "\"";
@@ -67,6 +71,7 @@ try{
 				
 				sleep = sleep + sleeptime;
 				wake  = wake + waketime;
+				sleeplong  = sleeplong + sleeplongtime;
 				bFirst = false;
 			} else {
 				d = d+',\"'+day+ "\"";
@@ -75,6 +80,7 @@ try{
 				
 				sleep = sleep +","+ sleeptime;
 				wake  = wake +","+ waketime;
+				sleeplong  = sleeplong +","+ sleeplongtime;
 			}
 		}
 	}
@@ -90,12 +96,13 @@ w1 = w1 + ")";
 w2 = w2 + ")";
 sleep = sleep + ")";
 wake = wake + ")";
+sleeplong = sleeplong + ")";
 
 var wstr = d+"\r\n"+w1+"\r\n"+w2+"\r\nplot(c(1:"+cnt+"),weight1,type=\"b\",pch=15,lty=1,col=\"red\",xaxt=\"n\",xlab = \"date\")\r\nlines(c(1:"+cnt+"),weight2,type=\"b\",pch=17,lty=2,col=\"blue\")\r\nlegend(\"topleft\",inset=.05,title=\"体重曲线\",c(\"睡前\",\"醒后\"),lty=c(1,2),pch=c(15,17),col=c(\"red\",\"blue\"))\r\naxis(1, c(1:"+cnt+"),date)\r\n";
 fs.writeFile("health/weight.R",wstr);
 console.log("\n\n体重曲线在health/weight.R");
 
-var sleepstr = d+"\r\n"+sleep+"\r\n"+wake+"\r\nplot(c(1:"+cnt+"),sleep,type=\"b\",pch=15,lty=1,col=\"red\",xaxt=\"n\",xlab = \"date\")\r\nlines(c(1:"+cnt+"),wake,type=\"b\",pch=17,lty=2,col=\"blue\")\r\nlegend(\"topleft\",inset=.05,title=\"睡眠曲线\",c(\"睡\",\"醒\"),lty=c(1,2),pch=c(15,17),col=c(\"red\",\"blue\"))\r\naxis(1, c(1:"+cnt+"),date)\r\n";
+var sleepstr = d+"\r\n"+sleep+"\r\n"+wake+"\r\n"+sleeplong+"\r\nplot(c(1:"+cnt+"),sleep,type=\"b\",pch=15,lty=1,col=\"red\",xaxt=\"n\",xlab = \"date\")\r\nlines(c(1:"+cnt+"),wake,type=\"b\",pch=17,lty=2,col=\"blue\")\r\nlines(c(1:"+cnt+"),sleeplong,type=\"b\",pch=21,lty=2,col=\"green\")\r\nlegend(\"topleft\",inset=.05,title=\"睡眠曲线\",c(\"睡\",\"醒\",\"时长\"),lty=c(1,2,2),pch=c(15,17,21),col=c(\"red\",\"blue\",\"green\"))\r\naxis(1, c(1:"+cnt+"),date)\r\n";
 fs.writeFile("health/sleep.R",sleepstr);
 console.log("\n\n睡眠曲线在health/sleep.R");
 

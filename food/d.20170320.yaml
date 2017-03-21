@@ -1,0 +1,43 @@
+date: 20170320
+food:
+- time: 20170320125000
+  name: 冰糖橙
+  amount: 200
+  unit: g 
+- time: 20170320150000
+  name: 杂粮粥
+  amount: 100
+  unit: g 
+- time: 20170320150000
+  name: 玉米
+  amount: 150
+  unit: g 
+- time: 20170320150000
+  name: 海鸭蛋
+  amount: 60
+  unit: g 
+- time: 20170320150000
+  name: 酸奶
+  amount: 110
+  unit: g 
+- time: 20170320150000
+  name: 蔓越莓
+  amount: 25
+  unit: g 
+
+water:
+- time: 20170320124500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170320132000
+  name: 开水
+  amount: 200
+  unit: ml
+med:
+- time: 20170320125500
+  name: CalciumCitrate
+  amount: 1
+  unit: 片
+comment: |+
+  下午开始出差。
