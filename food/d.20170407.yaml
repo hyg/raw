@@ -1,0 +1,59 @@
+date: 20170407
+food:
+- time: 20170407114000
+  name: 面包
+  amount: 250
+  unit: g 
+- time: 20170407152000
+  name: 板栗仁
+  amount: 100
+  unit: g 
+- time: 20170407164000
+  name: 南瓜
+  amount: 350
+  unit: g 
+- time: 20170407184000
+  name: 牛肉汉堡
+  amount: 300
+  unit: g 
+- time: 20170407184000
+  name: 薯条
+  amount: 120
+  unit: g 
+
+water:
+- time: 20170407112500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170407113000
+  name: 咖啡
+  amount: 300
+  unit: ml
+- time: 20170407122900
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170407163000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20170407200000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170407215500
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20170407122900
+  name: 维生素B族
+  amount: 1
+  unit: 片
+- time: 20170407122900
+  name: CalciumCitrate
+  amount: 1
+  unit: 片
+comment: |+
+  ...

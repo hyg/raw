@@ -57,12 +57,16 @@ water:
   name: 咖啡
   amount: 300
   unit: ml
+- time: 20170406220000
+  name: 开水
+  amount: 200
+  unit: ml
 med:
 - time: 20170406182300
   name: 维生素B族
   amount: 1
   unit: 片
-- time: 20170406125500
+- time: 20170406220000
   name: CalciumCitrate
   amount: 1
   unit: 片
