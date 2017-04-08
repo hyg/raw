@@ -1,0 +1,83 @@
+date: 20170408
+food:
+- time: 20170408095800
+  name: 伦晚脐橙
+  amount: 120
+  unit: g 
+- time: 20170408101500
+  name: 板栗仁
+  amount: 100
+  unit: g 
+- time: 20170408122000
+  name: 红薯
+  amount: 200
+  unit: g 
+- time: 20170408122000
+  name: 窝头
+  amount: 120
+  unit: g 
+- time: 20170408122000
+  name: 油炸尖椒苗
+  amount: 200
+  unit: g 
+- time: 20170408122000
+  name: 炒鸡蛋
+  amount: 50
+  unit: g 
+- time: 20170408122000
+  name: 芹菜
+  amount: 200
+  unit: g 
+- time: 20170408122000
+  name: 豆腐
+  amount: 120
+  unit: g 
+- time: 20170408122000
+  name: 大米
+  amount: 50
+  unit: g 
+- time: 20170408193000
+  name: 重乳酪蛋糕
+  amount: 250
+  unit: g 
+
+water:
+- time: 20170408094500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170408094500
+  name: 咖啡
+  amount: 120
+  unit: ml
+- time: 20170408113500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170408113500
+  name: 绿茶
+  amount: 400
+  unit: ml
+- time: 20170408180000
+  name: 咖啡
+  amount: 220
+  unit: ml
+- time: 20170408214000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170408225500
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20170408225500
+  name: 维生素B族
+  amount: 1
+  unit: 片
+- time: 20170408225500
+  name: CalciumCitrate
+  amount: 1
+  unit: 片
+comment: |+
+  ...
