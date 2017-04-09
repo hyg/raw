@@ -1,0 +1,66 @@
+date: 20170409
+food:
+- time: 20170409094500
+  name: 番石榴
+  amount: 150
+  unit: g 
+- time: 20170409104000
+  name: 南瓜
+  amount: 400
+  unit: g 
+- time: 20170409123000
+  name: 扁豆焖面
+  amount: 300
+  unit: g 
+- time: 20170409220000
+  name: 乳酪蛋糕
+  amount: 300
+  unit: g 
+- time: 20170409230000
+  name: 板栗仁
+  amount: 100
+  unit: g 
+water:
+- time: 20170409093300
+  name: 开水
+  amount: 220
+  unit: ml
+- time: 20170409112000
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20170409142500
+  name: 碧螺春
+  amount: 200
+  unit: ml
+- time: 20170409150000
+  name: 碧螺春
+  amount: 200
+  unit: ml
+- time: 20170409160000
+  name: 开水
+  amount: 220
+  unit: ml
+- time: 20170409162000
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20170409210000
+  name: 碧螺春
+  amount: 200
+  unit: ml
+- time: 20170409230000
+  name: 开水
+  amount: 220
+  unit: ml
+med:
+- time: 20170409160000
+  name: 维生素B族
+  amount: 1
+  unit: 片
+- time: 20170409160000
+  name: CalciumCitrate
+  amount: 1
+  unit: 片
+comment: |+
+  ...
