@@ -1,0 +1,61 @@
+date: 20170508
+food:
+- time: 20170508115000
+  name: 番石榴
+  amount: 300
+  unit: g 
+- time: 20170508122000
+  name: 南瓜
+  amount: 250
+  unit: g 
+- time: 20170508134000
+  name: 面包
+  amount: 150
+  unit: g 
+- time: 20170508180000
+  name: 杂粮粥
+  amount: 100
+  unit: g 
+- time: 20170508201000
+  name: 胡萝卜
+  amount: 150
+  unit: g 
+- time: 20170508201000
+  name: 西红柿
+  amount: 250
+  unit: g 
+- time: 20170508201000
+  name: 猪肉
+  amount: 100
+  unit: g 
+- time: 20170509001000
+  name: 板栗仁
+  amount: 100
+  unit: g 
+water:
+- time: 20170508114500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170508121500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170508140000
+  name: 咖啡
+  amount: 350
+  unit: ml
+- time: 20170508152000
+  name: 开水
+  amount: 240
+  unit: ml
+- time: 20170508203000
+  name: 汤水
+  amount: 400
+  unit: ml
+- time: 20170509003500
+  name: 开水
+  amount: 240
+  unit: ml
+comment: |+
+  ...

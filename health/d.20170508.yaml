@@ -1,0 +1,32 @@
+date: 20170508
+sleep: 
+  time: 20170508032800
+  weight: 59.6
+  time: 20170508114500
+  weight: 58.7
+exercise: 
+- time: 20170508130000
+  item: 
+  - type: 42.2
+    amount: 20
+    unit: turn
+  - type: 侧平板支撑
+    amount: 40
+    unit: turn
+  - type: fw04
+    amount: 20
+    unit: turn
+  - type: pilates.p095++
+    amount: 3
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 100
+stool: 
+- time: 20170509014500
+  amount: 3 # 				1:多;		2:适中;		3:少;
+  type: 2		# 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 2	# 				1:不困难;	2:困难
+comment: |+
+  ...

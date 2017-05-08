@@ -2,7 +2,8 @@ date: 20170401
 sleep: 
   time: 20170401014700
   weight: 58.7
-  time: 20170400745000
+wake:
+  time: 20170401074500
   weight: 58.7
 stool: 
 - time: 20170401235000
