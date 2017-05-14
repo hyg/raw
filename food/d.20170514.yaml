@@ -1,0 +1,66 @@
+date: 20170514
+food:
+- time: 20170514140000
+  name: 伦晚脐橙
+  amount: 150
+  unit: g 
+- time: 20170514140500
+  name: 面包
+  amount: 75
+  unit: g 
+- time: 20170514172000
+  name: 番石榴
+  amount: 150
+  unit: g 
+- time: 20170514174500
+  name: 胡萝卜
+  amount: 150
+  unit: g 
+- time: 20170514174500
+  name: 西红柿
+  amount: 250
+  unit: g 
+- time: 20170514174500
+  name: 猪肉
+  amount: 120
+  unit: g 
+- time: 20170514215000
+  name: 豆皮
+  amount: 150
+  unit: g 
+- time: 20170514215000
+  name: 海鸭蛋
+  amount: 50
+  unit: g 
+- time: 20170514215000
+  name: 猪肉
+  amount: 120
+  unit: g 
+- time: 20170515010000
+  name: 甜瓜
+  amount: 200
+  unit: g 
+water:
+- time: 20170514134000
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170514141000
+  name: 牛奶
+  amount: 200
+  unit: ml
+- time: 20170514153000
+  name: 牛奶
+  amount: 200
+  unit: ml
+- time: 20170514175000
+  name: 汤水
+  amount: 400
+  unit: ml
+- time: 20170514134000
+  name: 开水
+  amount: 220
+  unit: ml
+comment: |+
+  ...
+ 
