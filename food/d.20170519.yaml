@@ -1,0 +1,55 @@
+date: 20170519
+food:
+- time: 20170519142000
+  name: 伦晚脐橙
+  amount: 150
+  unit: g
+- time: 20170519145000
+  name: 番石榴
+  amount: 150
+  unit: g
+- time: 20170519151500
+  name: 南瓜
+  amount: 250
+  unit: g
+- time: 20170519153500
+  name: 板栗仁
+  amount: 100
+  unit: g
+- time: 20170519174000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20170519174000
+  name: 菠菜
+  amount: 300
+  unit: g
+- time: 20170519181000
+  name: 板栗仁
+  amount: 100
+  unit: g
+- time: 20170519221000
+  name: 面包
+  amount: 75
+  unit: g
+water:
+- time: 20170519141700
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170519180000
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170519214000
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170519222000
+  name: 牛奶
+  amount: 500
+  unit: ml
+
+comment: |+
+  ...
+ 
