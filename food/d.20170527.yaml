@@ -1,0 +1,83 @@
+date: 20170527
+food:
+- time: 20170527143000
+  name: 杏
+  amount: 150
+  unit: g
+- time: 20170527144000
+  name: 番石榴
+  amount: 200
+  unit: g
+- time: 20170527150000
+  name: 杂粮粥+黑芝麻+麦胚芽
+  amount: 120
+  unit: g
+- time: 20170527184000
+  name: 胡萝卜
+  amount: 150
+  unit: g
+- time: 20170527184000
+  name: 西红柿
+  amount: 150
+  unit: g
+- time: 20170527184000
+  name: 猪肉
+  amount: 100
+  unit: g
+- time: 20170527205000
+  name: 百香果
+  amount: 150
+  unit: g
+- time: 20170527220000
+  name: 豆干
+  amount: 150
+  unit: g
+- time: 20170527220000
+  name: 猪心
+  amount: 200
+  unit: g
+- time: 20170528055000
+  name: 板栗仁
+  amount: 100
+  unit: g
+- time: 20170528060000
+  name: 甜瓜
+  amount: 500
+  unit: g
+water:
+- time: 20170527142000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170527175000
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20170527192000
+  name: 汤水
+  amount: 400
+  unit: ml
+- time: 20170527205500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20170527233000
+  name: 咖啡
+  amount: 500
+  unit: ml
+- time: 20170528060500
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20170528060500
+  name: 维生素B族
+  amount: 1
+  unit: 片
+- time: 20170528060500
+  name: CalciumCitrate
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
