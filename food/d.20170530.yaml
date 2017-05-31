@@ -60,7 +60,6 @@ food:
   name: 琵琶
   amount: 150
   unit: g
-
 water:
 - time: 20170530054000
   name: 开水
