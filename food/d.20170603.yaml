@@ -1,0 +1,79 @@
+date: 20170603
+food:
+- time: 20170603151000
+  name: 馒头
+  amount: 100
+  unit: g
+- time: 20170603153000
+  name: 板栗仁
+  amount: 100
+  unit: g
+- time: 20170603190000
+  name: 胡萝卜
+  amount: 150
+  unit: g
+- time: 20170603190000
+  name: 西红柿
+  amount: 150
+  unit: g
+- time: 20170603190000
+  name: 猪肉
+  amount: 150
+  unit: g
+- time: 20170603200000
+  name: 杏
+  amount: 200
+  unit: g
+- time: 20170603204000
+  name: 板栗仁
+  amount: 100
+  unit: g
+- time: 20170603214000
+  name: 豆腐
+  amount: 200
+  unit: g
+- time: 20170603214000
+  name: 蘑菇
+  amount: 150
+  unit: g
+- time: 20170603214000
+  name: 鸡肉
+  amount: 100
+  unit: g
+water:
+- time: 20170603144000
+  name: 开水
+  amount: 220
+  unit: ml
+- time: 20170603164000
+  name: 开水
+  amount: 220
+  unit: ml
+- time: 20170603191000
+  name: 汤水
+  amount: 450
+  unit: ml
+- time: 20170603210000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170603221800
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20170603200000
+  name: 中药
+  amount: 1
+  unit: 包
+- time: 20170603221800
+  name: 维生素B族
+  amount: 1
+  unit: 片
+- time: 20170603221800
+  name: CalciumCitrate
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
