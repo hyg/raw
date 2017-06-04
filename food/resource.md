@@ -1,6 +1,6 @@
-##采购清单
+## 采购清单
 
-###持续补货
+### 持续补货
 #### 纤维素
 1. 麦片：http://shop33278606.taobao.com
 2. 紫菜\海带：https://shop73332289.taobao.com
@@ -25,7 +25,6 @@
 2. 牛肉：
 	* https://hystnc.taobao.com
 	* https://shop103590607.taobao.com
-	* <s>https://tianmaroupu.taobao.com</s> 
 3. 豆制品
 4. 奶制品：
 	* 海乳
@@ -44,12 +43,12 @@
 	* https://92nm.taobao.com
 	* https://hfxinghongfa.tmall.com
 
-####蔬菜
+#### 蔬菜
 * https://xnlshipin.tmall.com/
 * https://mnrj365.taobao.com
 * https://shop117345879.taobao.com
 
-####主食
+#### 主食
 * 大米：
 	* https://wcdmxtx.taobao.com
 	* http://shop59214560.taobao.com
@@ -58,7 +57,6 @@
 	* http://baiyouli.taobao.com/
 * 面粉：
 	* https://bfnjsp.taobao.com
-	* https://shop118425805.taobao.com
 	* http://shop59214560.taobao.com
 	* http://shop59801199.taobao.com
 * 面条：
@@ -70,21 +68,20 @@
 * 酵母：
 	* https://hhlxc.taobao.com
 	* https://rxnj.taobao.com
-* 红薯：https://item.taobao.com/item.htm?id=522099347224
 * 玉米：
 	* https://bfnjsp.taobao.com
 	* https://zhzysp.tmall.com/
 
-####水果
+#### 水果
 * 番石榴：
 	* https://shop116047606.taobao.com
 	* https://gyy8888.taobao.com
 * 橙：
 	* https://hn-feel.taobao.com
-	* https://zhihuicheng.taobao.com 
+	* <s>https://zhihuicheng.taobao.com </s> 
 	* https://shop124649320.taobao.com
+* 不知火：https://pjsg.taobao.com
 * 甜瓜、羊角脆：
-	* <s>https://yangjiaocui.taobao.com</s>
 	* https://shop117345879.taobao.com
 * 桃：https://shop127939892.taobao.com
 * 葡萄：https://shop118074275.taobao.com
@@ -95,13 +92,13 @@
 
 ###杂粮粥
 
-|供货商                       |粥米|黑糯米|小米|燕麦米|苦荞麦|鹰嘴豆|莲子|百合|黑花生米 |桑葚|
-|---------------------------|------|---------|------|---------|---------|---------|------|------|-------------|------|
-|五常大米香天下        |1      |1        |  1    |            |           |           |        |       |                |        |
-|百优粒                       |        |          |        |    1      |     1    |           |  0.5 | 0.5 |                 |        |
-|大漠盛宴                   |        |          |        |            |           |    1     |        |       |                |  0.5 |
-|黑玉珍                       |        |          |        |            |           |           |        |       |        1      |        |
-
+|供货商                       |粥米|绿豆|小米|苦荞麦|鹰嘴豆|莲子|百合|黑花生米 |桑葚|葡萄干|
+|---------------------------|------|------|------|---------|---------|------|------|-------------|------|---------|
+|五常大米香天下        |1     |1      | 1    |           |           |        |       |                |        |           |
+|百优粒                       |       |        |       |     1    |           |  0.5 | 0.5 |                |        |           |
+|大漠盛宴                   |       |        |       |           |    1     |        |       |                |  0.5 |           |
+|黑玉珍                       |       |        |       |           |           |        |       |        1      |        |           |
+|疆品                           |       |        |       |           |           |        |       |                |        |    0.5  |
 ###年度排期
 
 |月.旬| 蔬菜 | 水果 |
