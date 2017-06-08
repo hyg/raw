@@ -1,0 +1,96 @@
+date: 20170608
+food:
+- time: 20170608132500
+  name: 杂粮粥
+  amount: 100
+  unit: g
+- time: 20170608132500
+  name: 玉米粒+青豆+胡萝卜
+  amount: 150
+  unit: g
+- time: 20170608132500
+  name: 猪肉
+  amount: 180
+  unit: g
+- time: 20170608134500
+  name: 酸奶
+  amount: 250
+  unit: g
+- time: 20170608134500
+  name: 蓝莓
+  amount: 50
+  unit: g
+- time: 20170608200000
+  name: 胡萝卜
+  amount: 50
+  unit: g
+- time: 20170608200000
+  name: 西红柿
+  amount: 150
+  unit: g
+- time: 20170608200000
+  name: 猪肉
+  amount: 150
+  unit: g
+- time: 20170608205000
+  name: 甜瓜
+  amount: 500
+  unit: g
+- time: 20170608205500
+  name: 黄桃
+  amount: 200
+  unit: g
+- time: 20170608205500
+  name: 荔枝
+  amount: 250
+  unit: g
+- time: 20170609020000
+  name: 板栗仁
+  amount: 100
+  unit: g
+- time: 20170609030000
+  name: 胡萝卜
+  amount: 100
+  unit: g
+- time: 20170609030000
+  name: 西红柿
+  amount: 100
+  unit: g
+- time: 20170609030000
+  name: 猪肉
+  amount: 150
+  unit: g
+water:
+- time: 20170608131500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170608153500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170608202000
+  name: 汤水
+  amount: 200
+  unit: ml
+- time: 20170609011500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170609031000
+  name: 汤水
+  amount: 200
+  unit: ml
+- time: 20170609044400
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20170608011500
+  name: 维生素B族
+  amount: 1
+  unit: 片
+
+comment: |+
+  ...
+ 
