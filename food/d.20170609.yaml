@@ -1,0 +1,91 @@
+date: 20170609
+food:
+- time: 20170609145000
+  name: 杂粮粥+黑芝麻+麦片+麦胚芽
+  amount: 120
+  unit: g
+- time: 20170609145000
+  name: 纳豆+醋姜+黑芝麻
+  amount: 120
+  unit: g
+- time: 20170609152000
+  name: 酸奶
+  amount: 250
+  unit: g
+- time: 20170609152000
+  name: 蓝莓
+  amount: 50
+  unit: g
+- time: 20170609190000
+  name: 猪肉
+  amount: 120
+  unit: g
+- time: 20170609194000
+  name: 菜心
+  amount: 250
+  unit: g
+- time: 20170609194000
+  name: 芦笋
+  amount: 250
+  unit: g
+- time: 20170609204000
+  name: 百香果
+  amount: 100
+  unit: g
+- time: 20170609204000
+  name: 荔枝
+  amount: 250
+  unit: g
+- time: 20170609204000
+  name: 枇杷
+  amount: 250
+  unit: g
+- time: 20170609232000
+  name: 小白菜
+  amount: 200
+  unit: g
+- time: 20170609232000
+  name: 豆干
+  amount: 100
+  unit: g
+- time: 20170609232000
+  name: 猪肉
+  amount: 120
+  unit: g
+- time: 20170609232000
+  name: 蘑菇
+  amount: 200
+  unit: g
+- time: 20170610022000
+  name: 黄瓜
+  amount: 300
+  unit: g
+water:
+- time: 20170609143500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170609180000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170609223500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170610025000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20170609180000
+  name: 维生素B族
+  amount: 1
+  unit: 片
+- time: 20170609180000
+  name: 维生素D3 400U
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
