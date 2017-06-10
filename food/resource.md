@@ -14,7 +14,7 @@
 1. 豆制品
 2. 奶制品：
 	* 海乳
-	* 奶酪：https://altlml.taobao.com
+	* 奶酪：<s>https://altlml.taobao.com</s>
 	* 酸奶菌种:http://youduoyi.tmall.com
 3. 黑芝麻:https://baiyouli.taobao.com
 
