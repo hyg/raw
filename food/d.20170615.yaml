@@ -44,11 +44,11 @@ food:
   name: 百香果
   amount: 200
   unit: g
-- time: 2017061603200
+- time: 20170616032000
   name: 酸奶
   amount: 250
   unit: g
-- time: 2017061603200
+- time: 20170616032000
   name: 蓝莓
   amount: 50
   unit: g
