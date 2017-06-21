@@ -1,0 +1,79 @@
+date: 20170621
+food:
+- time: 20170621120500
+  name: 板栗仁
+  amount: 100
+  unit: g
+- time: 20170621140000
+  name: 饼干
+  amount: 100
+  unit: g
+- time: 20170621175500
+  name: 杂粮粥+黑芝麻+麦胚芽
+  amount: 110
+  unit: g
+- time: 20170621215000
+  name: 豆腐
+  amount: 400
+  unit: g
+- time: 20170621215000
+  name: 猪肉
+  amount: 150
+  unit: g
+- time: 20170621215000
+  name: 蘑菇
+  amount: 100
+  unit: g
+- time: 20170621215000
+  name: 西红柿
+  amount: 150
+  unit: g
+water:
+- time: 20170621115000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170621121500
+  name: 开水
+  amount: 150
+  unit: ml
+- time: 20170621140000
+  name: 咖啡
+  amount: 300
+  unit: ml
+- time: 20170621144000
+  name: 矿泉水
+  amount: 350
+  unit: ml
+- time: 20170621154000
+  name: 矿泉水
+  amount: 350
+  unit: ml
+- time: 20170621174000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170621201400
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170621204000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 201706212235500
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 201706212235500
+  name: 维生素B族
+  amount: 1
+  unit: 片
+- time: 201706212235500
+  name: 维生素D3 400U
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
