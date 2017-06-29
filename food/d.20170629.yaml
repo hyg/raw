@@ -1,0 +1,71 @@
+date: 20170629
+food:
+- time: 20170629151000
+  name: 麦胚芽+麦片
+  amount: 120
+  unit: g
+- time: 20170629151000
+  name: 葡萄干
+  amount: 50
+  unit: g
+- time: 20170629151000
+  name: 坚果
+  amount: 75
+  unit: g
+- time: 20170629190000
+  name: 豆皮
+  amount: 120
+  unit: g
+- time: 20170629190000
+  name: 肉燕
+  amount: 200
+  unit: g
+- time: 20170629233000
+  name: 板栗仁
+  amount: 100
+  unit: g
+- time: 20170629233000
+  name: 果丹皮
+  amount: 120
+  unit: g
+- time: 20170630014500
+  name: 面条
+  amount: 75
+  unit: g
+water:
+- time: 20170629144000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170629170000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20170629202000
+  name: 汤水
+  amount: 250
+  unit: ml
+- time: 20170629234500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170630033000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20170630033000
+  name: 维生素B族
+  amount: 1
+  unit: 片
+- time: 20170630033000
+  name: 硒
+  amount: 100
+  unit: mcg
+- time: 20170630033000
+  name: 维生素D3
+  amount: 400
+  unit: U
+comment: |+
+  ...
+ 
