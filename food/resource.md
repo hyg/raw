@@ -77,9 +77,7 @@
 	* https://shop116047606.taobao.com
 	* https://gyy8888.taobao.com
 * 橙：
-	* https://hn-feel.taobao.com
-	* <s>https://zhihuicheng.taobao.com </s> 
-	* https://shop124649320.taobao.com
+	* <s>https://hn-feel.taobao.com</s>
 * 不知火：https://pjsg.taobao.com
 * 甜瓜、羊角脆：
 	* https://shop117345879.taobao.com
