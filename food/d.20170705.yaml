@@ -69,15 +69,6 @@ water:
   name: 开水
   amount: 250
   unit: ml
-med:
-- time: 20170705122900
-  name: 维生素B族
-  amount: 1
-  unit: 片
-- time: 20170705122900
-  name: 硒
-  amount: 100
-  unit: mcg
 comment: |+
   ...
  
