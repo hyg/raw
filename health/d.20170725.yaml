@@ -2,6 +2,7 @@ date: 20170725
 sleep: 
   time: 20170725051400
   weight: 60.3
+wake:
   time: 20170725114000
   weight: 59.7
 exercise: 
