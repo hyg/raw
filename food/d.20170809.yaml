@@ -1,0 +1,67 @@
+date: 20170809
+food:
+- time: 20170809104000
+  name: 胡萝卜
+  amount: 150
+  unit: g
+- time: 20170809104000
+  name: 西红柿
+  amount: 250
+  unit: g
+- time: 20170809104000
+  name: 猪心
+  amount: 150
+  unit: g
+- time: 20170809160000
+  name: 汉堡
+  amount: 400
+  unit: g
+- time: 20170809160000
+  name: 薯条
+  amount: 100
+  unit: g
+- time: 20170810001000
+  name: 李子
+  amount: 200
+  unit: g
+- time: 20170810013000
+  name: 板栗仁
+  amount: 100
+  unit: g
+water:
+- time: 20170809103500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170809105900
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170809154000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170809161000
+  name: 朱古力
+  amount: 350
+  unit: ml
+- time: 20170809185400
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170809201400
+  name: 开水
+  amount: 150
+  unit: ml
+- time: 20170809214000
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20170810013000
+  name: 开水
+  amount: 250
+  unit: ml
+
+comment: |+
+  ...
+ 
