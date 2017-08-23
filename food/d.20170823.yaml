@@ -1,0 +1,79 @@
+date: 20170823
+food:
+- time: 20170823145000
+  name: 大米
+  amount: 100
+  unit: g
+- time: 20170823180000
+  name: 玉米
+  amount: 234
+  unit: g
+- time: 20170823191000
+  name: 红肠
+  amount: 125
+  unit: g
+- time: 20170823210000
+  name: 板栗仁
+  amount: 100
+  unit: g
+- time: 20170823235000
+  name: 牛肉
+  amount: 150
+  unit: g
+- time: 20170823235000
+  name: 面片
+  amount: 100
+  unit: g
+- time: 20170824051000
+  name: 酸奶
+  amount: 250
+  unit: g
+- time: 20170824051000
+  name: 蓝靛果
+  amount: 70
+  unit: g
+water:
+- time: 20170823142000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170823163000
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20170823172000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170823181000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170823192000
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20170823213000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170824002000
+  name: 汤水
+  amount: 400
+  unit: ml
+- time: 20170824042000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20170823181000
+  name: 硒
+  amount: 100
+  unit: mcg
+- time: 20170823181000
+  name: 维生素D3
+  amount: 400
+  unit: U
+comment: |+
+  ...
+ 
