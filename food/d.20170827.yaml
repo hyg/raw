@@ -1,0 +1,95 @@
+date: 20170827
+food:
+- time: 20170827160500
+  name: 李子
+  amount: 120
+  unit: g
+- time: 20170827163000
+  name: 麦片+麦胚芽
+  amount: 120
+  unit: g
+- time: 20170827193000
+  name: 葡萄
+  amount: 100
+  unit: g
+- time: 20170827200000
+  name: 板栗仁
+  amount: 100
+  unit: g
+- time: 20170828002000
+  name: 牛肉
+  amount: 150
+  unit: g
+- time: 20170828002000
+  name: 面片
+  amount: 100
+  unit: g
+- time: 20170828002000
+  name: 胡萝卜
+  amount: 100
+  unit: g
+- time: 20170828002000
+  name: 西红柿
+  amount: 200
+  unit: g
+- time: 20170828042000
+  name: 百香果
+  amount: 120
+  unit: g
+- time: 20170828043000
+  name: 酸奶
+  amount: 200
+  unit: g
+- time: 20170828043000
+  name: 蓝靛果
+  amount: 50
+  unit: g
+- time: 20170828060000
+  name: 板栗仁
+  amount: 100
+  unit: g
+water:
+- time: 20170827160000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170827172000
+  name: 碧螺春
+  amount: 150
+  unit: ml
+- time: 20170827201000
+  name: 碧螺春
+  amount: 200
+  unit: ml
+- time: 20170828002000
+  name: 汤水
+  amount: 400
+  unit: ml
+- time: 20170828030000
+  name: 碧螺春
+  amount: 200
+  unit: ml
+- time: 20170828060000
+  name: 碧螺春
+  amount: 200
+  unit: ml
+- time: 20170828080000
+  name: 开水
+  amount: 200
+  unit: ml
+med:
+- time: 20170828080000
+  name: 硒
+  amount: 100
+  unit: mcg
+- time: 20170828080000
+  name: 维生素D3
+  amount: 400
+  unit: U
+- time: 20170828080000
+  name: Daily Multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
