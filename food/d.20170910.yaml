@@ -1,0 +1,92 @@
+date: 20170910
+food:
+- time: 20170910163000
+  name: 面包
+  amount: 120
+  unit: g
+- time: 20170910205000
+  name: 酸奶
+  amount: 250
+  unit: g
+- time: 20170910205000
+  name: 蓝莓汁
+  amount: 50
+  unit: g
+- time: 20170910214000
+  name: 红薯
+  amount: 500
+  unit: g
+- time: 20170910230000
+  name: 番石榴
+  amount: 350
+  unit: g
+- time: 20170911011000
+  name: 芦笋
+  amount: 300
+  unit: g
+- time: 20170911011000
+  name: 红肠
+  amount: 120
+  unit: g
+- time: 20170911011000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+- time: 20170911011000
+  name: 面粉
+  amount: 30
+  unit: g
+
+water:
+- time: 20170910161000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170910163000
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20170910181300
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170910193000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170910202000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170910233000
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20170911010000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170911015000
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20170910023000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170910035000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20170910181300
+  name: 硒
+  amount: 100
+  unit: mcg
+- time: 20170910181300
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
