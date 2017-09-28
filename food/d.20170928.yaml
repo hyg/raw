@@ -1,0 +1,47 @@
+date: 20170928
+food:
+- time: 20170928205000
+  name: 面包
+  amount: 150
+  unit: g
+- time: 20170929023000
+  name: 番石榴
+  amount: 350
+  unit: g
+- time: 20170929040000
+  name: 板栗仁
+  amount: 100
+  unit: g
+water:
+- time: 20170928202500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170928205000
+  name: 牛奶
+  amount: 200
+  unit: ml
+- time: 20170928213000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170928230000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20170929042500
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20170928230000
+  name: 硒
+  amount: 100
+  unit: mcg
+- time: 20170928230000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
