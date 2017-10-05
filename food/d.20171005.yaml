@@ -1,0 +1,104 @@
+date: 20171005
+food:
+- time: 20171005034000
+  name: 红薯
+  amount: 600
+  unit: g
+- time: 20171005081000
+  name: 胡萝卜
+  amount: 150
+  unit: g
+- time: 20171005081000
+  name: 西红柿
+  amount: 350
+  unit: g
+- time: 20171005081000
+  name: 猪肉
+  amount: 250
+  unit: g
+- time: 20171005113000
+  name: 红薯
+  amount: 300
+  unit: g
+- time: 20171005154000
+  name: 番石榴
+  amount: 300
+  unit: g
+- time: 20171005161000
+  name: 面条
+  amount: 150
+  unit: g
+- time: 20171005161000
+  name: 扁豆
+  amount: 50
+  unit: g
+- time: 20171005161000
+  name: 菠菜
+  amount: 100
+  unit: g
+- time: 20171005161000
+  name: 坚果
+  amount: 20
+  unit: g
+- time: 20171005161000
+  name: 腌黄瓜
+  amount: 50
+  unit: g
+- time: 20171005192500
+  name: 猕猴桃
+  amount: 200
+  unit: g
+- time: 20171005203000
+  name: 柚子
+  amount: 500
+  unit: g
+- time: 20171005155000
+  name: 酸奶
+  amount: 250
+  unit: g
+- time: 20171005155000
+  name: 蓝莓
+  amount: 50
+  unit: g
+
+water:
+- time: 20171005025000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171005042000
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20171005044000
+  name: 碧螺春
+  amount: 200
+  unit: ml
+- time: 20171005074000
+  name: 碧螺春
+  amount: 200
+  unit: ml
+- time: 20171005083000
+  name: 汤水
+  amount: 400
+  unit: ml
+- time: 20171005134000
+  name: 碧螺春
+  amount: 200
+  unit: ml
+- time: 20171005164000
+  name: 豆浆
+  amount: 350
+  unit: ml
+- time: 20171005192500
+  name: 碧螺春
+  amount: 200
+  unit: ml
+med:
+- time: 20171005090000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
