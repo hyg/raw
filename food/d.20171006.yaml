@@ -4,15 +4,15 @@ food:
   name: 猕猴桃
   amount: 200
   unit: g
-- time: 201710060081000
+- time: 20171006081000
   name: 麦片+麦胚芽
   amount: 120
   unit: g
-- time: 201710060081000
+- time: 20171006081000
   name: 咸鸭蛋
   amount: 60
   unit: g
-- time: 201710060081000
+- time: 20171006081000
   name: 海鸭蛋
   amount: 60
   unit: g
