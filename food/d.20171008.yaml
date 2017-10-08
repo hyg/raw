@@ -1,0 +1,71 @@
+date: 20171008
+food:
+- time: 20171008090700
+  name: 猕猴桃
+  amount: 200
+  unit: g
+- time: 20171008094500
+  name: 红薯
+  amount: 750
+  unit: g
+- time: 20171008115500
+  name: 汉堡
+  amount: 350
+  unit: g
+- time: 20171008115500
+  name: 薯条
+  amount: 100
+  unit: g
+- time: 20171008200000
+  name: 板栗仁
+  amount: 100
+  unit: g
+- time: 20171008223000
+  name: 麦片+麦胚芽
+  amount: 120
+  unit: g
+- time: 20171008223000
+  name: 咸鸭蛋
+  amount: 60
+  unit: g
+- time: 20171008223000
+  name: 海鸭蛋
+  amount: 60
+  unit: g
+water:
+- time: 20171008090500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171008101000
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20171008123000
+  name: 奶油橙汁
+  amount: 350
+  unit: ml
+- time: 20171008154500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171008170000
+  name: 碧螺春
+  amount: 200
+  unit: ml
+- time: 20171008190000
+  name: 碧螺春
+  amount: 200
+  unit: ml
+- time: 20171008213000
+  name: 碧螺春
+  amount: 200
+  unit: ml
+med:
+- time: 20171008154500
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
