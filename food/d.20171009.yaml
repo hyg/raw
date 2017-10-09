@@ -1,0 +1,67 @@
+date: 20171009
+food:
+- time: 20171009080500
+  name: 猕猴桃
+  amount: 200
+  unit: g
+- time: 20171009081500
+  name: 板栗仁
+  amount: 100
+  unit: g
+- time: 20171009102500
+  name: 鱼肉
+  amount: 100
+  unit: g
+- time: 20171009102500
+  name: 米饭
+  amount: 75
+  unit: g
+- time: 20171009102500
+  name: 蔬菜
+  amount: 150
+  unit: g
+- time: 20171009153000
+  name: 红薯
+  amount: 600
+  unit: g
+- time: 20171009203000
+  name: 番石榴
+  amount: 250
+  unit: g
+- time: 20171009223000
+  name: 葡萄干
+  amount: 50
+  unit: g
+water:
+- time: 20171009080500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171009084200
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171009084200
+  name: 汤水
+  amount: 400
+  unit: ml
+- time: 20171009133500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171009160000
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20171009233500
+  name: 开水
+  amount: 200
+  unit: ml
+med:
+- time: 20171009154500
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
