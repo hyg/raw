@@ -1,0 +1,79 @@
+date: 20171011
+food:
+- time: 20171011071700
+  name: 猕猴桃
+  amount: 200
+  unit: g
+- time: 20171011080000
+  name: 杂粮粥
+  amount: 50
+  unit: g
+- time: 20171011080000
+  name: 土豆饼
+  amount: 100
+  unit: g
+- time: 20171011080000
+  name: 油条
+  amount: 50
+  unit: g
+- time: 20171011080000
+  name: 培根
+  amount: 50
+  unit: g
+- time: 20171011080000
+  name: 鸡蛋
+  amount: 50
+  unit: g
+- time: 20171011080000
+  name: 面饼
+  amount: 75
+  unit: g
+- time: 20171011140000
+  name: 麦片
+  amount: 75
+  unit: g
+- time: 20171011173000
+  name: 番石榴
+  amount: 300
+  unit: g
+- time: 20171011175000
+  name: 卤煮
+  amount: 200
+  unit: g
+- time: 20171011175000
+  name: 火烧
+  amount: 100
+  unit: g
+water:
+- time: 20171011071500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171011082500
+  name: 咖啡
+  amount: 300
+  unit: ml
+- time: 20171011105000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171011120000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171011140000
+  name: 牛奶
+  amount: 350
+  unit: ml
+- time: 20171011172000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20171011140000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
