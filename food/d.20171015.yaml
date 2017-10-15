@@ -1,0 +1,79 @@
+date: 20171015
+food:
+- time: 20171015072000
+  name: 猕猴桃
+  amount: 200
+  unit: g
+- time: 20171015084500
+  name: 汉堡
+  amount: 200
+  unit: g
+- time: 20171015084500
+  name: 土豆
+  amount: 120
+  unit: g
+- time: 20171015084500
+  name: 粥
+  amount: 250
+  unit: g
+- time: 20171015101500
+  name: 汉堡
+  amount: 300
+  unit: g
+- time: 20171015133500
+  name: 米粉
+  amount: 200
+  unit: g
+- time: 20171015133500
+  name: 鸡蛋
+  amount: 50
+  unit: g
+- time: 20171015133500
+  name: 臭豆腐
+  amount: 150
+  unit: g
+- time: 20171015133500
+  name: 黄豆
+  amount: 50
+  unit: g
+- time: 20171015200000
+  name: 红薯
+  amount: 750
+  unit: g
+water:
+- time: 20171015080000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171015085000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20171015100000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171015115000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171015153000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171015170000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171015220000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20171015170000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 

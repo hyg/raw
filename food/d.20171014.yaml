@@ -39,6 +39,8 @@ food:
 - time: 20171014185000
   name: 牛角包+培根+生菜
   amount: 200
+  unit: g
+- time: 20171014235000
   unit: 板栗仁
   amount: 100
   unit: g
