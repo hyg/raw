@@ -1,0 +1,91 @@
+date: 20171016
+food:
+- time: 20171016081000
+  name: 汉堡
+  amount: 200
+  unit: g
+- time: 20171016081000
+  name: 土豆
+  amount: 120
+  unit: g
+- time: 20171016081000
+  name: 粥
+  amount: 250
+  unit: g
+- time: 20171016112500
+  name: 米饭
+  amount: 100
+  unit: g
+- time: 20171016112500
+  name: 酸豆角
+  amount: 100
+  unit: g
+- time: 20171016112500
+  name: 蘑菇
+  amount: 50
+  unit: g
+- time: 20171016112500
+  name: 花生
+  amount: 70
+  unit: g
+- time: 20171016112500
+  name: 豆腐
+  amount: 150
+  unit: g
+- time: 20171016192000
+  name: 酥包
+  amount: 180
+  unit: g
+- time: 20171016223000
+  name: 南瓜
+  amount: 200
+  unit: g
+- time: 20171017020000
+  name: 板栗仁
+  amount: 100
+  unit: g
+water:
+- time: 20171016073000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171016083000
+  name: 豆浆
+  amount: 350
+  unit: ml
+- time: 20171016092000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171016110500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171016133000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171016143000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171016170000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171016180000
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20171016202500
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20171016092000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
