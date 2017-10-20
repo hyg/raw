@@ -1,0 +1,79 @@
+date: 20171020
+food:
+- time: 20171020173000
+  name: 猪肉韭菜饺子
+  amount: 400
+  unit: g
+- time: 20171020173000
+  name: 腔骨
+  amount: 100
+  unit: g
+- time: 20171020173000
+  name: 豆腐
+  amount: 50
+  unit: g
+- time: 20171020133000
+  name: 煎饼
+  amount: 300
+  unit: g
+- time: 20171020144000
+  name: 水煎包
+  amount: 200
+  unit: g
+- time: 20171020184000
+  name: 小米粥
+  amount: 400
+  unit: g
+- time: 20171020184000
+  name: 红豆薏米粥
+  amount: 100
+  unit: g
+- time: 20171020184000
+  name: 麦菜
+  amount: 350
+  unit: g
+- time: 20171020184000
+  name: 猪肉
+  amount: 100
+  unit: g
+- time: 20171020234000
+  name: 红薯
+  amount: 700
+  unit: g
+water:
+- time: 20171020104500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171020113000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171020121000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171020125000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171020140000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171020150000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20171020235000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20171020125000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
