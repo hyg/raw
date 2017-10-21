@@ -1,0 +1,67 @@
+date: 20171021
+food:
+- time: 20171021110000
+  name: 水煎包
+  amount: 500
+  unit: g
+- time: 20171021133000
+  name: 柿子
+  amount: 200
+  unit: g
+- time: 20171021153000
+  name: 柿子
+  amount: 200
+  unit: g
+- time: 20171021175500
+  name: 番石榴
+  amount: 250
+  unit: g
+- time: 20171021191000
+  name: 水煎包
+  amount: 200
+  unit: g
+- time: 20171021192000
+  name: 麦片+麦胚芽
+  amount: 100
+  unit: g
+- time: 20171021224000
+  name: 菠菜
+  amount: 700
+  unit: g
+- time: 20171021224000
+  name: 猪肉
+  amount: 150
+  unit: g
+- time: 20171021224000
+  name: 胡萝卜
+  amount: 250
+  unit: g
+- time: 20171021224000
+  name: 西红柿
+  amount: 120
+  unit: g
+water:
+- time: 20171021102000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171021134500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171021134500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171021181000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171021233000
+  name: 开水
+  amount: 250
+  unit: ml
+
+comment: |+
+  ...
+ 
