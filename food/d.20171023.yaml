@@ -1,0 +1,35 @@
+date: 20171023
+food:
+- time: 20171023060000
+  name: 猪肉
+  amount: 200
+  unit: g
+- time: 20171023060000
+  name: 胡萝卜
+  amount: 100
+  unit: g 
+- time: 20171023060000
+  name: 西红柿
+  amount: 100
+  unit: g
+water:
+- time: 20171023053000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171023061000
+  name: 汤水
+  amount: 150
+  unit: ml
+- time: 20171023062000
+  name: 开水
+  amount: 100
+  unit: ml
+med:
+- time: 20171023062000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
