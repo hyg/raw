@@ -1,0 +1,75 @@
+date: 20171101
+food:
+- time: 20171101071000
+  name: 番石榴
+  amount: 250
+  unit: g 
+- time: 20171101091000
+  name: 米饭
+  amount: 75
+  unit: g 
+- time: 20171101091000
+  name: 鸡肉
+  amount: 100
+  unit: g 
+- time: 20171101091000
+  name: 西兰花
+  amount: 50
+  unit: g 
+- time: 20171101150000
+  name: 水煎包
+  amount: 300
+  unit: g 
+- time: 20171101213000
+  name: 大米
+  amount: 75
+  unit: g 
+- time: 20171101213000
+  name: 麻婆豆腐
+  amount: 200
+  unit: g 
+- time: 20171101213000
+  name: 回锅肉
+  amount: 150
+  unit: g 
+- time: 20171102010000
+  name: 柿子
+  amount: 200
+  unit: g 
+water:
+- time: 20171101071000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171101092000
+  name: 黑米豆浆
+  amount: 350
+  unit: ml
+- time: 20171101110000
+  name: 咖啡
+  amount: 300
+  unit: ml
+- time: 20171101120000
+  name: 花茶
+  amount: 300
+  unit: ml
+- time: 20171101154000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171101171000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171101234000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20171101154000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
