@@ -1,0 +1,55 @@
+date: 20171103
+food:
+- time: 20171103123000
+  name: 大米
+  amount: 100
+  unit: g 
+- time: 20171103123000
+  name: 鱿鱼
+  amount: 100
+  unit: g 
+- time: 20171103123000
+  name: 洋葱
+  amount: 120
+  unit: g 
+- time: 20171103193000
+  name: 杂粮裸麦面包
+  amount: 215
+  unit: g 
+water:
+- time: 20171103122000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171103125000
+  name: 柠檬茶
+  amount: 350
+  unit: ml
+- time: 20171103130500
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20171103150000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171103194500
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20171103210000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171103230000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20171103235000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
