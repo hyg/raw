@@ -1,0 +1,71 @@
+date: 20171107
+food:
+- time: 20171107105500
+  name: 桔子
+  amount: 100
+  unit: g 
+- time: 20171107120000
+  name: 面包
+  amount: 220
+  unit: g 
+- time: 20171107120000
+  name: 蔬菜沙拉
+  amount: 180
+  unit: g 
+- time: 20171107182000
+  name: 牛肉
+  amount: 300
+  unit: g 
+- time: 20171107182000
+  name: 胡萝卜
+  amount: 150
+  unit: g 
+- time: 20171107182000
+  name: 西红柿
+  amount: 300
+  unit: g 
+- time: 20171107201000
+  name: 柿子
+  amount: 200
+  unit: g 
+- time: 20171107213000
+  name: 柿子
+  amount: 200
+  unit: g 
+- time: 20171107233000
+  name: 红薯
+  amount: 750
+  unit: g 
+water:
+- time: 20171107104500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171107120500
+  name: 牛奶
+  amount: 250
+  unit: ml
+- time: 20171107133000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171107145000
+  name: 开水
+  amount: 250
+  unit: ml  
+- time: 20171107163000
+  name: 开水
+  amount: 250
+  unit: ml  
+- time: 20171107185000
+  name: 汤水
+  amount: 400
+  unit: ml  
+med:
+- time: 20171107133000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
