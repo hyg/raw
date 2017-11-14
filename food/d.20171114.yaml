@@ -1,0 +1,63 @@
+date: 20171114
+food:
+- time: 20171114121500
+  name: 橙
+  amount: 100
+  unit: g 
+- time: 20171114141000
+  name: 米饭
+  amount: 100
+  unit: g 
+- time: 20171114141000
+  name: 胡萝卜
+  amount: 50
+  unit: g 
+- time: 20171114141000
+  name: 鱼肉
+  amount: 100
+  unit: g 
+- time: 20171114202000
+  name: 大米
+  amount: 100
+  unit: g 
+- time: 20171114202000
+  name: 牛肉
+  amount: 150
+  unit: g 
+- time: 20171115033000
+  name: 南瓜
+  amount: 200
+  unit: g 
+- time: 20171115033000
+  name: 红肠
+  amount: 120
+  unit: g 
+water:
+- time: 20171114120500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171114123500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171114152000
+  name: 咖啡
+  amount: 350
+  unit: ml
+- time: 20171114170000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171114211000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20171114234000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
