@@ -1,0 +1,79 @@
+date: 20171117
+food:
+- time: 20171117142000
+  name: 生菜
+  amount: 300
+  unit: g 
+- time: 20171117142000
+  name: 西红柿
+  amount: 300
+  unit: g 
+- time: 20171117142000
+  name: 面包
+  amount: 120
+  unit: g 
+- time: 20171117181000
+  name: 披萨
+  amount: 100
+  unit: g 
+- time: 20171117184500
+  name: 双菇肠粉
+  amount: 218
+  unit: g 
+- time: 20171117213000
+  name: 鸡肉
+  amount: 300
+  unit: g 
+- time: 20171118030000
+  name: 香梨
+  amount: 100
+  unit: g 
+- time: 20171118030000
+  name: 面包
+  amount: 120
+  unit: g 
+water:
+- time: 20171117133000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171117143000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20171117181000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171117190000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171117220000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20171117230000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171117233000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171118040000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20171118070000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20171117181000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
