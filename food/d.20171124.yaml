@@ -1,0 +1,76 @@
+date: 20171124
+food:
+- time: 20171124152500
+  name: 猕猴桃
+  amount: 200
+  unit: g 
+- time: 20171124160000
+  name: 大米
+  amount: 80
+  unit: g 
+- time: 20171124160000
+  name: 海鸭蛋
+  amount: 60
+  unit: g 
+- time: 20171124160000
+  name: 咸鸭蛋
+  amount: 60
+  unit: g 
+- time: 20171124160000
+  name: 金枪鱼肉
+  amount: 75
+  unit: g 
+- time: 20171124192000
+  name: 面包
+  amount: 120
+  unit: g 
+- time: 20171124225000
+  name: 面包
+  amount: 120
+  unit: g 
+- time: 20171125054000
+  name: 面包
+  amount: 120
+  unit: g 
+water:
+- time: 20171124152500
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20171124164000
+  name: 碧螺春+西洋参
+  amount: 250
+  unit: ml
+- time: 20171124175000
+  name: 碧螺春+西洋参
+  amount: 250
+  unit: ml
+- time: 20171124193000
+  name: 碧螺春+西洋参
+  amount: 250
+  unit: ml
+- time: 20171124203000
+  name: 咖啡+花生粉
+  amount: 200
+  unit: ml
+- time: 20171124230000
+  name: 牛奶+花生粉
+  amount: 250
+  unit: ml
+- time: 20171125030000
+  name: 碧螺春+西洋参
+  amount: 250
+  unit: ml
+- time: 20171125054000
+  name: 开水
+  amount: 250
+  unit: ml
+
+med:
+- time: 20171124083000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
