@@ -1,0 +1,59 @@
+date: 20171203
+- time: 20171203223500
+  name: 番石榴
+  amount: 300
+  unit: g 
+- time: 20171203232000
+  name: 鸡肉
+  amount: 150
+  unit: g 
+- time: 20171204030000
+  name: 猪肉
+  amount: 200
+  unit: g 
+- time: 20171204050000
+  name: 柿子
+  amount: 300
+  unit: g 
+water:
+- time: 20171203205500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171203220000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171203235500
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20171204010000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20171204020000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20171204032000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20171204060000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20171204083000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+
+med:
+- time: 20171203002000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
