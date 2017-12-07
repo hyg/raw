@@ -1,0 +1,86 @@
+date: 20171206
+- time: 20171206175000
+  name: 猕猴桃
+  amount: 200
+  unit: g 
+- time: 20171206180000
+  name: 小米蕉
+  amount: 100
+  unit: g 
+- time: 20171206193500
+  name: 萝卜
+  amount: 500
+  unit: g 
+- time: 20171206195000
+  name: 猪肉
+  amount: 150
+  unit: g 
+- time: 20171206210000
+  name: 小米蕉
+  amount: 300
+  unit: g 
+- time: 20171206220000
+  name: 小米蕉
+  amount: 300
+  unit: g 
+- time: 20171206234000
+  name: 面饼
+  amount: 150
+  unit: g 
+- time: 20171206234000
+  name: 猪大肠
+  amount: 150
+  unit: g 
+- time: 20171206234000
+  name: 猪肚
+  amount: 100
+  unit: g 
+- time: 20171207030000
+  name: 猕猴桃
+  amount: 200
+  unit: g 
+- time: 20171207060000
+  name: 小米蕉
+  amount: 400
+  unit: g 
+- time: 20171207083000
+  name: 小米蕉
+  amount: 400
+  unit: g 
+water:
+- time: 20171206174500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171206195500
+  name: 汤水
+  amount: 500
+  unit: ml
+- time: 20171206201000
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20171206210000
+  name: 绿茶+西洋参
+  amount: 250
+  unit: ml
+- time: 20171207015000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20171207031000
+  name: 绿茶+西洋参
+  amount: 250
+  unit: ml
+- time: 20171207091000
+  name: 绿茶+西洋参
+  amount: 250
+  unit: ml
+med:
+- time: 20171207091000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
