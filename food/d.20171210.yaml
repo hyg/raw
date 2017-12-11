@@ -1,0 +1,70 @@
+date: 20171210
+- time: 20171210223000
+  name: 猕猴桃
+  amount: 400
+  unit: g 
+- time: 20171210230000
+  name: 面片
+  amount: 120
+  unit: g 
+- time: 20171210230000
+  name: 猪肉
+  amount: 120
+  unit: g 
+- time: 20171211053000
+  name: 海鲈鱼
+  amount: 400
+  unit: g 
+- time: 20171211070000
+  name: 猕猴桃
+  amount: 200
+  unit: g 
+- time: 20171211130000
+  name: 面包
+  amount: 200
+  unit: g 
+water:
+- time: 20171210221500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171210233000
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20171211004500
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20171211015500
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20171211030000
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20171211043000
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20171211051000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20171211075000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20171211132000
+  name: 咖啡
+  amount: 150
+  unit: ml
+med:
+- time: 20171210191000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
