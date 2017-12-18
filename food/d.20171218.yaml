@@ -1,0 +1,86 @@
+date: 20171218
+- time: 201712180035000
+  name: 猕猴桃
+  amount: 200
+  unit: g 
+- time: 20171218005000
+  name: 披萨
+  amount: 315
+  unit: g 
+- time: 20171218005500
+  name: 蓝莓
+  amount: 50
+  unit: g 
+- time: 20171218050000
+  name: 面包
+  amount: 120
+  unit: g 
+- time: 20171218051000
+  name: 大米
+  amount: 75
+  unit: g 
+- time: 20171218051000
+  name: 猪肉
+  amount: 50
+  unit: g 
+- time: 20171218100000
+  name: 柚子
+  amount: 450
+  unit: g 
+- time: 20171218110000
+  name: 面条
+  amount: 75
+  unit: g 
+- time: 20171218110000
+  name: 猪肉
+  amount: 200
+  unit: g 
+- time: 20171218174000
+  name: 柚子
+  amount: 450
+  unit: g 
+water:
+- time: 20171218001500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171218005500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20171218013000
+  name: 开水+菊花+西洋参
+  amount: 250
+  unit: ml
+- time: 20171218030000
+  name: 开水+菊花+西洋参
+  amount: 250
+  unit: ml
+- time: 20171218060000
+  name: 开水+菊花+西洋参
+  amount: 250
+  unit: ml
+- time: 20171218074000
+  name: 开水+菊花+西洋参
+  amount: 250
+  unit: ml
+- time: 20171218090000
+  name: 开水+菊花+西洋参
+  amount: 250
+  unit: ml
+- time: 20171218113000
+  name: 开水+菊花+西洋参
+  amount: 250
+  unit: ml
+- time: 20171218175000
+  name: 开水+菊花+西洋参
+  amount: 250
+  unit: ml
+med:
+- time: 20171218060000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
