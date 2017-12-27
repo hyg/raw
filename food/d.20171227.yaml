@@ -1,0 +1,70 @@
+date: 20171227
+- time: 20171227082000
+  name: 小米蕉
+  amount: 200
+  unit: g 
+- time: 20171227082500
+  name: 橙
+  amount: 200
+  unit: g 
+- time: 20171227085000
+  name: 披萨
+  amount: 215
+  unit: g 
+- time: 20171227135000
+  name: 饺子
+  amount: 300
+  unit: g 
+- time: 20171227190000
+  name: 年糕
+  amount: 200
+  unit: g 
+water:
+- time: 20171227080000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171227100000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171227114000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171227125000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171227132000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171227153000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171227180000
+  name: 开水+西洋参
+  amount: 250
+  unit: ml
+- time: 20171227190000
+  name: 开水+西洋参
+  amount: 250
+  unit: ml
+- time: 20171227203000
+  name: 开水+西洋参
+  amount: 250
+  unit: ml
+- time: 20171227213000
+  name: 开水+西洋参
+  amount: 250
+  unit: ml
+med:
+- time: 20171227090000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
