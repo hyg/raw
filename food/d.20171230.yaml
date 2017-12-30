@@ -1,0 +1,58 @@
+date: 20171230
+- time: 20171230090000
+  name: 蛋黄果
+  amount: 100
+  unit: g 
+- time: 20171230095500
+  name: 面条
+  amount: 70
+  unit: g 
+- time: 20171230095500
+  name: 牛肉
+  amount: 125
+  unit: g 
+- time: 20171230125000
+  name: 汉堡包
+  amount: 300
+  unit: g 
+- time: 20171230193000
+  name: 蛋黄果
+  amount: 100
+  unit: g 
+- time: 20171230203000
+  name: 面条
+  amount: 70
+  unit: g 
+- time: 20171230203000
+  name: 牛肉
+  amount: 125
+  unit: g 
+water:
+- time: 20171230085500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171230110000
+  name: 咖啡
+  amount: 550
+  unit: ml
+- time: 20171230113500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171230140000
+  name: 矿泉水
+  amount: 350
+  unit: ml
+- time: 20171230213000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20171230090000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
