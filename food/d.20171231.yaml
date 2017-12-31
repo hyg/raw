@@ -1,0 +1,46 @@
+date: 20171231
+- time: 20171231114000
+  name: 蛋黄果
+  amount: 100
+  unit: g 
+- time: 20171231114500
+  name: 猕猴桃
+  amount: 150
+  unit: g 
+- time: 20171231123000
+  name: 披萨
+  amount: 220
+  unit: g 
+- time: 20171231223000
+  name: 披萨
+  amount: 220
+  unit: g 
+water:
+- time: 20171231113500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171231125000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171231131000
+  name: 咖啡
+  amount: 550
+  unit: ml
+- time: 20171231155000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20171231180000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20171231125000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 

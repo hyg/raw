@@ -1,0 +1,15 @@
+date: 20171231
+sleep: 
+  time: 20171231043400
+  weight: 61.8
+wake:4
+  time: 20171231113000
+  weight: 61.3
+
+stool: 
+- time: 20180101020000
+  amount: 2 # 				1:多;		2:适中;		3:少;
+  type: 1		# 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 1	# 				1:不困难;	2:困难
+comment: |+
+  ...
