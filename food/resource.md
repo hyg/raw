@@ -22,6 +22,7 @@
 1. 猪肉
 	* https://laojuantou.taobao.com
 	* http://xiaotuanshan.taobao.com
+	* https://hengfengyuan.tmall.com/category-1344850758.htm
 2. 牛肉：
 	* https://hystnc.taobao.com
 	* https://shop103590607.taobao.com
@@ -44,7 +45,6 @@
 	* https://hfxinghongfa.tmall.com
 
 #### 蔬菜
-* https://xnlshipin.tmall.com/
 * https://mnrj365.taobao.com
 * https://shop117345879.taobao.com
 
@@ -81,9 +81,10 @@
 * 不知火：https://pjsg.taobao.com
 * 甜瓜、羊角脆：
 	* https://shop117345879.taobao.com
-* 桃：https://shop127939892.taobao.com
-* 葡萄：https://shop118074275.taobao.com
-* 猕猴桃：https://shop63311758.taobao.com
+* 猕猴桃：
+	* https://shop468098920.taobao.com
+	* https://shop63311758.taobao.com
+* 蕉：https://shop116192768.taobao.com
 
 #### 其它
 * 酱油（禾然）
@@ -133,8 +134,8 @@
 |11.2|白心红薯|石榴、冰糖橙、拐枣、国光苹果、柿子、香梨|
 |11.3|白心红薯|石榴、冰糖橙、拐枣、国光苹果、柿子、香梨|
 |12.1|白心红薯|冰糖橙、拐枣、国光苹果、胡柚|
-|12.2|白心红薯|冰糖橙、国光苹果、胡柚|
-|12.3|白心红薯|冰糖橙、国光苹果、胡柚|
+|12.2|白心红薯|冰糖橙、国光苹果、胡柚、蛋黄果|
+|12.3|白心红薯|冰糖橙、国光苹果、胡柚、蛋黄果|
 
 ### 忌口 
 * 食腐动物

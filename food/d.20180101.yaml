@@ -1,0 +1,91 @@
+date: 20180101
+- time: 20180101072000
+  name: 蛋黄果
+  amount: 100
+  unit: g 
+- time: 20180101072000
+  name: 橙
+  amount: 200
+  unit: g 
+- time: 20180101073000
+  name: 杂粮粥+桑葚+麦胚芽+麦片
+  amount: 120
+  unit: g 
+- time: 20180101120500
+  name: 大米
+  amount: 100
+  unit: g 
+- time: 20180101120500
+  name: 猪肚
+  amount: 60
+  unit: g 
+- time: 20180101120500
+  name: 猪大肠
+  amount: 60
+  unit: g 
+- time: 20180101120500
+  name: 菠菜
+  amount: 250
+  unit: g 
+- time: 20180101183000
+  name: 蛋黄果
+  amount: 100
+  unit: g 
+- time: 20180101193000
+  name: 西红柿
+  amount: 250
+  unit: g 
+- time: 20180101193000
+  name: 胡萝卜
+  amount: 150
+  unit: g 
+- time: 20180101193000
+  name: 天津冬菜
+  amount: 50
+  unit: g 
+
+water:
+- time: 20180101071500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180101083000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20180101100000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20180101105900
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20180101135500
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20180101142500
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20180101162500
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20180101173000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20180101200000
+  name: 汤水
+  amount: 500
+  unit: ml
+med:
+- time: 20180101100000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
