@@ -1,0 +1,86 @@
+date: 20180104
+- time: 20180104070500
+  name: 蛋黄果
+  amount: 100
+  unit: g 
+- time: 20180104104000
+  name: 牛肉
+  amount: 100
+  unit: g 
+- time: 20180104104000
+  name: 鸡肉
+  amount: 100
+  unit: g 
+- time: 20180104104000
+  name: 蔬菜
+  amount: 150
+  unit: g 
+- time: 20180104104000
+  name: 大米
+  amount: 75
+  unit: g 
+- time: 20180104152000
+  name: 柿饼
+  amount: 200
+  unit: g 
+- time: 20180104184000
+  name: 猪肉
+  amount: 120
+  unit: g 
+- time: 20180104184000
+  name: 海带
+  amount: 100
+  unit: g 
+- time: 20180104184000
+  name: 黄豆
+  amount: 60
+  unit: g 
+- time: 20180104222000
+  name: 柿饼
+  amount: 200
+  unit: g 
+water:
+- time: 20180104070500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180104071000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180104105000
+  name: 果汁
+  amount: 400
+  unit: ml
+- time: 20180104143000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20180104163000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20180104174300
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20180104190000
+  name: 汤水
+  amount: 400
+  unit: ml
+- time: 20180104194000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20180104205000
+  name: 绿茶
+  amount: 250
+  unit: ml
+med:
+- time: 20180104080700
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
