@@ -4,7 +4,7 @@ sleep:
   weight: 60.5
 wake:
   time: 20180122112500
-  weight: 58.8
+  weight: 59.8
 exercise: 
 - time: 20180122155500
   item: 
@@ -29,7 +29,7 @@ exercise:
   endheartrate: 107
 stool: 
 - time: 20180123010000
-  amount: 2 # 				1:多;		2:适中;		3:少;
+  amount: 3 # 				1:多;		2:适中;		3:少;
   type: 2		# 	0:水样;		1:软;		2:适中;		3:硬;
   diffcult: 2	# 				1:不困难;	2:困难
 comment: |+
