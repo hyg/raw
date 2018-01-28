@@ -1,0 +1,50 @@
+date: 20180128
+- time: 20180128131000
+  name: 橙
+  amount: 200
+  unit: g 
+- time: 20180128132500
+  name: 面条
+  amount: 65
+  unit: g 
+- time: 20180128132500
+  name: 牛肉
+  amount: 150
+  unit: g 
+- time: 20180128182000
+  name: 披萨
+  amount: 230
+  unit: g 
+water:
+- time: 20180128125500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180128135000
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20180128151500
+  name: 开水+菊花+西洋参
+  amount: 250
+  unit: ml
+- time: 20180128185600
+  name: 开水+菊花+西洋参
+  amount: 250
+  unit: ml
+- time: 20180128193000
+  name: 开水+菊花+西洋参
+  amount: 250
+  unit: ml
+- time: 20180128220000
+  name: 开水+菊花+西洋参
+  amount: 250
+  unit: ml
+med:
+- time: 20180128151500
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
