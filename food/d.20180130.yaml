@@ -1,0 +1,46 @@
+date: 20180130
+- time: 20180130141500
+  name: 小米蕉
+  amount: 300
+  unit: g 
+- time: 20180130143000
+  name: 杂粮粥+桑葚+麦胚芽+麦片+黑芝麻
+  amount: 120
+  unit: g 
+- time: 20180130192000
+  name: 披萨
+  amount: 230
+  unit: g 
+- time: 20180130213000
+  name: 不知火
+  amount: 150
+  unit: g 
+- time: 20180130230000
+  name: 小米蕉
+  amount: 250
+  unit: g 
+water:
+- time: 20180130140500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180130152500
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180130163000
+  name: 开水+菊花+西洋参
+  amount: 250
+  unit: ml
+- time: 20180130195000
+  name: 开水+菊花+西洋参
+  amount: 250
+  unit: ml
+med:
+- time: 20180130122500
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
