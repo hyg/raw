@@ -19,6 +19,14 @@ date: 20180130
   name: 小米蕉
   amount: 250
   unit: g 
+- time: 20180131020000
+  name: 蔬菜沙拉
+  amount: 500
+  unit: g 
+- time: 20180131020000
+  name: 猪肉
+  amount: 120
+  unit: g 
 water:
 - time: 20180130140500
   name: 开水
@@ -33,6 +41,22 @@ water:
   amount: 250
   unit: ml
 - time: 20180130195000
+  name: 开水+菊花+西洋参
+  amount: 250
+  unit: ml
+- time: 20180130223000
+  name: 开水+菊花+西洋参
+  amount: 250
+  unit: ml
+- time: 20180131045000
+  name: 开水+菊花+西洋参
+  amount: 250
+  unit: ml
+- time: 20180131053000
+  name: 开水+菊花+西洋参
+  amount: 250
+  unit: ml
+- time: 20180131054000
   name: 开水+菊花+西洋参
   amount: 250
   unit: ml
