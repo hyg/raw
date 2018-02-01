@@ -1,0 +1,54 @@
+date: 20180201
+- time: 20180201111500
+  name: 小米蕉
+  amount: 750
+  unit: g 
+- time: 20180201115300
+  name: 大米
+  amount: 100
+  unit: g 
+- time: 20180201134500
+  name: 鱼肉
+  amount: 300
+  unit: g 
+- time: 20180201200500
+  name: 披萨
+  amount: 230
+  unit: g 
+water:
+- time: 20180201111100
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180201153000
+  name: 咖啡
+  amount: 400
+  unit: ml
+- time: 20180201162500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180201183000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180201205000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180201215000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180201235000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20180201122500
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
