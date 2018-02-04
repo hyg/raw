@@ -1,0 +1,73 @@
+date: 20180204
+- time: 20180204123000
+  name: 面条
+  amount: 65
+  unit: g 
+- time: 20180204123000
+  name: 猪肉
+  amount: 120
+  unit: g 
+- time: 20180204123000
+  name: 猪大肠
+  amount: 50
+  unit: g 
+- time: 20180204123000
+  name: 白菜
+  amount: 250
+  unit: g 
+- time: 20180204123000
+  name: 天津冬菜
+  amount: 20
+  unit: g 
+- time: 20180204154500
+  name: 红薯
+  amount: 400
+  unit: g 
+- time: 20180204191000
+  name: 披萨
+  amount: 230
+  unit: g 
+- time: 20180205010000
+  name: 豆干
+  amount: 200
+  unit: g 
+- time: 20180205010000
+  name: 猪大肠
+  amount: 100
+  unit: g 
+water:
+- time: 20180204122500
+  name: 开水
+  amount: 250
+- time: 20180204151000
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20180204155000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180204193000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180204202500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180204223000
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20180205020000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20180204122500
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
