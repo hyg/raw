@@ -1,0 +1,66 @@
+date: 20180205
+- time: 20180205135000
+  name: 香蕉
+  amount: 150
+  unit: g 
+- time: 20180205142000
+  name: 披萨
+  amount: 230
+  unit: g 
+- time: 20180205192000
+  name: 大米+小米
+  amount: 100
+  unit: g 
+- time: 20180205223500
+  name: 豆腐
+  amount: 250
+  unit: g 
+- time: 20180205223500
+  name: 白菜
+  amount: 200
+  unit: g 
+- time: 20180205223500
+  name: 猪大肠
+  amount: 100
+  unit: g 
+- time: 20180206030000
+  name: 香蕉
+  amount: 150
+  unit: g 
+- time: 20180206050000
+  name: 巧克力
+  amount: 100
+  unit: g 
+water:
+- time: 20180205125000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180205151000
+  name: 咖啡
+  amount: 225
+  unit: ml
+- time: 20180205160000
+  name: 咖啡
+  amount: 175
+  unit: ml
+- time: 20180205175000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180205203000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180206033000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20180205122500
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
