@@ -1,0 +1,50 @@
+date: 20180209
+- time: 20180209084500
+  name: 汉堡
+  amount: 150
+  unit: g 
+- time: 20180209122500
+  name: 汉堡
+  amount: 250
+  unit: g 
+- time: 20180209122500
+  name: 薯条
+  amount: 150
+  unit: g 
+- time: 20180209191200
+  name: 披萨
+  amount: 230
+  unit: g 
+- time: 20180209203000
+  name: 小米+粥米
+  amount: 75
+  unit: g 
+water:
+- time: 20180209071000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180209085500
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180209124500
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180209140000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180209161000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20180209122500
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
