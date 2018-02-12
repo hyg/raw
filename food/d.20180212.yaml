@@ -1,0 +1,66 @@
+date: 20180212
+- time: 20180212143500
+  name: 香蕉
+  amount: 150
+  unit: g 
+- time: 20180212150000
+  name: 豆腐
+  amount: 250
+  unit: g 
+- time: 20180212150000
+  name: 萝卜
+  amount: 200
+  unit: g 
+- time: 20180212150000
+  name: 胡萝卜
+  amount: 200
+  unit: g 
+- time: 20180212150000
+  name: 猪大肠
+  amount: 75
+  unit: g 
+- time: 20180212150000
+  name: 猪肚
+  amount: 100
+  unit: g 
+- time: 20180212190000
+  name: 面包
+  amount: 120
+  unit: g 
+- time: 20180213001000
+  name: 饺子
+  amount: 180
+  unit: g 
+- time: 20180213001000
+  name: 不知火
+  amount: 200
+  unit: g 
+water:
+- time: 20180212142500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180212153000
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20180212173000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180212233000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180213030000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20180212122500
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
