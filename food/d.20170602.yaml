@@ -69,7 +69,6 @@ water:
   name: 咖啡
   amount: 500
   unit: ml
-  unit: ml
 - time: 20170603022300
   name: 开水
   amount: 250

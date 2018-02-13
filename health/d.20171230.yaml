@@ -2,7 +2,7 @@ date: 20171230
 sleep: 
   time: 20171229235100
   weight: 63.1
-wake:4
+wake:
   time: 20171230085000
   weight: 62.2
 

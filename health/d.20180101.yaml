@@ -2,7 +2,7 @@ date: 20180101
 sleep: 
   time: 20180101024600
   weight: 61.9
-wake:4
+wake: 
   time: 20180101071000
   weight: 61.6
 exercise: 
