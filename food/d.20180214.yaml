@@ -1,0 +1,60 @@
+date: 20180214
+food:
+- time: 20180214163000
+  name: 不知火
+  amount: 260
+  unit: g 
+- time: 20180214175000
+  name: 面包
+  amount: 120
+  unit: g 
+- time: 20180214215500
+  name: 面条
+  amount: 65
+  unit: g 
+- time: 20180214215500
+  name: 螺蛳粉套装
+  amount: 120
+  unit: g 
+- time: 20180214215500
+  name: 猪肉
+  amount: 120
+  unit: g 
+- time: 20180214215500
+  name: 白菜
+  amount: 250
+  unit: g 
+- time: 20180214215500
+  name: 豆腐
+  amount: 250
+  unit: g 
+
+water:
+- time: 20180214161000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180214175000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180214203700
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180214230000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180215012300
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20180215012300
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
