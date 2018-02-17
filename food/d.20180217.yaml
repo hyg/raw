@@ -1,0 +1,51 @@
+date: 20180217
+food:
+- time: 20180217173000
+  name: 不知火
+  amount: 120
+  unit: g 
+- time: 20180217173700
+  name: 猕猴桃
+  amount: 70
+  unit: g 
+- time: 20180217190000
+  name: 麦片+麦胚芽+小米
+  amount: 100
+  unit: g 
+- time: 20180217212000
+  name: 猪肉
+  amount: 150
+  unit: g 
+- time: 20180217212000
+  name: 白菜
+  amount: 250
+  unit: g 
+- time: 20180217212000
+  name: 豆腐
+  amount: 250
+  unit: g 
+- time: 20180218013500
+  name: 香蕉
+  amount: 150
+  unit: g 
+- time: 20180218044000
+  name: 猕猴桃
+  amount: 70
+  unit: g 
+water:
+- time: 20180217171500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180217225000
+  name: 咖啡
+  amount: 200
+  unit: ml
+med:
+- time: 20180217194000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
