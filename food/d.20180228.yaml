@@ -1,0 +1,75 @@
+date: 20180228
+food:
+- time: 20180228082000
+  name: 猕猴桃
+  amount: 150
+  unit: g 
+- time: 20180228082000
+  name: 橙
+  amount: 200
+  unit: g 
+- time: 20180228083000
+  name: 小米
+  amount: 75
+  unit: g
+- time: 20180228125000
+  name: 猪肉
+  amount: 150
+  unit: g
+- time: 20180228180000
+  name: 鱼肉
+  amount: 170
+  unit: g
+- time: 20180228230500
+  name: 橙
+  amount: 200
+  unit: g 
+- time: 20180301010000
+  name: 葡萄干
+  amount: 100
+  unit: g 
+- time: 20180301025000
+  name: 苹果
+  amount: 250
+  unit: g 
+water:
+- time: 20180228080500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180228101000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180228123000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20180228175000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20180228185000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20180228203000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20180228215000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20180301013000
+  name: 绿茶
+  amount: 250
+  unit: ml
+med:
+- time: 20180228203000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
