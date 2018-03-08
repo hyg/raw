@@ -1,0 +1,67 @@
+date: 20180308
+food:
+- time: 20180308060500
+  name: 香蕉
+  amount: 150
+  unit: g 
+- time: 20180308060500
+  name: 砂糖桔
+  amount: 100
+  unit: g 
+- time: 20180308080000
+  name: 酒酿元宵
+  amount: 150
+  unit: g 
+- time: 20180308151700
+  name: 橙
+  amount: 20
+  unit: g 
+- time: 20180308193500
+  name: 大米
+  amount: 100
+  unit: g 
+- time: 20180308193500
+  name: 叉烧
+  amount: 100
+  unit: g 
+- time: 20180308193500
+  name: 排骨
+  amount: 75
+  unit: g 
+- time: 20180308193500
+  name: 蔬菜
+  amount: 150
+  unit: g 
+water:
+- time: 20180308055500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180308150000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20180308163000
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20180308183000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20180308213000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20180308233000
+  name: 绿茶
+  amount: 250
+  unit: ml
+med:
+- time: 20180308233000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
