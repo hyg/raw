@@ -1,0 +1,71 @@
+date: 20180312
+food:
+- time: 20180312150500
+  name: 香蕉
+  amount: 150
+  unit: g 
+- time: 20180312153500
+  name: 大米
+  amount: 100
+  unit: g 
+- time: 20180312153500
+  name: 叉烧
+  amount: 100
+  unit: g 
+- time: 20180312153500
+  name: 烧鸭
+  amount: 100
+  unit: g 
+- time: 20180312153500
+  name: 蔬菜
+  amount: 150
+  unit: g 
+- time: 20180312162000
+  name: 坚果
+  amount: 25
+  unit: g 
+- time: 20180312221000
+  name: 橙
+  amount: 200
+  unit: g 
+- time: 20180312221000
+  name: 甜瓜
+  amount: 300
+  unit: g 
+- time: 20180313013500
+  name: 香蕉
+  amount: 300
+  unit: g 
+water:
+- time: 20180312150500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180312160000
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20180312163500
+  name: 菊花+西洋参
+  amount: 250
+  unit: ml
+- time: 20180312185500
+  name: 菊花+西洋参
+  amount: 250
+  unit: ml
+- time: 20180312202000
+  name: 菊花+西洋参
+  amount: 250
+  unit: ml
+- time: 20180313034000
+  name: 菊花+西洋参
+  amount: 250
+  unit: ml
+med:
+- time: 20180312163500
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
