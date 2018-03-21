@@ -1,0 +1,67 @@
+date: 20180321
+food:
+- time: 20180321160000
+  name: 焦糖泡芙
+  amount: 100
+  unit: g 
+- time: 20180321161000
+  name: 面包干
+  amount: 110
+  unit: g 
+- time: 20180321202000
+  name: 香蕉
+  amount: 400
+  unit: g 
+- time: 20180321221000
+  name: 面条
+  amount: 65
+  unit: g 
+- time: 20180321221000
+  name: 鲅鱼饺子
+  amount: 170
+  unit: g 
+- time: 20180322042000
+  name: 坚果
+  amount: 25
+  unit: g 
+- time: 20180322042500
+  name: 西红柿
+  amount: 300
+  unit: g 
+water:
+- time: 20180321154500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180321163000
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20180321170000
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20180321190000
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20180321200000
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20180322010000
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20180322054000
+  name: 六堡茶
+  amount: 250
+  unit: ml
+med:
+- time: 20180322054000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
