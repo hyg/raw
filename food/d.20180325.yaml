@@ -1,0 +1,71 @@
+date: 20180325
+food:
+- time: 20180325170000
+  name: 橙
+  amount: 200
+  unit: g 
+- time: 20180325172000
+  name: 面包
+  amount: 120
+  unit: g 
+- time: 20180325211500
+  name: 番石榴
+  amount: 250
+  unit: g 
+- time: 20180325221000
+  name: 米粉
+  amount: 200
+  unit: g 
+- time: 20180325221000
+  name: 鸡蛋
+  amount: 65
+  unit: g 
+- time: 20180326013000
+  name: 臭豆腐
+  amount: 200
+  unit: g 
+- time: 20180326030000
+  name: 雪糕
+  amount: 80
+  unit: g 
+water:
+- time: 201803251655000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180325181500
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20180325184000
+  name: 炒青
+  amount: 250
+  unit: ml
+- time: 20180325191500
+  name: 炒青
+  amount: 250
+  unit: ml
+- time: 20180325202000
+  name: 炒青
+  amount: 250
+  unit: ml
+- time: 20180325235000
+  name: 炒青
+  amount: 250
+  unit: ml
+- time: 20180326040000
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20180326060000
+  name: 炒青
+  amount: 250
+  unit: ml
+med:
+- time: 20180325054000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
