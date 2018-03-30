@@ -1,0 +1,63 @@
+date: 20180330
+food:
+- time: 20180330190000
+  name: 披萨
+  amount: 200
+  unit: g 
+- time: 20180330235500
+  name: 面包片
+  amount: 120
+  unit: g 
+- time: 20180331042500
+  name: 猕猴桃
+  amount: 200
+  unit: g 
+- time: 20180331042000
+  name: 甜瓜
+  amount: 150
+  unit: g 
+- time: 20180331053000
+  name: 大米
+  amount: 100
+  unit: g 
+water:
+- time: 201803301755000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 201803301840000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180330191000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180330193000
+  name: 炒青
+  amount: 250
+  unit: ml
+- time: 20180330205000
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20180331005000
+  name: 炒青
+  amount: 250
+  unit: ml
+- time: 20180331050000
+  name: 炒青
+  amount: 250
+  unit: ml
+- time: 20180331073000
+  name: 炒青
+  amount: 250
+  unit: ml
+med:
+- time: 20180331073000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
