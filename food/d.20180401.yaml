@@ -1,0 +1,59 @@
+date: 20180401
+food:
+- time: 20180401194000
+  name: 汉堡
+  amount: 350
+  unit: g 
+- time: 20180401194000
+  name: 薯条
+  amount: 150
+  unit: g 
+- time: 20180402010000
+  name: 面包
+  amount: 150
+  unit: g 
+water:
+- time: 20180401184500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180401195000
+  name: 可可
+  amount: 350
+  unit: ml
+- time: 20180401205000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180401213000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180401221500
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180401230000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180402013000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180401230000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180402031000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+med:
+- time: 20180401073000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
