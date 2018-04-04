@@ -1,0 +1,72 @@
+date: 20180404
+food:
+- time: 20180404085000
+  name: 汉堡
+  amount: 200
+  unit: g 
+- time: 20180404134000
+  name: 汉堡
+  amount: 250
+  unit: g 
+- time: 20180404134000
+  name: 薯条
+  amount: 150
+  unit: g 
+- time: 20180404202000
+  name: 萝卜
+  amount: 150
+  unit: g 
+- time: 20180404202000
+  name: 胡萝卜
+  amount: 150
+  unit: g 
+- time: 20180404202000
+  name: 牛肉
+  amount: 150
+  unit: g 
+- time: 20180404202000
+  name: 豆腐
+  amount: 125
+  unit: g 
+water:
+- time: 20180404072000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180404091000
+  name: 咖啡
+  amount: 350
+  unit: ml
+- time: 20180404133000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180404142000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180404192000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 2018040421300
+  name: 开水+菊花+西洋参
+  amount: 250
+  unit: ml
+- time: 2018040422300
+  name: 开水+菊花+西洋参
+  amount: 250
+  unit: ml
+- time: 20180404235000
+  name: 开水+菊花+西洋参
+  amount: 250
+  unit: ml
+ 
+med:
+- time: 20180404024300
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
