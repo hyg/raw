@@ -1,0 +1,75 @@
+date: 20180408
+food:
+- time: 20180408180500
+  name: 西红柿
+  amount: 120
+  unit: g 
+- time: 20180408183000
+  name: 大米
+  amount: 100
+  unit: g 
+- time: 20180408183000
+  name: 牛肉
+  amount: 100
+  unit: g 
+- time: 20180408183000
+  name: 蔬菜
+  amount: 120
+  unit: g 
+- time: 20180408220000
+  name: 鱿鱼
+  amount: 100
+  unit: g 
+- time: 20180408220000
+  name: 鸡肉
+  amount: 100
+  unit: g 
+- time: 20180409020000
+  name: 大米
+  amount: 100
+  unit: g 
+- time: 20180409020000
+  name: 鸡肉
+  amount: 120
+  unit: g 
+- time: 20180409020000
+  name: 蔬菜
+  amount: 150
+  unit: g 
+water:
+- time: 20180408172000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180408154000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180408190000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180408210000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180408233000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180409010000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180409040000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+med:
+- time: 20180408054000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
