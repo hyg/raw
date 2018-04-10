@@ -1,0 +1,67 @@
+date: 20180410
+food:
+- time: 20180410115500
+  name: 橙
+  amount: 200
+  unit: g 
+- time: 20180410121500
+  name: 粥米
+  amount: 75
+  unit: g 
+- time: 20180410121500
+  name: 蓝莓面包
+  amount: 100
+  unit: g 
+- time: 20180410203000
+  name: 牛肉
+  amount: 120
+  unit: g 
+- time: 20180410203000
+  name: 巧克力
+  amount: 100
+  unit: g 
+- time: 20180410214000
+  name: 秋葵
+  amount: 200
+  unit: g 
+- time: 20180410214000
+  name: 芦笋
+  amount: 200
+  unit: g 
+water:
+- time: 20180410115000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180410123000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180410160000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180410175000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180410213000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180410224000
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20180411002000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20180410054000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
