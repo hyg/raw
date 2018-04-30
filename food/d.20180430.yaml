@@ -1,0 +1,59 @@
+date: 20180430
+food:
+- time: 20180430085500
+  name: 香蕉
+  amount: 300
+  unit: g 
+- time: 20180430092500
+  name: 凤爪
+  amount: 300
+  unit: g 
+- time: 20180430092500
+  name: 凉面
+  amount: 250
+  unit: g 
+- time: 20180430135000
+  name: 披萨
+  amount: 220
+  unit: g 
+water:
+- time: 20180430085000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180430093000
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20180430104000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180430114000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180430140000
+  name: 咖啡
+  amount: 300
+  unit: ml
+- time: 20180430154000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180430174000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180430224000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+med:
+- time: 20180430061000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
