@@ -1,0 +1,83 @@
+date: 20180507
+food:
+- time: 20180507124000
+  name: 西红柿
+  amount: 250
+  unit: g 
+- time: 20180507124
+  name: 甜瓜
+  amount: 600
+  unit: g 
+- time: 20180507131000
+  name: 鸡肉
+  amount: 120
+  unit: g 
+- time: 20180507131000
+  name: 猪肉
+  amount: 120
+  unit: g 
+- time: 20180507170000
+  name: 面包
+  amount: 120
+  unit: g 
+- time: 20180507170000
+  name: 奶酪
+  amount: 50
+  unit: g 
+- time: 20180507190000
+  name: 香蕉
+  amount: 500
+  unit: g 
+- time: 20180507210000
+  name: 青见
+  amount: 250
+  unit: g 
+- time: 20180507234000
+  name: 小米
+  amount: 75
+  unit: g 
+- time: 20180507234000
+  name: 葡萄干
+  amount: 75
+  unit: g 
+- time: 20180507234000
+  name: 奶粉
+  amount: 25
+  unit: g 
+- time: 20180507234000
+  name: 花生粉
+  amount: 50
+  unit: g 
+water:
+- time: 20180507123500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180507133000
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20180507144000
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20180507154500
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20180507172000
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20180507223000
+  name: 六堡茶
+  amount: 250
+  unit: ml
+med:
+- time: 20180507061000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
