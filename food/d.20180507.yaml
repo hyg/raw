@@ -4,7 +4,7 @@ food:
   name: 西红柿
   amount: 250
   unit: g 
-- time: 20180507124
+- time: 20180507124000
   name: 甜瓜
   amount: 600
   unit: g 
