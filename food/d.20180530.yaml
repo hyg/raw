@@ -1,73 +1,73 @@
-date: 20180529
+date: 20180530
 food:
-- time: 20180529063500
+- time: 20180530063500
   name: 青见
   amount: 150
   unit: g 
-- time: 20180529070000
+- time: 20180530070000
   name: 青见
   amount: 150
   unit: g 
-- time: 20180529083500
+- time: 20180530083500
   name: 蒸饺
   amount: 150
   unit: g 
-- time: 20180529083500
+- time: 20180530083500
   name: 蛋饼
   amount: 150
   unit: g 
-- time: 20180529083500
+- time: 20180530083500
   name: 糯米团
   amount: 120
   unit: g 
-- time: 20180529113000
+- time: 20180530113000
   name: 芝士蛋糕
   amount: 220
   unit: g 
-- time: 20180529160000
+- time: 20180530160000
   name: 臭豆腐
   amount: 150
   unit: g 
-- time: 20180529162500
+- time: 20180530162500
   name: 蛋挞
   amount: 100
   unit: g 
 
 water:
-- time: 20180529063000
+- time: 20180530063000
   name: 开水
   amount: 250
   unit: ml
-- time: 201805290835000
+- time: 201805300835000
   name: 柠檬水
   amount: 250
   unit: ml
-- time: 201805290850000
+- time: 201805300850000
   name: 柠檬水
   amount: 250
   unit: ml
-- time: 20180529105000
+- time: 20180530105000
   name: 开水
   amount: 250
   unit: ml
-- time: 20180529133000
+- time: 20180530133000
   name: 碧螺春
   amount: 250
   unit: ml
-- time: 20180529145000
+- time: 20180530145000
   name: 碧螺春
   amount: 250
   unit: ml
-- time: 20180529154000
+- time: 20180530154000
   name: 碧螺春
   amount: 250
   unit: ml
-- time: 20180529173000
+- time: 20180530173000
   name: 碧螺春
   amount: 250
   unit: ml
 med:
-- time: 20180529173000
+- time: 20180530173000
   name: daily multi
   amount: 1
   unit: 片
