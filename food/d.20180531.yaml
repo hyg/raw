@@ -32,11 +32,11 @@ food:
   name: 蛋挞
   amount: 100
   unit: g 
-- time: 2018053183000
+- time: 20180531183000
   name: 叉烧
   amount: 100
   unit: g 
-- time: 2018053183000
+- time: 20180531183000
   name: 烧鸡
   amount: 150
   unit: g 
