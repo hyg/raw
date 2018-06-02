@@ -1,0 +1,83 @@
+date: 20180602
+food:
+- time: 20180602063000
+  name: 甜瓜
+  amount: 750
+  unit: g 
+- time: 20180602071000
+  name: 面包
+  amount: 150
+  unit: g 
+- time: 20180602071000
+  name: 芝士
+  amount: 250
+  unit: g 
+- time: 20180602133000
+  name: 叉烧
+  amount: 120
+  unit: g 
+- time: 20180602133000
+  name: 烧鸡
+  amount: 150
+  unit: g 
+- time: 20180602174000
+  name: 哈密瓜
+  amount: 1000
+  unit: g 
+- time: 20180602100000
+  name: 粥米
+  amount: 100
+  unit: g 
+- time: 20180602100000
+  name: 猪肉
+  amount: 75
+  unit: g 
+- time: 20180602100000
+  name: 鸡肉
+  amount: 120
+  unit: g 
+- time: 20180602100000
+  name: 天津冬菜
+  amount: 30
+  unit: g 
+- time: 20180602120000
+  name: 番石榴
+  amount: 150
+  unit: g 
+water:
+- time: 20180602062300
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180602055000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180602083000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180602100000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180602140000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180602170000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180602230000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+med:
+- time: 20180602230000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
