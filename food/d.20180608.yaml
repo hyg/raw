@@ -1,0 +1,67 @@
+date: 20180608
+food:
+- time: 20180608055500
+  name: 叉烧
+  amount: 150
+  unit: g 
+- time: 20180608055500
+  name: 烧鸡
+  amount: 200
+  unit: g 
+- time: 20180608111500
+  name: 大米
+  amount: 100
+  unit: g 
+- time: 20180608111500
+  name: 牛肉
+  amount: 100
+  unit: g 
+- time: 20180608111500
+  name: 蔬菜
+  amount: 100
+  unit: g 
+- time: 20180608183000
+  name: 法棍鸡腿汉堡
+  amount: 500
+  unit: g 
+water:
+- time: 20180608055100
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180608061500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180608090000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20180608103000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20180608123000
+  name: 咖啡
+  amount: 300
+  unit: ml
+- time: 20180608140000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20180608184500
+  name: 可可
+  amount: 300
+  unit: ml
+- time: 20180608233000
+  name: 开水
+  amount: 300
+  unit: ml
+med:
+- time: 20180608223000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 

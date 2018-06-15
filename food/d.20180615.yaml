@@ -1,0 +1,71 @@
+date: 20180615
+food:
+- time: 20180615101000
+  name: 山药片
+  amount: 90
+  unit: g 
+- time: 20180615121000
+  name: 海鲜拌面
+  amount: 230
+  unit: g 
+- time: 20180615161000
+  name: 哈密瓜
+  amount: 750
+  unit: g 
+- time: 20180615163500
+  name: 油条
+  amount: 100
+  unit: g 
+- time: 20180615191000
+  name: 韭菜鸡蛋饺子
+  amount: 220
+  unit: g 
+- time: 20180615230000
+  name: 番石榴
+  amount: 200
+  unit: g 
+water:
+- time: 20180615091000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180615093500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180615104500
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180615111000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180615140000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180615163500
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180615174000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180615203000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180615232000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20180615223000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
