@@ -1,0 +1,71 @@
+date: 20180627
+food:
+- time: 20180627154500
+  name: 夏橙
+  amount: 250
+  unit: g
+- time: 20180627164000
+  name: 竹升面
+  amount: 65
+  unit: g
+- time: 20180627164000
+  name: 牛肉
+  amount: 200
+  unit: g
+- time: 20180627164000
+  name: 蘑菇酱
+  amount: 60
+  unit: g
+- time: 20180628012000
+  name: 桃子
+  amount: 120
+  unit: g
+- time: 20180627022000
+  name: 甘栗
+  amount: 100
+  unit: g
+- time: 20180627042000
+  name: 甘栗
+  amount: 100
+  unit: g
+water:
+- time: 20180627143000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180627154000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180627193000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180627213000
+  name: 咖啡
+  amount: 350
+  unit: ml
+- time: 20180627223000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180628023000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180628043000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20180627222000
+  name: 中药
+  amount: 1
+  unit: 包
+- time: 20180627195000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
