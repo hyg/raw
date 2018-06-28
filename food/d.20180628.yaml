@@ -1,0 +1,63 @@
+date: 20180628
+food:
+- time: 20180628162000
+  name: 大米
+  amount: 100
+  unit: g
+- time: 20180628162000
+  name: 鱼肉
+  amount: 170
+  unit: g
+- time: 20180628162000
+  name: 黄瓜
+  amount: 450
+  unit: g
+- time: 20180628162000
+  name: 蘑菇酱
+  amount: 60
+  unit: g
+- time: 20180628220000
+  name: 桃子
+  amount: 150
+  unit: g
+- time: 20180628223000
+  name: 甘栗
+  amount: 100
+  unit: g
+- time: 20180629040000
+  name: 麦片
+  amount: 100
+  unit: g
+- time: 20180629040000
+  name: 绿豆
+  amount: 75
+  unit: g
+water:
+- time: 20180628143500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180628172000
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20180628203000
+  name: 咖啡
+  amount: 50
+  unit: ml
+- time: 20180628213000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180628213000
+  name: 牛奶
+  amount: 250
+  unit: ml
+- time: 20180629050000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+
+comment: |+
+  ...
+ 
