@@ -1,0 +1,59 @@
+date: 20180629
+food:
+- time: 20180629154000
+  name: 高纤蔬菜片
+  amount: 80
+  unit: g
+- time: 20180629163500
+  name: 竹升面
+  amount: 65
+  unit: g
+- time: 20180629163500
+  name: 鸡蛋
+  amount: 120
+  unit: g
+- time: 20180629163500
+  name: 蘑菇酱
+  amount: 60
+  unit: g
+- time: 20180630013000
+  name: 高纤蔬菜片
+  amount: 80
+  unit: g
+water:
+- time: 20180629151000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180629172000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 201806292250000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180629233000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180630015000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180630042500
+  name: 碧螺春
+  amount: 250
+  unit: ml
+med:
+- time: 20180629190000
+  name: 中药
+  amount: 1
+  unit: 包
+- time: 20180629195000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
