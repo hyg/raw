@@ -1,0 +1,55 @@
+date: 20180707
+food:
+- time: 20180707143000
+  name: 面包
+  amount: 300
+  unit: g
+- time: 20180707144500
+  name: 蓝莓酱
+  amount: 35
+  unit: g
+water:
+- time: 20180707140000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180707145000
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20180707160000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180707171500
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180707182000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180707200000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180707230000
+  name: 碧螺春
+  amount: 250
+  unit: ml
+- time: 20180708012000
+  name: 开水
+  amount: 400
+  unit: ml
+med:
+- time: 20180708012000
+  name: 中药
+  amount: 1
+  unit: 包
+- time: 20180707082500
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
