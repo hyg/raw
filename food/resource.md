@@ -11,7 +11,7 @@
 	* 葡萄干：https://jiangpinjiuye.taobao.com
 
 #### 钙
-1. 豆制品
+1. 豆腐
 2. 奶制品：
 	* 海乳
 	* 奶酪：<s>https://altlml.taobao.com</s>
