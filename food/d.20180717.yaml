@@ -1,0 +1,79 @@
+date: 20180717
+food:
+- time: 20180717221500
+  name: 桃子
+  amount: 120
+  unit: g
+- time: 20180717230000
+  name: 鸡肉
+  amount: 150
+  unit: g
+- time: 20180717232000
+  name: 果蔬片
+  amount: 80
+  unit: g
+- time: 20180718060000
+  name: 豆腐丝
+  amount: 200
+  unit: g
+- time: 20180718060000
+  name: 海带
+  amount: 100
+  unit: g
+- time: 20180718060000
+  name: 玉米青豆粒
+  amount: 150
+  unit: g
+- time: 20180718060000
+  name: 萝卜
+  amount: 50
+  unit: g
+- time: 20180718110000
+  name: 桃子
+  amount: 200
+  unit: g
+- time: 20180718132000
+  name: 果蔬片
+  amount: 80
+  unit: g
+water:
+- time: 20180717221300
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180717233000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180718012000
+  name: 炒青
+  amount: 250
+  unit: ml
+- time: 20180718030000
+  name: 炒青
+  amount: 250
+  unit: ml
+- time: 20180718063000
+  name: 汤水
+  amount: 500
+  unit: ml
+- time: 20180718090000
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20180718123000
+  name: 炒青
+  amount: 250
+  unit: ml
+med:
+- time: 20180718090000
+  name: 中药
+  amount: 1
+  unit: 包
+- time: 20180717133000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
