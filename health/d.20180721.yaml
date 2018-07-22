@@ -1,0 +1,14 @@
+date: 20180721
+sleep: 
+  time: 20180721064900
+  weight: 61.2
+wake:
+  time: 20180721173000
+  weight: 60.6
+stool: 
+- time: 20180722033000
+  amount:   1   #	1:多;		2:适中;		3:少;
+  type:     2   # 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  ...
