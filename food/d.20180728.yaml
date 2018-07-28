@@ -1,0 +1,65 @@
+date: 20180728
+food:
+- time: 20180728080500
+  name: 鸭肉
+  amount: 200
+  unit: g
+- time: 20180728135500
+  name: 竹升面
+  amount: 65
+  unit: g
+- time: 20180728135500
+  name: 海鸭蛋
+  amount: 75
+  unit: g
+- time: 20180728135500
+  name: 万年青
+  amount: 150
+  unit: g
+- time: 20180728135500
+  name: 木耳
+  amount: 75
+  unit: g
+- time: 20180728135500
+  name: 蘑菇酱
+  amount: 75
+  unit: g
+- time: 20180728135500
+  name: 萝卜
+  amount: 50
+  unit: g
+
+water:
+- time: 20180728073000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180728082500
+  name: 咖啡
+  amount: 230
+  unit: ml
+- time: 20180728094500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180728123000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180728154500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180728182000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20180728094500
+  name: 中药
+  amount: 1
+  unit: 包
+
+comment: |+
+  ...
+ 
