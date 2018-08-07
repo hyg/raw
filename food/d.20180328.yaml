@@ -49,11 +49,11 @@ water:
   name: 炒青
   amount: 250
   unit: ml
-  - time: 20180329003000
+- time: 20180329003000
   name: 炒青
   amount: 250
   unit: ml
-  - time: 20180329002000
+- time: 20180329002000
   name: 炒青
   amount: 250
   unit: ml

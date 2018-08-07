@@ -1,0 +1,96 @@
+date: 20180807
+food:
+- time: 20180807075500
+  name: 桃子
+  amount: 120
+  unit: g
+- time: 20180807090500
+  name: 酸奶
+  amount: 250
+  unit: g
+- time: 20180807090500
+  name: 蓝莓酱
+  amount: 50
+  unit: g
+- time: 20180807093000
+  name: 果蔬片
+  amount: 80
+  unit: g
+- time: 20180807132000
+  name: 甘栗仁
+  amount: 100
+  unit: g
+- time: 20180807163000
+  name: 竹升面
+  amount: 70
+  unit: g
+- time: 20180807163000
+  name: 薯条
+  amount: 150
+  unit: g
+- time: 20180807163000
+  name: 胡萝卜
+  amount: 100
+  unit: g
+- time: 20180807163000
+  name: 奶酪
+  amount: 40
+  unit: g
+- time: 20180807163000
+  name: 蘑菇酱
+  amount: 60
+  unit: g
+- time: 20180807210000
+  name: 压缩饼干
+  amount: 60
+  unit: g
+- time: 20180807221000
+  name: 桃子
+  amount: 220
+  unit: g
+- time: 20180807221000
+  name: 李子
+  amount: 100
+  unit: g
+- time: 20180807221000
+  name: 梨
+  amount: 120
+  unit: g
+
+water:
+- time: 20180807071000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180807085000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180807110000
+  name: 咖啡
+  amount: 300
+  unit: ml
+- time: 20180807152000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180807180300
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180807211000
+  name: 牛奶
+  amount: 200
+  unit: ml
+- time: 20180807230000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20180807230000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
