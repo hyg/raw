@@ -1,0 +1,91 @@
+date: 20180810
+food:
+- time: 20180810072500
+  name: 西瓜
+  amount: 1000
+  unit: g
+- time: 20180810093000
+  name: 大米
+  amount: 50
+  unit: g
+- time: 20180810093000
+  name: 鸡肉
+  amount: 120
+  unit: g
+- time: 20180810093000
+  name: 薯条
+  amount: 60
+  unit: g
+- time: 20180810093000
+  name: 洋葱
+  amount: 75
+  unit: g
+- time: 20180810134000
+  name: 果蔬片
+  amount: 80
+  unit: g
+- time: 20180810175000
+  name: 竹升面
+  amount: 65
+  unit: g
+- time: 20180810175000
+  name: 薯条
+  amount: 100
+  unit: g
+- time: 20180810175000
+  name: 海鸭蛋
+  amount: 75
+  unit: g
+- time: 20180810235000
+  name: 甘栗仁
+  amount: 100
+  unit: g
+- time: 20180811012000
+  name: 桃子
+  amount: 200
+  unit: g
+water:
+- time: 20180810065000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180810094500
+  name: 咖啡
+  amount: 200
+  unit: ml
+- time: 20180810113000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180810140000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180810150500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180810163000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180810184000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180810203000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180811013000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20180811013000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
