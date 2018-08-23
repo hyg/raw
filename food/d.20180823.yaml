@@ -1,0 +1,67 @@
+date: 20180823
+food:
+- time: 20180823125000
+  name: 面包
+  amount: 150
+  unit: g
+- time: 20180823125000
+  name: 奶酪
+  amount: 40
+  unit: g
+- time: 20180823183000
+  name: 大米
+  amount: 100
+  unit: g
+- time: 20180823183000
+  name: 鸡肉
+  amount: 120
+  unit: g
+- time: 20180823183000
+  name: 凤爪
+  amount: 120
+  unit: g
+- time: 20180824010000
+  name: 果蔬片
+  amount: 80
+  unit: g
+water:
+- time: 20180823131000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180823135000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180823154000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180823165000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180823172000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180823211000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180823221500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180824010000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20180823172000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
