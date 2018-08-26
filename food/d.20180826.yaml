@@ -1,0 +1,87 @@
+date: 20180826
+food:
+- time: 20180826121000
+  name: 桃子
+  amount: 120
+  unit: g
+- time: 20180826134000
+  name: 竹升面
+  amount: 65
+  unit: g
+- time: 20180826134000
+  name: 鸡肉
+  amount: 120
+  unit: g
+- time: 20180826134000
+  name: 薯条
+  amount: 120
+  unit: g
+- time: 20180826134000
+  name: 西红柿
+  amount: 150
+  unit: g
+- time: 20180826134000
+  name: 千页豆腐
+  amount: 100
+  unit: g
+- time: 20180826181000
+  name: 提拉米苏蛋糕
+  amount: 160
+  unit: g
+- time: 20180827002000
+  name: 粥米
+  amount: 100
+  unit: g
+- time: 20180827002000
+  name: 牡蛎
+  amount: 120
+  unit: g
+- time: 20180827002000
+  name: 天津冬菜
+  amount: 20
+  unit: g
+water:
+- time: 20180826115000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180826124500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180826142500
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180826145000
+  name: 炒青
+  amount: 250
+  unit: ml
+- time: 20180826170000
+  name: 炒青
+  amount: 250
+  unit: ml
+- time: 20180826182000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180826210000
+  name: 炒青
+  amount: 250
+  unit: ml
+- time: 20180826230000
+  name: 炒青
+  amount: 250
+  unit: ml
+- time: 20180827012000
+  name: 炒青
+  amount: 250
+  unit: ml
+med:
+- time: 20180826051000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
