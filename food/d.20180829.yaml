@@ -1,0 +1,71 @@
+date: 20180829
+food:
+- time: 20180829151000
+  name: 提拉米苏蛋糕
+  amount: 90
+  unit: g
+- time: 20180829180000
+  name: 猕猴桃
+  amount: 150
+  unit: g
+- time: 20180829180000
+  name: 蔬菜沙拉
+  amount: 400
+  unit: g
+- time: 20180829180000
+  name: 黑芝麻
+  amount: 30
+  unit: g
+- time: 20180829194000
+  name: 竹升面
+  amount: 65
+  unit: g
+- time: 20180829194000
+  name: 鸡肉
+  amount: 250
+  unit: g
+- time: 20180829194000
+  name: 西红柿
+  amount: 150
+  unit: g
+- time: 20180829232000
+  name: 提拉米苏蛋糕
+  amount: 54
+  unit: g
+- time: 20180830023000
+  name: 甘栗仁
+  amount: 100
+  unit: g
+water:
+- time: 20180829150500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180829151000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180829165000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180829174200
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180829211000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180830024000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20180829012000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
