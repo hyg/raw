@@ -1,0 +1,79 @@
+date: 20180902
+food:
+- time: 20180902144500
+  name: 猕猴桃
+  amount: 200
+  unit: g
+- time: 20180902145000
+  name: 桃子
+  amount: 150
+  unit: g
+- time: 20180902152000
+  name: 竹升面
+  amount: 65
+  unit: g
+- time: 20180902152000
+  name: 西红柿
+  amount: 120
+  unit: g
+- time: 20180902152000
+  name: 鸡肉
+  amount: 120
+  unit: g
+- time: 20180902152000
+  name: 黄瓜
+  amount: 150
+  unit: g
+- time: 20180902152000
+  name: 千页豆腐
+  amount: 120
+  unit: g
+- time: 20180902204000
+  name: 果蔬片
+  amount: 80
+  unit: g
+- time: 20180902231000
+  name: 南瓜
+  amount: 450
+  unit: g
+- time: 20180903040000
+  name: 甘栗仁
+  amount: 100
+  unit: g
+water:
+- time: 20180902141000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180902161000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180902173000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180902200000
+  name: 炒青
+  amount: 250
+  unit: ml
+- time: 20180902204500
+  name: 炒青
+  amount: 250
+  unit: ml
+- time: 20180902235000
+  name: 炒青
+  amount: 250
+  unit: ml
+- time: 20180903020000
+  name: 炒青
+  amount: 250
+  unit: ml
+med:
+- time: 20180902012000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
