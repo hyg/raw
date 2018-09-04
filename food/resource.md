@@ -13,9 +13,8 @@
 #### 钙
 1. 豆腐
 2. 奶制品：
-	* 海乳
-	* 奶酪：<s>https://altlml.taobao.com</s>
-	* 酸奶菌种:http://youduoyi.tmall.com
+  * 海乳
+  * 酸奶菌种:http://youduoyi.tmall.com
 3. 黑芝麻:https://baiyouli.taobao.com
 
 #### 蛋白质
@@ -63,8 +62,6 @@
   * https://qiushisp.tmall.com
   * https://jinshahe.tmall.com
   * https://shop69357144.taobao.com
-* 面点
-  * https://playbakery.taobao.com
 * 酵母：
   * https://hhlxc.taobao.com
   * https://rxnj.taobao.com
