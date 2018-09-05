@@ -1,0 +1,76 @@
+date: 20180905
+food:
+- time: 20180905134500
+  name: 猕猴桃
+  amount: 400
+  unit: g
+- time: 20180905140000
+  name: 奶酪面包
+  amount: 110
+  unit: g
+- time: 20180905191500
+  name: 巧克力面包
+  amount: 160
+  unit: g
+- time: 20180905225000
+  name: 云吞面
+  amount: 65
+  unit: g
+- time: 20180905225000
+  name: 牛肉
+  amount: 100
+  unit: g
+- time: 20180905225000
+  name: 酸菜
+  amount: 100
+  unit: g
+- time: 20180905225000
+  name: 西红柿
+  amount: 120
+  unit: g
+- time: 20180905225000
+  name: 千页豆腐
+  amount: 150
+  unit: g
+
+water:
+- time: 20180905134000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180905141000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180905143500
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180905155500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180905174000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180905192500
+  name: 牛奶
+  amount: 250
+  unit: ml
+- time: 20180905205500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180906013400
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20180906013400
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
