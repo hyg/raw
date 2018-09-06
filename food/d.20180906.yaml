@@ -1,0 +1,83 @@
+date: 20180906
+food:
+- time: 20180906115000
+  name: 牛肉粥
+  amount: 38
+  unit: g
+- time: 20180906121000
+  name: 冻干水果
+  amount: 40
+  unit: g
+- time: 20180906134500
+  name: 面条
+  amount: 50
+  unit: g
+- time: 20180906134500
+  name: 牛肉
+  amount: 20
+  unit: g
+- time: 20180906171500
+  name: 粉丝
+  amount: 55
+  unit: g
+- time: 20180906171500
+  name: 牛肉
+  amount: 20
+  unit: g
+- time: 20180906192000
+  name: 西瓜
+  amount: 1000
+  unit: g
+- time: 20180906213000
+  name: 月饼
+  amount: 60
+  unit: g
+- time: 20180907001500
+  name: 月饼
+  amount: 60
+  unit: g
+- time: 20180907011000
+  name: 面条
+  amount: 50
+  unit: g
+- time: 20180907011000
+  name: 牛肉
+  amount: 20
+  unit: g
+water:
+- time: 20180906112000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180906122000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180906144000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180906164000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180906191000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180906213000
+  name: 牛奶
+  amount: 250
+  unit: ml
+- time: 20180906235000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20180906013400
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
