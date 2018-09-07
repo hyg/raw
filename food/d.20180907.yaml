@@ -1,0 +1,84 @@
+date: 20180907
+food:
+- time: 20180907132000
+  name: 红枣核桃蛋糕
+  amount: 120
+  unit: g
+- time: 20180907132500
+  name: 桂圆红枣粥
+  amount: 32
+  unit: g
+- time: 20180907134000
+  name: 红枣银耳羹
+  amount: 15
+  unit: g
+- time: 20180907143000
+  name: 冻干桑葚
+  amount: 15
+  unit: g
+- time: 20180906171500
+  name: 粉丝
+  amount: 55
+  unit: g
+- time: 20180906171500
+  name: 牛肉
+  amount: 20
+  unit: g
+- time: 20180906194500
+  name: 月饼
+  amount: 60
+  unit: g
+- time: 20180906212500
+  name: 月饼
+  amount: 60
+  unit: g
+- time: 20180908030000
+  name: 红枣核桃蛋糕
+  amount: 200
+  unit: g
+- time: 20180908060000
+  name: 猕猴桃
+  amount: 150
+  unit: g
+water:
+- time: 20180907131000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180907151000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180907155000
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20180907182000
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20180907200000
+  name: 牛奶
+  amount: 250
+  unit: ml
+- time: 20180907231000
+  name: 柠檬水
+  amount: 250
+  unit: ml
+  unit: ml
+- time: 20180908005500
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20180908034500
+  name: 柠檬水
+  amount: 250
+  unit: ml
+med:
+- time: 20180907013400
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
