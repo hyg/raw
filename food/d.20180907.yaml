@@ -65,7 +65,6 @@ water:
   name: 柠檬水
   amount: 250
   unit: ml
-  unit: ml
 - time: 20180908005500
   name: 柠檬水
   amount: 250
