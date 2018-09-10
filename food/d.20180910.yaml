@@ -1,0 +1,75 @@
+date: 20180910
+food:
+- time: 20180910134000
+  name: 面包
+  amount: 120
+  unit: g
+- time: 20180910134000
+  name: 冻干蓝莓
+  amount: 16
+  unit: g
+- time: 20180910180000
+  name: 粥米
+  amount: 50
+  unit: g
+- time: 20180910180000
+  name: 小米
+  amount: 30
+  unit: g
+- time: 20180910180000
+  name: 麦片
+  amount: 20
+  unit: g
+- time: 20180910180000
+  name: 麦胚芽
+  amount: 10
+  unit: g
+- time: 20180910180000
+  name: 鱼肉
+  amount: 100
+  unit: g
+water:
+- time: 20180910131000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180910140800
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180910151000
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20180910163000
+  name: 柠檬水
+  amount: 200
+  unit: ml
+- time: 20180910192000
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20180910202000
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20180910212500
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20180910233500
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20180911013000
+  name: 柠檬水
+  amount: 250
+  unit: ml
+med:
+- time: 20180911013000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
