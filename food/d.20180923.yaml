@@ -1,0 +1,83 @@
+date: 20180923
+food:
+- time: 20180923130000
+  name: 猕猴桃
+  amount: 220
+  unit: g
+- time: 20180923131000
+  name: 鱼肉
+  amount: 100
+  unit: g
+- time: 20180923131000
+  name: 粥米
+  amount: 100
+  unit: g
+- time: 20180923184000
+  name: 云吞面
+  amount: 50
+  unit: g
+- time: 20180923184000
+  name: 猪肉
+  amount: 100
+  unit: g
+- time: 20180923184000
+  name: 千页豆腐
+  amount: 150
+  unit: g
+- time: 20180924013000
+  name: 云吞面
+  amount: 15
+  unit: g
+- time: 20180924013000
+  name: 猪肉
+  amount: 50
+  unit: g
+- time: 20180924063000
+  name: 果蔬片
+  amount: 80
+  unit: g
+water:
+- time: 20180923125500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20180923140000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20180923155000
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20180923183000
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20180923205000
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20180923224500
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20180924020000
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20180924052500
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20180924064500
+  name: 柠檬水
+  amount: 150
+  unit: ml
+med:
+- time: 20180924052500
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
