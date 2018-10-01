@@ -1,0 +1,84 @@
+date: 20181001
+food:
+- time: 20181001161500
+  name: 小苹果
+  amount: 50
+  unit: g
+- time: 20181001161500
+  name: 番石榴
+  amount: 120
+  unit: g
+- time: 20181001171000
+  name: 薯条
+  amount: 150
+  unit: g
+- time: 20181001171000
+  name: 鸡肉
+  amount: 150
+  unit: g
+- time: 20181001171000
+  name: 千页豆腐
+  amount: 120
+  unit: g
+- time: 20181001171000
+  name: 奶酪
+  amount: 75
+  unit: g
+- time: 20181001230000
+  name: 糙米
+  amount: 60
+  unit: g
+- time: 20181001230000
+  name: 黑米
+  amount: 20
+  unit: g
+- time: 20181001230000
+  name: 燕麦米
+  amount: 10
+  unit: g
+- time: 20181001230000
+  name: 鸭肉
+  amount: 120
+  unit: g
+- time: 20181001230000
+  name: 蔬菜
+  amount: 400
+  unit: g
+water:
+- time: 20181001161000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20181001174000
+  name: 奶茶
+  amount: 250
+  unit: ml
+- time: 20181001182000
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20181001194000
+  name: 奶茶
+  amount: 250
+  unit: ml
+- time: 20181001234000
+  name: 柠檬茶
+  amount: 250
+  unit: ml
+- time: 20181002003000
+  name: 柠檬茶
+  amount: 250
+  unit: ml
+- time: 20181002010000
+  name: 柠檬茶
+  amount: 250
+  unit: ml
+
+med:
+- time: 20181002010000
+  name: centrum men
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
