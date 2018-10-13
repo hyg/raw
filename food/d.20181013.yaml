@@ -1,0 +1,91 @@
+date: 20181013
+food:
+- time: 20181013151000
+  name: 猕猴桃
+  amount: 120
+  unit: g
+- time: 20181013165500
+  name: 面包
+  amount: 150
+  unit: g
+- time: 20181013165500
+  name: 蘑菇
+  amount: 120
+  unit: g
+- time: 20181013165500
+  name: 番茄酱
+  amount: 30
+  unit: g
+- time: 20181013165500
+  name: 青椒
+  amount: 120
+  unit: g
+- time: 20181013165500
+  name: 猪肉
+  amount: 120
+  unit: g
+- time: 20181013165500
+  name: 奶酪
+  amount: 50
+  unit: g
+- time: 20181013222500
+  name: 低聚果糖
+  amount: 3
+  unit: g
+- time: 20181013231000
+  name: 白菜
+  amount: 300
+  unit: g
+- time: 20181013231000
+  name: 冻豆腐
+  amount: 50
+  unit: g
+- time: 20181013231000
+  name: 谷朊粉
+  amount: 15
+  unit: g
+water:
+- time: 20181013150500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20181013155000
+  name: 奶茶
+  amount: 250
+  unit: ml
+- time: 20181013175000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20181013182000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20181013192000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20181013210000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20181013222500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20181013232000
+  name: 汤水
+  amount: 250
+  unit: ml
+- time: 20181013235900
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20181013200800
+  name: centrum men
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
