@@ -1,0 +1,91 @@
+date: 20181015
+food:
+- time: 20181015132500
+  name: 低聚果糖
+  amount: 7
+  unit: g
+- time: 20181015140000
+  name: 面包
+  amount: 200
+  unit: g
+- time: 20181015140000
+  name: 西红柿鸡蛋
+  amount: 200
+  unit: g
+- time: 20181015183000
+  name: 酱烧排骨
+  amount: 150
+  unit: g
+- time: 20181015183000
+  name: 家常豆腐
+  amount: 200
+  unit: g
+- time: 20181015183000
+  name: 菠菜
+  amount: 250
+  unit: g
+- time: 20181015223000
+  name: 面包
+  amount: 100
+  unit: g
+- time: 20181015223000
+  name: 牛肉
+  amount: 150
+  unit: g
+- time: 20181015223000
+  name: 花生
+  amount: 120
+  unit: g
+- time: 20181015225500
+  name: 低聚果糖
+  amount: 7
+  unit: g
+water:
+- time: 20181015132500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20181015142500
+  name: 奶茶
+  amount: 250
+  unit: ml
+- time: 20181015144500
+  name: 蜂蜜柠檬水
+  amount: 250
+  unit: ml
+- time: 20181015154000
+  name: 蜂蜜柠檬水
+  amount: 250
+  unit: ml
+- time: 20181015162900
+  name: 蜂蜜柠檬水
+  amount: 250
+  unit: ml
+- time: 20181015165400
+  name: 蜂蜜柠檬水
+  amount: 250
+  unit: ml
+- time: 20181015184000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20181015201000
+  name: 蜂蜜柠檬水
+  amount: 250
+  unit: ml
+- time: 20181015225500
+  name: 牛奶
+  amount: 220
+  unit: ml
+- time: 20181016034100
+  name: 红茶
+  amount: 250
+  unit: ml
+med:
+- time: 20181016034100
+  name: centrum men
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
