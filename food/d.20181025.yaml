@@ -1,0 +1,95 @@
+date: 20181025
+food:
+- time: 20181025183500
+  name: 猕猴桃
+  amount: 200
+  unit: g
+- time: 20181025200000
+  name: 西红柿炒鸡蛋
+  amount: 200
+  unit: g
+- time: 20181025200000
+  name: 荞麦面包
+  amount: 120
+  unit: g
+- time: 20181025200000
+  name: 蚕蛹
+  amount: 100
+  unit: g
+- time: 20181026001000
+  name: 鱼肉
+  amount: 120
+  unit: g
+- time: 20181026001000
+  name: 猪肉
+  amount: 200
+  unit: g
+- time: 20181026001000
+  name: 奶酪
+  amount: 40
+  unit: g
+- time: 20181025091000
+  name: 荞麦面包
+  amount: 50
+  unit: g
+water:
+- time: 20181025183200
+  name: 蜂蜜柠檬水
+  amount: 400
+  unit: ml
+- time: 20181025193000
+  name: 奶茶
+  amount: 250
+  unit: ml
+- time: 20181025202500
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20181025204000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20181025220500
+  name: 蜂蜜柠檬水
+  amount: 250
+  unit: ml
+- time: 20181025232000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20181026005500
+  name: 蜂蜜柠檬水
+  amount: 250
+  unit: ml
+- time: 20181026013500
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20181026041500
+  name: 蜂蜜柠檬水
+  amount: 250
+  unit: ml
+- time: 20181026070000
+  name: 蜂蜜柠檬水
+  amount: 250
+  unit: ml
+- time: 20181026094000
+  name: 蜂蜜柠檬水
+  amount: 100
+  unit: ml
+med:
+- time: 20181025193000
+  name: 低聚果糖
+  amount: 3
+  unit: g
+- time: 20181026013500
+  name: centrum men
+  amount: 1
+  unit: 片
+- time: 20181025065000
+  name: 菊粉
+  amount: 6
+  unit: g
+comment: |+
+  ...
+ 
