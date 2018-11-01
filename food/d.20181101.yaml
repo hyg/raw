@@ -1,0 +1,83 @@
+date:  20181101
+food:
+- time: 20181101222000
+  name: 猕猴桃
+  amount: 250
+  unit: g
+- time: 20181101204500
+  name: 荞麦面包
+  amount: 150
+  unit: g
+- time: 20181101204500
+  name: 姜丝
+  amount: 50
+  unit: g
+- time: 20181101204500
+  name: 奶酪
+  amount: 50
+  unit: g
+- time: 20181102005500
+  name: 糙米
+  amount: 50
+  unit: g
+- time: 20181102005500
+  name: 黑米
+  amount: 20
+  unit: g
+- time: 20181102005500
+  name: 燕麦米
+  amount: 20
+  unit: g
+- time: 20181102005500
+  name: 照烧鸭肉
+  amount: 200
+  unit: g
+- time: 20181102053000
+  name: 荞麦馒头
+  amount: 50
+  unit: g
+water:
+- time: 20181101201500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20181101204500
+  name: 奶茶
+  amount: 250
+  unit: ml
+- time: 20181101223500
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20181101234400
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20181102015000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20181102043000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20181102063000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20181102073000
+  name: 绿茶
+  amount: 150
+  unit: ml
+med:
+- time: 20181101204500
+  name: 低聚果糖
+  amount: 3
+  unit: g
+- time: 20181101204500
+  name: super prostate
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
