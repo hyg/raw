@@ -54,7 +54,7 @@ food:
   unit: g
 - time: 20181031002000
   name: 鱼肉
-  amount: 1000
+  amount: 100
   unit: g
 - time: 20181031002000
   name: 猪肉
@@ -118,6 +118,10 @@ water:
   amount: 250
   unit: ml
 - time: 20181031054700
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20181031112000
   name: 红茶
   amount: 250
   unit: ml
