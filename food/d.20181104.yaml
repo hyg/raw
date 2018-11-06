@@ -88,6 +88,26 @@ food:
   name: 回锅肉
   amount: 170
   unit: g
+- time: 20181104234500
+  name: 桃子
+  amount: 120
+  unit: g
+- time: 20181104235000
+  name: 柿子
+  amount: 100
+  unit: g
+- time: 20181105043000
+  name: 面包
+  amount: 100
+  unit: g
+- time: 20181105043000
+  name: 荞麦面包
+  amount: 100
+  unit: g
+- time: 20181105043000
+  name: 蚕蛹
+  amount: 100
+  unit: g
 water:
 - time: 20181104040000
   name: 开水
@@ -135,6 +155,18 @@ water:
   unit: ml
 - time: 20181104202600
   name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20181105044500
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20181105050700
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20181105052800
+  name: 柠檬水
   amount: 250
   unit: ml
 med:
