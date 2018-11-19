@@ -76,6 +76,10 @@ food:
   name: 猕猴桃
   amount: 200
   unit: g
+- time: 20181119012500
+  name: 鱼肉
+  amount: 100
+  unit: g
 water:
 - time: 20181118105000
   name: 开水
@@ -117,17 +121,23 @@ water:
   name: 柠檬水
   amount: 250
   unit: ml
+- time: 20181119014700
+  name: 开水
+  amount: 250
+  unit: ml
 med:
 - time: 20181118105000
   name: 低聚果糖
   amount: 3
   unit: g
-
 - time: 20181119003900
   name: super prostate
   amount: 1
   unit: 片
-
+- time: 20181119014700
+  name: 菊粉
+  amount: 7
+  unit: g
 
 comment: |+
   ...
