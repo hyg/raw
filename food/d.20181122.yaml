@@ -1,0 +1,73 @@
+date:  20181122
+food:
+- time: 20181122141500
+  name: 冰糖橙
+  amount: 150
+  unit: g
+- time: 20181122023000
+  name: 荞麦面包
+  amount: 60
+  unit: g
+- time: 20181122023000
+  name: 南瓜
+  amount: 120
+  unit: g
+- time: 20181122023000
+  name: 烧汁鸭排
+  amount: 100
+  unit: g
+- time: 20181122193500
+  name: 荞麦面条
+  amount: 100
+  unit: g
+- time: 20181122193500
+  name: 鸭肉
+  amount: 150
+  unit: g
+- time: 20181122193500
+  name: 冻豆腐
+  amount: 100
+  unit: g
+- time: 20181122193500
+  name: 蔬菜
+  amount: 350
+  unit: g
+- time: 20181122011500
+  name: 人参果
+  amount: 100
+  unit: g
+- time: 20181122011500
+  name: 柿子
+  amount: 100
+  unit: g
+water:
+- time: 20181122135000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20181122173100
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20181122220700
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20181123012500
+  name: 绿茶
+  amount: 250
+  unit: ml
+med:
+- time: 20181122204500
+  name: 低聚果糖
+  amount: 3
+  unit: g
+- time: 20181123012500
+  name: selenium
+  amount: 1
+  unit: 片
+
+
+comment: |+
+  ...
+ 
