@@ -1,0 +1,93 @@
+date:  20181121
+food:
+- time: 20181121225500
+  name: 冰糖橙
+  amount: 150
+  unit: g
+- time: 20181121212500
+  name: 酸奶
+  amount: 65
+  unit: g
+- time: 20181121212500
+  name: 蓝靛果
+  amount: 30
+  unit: g
+- time: 20181121213500
+  name: 面条
+  amount: 65
+  unit: g
+- time: 20181121213500
+  name: 猪肚+猪大肠
+  amount: 120
+  unit: g
+- time: 20181121213500
+  name: 蔬菜
+  amount: 250
+  unit: g
+- time: 20181122023000
+  name: 荞麦面包
+  amount: 60
+  unit: g
+- time: 20181122023000
+  name: 南瓜
+  amount: 120
+  unit: g
+- time: 20181122023000
+  name: 牛肋排
+  amount: 100
+  unit: g
+- time: 20181122023000
+  name: 奶酪
+  amount: 30
+  unit: g
+- time: 20181122072000
+  name: 苹果
+  amount: 80
+  unit: g
+- time: 20181122072000
+  name: 柿子
+  amount: 120
+  unit: g
+water:
+- time: 20181121204500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20181121220500
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20181121235500
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20181122033000
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20181122051000
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20181122074200
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20181122082200
+  name: 柠檬水
+  amount: 250
+  unit: ml
+med:
+- time: 20181121204500
+  name: 低聚果糖
+  amount: 3
+  unit: g
+- time: 20181122074200
+  name: super prostate
+  amount: 1
+  unit: 片
+
+
+comment: |+
+  ...
+ 
