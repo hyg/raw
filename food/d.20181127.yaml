@@ -1,0 +1,105 @@
+date:  20181127
+food:
+- time: 20181127151500
+  name: 冰糖橙
+  amount: 150
+  unit: g
+- time: 20181127154000
+  name: 荞麦面包
+  amount: 150
+  unit: g
+- time: 20181127154000
+  name: 奶酪
+  amount: 20
+  unit: g
+- time: 20181127154000
+  name: 奶豆腐
+  amount: 25
+  unit: g
+- time: 20181127154000
+  name: 南瓜
+  amount: 150
+  unit: g
+- time: 20181127202500
+  name: 荞麦面条
+  amount: 120
+  unit: g
+- time: 20181127202500
+  name: 蔬菜
+  amount: 350
+  unit: g
+- time: 20181127202500
+  name: 笋烧肉
+  amount: 150
+  unit: g
+- time: 20181128030000
+  name: 荞麦面包
+  amount: 120
+  unit: g
+- time: 20181128030000
+  name: 奶酪
+  amount: 20
+  unit: g
+- time: 20181128030000
+  name: 蚕蛹
+  amount: 120
+  unit: g
+- time: 20181128030000
+  name: 带鱼
+  amount: 120
+  unit: g
+- time: 20181128034500
+  name: 猕猴桃
+  amount: 200
+  unit: g
+water:
+- time: 20181127145000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20181127155000
+  name: 奶茶
+  amount: 250
+  unit: ml
+- time: 20181127165000
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20181127175000
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20181127203000
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20181127230200
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20181127235700
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20181128034700
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20181128041200
+  name: 开水
+  amount: 120
+  unit: ml
+med:
+- time: 20181127145000
+  name: 低聚果糖
+  amount: 3
+  unit: g
+- time: 20181127074500
+  name: selenium
+  amount: 1
+  unit: 片
+
+
+comment: |+
+  ...
+ 
