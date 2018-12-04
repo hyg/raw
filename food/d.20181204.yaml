@@ -1,0 +1,88 @@
+date:   20181204
+food:
+- time: 20181204154500
+  name:  猕猴桃
+  amount: 150
+  unit: g
+- time: 20181204155500
+  name: 荞麦面包
+  amount: 75
+  unit: g
+- time: 20181204155500
+  name: 牛肉
+  amount: 100
+  unit: g
+- time: 20181204193000
+  name: 蔬菜
+  amount: 500
+  unit: g
+- time: 20181204193000
+  name: 冻豆腐
+  amount: 100
+  unit: g
+- time: 20181204215000
+  name: 人参果
+  amount: 100
+  unit: g
+- time: 20181204215000
+  name: 柿子
+  amount: 200
+  unit: g
+- time: 20181205010000
+  name: 猪肉
+  amount: 200
+  unit: g
+- time: 20181205010000
+  name: 冻豆腐
+  amount: 100
+  unit: g
+water:
+- time: 20181204154000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20181204164500
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20181204175000
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20181204191200
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20181204203500
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20181204222400
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20181205030000
+  name: 牛奶
+  amount: 250
+  unit: ml
+med:
+- time: 20181204154000
+  name: 低聚果糖
+  amount: 3
+  unit: g
+- time: 20181204222400 
+  name: selenium
+  amount: 1
+  unit: 片
+- time: 20181204222400 
+  name: 维生素D3
+  amount: 400
+  unit: U
+- time: 20181205030000
+  name: 菊粉
+  amount: 7
+  unit: 片
+
+comment: |+
+  ...
+ 
