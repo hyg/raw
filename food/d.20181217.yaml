@@ -1,0 +1,29 @@
+date: 20181217
+food:
+- time: 20181217055500
+  name: 冰糖橙
+  amount: 120
+  unit: g
+water:
+- time: 20181217054500
+  name: 开水
+  amount: 250
+  unit: ml
+
+med:
+- time: 20181217054500
+  name: 低聚果糖
+  amount: 3
+  unit: g
+- time: 20181217182400
+  name: centrum
+  amount: 1
+  unit: 片
+- time: 20181217013000
+  name: 菊粉
+  amount: 7
+  unit: 片
+
+comment: |+
+  ...
+ 

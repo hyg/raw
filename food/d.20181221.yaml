@@ -1,0 +1,92 @@
+date: 20181221
+food:
+- time: 20181221121500
+  name: 冰糖橙
+  amount: 120
+  unit: g
+- time: 20181221150000
+  name: 大米
+  amount: 100
+  unit: g
+- time: 20181221150000
+  name: 鱼肉
+  amount: 100
+  unit: g
+- time: 20181221150000
+  name: 蔬菜
+  amount: 150
+  unit: g
+- time: 20181221190000
+  name: 南果梨
+  amount: 200
+  unit: g
+- time: 20181221201000
+  name: 荷兰豆
+  amount: 100
+  unit: g
+- time: 20181221201000
+  name: 菜心
+  amount: 150
+  unit: g
+- time: 20181221201000
+  name: 鲷鱼肉
+  amount: 200
+  unit: g
+- time: 20181221201000
+  name: 天津冬菜
+  amount: 20
+  unit: g
+- time: 20181222000500
+  name: 柿子
+  amount: 250
+  unit: g
+water:
+- time: 2018122120500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 2018122124500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 2018122151500
+  name: 薏米茶
+  amount: 350
+  unit: ml
+- time: 2018122162200
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 2018122191000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 2018122202000
+  name: 汤水
+  amount: 500
+  unit: ml
+- time: 2018122215000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 2018122232000
+  name: 牛奶
+  amount: 300
+  unit: ml
+med:
+- time: 2018122120500
+  name: 低聚果糖
+  amount: 3
+  unit: g
+- time: 2018122215000
+  name: centrum
+  amount: 1
+  unit: 片
+- time: 2018122232000
+  name: 菊粉
+  amount: 7
+  unit: 片
+
+comment: |+
+  ...
+ 
