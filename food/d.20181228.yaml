@@ -1,0 +1,105 @@
+date: 20181228
+food:
+- time: 20181228141700
+  name: 冰糖橙
+  amount: 60
+  unit: g
+- time: 20181228141700
+  name: 南果梨
+  amount: 60
+  unit: g
+- time: 20181228142500
+  name: 荞麦面包
+  amount: 80
+  unit: g
+- time: 20181228142500
+  name: 酸奶
+  amount: 250
+  unit: g
+- time: 20181228142500
+  name: 葡萄干
+  amount: 30
+  unit: g
+- time: 20181228172000
+  name: 万年青
+  amount: 200
+  unit: g
+- time: 20181228172000
+  name: 松仁
+  amount: 50
+  unit: g
+- time: 20181228172000
+  name: 黑芝麻
+  amount: 30
+  unit: g
+- time: 20181228172000
+  name: 鸡蛋
+  amount: 100
+  unit: g
+- time: 20181228182000
+  name: 南果梨
+  amount: 60
+  unit: g
+- time: 20181228182000
+  name: 冰糖橙
+  amount: 60
+  unit: g
+- time: 20181228182000
+  name: 柿子
+  amount: 120
+  unit: g
+- time: 20181228215000
+  name: 荞麦面包
+  amount: 80
+  unit: g
+- time: 20181228215000
+  name: 牛肉
+  amount: 100
+  unit: g
+- time: 20181228215000
+  name: 脱水蔬菜
+  amount: 120
+  unit: g
+water:
+- time: 20181228140000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20181228151000
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 2018122823000
+  name: 花生牛奶
+  amount: 300
+  unit: ml
+- time: 20181228224000
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20181228230300
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20181228015000
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20181228032000
+  name: 菊花茶
+  amount: 250
+  unit: ml
+med:
+- time: 20181228140000
+  name: 低聚果糖
+  amount: 3
+  unit: g
+- time: 20181228230300
+  name: centrum
+  amount: 1
+  unit: 片
+
+
+comment: |+
+  ...
+ 
