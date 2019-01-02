@@ -1,0 +1,93 @@
+date:  20190102
+food:
+- time: 20190102155500
+  name: 肉汉堡
+  amount: 300
+  unit: g
+- time: 20190102155500
+  name: 蔬菜沙拉
+  amount: 100
+  unit: g
+- time: 20190102203000
+  name: 大米
+  amount: 100
+  unit: g
+- time: 20190102203000
+  name: 鸭肉
+  amount: 120
+  unit: g
+- time: 20190103001000
+  name: 万年青
+  amount: 150
+  unit: g
+- time: 20190103001000
+  name: 松仁
+  amount: 40
+  unit: g
+- time: 20190103001000
+  name: 黑芝麻
+  amount: 20
+  unit: g
+- time: 20190103012000
+  name: 鸡肉
+  amount: 80
+  unit: g
+- time: 20190103022000
+  name: 南果梨
+  amount: 80
+  unit: g
+- time: 20190103022000
+  name: 柿子
+  amount: 120
+  unit: g
+
+water:
+- time: 20190102144000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190102161000
+  name: 热巧克力
+  amount: 250
+  unit: ml
+- time: 20190102200000
+  name: 牛奶
+  amount: 300
+  unit: ml
+- time: 20190102212000
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20190102231500
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20190103012500
+  name: 汤水
+  amount: 200
+  unit: ml
+- time: 20190103043000
+  name: 菊花茶
+  amount: 250
+  unit: ml
+med:
+- time: 20190102144000
+  name: 低聚果糖
+  amount: 3
+  unit: g
+- time: 20190103043000
+  name: super prostate
+  amount: 1
+  unit: 片
+- time: 20190103043000
+  name: 维生素D
+  amount: 400
+  unit: U
+- time: 20190102200000
+  name: 菊粉
+  amount: 7
+  unit: 片
+
+comment: |+
+  ...
+ 
