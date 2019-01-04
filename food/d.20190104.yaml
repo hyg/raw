@@ -1,0 +1,100 @@
+date:  20190104
+food:
+- time: 20190104091500
+  name: 冰糖橙
+  amount: 120
+  unit: g
+- time: 20190104172000
+  name: 葛根粉
+  amount: 20
+  unit: g
+- time: 20190104174500
+  name: 粥米
+  amount: 40
+  unit: g
+- time: 20190104174500
+  name: 淮山
+  amount: 60
+  unit: g
+- time: 20190104174500
+  name: 脱水蔬菜
+  amount: 30
+  unit: g
+- time: 20190104174500
+  name: 贻贝
+  amount: 85
+  unit: g
+- time: 20190104174500
+  name: 麦片
+  amount: 20
+  unit: g
+- time: 20190104174500
+  name: 麦胚芽
+  amount: 5
+  unit: g
+- time: 20190104174500
+  name: 姜
+  amount: 10
+  unit: g
+- time: 20190104174500
+  name: 天津冬菜
+  amount: 10
+  unit: g
+- time: 20190104233500
+  name: 南果梨
+  amount: 120
+  unit: g
+- time: 20190104233500
+  name: 柿子
+  amount: 120
+  unit: g
+  
+water:
+- time: 20190104091200
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190104172000
+  name: 牛奶
+  amount: 400
+  unit: ml
+- time: 20190104175000
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20190104200000
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20190104223000
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20190105023000
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20190105033000
+  name: 菊花茶
+  amount: 250
+  unit: ml
+med:
+- time: 20190104091200
+  name: 菊粉
+  amount: 7
+  unit: 片
+- time: 20190104223000
+  name: super prostate
+  amount: 1
+  unit: 片
+- time: 20190104223000
+  name: 维生素D
+  amount: 400
+  unit: U
+- time: 20190104144000
+  name: 低聚果糖
+  amount: 3
+  unit: g
+comment: |+
+  ...
+ 
