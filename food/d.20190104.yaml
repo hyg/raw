@@ -48,7 +48,18 @@ food:
   name: 柿子
   amount: 120
   unit: g
-  
+- time: 20190105034000
+  name: 荞麦面包
+  amount: 20
+  unit: g
+- time: 20190105034000
+  name: 全麦面包
+  amount: 20
+  unit: g
+- time: 20190105034000
+  name: 虫草花
+  amount: 30
+  unit: g
 water:
 - time: 20190104091200
   name: 开水
@@ -78,6 +89,11 @@ water:
   name: 菊花茶
   amount: 250
   unit: ml
+- time: 20190105034000
+  name: 汤水
+  amount: 250
+  unit: ml
+
 med:
 - time: 20190104091200
   name: 菊粉
