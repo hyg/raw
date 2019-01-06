@@ -1,0 +1,84 @@
+date:  20190106
+food:
+- time: 20190106154000
+  name: 猕猴桃
+  amount: 200
+  unit: g
+- time: 20190106165500
+  name: 荞麦面包
+  amount: 40
+  unit: g
+- time: 20190106165500
+  name: 全麦面包
+  amount: 40
+  unit: g
+- time: 20190106161000
+  name: 葛根粉
+  amount: 20
+  unit: g
+- time: 20190106194000
+  name: 土豆泥粉
+  amount: 75
+  unit: g
+- time: 20190106194500
+  name: 芦笋
+  amount: 250
+  unit: g
+- time: 20190106220900
+  name: 冰糖橙
+  amount: 120
+  unit: g
+- time: 20190106220900
+  name: 柿子
+  amount: 120
+  unit: g
+- time: 20190106224500
+  name: 酸奶
+  amount: 250
+  unit: g
+water:
+- time: 20190106145000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190106161000
+  name: 牛奶
+  amount: 400
+  unit: ml
+- time: 20190106173700
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20190106195000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190106203600
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20190106215200
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20190106231800
+  name: 菊花茶
+  amount: 250
+  unit: ml
+med:
+- time: 20190106145000
+  name: 低聚果糖
+  amount: 3
+  unit: g
+- time: 20190106173700
+  name: super prostate
+  amount: 1
+  unit: 片
+- time: 20190106173700
+  name: 维生素D
+  amount: 400
+  unit: U
+
+comment: |+
+  ...
+ 
