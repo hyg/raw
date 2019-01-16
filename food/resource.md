@@ -9,34 +9,36 @@
 4. 木耳
 5. 南瓜：
 	* https://shop111981265.taobao.com
+  * https://shop121232103.taobao.com
 6. 水果干
-	* 葡萄干：https://jiangpinjiuye.taobao.com
-	* 冻干桑葚：https://detail.tmall.com/item.htm?id=571858107802
+	* 冻干桑葚：https://detail.tmall.com/item.htm?id=57909586997
 7. 菊粉：https://shop245269337.taobao.com
 
 #### 钙
-1. 豆腐
+1. 豆腐：
+  * https://hystnc.taobao.com
+  * https://shop107686840.taobao.com
 2. 奶制品：
   * 海乳
-  * 酸奶菌种:http://youduoyi.tmall.com
+  * https://hengtianran.tmall.hk
+  * 酸奶菌种: http://youduoyi.tmall.com
+  * 酸奶菌种: https://shop583274885.taobao.com
 3. 黑芝麻:https://baiyouli.taobao.com
 
 #### 蛋白质
 1. 猪肉
 	* https://laojuantou.taobao.com
+  * https://xiaoliugunongchang.taobao.com
 	* http://xiaotuanshan.taobao.com
-	* https://hengfengyuan.tmall.com/category-1344850758.htm
-	* 金锣无抗猪肉
+  * 中粮安至选
 1. 牛肉：
 	* https://hystnc.taobao.com
+  * 中粮安至选
 1. 鸭肉：https://pengdashipin.tmall.com
 1. 兔肉：https://pengdashipin.tmall.com
 1. 豆制品
-1. 奶制品：
-	* 海乳
-	* https://hystnc.taobao.com/
-1. 海鸭蛋：
-	* https://eeehyd.taobao.com
+1. 鸡蛋：https://xdxfnc.tmall.com
+
 
 #### 抗氧化
 1. 胡萝卜：https://mnrj365.taobao.com
@@ -68,16 +70,16 @@
   * 鲜酵母：（英联马利）燕山、（乐斯福）燕子、安琪
   * 天然酵母 https://rxnj.taobao.com
 * 玉米：
+  * https://tqllj.tmall.com
   * https://zhzysp.tmall.com/
   * https://shop71554667.taobao.com
 
 #### 水果
 * 番石榴：https://gyy8888.taobao.com
-* 不知火：https://pjsg.taobao.com
 * 甜瓜、羊角脆：
 	* https://shop117345879.taobao.com
 * 猕猴桃：https://hengfengyuan.tmall.com/category-1330322160.htm
-* 蕉：https://shop116192768.taobao.com
+* 金桔：https://shop322474857.taobao.com
 
 #### 其它
 * 酱油：禾然
@@ -86,6 +88,7 @@
 	* 谷言：泰式肥牛、胡椒鸡排
 	* 聚口福：香乐大排、酱香排骨、酱爆菌菇
 	* 蒸烩煮：酱烧排骨、红烧排骨、香菇滑鸡、卤花生
+  * 网易严选：白果鸡汤
 
 ### 杂粮粥
 |供货商                       |粥米|绿豆|小米|苦荞麦|鹰嘴豆|莲子|百合|
