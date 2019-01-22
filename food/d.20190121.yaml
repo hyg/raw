@@ -48,6 +48,10 @@ food:
   name: 柿子
   amount: 220
   unit: g
+- time: 20190122002000
+  name: 蚕蛹
+  amount: 120
+  unit: g
 water:
 - time: 20190121060500
   name: 开水
