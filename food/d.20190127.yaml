@@ -1,0 +1,114 @@
+date:  20190127
+food:
+- time: 20190127202000
+  name: 荞麦面包
+  amount: 100
+  unit: g
+- time: 20190127204000
+  name: 葛根粉
+  amount: 20
+  unit: g
+- time: 20190127204000
+  name: 麦胚芽
+  amount: 10
+  unit: g
+- time: 20190127204000
+  name: 松仁
+  amount: 10
+  unit: g
+- time: 20190127204000
+  name: 奶粉
+  amount: 80
+  unit: g
+- time: 20190128013000
+  name: 猪肉白菜饺子
+  amount: 250
+  unit: g
+- time: 20190128030000
+  name: 国光苹果
+  amount: 100
+  unit: g
+- time: 20190128030000
+  name: 柿子
+  amount: 220
+  unit: g
+- time: 20190128063500
+  name: 菠菜
+  amount: 200
+  unit: g
+- time: 20190128063500
+  name: 菜心
+  amount: 150
+  unit: g
+- time: 20190128063500
+  name: 鲷鱼
+  amount: 110
+  unit: g
+
+- time: 20190127080000
+  name: 酸奶
+  amount: 250
+  unit: g
+- time: 20190127080000
+  name: 葡萄干
+  amount: 20
+  unit: g
+
+water:
+- time: 20190127194500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190127204000
+  name: 开水
+  amount: 420
+  unit: ml
+- time: 20190127212500
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190127223800
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190127234000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190128014000
+  name: 开水
+  amount: 500
+  unit: ml
+- time: 20190128052700
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190128075500
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20190128090000
+  name: 绿茶
+  amount: 250
+  unit: ml
+med:
+- time: 20190127194500
+  name: 低聚果糖
+  amount: 3
+  unit: g
+- time: 20190128075500
+  name: 中药
+  amount: 1
+  unit: 包
+- time: 20190128090000
+  name: selenium
+  amount: 1
+  unit: 片
+- time: 20190128090000
+  name: 维生素D
+  amount: 400
+  unit: U
+
+comment: |+
+  ...
+ 
