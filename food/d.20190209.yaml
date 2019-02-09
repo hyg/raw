@@ -1,0 +1,89 @@
+date:  20190209
+food:
+- time: 20190209132000
+  name: 国光苹果
+  amount: 150
+  unit: g
+- time: 20190209133000
+  name: 西兰花
+  amount: 150
+  unit: g
+- time: 20190209133000
+  name: 芦笋
+  amount: 100
+  unit: g
+- time: 20190209133000
+  name: 花生芽
+  amount: 100
+  unit: g
+- time: 20190209133000
+  name: 全麦面包
+  amount: 40
+  unit: g
+- time: 20190209133000
+  name: 荞麦面包
+  amount: 40
+  unit: g
+- time: 20190209155000
+  name: 奶粉
+  amount: 80
+  unit: g
+- time: 20190209165000
+  name: 不知火
+  amount: 150
+  unit: g
+- time: 20190209185000
+  name: 米饭
+  amount: 80
+  unit: g
+- time: 20190209185000
+  name: 狮子头
+  amount: 200
+  unit: g
+- time: 20190209185000
+  name: 鸡肉
+  amount: 50
+  unit: g
+- time: 20190209185000
+  name: 菜心
+  amount: 100
+  unit: g
+
+water:
+- time: 20190209133000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190209134500
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20190209140700
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190209190000
+  name: 汤水
+  amount: 350
+  unit: ml
+- time: 20190209200000
+  name: 红茶
+  amount: 500
+  unit: ml
+- time: 20190209230700
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20190209141000
+  name: 低聚果糖
+  amount: 3
+  unit: g
+- time: 20190209090000
+  name: 中药
+  amount: 1
+  unit: 包
+
+comment: |+
+  ...
+ 
