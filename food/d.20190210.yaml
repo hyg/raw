@@ -1,0 +1,50 @@
+date:  20190210
+food:
+- time: 20190210053500
+  name: 蜜橙
+  amount: 150
+  unit: g
+- time: 20190210061500
+  name: 绿豆猪肉粽子
+  amount: 500
+  unit: g
+- time: 20190210070000
+  name: 葛根粉
+  amount: 20
+  unit: g
+- time: 20190210095500
+  name: 麦胚芽
+  amount: 10
+  unit: g
+- time: 20190210095500
+  name: 奶粉
+  amount: 80
+  unit: g
+
+
+water:
+- time: 20190210052500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190210095500
+  name: 开水
+  amount: 360
+  unit: ml
+- time: 20190210111000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190210143900
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20190210052500
+  name: 低聚果糖
+  amount: 3
+  unit: g
+
+comment: |+
+  ...
+ 
