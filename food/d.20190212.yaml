@@ -1,0 +1,89 @@
+date:  20190212
+food:
+- time: 20190212061500
+  name: 蜜橙
+  amount: 150
+  unit: g
+- time: 20190212074000
+  name: 菜心
+  amount: 150
+  unit: g
+- time: 20190212074000
+  name: 黑豆苗
+  amount: 100
+  unit: g
+- time: 20190212074000
+  name: 冻豆腐
+  amount: 200
+  unit: g
+- time: 20190212125000
+  name: 全麦面包
+  amount: 80
+  unit: g
+- time: 20190212083500
+  name: 奶粉
+  amount: 80
+  unit: g
+- time: 20190212083500
+  name: 麦胚芽
+  amount: 10
+  unit: g
+- time: 20190212083500
+  name: 葛根粉
+  amount: 20
+  unit: g
+- time: 20190212133000
+  name: 芋头
+  amount: 120
+  unit: g
+- time: 20190212133000
+  name: 红薯
+  amount: 150
+  unit: g
+- time: 20190212180000
+  name: 酸奶
+  amount: 600
+  unit: g
+- time: 20190212235000
+  name: 猪肉绿豆粽子
+  amount: 600
+  unit: g
+water:
+- time: 20190212061000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190212083500
+  name: 开水
+  amount: 420
+  unit: ml
+- time: 20190212112000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190212200000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190213003000
+  name: 绿茶
+  amount: 250
+  unit: ml
+med:
+- time: 20190212061000
+  name: 低聚果糖
+  amount: 3
+  unit: g
+
+- time: 20190213003000
+  name: super prostate
+  amount: 1
+  unit: 片
+- time: 20190213003000
+  name: centrum men
+  amount: 400
+  unit: U
+
+comment: |+
+  ...
+ 

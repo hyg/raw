@@ -1,0 +1,108 @@
+date:  20190211
+food:
+- time: 20190211053000
+  name: 红薯
+  amount: 350
+  unit: g
+- time: 20190211100000
+  name: 菜心
+  amount: 150
+  unit: g
+- time: 20190211100000
+  name: 黑豆苗
+  amount: 100
+  unit: g
+- time: 20190211100000
+  name: 冻豆腐
+  amount: 200
+  unit: g
+- time: 20190211125000
+  name: 全麦面包
+  amount: 80
+  unit: g
+- time: 20190211132000
+  name: 奶粉
+  amount: 40
+  unit: g
+- time: 20190211172000
+  name: 粥米
+  amount: 60
+  unit: g
+- time: 20190211172000
+  name: 枸杞
+  amount: 10
+  unit: g
+- time: 20190211172000
+  name: 蔬菜干
+  amount: 20
+  unit: g
+- time: 20190211172000
+  name: 麦胚芽
+  amount: 10
+  unit: g
+- time: 20190211172000
+  name: 麦片
+  amount: 20
+  unit: g
+- time: 20190211172000
+  name: 姜
+  amount: 10
+  unit: g
+- time: 20190211172000
+  name: 鲭鱼
+  amount: 150
+  unit: g
+- time: 20190211205000
+  name: 国光苹果
+  amount: 200
+  unit: g
+water:
+- time: 20190211043500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190211095500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190211120200
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190211132000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190211133800
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190211180400
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190211201500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190211223000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+
+- time: 20190211201500
+  name: super prostate
+  amount: 1
+  unit: 片
+- time: 20190211201500
+  name: centrum men
+  amount: 400
+  unit: U
+- time: 20190211132000
+  name: 菊粉
+  amount: 7
+  unit: 片
+comment: |+
+  ...
+ 

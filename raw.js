@@ -62,7 +62,7 @@ try{
 		
 		//console.log("\n================="+day+"=================\nfood:\t"+fmap[day].comment+"\nhealth:\t"+hmap[day].comment);
 		//if (day > "20150407") {
-		if (day > "20180101" & day < "20180331") {
+		if (day > "20190101") {
 			cnt = cnt + 1;
 			if (bFirst) {
 				d = d+ "\"" + day + "\"";
