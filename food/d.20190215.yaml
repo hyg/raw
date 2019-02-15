@@ -1,0 +1,88 @@
+date: 20190215
+food:
+- time: 20190215063000
+  name: 国光苹果
+  amount: 170
+  unit: g
+- time: 20190215075500
+  name: 快菜
+  amount: 500
+  unit: g
+- time: 20190215075500
+  name: 鸡蛋
+  amount: 150
+  unit: g
+- time: 20190215081500
+  name: 奶粉
+  amount: 80
+  unit: g
+- time: 20190215081500
+  name: 麦胚芽
+  amount: 11
+  unit: g
+- time: 20190215081500
+  name: 葛根粉
+  amount: 20
+  unit: g
+- time: 20190215135500
+  name: 面包
+  amount: 80
+  unit: g
+- time: 20190215181500
+  name: 鸭肉
+  amount: 120
+  unit: g
+- time: 20190215181500
+  name: 猪肉大葱饺子
+  amount: 300
+  unit: g
+- time: 20190216004000
+  name: 蜜橙
+  amount: 150
+  unit: g
+water:
+- time: 20190215061000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190215081500
+  name: 开水
+  amount: 400
+  unit: ml
+- time: 20190215071100
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190215093000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190215121900
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190215123600
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190215161600
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190215182500
+  name: 开水
+  amount: 750
+  unit: ml
+- time: 20190215200400
+  name: 绿茶
+  amount: 250
+  unit: ml
+med:
+- time: 20190215061000
+  name: 低聚果糖
+  amount: 3
+  unit: g
+
+comment: |+
+  ...
+ 
