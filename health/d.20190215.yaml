@@ -2,6 +2,8 @@ date: 20190215
 sleep: 
   time: 201902114220200
   weight: 59.7
-
+wake:
+  time: 20190215060000
+  weight: 58.8
 comment: |+
   ..    
