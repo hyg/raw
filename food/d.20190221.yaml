@@ -1,0 +1,114 @@
+date: 20190221
+food:
+- time: 20190221111000
+  name: 高筋面包
+  amount: 40
+  unit: g
+- time: 20190221111000
+  name: 荞麦面包
+  amount: 40
+  unit: g
+- time: 20190221111000
+  name: 娃娃菜
+  amount: 120
+  unit: g
+- time: 20190221111000
+  name: 猪肉
+  amount: 100
+  unit: g
+- time: 20190221113000
+  name: 麦胚芽
+  amount: 11
+  unit: g
+- time: 20190221113000
+  name: 葛根粉
+  amount: 20
+  unit: g
+- time: 20190221113000
+  name: 奶粉
+  amount: 70
+  unit: g
+- time: 20190221123000
+  name: 柿子
+  amount: 250
+  unit: g
+- time: 20190221175000
+  name: 鲭鱼
+  amount: 120
+  unit: g
+- time: 20190221201500
+  name: 菜心
+  amount: 150
+  unit: g
+- time: 20190221201500
+  name: 芦笋
+  amount: 100
+  unit: g
+- time: 20190221201500
+  name: 冻豆腐
+  amount: 200
+  unit: g
+- time: 20190221214500
+  name: 酸奶
+  amount: 250
+  unit: g
+- time: 20190221214500
+  name: 葡萄干
+  amount: 25
+  unit: g
+
+water:
+- time: 20190221103500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190221113000
+  name: 开水
+  amount: 305
+  unit: ml
+- time: 20190221121000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190221133000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190221141500
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190221145500
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190221161900
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190221181900
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190221184900
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190221211000
+  name: 开水
+  amount: 300
+  unit: ml
+med:
+- time: 20190221103500
+  name: 低聚果糖
+  amount: 3
+  unit: g
+- time: 20190221211000
+  name: 中药
+  amount: 1
+  unit: 包
+
+
+comment: |+
+  ...
+ 
