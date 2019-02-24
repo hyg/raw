@@ -1,0 +1,101 @@
+date: 20190224
+food:
+- time: 20190224104000
+  name: 高筋面包
+  amount: 40
+  unit: g
+- time: 20190224104000
+  name: 荞麦面包
+  amount: 40
+  unit: g
+- time: 20190224104000
+  name: 奶粉
+  amount: 50
+  unit: g
+- time: 20190224122000
+  name: 叉烧骨汤拉面
+  amount: 500
+  unit: g
+- time: 20190224165500
+  name: 菜心
+  amount: 120
+  unit: g
+- time: 20190224165500
+  name: 菠菜
+  amount: 120
+  unit: g
+- time: 20190224165500
+  name: 芦笋
+  amount: 100
+  unit: g
+- time: 20190224165500
+  name: 冻豆腐
+  amount: 200
+  unit: g
+- time: 20190224210000
+  name: 国光苹果
+  amount: 100
+  unit: g
+- time: 20190224210000
+  name: 柿子
+  amount: 150
+  unit: g
+- time: 20190224232000
+  name: 不知火
+  amount: 300
+  unit: g
+water:
+- time: 20190224101500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190224104000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190224105500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190224130000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20190224150200
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190224180000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190224190800
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190224211500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190224220000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20190224105500
+  name: 菊粉
+  amount: 6
+  unit: g
+
+- time: 20190224211500
+  name: super prostate
+  amount: 1
+  unit: 片
+- time: 20190224211500
+  name: centrum men
+  amount: 1
+  unit: 片
+
+comment: |+
+  ...
+ 
