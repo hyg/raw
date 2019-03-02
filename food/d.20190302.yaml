@@ -1,0 +1,113 @@
+date: 20190302
+food:
+- time: 20190302160000
+  name: 猕猴桃
+  amount: 150
+  unit: g
+- time: 20190302160500
+  name: 不知火
+  amount: 150
+  unit: g
+- time: 20190302161000
+  name: 腰果
+  amount: 50
+  unit: g
+- time: 20190302161000
+  name: 麦片
+  amount: 60
+  unit: g
+- time: 20190302161000
+  name: 奶粉
+  amount: 30
+  unit: g
+- time: 20190302212200
+  name: 芦笋
+  amount: 200
+  unit: g
+- time: 20190302212200
+  name: 西兰花
+  amount: 150
+  unit: g
+- time: 20190302212200
+  name: 荷兰豆
+  amount: 100
+  unit: g
+- time: 20190302225000
+  name: 酸奶
+  amount: 300
+  unit: g
+- time: 20190302225000
+  name: 葡萄干
+  amount: 40
+  unit: g
+- time: 20190303033000
+  name: 鸭肉
+  amount: 50
+  unit: g
+- time: 20190303033000
+  name: 兔肉
+  amount: 50
+  unit: g
+- time: 20190303042000
+  name: 国光苹果
+  amount: 200
+  unit: g
+- time: 20190303053000
+  name: 不知火
+  amount: 120
+  unit: g
+water:
+
+- time: 20190302164000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190302181500
+  name: 开水
+  amount: 180
+  unit: ml
+- time: 20190302181100
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190302194000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190302215800
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190303003000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190303020300
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190303030000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190303053600
+  name: 绿茶
+  amount: 150
+  unit: ml
+med:
+- time: 20190302194000
+  name: 中药
+  amount: 1
+  unit: 包
+- time: 20190302164000
+  name: super prostate
+  amount: 1
+  unit: 片
+- time: 20190302164000
+  name: centrum men
+  amount: 1
+  unit: 片
+
+comment: |+
+  ...
+ 
