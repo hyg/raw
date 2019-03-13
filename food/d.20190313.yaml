@@ -1,0 +1,93 @@
+date: 20190313
+food:
+- time: 20190313044500
+  name: 伦晚脐橙
+  amount: 250
+  unit: g
+- time: 20190313052500
+  name: 荞麦面包
+  amount: 50
+  unit: g
+- time: 20190313052500
+  name: 红薯
+  amount: 150
+  unit: g
+- time: 20190313054000
+  name: 奶粉
+  amount: 50
+  unit: g
+- time: 20190313103000
+  name: 菜心
+  amount: 150
+  unit: g
+- time: 20190313103000
+  name: 芦笋
+  amount: 180
+  unit: g
+- time: 20190313103000
+  name: 西兰花
+  amount: 150
+  unit: g
+- time: 20190313103000
+  name: 冻豆腐
+  amount: 200
+  unit: g
+- time: 20190313032000
+  name: 腰果
+  amount: 70
+  unit: g
+- time: 20190313134500
+  name: 腰果
+  amount: 50
+  unit: g
+- time: 20190313134500
+  name: 不知火
+  amount: 150
+  unit: g
+
+water:
+- time: 20190313043500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190313054000
+  name: 开始
+  amount: 300
+  unit: ml
+- time: 20190313064500
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190313090000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190313113500
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190313122500
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190313144700
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190313154200
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190313171000
+  name: 绿茶
+  amount: 250
+  unit: ml
+med:
+- time: 20190313043500
+  name: 低聚果糖
+  amount: 3
+  unit: g
+
+comment: |+
+  ...
+ 
