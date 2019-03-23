@@ -1,0 +1,76 @@
+date: 20190323
+food:
+- time: 20190323124500
+  name: 伦晚脐橙
+  amount: 100
+  unit: g
+- time: 20190323172000
+  name: 汉堡
+  amount: 300
+  unit: g
+- time: 20190323172000
+  name: 鸡排
+  amount: 150
+  unit: g
+- time: 20190323172000
+  name: 菠萝派
+  amount: 100
+  unit: g
+- time: 20190323222000
+  name: 土豆荞麦面包
+  amount: 120
+  unit: g
+- time: 20190324015000
+  name: 番石榴
+  amount: 150
+  unit: g
+- time: 20190324032500
+  name: 不知火
+  amount: 150
+  unit: g
+water:
+- time: 20190323154500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190323173500
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190323204700
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190323223000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190324001400
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190324024300
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190324031600
+  name: 绿茶
+  amount: 220
+  unit: ml
+med:
+- time: 20190323154500
+  name: 低聚果糖
+  amount: 3
+  unit: g
+- time: 20190324024300
+  name: selenium
+  amount: 1
+  unit: 片
+- time: 20190324024300
+  name: 维生素D
+  amount: 400
+  unit: U
+
+comment: |+
+  ...
+ 
