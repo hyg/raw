@@ -1,18 +1,18 @@
 date: 20190404
 food:
-- time: 2019040413500
+- time: 20190404135000
   name: 青见
   amount: 150
   unit: g
-- time: 2019040414100
+- time: 20190404141000
   name: 牛肉
   amount: 100
   unit: g
-- time: 2019040414100
+- time: 20190404141000
   name: 土豆荞麦面包
   amount: 100
   unit: g
-- time: 2019040414100
+- time: 20190404141000
   name: 红薯
   amount: 180
   unit: g
