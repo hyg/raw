@@ -1,0 +1,103 @@
+date: 20190419
+food:
+- time: 20190419200500
+  name: 红薯
+  amount: 175
+  unit: g
+- time: 20190419200500
+  name: 发酵乳
+  amount: 250
+  unit: g
+- time: 20190419231500
+  name: 全麦面包
+  amount: 50
+  unit: g
+- time: 20190419231500
+  name: 面包
+  amount: 50
+  unit: g
+- time: 20190419232500
+  name: 奶粉
+  amount: 40
+  unit: g
+- time: 20190420033000
+  name: 芦笋
+  amount: 150
+  unit: g
+- time: 20190420033000
+  name: 菠菜
+  amount: 150
+  unit: g
+- time: 20190420033000
+  name: 娃娃菜
+  amount: 100
+  unit: g
+- time: 20190420033000
+  name: 冻豆腐
+  amount: 200
+  unit: g
+
+
+- time: 20190419003500
+  name: 伦晚脐橙
+  amount: 150
+  unit: g
+- time: 20190419054000
+  name: 番石榴
+  amount: 250
+  unit: g
+
+
+water:
+- time: 20190419185000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190419211800
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190419222500
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190419232500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190420004200
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190420014400
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190420021800
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190420042500
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190420045700
+  name: 红茶
+  amount: 250
+  unit: ml
+med:
+- time: 20190419230500
+  name: 低聚果糖
+  amount: 3
+  unit: g
+- time: 20190419232500
+  name: 阿拉伯糖
+  amount: 2
+  unit: g
+- time: 20190420045700
+  name: centrum
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
