@@ -1,0 +1,76 @@
+date: 20190421
+food:
+- time: 20190421074500
+  name: 伦晚脐橙
+  amount: 150
+  unit: g
+- time: 20190421082000
+  name: 面包
+  amount: 50
+  unit: g
+- time: 20190421082000
+  name: 芦笋
+  amount: 120
+  unit: g
+- time: 20190421082000
+  name: 娃娃菜
+  amount: 150
+  unit: g
+- time: 20190421082000
+  name: 鸡蛋
+  amount: 100
+  unit: g
+- time: 20190421122000
+  name: 叉烧拉面
+  amount: 500
+  unit: g
+- time: 20190421175500
+  name: 全麦面包
+  amount: 25
+  unit: g
+- time: 20190421175500
+  name: 面包
+  amount: 50
+  unit: g
+water:
+- time: 20190421073500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190421084500
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190421094000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190421130000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190421150000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190421163000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190421172200
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190421181000
+  name: 红茶
+  amount: 250
+  unit: ml
+med:
+- time: 20190421073500
+  name: 低聚果糖
+  amount: 3
+  unit: g
+
+comment: |+
+  ...
+ 
