@@ -4,6 +4,7 @@ var os = require('os');
 var child  =  require('child_process');
 
 var fmap = new Object();
+var emap = new Object();
 var hmap = new Object();
 
 try{
@@ -12,6 +13,10 @@ try{
 	  if(list[i].substr(0,2) == "d."){
 		f = yaml.safeLoad(fs.readFileSync("food/"+list[i], 'utf8'));
 		fmap[f.date] = f;
+	  }
+      if(list[i].substr(0,2) == "e."){
+		e = yaml.safeLoad(fs.readFileSync("food/"+list[i], 'utf8'));
+		emap[e.name] = e;
 	  }
 	}
 
@@ -27,85 +32,169 @@ try{
 	console.log("yaml read error！"+ list[i] +e);
 }
 
+// 
+function fooddaylog(){
+    //console.log(fmap[datestr()]);
+    d = fmap[datestr()] ;
+    let etable = new Object();
+    var name,amount,unit,nav ;
+    console.log("成份表\n名称\t\t数量\t单位\tNRV(%)");
+    
+    name = "水";
+    amount = 0 ;
+    unit = "ml";
+    nrv = 0 ;
+    for (var id in d.water){
+        let item = d.water[id];
+        if(item.unit == "ml") amount += item.amount ;
+        if(item.unit == "l") amount += item.amount*1000 ;
+    }
+    nrv = amount /20 ;
+    console.log(name+"\t\t"+amount+"\t"+unit+"\t"+nrv);
+    
+    var food = d.food;
+    for (var id in food){
+        //let item = food[id];
+        
+        if(food[id].name in emap){
+            let fooddata = emap[food[id].name] ;
+            let r = food[id].amount / fooddata.amount;
+            for(var e in fooddata.element){
+                if(e in etable) {
+                    // element already in table
+                    etable[e].amount += parseFloat(fooddata.element[e]) * r ;
+                    etable[e].nrv += parseFloat(fooddata.nrv[e]) * r ;
+                }else{
+                    // new element
+                    let newe = new Object();
+                    newe.amount = parseFloat(fooddata.element[e]) * r ;
+                    newe.nrv = parseFloat(fooddata.nrv[e]) * r ;
+                    etable[e] = newe ;
+                }
+            }
+            delete food[id];
+        }else{
+            //newfood.push(item);
+        }
+    }
+    
+    for(var name in etable){
+        if(name.replace(/[^\x00-\xff]/g,'**').length < 8){
+            console.log(name+"\t\t"+etable[name].amount.toFixed(2)+"\tg\t"+etable[name].nrv.toFixed(2));
+        }else{
+            console.log(name+"\t"+etable[name].amount.toFixed(2)+"\tg\t"+etable[name].nrv.toFixed(2));
+        }
+    }
+
+    console.log("\n未算入成份表的食物\n名称\t\t数量\t单位\t时间");
+    for(var id in food){
+        if(food[id].name.replace(/[^\x00-\xff]/g,'**').length < 8){
+            console.log(food[id].name+"\t\t"+food[id].amount+"\t"+food[id].unit+"\t"+food[id].time);
+        }else{
+            console.log(food[id].name+"\t"+food[id].amount+"\t"+food[id].unit+"\t"+food[id].time);
+        }
+    }
+    
+}
+
+fooddaylog();
 
 
-var d = "date <- c(";
-var w1 = "weight1 <- c(";
-var w2 = "weight2 <- c(";
-var sleep = "sleep <- c(";
-var wake = "wake <- c(";
-var sleeplong = "sleeplong <- c(";
+// make then R files
+function makeRfile(){
+    var d = "date <- c(";
+    var w1 = "weight1 <- c(";
+    var w2 = "weight2 <- c(";
+    var sleep = "sleep <- c(";
+    var wake = "wake <- c(";
+    var sleeplong = "sleeplong <- c(";
 
-var cnt = 0;
-var bFirst = true ;
+    var cnt = 0;
+    var bFirst = true ;
 
-try{
-	for (var day in fmap) {
-		//console.log("\nday=",day);
-		sleepday = Math.floor(hmap[day].sleep.time/1000000);
-		sleephour = Math.floor(hmap[day].sleep.time%1000000/10000);
-		sleepminute = Math.floor(hmap[day].sleep.time%10000/100);
-		sleeptime = sleephour*60+sleepminute;
-		
-		//console.log("\n================="+day+"=================\nhmap[day].sleep.time:"+hmap[day].sleep.time+"\nsleephour:\t"+sleephour+"\nsleepminute:\t"+sleepminute);
-		
-		if (sleepday < day){sleeptime -= 24*60};
-		
-		wakeday = Math.floor(hmap[day].wake.time/1000000);
-		wakehour = Math.floor(hmap[day].wake.time%1000000/10000);
-		wakeminute = Math.floor(hmap[day].wake.time%10000/100);
-		waketime = wakehour*60+wakeminute;
-		
-		sleeplongtime = waketime - sleeptime ;
-		
-		//if(waketime > 1000) {console.log(day)}
-		
-		//console.log("\n================="+day+"=================\nfood:\t"+fmap[day].comment+"\nhealth:\t"+hmap[day].comment);
-		//if (day > "20150407") {
-		if (day > "20190101") {
-			cnt = cnt + 1;
-			if (bFirst) {
-				d = d+ "\"" + day + "\"";
-				w1 = w1+hmap[day].sleep.weight;
-				w2 = w2+hmap[day].wake.weight;
-				
-				sleep = sleep + sleeptime;
-				wake  = wake + waketime;
-				sleeplong  = sleeplong + sleeplongtime;
-				bFirst = false;
-			} else {
-				d = d+',\"'+day+ "\"";
-				w1 = w1+","+ hmap[day].sleep.weight;
-				w2 = w2+","+ hmap[day].wake.weight;
-				
-				sleep = sleep +","+ sleeptime;
-				wake  = wake +","+ waketime;
-				sleeplong  = sleeplong +","+ sleeplongtime;
-			}
-		}
-	}
-}catch(e) {
-	// failure
-	console.log("comment print error！"+ day +fmap[day]+hmap[day] +e);
+    try{
+        for (var day in fmap) {
+            //console.log("\nday=",day);
+            sleepday = Math.floor(hmap[day].sleep.time/1000000);
+            sleephour = Math.floor(hmap[day].sleep.time%1000000/10000);
+            sleepminute = Math.floor(hmap[day].sleep.time%10000/100);
+            sleeptime = sleephour*60+sleepminute;
+            
+            //console.log("\n================="+day+"=================\nhmap[day].sleep.time:"+hmap[day].sleep.time+"\nsleephour:\t"+sleephour+"\nsleepminute:\t"+sleepminute);
+            
+            if (sleepday < day){sleeptime -= 24*60};
+            
+            wakeday = Math.floor(hmap[day].wake.time/1000000);
+            wakehour = Math.floor(hmap[day].wake.time%1000000/10000);
+            wakeminute = Math.floor(hmap[day].wake.time%10000/100);
+            waketime = wakehour*60+wakeminute;
+            
+            sleeplongtime = waketime - sleeptime ;
+            
+            //if(waketime > 1000) {console.log(day)}
+            
+            //console.log("\n================="+day+"=================\nfood:\t"+fmap[day].comment+"\nhealth:\t"+hmap[day].comment);
+            //if (day > "20150407") {
+            if (day > "20190101") {
+                cnt = cnt + 1;
+                if (bFirst) {
+                    d = d+ "\"" + day + "\"";
+                    w1 = w1+hmap[day].sleep.weight;
+                    w2 = w2+hmap[day].wake.weight;
+                    
+                    sleep = sleep + sleeptime;
+                    wake  = wake + waketime;
+                    sleeplong  = sleeplong + sleeplongtime;
+                    bFirst = false;
+                } else {
+                    d = d+',\"'+day+ "\"";
+                    w1 = w1+","+ hmap[day].sleep.weight;
+                    w2 = w2+","+ hmap[day].wake.weight;
+                    
+                    sleep = sleep +","+ sleeptime;
+                    wake  = wake +","+ waketime;
+                    sleeplong  = sleeplong +","+ sleeplongtime;
+                }
+            }
+        }
+    }catch(e) {
+        // failure
+        console.log("comment print error！"+ day +fmap[day]+hmap[day] +e);
+    }
+
+
+
+    d = d + ")";
+    w1 = w1 + ")";
+    w2 = w2 + ")";
+    sleep = sleep + ")";
+    wake = wake + ")";
+    sleeplong = sleeplong + ")";
+
+    var wstr = d+"\r\n"+w1+"\r\n"+w2+"\r\nplot(c(1:"+cnt+"),weight1,type=\"b\",pch=15,lty=1,col=\"red\",xaxt=\"n\",xlab = \"date\")\r\nlines(c(1:"+cnt+"),weight2,type=\"b\",pch=17,lty=2,col=\"blue\")\r\nlegend(\"topleft\",inset=.05,title=\"体重曲线\",c(\"睡前\",\"醒后\"),lty=c(1,2),pch=c(15,17),col=c(\"red\",\"blue\"))\r\naxis(1, c(1:"+cnt+"),date)\r\n";
+    fs.writeFile("health/weight.R",wstr);
+    console.log("\n\n体重曲线在health/weight.R");
+
+    var sleepstr = d+"\r\n"+sleep+"\r\n"+wake+"\r\n"+sleeplong+"\r\nplot(c(1:"+cnt+"),sleep,type=\"b\",pch=15,lty=1,col=\"red\",xaxt=\"n\",xlab = \"date\")\r\nlines(c(1:"+cnt+"),wake,type=\"b\",pch=17,lty=2,col=\"blue\")\r\nlines(c(1:"+cnt+"),sleeplong,type=\"b\",pch=21,lty=2,col=\"green\")\r\nlegend(\"topleft\",inset=.05,title=\"睡眠曲线\",c(\"睡\",\"醒\",\"时长\"),lty=c(1,2,2),pch=c(15,17,21),col=c(\"red\",\"blue\",\"green\"))\r\naxis(1, c(1:"+cnt+"),date)\r\n";
+    fs.writeFile("health/sleep.R",sleepstr);
+    console.log("\n\n睡眠曲线在health/sleep.R");
 }
 
 
+// utils
+function datestr(){
+    var theDate = new Date();
+    theDate.setDate(theDate.getDate()-1);
+    
+    var year = theDate.getFullYear();
+    var month = theDate.getMonth() + 1 < 10 ? "0" + (theDate.getMonth() + 1) : theDate.getMonth() + 1;
+    var day = theDate.getDate() < 10 ? "0" + theDate.getDate() : theDate.getDate();
+    var dateStr = year + "" + month + "" + day;
+    
+    return dateStr ;
+}
 
-d = d + ")";
-w1 = w1 + ")";
-w2 = w2 + ")";
-sleep = sleep + ")";
-wake = wake + ")";
-sleeplong = sleeplong + ")";
-
-var wstr = d+"\r\n"+w1+"\r\n"+w2+"\r\nplot(c(1:"+cnt+"),weight1,type=\"b\",pch=15,lty=1,col=\"red\",xaxt=\"n\",xlab = \"date\")\r\nlines(c(1:"+cnt+"),weight2,type=\"b\",pch=17,lty=2,col=\"blue\")\r\nlegend(\"topleft\",inset=.05,title=\"体重曲线\",c(\"睡前\",\"醒后\"),lty=c(1,2),pch=c(15,17),col=c(\"red\",\"blue\"))\r\naxis(1, c(1:"+cnt+"),date)\r\n";
-fs.writeFile("health/weight.R",wstr);
-console.log("\n\n体重曲线在health/weight.R");
-
-var sleepstr = d+"\r\n"+sleep+"\r\n"+wake+"\r\n"+sleeplong+"\r\nplot(c(1:"+cnt+"),sleep,type=\"b\",pch=15,lty=1,col=\"red\",xaxt=\"n\",xlab = \"date\")\r\nlines(c(1:"+cnt+"),wake,type=\"b\",pch=17,lty=2,col=\"blue\")\r\nlines(c(1:"+cnt+"),sleeplong,type=\"b\",pch=21,lty=2,col=\"green\")\r\nlegend(\"topleft\",inset=.05,title=\"睡眠曲线\",c(\"睡\",\"醒\",\"时长\"),lty=c(1,2,2),pch=c(15,17,21),col=c(\"red\",\"blue\",\"green\"))\r\naxis(1, c(1:"+cnt+"),date)\r\n";
-fs.writeFile("health/sleep.R",sleepstr);
-console.log("\n\n睡眠曲线在health/sleep.R");
-
+//openbrowser("http://www.xuemen.com")
 //console.log(os.type());
 //console.log(os.platform());
 //console.log(os.release());
@@ -121,8 +210,6 @@ console.log("\n\n睡眠曲线在health/sleep.R");
 //Linux
 //linux
 //3.13.0-53-generic
-
-//openbrowser("http://www.xuemen.com")
 
 function openbrowser(url) {
 	switch (os.platform()) {

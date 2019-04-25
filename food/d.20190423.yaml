@@ -18,35 +18,35 @@ food:
   unit: g
 - time: 20190423123000
   name: 糙米
-  amount:30
+  amount: 30
   unit: g
 - time: 20190423123000
   name: 红糙米
-  amount:30
+  amount: 30
   unit: g
 - time: 20190423123000
   name: 黑米
-  amount:30
+  amount: 30
   unit: g
 - time: 20190423123000
   name: 菠菜
-  amount:150
+  amount: 150
   unit: g
 - time: 20190423123000
   name: 快菜
-  amount:150
+  amount: 150
   unit: g
 - time: 20190423123000
   name: 三文鱼
-  amount:150
+  amount: 150
   unit: g
 - time: 20190423210000
   name: 猪肘
-  amount:100
+  amount: 100
   unit: g
 - time: 20190423210000
   name: 面包
-  amount:25
+  amount: 25
   unit: g
 water:
 - time: 20190423051000
