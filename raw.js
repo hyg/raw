@@ -32,8 +32,6 @@ try{
 	console.log("yaml read error！"+ list[i] +e);
 }
 
-E_fix();
-
 var arguments = process.argv.splice(2);
 if(arguments.length > 0){
     fooddaylog(arguments[0]);
