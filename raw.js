@@ -32,10 +32,17 @@ try{
 	console.log("yaml read error！"+ list[i] +e);
 }
 
+var arguments = process.argv.splice(2);
+if(arguments.length > 0){
+    fooddaylog(arguments[0]);
+}else {
+    fooddaylog(datestr());
+}
+
 // 
-function fooddaylog(){
+function fooddaylog(date){
     //console.log(fmap[datestr()]);
-    d = fmap[datestr()] ;
+    d = fmap[date] ;
     let etable = new Object();
     var name,amount,unit,nav ;
     console.log("成份表\n名称\t\t数量\t单位\tNRV(%)");
@@ -54,22 +61,35 @@ function fooddaylog(){
     
     var food = d.food;
     for (var id in food){
-        //let item = food[id];
-        
         if(food[id].name in emap){
             let fooddata = emap[food[id].name] ;
             let r = food[id].amount / fooddata.amount;
             for(var e in fooddata.element){
+                let item = new Object();
+                item.amount = parseFloat(fooddata.element[e].amount)*r;
+                item.unit = fooddata.element[e].unit.toLowerCase();
+                item.nrv = parseFloat(fooddata.element[e].nrv)*r;
+                
+                if(item.unit == "mg"){
+                    item.unit = "g";
+                    item.amount = item.amount/1000;
+                }
+                if(item.unit == "μg"){
+                    item.unit = "g";
+                    item.amount = item.amount/1000000;
+                }
+                if(item.unit == "kj"){
+                    item.unit = "kcal";
+                    item.amount = item.amount*0.239;
+                }
+                
                 if(e in etable) {
                     // element already in table
-                    etable[e].amount += parseFloat(fooddata.element[e]) * r ;
-                    etable[e].nrv += parseFloat(fooddata.nrv[e]) * r ;
+                    etable[e].amount += item.amount ;
+                    etable[e].nrv += item.nrv ;
                 }else{
                     // new element
-                    let newe = new Object();
-                    newe.amount = parseFloat(fooddata.element[e]) * r ;
-                    newe.nrv = parseFloat(fooddata.nrv[e]) * r ;
-                    etable[e] = newe ;
+                    etable[e] = item ;
                 }
             }
             delete food[id];
@@ -79,10 +99,19 @@ function fooddaylog(){
     }
     
     for(var name in etable){
+        if((etable[name].unit == "g") && (etable[name].amount < 1)){
+            if(etable[name].amount < 0.001){
+                etable[name].unit = "μg";
+                etable[name].amount = etable[name].amount * 1000000 ;
+            }else{
+                etable[name].unit = "mg";
+                etable[name].amount = etable[name].amount * 1000 ;
+            }
+        }
         if(name.replace(/[^\x00-\xff]/g,'**').length < 8){
-            console.log(name+"\t\t"+etable[name].amount.toFixed(2)+"\tg\t"+etable[name].nrv.toFixed(2));
+            console.log(name+"\t\t"+etable[name].amount.toFixed(2)+"\t"+ etable[name].unit + "\t"+etable[name].nrv.toFixed(2));
         }else{
-            console.log(name+"\t"+etable[name].amount.toFixed(2)+"\tg\t"+etable[name].nrv.toFixed(2));
+            console.log(name+"\t"+etable[name].amount.toFixed(2)+"\t"+ etable[name].unit + "\t"+etable[name].nrv.toFixed(2));
         }
     }
 
@@ -96,9 +125,6 @@ function fooddaylog(){
     }
     
 }
-
-fooddaylog();
-
 
 // make then R files
 function makeRfile(){
@@ -162,8 +188,6 @@ function makeRfile(){
         console.log("comment print error！"+ day +fmap[day]+hmap[day] +e);
     }
 
-
-
     d = d + ")";
     w1 = w1 + ")";
     w2 = w2 + ")";
@@ -192,6 +216,38 @@ function datestr(){
     var dateStr = year + "" + month + "" + day;
     
     return dateStr ;
+}
+
+// merge the old file before 20190426 to new format
+function E_merge(){
+    for(var name in emap){
+        console.log("name="+name);
+        let newfood = new Object();
+        let newelement = new Object();
+        let food = emap[name];
+        for(var e in food.element ){
+            console.log("e="+e);
+            let eitem = new Object();
+            let displayname = e ;
+            eitem["amount"] = food.element[e];
+            if(e.indexOf("(") > 0 ){
+                displayname = e.substring(0,e.indexOf("("));;
+                eitem["unit"] = e.substring(e.indexOf("(")+1,e.indexOf(")"));
+            }else{
+                eitem["unit"] = "g";
+            }
+            eitem["nrv"] = food["nrv"][e];
+            newelement[displayname] = eitem ;
+        }
+        newfood.name = food.name;
+        newfood.amount = food.amount;
+        newfood.unit = food.unit.toLowerCase();
+        newfood.element = newelement;
+        
+        //console.log(food);
+        console.log(newfood);
+        fs.writeFileSync("food/e."+name+".yaml",yaml.safeDump(newfood));
+    }
 }
 
 //openbrowser("http://www.xuemen.com")

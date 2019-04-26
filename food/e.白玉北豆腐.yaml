@@ -2,14 +2,23 @@ name: 白玉北豆腐
 amount: 100
 unit: g
 element:
-  脂肪: 3.0
-  蛋白质: 10.0
-  碳水化合物: 1.0
-  能量KJ: 298
-  钠: 0.012
-nrv:
-  脂肪: 5.0
-  蛋白质: 17.0
-  碳水化合物: 0.0
-  能量KJ: 4.0
-  钠: 1.0
+  脂肪:
+    amount: 3
+    unit: g
+    nrv: 5
+  蛋白质:
+    amount: 10
+    unit: g
+    nrv: 17
+  碳水化合物:
+    amount: 1
+    unit: g
+    nrv: 0
+  能量:
+    amount: 298
+    unit: KJ
+    nrv: 4
+  钠:
+    amount: 0.012
+    unit: g
+    nrv: 1

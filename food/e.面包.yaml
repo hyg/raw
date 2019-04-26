@@ -2,14 +2,23 @@ name: 面包
 amount: 100
 unit: g
 element:
-  脂肪: 8.5
-  蛋白质: 9.0
-  能量KJ: 1422
-  碳水化合物: 55.0
-  钠: 0.276
-nrv:
-  脂肪: 14.0
-  蛋白质: 15.0
-  能量KJ: 17.0
-  碳水化合物: 18.0
-  钠: 14.0
+  脂肪:
+    amount: 8.5
+    unit: g
+    nrv: 14
+  蛋白质:
+    amount: 9
+    unit: g
+    nrv: 15
+  能量:
+    amount: 1422
+    unit: KJ
+    nrv: 17
+  碳水化合物:
+    amount: 55
+    unit: g
+    nrv: 18
+  钠:
+    amount: 0.276
+    unit: g
+    nrv: 14

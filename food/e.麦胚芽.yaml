@@ -2,44 +2,83 @@ name: 麦胚芽
 amount: 100
 unit: g
 element:
-  脂肪: 9.7
-  蛋白质: 27.9
-  能量KCal: 367
-  糖: 47
-  粗纤维: 2.1
-  镁: 0.336
-  钙: 0.072
-  磷: 1.118
-  钾: 0.827
-  锌: 0.01008
-  铁: 0.0094
-  锰: 0.01374
-  铜: 0.00074
-  钠: 0.003
-  维生素B1: 0.0021
-  维生素B2: 0.0006
-  维生素B6: 0.001
-  维生素E: 0.022
-  泛酸: 0.0008
-  叶酸: 0.0005
-nrv:
-  脂肪: 16.17
-  蛋白质: 46.5
-  能量KCal: 18.35
-  糖: 15.67
-  粗纤维: 8.4
-  镁: 112.0
-  钙: 9.0
-  磷: 159.71
-  钾: 41.35
-  锌: 67.2
-  铁: 62.67
-  锰: 458.0
-  铜: 49.33
-  钠: 0.15
-  维生素B1: 150.0
-  维生素B2: 42.86
-  维生素B6: 71.43
-  维生素E: 157.14
-  泛酸: 16.0
-  叶酸: 125.0
+  脂肪:
+    amount: 9.7
+    unit: g
+    nrv: 16.17
+  蛋白质:
+    amount: 27.9
+    unit: g
+    nrv: 46.5
+  能量:
+    amount: 367
+    unit: KCal
+    nrv: 18.35
+  糖:
+    amount: 47
+    unit: g
+    nrv: 15.67
+  粗纤维:
+    amount: 2.1
+    unit: g
+    nrv: 8.4
+  镁:
+    amount: 0.336
+    unit: g
+    nrv: 112
+  钙:
+    amount: 0.072
+    unit: g
+    nrv: 9
+  磷:
+    amount: 1.118
+    unit: g
+    nrv: 159.71
+  钾:
+    amount: 0.827
+    unit: g
+    nrv: 41.35
+  锌:
+    amount: 0.01008
+    unit: g
+    nrv: 67.2
+  铁:
+    amount: 0.0094
+    unit: g
+    nrv: 62.67
+  锰:
+    amount: 0.01374
+    unit: g
+    nrv: 458
+  铜:
+    amount: 0.00074
+    unit: g
+    nrv: 49.33
+  钠:
+    amount: 0.003
+    unit: g
+    nrv: 0.15
+  维生素B1:
+    amount: 0.0021
+    unit: g
+    nrv: 150
+  维生素B2:
+    amount: 0.0006
+    unit: g
+    nrv: 42.86
+  维生素B6:
+    amount: 0.001
+    unit: g
+    nrv: 71.43
+  维生素E:
+    amount: 0.022
+    unit: g
+    nrv: 157.14
+  泛酸:
+    amount: 0.0008
+    unit: g
+    nrv: 16
+  叶酸:
+    amount: 0.0005
+    unit: g
+    nrv: 125

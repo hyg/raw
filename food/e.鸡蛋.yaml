@@ -1,0 +1,76 @@
+name: 鸡蛋
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 10.5
+    unit: g
+    nrv: 17.5
+  蛋白质:
+    amount: 12.74
+    unit: g
+    nrv: 21.23
+  胆固醇:
+    amount: 0.585
+    unit: g
+    nrv: 195
+  碳水化合物:
+    amount: 3.1
+    unit: g
+    nrv: 1.03
+  维生素B1:
+    amount: 0.5
+    unit: g
+    nrv: 3.57
+  维生素B2:
+    amount: 0.11
+    unit: mg
+    nrv: 7.86
+  维生素B6:
+    amount: 0.03
+    unit: mg
+    nrv: 2.14
+  维生素E:
+    amount: 0.00498
+    unit: g
+    nrv: 35.57
+  叶酸:
+    amount: 70.7
+    unit: μg
+    nrv: 17.68
+  钙:
+    amount: 44
+    unit: mg
+    nrv: 5.5
+  磷:
+    amount: 182
+    unit: mg
+    nrv: 26
+  钾:
+    amount: 121
+    unit: mg
+    nrv: 6.05
+  锌:
+    amount: 0.38
+    unit: mg
+    nrv: 2.53
+  铁:
+    amount: 1
+    unit: mg
+    nrv: 6.67
+  镁:
+    amount: 11
+    unit: mg
+    nrv: 3.67
+  硒:
+    amount: 13.83
+    unit: μg
+    nrv: 27.66
+  钠:
+    amount: 125.7
+    unit: mg
+    nrv: 6.29
+  能量:
+    amount: 143
+    unit: KCal
+    nrv: 7.12

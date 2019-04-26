@@ -2,44 +2,83 @@ name: 黄豆
 amount: 100
 unit: g
 element:
-  脂肪: 16.0
-  蛋白质: 35.1
-  能量KJ: 1502
-  碳水化合物: 18.6
-  铁: 0.0082
-  钠: 0.0022
-  锌: 0.00334
-  磷: 0.465
-  铜: 0.00135
-  钾: 1.503
-  钙: 0.191
-  镁: 0.199
-  锰: 0.00226
-  硒: 0.00616
-  膳食纤维: 15.5
-  维生素E: 0.0189
-  胡萝卜素: 0.022
-  维生素B1: 0.0041
-  维生素B2: 0.0002
-  维生素B3: 0.0021
-nrv:
-  脂肪: 27.0
-  蛋白质: 59.0
-  能量KJ: 18.0
-  碳水化合物: 6.0
-  铁: 55.0
-  钠: 0.0
-  锌: 22.0
-  磷: 66.0
-  铜: 90.0
-  钾: 75.0
-  钙: 24.0
-  镁: 66.0
-  锰: 75.0
-  硒: 12.0
-  膳食纤维: 62.0
-  维生素E: 135.0
-  胡萝卜素: 28.0
-  维生素B1: 29.0
-  维生素B2: 14.0
-  维生素B3: 15.0
+  脂肪:
+    amount: 16
+    unit: g
+    nrv: 27
+  蛋白质:
+    amount: 35.1
+    unit: g
+    nrv: 59
+  能量:
+    amount: 1502
+    unit: KJ
+    nrv: 18
+  碳水化合物:
+    amount: 18.6
+    unit: g
+    nrv: 6
+  铁:
+    amount: 0.0082
+    unit: g
+    nrv: 55
+  钠:
+    amount: 0.0022
+    unit: g
+    nrv: 0
+  锌:
+    amount: 0.00334
+    unit: g
+    nrv: 22
+  磷:
+    amount: 0.465
+    unit: g
+    nrv: 66
+  铜:
+    amount: 0.00135
+    unit: g
+    nrv: 90
+  钾:
+    amount: 1.503
+    unit: g
+    nrv: 75
+  钙:
+    amount: 0.191
+    unit: g
+    nrv: 24
+  镁:
+    amount: 0.199
+    unit: g
+    nrv: 66
+  锰:
+    amount: 0.00226
+    unit: g
+    nrv: 75
+  硒:
+    amount: 0.00616
+    unit: g
+    nrv: 12
+  膳食纤维:
+    amount: 15.5
+    unit: g
+    nrv: 62
+  维生素E:
+    amount: 0.0189
+    unit: g
+    nrv: 135
+  胡萝卜素:
+    amount: 0.022
+    unit: g
+    nrv: 28
+  维生素B1:
+    amount: 0.0041
+    unit: g
+    nrv: 29
+  维生素B2:
+    amount: 0.0002
+    unit: g
+    nrv: 14
+  维生素B3:
+    amount: 0.0021
+    unit: g
+    nrv: 15

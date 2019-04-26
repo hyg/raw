@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+	<head>
+	  	<title>食物日志</title>
+	  	<meta charset="UTF-8"> 
+        <!--link rel="stylesheet" type="text/css" href="css/sidebar.css" /-->
+	  	<link rel="stylesheet" type="text/css" rel="stylesheet" href="https://gitcdn.link/repo/hyg/raw/master/web/css/sidebar.css" />
+		<link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous" />
+	</head>
+	<body>
+	<!--content begin-->
+		<div class="header" align="center">
+			<h2>食物日志</h2>
+			<hr>
+		</div>
+		<div >
+			<h4 align="center">成份表</h4>
+			<table class="pure-table pure-table-bordered" align="center" width="100%">
+				<thead><tr>
+					<th>名称</th><th>数量</th><th>单位</th><th>NRV(%)</th>
+				</tr></thead>
+				<tbody>
+				{{range .Item}}
+					<tr  align="center">
+						<td>{{.Name}}</td><td>{{.Amount}}</td><td>{{.Unit}}</td><td>{{.NRV}}</td>
+					</tr>
+				{{end}}
+				</tbody>
+			</table>
+		</div>
+		<div >
+			<h4 align="center">未算入成份表的食物</h4>
+			<table class="pure-table pure-table-bordered" align="center" width="100%">
+				<thead><tr>
+					<th>名称</th><th>数量</th><th>单位</th><th>时间</th>
+				</tr></thead>
+				<tbody>
+				{{range .Food}}
+					<tr  align="center">
+						<td>{{.Name}}</td><td>{{.Amount}}</td><td>{{.Unit}}</td><td>{{.Time}}</td>
+					</tr>
+				{{end}}
+				</tbody>
+			</table>
+		</div>
+	<!--content end-->
+		<div class="nav">
+			<div class="home">
+			  <span>RAW</span>
+			</div>
+			<div class="sidebar">
+				<ul>
+					<li onclick="window.location.href='/'">Home</li>
+					<li class="devider"></li>
+					<li onclick="window.location.href='/food'">食物日志</li>
+					<li class="devider"></li>
+					<li onclick="window.location.href='/health'">健康日志</li>
+					<li class="devider"></li>
+					<li onclick="window.location.href='/sleep'">睡眠日志</li>
+				</ul>
+			</div>
+		</div>
+	</body>
+</html>

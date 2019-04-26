@@ -2,14 +2,23 @@ name: 馒头
 amount: 100
 unit: g
 element:
-  脂肪: 1.0
-  蛋白质: 7.8
-  碳水化合物: 48.3
-  膳食纤维: 1.5
-  能量KCal: 233
-nrv:
-  脂肪: 1.67
-  蛋白质: 13.0
-  碳水化合物: 16.1
-  膳食纤维: 6.0
-  能量KCal: 11.65
+  脂肪:
+    amount: 1
+    unit: g
+    nrv: 1.67
+  蛋白质:
+    amount: 7.8
+    unit: g
+    nrv: 13
+  碳水化合物:
+    amount: 48.3
+    unit: g
+    nrv: 16.1
+  膳食纤维:
+    amount: 1.5
+    unit: g
+    nrv: 6
+  能量:
+    amount: 233
+    unit: KCal
+    nrv: 11.65

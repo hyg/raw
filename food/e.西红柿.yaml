@@ -2,46 +2,87 @@ name: 西红柿
 amount: 100
 unit: g
 element:
-  能量KJ: 26.6
-  碳水化合物: 3.5
-  脂肪: 0.2
-  蛋白质: 0.9
-  铁: 0.004
-  钠: 0.005
-  锌: 0.013
-  磷: 0.465
-  铜: 0.00006
-  钾: 0.163
-  钙: 0.010
-  镁: 0.009
-  锰: 0.00008
-  硒: 0.000015
-  膳食纤维: 0.5
-  胡萝卜素: 0.022
-  维生素B1: 0.003
-  维生素B2: 0.003
-  维生素B3: 0.006
-  维生素C: 0.019
-  维生素E: 0.00057
-nrv:
-  能量KJ: 1.0
-  碳水化合物: 1.0
-  脂肪: 0.0
-  蛋白质: 2.0
-  铁: 3.0
-  钠: 0.0
-  锌: 1.0
-  磷: 66.0
-  铜: 4.0
-  钾: 8.0
-  钙: 1.0
-  镁: 3.0
-  锰: 75.0
-  硒: 0.0
-  膳食纤维: 2.0
-  胡萝卜素: 28.0
-  维生素B1: 2.0
-  维生素B2: 2.0
-  维生素B3: 4.0
-  维生素C: 19.0
-  维生素E: 4.0
+  能量:
+    amount: 26.6
+    unit: KJ
+    nrv: 1
+  碳水化合物:
+    amount: 3.5
+    unit: g
+    nrv: 1
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0
+  蛋白质:
+    amount: 0.9
+    unit: g
+    nrv: 2
+  铁:
+    amount: 0.004
+    unit: g
+    nrv: 3
+  钠:
+    amount: 0.005
+    unit: g
+    nrv: 0
+  锌:
+    amount: 0.013
+    unit: g
+    nrv: 1
+  磷:
+    amount: 0.465
+    unit: g
+    nrv: 66
+  铜:
+    amount: 0.00006
+    unit: g
+    nrv: 4
+  钾:
+    amount: 0.163
+    unit: g
+    nrv: 8
+  钙:
+    amount: 0.01
+    unit: g
+    nrv: 1
+  镁:
+    amount: 0.009
+    unit: g
+    nrv: 3
+  锰:
+    amount: 0.00008
+    unit: g
+    nrv: 75
+  硒:
+    amount: 0.000015
+    unit: g
+    nrv: 0
+  膳食纤维:
+    amount: 0.5
+    unit: g
+    nrv: 2
+  胡萝卜素:
+    amount: 0.022
+    unit: g
+    nrv: 28
+  维生素B1:
+    amount: 0.003
+    unit: g
+    nrv: 2
+  维生素B2:
+    amount: 0.003
+    unit: g
+    nrv: 2
+  维生素B3:
+    amount: 0.006
+    unit: g
+    nrv: 4
+  维生素C:
+    amount: 0.019
+    unit: g
+    nrv: 19
+  维生素E:
+    amount: 0.00057
+    unit: g
+    nrv: 4

@@ -2,32 +2,59 @@ name: 海鸭蛋
 amount: 100
 unit: g
 element:
-  脂肪: 12.08
-  蛋白质: 12.74
-  卵磷脂: 3.9
-  胆固醇: 0.39
-  碳水化合物: 3.1
-  维生素E: 0.00498
-  钙: 0.048
-  磷: 0.226
-  锌: 0.00139
-  铁: 0.00527
-  镁: 0.0195
-  硒: 0.0000415
-  钠: 0.106
-  能量KCal: 180
-nrv:
-  脂肪: 20.13
-  蛋白质: 21.23
-  卵磷脂: 0
-  胆固醇: 130
-  碳水化合物: 1.03
-  维生素E: 35.57
-  钙: 6
-  磷: 32.29
-  锌: 9.27
-  铁: 35.13
-  镁: 6.5
-  硒: 83.2
-  钠: 5.3
-  能量KCal: 9
+  脂肪:
+    amount: 12.08
+    unit: g
+    nrv: 20.13
+  蛋白质:
+    amount: 12.74
+    unit: g
+    nrv: 21.23
+  卵磷脂:
+    amount: 3.9
+    unit: g
+    nrv: 0
+  胆固醇:
+    amount: 0.39
+    unit: g
+    nrv: 130
+  碳水化合物:
+    amount: 3.1
+    unit: g
+    nrv: 1.03
+  维生素E:
+    amount: 0.00498
+    unit: g
+    nrv: 35.57
+  钙:
+    amount: 0.048
+    unit: g
+    nrv: 6
+  磷:
+    amount: 0.226
+    unit: g
+    nrv: 32.29
+  锌:
+    amount: 0.00139
+    unit: g
+    nrv: 9.27
+  铁:
+    amount: 0.00527
+    unit: g
+    nrv: 35.13
+  镁:
+    amount: 0.0195
+    unit: g
+    nrv: 6.5
+  硒:
+    amount: 0.0000415
+    unit: g
+    nrv: 83.2
+  钠:
+    amount: 0.106
+    unit: g
+    nrv: 5.3
+  能量:
+    amount: 180
+    unit: KCal
+    nrv: 9

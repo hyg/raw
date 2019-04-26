@@ -2,30 +2,55 @@ name: 鸭肉
 amount: 100
 unit: g
 element:
-  脂肪: 19.7
-  蛋白质: 15.5
-  碳水化合物: 0.2
-  胆固醇: 0.094
-  能量KCal: 240
-  钙: 0.006
-  磷: 0.112
-  钾: 0.191
-  钠: 0.069
-  镁: 0.014
-  铁: 0.0022
-  锌: 0.00133
-  硒: 0.00001225
-nrv:
-  脂肪: 32.83
-  蛋白质: 25.83
-  碳水化合物: 0
-  胆固醇: 31.33
-  能量KCal: 12
-  钙: 7.5
-  磷: 16
-  钾: 9.55
-  钠: 3.45
-  镁: 4.67
-  铁: 14.67
-  锌: 8.87
-  硒: 24.5
+  脂肪:
+    amount: 19.7
+    unit: g
+    nrv: 32.83
+  蛋白质:
+    amount: 15.5
+    unit: g
+    nrv: 25.83
+  碳水化合物:
+    amount: 0.2
+    unit: g
+    nrv: 0
+  胆固醇:
+    amount: 0.094
+    unit: g
+    nrv: 31.33
+  能量:
+    amount: 240
+    unit: KCal
+    nrv: 12
+  钙:
+    amount: 0.006
+    unit: g
+    nrv: 7.5
+  磷:
+    amount: 0.112
+    unit: g
+    nrv: 16
+  钾:
+    amount: 0.191
+    unit: g
+    nrv: 9.55
+  钠:
+    amount: 0.069
+    unit: g
+    nrv: 3.45
+  镁:
+    amount: 0.014
+    unit: g
+    nrv: 4.67
+  铁:
+    amount: 0.0022
+    unit: g
+    nrv: 14.67
+  锌:
+    amount: 0.00133
+    unit: g
+    nrv: 8.87
+  硒:
+    amount: 0.00001225
+    unit: g
+    nrv: 24.5

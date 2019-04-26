@@ -2,16 +2,35 @@ name: 麦片
 amount: 100
 unit: g
 element:
-  脂肪: 6.0
-  蛋白质: 12.0
-  淀粉: 55.0
-  维生素B1: 0.0004
-  维生素B2: 0.00014
-  维生素E: 0.0066
-nrv:
-  脂肪: 10.0
-  蛋白质: 20.0
-  淀粉: 18.3
-  维生素B1: 28.6
-  维生素B2: 10.0
-  维生素E: 47.1
+  能量:
+    amount: 367
+    unit: KCal
+    nrv: 18
+  脂肪:
+    amount: 6
+    unit: g
+    nrv: 10
+  蛋白质:
+    amount: 12
+    unit: g
+    nrv: 20
+  淀粉:
+    amount: 55
+    unit: g
+    nrv: 18.3
+  维生素B1:
+    amount: 0.0004
+    unit: g
+    nrv: 28.6
+  维生素B2:
+    amount: 0.00014
+    unit: g
+    nrv: 10
+  维生素E:
+    amount: 0.0066
+    unit: g
+    nrv: 47.1
+  铁:
+    amount: 7
+    unit: 毫克
+    nrv: 47
