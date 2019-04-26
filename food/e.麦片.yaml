@@ -4,7 +4,7 @@ unit: g
 element:
   能量:
     amount: 367
-    unit: KCal
+    unit: kcal
     nrv: 18
   脂肪:
     amount: 6
@@ -19,16 +19,16 @@ element:
     unit: g
     nrv: 18.3
   维生素B1:
-    amount: 0.0004
-    unit: g
+    amount: 400
+    unit: μg
     nrv: 28.6
   维生素B2:
-    amount: 0.00014
-    unit: g
+    amount: 140
+    unit: μg
     nrv: 10
   维生素E:
-    amount: 0.0066
-    unit: g
+    amount: 6.6
+    unit: mg
     nrv: 47.1
   铁:
     amount: 7

@@ -20,5 +20,5 @@ element:
     nrv: 6
   能量:
     amount: 233
-    unit: KCal
+    unit: kcal
     nrv: 11.65

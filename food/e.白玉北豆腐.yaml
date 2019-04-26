@@ -15,10 +15,10 @@ element:
     unit: g
     nrv: 0
   能量:
-    amount: 298
-    unit: KJ
+    amount: 71.222
+    unit: kcal
     nrv: 4
   钠:
-    amount: 0.012
-    unit: g
+    amount: 12
+    unit: mg
     nrv: 1

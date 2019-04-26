@@ -11,42 +11,42 @@ element:
     unit: g
     nrv: 38.83
   胆固醇:
-    amount: 0.065
-    unit: g
+    amount: 65
+    unit: mg
     nrv: 21.67
   钙:
-    amount: 0.5
-    unit: g
+    amount: 500
+    unit: mg
     nrv: 62.5
   磷:
-    amount: 0.52
-    unit: g
+    amount: 520
+    unit: mg
     nrv: 74.29
   钾:
-    amount: 0.41
-    unit: g
+    amount: 410
+    unit: mg
     nrv: 20.5
   钠:
-    amount: 0.45
-    unit: g
+    amount: 450
+    unit: mg
     nrv: 22.5
   锌:
-    amount: 0.0022
-    unit: g
+    amount: 2.2
+    unit: mg
     nrv: 14.67
   铁:
-    amount: 0.0023
-    unit: g
+    amount: 2.3
+    unit: mg
     nrv: 15.33
   镁:
-    amount: 0.046
-    unit: g
+    amount: 46
+    unit: mg
     nrv: 15.33
   硒:
-    amount: 0.000049
-    unit: g
+    amount: 49
+    unit: μg
     nrv: 98
   能量:
     amount: 220
-    unit: KCal
+    unit: kcal
     nrv: 11

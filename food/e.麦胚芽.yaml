@@ -12,7 +12,7 @@ element:
     nrv: 46.5
   能量:
     amount: 367
-    unit: KCal
+    unit: kcal
     nrv: 18.35
   糖:
     amount: 47
@@ -23,62 +23,62 @@ element:
     unit: g
     nrv: 8.4
   镁:
-    amount: 0.336
-    unit: g
+    amount: 336
+    unit: mg
     nrv: 112
   钙:
-    amount: 0.072
-    unit: g
+    amount: 72
+    unit: mg
     nrv: 9
   磷:
     amount: 1.118
     unit: g
     nrv: 159.71
   钾:
-    amount: 0.827
-    unit: g
+    amount: 827
+    unit: mg
     nrv: 41.35
   锌:
-    amount: 0.01008
-    unit: g
+    amount: 10.08
+    unit: mg
     nrv: 67.2
   铁:
-    amount: 0.0094
-    unit: g
+    amount: 9.4
+    unit: mg
     nrv: 62.67
   锰:
-    amount: 0.01374
-    unit: g
+    amount: 13.74
+    unit: mg
     nrv: 458
   铜:
-    amount: 0.00074
-    unit: g
+    amount: 740
+    unit: μg
     nrv: 49.33
   钠:
-    amount: 0.003
-    unit: g
+    amount: 3
+    unit: mg
     nrv: 0.15
   维生素B1:
-    amount: 0.0021
-    unit: g
+    amount: 2.1
+    unit: mg
     nrv: 150
   维生素B2:
-    amount: 0.0006
-    unit: g
+    amount: 600
+    unit: μg
     nrv: 42.86
   维生素B6:
-    amount: 0.001
-    unit: g
+    amount: 1
+    unit: mg
     nrv: 71.43
   维生素E:
-    amount: 0.022
-    unit: g
+    amount: 22
+    unit: mg
     nrv: 157.14
   泛酸:
-    amount: 0.0008
-    unit: g
+    amount: 800
+    unit: μg
     nrv: 16
   叶酸:
-    amount: 0.0005
-    unit: g
+    amount: 500
+    unit: μg
     nrv: 125

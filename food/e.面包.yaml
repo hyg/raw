@@ -11,14 +11,14 @@ element:
     unit: g
     nrv: 15
   能量:
-    amount: 1422
-    unit: KJ
+    amount: 339.858
+    unit: kcal
     nrv: 17
   碳水化合物:
     amount: 55
     unit: g
     nrv: 18
   钠:
-    amount: 0.276
-    unit: g
+    amount: 276
+    unit: mg
     nrv: 14

@@ -32,6 +32,8 @@ try{
 	console.log("yaml read error！"+ list[i] +e);
 }
 
+E_fix();
+
 var arguments = process.argv.splice(2);
 if(arguments.length > 0){
     fooddaylog(arguments[0]);
@@ -216,6 +218,58 @@ function datestr(){
     var dateStr = year + "" + month + "" + day;
     
     return dateStr ;
+}
+
+function E_fix(){
+    for(var name in emap){
+        let fooddata = emap[name];
+        let newfood = new Object();
+        let newelement = new Object();
+        for(var e in fooddata.element){
+            let item = new Object();
+            item.amount = parseFloat(fooddata.element[e].amount);
+            item.unit = fooddata.element[e].unit.toLowerCase();
+            item.nrv = parseFloat(fooddata.element[e].nrv);
+
+            if(item.unit == "mg"){
+                item.unit = "g";
+                item.amount = item.amount/1000;
+            }
+            if(item.unit == "μg"){
+                item.unit = "g";
+                item.amount = item.amount/1000000;
+            }
+            if(item.unit == "kj"){
+                item.unit = "kcal";
+                item.amount = item.amount*0.239;
+            }
+            
+            if((item.unit == "g") && (item.amount < 1)){
+                if(item.amount < 0.001){
+                    item.unit = "μg";
+                    item.amount = item.amount * 1000000 ;
+                }else{
+                    item.unit = "mg";
+                    item.amount = item.amount * 1000 ;
+                }
+            }
+            newelement[e] = item ;
+        }
+        newfood.name = fooddata.name;
+        newfood.amount = fooddata.amount;
+        newfood.unit = fooddata.unit.toLowerCase();
+        if(newfood.unit == "mg"){
+            newfood.unit = "g";
+            newfood.amount = newfood.amount/1000;
+        }
+        if(newfood.unit == "μg"){
+            newfood.unit = "g";
+            newfood.amount = newfood.amount/1000000;
+        }
+        newfood.element = newelement;
+        
+        fs.writeFileSync("food/e."+name+".yaml",yaml.safeDump(newfood).replace(/\n/g,"\r\n"));
+    }
 }
 
 // merge the old file before 20190426 to new format

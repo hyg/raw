@@ -11,28 +11,28 @@ element:
     unit: g
     nrv: 21.23
   胆固醇:
-    amount: 0.585
-    unit: g
+    amount: 585
+    unit: mg
     nrv: 195
   碳水化合物:
     amount: 3.1
     unit: g
     nrv: 1.03
   维生素B1:
-    amount: 0.5
-    unit: g
+    amount: 500
+    unit: mg
     nrv: 3.57
   维生素B2:
-    amount: 0.11
-    unit: mg
+    amount: 110
+    unit: μg
     nrv: 7.86
   维生素B6:
-    amount: 0.03
-    unit: mg
+    amount: 29.999999999999996
+    unit: μg
     nrv: 2.14
   维生素E:
-    amount: 0.00498
-    unit: g
+    amount: 4.98
+    unit: mg
     nrv: 35.57
   叶酸:
     amount: 70.7
@@ -51,8 +51,8 @@ element:
     unit: mg
     nrv: 6.05
   锌:
-    amount: 0.38
-    unit: mg
+    amount: 380
+    unit: μg
     nrv: 2.53
   铁:
     amount: 1
@@ -72,5 +72,5 @@ element:
     nrv: 6.29
   能量:
     amount: 143
-    unit: KCal
+    unit: kcal
     nrv: 7.12
