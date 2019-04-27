@@ -1,0 +1,24 @@
+name: 白玉生鲜面
+amount: 100
+unit: g
+element:
+  能量:
+    amount: 1052
+    unit: kj
+    nrv: 13
+  蛋白质:
+    amount: 7.4
+    unit: g
+    nrv: 12
+  脂肪:
+    amount: 2.2
+    unit: g
+    nrv: 4.0
+  碳水化合物:
+    amount: 49.7
+    unit: g
+    nrv: 17
+  钠:
+    amount: 482
+    unit: mg
+    nrv: 24

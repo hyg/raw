@@ -1,0 +1,24 @@
+name: 谷言板烧猪肉
+amount: 200
+unit: g
+element:
+  脂肪:
+    amount: 10.2
+    unit: g
+    nrv: 17.0
+  蛋白质:
+    amount: 3.4
+    unit: g
+    nrv: 6
+  碳水化合物:
+    amount: 9.0
+    unit: g
+    nrv: 3
+  钠:
+    amount: 145
+    unit: mg
+    nrv: 7
+  能量:
+    amount: 588
+    unit: kj
+    nrv: 7
