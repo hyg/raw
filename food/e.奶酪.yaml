@@ -1,0 +1,77 @@
+name: 奶酪
+amount: 100
+unit: g
+element:
+  能量:
+    amount: 328
+    unit: kcal
+    nrv: 16
+  碳水化合物:
+    amount: 3.5
+    unit: g
+    nrv: 1
+  脂肪:
+    amount: 23.5
+    unit: g
+    nrv: 39
+  蛋白质:
+    amount: 25.7
+    unit: g
+    nrv: 43
+  维生素A:
+    amount: 152
+    unit: μg
+    nrv: 19
+  维生素B1:
+    amount: 60
+    unit: μg
+    nrv: 4
+  维生素B2:
+    amount: 910
+    unit: μg
+    nrv: 65
+  维生素E:
+    amount: 600
+    unit: mg
+    nrv: 4
+  钾:
+    amount: 75
+    unit: mg
+    nrv: 4
+  钙:
+    amount: 799
+    unit: mg
+    nrv: 100
+  钠:
+    amount: 584.6
+    unit: mg
+    nrv: 29
+  铁:
+    amount: 2.4
+    unit: mg
+    nrv: 16
+  镁:
+    amount: 57
+    unit: mg
+    nrv: 19
+  锌:
+    amount: 6.97
+    unit: μg
+    nrv: 46
+  锰:
+    amount: 130
+    unit: μg
+    nrv: 4
+    
+  磷:
+    amount: 326
+    unit: mg
+    nrv: 47
+  硒:
+    amount: 1.5
+    unit: μg
+    nrv: 3
+  铜:
+    amount: 130
+    unit: μg
+    nrv: 9

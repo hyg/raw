@@ -1,0 +1,72 @@
+name: 牛腱
+amount: 100
+unit: g
+element:
+  能量:
+    amount: 98
+    unit: kcal
+    nrv: 4.9
+  脂肪:
+    amount: 1
+    unit: g
+    nrv: 1.6
+  蛋白质:
+    amount: 20.1
+    unit: g
+    nrv: 33.5
+  碳水化合物:
+    amount: 2.2
+    unit: g
+    nrv: 0.7
+  胆固醇:
+    amount: 54
+    unit: mg
+    nrv: 18
+  维生素A:
+    amount: 3
+    unit: μg
+    nrv: 0.375
+  维生素E:
+    amount: 780
+    unit: μg
+    nrv: 5.57
+  钙:
+    amount: 5
+    unit: mg
+    nrv: 0.625
+  锌:
+    amount: 3.93
+    unit: mg
+    nrv: 26.2
+  锰:
+    amount: 40
+    unit: μg
+    nrv: 1.33
+  磷:
+    amount: 195
+    unit: mg
+    nrv: 27.86
+  硒:
+    amount: 3.82
+    unit: μg
+    nrv: 7.64
+  镁:
+    amount: 20
+    unit: mg
+    nrv: 6.67
+  铁:
+    amount: 4.2
+    unit: mg
+    nrv: 28
+  铜:
+    amount: 0.1
+    unit: mg
+    nrv: 6.67
+  钾:
+    amount: 182
+    unit: mg
+    nrv: 9.1
+  钠:
+    amount: 85.3
+    unit: mg
+    nrv: 4.26

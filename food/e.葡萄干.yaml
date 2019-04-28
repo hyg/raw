@@ -1,0 +1,16 @@
+name: 葡萄干
+amount: 100
+unit: g
+element:
+  能量:
+    amount: 320
+    unit: kcal
+    nrv: 16
+  碳水化合物:
+    amount: 76.2
+    unit: g
+    nrv: 25
+  蛋白质:
+    amount: 2.6
+    unit: g
+    nrv: 4

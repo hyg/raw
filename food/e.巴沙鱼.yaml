@@ -1,0 +1,25 @@
+name: 巴沙鱼
+amount: 100
+unit: g
+element:
+  能量:
+    amount: 80
+    unit: kcal
+    nrv: 3.3
+  脂肪:
+    amount: 1.8
+    unit: g
+    nrv: 6
+  蛋白质:
+    amount: 15.7
+    unit: g
+    nrv: 24.15
+  锌:
+    amount: 200
+    unit: μg
+    nrv: 1.4
+  铜:
+    amount: 8
+    unit: μg
+    nrv: 0.56
+

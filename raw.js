@@ -57,7 +57,7 @@ function fooddaylog(date){
         if(item.unit == "l") amount += item.amount*1000 ;
     }
     nrv = amount /20 ;
-    console.log(name+"\t\t"+amount+"\t"+unit+"\t"+nrv);
+    etable["水"] = {"amount":amount,"unit":"ml","nrv":nrv};
     
     var food = d.food;
     for (var id in food){
@@ -97,8 +97,11 @@ function fooddaylog(date){
             //newfood.push(item);
         }
     }
-    
-    for(var name in etable){
+
+    let keysSorted = Object.keys(etable).sort(function(a,b){return etable[a].nrv-etable[b].nrv})
+
+    for(var i in keysSorted){
+        name = keysSorted[i];
         if((etable[name].unit == "g") && (etable[name].amount < 1)){
             if(etable[name].amount < 0.001){
                 etable[name].unit = "μg";
