@@ -1,0 +1,24 @@
+name: 谷言藤椒鱼块
+amount: 100
+unit: g
+element:
+  能量:
+    amount: 418
+    unit: kj
+    nrv: 5
+  蛋白质:
+    amount: 4.4
+    unit: g
+    nrv: 7
+  脂肪:
+    amount: 7.8
+    unit: g
+    nrv: 13
+  碳水化合物:
+    amount: 3.2
+    unit: g
+    nrv: 1
+  钠:
+    amount: 670
+    unit: mg
+    nrv: 34

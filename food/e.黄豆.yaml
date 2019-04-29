@@ -67,8 +67,8 @@ element:
     unit: mg
     nrv: 135
   胡萝卜素:
-    amount: 22
-    unit: mg
+    amount: 220
+    unit: μg
     nrv: 28
   维生素B1:
     amount: 4.1000000000000005

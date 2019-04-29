@@ -24,7 +24,7 @@ element:
     nrv: 2
   胡萝卜素:
     amount: 550
-    unit: mg
+    unit: μg
     nrv: 69
   视黄醇当量:
     amount: 487
