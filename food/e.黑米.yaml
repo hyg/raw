@@ -1,0 +1,76 @@
+name: 黑米
+amount: 100
+unit: g
+element:
+  能量:
+    amount: 333
+    unit: kcal
+    nrv: 17
+  脂肪:
+    amount: 2.5
+    unit: g
+    nrv: 4
+  蛋白质:
+    amount: 9.4
+    unit: g
+    nrv: 16
+  碳水化合物:
+    amount: 68.3
+    unit: g
+    nrv: 23
+  膳食纤维:
+    amount: 3.9
+    unit: g
+    nrv: 16
+  维生素B1:
+    amount: 330
+    unit: μg
+    nrv: 24
+  维生素B2:
+    amount: 130
+    unit: μg
+    nrv: 9
+  维生素B3:
+    amount: 7.9
+    unit: mg
+    nrv: 56
+  维生素E:
+    amount: 220
+    unit: μg
+    nrv: 2
+  钾:
+    amount: 256
+    unit: mg
+    nrv: 13
+  钙:
+    amount: 12
+    unit: mg
+    nrv: 2
+  铁:
+    amount: 1.6
+    unit: mg
+    nrv: 11
+  镁:
+    amount: 147
+    unit: mg
+    nrv: 49
+  锌:
+    amount: 3.8
+    unit: mg
+    nrv: 25
+  锰:
+    amount: 1.72
+    unit: mg
+    nrv: 57
+  磷:
+    amount: 356
+    unit: mg
+    nrv: 51
+  硒:
+    amount: 3.2
+    unit: μg
+    nrv: 6
+  铜:
+    amount: 90
+    unit: μg
+    nrv: 6
