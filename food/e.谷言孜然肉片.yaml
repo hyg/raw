@@ -1,0 +1,24 @@
+name: 谷言孜然肉片
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 8.3
+    unit: g
+    nrv: 14
+  蛋白质:
+    amount: 10.4
+    unit: g
+    nrv: 7
+  碳水化合物:
+    amount: 5
+    unit: g
+    nrv: 2
+  钠:
+    amount: 626
+    unit: mg
+    nrv: 31
+  能量:
+    amount: 569
+    unit: kj
+    nrv: 7
