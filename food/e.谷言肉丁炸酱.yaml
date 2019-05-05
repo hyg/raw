@@ -1,0 +1,24 @@
+name: 谷言肉丁炸酱
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 19.7
+    unit: g
+    nrv: 33
+  蛋白质:
+    amount: 5.0
+    unit: g
+    nrv: 8
+  碳水化合物:
+    amount: 5.3
+    unit: g
+    nrv: 2
+  钠:
+    amount: 1049
+    unit: mg
+    nrv: 52
+  能量:
+    amount: 904
+    unit: kj
+    nrv: 11
