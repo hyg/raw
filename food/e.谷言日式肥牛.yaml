@@ -1,0 +1,24 @@
+name: 谷言日式肥牛
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 5.5
+    unit: g
+    nrv: 9
+  蛋白质:
+    amount: 16.8
+    unit: g
+    nrv: 28
+  碳水化合物:
+    amount: 6.3
+    unit: g
+    nrv: 2
+  钠:
+    amount: 243
+    unit: mg
+    nrv: 12
+  能量:
+    amount: 596
+    unit: kj
+    nrv: 7

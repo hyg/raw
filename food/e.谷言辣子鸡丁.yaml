@@ -1,0 +1,24 @@
+name: 谷言辣子鸡丁
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 7
+    unit: g
+    nrv: 12
+  蛋白质:
+    amount: 11.5
+    unit: g
+    nrv: 19
+  碳水化合物:
+    amount: 4.6
+    unit: g
+    nrv: 2
+  钠:
+    amount: 521
+    unit: mg
+    nrv: 26
+  能量:
+    amount: 533
+    unit: kj
+    nrv: 6
