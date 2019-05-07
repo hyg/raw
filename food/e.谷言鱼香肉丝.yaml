@@ -1,0 +1,24 @@
+name: 谷言鱼香肉丝
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 7
+    unit: g
+    nrv: 12
+  蛋白质:
+    amount: 4.9
+    unit: g
+    nrv: 8
+  碳水化合物:
+    amount: 12.6
+    unit: g
+    nrv: 4
+  钠:
+    amount: 25
+    unit: mg
+    nrv: 1
+  能量:
+    amount: 588
+    unit: kj
+    nrv: 7
