@@ -1,0 +1,29 @@
+date: 20190507
+sleep: 
+  time: 20190507094200
+  weight: 59.1
+wake:
+  time: 20190507151500
+  weight: 58.3
+exercise: 
+- time: 20190507230000
+  item:  
+  - type: 42.2
+    amount: 20
+    unit: turn
+  - type: 侧平板支撑
+    amount: 40
+    unit: turn
+  - type: fw04
+    amount: 20
+    unit: turn 
+  - type: pilates.p095++
+    amount: 5
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 97
+
+comment: |+
+  ..    

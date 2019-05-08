@@ -1,0 +1,83 @@
+date: 20190507
+food:
+- time: 20190507155000
+  name: 土豆荞麦面包
+  amount: 25
+  unit: g
+- time: 20190507155000
+  name: 黑麦全麦面包
+  amount: 50
+  unit: g
+- time: 20190507155000
+  name: 菠菜
+  amount: 120
+  unit: g
+- time: 20190507155000
+  name: 小白菜
+  amount: 120
+  unit: g
+- time: 20190507155000
+  name: 鸡蛋
+  amount: 100
+  unit: g
+- time: 20190507155000
+  name: 番茄酱
+  amount: 30
+  unit: g
+- time: 2019050200500
+  name: 白玉生鲜面
+  amount: 80
+  unit: g
+- time: 2019050200500
+  name: 谷言毛氏红烧肉
+  amount: 200
+  unit: g
+- time: 2019050233000
+  name: 面包
+  amount: 50
+  unit: g
+- time: 20190508014000
+  name: 面包
+  amount: 50
+  unit: g
+water:
+- time: 20190507151700
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190507173500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190507204400
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20190507214600
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20190507233500
+  name: 菊花茶
+  amount: 250
+  unit: ml
+med:
+- time: 20190507151700
+  name: 低聚果糖
+  amount: 5
+  unit: g
+- time: 20190507233500
+  name: 阿拉伯糖
+  amount: 2
+  unit: g
+- time: 20190507080000
+  name: 菊粉
+  amount: 5
+  unit: g
+- time: 20190507084000
+  name: centrum
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 

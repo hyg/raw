@@ -1,0 +1,24 @@
+name: 谷言毛氏红烧肉
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 16.5
+    unit: g
+    nrv: 28
+  蛋白质:
+    amount: 5
+    unit: g
+    nrv: 8
+  碳水化合物:
+    amount: 4.8
+    unit: g
+    nrv: 2
+  钠:
+    amount: 237
+    unit: mg
+    nrv: 12
+  能量:
+    amount: 777
+    unit: kj
+    nrv: 9
