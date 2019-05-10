@@ -1,0 +1,15 @@
+date: 20190510
+sleep: 
+  time: 20190509232400
+  weight: 59.1
+wake:
+  time: 20190510065000
+  weight: 58.0
+
+stool: 
+- time: 20190510143500
+  amount:   2   #	1:多;		2:适中;		3:少;
+  type:     1   # 	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  ..    
