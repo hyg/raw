@@ -1,0 +1,24 @@
+name: 谷言红烧鸡块
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 9.8
+    unit: g
+    nrv: 16
+  蛋白质:
+    amount: 3.4
+    unit: g
+    nrv: 6
+  碳水化合物:
+    amount: 6.7
+    unit: g
+    nrv: 2
+  钠:
+    amount: 286
+    unit: mg
+    nrv: 14
+  能量:
+    amount: 534
+    unit: kj
+    nrv: 6
