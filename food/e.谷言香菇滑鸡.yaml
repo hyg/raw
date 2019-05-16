@@ -1,0 +1,24 @@
+name: 谷言香菇滑鸡
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 15.4
+    unit: g
+    nrv: 26
+  蛋白质:
+    amount: 5.7
+    unit: g
+    nrv: 10
+  碳水化合物:
+    amount: 5.5
+    unit: g
+    nrv: 2
+  钠:
+    amount: 307
+    unit: mg
+    nrv: 15
+  能量:
+    amount: 760
+    unit: kj
+    nrv: 9

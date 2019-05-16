@@ -38,6 +38,7 @@ if(arguments.length > 0){
 }else {
     fooddaylog(datestr());
 }
+makeRfile();
 
 // 
 function fooddaylog(date){
@@ -137,6 +138,7 @@ function makeRfile(){
     var sleep = "sleep <- c(";
     var wake = "wake <- c(";
     var sleeplong = "sleeplong <- c(";
+    var wmax,wmin ;
 
     var cnt = 0;
     var bFirst = true ;
@@ -174,6 +176,10 @@ function makeRfile(){
                     sleep = sleep + sleeptime;
                     wake  = wake + waketime;
                     sleeplong  = sleeplong + sleeplongtime;
+
+                    wmax = hmap[day].sleep.weight + 0.5;
+                    wmin = hmap[day].wake.weight - 0.5;
+
                     bFirst = false;
                 } else {
                     d = d+',\"'+day+ "\"";
@@ -183,6 +189,9 @@ function makeRfile(){
                     sleep = sleep +","+ sleeptime;
                     wake  = wake +","+ waketime;
                     sleeplong  = sleeplong +","+ sleeplongtime;
+
+                    if(wmax < hmap[day].sleep.weight + 0.5 ) wmax = hmap[day].sleep.weight + 0.5;
+                    if(wmin > hmap[day].wake.weight - 0.5) wmin = hmap[day].wake.weight - 0.5;
                 }
             }
         }
@@ -198,7 +207,7 @@ function makeRfile(){
     wake = wake + ")";
     sleeplong = sleeplong + ")";
 
-    var wstr = d+"\r\n"+w1+"\r\n"+w2+"\r\nplot(c(1:"+cnt+"),weight1,type=\"b\",pch=15,lty=1,col=\"red\",xaxt=\"n\",xlab = \"date\")\r\nlines(c(1:"+cnt+"),weight2,type=\"b\",pch=17,lty=2,col=\"blue\")\r\nlegend(\"topleft\",inset=.05,title=\"体重曲线\",c(\"睡前\",\"醒后\"),lty=c(1,2),pch=c(15,17),col=c(\"red\",\"blue\"))\r\naxis(1, c(1:"+cnt+"),date)\r\n";
+    var wstr = d+"\r\n"+w1+"\r\n"+w2+"\r\nplot(c(1:"+cnt+"),weight1,type=\"b\",pch=15,lty=1,col=\"red\",xaxt=\"n\",xlab = \"date\",ylim=range("+wmin+":"+wmax+"))\r\nlines(c(1:"+cnt+"),weight2,type=\"b\",pch=17,lty=2,col=\"blue\")\r\nlegend(\"topleft\",inset=.05,title=\"体重曲线\",c(\"睡前\",\"醒后\"),lty=c(1,2),pch=c(15,17),col=c(\"red\",\"blue\"))\r\naxis(1, c(1:"+cnt+"),date)\r\n";
     fs.writeFile("health/weight.R",wstr);
     console.log("\n\n体重曲线在health/weight.R");
 

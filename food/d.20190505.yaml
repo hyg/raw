@@ -41,7 +41,7 @@ food:
   amount: 200
   unit: g
 - time: 20190506033000
-  name: 黑麦全麦面包
+  name: 黑全麦面包
   amount: 25
   unit: g
 water:
