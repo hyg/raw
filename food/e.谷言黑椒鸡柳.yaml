@@ -1,0 +1,24 @@
+name: 谷言黑椒鸡柳
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 7.6
+    unit: g
+    nrv: 13
+  蛋白质:
+    amount: 5.1
+    unit: g
+    nrv: 9
+  碳水化合物:
+    amount: 5.1
+    unit: g
+    nrv: 2
+  钠:
+    amount: 233
+    unit: mg
+    nrv: 12
+  能量:
+    amount: 455
+    unit: kj
+    nrv: 5
