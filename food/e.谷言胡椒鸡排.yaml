@@ -1,0 +1,24 @@
+name: 谷言胡椒鸡排
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 9.6
+    unit: g
+    nrv: 16
+  蛋白质:
+    amount: 18.5
+    unit: g
+    nrv: 31
+  碳水化合物:
+    amount: 1.4
+    unit: g
+    nrv: 0
+  钠:
+    amount: 585
+    unit: mg
+    nrv: 29
+  能量:
+    amount: 695
+    unit: kj
+    nrv: 8
