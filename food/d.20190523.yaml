@@ -21,7 +21,7 @@ food:
   amount: 80
   unit: g
 - time: 20190523051500
-  name: ；芦笋
+  name: 芦笋
   amount: 80
   unit: g
 - time: 20190523053600
@@ -53,7 +53,7 @@ food:
   amount: 80
   unit: g
 - time: 20190523120000
-  name: ；芦笋
+  name: 芦笋
   amount: 80
   unit: g
 - time: 20190523204000
@@ -70,7 +70,7 @@ food:
   unit: g
 - time: 20190524023000
   name: 小米蕉
-  amount: 500
+  amount: 150
   unit: g
 water:
 - time: 20190523044500
