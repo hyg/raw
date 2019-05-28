@@ -34,7 +34,11 @@ water:
   name: 开水
   amount: 250
   unit: ml
-- time: 20190527084400
+- time: 20190527081000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190527081000
   name: 红茶
   amount: 250
   unit: ml
