@@ -1,63 +1,120 @@
-date: 20190527
+date: 20190528
 food:
-- time: 20190527071000
+- time: 20190528071000
   name: 豇豆
   amount: 200
   unit: g
-- time: 20190527071000
+- time: 20190528071000
   name: 芦笋
   amount: 80
   unit: g
-- time: 20190527071000
+- time: 20190528071000
   name: 胡萝卜
   amount: 80
   unit: g
-- time: 20190527071000
+- time: 20190528071000
   name: 猪肉
   amount: 120
   unit: g
-- time: 20190527071000
+- time: 20190528071000
   name: 土豆荞麦面包
   amount: 25
   unit: g
-- time: 20190527071000
+- time: 20190528071000
   name: 面包
   amount: 25
   unit: g
-- time: 20190527073300
+- time: 20190528073300
   name: 酸奶
   amount: 200
   unit: g
-
+- time: 20190528124000
+  name: 土豆荞麦面包
+  amount: 50
+  unit: g
+- time: 20190528124000
+  name: 面包
+  amount: 50
+  unit: g
+- time: 20190528174500
+  name: 夏橙
+  amount: 120
+  unit: g
+- time: 20190528204500
+  name: 土豆荞麦面包
+  amount: 25
+  unit: g
+- time: 20190528204500
+  name: 面包
+  amount: 25
+  unit: g
+- time: 20190528224500
+  name: 土豆荞麦面包
+  amount: 25
+  unit: g
+- time: 20190528224500
+  name: 面包
+  amount: 25
+  unit: g
+- time: 20190528224500
+  name: 牛腱
+  amount: 120
+  unit: g
 water:
-- time: 20190527060000
+- time: 20190528060000
   name: 开水
   amount: 250
   unit: ml
-- time: 20190527081000
+- time: 20190528081000
   name: 红茶
   amount: 250
   unit: ml
-- time: 20190527081000
+- time: 20190528081000
   name: 红茶
   amount: 250
   unit: ml
-
-
+- time: 20190528130900
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190528150900
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190528192500
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190528205000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190528223000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190528224500
+  name: 汤水
+  amount: 250
+  unit: ml
+- time: 20190529001000
+  name: 红茶
+  amount: 150
+  unit: ml
 med:
-- time: 20190527060000
+- time: 20190528060000
   name: 低聚果糖
   amount: 2
   unit: g
-- time: 20190527060000
+- time: 20190528060000
   name: 菊粉
   amount: 5
   unit: g
-- time: 20190527235500
+- time: 20190528235500
   name: 阿拉伯糖
   amount: 2
   unit: g
-- time: 20190528011100
+- time: 20190529001000
   name: centrum
   amount: 1
   unit: 片
