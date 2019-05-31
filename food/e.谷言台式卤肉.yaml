@@ -1,0 +1,24 @@
+name: 谷言台式卤肉
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 14.0
+    unit: g
+    nrv: 23
+  蛋白质:
+    amount: 8.5
+    unit: g
+    nrv: 14
+  碳水化合物:
+    amount: 1.1
+    unit: g
+    nrv: 0
+  钠:
+    amount: 251
+    unit: mg
+    nrv: 13
+  能量:
+    amount: 681
+    unit: kj
+    nrv: 8
