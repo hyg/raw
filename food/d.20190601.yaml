@@ -1,0 +1,78 @@
+date: 20190601
+food:
+- time: 20190601080500
+  name: 牛腱
+  amount: 100
+  unit: g
+- time: 20190601080500
+  name: 胡萝卜
+  amount: 130
+  unit: g
+- time: 20190601080500
+  name: 芦笋
+  amount: 80
+  unit: g
+- time: 20190601080500
+  name: 娃娃菜
+  amount: 200
+  unit: g
+- time: 20190601082000
+  name: 夏橙
+  amount: 150
+  unit: g
+- time: 20190601124000
+  name: 煎饼
+  amount: 200
+  unit: g
+- time: 20190601141000
+  name: 牛肉火烧
+  amount: 100
+  unit: g
+- time: 20190601192000
+  name: 大米
+  amount: 90
+  unit: g
+- time: 20190601192000
+  name: 菜心
+  amount: 300
+  unit: g
+- time: 20190601192000
+  name: 鸡肉
+  amount: 90
+  unit: g
+- time: 20190601192000
+  name: 虫草菇
+  amount: 90
+  unit: g
+
+water:
+- time: 20190601072700
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190601082000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190601150000
+  name: 矿泉水
+  amount: 350
+  unit: ml
+- time: 20190601172000
+  name: 开水
+  amount: 350
+  unit: ml
+- time: 20190601203000
+  name: 开水
+  amount: 350
+  unit: ml
+med:
+- time: 20190601082000
+  name: centrum
+  amount: 1
+  unit: 片
+
+
+comment: |+
+  ...
+ 
