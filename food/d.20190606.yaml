@@ -1,0 +1,93 @@
+date: 20190606
+food:
+- time: 20190606104500
+  name: 夏橙
+  amount: 150
+  unit: g
+- time: 20190606120500
+  name: 粥米
+  amount: 90
+  unit: g
+- time: 20190606120500
+  name: 谷言香菇滑鸡
+  amount: 200
+  unit: g
+- time: 20190606122000
+  name: 奶粉
+  amount: 50
+  unit: g
+- time: 20190606185000
+  name: 黄杏
+  amount: 120
+  unit: g
+- time: 20190606210000
+  name: 糙米
+  amount: 30
+  unit: g
+- time: 20190606210000
+  name: 红糙米
+  amount: 30
+  unit: g
+- time: 20190606210000
+  name: 黑米
+  amount: 30
+  unit: g
+- time: 20190606210000
+  name: 菠菜
+  amount: 150
+  unit: g
+- time: 20190606210000
+  name: 芥兰
+  amount: 120
+  unit: g
+- time: 20190606210000
+  name: 猪肉
+  amount: 120
+  unit: g
+water:
+- time: 20190606104000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190606122000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190606130100
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190606145000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190606171000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190606213000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190607010000
+  name: 红茶
+  amount: 250
+  unit: ml
+med:
+- time: 20190606104000
+  name: 低聚果糖
+  amount: 2
+  unit: g
+- time: 20190606122000
+  name: 阿拉伯糖
+  amount: 2
+  unit: g
+- time: 20190607010000
+  name: centrum
+  amount: 1
+  unit: 片
+
+
+comment: |+
+  ...
+ 
