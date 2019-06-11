@@ -1,0 +1,103 @@
+date: 20190611
+food:
+- time: 20190611112500
+  name: 夏橙
+  amount: 90
+  unit: g
+- time: 20190611114500
+  name: 土豆荞麦面包
+  amount: 50
+  unit: g
+- time: 20190611114500
+  name: 面包
+  amount: 50
+  unit: g
+- time: 20190611115500
+  name: 酸奶
+  amount: 200
+  unit: g
+- time: 20190611163000
+  name: 粥米
+  amount: 90
+  unit: g
+- time: 20190611163000
+  name: 谷言香菇滑鸡
+  amount: 200
+  unit: g
+- time: 20190611204500
+  name: 土豆荞麦面包
+  amount: 50
+  unit: g
+- time: 20190611204500
+  name: 面包
+  amount: 25
+  unit: g
+- time: 20190611211500
+  name: 奶粉
+  amount: 50
+  unit: g
+- time: 20190612023300
+  name: 牛肉
+  amount: 100
+  unit: g
+- time: 20190612023300
+  name: 黄豆
+  amount: 40
+  unit: g
+
+water:
+- time: 20190611112500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190611130500
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190611141800
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190611172000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190611183400
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190611223000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190612015000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190612030000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190612041400
+  name: 绿茶
+  amount: 200
+  unit: ml
+med:
+- time: 20190611112500
+  name: 低聚果糖
+  amount: 2
+  unit: g
+- time: 20190611124800
+  name: 菊粉
+  amount: 2
+  unit: g
+
+- time: 20190611223000
+  name: centrum
+  amount: 1
+  unit: 片
+
+
+comment: |+
+  ...
+ 
