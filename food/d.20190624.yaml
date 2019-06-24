@@ -1,0 +1,105 @@
+date: 20190624
+food:
+- time: 20190624052300
+  name: 面包
+  amount: 31
+  unit: g
+- time: 20190624052300
+  name: 土豆荞麦面包
+  amount: 62
+  unit: g
+- time: 20190624052300
+  name: 酸奶
+  amount: 200
+  unit: g
+- time: 20190624085000
+  name: 大米
+  amount: 100
+  unit: g
+- time: 20190624085000
+  name: 牛肉
+  amount: 100
+  unit: g
+- time: 20190624085000
+  name: 鸡肉
+  amount: 100
+  unit: g
+- time: 20190624085000
+  name: 土豆
+  amount: 50
+  unit: g
+- time: 20190624085000
+  name: 胡萝卜
+  amount: 50
+  unit: g
+- time: 20190624183500
+  name: 蒸饺
+  amount: 100
+  unit: g
+- time: 20190624183500
+  name: 火腿
+  amount: 120
+  unit: g
+- time: 20190624183500
+  name: 奶酪
+  amount: 50
+  unit: g
+- time: 20190624183500
+  name: 蔬菜沙拉
+  amount: 150
+  unit: g
+- time: 20190624191000
+  name: 沙红桃
+  amount: 350
+  unit: g
+
+water:
+- time: 20190624050500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190624053500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190624091000
+  name: 汤水
+  amount: 250
+  unit: ml
+- time: 20190624140000
+  name: 绿茶
+  amount: 350
+  unit: ml
+- time: 20190624170000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20190624190500
+  name: 矿泉水
+  amount: 200
+  unit: ml
+- time: 20190624190500
+  name: 山楂胡萝卜汁
+  amount: 250
+  unit: ml
+- time: 20190624214000
+  name: 椰子水
+  amount: 330
+  unit: ml
+- time: 20190624223000
+  name: 矿泉水
+  amount: 200
+  unit: ml
+- time: 20190624230000
+  name: 矿泉水
+  amount: 200
+  unit: ml
+med:
+
+- time: 20190624232000
+  name: centrum
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
