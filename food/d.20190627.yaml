@@ -1,0 +1,92 @@
+date: 20190627
+food:
+- time: 20190627042000
+  name: 沙红桃
+  amount: 350
+  unit: g
+- time: 20190627053000
+  name: 兰州拉面
+  amount: 150
+  unit: g
+- time: 20190627053000
+  name: 可生食鸡蛋
+  amount: 100
+  unit: g
+- time: 20190627074000
+  name: 芹菜
+  amount: 50
+  unit: g
+- time: 20190627074000
+  name: 白菜虾米包子
+  amount: 150
+  unit: g
+- time: 20190627074000
+  name: 小米
+  amount: 30
+  unit: g
+- time: 20190627161000
+  name: 面包
+  amount: 62
+  unit: g
+- time: 20190627161000
+  name: 土豆荞麦面包
+  amount: 31
+  unit: g
+- time: 20190628001000
+  name: 绿豆
+  amount: 100
+  unit: g
+water:
+- time: 20190627051000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190627054000
+  name: 汤水
+  amount: 350
+  unit: ml
+- time: 20190627061000
+  name: 咖啡
+  amount: 280
+  unit: ml
+- time: 20190627075000
+  name: 粥水
+  amount: 350
+  unit: ml
+- time: 20190627091000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190627093000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190627132000
+  name: 红茶
+  amount: 350
+  unit: ml
+- time: 20190627163000
+  name: 纯净水
+  amount: 555
+  unit: ml
+- time: 20190627223000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190628003000
+  name: 粥水
+  amount: 500
+  unit: ml
+- time: 20190628010900
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+
+- time: 20190627093000
+  name: centrum
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
