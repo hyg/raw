@@ -1,0 +1,73 @@
+date: 20190628
+food:
+- time: 20190628081000
+  name: 夏橙
+  amount: 90
+  unit: g
+- time: 20190628092500
+  name: 面包
+  amount: 62
+  unit: g
+- time: 20190628092500
+  name: 快菜
+  amount: 150
+  unit: g
+- time: 20190628092500
+  name: 西兰花
+  amount: 150
+  unit: g
+- time: 20190628092500
+  name: 胡萝卜
+  amount: 60
+  unit: g
+- time: 20190628092500
+  name: 内酯豆腐
+  amount: 150
+  unit: g
+- time: 20190628110500
+  name: 沙红桃
+  amount: 250
+  unit: g
+- time: 20190628204000
+  name: 粥米
+  amount: 72
+  unit: g
+- time: 20190628204000
+  name: 麦片
+  amount: 20
+  unit: g
+- time: 20190628204000
+  name: 谷言毛氏红烧肉1号
+  amount: 200
+  unit: g
+water:
+- time: 20190628080500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190628102800
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190628132800
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190628153000
+  name: 开水
+  amount: 250
+  unit: ml
+ - time: 2019062821900
+  name: 开水
+  amount: 250
+  unit: ml
+
+med:
+- time: 20190628080500
+  name: 低聚果糖
+  amount: 2
+  unit: g
+
+comment: |+
+  ...
+ 
