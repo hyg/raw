@@ -43,6 +43,11 @@ makeRfile();
 // 
 function fooddaylog(date){
     //console.log(fmap[datestr()]);
+    //console.log(date);
+    //console.log(fmap[date]);
+    if(fmap[date] === undefined)
+        return; // have not record of today or yestoday yet
+
     d = fmap[date] ;
     let etable = new Object();
     var name,amount,unit,nav ;
@@ -52,15 +57,19 @@ function fooddaylog(date){
     amount = 0 ;
     unit = "ml";
     nrv = 0 ;
+
     for (var id in d.water){
         let item = d.water[id];
         if(item.unit == "ml") amount += item.amount ;
         if(item.unit == "l") amount += item.amount*1000 ;
     }
+
     nrv = amount /20 ;
     etable["水"] = {"amount":amount,"unit":"ml","nrv":nrv};
     
+
     var food = d.food;
+
     for (var id in food){
         if(food[id].name in emap){
             let fooddata = emap[food[id].name] ;
@@ -127,7 +136,6 @@ function fooddaylog(date){
             console.log(food[id].name+"\t"+food[id].amount+"\t"+food[id].unit+"\t"+food[id].time);
         }
     }
-    
 }
 
 // make then R files
@@ -166,7 +174,7 @@ function makeRfile(){
             
             //console.log("\n================="+day+"=================\nfood:\t"+fmap[day].comment+"\nhealth:\t"+hmap[day].comment);
             //if (day > "20150407") {
-            if (day > "20190101") {
+            if (day > "20190331") {
                 cnt = cnt + 1;
                 if (bFirst) {
                     d = d+ "\"" + day + "\"";
