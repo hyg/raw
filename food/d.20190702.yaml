@@ -1,0 +1,78 @@
+date: 20190702
+food:
+- time: 20190702061000
+  name: 酸奶
+  amount: 100
+  unit: g
+- time: 20190702061000
+  name: 面包
+  amount: 93
+  unit: g
+- time: 20190702120000
+  name: 面包
+  amount: 62
+  unit: g
+- time: 20190702120000
+  name: 小白菜
+  amount: 120
+  unit: g
+- time: 20190702120000
+  name: 西兰花
+  amount: 150
+  unit: g
+- time: 20190702120000
+  name: 胡萝卜
+  amount: 60
+  unit: g
+- time: 20190702120000
+  name: 卤水豆腐
+  amount: 200
+  unit: g
+- time: 20190702171500
+  name: 小西红柿
+  amount: 150
+  unit: g
+- time: 20190702171500
+  name: 沙红桃
+  amount: 250
+  unit: g
+
+water:
+- time: 20190702054000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190702063000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190702111000
+  name: 纯净水
+  amount: 555
+  unit: ml
+- time: 20190702115000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190702124000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190702162000
+  name: 纯净水
+  amount: 555
+  unit: ml
+- time: 20190702170000
+  name: 开水
+  amount: 250
+  unit: ml
+
+med:
+- time: 20190702054000
+  name: 低聚果糖
+  amount: 5
+  unit: g
+
+comment: |+
+  ...
+ 
