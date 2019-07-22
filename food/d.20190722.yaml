@@ -1,42 +1,42 @@
-date: 20190721
+date: 20190722
 food:
-- time: 20190721105000
+- time: 20190722105000
   name: 杏梅
   amount: 150
   unit: g
-- time: 20190721122000
+- time: 20190722122000
   name: 粥米
   amount: 90
   unit: g
-- time: 20190721122000
+- time: 20190722122000
   name: 快菜
   amount: 150
   unit: g
-- time: 20190721122000
+- time: 20190722122000
   name: 油菜
   amount: 120
   unit: g
-- time: 20190721122000
+- time: 20190722122000
   name: 卤水豆腐
   amount: 200
   unit: g
-- time: 20190721122000
+- time: 20190722122000
   name: 鳕鱼
   amount: 90
   unit: g
-- time: 20190721173200
+- time: 20190722173200
   name: 酸奶
   amount: 170
   unit: g
-- time: 20190721173200
+- time: 20190722173200
   name: 西红柿
   amount: 150
   unit: g
-- time: 20190721203000
+- time: 20190722203000
   name: 面包
   amount: 93
   unit: g
-- time: 20190721203000
+- time: 20190722203000
   name: 奶粉
   amount: 50
   unit: g
@@ -58,43 +58,43 @@ food:
   unit: g
 
 water:
-- time: 20190721104000
+- time: 20190722104000
   name: 开水
   amount: 250
   unit: ml
-- time: 20190721113400
+- time: 20190722113400
   name: 红茶
   amount: 250
   unit: ml
-- time: 20190721133300
+- time: 20190722133300
   name: 红茶
   amount: 250
   unit: ml
-- time: 20190721144200
+- time: 20190722144200
   name: 红茶
   amount: 250
   unit: ml
-- time: 20190721151000
+- time: 20190722151000
   name: 红茶
   amount: 250
   unit: ml
-- time: 20190721162000
+- time: 20190722162000
   name: 红茶
   amount: 250
   unit: ml
-- time: 20190721183900
+- time: 20190722183900
   name: 绿茶
   amount: 250
   unit: ml
-- time: 20190721203000
+- time: 20190722203000
   name: 开水
   amount: 200
   unit: ml
-- time: 20190721212000
+- time: 20190722212000
   name: 绿茶
   amount: 250
   unit: ml
-- time: 20190721220000
+- time: 20190722220000
   name: 绿茶
   amount: 250
   unit: ml
@@ -111,11 +111,11 @@ water:
   amount: 250
   unit: ml
 med:
-- time: 20190721104000
+- time: 20190722104000
   name: 低聚果糖
   amount: 2
   unit: g
-- time: 20190721173200
+- time: 20190722173200
   name: 菊粉
   amount: 5
   unit: g
