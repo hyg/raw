@@ -1,0 +1,85 @@
+date: 20190729
+food:
+- time: 20190729173500
+  name: 绿豆
+  amount: 90
+  unit: g
+- time: 20190729173500
+  name: 蜜薯
+  amount: 174
+  unit: g
+- time: 20190729222500
+  name: 紫菜
+  amount: 10
+  unit: g
+- time: 20190729222500
+  name: 水饺
+  amount: 200
+  unit: g
+- time: 20190730050500
+  name: 粥米
+  amount: 90
+  unit: g
+- time: 20190730050500
+  name: 牛腱
+  amount: 90
+  unit: g
+- time: 20190730050500
+  name: 黄豆
+  amount: 30
+  unit: g
+water:
+
+- time: 20190729170500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190729173500
+  name: 粥水
+  amount: 500
+  unit: ml
+- time: 20190729183300
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190729200000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190729211100
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190729223300
+  name: 汤水
+  amount: 500
+  unit: ml
+- time: 20190729235700
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190730012400
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190730025700
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20190730053300
+  name: 红茶
+  amount: 250
+  unit: ml
+med:
+- time: 20190729170500
+  name: 低聚果糖
+  amount: 3
+  unit: g
+
+- time: 20190730053300
+  name: centrum
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
