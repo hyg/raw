@@ -1,0 +1,67 @@
+date: 20190802
+food:
+- time: 20190802190000
+  name: 面包
+  amount: 31
+  unit: g
+- time: 20190802190000
+  name: 肉包子
+  amount: 120
+  unit: g
+- time: 20190802190000
+  name: 谷言台式卤肉
+  amount: 200
+  unit: g
+- time: 20190803022000
+  name: 酸奶
+  amount: 175
+  unit: g
+- time: 20190803022000
+  name: 西红柿
+  amount: 250
+  unit: g
+water:
+- time: 20190802181000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190802193800
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190802212600
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190802223900
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190802235800
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190803024000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190803030000
+  name: 绿茶
+  amount: 250
+  unit: ml
+med:
+- time: 20190802181000
+  name: 低聚果糖
+  amount: 3
+  unit: g
+- time: 20190803022000
+  name: 菊粉
+  amount: 5
+  unit: g
+- time: 20190803030000
+  name: centrum
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
