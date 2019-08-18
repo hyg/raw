@@ -1,0 +1,60 @@
+date: 20190818
+food:
+- time: 20190818093500
+  name: 黄杏
+  amount: 120
+  unit: g
+- time: 20190818101500
+  name: 菜心
+  amount: 250
+  unit: g
+- time: 20190818101500
+  name: 红薯叶
+  amount: 250
+  unit: g
+- time: 20190818101500
+  name: 卤水豆腐
+  amount: 400
+  unit: g
+- time: 20190818101500
+  name: 牛腱
+  amount: 100
+  unit: g
+- time: 20190818101500
+  name: 黄豆
+  amount: 30
+  unit: g
+- time: 20190818162500
+  name: 肉包子
+  amount: 120
+  unit: g
+water:
+- time: 20190818040500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190818112000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190818120700
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190818134000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20190818204700
+  name: 绿茶
+  amount: 250
+  unit: ml
+med:
+- time: 20190818040500
+  name: 低聚果糖
+  amount: 5
+  unit: g
+
+comment: |+
+  ...
+ 
