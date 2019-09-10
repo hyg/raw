@@ -50,7 +50,7 @@ food:
   unit: g
 - time: 20190909034500
   name: 梨
-  amount: 80
+  amount: 300
   unit: g
 water:
 - time: 20190908132500
