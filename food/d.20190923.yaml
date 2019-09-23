@@ -1,0 +1,92 @@
+date: 20190923
+food:
+- time: 20190923064000
+  name: 娃娃菜
+  amount: 150
+  unit: g
+- time: 20190923064000
+  name: 胡萝卜
+  amount: 150
+  unit: g
+- time: 20190923064000
+  name: 内酯豆腐
+  amount: 380
+  unit: g
+- time: 20190923065000
+  name: 奶粉
+  amount: 100
+  unit: g
+- time: 20190923153000
+  name: 蜜桔
+  amount: 80
+  unit: g
+- time: 20190923163400
+  name: 梨
+  amount: 200
+  unit: g
+- time: 20190923182000
+  name: 魔芋燕麦粉丝
+  amount: 350
+  unit: g
+- time: 20190923182000
+  name: 牛肉
+  amount: 150
+  unit: g
+
+water:
+- time: 20190923062000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190923074000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190923123000
+  name: 红茶
+  amount: 350
+  unit: ml
+- time: 20190923152000
+  name: 豆浆
+  amount: 250
+  unit: ml
+- time: 20190923174000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190923185000
+  name: 咖啡
+  amount: 250
+  unit: ml
+- time: 20190923175000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190923205000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190923205500
+  name: 无糖果茶
+  amount: 250
+  unit: ml
+- time: 20190923225600
+  name: 牛奶
+  amount: 200
+  unit: ml
+- time: 20190923233000
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20190923185500
+  name: 菊粉
+  amount: 6
+  unit: g
+- time: 20190923003300
+  name: centrum
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
