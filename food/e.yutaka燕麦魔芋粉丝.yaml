@@ -1,0 +1,16 @@
+name: yutaka燕麦魔芋粉丝
+amount: 100
+unit: g
+element:
+  碳水化合物:
+    amount: 0.9
+    unit: mg
+    nrv: 0
+  能量:
+    amount: 39
+    unit: kj
+    nrv: 0
+  钠:
+    amount: 10
+    unit: mg
+    nrv: 1

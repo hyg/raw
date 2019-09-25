@@ -1,0 +1,16 @@
+name: yutaka海藻魔芋粉丝
+amount: 100
+unit: g
+element:
+  碳水化合物:
+    amount: 0.9
+    unit: mg
+    nrv: 0
+  能量:
+    amount: 41
+    unit: kj
+    nrv: 0
+  钠:
+    amount: 12
+    unit: mg
+    nrv: 1
