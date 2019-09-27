@@ -1,0 +1,68 @@
+date: 20190927
+food:
+- time: 20190927043300
+  name: 梨
+  amount: 230
+  unit: g
+- time: 20190927050000
+  name: 蒸饺
+  amount: 350
+  unit: g
+- time: 20190927102000
+  name: 大米
+  amount: 100
+  unit: g
+- time: 20190927102000
+  name: 排骨
+  amount: 80
+  unit: g
+- time: 20190927102000
+  name: 胡萝卜
+  amount: 50
+  unit: g
+- time: 20190927200000
+  name: 馒头
+  amount: 150
+  unit: g
+- time: 20190927202200
+  name: 奶粉
+  amount: 50
+  unit: g
+water:
+- time: 20190927043000
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20190927052000
+  name: 牛奶
+  amount: 250
+  unit: ml
+- time: 20190927053500
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20190927064800
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20190927132000
+  name: 开水
+  amount: 300
+  unit: ml
+- time: 20190927160000
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20190927205900
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20190927213300
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+
+comment: |+
+  ...
+ 
