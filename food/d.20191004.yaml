@@ -1,0 +1,23 @@
+date: 20191004
+food:
+- time: 20191004192500
+  name: 汉堡包
+  amount: 250
+  unit: g
+- time: 20191004192500
+  name: 薯条
+  amount: 150
+  unit: g
+water:
+- time: 20191004180500
+  name: 开水
+  amount: 100
+  unit: ml
+- time: 20191004203000
+  name: 绿茶
+  amount: 250
+  unit: ml
+
+comment: |+
+  ...
+ 
