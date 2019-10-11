@@ -36,10 +36,9 @@ food:
   name: 奶粉
   amount: 50
   unit: g
-
 - time: 20190929051000
   name: 梨
-  amount:100
+  amount: 100
   unit: g
 water:
 - time: 20190929164000

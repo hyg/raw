@@ -1,0 +1,28 @@
+name: 伍氏鱼香肉丝
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 1.7
+    unit: g
+    nrv: 3
+  蛋白质:
+    amount: 6.9
+    unit: g
+    nrv: 12
+  碳水化合物:
+    amount: 10.5
+    unit: g
+    nrv: 4
+  钠:
+    amount: 205
+    unit: mg
+    nrv: 10
+  能量:
+    amount: 306
+    unit: kj
+    nrv: 4
+  膳食纤维:
+    amount: 5.5
+    unit: g
+    nrv: 22
