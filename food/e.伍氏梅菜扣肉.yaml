@@ -1,0 +1,28 @@
+name: 伍氏梅菜扣肉
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 10.1
+    unit: g
+    nrv: 17
+  蛋白质:
+    amount: 3.7
+    unit: g
+    nrv: 6
+  碳水化合物:
+    amount: 2.1
+    unit: g
+    nrv: 1
+  钠:
+    amount: 29
+    unit: mg
+    nrv: 1
+  能量:
+    amount: 474
+    unit: kj
+    nrv: 6
+  膳食纤维:
+    amount: 0.9
+    unit: g
+    nrv: 4
