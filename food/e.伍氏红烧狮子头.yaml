@@ -1,0 +1,28 @@
+name: 伍氏红烧狮子头
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 10.1
+    unit: g
+    nrv: 17
+  蛋白质:
+    amount: 4.8
+    unit: g
+    nrv: 8
+  碳水化合物:
+    amount: 7.8
+    unit: g
+    nrv: 3
+  钠:
+    amount: 542
+    unit: mg
+    nrv: 27
+  能量:
+    amount: 1380
+    unit: kj
+    nrv: 16
+  膳食纤维:
+    amount: 1.4
+    unit: g
+    nrv: 6
