@@ -1,0 +1,28 @@
+name: 伍氏欧式乡村牛肉炒饭
+amount: 100
+unit: g
+element:
+  能量:
+    amount: 432
+    unit: kj
+    nrv: 6
+  蛋白质:
+    amount: 5.4
+    unit: g
+    nrv: 9
+  脂肪:
+    amount: 1.1
+    unit: g
+    nrv: 2
+  碳水化合物:
+    amount: 17.7
+    unit: g
+    nrv: 6
+  膳食纤维:
+    amount: 0.8
+    unit: g
+    nrv: 3
+  钠:
+    amount: 15
+    unit: mg
+    nrv: 1
