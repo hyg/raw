@@ -1,0 +1,83 @@
+date: 20191016
+food:
+- time: 20191016202000
+  name: 杂粮
+  amount: 70
+  unit: g
+- time: 20191016202000
+  name: 大米
+  amount: 20
+  unit: g
+- time: 20191016202000
+  name: 盖菜
+  amount: 120
+  unit: g
+- time: 20191016202000
+  name: 菜心
+  amount: 120
+  unit: g
+- time: 20191016202000
+  name: 鸡肉
+  amount: 100
+  unit: g
+- time: 20191017005600
+  name: 土豆荞麦馒头
+  amount: 100
+  unit: g
+- time: 20191017005600
+  name: 鱼肉
+  amount: 180
+  unit: g
+- time: 20191017021000
+  name: 柿子
+  amount: 350
+  unit: g
+- time: 20191017033000
+  name: 酸奶
+  amount: 152
+  unit: g
+water:
+- time: 20191016192500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20191016203000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191016213500
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191016224200
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191016231800
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191016235200
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191017014100
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191017023100
+  name: 绿茶
+  amount: 250
+  unit: ml
+med:
+- time: 20191017033000
+  name: 阿拉伯糖
+  amount: 2.5
+  unit: g
+- time: 20191017023100
+  name: centrum
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
