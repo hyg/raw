@@ -1,0 +1,28 @@
+name: 伍氏桑巴烤肉
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 3.1
+    unit: g
+    nrv: 5
+  蛋白质:
+    amount: 9.6
+    unit: g
+    nrv: 16
+  碳水化合物:
+    amount: 4.1
+    unit: g
+    nrv: 1
+  钠:
+    amount: 29
+    unit: mg
+    nrv: 1
+  能量:
+    amount: 349
+    unit: kj
+    nrv: 4
+  膳食纤维:
+    amount: 0.0
+    unit: g
+    nrv: 0
