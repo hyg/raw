@@ -1,0 +1,28 @@
+name: 伍氏秘制卤肉
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 19.6
+    unit: g
+    nrv: 33
+  蛋白质:
+    amount: 8.9
+    unit: g
+    nrv: 15
+  碳水化合物:
+    amount: 6.9
+    unit: g
+    nrv: 2
+  钠:
+    amount: 204
+    unit: mg
+    nrv: 10
+  能量:
+    amount: 993
+    unit: kj
+    nrv: 12
+  膳食纤维:
+    amount: 0.0
+    unit: g
+    nrv: 0
