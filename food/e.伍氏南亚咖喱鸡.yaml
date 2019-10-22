@@ -1,28 +1,28 @@
-name: 伍氏南亚咖喱鸡
+name: 伍氏叉烧肉
 amount: 100
 unit: g
 element:
   能量:
-    amount: 409
+    amount: 1731
     unit: kj
-    nrv: 5
+    nrv: 21
   蛋白质:
-    amount: 9.0
+    amount: 6.2
     unit: g
-    nrv: 15
+    nrv: 10
   脂肪:
-    amount: 5.2
+    amount: 39.3
     unit: g
-    nrv: 9
+    nrv: 66
   碳水化合物:
-    amount: 3.8
+    amount: 5.5
     unit: g
-    nrv: 1
+    nrv: 2
   膳食纤维:
-    amount: 0.7
+    amount: 0.0
     unit: g
-    nrv: 3
+    nrv: 0
   钠:
-    amount: 27
+    amount: 53
     unit: mg
-    nrv: 1
+    nrv: 3
