@@ -1,0 +1,104 @@
+date: 20191024
+food:
+- time: 20191024043500
+  name: 猕猴桃
+  amount: 150
+  unit: g
+- time: 20191024055000
+  name: 娃娃菜
+  amount: 105
+  unit: g
+- time: 20191024055000
+  name: 胡萝卜
+  amount: 174
+  unit: g
+- time: 20191024055000
+  name: 良食记刀削面
+  amount: 37.7
+  unit: g
+- time: 20191024055000
+  name: 卤水豆腐
+  amount: 181
+  unit: g
+- time: 20191024055000
+  name: 牛腱
+  amount: 100
+  unit: g
+- time: 20191024055000
+  name: 黄豆
+  amount: 20
+  unit: g
+- time: 20191024104000
+  name: 秋月梨
+  amount: 300
+  unit: g
+- time: 20191024114800
+  name: 杂粮
+  amount: 70
+  unit: g
+- time: 20191024114800
+  name: 大米
+  amount: 20
+  unit: g
+- time: 20191024114800
+  name: 快菜
+  amount: 120
+  unit: g
+- time: 20191024114800
+  name: 菠菜
+  amount: 150
+  unit: g
+- time: 20191024114800
+  name: 巴沙鱼肉
+  amount: 120
+  unit: g
+- time: 20191024191000
+  name: 牛腱
+  amount: 100
+  unit: g
+- time: 20191024191000
+  name: 洋葱
+  amount: 120
+  unit: g
+- time: 20191024191000
+  name: 面包
+  amount: 125
+  unit: g
+
+water:
+- time: 20191024043000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20191024064600
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191024073900
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191024082900
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191024095100
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191024121400
+  name: 绿茶
+  amount: 250
+  unit: ml
+med:
+- time: 20191024191000
+  name: 阿拉伯糖
+  amount: 1.8
+  unit: g
+- time: 20191024195500
+  name: kirkland daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
