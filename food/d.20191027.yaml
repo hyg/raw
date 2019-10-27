@@ -1,0 +1,79 @@
+date: 20191027
+food:
+- time: 20191027043500
+  name: 猕猴桃
+  amount: 140
+  unit: g
+- time: 20191027051500
+  name: 面包
+  amount: 62
+  unit: g
+- time: 20191027052300
+  name: 奶粉
+  amount: 52
+  unit: g
+- time: 20191027052300
+  name: 纯可可粉
+  amount: 2.1
+  unit: g
+- time: 20191027100200
+  name: 大米
+  amount: 100
+  unit: g
+- time: 20191027100200
+  name: 鸡蛋
+  amount: 50
+  unit: g
+- time: 20191027100200
+  name: 谷言日式咖喱鸡丁
+  amount: 220
+  unit: g
+- time: 20191027130000
+  name: 奶粉
+  amount: 50
+  unit: g
+- time: 20191027160000
+  name: 面包
+  amount: 125
+  unit: g
+- time: 20191027201000
+  name: 猕猴桃
+  amount: 250
+  unit: g
+water:
+- time: 20191027043000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20191027055900
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191027073200
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191027090400
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191027105400
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191027121200
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191027144200
+  name: 绿茶
+  amount: 250
+  unit: ml
+med:
+ - time: 20191027221400
+  name: kirkland daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
