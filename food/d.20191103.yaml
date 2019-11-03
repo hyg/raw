@@ -8,10 +8,6 @@ food:
   name: 面包
   amount: 62
   unit: g
-- time: 20191103063000
-  name: 鸡蛋
-  amount: 50
-  unit: g
 - time: 20191103063700
   name: 奶粉
   amount: 50
@@ -20,22 +16,85 @@ food:
   name: 纯可可粉
   amount: 3.6
   unit: g
+- time: 20191103101700
+  name: 娃娃菜
+  amount: 120
+  unit: g
+- time: 20191103101700
+  name: 胡萝卜
+  amount: 150
+  unit: g
+- time: 20191103101700
+  name: 卤水豆腐
+  amount: 200
+  unit: g
+- time: 20191103101700
+  name: 鸡蛋
+  amount: 50
+  unit: g
+- time: 20191103115000
+  name: 柿子
+  amount: 300
+  unit: g
+- time: 20191103150500
+  name: 大米
+  amount: 100
+  unit: g
+- time: 20191103150500
+  name: 谷言鱼香肉丝
+  amount: 200
+  unit: g
+- time: 20191103190000
+  name: 红薯
+  amount: 750
+  unit: g
+- time: 20191103220000
+  name: 橙
+  amount: 350
+  unit: g
 water:
 - time: 201911030558000
   name: 柠檬蜂蜜水
   amount: 250
   unit: ml
-- time: 20191103073000
+- time: 20191103073500
   name: 绿茶
   amount: 250
   unit: ml
-
+- time: 20191103080900
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191103094400
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191103113400
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191103124000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191103155800
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191103175300
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191103201600
+  name: 绿茶
+  amount: 250
+  unit: ml
 med:
 - time: 20191103071300
   name: 阿拉伯糖
   amount: 4.9
   unit: g
-- time: 20191103195500
+- time: 20191103201600
   name: kirkland daily multi
   amount: 1
   unit: 片
