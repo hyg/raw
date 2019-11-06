@@ -1,0 +1,91 @@
+date: 20191106
+food:
+- time: 20191106064000
+  name: 橙
+  amount: 350
+  unit: g
+- time: 20191106065500
+  name: 面包
+  amount: 62
+  unit: g
+- time: 20191106123500
+  name: 鸡蛋
+  amount: 50
+  unit: g
+- time: 20191106124500
+  name: 杂粮
+  amount: 70
+  unit: g
+- time: 20191106124500
+  name: 大米
+  amount: 20
+  unit: g
+- time: 20191106124500
+  name: 小白菜
+  amount: 150
+  unit: g
+- time: 20191106124500
+  name: 娃娃菜
+  amount: 150
+  unit: g
+- time: 20191106124500
+  name: 鸡胸肉
+  amount: 100
+  unit: g
+- time: 20191106183000
+  name: 奶粉
+  amount: 53
+  unit: g
+- time: 20191106214500
+  name: 杂粮馒头
+  amount: 50
+  unit: g
+- time: 20191106214500
+  name: 馒头
+  amount: 50
+  unit: g
+- time: 20191107015500
+  name: 柿子
+  amount: 400
+  unit: g
+water:
+- time: 20191106063500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20191106072800
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191106114700
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191106132500
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191106142200
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191106170000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191106222500
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20191107011500
+  name: 绿茶
+  amount: 250
+  unit: ml
+med:
+- time: 20191107011500
+  name: kirkland daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
