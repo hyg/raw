@@ -1,0 +1,87 @@
+date: 20191113
+food:
+- time: 20191113134000
+  name: 猕猴桃
+  amount: 150
+  unit: g
+- time: 20191113145000
+  name: 娃娃菜
+  amount: 120
+  unit: g
+- time: 20191113145000
+  name: 胡萝卜
+  amount: 150
+  unit: g
+- time: 20191113145000
+  name: 卤水豆腐
+  amount: 200
+  unit: g
+- time: 20191113145000
+  name: 鸡肉
+  amount: 100
+  unit: g
+- time: 20191113204000
+  name: 面包
+  amount: 62
+  unit: g
+- time: 20191113204000
+  name: 羊奶粉
+  amount: 25
+  unit: g
+- time: 20191113204000
+  name: 纯可可粉
+  amount: 2
+  unit: g
+- time: 20191113231500
+  name: 柿子
+  amount: 200
+  unit: g
+- time: 20191114010500
+  name: 大米
+  amount: 90
+  unit: g
+- time: 20191114010500
+  name: 谷言酱香牛肉
+  amount: 200
+  unit: g
+water:
+- time: 20191113134200
+  name: 蜂蜜柠檬水
+  amount: 250
+  unit: ml
+- time: 20191113142100
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20191113153500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20191113165200
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20191113182100
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20191113200200
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20191113220900
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20191113204000
+  name: 阿拉伯糖
+  amount: 2.5
+  unit: g
+- time: 20191113045800
+  name: kirkland daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
