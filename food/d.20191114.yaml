@@ -1,0 +1,104 @@
+date: 20191114
+food:
+- time: 20191114124000
+  name: 猕猴桃
+  amount: 150
+  unit: g
+- time: 20191114131500
+  name: 面包
+  amount: 125
+  unit: g
+- time: 20191114131500
+  name: 羊奶粉
+  amount: 25
+  unit: g
+- time: 20191114180000
+  name: 大米
+  amount: 90
+  unit: g
+- time: 20191114180000
+  name: 鸡蛋
+  amount: 100
+  unit: g
+- time: 20191114180000
+  name: 谷言鱼香茄子
+  amount: 120
+  unit: g
+- time: 20191114190000
+  name: 柿子
+  amount: 200
+  unit: g
+- time: 20191114230500
+  name: 娃娃菜
+  amount: 150
+  unit: g
+- time: 20191114230500
+  name: 胡萝卜
+  amount: 150
+  unit: g
+- time: 20191114230500
+  name: 卤水豆腐
+  amount: 200
+  unit: g
+- time: 20191114230500
+  name: 巴沙鱼肉
+  amount: 150
+  unit: g
+- time: 20191115050000
+  name: 面包
+  amount: 62
+  unit: g
+- time: 20191115050000
+  name: 羊奶粉
+  amount: 25
+  unit: g
+- time: 20191115050000
+  name: 纯可可粉
+  amount: 1.8
+  unit: g
+
+water:
+- time: 2019111412450
+  name: 蜂蜜柠檬水
+  amount: 250
+  unit: ml
+- time: 20191114143000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20191114153200
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20191114184000
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20191114201000
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20191114211500
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20191114232000
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20191115044000
+  name: 六堡茶
+  amount: 250
+  unit: ml
+med:
+- time: 20191114204000
+  name: 阿拉伯糖
+  amount: 2.5
+  unit: g
+- time: 20191115044000
+  name: kirkland daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
