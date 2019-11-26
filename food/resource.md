@@ -17,7 +17,6 @@
 #### 钙
 
 1. 豆腐：
-   * https://hystnc.taobao.com
    * https://shop107686840.taobao.com
    * https://shop118787577.taobao.com
 2. 奶制品：
@@ -31,72 +30,60 @@
 
 1. 猪肉
    * https://laojuantou.taobao.com
-   * https://xiaoliugunongchang.taobao.com
-   * http://xiaotuanshan.taobao.com
    * 中粮安至选
-2. 牛肉：
-   * https://hystnc.taobao.com
+1. 牛肉：
    * 中粮安至选
-3. 鸭肉：https://pengdashipin.tmall.com
-4. 兔肉：https://pengdashipin.tmall.com
-5. 鸡蛋：https://xdxfnc.tmall.com
+1. 兔肉：https://pengdashipin.tmall.com
+1. 鸡蛋：https://xdxfnc.tmall.com
 
 #### 抗氧化
 
 1. 胡萝卜：https://mnrj365.taobao.com
 2. 麦胚芽：https://fuzhiyuansp.tmall.com/category-1153328603.htm
-3. 番茄酱：http://item.taobao.com/item.htm?id=5030927605
+3. 番茄酱：https://xiaochu.tmall.com
 4. 绞股蓝：https://yigengtang.taobao.com
 5. 柠檬：https://92nm.taobao.com
 
 #### 蔬菜
-
 * https://mnrj365.taobao.com
-* https://shop117345879.taobao.com
 
 #### 主食
 
-* 大米：
-  * https://wcdmxtx.taobao.com
-  * http://baiyouli.taobao.com/
-  * http://shop59214560.taobao.com
-  * http://shop59801199.taobao.com
-  * https://shop121507938.taobao.com
-* 面粉：
-  * 远方有机 http://www.womai.com/Product-0-567217.htm
+* 大米：吉粳81号、吉宏6号、南粳90108
+  * https://shop309662936.taobao.com
+  * https://xinghuadami.tmall.com
+* 面粉：哈萨克斯坦硬麦、鑫乐（永良4号）、荣军农场（龙麦35）
+  * https://detail.tmall.com/item.htm?id=595994374796
+  * https://xinleshipin.tmall.com
+  * https://item.taobao.com/item.htm?id=601681108022
   * https://bfnjsp.taobao.com
 * 面条：
   * https://jinshahe.tmall.com
-  * https://shop69357144.taobao.com
 * 酵母：
   * 鲜酵母：（英联马利）燕山、（乐斯福）燕子、安琪
   * 天然酵母 https://rxnj.taobao.com
 * 玉米：
   * https://tqllj.tmall.com
-  * https://zhzysp.tmall.com/
-  * https://shop71554667.taobao.com
 
 #### 水果
 
 * 番石榴：https://gyy8888.taobao.com
-* 猕猴桃：https://hengfengyuan.tmall.com/category-1330322160.htm
-* 金桔：https://shop322474857.taobao.com
+* 猕猴桃：https://shop144175853.taobao.com/category-1214136365.htm
+
 
 #### 其它
 
 * 酱油：禾然
-* 姜粉：姜来无忧
 * 料理包：
   * 谷言：泰式肥牛、胡椒鸡排
   * 聚口福：香乐大排、酱香排骨、酱爆菌菇
   * 蒸烩煮：酱烧排骨、红烧排骨、香菇滑鸡、卤花生
-  * 网易严选：白果鸡汤
 
 ### 杂粮
 
-| 供货商     | 黑米  | 燕麦米 | 黏玉米 | 苦荞麦 | 芸豆  |
+| 供货商     | 黑米  | 燕麦米 | 黏玉米 | 小米 | 黑芸豆  |
 | ------- | --- | --- | --- | --- | --- |
-| 寒地黑土北大荒 | 1   | 1   | 1   | 1   | 1   |
+| 百优粒 | 1.5   | 1.5   | 1.5   | 0.5   | 1.5   |
 
 ### 年度排期
 
@@ -129,15 +116,15 @@
 | 9.1  | 玉米、南瓜   | 猕猴桃（翠香、红阳）、葡萄、皇冠梨、蓝莓                     |
 | 9.2  | 玉米、南瓜   | 猕猴桃（翠香、红阳）、葡萄、皇冠梨、蓝莓         |
 | 9.3  | 玉米、南瓜   | 猕猴桃（翠香）、皇冠梨、蓝莓、苹果梨              |
-| 10.1 | 白心红薯、南瓜 | 猕猴桃（翠香、秦美、哑特、徐香）、冬枣、蜜桔、南果梨、蓝莓、菇娘、苹果梨           |
-| 10.2 | 白心红薯、南瓜 | 猕猴桃（秦美、哑特、徐香）、石榴、蓝莓、国光苹果、脆柿子、苹果梨 |
-| 10.3 | 白心红薯、南瓜 | 猕猴桃（徐香）、脆柿子、石榴、蓝莓、国光苹果              |
-| 11.1 | 白心红薯    | 石榴、国光苹果、柿子、香梨                        |
-| 11.2 | 白心红薯    | 石榴、冰糖橙、拐枣、国光苹果、柿子、香梨、君迁子             |
-| 11.3 | 白心红薯    | 石榴、冰糖橙、拐枣、国光苹果、柿子、香梨                 |
-| 12.1 | 白心红薯    | 冰糖橙、拐枣、国光苹果、胡柚、粑粑柑                   |
-| 12.2 | 白心红薯    | 冰糖橙、国光苹果、胡柚、粑粑柑                      |
-| 12.3 | 白心红薯    | 冰糖橙、国光苹果、胡柚、粑粑柑                      |
+| 10.1 | 白心红薯、南瓜 | 猕猴桃（翠香、秦美、哑特、徐香）、冬枣、南果梨、蓝莓、菇娘、苹果梨           |
+| 10.2 | 白心红薯、南瓜 | 猕猴桃（秦美、哑特、徐香）、冬枣、蓝莓、国光苹果、脆柿子、苹果梨 |
+| 10.3 | 白心红薯、南瓜 | 猕猴桃（徐香）、脆柿子、蓝莓、国光苹果              |
+| 11.1 | 白心红薯    | 猕猴桃（徐香）、国光苹果、柿子、香梨、蜜桔                        |
+| 11.2 | 白心红薯    | 猕猴桃（徐香）、柿子、冰糖橙、国光苹果、香梨、蜜桔             |
+| 11.3 | 白心红薯    | 猕猴桃（徐香）、柿子、冰糖橙、胡柚、沙田柚、国光苹果、香梨、蜜桔                 |
+| 12.1 | 白心红薯    | 猕猴桃（徐香）、柿子、冰糖橙、国光苹果、胡柚、粑粑柑                   |
+| 12.2 | 白心红薯    | 猕猴桃（徐香）、柿子、冰糖橙、国光苹果、胡柚、粑粑柑                      |
+| 12.3 | 白心红薯    | 猕猴桃（徐香）、柿子、冰糖橙、国光苹果、胡柚、粑粑柑                      |
 
 ### 忌口
 
