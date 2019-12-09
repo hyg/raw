@@ -1,0 +1,28 @@
+name: 知心奶奶黑燕麦代餐饼干
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 17.1
+    unit: g
+    nrv: 29
+  蛋白质:
+    amount: 11.5
+    unit: g
+    nrv: 19
+  钠:
+    amount: 110
+    unit: mg
+    nrv: 5
+  能量:
+    amount: 1871
+    unit: kj
+    nrv: 22
+  碳水化合物:
+    amount: 56
+    unit: g
+    nrv: 19
+  膳食纤维:
+    amount: 11.3
+    unit: g
+    nrv: 45
