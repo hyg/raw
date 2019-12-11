@@ -1,0 +1,24 @@
+name: 九联调理鸡胸肉
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 1
+    unit: g
+    nrv: 2
+  蛋白质:
+    amount: 25
+    unit: g
+    nrv: 42
+  碳水化合物:
+    amount: 1
+    unit: g
+    nrv: 0
+  钠:
+    amount: 600
+    unit: mg
+    nrv: 30
+  能量:
+    amount: 460
+    unit: kj
+    nrv: 5
