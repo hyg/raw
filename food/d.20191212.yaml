@@ -1,0 +1,95 @@
+date: 20191212
+food:
+- time: 20191212082000
+  name: 面包
+  amount: 80
+  unit: g
+- time: 20191212082000
+  name: 九联调理鸡胸肉
+  amount: 100
+  unit: g
+- time: 20191212083700
+  name: 奶粉
+  amount: 36
+  unit: g
+- time: 20191212122600
+  name: 大米
+  amount: 90
+  unit: g
+- time: 20191212122600
+  name: 菠菜
+  amount: 150
+  unit: g
+- time: 20191212122600
+  name: 豌豆尖
+  amount: 120
+  unit: g
+- time: 20191212122600
+  name: 沙丁鱼
+  amount: 80
+  unit: g
+- time: 20191212193500
+  name: 柿子
+  amount: 150
+  unit: g
+- time: 20191212195500
+  name: 柚子
+  amount: 400
+  unit: g
+- time: 20191212203000
+  name: 北豆腐
+  amount: 200
+  unit: g
+- time: 20191212203000
+  name: 胡萝卜
+  amount: 150
+  unit: g
+- time: 20191212203000
+  name: 大白菜
+  amount: 300
+  unit: g
+water:
+- time: 20191212075000
+  name: 柠檬蜂蜜水
+  amount: 500
+  unit: ml
+- time: 20191212083700
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20191212094200
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20191212101200
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20191212111000
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20191212125700
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20191212191700
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20191212211500
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20191212215300
+  name: 菊花茶
+  amount: 250
+  unit: ml
+ med:
+- time: 20191212225300 
+  name: kirkland daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
