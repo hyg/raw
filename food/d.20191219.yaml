@@ -1,0 +1,95 @@
+date: 20191219
+food:
+- time: 20191219042900
+  name: 蜜桔
+  amount: 120
+  unit: g
+- time: 20191219050500
+  name: 蒸饺
+  amount: 230
+  unit: g
+- time: 20191219050500
+  name: 红薯
+  amount: 250
+  unit: g
+- time: 20191219050500
+  name: 圣女果
+  amount: 200
+  unit: g
+- time: 20191219083500
+  name: 奶粉
+  amount: 75
+  unit: g
+- time: 20191219084500
+  name: 鸡肉卷
+  amount: 140
+  unit: g
+- time: 20191219140000
+  name: 代餐饼干
+  amount: 25
+  unit: g
+- time: 20191219202500
+  name: 大米
+  amount: 100
+  unit: g
+- time: 20191219202500
+  name: 谷言台式卤肉
+  amount: 170
+  unit: g
+water:
+- time: 20191219051000
+  name: 味增汤
+  amount: 250
+  unit: ml
+- time: 20191219061500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20191219070800
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20191219083500
+  name: 咖啡
+  amount: 450
+  unit: ml
+- time: 20191219090500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20191219134000
+  name: 绿茶
+  amount: 450
+  unit: ml
+- time: 20191219154000
+  name: 绿茶
+  amount: 450
+  unit: ml
+- time: 20191219185500
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20191219191900
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20191219203600
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20191219205500
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20191219223300
+  name: 菊花茶
+  amount: 250
+  unit: ml
+ med:
+- time: 20191219203600 
+  name: kirkland daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
