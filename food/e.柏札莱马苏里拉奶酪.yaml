@@ -1,0 +1,32 @@
+name: 柏札莱马苏里拉奶酪
+amount: 100
+unit: g
+element:
+  钙:
+    amount: 350
+    unit: mg
+    nrv: 44
+  视黄醇:
+    amount: 219
+    unit: μg
+    nrv: 27
+  钠:
+    amount: 240
+    unit: mg
+    nrv: 12
+  碳水化合物:
+    amount: 0.6
+    unit: g
+    nrv: 0
+  脂肪:
+    amount: 22
+    unit: g
+    nrv: 37
+  蛋白质:
+    amount: 20
+    unit: g
+    nrv: 33
+  能量:
+    amount: 1164
+    unit: kj
+    nrv: 14
