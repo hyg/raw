@@ -106,7 +106,7 @@ water:
   amount: 250
   unit: ml
 med:
- - time: 20191026010400
+- time: 20191026010400
   name: kirkland daily multi
   amount: 1
   unit: 片

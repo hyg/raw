@@ -24,8 +24,7 @@ food:
   name: 柿子
   amount: 400
   unit: g
-- time: - time: 20191116015500
-
+- time: 20191116015500
   name: 大米
   amount: 90
   unit: g

@@ -129,7 +129,7 @@ water:
   name: 菊花茶
   amount: 200
   unit: ml
- med:
+med:
 - time: 20191211070000
   name: 阿拉伯糖
   amount: 2.5

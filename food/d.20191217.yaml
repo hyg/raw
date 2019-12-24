@@ -117,7 +117,7 @@ water:
   name: 六堡茶
   amount: 250
   unit: ml
- med:
+med:
 - time: 20191217232600 
   name: kirkland daily multi
   amount: 1

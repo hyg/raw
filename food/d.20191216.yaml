@@ -85,7 +85,7 @@ water:
   name: 开水
   amount: 150
   unit: ml
- med:
+med:
 - time: 21091216232600 
   name: kirkland daily multi
   amount: 1

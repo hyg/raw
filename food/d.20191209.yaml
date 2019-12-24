@@ -125,7 +125,7 @@ water:
   name: 菊花茶
   amount: 250
   unit: ml
- med:
+med:
 - time: 20191209230900 
   name: kirkland daily multi
   amount: 1

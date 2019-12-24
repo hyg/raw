@@ -114,7 +114,7 @@ water:
   name: 咖啡
   amount: 350
   unit: ml
- med:
+med:
 - time: 20191218232600 
   name: kirkland daily multi
   amount: 1

@@ -36,7 +36,6 @@ food:
   name: 蜜桔
   amount: 100
   unit: g
-  unit: g
 - time: 20191204232500
   name: 柿子
   amount: 150
