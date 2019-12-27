@@ -39,17 +39,18 @@
 #### 抗氧化
 
 1. 胡萝卜：https://mnrj365.taobao.com
-2. 麦胚芽：https://fuzhiyuansp.tmall.com/category-1153328603.htm
-3. 番茄酱：https://xiaochu.tmall.com
-4. 绞股蓝：https://yigengtang.taobao.com
-5. 柠檬：https://92nm.taobao.com
+1. 麦胚芽：https://fuzhiyuansp.tmall.com/category-1153328603.htm
+1. 番茄酱：https://xiaochu.tmall.com
+1. 柠檬：https://92nm.taobao.com
+1. 绞股蓝：https://yigengtang.taobao.com
+
 
 #### 蔬菜
 * https://mnrj365.taobao.com
 
 #### 主食
 
-* 大米：吉粳81号、吉宏6号、南粳90108
+* 大米：吉粳81号、吉宏6号、南粳9108
   * https://shop309662936.taobao.com
   * https://xinghuadami.tmall.com
 * 面粉：哈萨克斯坦硬麦、鑫乐（永良4号）、荣军农场（龙麦35）
