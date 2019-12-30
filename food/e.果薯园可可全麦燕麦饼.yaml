@@ -1,0 +1,24 @@
+name: 果薯园可可全麦燕麦饼
+amount: 100
+unit: g
+element:
+  能量:
+    amount: 999
+    unit: kj
+    nrv: 12
+  脂肪:
+    amount: 7.9
+    unit: g
+    nrv: 13
+  蛋白质:
+    amount: 7.5
+    unit: g
+    nrv: 12
+  碳水化合物:
+    amount: 34.2
+    unit: g
+    nrv: 11
+  钠:
+    amount: 8
+    unit: mg
+    nrv: 4
