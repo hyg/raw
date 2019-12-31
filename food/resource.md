@@ -51,7 +51,7 @@
 #### 主食
 
 * 大米：吉粳81号、吉宏6号、南粳9108
-  * https://shop309662936.taobao.com
+  * https://ybdh.taobao.com
   * https://xinghuadami.tmall.com
 * 面粉：哈萨克斯坦硬麦、鑫乐（永良4号）、荣军农场（龙麦35）
   * https://detail.tmall.com/item.htm?id=595994374796

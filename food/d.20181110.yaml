@@ -62,7 +62,7 @@ food:
   unit: g
 - time: 20181110181000
   name: 麻辣牛肚
-  amount: 18 0
+  amount: 180
   unit: g
 
 water:
