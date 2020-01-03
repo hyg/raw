@@ -243,7 +243,7 @@ function fooddaylog(date) {
             amounttab = "\t";
         }
 
-        console.log(name + nametab + ftable[name].amount.toFixed(2) + amounttab + dayamount.toFixed(2) + "\t" + ftable[name].unit);
+        console.log(name + nametab + ftable[name].amount.toFixed(2) + amounttab + ftable[name].unit);
     }
 
 }
