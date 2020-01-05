@@ -68,6 +68,10 @@ food:
   name: 冰糖橙
   amount: 150
   unit: g
+- time: 20200105030000
+  name: 代餐报告
+  amount: 55
+  unit: g
 water:
 - time: 20200104073000
   name: 蜂蜜柠檬水
@@ -120,6 +124,10 @@ water:
 - time: 20200105014000
   name: 六堡茶
   amount: 250
+  unit: ml
+- time: 20200105030500
+  name: 开水
+  amount: 150
   unit: ml
 med:
 - time: 20200104102000 
