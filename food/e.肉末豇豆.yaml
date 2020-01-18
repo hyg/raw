@@ -1,0 +1,26 @@
+name: 肉末豇豆
+fullname： 尤李肉末豇豆
+amount: 100
+unit: g
+element:
+  能量:
+    amount: 526
+    unit: kj
+    nrv: 6
+  脂肪:
+    amount: 10
+    unit: g
+    nrv: 17
+  蛋白质:
+    amount: 3.2
+    unit: g
+    nrv: 5
+  钠:
+    amount: 2106
+    unit: mg
+    nrv: 105
+  碳水化合物:
+    amount: 6
+    unit: g
+    nrv: 2
+
