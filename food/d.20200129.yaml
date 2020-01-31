@@ -54,7 +54,7 @@ food:
   unit: g
 - time: 20200130140000
   name: 代餐饼干
-  amount: 30
+  amount: 60
   unit: g
 water:
 - time: 20200129204000
