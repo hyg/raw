@@ -1,111 +1,111 @@
 date: 20200214
 food:
-- time: 20200214062500
+- time: 20200214063800
   name: 沃柑
   amount: 80
   unit: g
-- time: 20200214070500
+- time: 20200214064600
+  name: 杂粮
+  amount: 70
+  unit: g
+- time: 20200214064600
+  name: 绿豆
+  amount: 15
+  unit: g
+- time: 20200214064600
+  name: 麦胚芽
+  amount: 5
+  unit: g
+- time: 20200214073000
+  name: 奶粉
+  amount: 26
+  unit: g
+- time: 20200214100000
   name: 杂粮面包
   amount: 65
   unit: g
-- time: 20200214070500
+- time: 20200214100000
   name: 九联调理鸡胸肉
   amount: 100
   unit: g
-- time: 20200214070500
+- time: 20200214100000
   name: 奶酪
   amount: 30
   unit: g
-- time: 20200214070500
+- time: 20200214100000
   name: 大白菜
   amount: 40
   unit: g
-- time: 20200214072100
+- time: 20200214115500
   name: 奶粉
   amount: 26
   unit: g
-- time: 20200214111000
-  name: 大白菜
-  amount: 415
-  unit: g
-- time: 20200214111000
-  name: 鳕鱼
-  amount: 32
-  unit: g
-- time: 20200214114000
-  name: 胡柚
+- time: 20200214140200
+  name: 沃柑
   amount: 100
   unit: g
-- time: 20200214143000
+- time: 20200214164000
+  name: 代餐饼干
+  amount: 30
+  unit: g
+- time: 20200214205800
+  name: 胡柚
+  amount: 150
+  unit: g
+- time: 20200214212900
   name: 大米
   amount: 90
   unit: g
-- time: 20200214143000
-  name: 肉末豇豆
-  amount: 0
+- time: 20200214212900
+  name: 洋葱
+  amount: 190
   unit: g
-- time: 20200214152000
-  name: 奶粉
-  amount: 26
-  unit: g
-- time: 20200214192800
-  name: 紫菜
-  amount: 9
-  unit: g
-- time: 20200214192800
-  name: 鸡蛋
-  amount: 50
-  unit: g
-- time: 20200214194500
-  name: 胡柚
-  amount: 150
+- time: 20200214212900
+  name: 牛腱
+  amount: 100
   unit: g
 water:
-- time: 20200214062000
+- time: 20200214064000
   name: 开水
   amount: 250
   unit: ml
-- time: 20200214072100
-  name: 咖啡
-  amount: 160
-  unit: ml
-- time: 20200214075600
-  name: 菊花茶
-  amount: 250
-  unit: ml
-- time: 20200214091500
-  name: 菊花茶
-  amount: 250
-  unit: ml
-- time: 20200214093600
-  name: 菊花茶
-  amount: 250
-  unit: ml
-- time: 20200214105100
-  name: 菊花茶
-  amount: 250
-  unit: ml
-- time: 20200214120900
-  name: 菊花茶
-  amount: 250
-  unit: ml
-- time: 20200214152000
+- time: 20200214073000
   name: 咖啡
   amount: 150
   unit: ml
-- time: 20200214182900
+- time: 20200214084200
   name: 菊花茶
   amount: 250
   unit: ml
-- time: 20200214202000
+- time: 20200214103500
   name: 菊花茶
   amount: 250
   unit: ml
-- time: 20200214215600
-  name: 菊花茶
+- time: 20200214115500
+  name: 咖啡
   amount: 150
+  unit: ml
+- time: 20200214122600
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20200214140500
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20200214144800
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20200214174100
+  name: 菊花茶
+  amount: 250
   unit: ml
 med:
+- time: 20200214073000 
+  name: 阿拉伯糖
+  amount: 2.5
+  unit: g
 - time: 20200214202000 
   name: kirkland daily multi
   amount: 1
