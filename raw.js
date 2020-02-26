@@ -284,7 +284,7 @@ function makeRfile() {
 
             //console.log("\n================="+day+"=================\nfood:\t"+fmap[day].comment+"\nhealth:\t"+hmap[day].comment);
             //if (day > "20150407") {
-            if (day > "20200201") {
+            if (day > "20200101") {
                 cnt = cnt + 1;
                 if (bFirst) {
                     d = d + "\"" + day + "\"";
