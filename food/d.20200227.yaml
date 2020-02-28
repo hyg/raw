@@ -52,6 +52,14 @@ food:
   name: 鸡蛋
   amount: 50
   unit: g
+- time: 20200228041800
+  name: 南果梨
+  amount: 80
+  unit: g
+- time: 20200228042000
+  name: 柿子
+  amount: 140
+  unit: g
 water:
 - time: 20200227131500
   name: 开水
