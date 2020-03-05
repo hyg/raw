@@ -1,0 +1,24 @@
+name: 爱氏晨曦苏里拉干酪丝
+amount: 100
+unit: g
+element:
+  钠:
+    amount: 520
+    unit: mg
+    nrv: 26
+  碳水化合物:
+    amount: 1.0
+    unit: g
+    nrv: 0
+  脂肪:
+    amount: 22.4
+    unit: g
+    nrv: 37
+  蛋白质:
+    amount: 22.4
+    unit: g
+    nrv: 37
+  能量:
+    amount: 1227
+    unit: kj
+    nrv: 15
