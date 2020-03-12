@@ -112,7 +112,7 @@ water:
 med:
 - time: 20200311060000 
   name: 阿拉伯糖
-  amount: 
+  amount: 2.1
   unit: g
 - time: 20200312001700 
   name: kirkland daily multi
