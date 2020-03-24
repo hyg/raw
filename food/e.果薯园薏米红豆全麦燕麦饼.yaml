@@ -1,0 +1,25 @@
+name: 薏米红豆饼干
+fullname: 果薯园薏米红豆全麦燕麦饼
+amount: 100
+unit: g
+element:
+  能量:
+    amount: 1756
+    unit: kj
+    nrv: 21
+  脂肪:
+    amount: 15.1
+    unit: g
+    nrv: 26
+  蛋白质:
+    amount: 8.4
+    unit: g
+    nrv: 14
+  碳水化合物:
+    amount: 45.4
+    unit: g
+    nrv: 15
+  钠:
+    amount: 378
+    unit: mg
+    nrv: 19
