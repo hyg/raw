@@ -1,0 +1,25 @@
+name: 原味饼干
+fullname: 果薯园原味燕麦饼
+amount: 100
+unit: g
+element:
+  能量:
+    amount: 1782
+    unit: kj
+    nrv: 21
+  脂肪:
+    amount: 15.4
+    unit: g
+    nrv: 26
+  蛋白质:
+    amount: 8.4
+    unit: g
+    nrv: 14
+  碳水化合物:
+    amount: 45.2
+    unit: g
+    nrv: 15
+  钠:
+    amount: 378
+    unit: mg
+    nrv: 19
