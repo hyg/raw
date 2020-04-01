@@ -1,0 +1,60 @@
+date: 20200401
+food:
+- time: 20200401190000
+  name: 伦晚脐橙
+  amount: 150
+  unit: g
+- time: 20200401200000
+  name: 快菜
+  amount: 200
+  unit: g
+- time: 20200401200000
+  name: 菜心
+  amount: 150
+  unit: g
+- time: 20200401200000
+  name: 黑鱼肉
+  amount: 100
+  unit: g
+- time: 20200401200000
+  name: 豆泡
+  amount: 60
+  unit: g
+- time: 20200401205000
+  name: 奶粉
+  amount: 25
+  unit: g
+- time: 20200401003000
+  name: 番石榴
+  amount: 300
+  unit: g
+- time: 20200401011500
+  name: 胡柚
+  amount: 150
+  unit: g
+water:
+- time: 20200401175000
+  name: 柠檬蜂蜜水
+  amount: 250
+  unit: ml
+- time: 20200401205000
+  name: 咖啡
+  amount: 160
+  unit: ml
+- time: 20200401223700
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20200401232300
+  name: 菊花茶
+  amount: 250
+  unit: ml
+med:
+
+- time: 20200401044900 
+  name: kirkland daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
