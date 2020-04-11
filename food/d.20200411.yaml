@@ -1,0 +1,64 @@
+date: 20200411
+food:
+- time: 2020041145200
+  name: 伦晚脐橙
+  amount: 120
+  unit: g
+- time: 20200411141800
+  name: 大米
+  amount: 90
+  unit: g
+- time: 20200411141800
+  name: 甜豌豆
+  amount: 90
+  unit: g
+- time: 20200411141800
+  name: 鳕鱼肉
+  amount: 58
+  unit: g
+- time: 20200411145000
+  name: 奶粉
+  amount: 25.2
+  unit: g
+- time: 20200411172800
+  name: 青见
+  amount: 220
+  unit: g
+
+water:
+- time: 20200411135000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20200411145000
+  name: 咖啡
+  amount: 160
+  unit: ml
+- time: 20200411154600
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20200411163500
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20200411174100
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20200411182800
+  name: 菊花茶
+  amount: 250
+  unit: ml
+med:
+- time: 20200411145000 
+  name: 阿拉伯糖
+  amount: 2.7
+  unit: g
+- time: 20200411035200 
+  name: kirkland daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
