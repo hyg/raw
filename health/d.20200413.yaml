@@ -2,6 +2,7 @@ date: 20200413
 sleep: 
   time: 20200411233200
   weight: 57.5
+wake:
   time: 20200411034000
   weight: 56.5
 
