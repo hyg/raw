@@ -26,7 +26,7 @@ food:
   unit: g
 - time: 20200501051500
   name: 土豆泥粉
-  amount: 50
+  amount: 5
   unit: g
 - time: 20200501060500
   name: 奶粉
