@@ -1,92 +1,92 @@
-date: 21091216
+date: 20191216
 food:
-- time: 21091216071800
+- time: 20191216071800
   name: 大米
   amount: 90
   unit: g
-- time: 21091216071800
+- time: 20191216071800
   name: 菠菜
   amount: 150
   unit: g
-- time: 21091216071800
+- time: 20191216071800
   name: 快菜
   amount: 150
   unit: g
-- time: 21091216071800
+- time: 20191216071800
   name: 卤水豆腐
   amount: 100
   unit: g
-- time: 21091216071800
+- time: 20191216071800
   name: 鸡蛋
   amount: 50
   unit: g
-- time: 21091216123000
+- time: 20191216123000
   name: 压缩饼干
   amount: 100
   unit: g
-- time: 21091216170000
+- time: 20191216170000
   name: 奶粉
   amount: 25
   unit: g
-- time: 21091216181000
+- time: 20191216181000
   name: 魔芋粉丝
   amount: 300
   unit: g
-- time: 21091216181000
+- time: 20191216181000
   name: 荞麦面
   amount: 60
   unit: g
-- time: 21091216181000
+- time: 20191216181000
   name: 炸酱肉丁
   amount: 160
   unit: g
-- time: 21091216181000
+- time: 20191216181000
   name: 红薯
   amount: 150
   unit: g
-- time: 21091216191000
+- time: 20191216191000
   name: 奶粉
   amount: 50
   unit: g
 water:
-- time: 21091216064500
+- time: 20191216064500
   name: 开水
   amount: 250
   unit: ml
-- time: 21091216074000
+- time: 20191216074000
   name: 开水
   amount: 250
   unit: ml
-- time: 21091216140000
+- time: 20191216140000
   name: 六堡茶
   amount: 1000
   unit: ml
-- time: 21091216170000
+- time: 20191216170000
   name: 咖啡
   amount: 200
   unit: ml
-- time: 21091216173000
+- time: 20191216173000
   name: 山楂胡萝卜汁
   amount: 300
   unit: ml
-- time: 21091216170000
+- time: 20191216170000
   name: 咖啡
   amount: 250
   unit: ml
-- time: 21091216220000
+- time: 20191216220000
   name: 开水
   amount: 250
   unit: ml
-- time: 21091216230000
+- time: 20191216230000
   name: 开水
   amount: 250
   unit: ml
-- time: 21091216232600
+- time: 20191216232600
   name: 开水
   amount: 150
   unit: ml
 med:
-- time: 21091216232600 
+- time: 20191216232600 
   name: kirkland daily multi
   amount: 1
   unit: 片
