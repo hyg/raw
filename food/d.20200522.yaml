@@ -18,7 +18,7 @@ food:
   unit: g
 - time: 20200522083000
   name: 麦片
-  amount: 180
+  amount: 18
   unit: g
 - time: 20200522093000
   name: 奶粉
