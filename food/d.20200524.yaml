@@ -56,6 +56,15 @@ food:
   name: 皇冠梨
   amount: 150
   unit: g
+- time: 20200525042500
+  name: 九联脆香肉排
+  amount: 100
+  unit: g
+- time: 20200525042500
+  name: 干酪丝
+  amount: 20
+  unit: g
+
 water:
 - time: 20200524085000
   name: 蜂蜜柠檬水
