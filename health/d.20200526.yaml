@@ -2,6 +2,7 @@ date: 20200526
 sleep: 
   time: 20200526070300
   weight: 58.4
+wake:
   time: 20200526150300
   weight: 57.5
 stool: 
