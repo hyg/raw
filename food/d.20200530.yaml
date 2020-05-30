@@ -1,0 +1,75 @@
+date: 20200530
+food:
+- time: 20200530143700
+  name: 胡柚
+  amount: 120
+  unit: g
+- time: 20200530160500
+  name: 大米
+  amount: 50
+  unit: g
+- time: 20200530160500
+  name: 麦胚芽
+  amount: 10
+  unit: g
+- time: 20200530160500
+  name: 鹌鹑蛋
+  amount: 100
+  unit: g
+- time: 20200530160500
+  name: 胡萝卜
+  amount: 100
+  unit: g
+- time: 20200530165500
+  name: 奶粉
+  amount: 25
+  unit: g
+- time: 20200530205300
+  name: 全麦苦荞面包
+  amount: 75
+  unit: g
+- time: 20200530205300
+  name: 奥尔良鸡排
+  amount: 130
+  unit: g
+- time: 20200530205300
+  name: 干酪丝
+  amount: 20
+  unit: g
+- time: 20200530230500
+  name: 奥尔良鸡排
+  amount: 65
+  unit: g
+water:
+- time: 20200530143500
+  name: 蜂蜜柠檬水
+  amount: 250
+  unit: ml
+- time: 20200530165500
+  name: 咖啡
+  amount: 160
+  unit: ml
+- time: 20200530175900
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20200530195900
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20200530212000
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20200530225100
+  name: 六堡茶
+  amount: 250
+  unit: ml
+med:
+- time: 20200530030400
+  name: kirkland daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 

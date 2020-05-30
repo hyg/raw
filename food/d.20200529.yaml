@@ -60,15 +60,15 @@ food:
   name: 可可粉
   amount: 0.5
   unit: g
-- time: 2020050042000
+- time: 20200530042000
   name: 龙利鱼
   amount: 150
   unit: g
-- time: 2020050052500
+- time: 20200530052500
   name: 皇冠梨
   amount: 150
   unit: g
-- time: 2020050071000
+- time: 20200530071000
   name: 皇冠梨
   amount: 150
   unit: g
