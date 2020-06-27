@@ -1,0 +1,24 @@
+name: 谷言三杯鸡
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 7.5
+    unit: g
+    nrv: 13.0
+  蛋白质:
+    amount: 7.1
+    unit: g
+    nrv: 12
+  碳水化合物:
+    amount: 8.0
+    unit: g
+    nrv: 3
+  钠:
+    amount: 930
+    unit: mg
+    nrv: 42
+  能量:
+    amount: 544
+    unit: kj
+    nrv: 6
