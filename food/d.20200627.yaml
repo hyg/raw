@@ -85,18 +85,6 @@ food:
   amount: 3
   unit: g
 
-- time: 20200628011000
-  name: 高筋苦荞面包
-  amount: 80
-  unit: g
-- time: 20200628011000
-  name: 干酪丝
-  amount: 21
-  unit: g
-- time: 20200628011000
-  name: 尤李渣渣牛肉面臊
-  amount: 35
-  unit: g
 water:
 - time: 20200627080700
   name: 绿茶
