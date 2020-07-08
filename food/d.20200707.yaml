@@ -88,15 +88,6 @@ food:
   name: 烤红薯
   amount: 1000
   unit: g
-- time: 20200707170000
-  name: 豆腐
-  amount: 222
-  unit: g
-- time: 20200707170000
-  name: 紫菜
-  amount: 10
-  unit: g
-
 water:
 - time: 20200707033000
   name: 蜂蜜青金桔水
