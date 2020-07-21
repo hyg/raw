@@ -1,13 +1,13 @@
 date: 20200721
 sleep: 
-  time: 20200721022200
-  weight: 57.7
+  time: 20200721013700
+  weight: 58.9
 wake:
-  time: 20200721081400
-  weight: 57.1
+  time: 20200721072400
+  weight: 58.2
 stool: 
-- time: 20200718021000
-  amount:   2   #	1:多;		2:适中;		3:少;
+- time: 20200718084500
+  amount:   1   #	1:多;		2:适中;		3:少;
   type:     1   #	0:水样;		1:软;		2:适中;		3:硬;
   diffcult: 1   #	1:不困难;	2:困难  
 comment: |+
