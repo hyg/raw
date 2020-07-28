@@ -57,9 +57,9 @@ food:
   amount: 50
   unit: g
 - time: 20150616193000
-  name: 豇豆
-  amount: 猪肝
-  unit: 40g
+  name: 猪肝
+  amount: 40
+  unit: g
 water:
 - time: 20150616074800
   name: 开水

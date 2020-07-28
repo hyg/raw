@@ -6,7 +6,7 @@ food:
   unit: g
 - time: 20150630080000
   name: 甜瓜
-  amount: 20 0
+  amount: 200
   unit: g  
 - time: 20150630083500
   name: 杂粮粥

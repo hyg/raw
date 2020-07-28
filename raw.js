@@ -48,11 +48,16 @@ makeRfile();
 function foodyearlog(year) {
     let etable = new Object();
     let ftable = new Object();
+    let daycnt = 0;
+
     for(var date in fmap){
         if(date.slice(0,4) == year){
             fooddaysum(date,etable,ftable);
+            daycnt++;
         }
     }
+
+    console.log("day counter = ",daycnt);
 
     console.log("成份表\n名称\t\t总数量\t\t日均\t单位\tNRV(%)");
     let keysSorted = Object.keys(etable).sort(function (a, b) { return etable[a].nrv - etable[b].nrv })
@@ -68,8 +73,8 @@ function foodyearlog(year) {
                 etable[name].amount = etable[name].amount * 1000;
             }
         }
-        var dayamount = etable[name].amount/365 ;
-        var daynrv = etable[name].nrv/365 ;
+        var dayamount = etable[name].amount/daycnt ;
+        var daynrv = etable[name].nrv/daycnt ;
         var amounttab = "\t\t";
         if(etable[name].amount > 10000){
             amounttab = "\t";
@@ -87,7 +92,7 @@ function foodyearlog(year) {
 
     for (var i in foodSorted) {
         var name = foodSorted[i];
-        var dayamount = ftable[name].amount/365 ;
+        var dayamount = ftable[name].amount/daycnt ;
 
         var nametab = "\t\t\t"
         if(name.replace(/[^\x00-\xff]/g, '**').length >= 8){
@@ -101,7 +106,6 @@ function foodyearlog(year) {
         if(ftable[name].amount > 10000){
             amounttab = "\t";
         }
-
         console.log(name + nametab + ftable[name].amount.toFixed(2) + amounttab + dayamount.toFixed(2) + "\t" + ftable[name].unit);
     }
 }
@@ -326,12 +330,16 @@ function makeRfile() {
     sleeplong = sleeplong + ")";
 
     var wstr = d + "\r\n" + w1 + "\r\n" + w2 + "\r\nplot(c(1:" + cnt + "),weight1,type=\"b\",pch=15,lty=1,col=\"red\",xaxt=\"n\",xlab = \"date\",ylim=range(" + wmin + ":" + wmax + "))\r\nlines(c(1:" + cnt + "),weight2,type=\"b\",pch=17,lty=2,col=\"blue\")\r\nlegend(\"topleft\",inset=.05,title=\"体重曲线\",c(\"睡前\",\"醒后\"),lty=c(1,2),pch=c(15,17),col=c(\"red\",\"blue\"))\r\naxis(1, c(1:" + cnt + "),date)\r\n";
-    fs.writeFile("health/weight.R", wstr);
-    console.log("\n\n体重曲线在health/weight.R");
-
+    fs.writeFile("health/weight.R", wstr, (err) => {
+        if (err) throw err;
+        console.log('health/weight.R文件已被保存');
+      });
+    
     var sleepstr = d + "\r\n" + sleep + "\r\n" + wake + "\r\n" + sleeplong + "\r\nplot(c(1:" + cnt + "),sleep,type=\"b\",pch=15,lty=1,col=\"red\",xaxt=\"n\",xlab = \"date\")\r\nlines(c(1:" + cnt + "),wake,type=\"b\",pch=17,lty=2,col=\"blue\")\r\nlines(c(1:" + cnt + "),sleeplong,type=\"b\",pch=21,lty=2,col=\"green\")\r\nlegend(\"topleft\",inset=.05,title=\"睡眠曲线\",c(\"睡\",\"醒\",\"时长\"),lty=c(1,2,2),pch=c(15,17,21),col=c(\"red\",\"blue\",\"green\"))\r\naxis(1, c(1:" + cnt + "),date)\r\n";
-    fs.writeFile("health/sleep.R", sleepstr);
-    console.log("\n\n睡眠曲线在health/sleep.R");
+    fs.writeFile("health/sleep.R", sleepstr, (err) => {
+        if (err) throw err;
+        console.log('health/sleep.R文件已被保存');
+      });
 }
 
 

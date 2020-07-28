@@ -67,11 +67,11 @@ water:
   unit: ml
 - time: 20150524161500
   name: 开水
-  nt: 200
+  amount: 200
   unit: ml
 - time: 20150524201500
   name: 绿豆汤
-  nt: 400
+  amount: 400
   unit: ml
 comment: |+
   需增加蛋白质，蔬菜＋水果种类...

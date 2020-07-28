@@ -14,7 +14,7 @@ food:
   unit: g
 - time: 20160528135000
   name: 大米100g+枸杞10g+速冻豆类70g+鸡肉50g+番茄酱30g
-  amount: 260g
+  amount: 260
   unit: g
 - time: 20160528172000
   name: 杏
