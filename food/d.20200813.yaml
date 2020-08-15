@@ -4,7 +4,7 @@ food:
   name: 夏橙
   amount: 100
   unit: g
-- time: 202008130610000
+- time: 20200813061000
   name: 绿豆
   amount: 100
   unit: g
@@ -12,19 +12,19 @@ food:
   name: 奶粉
   amount: 25
   unit: g
-- time: 202008131161100
+- time: 20200813161100
   name: 大米
   amount: 90
   unit: g
-- time: 202008131161100
+- time: 20200813161100
   name: 胡萝卜
   amount: 55
   unit: g
-- time: 202008131161100
+- time: 20200813161100
   name: 西红柿
   amount: 140
   unit: g
-- time: 202008131161100
+- time: 20200813161100
   name: 猪肉骨
   amount: 160
   unit: g
