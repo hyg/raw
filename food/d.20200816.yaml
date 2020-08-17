@@ -36,11 +36,11 @@ food:
   name: 奶粉
   amount: 25.3
   unit: g
- - time: 20200816194000
+- time: 20200816194000
   name: 绿豆
   amount: 110
   unit: g
- - time: 20200816235900
+- time: 20200816235900
   name: 蒸饺
   amount: 115
   unit: g
