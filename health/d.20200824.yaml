@@ -1,0 +1,14 @@
+date: 20200824
+sleep: 
+  time: 20200824080900
+  weight: 57.7
+wake:
+  time: 20200824154500
+  weight: 57.0
+stool: 
+- time: 20200825063000
+  amount:   3   #	1:多;		2:适中;		3:少;
+  type:     3   #	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 2   #	1:不困难;	2:困难  
+comment: |+ 
+  
