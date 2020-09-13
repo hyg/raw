@@ -56,26 +56,7 @@ food:
   name: 葡萄
   amount: 250
   unit: g
-- time: 20200912204000
-  name: 菠菜面
-  amount: 60
-  unit: g
-- time: 20200912204000
-  name: 胡萝卜
-  amount: 80
-  unit: g
-- time: 20200912204000
-  name: 萝卜
-  amount: 150
-  unit: g
-- time: 20200912204000
-  name: 豆泡
-  amount: 100
-  unit: g
-- time: 20200912204000
-  name: 尤李渣渣牛肉
-  amount: 25
-  unit: g
+
 water:
 - time: 20200912062500
   name: 沙棘汁
