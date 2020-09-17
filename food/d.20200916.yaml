@@ -61,11 +61,11 @@ food:
   amount: 100
   unit: g
 water:
-- time: 2020091608290
+- time: 20200916082900
   name: 沙棘汁
   amount: 32
   unit: ml
-- time: 2020091608290
+- time: 20200916082900
   name: 开水
   amount: 500
   unit: ml
