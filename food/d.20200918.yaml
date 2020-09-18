@@ -1,0 +1,107 @@
+date: 20200918
+food:
+- time: 20200918094500
+  name: 大米
+  amount: 90
+  unit: g
+- time: 20200918094500
+  name: 烤鸡小胸
+  amount: 100
+  unit: g
+- time: 20200918122500
+  name: 意面
+  amount: 60
+  unit: g
+- time: 20200918122500
+  name: 豆泡
+  amount: 100
+  unit: g
+- time: 20200918122500
+  name: 娃娃菜
+  amount: 200
+  unit: g
+- time: 20200918122500
+  name: 尤李笋子牛肉
+  amount: 200
+  unit: g
+- time: 20200918173500
+  name: 烤红薯
+  amount: 600
+  unit: g
+- time: 20200918175000
+  name: 奶粉
+  amount: 30
+  unit: g
+- time: 20200918223500
+  name: 马牙枣
+  amount: 60
+  unit: g
+- time: 20200919002800
+  name: 荞麦片
+  amount: 80
+  unit: g
+- time: 20200919002800
+  name: 可可粉
+  amount: 1
+  unit: g
+- time: 20200919002800
+  name: 奶粉
+  amount: 20
+  unit: g
+- time: 20200919002800
+  name: 麦胚芽
+  amount: 10
+  unit: g
+water:
+- time: 20200918055700
+  name: 沙棘汁
+  amount: 33
+  unit: ml
+- time: 20200918055700
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20200918063700
+  name: 绿茶
+  amount: 200
+  unit: ml
+- time: 20200918110000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20200918140600
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20200918171000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20200918175000
+  name: 咖啡
+  amount: 176
+  unit: ml
+- time: 20200918193500
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20200918215600
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20200918225100
+  name: 绿茶
+  amount: 250
+  unit: ml
+med:
+- time: 20200918175000
+  name: 牛磺酸
+  amount: 0.5
+  unit: g
+ - time: 20200918225100
+  name: kirkland daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
