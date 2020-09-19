@@ -1,0 +1,75 @@
+date: 20200919
+food:
+- time: 20200919104500
+  name: 烤鸡小胸
+  amount: 100
+  unit: g
+- time: 20200919104500
+  name: 意面
+  amount: 60
+  unit: g
+- time: 20200919104500
+  name: 豆泡
+  amount: 100
+  unit: g
+- time: 20200919165000
+  name: 蜜柚
+  amount: 400
+  unit: g
+- time: 20200919180000
+  name: 意面
+  amount: 60
+  unit: g
+- time: 20200919180000
+  name: 娃娃菜
+  amount: 200
+  unit: g
+- time: 20200919180000
+  name: 尤李藤椒鸡丁
+  amount: 180
+  unit: g
+- time: 20200919214500
+  name: 荞麦片
+  amount: 92
+  unit: g
+- time: 20200919214500
+  name: 麦胚芽
+  amount: 18
+  unit: g
+- time: 20200919214500
+  name: 奶粉
+  amount: 20
+  unit: g
+water:
+- time: 20200919100500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20200919122600
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20200919125900
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20200919154400
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20200919205200
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20200919225000
+  name: 六堡茶
+  amount: 250
+  unit: ml
+med:
+ - time: 20200919225000
+  name: kirkland daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
