@@ -4,10 +4,6 @@ food:
   name: 大米
   amount: 160
   unit: g
-- time: 20200927092400
-  name: 大米
-  amount: 160
-  unit: g
 - time: 20200927113000
   name: 奶粉
   amount: 30.6
