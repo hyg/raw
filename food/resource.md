@@ -3,7 +3,6 @@
 ### 持续补货
 
 #### 纤维素
-
 1. 麦片：
    * http://shop33278606.taobao.com
    * http://tuan.womai.com/tuan/product-0-214987.htm
@@ -15,13 +14,11 @@
 5. 菊粉：https://shop245269337.taobao.com
 
 #### 钙
-
 1. 豆腐：
    * https://shop107686840.taobao.com
    * https://shop118787577.taobao.com
 2. 奶制品：
    * 海乳
-   * 恒天然：https://hengtianran.tmall.hk
    * 酸奶菌种: http://youduoyi.tmall.com
    * 酸奶菌种: https://shop583274885.taobao.com
 3. 黑芝麻:https://baiyouli.taobao.com
@@ -37,29 +34,28 @@
 1. 鸡蛋：https://xdxfnc.tmall.com
 
 #### 抗氧化
-
-1. 胡萝卜：https://mnrj365.taobao.com
-1. 麦胚芽：https://fuzhiyuansp.tmall.com/category-1153328603.htm
-1. 番茄酱：https://xiaochu.tmall.com
-1. 柠檬：https://92nm.taobao.com
-1. 绞股蓝：https://yigengtang.taobao.com
-
+* 麦胚芽：https://fuzhiyuansp.tmall.com/category-1153328603.htm
+* 番茄酱：https://xiaochu.tmall.com
+* 绞股蓝：https://yigengtang.taobao.com
 
 #### 蔬菜
+* https://kuixiaojie.tmall.com
 * https://mnrj365.taobao.com
 
 #### 主食
-
-* 大米：吉粳81号、吉宏6号、南粳9108
+* 大米：吉粳81号、吉宏6号、龙稻18、南粳9108
   * https://ybdh.taobao.com
+  * https://suleijia.taobao.com
+  * https://shop323533384.taobao.com
   * https://xinghuadami.tmall.com
 * 面粉：哈萨克斯坦硬麦、鑫乐（永良4号）、荣军农场（龙麦35）
   * https://detail.tmall.com/item.htm?id=595994374796
   * https://xinleshipin.tmall.com
   * https://item.taobao.com/item.htm?id=601681108022
   * https://bfnjsp.taobao.com
-* 面条：
-  * https://jinshahe.tmall.com
+* 面条（低纳）：
+  * https://detail.tmall.com/item.htm?id=590601689344
+  * https://detail.tmall.com/item.htm?id=620403358130
 * 酵母：
   * 鲜酵母：（英联马利）燕山、（乐斯福）燕子、安琪
   * 天然酵母 https://rxnj.taobao.com
@@ -67,21 +63,18 @@
   * https://tqllj.tmall.com
 
 #### 水果
-
 * 番石榴：https://gyy8888.taobao.com
 * 猕猴桃：https://shop144175853.taobao.com/category-1214136365.htm
 
 
 #### 其它
-
-* 酱油：禾然
+* 酱油：禾然、缘木记
 * 料理包：
   * 谷言：泰式肥牛、胡椒鸡排
   * 聚口福：香乐大排、酱香排骨、酱爆菌菇
   * 蒸烩煮：酱烧排骨、红烧排骨、香菇滑鸡、卤花生
 
 ### 杂粮
-
 | 供货商     | 黑米  | 燕麦米 | 黏玉米 | 小米 | 黑芸豆  |
 | ------- | --- | --- | --- | --- | --- |
 | 百优粒 | 1.5   | 1.5   | 1.5   | 0.5   | 1.5   |
@@ -114,12 +107,12 @@
 | 8.1  | 玉米、南瓜   | 红香酥梨、太婆梨、杏梅、蓝莓、皇冠梨、黑布林                        |
 | 8.2  | 玉米、南瓜   | 秦王桃、葡萄、杏梅、红香酥梨、皇冠梨、蓝莓                             |
 | 8.3  | 玉米、南瓜   | 秦王桃、火晶柿子、黄杏、葡萄、红香酥梨、皇冠梨、蓝莓                        |
-| 9.1  | 玉米、南瓜   | 猕猴桃（翠香、红阳）、葡萄、皇冠梨、蓝莓                     |
-| 9.2  | 玉米、南瓜   | 猕猴桃（翠香、红阳）、葡萄、皇冠梨、蓝莓         |
-| 9.3  | 玉米、南瓜   | 猕猴桃（翠香）、皇冠梨、蓝莓、苹果梨              |
-| 10.1 | 白心红薯、南瓜 | 猕猴桃（翠香、秦美、哑特、徐香）、冬枣、南果梨、蓝莓、菇娘、苹果梨           |
-| 10.2 | 白心红薯、南瓜 | 猕猴桃（秦美、哑特、徐香）、冬枣、蓝莓、国光苹果、脆柿子、苹果梨 |
-| 10.3 | 白心红薯、南瓜 | 猕猴桃（徐香）、脆柿子、蓝莓、国光苹果              |
+| 9.1  | 玉米、南瓜   | 猕猴桃（翠香、红阳）、葡萄、皇冠梨、蓝莓、长枣、西梅                     |
+| 9.2  | 玉米、南瓜   | 猕猴桃（翠香、红阳）、葡萄、皇冠梨、蓝莓、长枣、西梅         |
+| 9.3  | 玉米、南瓜   | 猕猴桃（翠香）、皇冠梨、蓝莓、苹果梨、长枣、西梅              |
+| 10.1 | 白心红薯、南瓜 | 猕猴桃（翠香、秦美、哑特、徐香）、长枣、南果梨、蓝莓、菇娘、苹果梨、西梅           |
+| 10.2 | 白心红薯、南瓜 | 猕猴桃（秦美、哑特、徐香）、长枣、蓝莓、国光苹果、脆柿子、苹果梨、西梅 |
+| 10.3 | 白心红薯、南瓜 | 猕猴桃（徐香）、脆柿子、长枣、蓝莓、国光苹果              |
 | 11.1 | 白心红薯    | 猕猴桃（徐香）、国光苹果、柿子、香梨、蜜桔、沙糖桔                        |
 | 11.2 | 白心红薯    | 猕猴桃（徐香）、柿子、冰糖橙、国光苹果、香梨、蜜桔、沙糖桔             |
 | 11.3 | 白心红薯    | 猕猴桃（徐香）、柿子、冰糖橙、胡柚、沙田柚、国光苹果、香梨、蜜桔、沙糖桔                 |
