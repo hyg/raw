@@ -67,7 +67,7 @@ food:
 
 water:
 - time: 20201003085500
-  name: 咖啡粥水
+  name: 粥水
   amount: 400
   unit: ml
 - time: 20201003102800
