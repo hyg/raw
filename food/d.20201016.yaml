@@ -1,0 +1,51 @@
+date: 20201016
+food:
+- time: 20201016174500
+  name: 灵武长枣
+  amount: 80
+  unit: g
+- time: 20201016174500
+  name: 黄骅冬枣
+  amount: 80
+  unit: g
+- time: 20201016185200
+  name: 大米
+  amount: 90
+  unit: g
+- time: 20201016185200
+  name: 鸡蛋
+  amount: 100
+  unit: g
+- time: 20201016185200
+  name: 谷言酱香牛肉
+  amount: 120
+  unit: g
+water:
+- time: 20201016172000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20201016192900
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20201016204000
+  name: 菊花茶
+  amount: 250
+  unit: ml
+med:
+- time: 20201016154000
+  name: 牛磺酸
+  amount: 0.6
+  unit: g
+- time: 20201016221700
+  name: 牛磺酸
+  amount: 0.4
+  unit: g
+- time: 20201016011200
+  name: kirkland daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
