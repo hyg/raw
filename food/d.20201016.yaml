@@ -34,18 +34,7 @@ water:
   amount: 250
   unit: ml
 med:
-- time: 20201016154000
-  name: 牛磺酸
-  amount: 0.6
-  unit: g
-- time: 20201016221700
-  name: 牛磺酸
-  amount: 0.4
-  unit: g
-- time: 20201016011200
-  name: kirkland daily multi
-  amount: 1
-  unit: 片
+
 comment: |+
   ...
  
