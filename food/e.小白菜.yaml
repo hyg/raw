@@ -1,0 +1,48 @@
+name: 小白菜
+amount: 100
+unit: g
+element:
+  能量:
+    amount: 15
+    unit: kcal
+    nrv: 0.75
+  碳水化合物:
+    amount: 1.6
+    unit: g
+    nrv: 0.5
+  蛋白质:
+    amount: 1.5
+    unit: g
+    nrv: 2
+  膳食纤维:
+    amount: 1.1
+    unit: g
+    nrv: 4.4
+  脂肪:
+    amount: 0.3
+    unit: g
+    nrv: 0.5
+  钙:
+    amount: 90
+    unit: mg
+    nrv: 11.25
+  钾:
+    amount: 178
+    unit: mg
+    nrv: 8.9
+  铁:
+    amount: 1.9
+    unit: mg
+    nrv: 12.7
+  硒:
+    amount: 1.17
+    unit: μg
+    nrv: 2.3
+  维生素C:
+    amount: 28
+    unit: mg
+    nrv: 28
+  维生素A:
+    amount: 280
+    unit: μg
+    nrv: 35

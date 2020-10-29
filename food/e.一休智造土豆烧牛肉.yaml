@@ -1,0 +1,24 @@
+name: 一休智造土豆烧牛肉
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 13.7
+    unit: g
+    nrv: 23
+  蛋白质:
+    amount: 5.1
+    unit: g
+    nrv: 9
+  碳水化合物:
+    amount: 6.0
+    unit: g
+    nrv: 2
+  钠:
+    amount: 460
+    unit: mg
+    nrv: 23
+  能量:
+    amount: 696
+    unit: kj
+    nrv: 8

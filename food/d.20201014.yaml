@@ -8,7 +8,6 @@ food:
   name: 黄骅冬枣
   amount: 80
   unit: g
-  unit: g
 - time: 20201014190500
   name: 大米
   amount: 90
