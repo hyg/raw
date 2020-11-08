@@ -98,7 +98,7 @@ food:
   unit: g
 
 water:
-- time: 2020110722300
+- time: 20201107223000
   name: 开水
   amount: 250
   unit: ml
