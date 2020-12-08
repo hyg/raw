@@ -36,6 +36,34 @@ food:
   name: 奶粉
   amount: 25.1
   unit: g
+- time: 20201208190500
+  name: 苹果
+  amount: 150
+  unit: g
+- time: 20201208211300
+  name: 大米
+  amount: 90
+  unit: g
+- time: 20201208211300
+  name: 鸡蛋
+  amount: 50
+  unit: g
+- time: 20201208211300
+  name: 谷言毛氏红烧肉1号
+  amount: 200
+  unit: g
+- time: 20201208230500
+  name: 柿子
+  amount: 150
+  unit: g
+- time: 20201208233500
+  name: 沃柑
+  amount: 100
+  unit: g
+- time: 20201209013500
+  name: 黑枣
+  amount: 50
+  unit: g
 water:
 - time: 20201208130600
   name: 开水
@@ -56,6 +84,26 @@ water:
 - time: 20201208183100
   name: 菊花茶
   amount: 250
+  unit: ml
+- time: 20201208195500
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20201208221300
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20201208234500
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20201209004900
+  name: 菊花茶
+  amount: 250
+  unit: ml
+- time: 20201209020500
+  name: 菊花茶
+  amount: 200
   unit: ml
 med:
 - time: 20201208140300
