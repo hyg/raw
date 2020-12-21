@@ -1,0 +1,25 @@
+date: 20201220
+sleep: 
+  time: 20201220075500
+  weight: 60.5
+wake:
+  time: 20201220155100
+  weight: 59.8
+exercise: 
+- time: 20201220161500
+  item:  
+  - type: 坐姿转体扭腰(42.2)
+    amount: 20
+    unit: turn 
+  - type: 侧平板支撑
+    amount: 20
+    unit: turn
+  - type: pilates.p095++
+    amount: 2
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 97
+
+comment: |+ 
