@@ -1,0 +1,91 @@
+date: 20201231
+food:
+- time: 20201231191000
+  name: 冰糖橙
+  amount: 100
+  unit: g
+- time: 20201231200300
+  name: 大米
+  amount: 30
+  unit: g
+- time: 20201231200300
+  name: 杂谷
+  amount: 30
+  unit: g
+- time: 20201231200300
+  name: 杂豆
+  amount: 30
+  unit: g
+- time: 20201231203000
+  name: 奶粉
+  amount: 28
+  unit: g
+- time: 20201231203000
+  name: 三倍零卡糖
+  amount: 1
+  unit: g
+- time: 20201231235500
+  name: 红薯
+  amount: 800
+  unit: g
+- time: 20210101000800
+  name: 奶粉
+  amount: 30
+  unit: g
+- time: 20210101040500
+  name: 苹果
+  amount: 180
+  unit: g
+water:
+- time: 20201231190700
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20201231203000
+  name: 咖啡
+  amount: 227
+  unit: ml
+- time: 20201231205000
+  name: 玫瑰花茶
+  amount: 250
+  unit: ml
+- time: 20210101000800
+  name: 咖啡
+  amount: 165
+  unit: ml
+- time: 20210101015600
+  name: 玫瑰花茶
+  amount: 250
+  unit: ml
+- time: 20210101021200
+  name: 玫瑰花茶
+  amount: 250
+  unit: ml
+- time: 20210101032100
+  name: 玫瑰花茶
+  amount: 250
+  unit: ml
+med:
+- time: 20201231203000
+  name: 牛磺酸
+  amount: 0.5
+  unit: g
+- time: 20201231203000
+  name: 阿拉伯糖
+  amount: 1.5
+  unit: g
+- time: 20210101000800
+  name: 牛磺酸
+  amount: 0.5
+  unit: g
+- time: 20210101000800
+  name: 阿拉伯糖
+  amount: 1.5
+  unit: g
+- time: 20201231113200
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
