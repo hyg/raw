@@ -33,15 +33,24 @@ try {
 }
 
 var arguments = process.argv.splice(2);
+var startdate,enddate ;
 if (arguments.length > 0) {
     if (arguments[0].length == 4) {
         foodyearlog(arguments[0]);
+        startdate = arguments[0]+"0101";
+        enddate = arguments[0]+"1231";
     } else {
         fooddaylog(arguments[0]);
+        startdate = arguments[0];
+        enddate = arguments[0];
     }
 } else {
     fooddaylog(datestr());
+    startdate = datestr();
+    enddate = datestr();
 }
+console.log("startdate=",startdate);
+console.log("enddate=",enddate);
 makeRfile();
 
 
@@ -288,7 +297,7 @@ function makeRfile() {
 
             //console.log("\n================="+day+"=================\nfood:\t"+fmap[day].comment+"\nhealth:\t"+hmap[day].comment);
             //if (day > "20150407") {
-            if (day > "20201001") {
+            if ((day >= startdate) && (day <= enddate)) {
                 cnt = cnt + 1;
                 if (bFirst) {
                     d = d + "\"" + day + "\"";

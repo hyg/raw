@@ -86,7 +86,7 @@ food:
   unit: g
 - time: 20201218062000
   name: 沃柑
-  amount: 10 0
+  amount: 100
   unit: g
 water:
 - time: 20201217161000
