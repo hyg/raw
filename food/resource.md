@@ -35,7 +35,10 @@
 
 #### 抗氧化
 * 麦胚芽：https://fuzhiyuansp.tmall.com/category-1153328603.htm
-* 番茄酱：https://xiaochu.tmall.com
+* 番茄酱：
+  - https://xiaochu.tmall.com
+  - https://tunhe.tmall.com
+  - https://guannonggufen.tmall.com
 * 绞股蓝：https://yigengtang.taobao.com
 
 #### 蔬菜
