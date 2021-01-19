@@ -51,11 +51,10 @@
   * https://suleijia.taobao.com
   * https://shop323533384.taobao.com
   * https://xinghuadami.tmall.com
-* 面粉：哈萨克斯坦硬麦、鑫乐（永良4号）、荣军农场（龙麦35）
+* 面粉：佳禾（嫩江县嘉田水稻种植专业合作社）、哈萨克斯坦硬麦、鑫乐（永良4号）、荣军农场（龙麦35）
   * https://detail.tmall.com/item.htm?id=595994374796
   * https://xinleshipin.tmall.com
   * https://item.taobao.com/item.htm?id=601681108022
-  * https://bfnjsp.taobao.com
 * 面条（低纳）：
   * https://detail.tmall.com/item.htm?id=590601689344
   * https://detail.tmall.com/item.htm?id=620403358130
