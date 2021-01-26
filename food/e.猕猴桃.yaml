@@ -1,0 +1,68 @@
+name: 猕猴桃
+amount: 100
+unit: g
+element:
+  能量:
+    amount: 56
+    unit: kcal
+    nrv: 3.1
+  脂肪:
+    amount: 0.6
+    unit: g
+    nrv: 1.2
+  蛋白质:
+    amount: 0.8
+    unit: g
+    nrv: 1.28
+  碳水化合物:
+    amount: 11.9
+    unit: g
+    nrv: 4.4
+  膳食纤维:
+    amount: 2.6
+    unit: g
+    nrv: 10.4
+  硫胺素:
+    amount: 50
+    unit: μg
+    nrv: 3.57
+  核黄素:
+    amount: 20
+    unit: μg
+    nrv: 1.43
+  烟酸:
+    amount: 300
+    unit: μg
+    nrv: 2.14
+  维生素A:
+    amount: 22
+    unit: μg
+    nrv: 2.75
+  维生素C:
+    amount: 62
+    unit: mg
+    nrv: 62
+  维生素E:
+    amount: 2.43
+    unit: mg
+    nrv: 17.36
+  钙:
+    amount: 27
+    unit: mg
+    nrv: 3.375
+  镁:
+    amount: 12
+    unit: mg
+    nrv: 3.43
+  钠:
+    amount: 10
+    unit: mg
+    nrv: 0.45
+  钾:
+    amount: 144
+    unit: mg
+    nrv: 7.2
+  磷:
+    amount: 26
+    unit: mg
+    nrv: 3.7

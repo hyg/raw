@@ -1,0 +1,48 @@
+name: 洋葱
+amount: 100
+unit: g
+element:
+  能量:
+    amount: 39
+    unit: kcal
+    nrv: 1.95
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0.3
+  蛋白质:
+    amount: 1.1
+    unit: g
+    nrv: 1.8
+  碳水化合物:
+    amount: 8.1
+    unit: g
+    nrv: 2.7
+  膳食纤维:
+    amount: 0.9
+    unit: g
+    nrv: 3.6
+  维生素A:
+    amount: 3
+    unit: μg
+    nrv: 0.375
+  维生素C:
+    amount: 8
+    unit: mg
+    nrv: 8
+  维生素E:
+    amount: 140
+    unit: μg
+    nrv: 1
+  钾:
+    amount: 147
+    unit: mg
+    nrv: 7.35
+  钙:
+    amount: 24
+    unit: mg
+    nrv: 3
+  磷:
+    amount: 39
+    unit: mg
+    nrv: 5.57

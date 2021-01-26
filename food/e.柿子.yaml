@@ -1,0 +1,64 @@
+name: 柿子
+amount: 100
+unit: g
+element:
+  能量:
+    amount: 71
+    unit: kcal
+    nrv: 3.97
+  脂肪:
+    amount: 0.1
+    unit: g
+    nrv: 0.2
+  蛋白质:
+    amount: 0.4
+    unit: g
+    nrv: 0.6
+  碳水化合物:
+    amount: 17.1
+    unit: g
+    nrv: 6.37
+  膳食纤维:
+    amount: 1.4
+    unit: g
+    nrv: 5.6
+  硫胺素:
+    amount: 20
+    unit: μg
+    nrv: 1.43
+  核黄素:
+    amount: 20
+    unit: μg
+    nrv: 1.43
+  烟酸:
+    amount: 300
+    unit: μg
+    nrv: 2.14
+  维生素A:
+    amount: 20
+    unit: μg
+    nrv: 2.5
+  维生素C:
+    amount: 30
+    unit: mg
+    nrv: 30
+  维生素E:
+    amount: 1.12
+    unit: mg
+    nrv: 8
+  钙:
+    amount: 9
+    unit: mg
+    nrv: 1.125
+  镁:
+    amount: 19
+    unit: mg
+    nrv: 5.43
+  钾:
+    amount: 151
+    unit: mg
+    nrv: 7.55
+  磷:
+    amount: 23
+    unit: mg
+    nrv: 3.29
