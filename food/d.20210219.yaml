@@ -1,49 +1,144 @@
-date: 20210218
+date: 20210219
 food:
-- time: 20210218161100
-  name: 猕猴桃
-  amount: 90
+- time: 20210219101700
+  name: 冰糖橙
+  amount: 100
   unit: g
-- time: 20210219002300
+- time: 20210219104500
   name: 红薯
   amount: 245
   unit: g
-- time: 20210219002300
+- time: 20210219104500
   name: 红枣
   amount: 29
   unit: g
-- time: 20210218203200
+- time: 20210219112000
   name: 奶粉
   amount: 27
   unit: g
-water:
-- time: 20210218160600
-  name: 开水
+- time: 20210219135000
+  name: 胡萝卜
+  amount: 58
+  unit: g
+- time: 20210219135000
+  name: 杏鲍菇
+  amount: 90
+  unit: g
+- time: 20210219135000
+  name: 洋葱
   amount: 120
+  unit: g
+- time: 20210219135000
+  name: 番茄酱
+  amount: 30
+  unit: g
+- time: 20210219135000
+  name: 豆瓣酱
+  amount: 14
+  unit: g
+- time: 20210219135000
+  name: 意面
+  amount: 60
+  unit: g
+- time: 20210219135000
+  name: 牛肉
+  amount: 114
+  unit: g
+- time: 20210219142000
+  name: 奶粉
+  amount: 30
+  unit: g
+- time: 20210219192000
+  name: 萝卜
+  amount: 282
+  unit: g
+- time: 20210219192000
+  name: 银杏仁
+  amount: 20
+  unit: g
+- time: 20210219192000
+  name: 虾米
+  amount: 4
+  unit: g
+- time: 20210219192000
+  name: 鲅鱼
+  amount: 49
+  unit: g
+- time: 20210219221000
+  name: 红薯
+  amount: 80
+  unit: g
+- time: 20210219221000
+  name: 红枣
+  amount: 20
+  unit: g
+- time: 20210219221000
+  name: 花生汤圆
+  amount: 220
+  unit: g
+- time: 20210220004500
+  name: 猕猴桃
+  amount: 100
+  unit: g
+- time: 20210220004700
+  name: 冰糖橙
+  amount: 100
+  unit: g
+- time: 20210220013000
+  name: 南果梨
+  amount: 150
+  unit: g
+water:
+- time: 20210219095300
+  name: 开水
+  amount: 200
   unit: ml
-- time: 20210218165500
+- time: 20210219112000
   name: 咖啡
   amount: 149
   unit: ml
-- time: 20210218175300
+- time: 20210219114700
   name: 六堡茶
   amount: 250
   unit: ml
-
+- time: 20210219142000
+  name: 咖啡
+  amount: 178
+  unit: ml
+- time: 20210219153300
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20210219164000
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20210219173800
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20210220000100
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20210220025000
+  name: 开水
+  amount: 100
+  unit: ml
 med:
-- time: 20210218165500
+- time: 20210219112000
   name: 牛磺酸
   amount: 0.5
   unit: g
-- time: 20210218165500
+- time: 20210219112000
   name: 阿拉伯糖
   amount: 0.5
   unit: g
-- time: 20210218203200
+- time: 20210219142000
   name: 牛磺酸
   amount: 0.5
   unit: g
-- time: 20210218183000
+- time: 20210219183000
   name: daily multi
   amount: 1
   unit: 片
