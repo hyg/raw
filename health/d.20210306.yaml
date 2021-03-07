@@ -1,0 +1,14 @@
+ date: 20210306
+sleep: 
+  time: 20210306121700
+  weight: 60.7
+wake:
+  time: 20210306182400
+  weight: 60.2
+
+stool:
+- time: 20210307013000
+  amount:   1   #	1:多;		2:适中;		3:少;
+  type:     2   #	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 1   #	1:不困难;	2:困难  
+comment: |+ 
