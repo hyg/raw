@@ -1,0 +1,88 @@
+date: 20210309
+food:
+- time: 20210309192900
+  name: 冰糖橙
+  amount: 100
+  unit: g
+- time: 20210309203500
+  name: 大米
+  amount: 80
+  unit: g
+- time: 20210309204000
+  name: 象大厨肉末茄子
+  amount: 200
+  unit: g
+- time: 20210309204000
+  name: 鸡蛋
+  amount: 100
+  unit: g
+- time: 20210309205500
+  name: 奶粉
+  amount: 32.5
+  unit: g
+- time: 20210309224800
+  name: 花生
+  amount: 30
+  unit: g
+- time: 20210310004000
+  name: 红枣
+  amount: 30
+  unit: g
+- time: 20210309040800
+  name: 芦笋
+  amount: 50
+  unit: g
+- time: 20210309040800
+  name: 小白菜
+  amount: 150
+  unit: g
+- time: 20210309040800
+  name: 红菜苔
+  amount: 150
+  unit: g
+- time: 20210309040800
+  name: 卤水豆腐
+  amount: 100
+  unit: g
+- time: 20210309040800
+  name: 鸡蛋
+  amount: 100
+  unit: g
+
+water:
+- time: 20210309191700
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20210309205500
+  name: 咖啡
+  amount: 157
+  unit: ml
+- time: 20210309221200
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20210309225900
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20210310011600
+  name: 六堡茶
+  amount: 250
+  unit: ml
+med:
+- time: 20210309205500
+  name: 牛磺酸
+  amount: 0.6
+  unit: g
+- time: 20210309003700
+  name: 牛磺酸
+  amount: 0.5
+  unit: g
+- time: 20210309230200
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
