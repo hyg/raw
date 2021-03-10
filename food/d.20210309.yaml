@@ -28,26 +28,7 @@ food:
   name: 红枣
   amount: 30
   unit: g
-- time: 20210309040800
-  name: 芦笋
-  amount: 50
-  unit: g
-- time: 20210309040800
-  name: 小白菜
-  amount: 150
-  unit: g
-- time: 20210309040800
-  name: 红菜苔
-  amount: 150
-  unit: g
-- time: 20210309040800
-  name: 卤水豆腐
-  amount: 100
-  unit: g
-- time: 20210309040800
-  name: 鸡蛋
-  amount: 100
-  unit: g
+
 
 water:
 - time: 20210309191700
@@ -74,10 +55,6 @@ med:
 - time: 20210309205500
   name: 牛磺酸
   amount: 0.6
-  unit: g
-- time: 20210309003700
-  name: 牛磺酸
-  amount: 0.5
   unit: g
 - time: 20210309230200
   name: daily multi
