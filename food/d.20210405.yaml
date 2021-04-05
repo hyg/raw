@@ -1,0 +1,75 @@
+date: 20210405
+food:
+- time: 20210405125400
+  name: 红薯
+  amount: 500
+  unit: g
+- time: 20210405143000
+  name: 奶粉
+  amount: 25
+  unit: g
+- time: 20210405173400
+  name: 花生
+  amount: 30
+  unit: g
+- time: 20210405192000
+  name: 芦笋
+  amount: 150
+  unit: g
+- time: 20210405192000
+  name: 油菜
+  amount: 150
+  unit: g
+- time: 20210405192000
+  name: 小白菜
+  amount: 150
+  unit: g
+- time: 20210405192000
+  name: 卤水豆腐
+  amount: 100
+  unit: g
+- time: 20210405192000
+  name: 鸡蛋
+  amount: 100
+  unit: g
+water:
+- time: 20210405120800
+  name: 开水
+  amount: 100
+  unit: ml
+- time: 20210405143000
+  name: 咖啡
+  amount: 138
+  unit: ml
+- time: 20210405155000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20210405174500
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20210405204000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20210405234500
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20210406022000
+  name: 绿茶
+  amount: 250
+  unit: ml
+med:
+- time: 20210405143000
+  name: 牛磺酸
+  amount: 0.5
+  unit: g
+- time: 20210406022000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
