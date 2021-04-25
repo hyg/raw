@@ -1,0 +1,79 @@
+date: 20210425
+food:
+- time: 20210425095200
+  name: 胡柚
+  amount: 200
+  unit: g
+- time: 20210425100000
+  name: 红薯
+  amount: 277
+  unit: g
+- time: 20210425100000
+  name: 红枣
+  amount: 30
+  unit: g
+- time: 20210425123000
+  name: 蔬菜沙拉
+  amount: 100
+  unit: g
+- time: 20210425123000
+  name: 干炒牛河
+  amount: 150
+  unit: g
+- time: 20210425123000
+  name: 虾肉
+  amount: 100
+  unit: g
+- time: 20210425191300
+  name: 花生
+  amount: 30
+  unit: g
+- time: 20210425193200
+  name: 苹果
+  amount: 180
+  unit: g
+water:
+- time: 20210425094300
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20210425101800
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20210425130000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20210425154200
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20210425160300
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20210425172600
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20210425180000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20210425190200
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20210425194300
+  name: 绿茶
+  amount: 250
+  unit: ml
+med:
+- time: 20210425194300
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
