@@ -2,5 +2,7 @@ date: 20210107
 sleep: 
   time: 20210107211400
   weight: 60.5
-
+wake:
+  time: 20210107042500
+  weight: 59.5
 comment: |+ 
