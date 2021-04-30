@@ -44,27 +44,6 @@ food:
   name: 花生
   amount: 20
   unit: g
-- time: 20210429001000
-  name: 油菜
-  amount: 150
-  unit: g
-- time: 20210429001000
-  name: 小白菜
-  amount: 150
-  unit: g
-- time: 20210429001000
-  name: 芦笋
-  amount: 150
-  unit: g
-- time: 20210429001000
-  name: 卤水豆腐
-  amount: 100
-  unit: g
-- time: 20210429001000
-  name: 鸡蛋
-  amount: 90
-  unit: g
-
 water:
 - time: 20210429125800
   name: 开水
