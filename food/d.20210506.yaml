@@ -68,30 +68,7 @@ food:
   name: 苹果
   amount: 150
   unit: g
-- time: 20210506235800
-  name: 番石榴
-  amount: 170
-  unit: g
-- time: 20210506031500
-  name: 油菜
-  amount: 150
-  unit: g
-- time: 20210506031500
-  name: 菠菜
-  amount: 150
-  unit: g
-- time: 20210506031500
-  name: 芦笋
-  amount: 150
-  unit: g
-- time: 20210506031500
-  name: 卤水豆腐
-  amount: 100
-  unit: g
-- time: 20210506031500
-  name: 鸡蛋
-  amount: 100
-  unit: g
+
 water:
 - time: 20210506162100
   name: 开水

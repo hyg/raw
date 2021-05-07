@@ -1,0 +1,24 @@
+name: 象大厨肉末外婆菜
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 30.1
+    unit: g
+    nrv: 50
+  蛋白质:
+    amount: 5.3
+    unit: g
+    nrv: 9
+  碳水化合物:
+    amount: 6.6
+    unit: g
+    nrv: 2
+  钠:
+    amount: 896
+    unit: mg
+    nrv: 45
+  能量:
+    amount: 1316
+    unit: kj
+    nrv: 16
