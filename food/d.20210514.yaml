@@ -62,6 +62,14 @@ water:
   name: 咖啡
   amount: 138
   unit: ml
+- time: 20210515015000
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20210515023300
+  name: 六堡茶
+  amount: 250
+  unit: ml
 med:
 - time: 20210514190000
   name: 牛磺酸
@@ -71,7 +79,7 @@ med:
   name: 牛磺酸
   amount: 0.5
   unit: g
-- time: 20210514075100
+- time: 20210515023300
   name: daily multi
   amount: 1
   unit: 片
