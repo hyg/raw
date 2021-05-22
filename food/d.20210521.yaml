@@ -1,0 +1,96 @@
+date: 20210521
+food:
+- time: 20210521185400
+  name: 胡柚
+  amount: 150
+  unit: g
+- time: 20210521200400
+  name: 杂谷
+  amount: 40
+  unit: g
+- time: 20210521200400
+  name: 杂豆
+  amount: 60
+  unit: g
+- time: 20210521203700
+  name: 奶粉
+  amount: 25.5
+  unit: g
+- time: 20210521235200
+  name: 荔枝
+  amount: 200
+  unit: g
+- time: 20210522003500
+  name: 娃娃菜
+  amount: 212
+  unit: g
+- time: 20210522003500
+  name: 豆瓣酱
+  amount: 18
+  unit: g
+- time: 20210522003500
+  name: 猪小排
+  amount: 320
+  unit: g
+- time: 20210522015400
+  name: 奶粉
+  amount: 28
+  unit: g
+- time: 20210522054200
+  name: 红薯
+  amount: 270
+  unit: g
+- time: 20210522080000
+  name: 鸡肉
+  amount: 89
+  unit: g
+- time: 20210522080000
+  name: 干酪丝
+  amount: 25
+  unit: g
+
+water:
+- time: 20210521183600
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20210521203700
+  name: 咖啡
+  amount: 110 
+  unit: ml
+- time: 20210521212400
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20210521221600
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20210522015400
+  name: 咖啡
+  amount: 140 
+  unit: ml
+- time: 20210522031500
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20210522082800
+  name: 六堡茶
+  amount: 250
+  unit: ml
+med:
+- time: 20210521203700
+  name: 牛磺酸
+  amount: 0.5
+  unit: g
+- time: 20210522015400
+  name: 牛磺酸
+  amount: 0.5
+  unit: g
+- time: 20210522082800
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
