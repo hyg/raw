@@ -81,7 +81,7 @@ food:
   amount: 25
   unit: g
 water:
-- time: 2021052222200
+- time: 20210524222200
   name: 开水
   amount: 250
   unit: ml
