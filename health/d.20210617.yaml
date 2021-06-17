@@ -1,0 +1,29 @@
+date: 20210617
+sleep: 
+  time: 20210616233100
+  weight: 61.5
+wake:
+  time: 20210617081400
+  weight: 60.6
+exercise: 
+- time: 20210617085900
+  item:  
+  - type: 坐姿转体扭腰(42.2) 
+    amount202: 20
+    unit: turn 
+  - type: 侧平板支撑 
+    amount: 20
+    unit: turn 
+  - type: pilates.p095++
+    amount: 4
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 97
+stool:
+- time: 20210617112000
+  amount:   3   #	1:多;		2:适中;		3:少;
+  type:     1   #	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 2   #	1:不困难;	2:困难  
+comment: |+ 
