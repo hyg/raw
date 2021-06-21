@@ -1,0 +1,83 @@
+date: 20210621
+food:
+- time: 20210621050900
+  name: 杂谷
+  amount: 40
+  unit: g
+- time: 20210621050900
+  name: 杂豆
+  amount: 42
+  unit: g
+- time: 20210621084500
+  name: 素三鲜包子
+  amount: 250
+  unit: g
+- time: 20210621191000
+  name: 辣白菜水饺
+  amount: 200
+  unit: g
+- time: 20210621191000
+  name: 甜虾
+  amount: 400
+  unit: g
+water:
+- time: 20210604050600
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20210621053200
+  name: 绿茶
+  amount: 150
+  unit: ml
+- time: 20210621084500
+  name: 豆浆
+  amount: 350
+  unit: ml
+- time: 20210621115500
+  name: 绿茶
+  amount: 350
+  unit: ml
+- time: 20210621133000
+  name: 开水
+  amount: 100
+  unit: ml
+- time: 20210621142500
+  name: 绿茶
+  amount: 350
+  unit: ml
+- time: 20210621180000
+  name: 绿茶
+  amount: 350
+  unit: ml
+- time: 20210621193000
+  name: 咖啡
+  amount: 350
+  unit: ml
+- time: 20210621213000
+  name: 咖啡
+  amount: 350
+  unit: ml
+- time: 20210621222500
+  name: 开水
+  amount: 150
+  unit: ml
+- time: 20210622022400
+  name: 咖啡
+  amount: 200
+  unit: ml
+med:
+- time: 20210621193000
+  name: 牛磺酸
+  amount: 1
+  unit: g
+- time: 20210621222500
+  name: daily multi
+  amount: 1
+  unit: 片
+- time: 20210621222500
+  name: selenium
+  amount: 200
+  unit: mcg
+comment: |+
+  ...
+ 
