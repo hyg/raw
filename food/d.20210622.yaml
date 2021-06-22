@@ -1,0 +1,79 @@
+date: 20210622
+food:
+- time: 20210622101000
+  name: 杨梅
+  amount: 300
+  unit: g
+- time: 20210622115000
+  name: 蒸饺
+  amount: 250
+  unit: g
+- time: 20210622115000
+  name: 胡萝卜
+  amount: 250
+  unit: g
+- time: 20210622115000
+  name: 玉米
+  amount: 120
+  unit: g
+- time: 20210622150700
+  name: 方便面
+  amount: 70
+  unit: g
+- time: 20210622150700
+  name: 鸡蛋
+  amount: 50
+  unit: g
+- time: 20210622150700
+  name: 牛肉丸
+  amount: 60
+  unit: g
+- time: 20210622183000
+  name: 蒸饺
+  amount: 250
+  unit: g
+water:
+- time: 202106040094500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20210622193000
+  name: 咖啡
+  amount: 350
+  unit: ml
+- time: 20210622193000
+  name: 汤水
+  amount: 300
+  unit: ml
+- time: 20210622120700
+  name: 咖啡
+  amount: 350
+  unit: ml
+- time: 202106040125300
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 202106040125300
+  name: 绿茶
+  amount: 350
+  unit: ml
+- time: 202106040153000
+  name: 绿茶
+  amount: 350
+  unit: ml
+- time: 202106040232300
+  name: 绿茶
+  amount: 350
+  unit: ml
+med:
+- time: 202106040232300
+  name: daily multi
+  amount: 1
+  unit: 片
+- time: 202106040232300
+  name: selenium
+  amount: 200
+  unit: mcg
+comment: |+
+  ...
+ 
