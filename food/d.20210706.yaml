@@ -1,0 +1,97 @@
+date: 20210706
+food:
+- time: 20210706124000
+  name: 胡柚
+  amount: 125
+  unit: g
+- time: 20210706131300
+  name: 绿豆
+  amount: 80
+  unit: g
+- time: 20210706131300
+  name: 十倍零卡糖
+  amount: 3
+  unit: g
+- time: 20210706135600
+  name: 奶粉
+  amount: 27
+  unit: g
+- time: 20210706164400
+  name: 荔枝
+  amount: 190
+  unit: g
+- time: 20210706182000
+  name: 荞麦面
+  amount: 60
+  unit: g
+- time: 20210706182000
+  name: 一休智造鱼香肉丝
+  amount: 220
+  unit: g
+- time: 20210706184000
+  name: 奶粉
+  amount: 28
+  unit: g
+- time: 20210706203800
+  name: 皇冠梨
+  amount: 241
+  unit: g
+- time: 20210706221500
+  name: 带鱼
+  amount: 75
+  unit: g
+- time: 20210706223000
+  name: 芒果
+  amount: 458
+  unit: g
+
+- time: 20210706032700
+  name: 桃
+  amount: 213
+  unit: g
+
+water:
+- time: 20210706123600
+  name: 开水
+  amount: 100
+  unit: ml
+- time: 20210706135600
+  name: 咖啡
+  amount: 140
+  unit: ml
+- time: 20210706145000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20210706180700
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20210706184000
+  name: 咖啡
+  amount: 133
+  unit: ml
+- time: 20210706192800
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20210706213300
+  name: 绿茶
+  amount: 250
+  unit: ml
+med:
+- time: 20210706135600
+  name: 牛磺酸
+  amount: 0.5
+  unit: g
+- time: 20210706184000
+  name: 牛磺酸
+  amount: 0.5
+  unit: g
+- time: 20210706040100
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
