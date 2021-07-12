@@ -68,11 +68,6 @@ food:
   name: 芒果
   amount: 457
   unit: g
-- time: 20210711021600
-  name: 桃
-  amount: 
-  unit: g
-
 water:
 - time: 20210710133900
   name: 开水

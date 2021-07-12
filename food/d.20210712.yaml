@@ -1,0 +1,92 @@
+date: 20210712
+food:
+- time: 20210712142300
+  name: 橙
+  amount: 150
+  unit: g
+- time: 20210712143700
+  name: 绿豆
+  amount: 90
+  unit: g
+- time: 20210712143700
+  name: 十倍零卡糖
+  amount: 3.5
+  unit: g
+- time: 20210712145200
+  name: 花生
+  amount: 27
+  unit: g
+- time: 20210712140000
+  name: 奶粉
+  amount: 25.5
+  unit: g
+- time: 20210712181700
+  name: 花生
+  amount: 25
+  unit: g
+- time: 20210712200000
+  name: 芒果
+  amount: 230
+  unit: g
+- time: 20210712203000
+  name: 萝卜
+  amount: 391
+  unit: g
+- time: 20210712203000
+  name: 口蘑
+  amount: 100
+  unit: g
+- time: 20210712203000
+  name: 卤水豆腐
+  amount: 200
+  unit: g
+- time: 20210712203000
+  name: 虾米
+  amount: 10
+  unit: g
+- time: 20210713004400
+  name: 桃
+  amount: 350
+  unit: g
+
+water:
+- time: 20210712141100
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20210712140000
+  name: 咖啡
+  amount: 123.4
+  unit: ml
+- time: 20210712154000
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20210712162800
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20210712183400
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20210712224600
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20210713012000
+  name: 绿茶
+  amount: 250
+  unit: ml
+med:
+- time: 20210712140000
+  name: 牛磺酸
+  amount: 0.5
+  unit: g
+- time: 20210713012000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
