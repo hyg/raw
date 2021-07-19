@@ -32,7 +32,6 @@ food:
   name: 奶粉
   amount: 25.5
   unit: g
-
 - time: 20210719030000
   name: 大米
   amount: 72.5
@@ -60,10 +59,6 @@ food:
 - time: 20210719030000
   name: 猪小排
   amount: 440
-  unit: g
-- time: 20210718035300
-  name: 桃
-  amount: 404
   unit: g
 water:
 - time: 20210718155900
