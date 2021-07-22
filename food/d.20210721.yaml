@@ -1,0 +1,117 @@
+date: 20210721
+food:
+- time: 20210721161900 
+  name: 橙
+  amount: 150
+  unit: g
+- time: 20210721163100
+  name: 绿豆
+  amount: 100
+  unit: g
+- time: 20210721163100
+  name: 十倍零卡糖
+  amount: 5.5
+  unit: g
+- time: 20210721164600
+  name: 花生
+  amount: 25
+  unit: g
+- time: 20210721170000
+  name: 奶粉
+  amount: 25
+  unit: g
+- time: 20210721220000
+  name: 毛豆
+  amount: 400
+  unit: g
+- time: 20210721222000
+  name: 花生
+  amount: 25
+  unit: g
+- time: 20210721224000
+  name: 奶粉
+  amount: 25
+  unit: g
+- time: 20210722030400
+  name: 梨
+  amount: 151
+  unit: g
+- time: 20210722031100
+  name: 杏梅
+  amount: 160
+  unit: g
+- time: 20210722053300
+  name: 油菜
+  amount: 100
+  unit: g
+- time: 20210722053300
+  name: 芦笋
+  amount: 100
+  unit: g
+- time: 20210722053300
+  name: 卤水豆腐
+  amount: 200
+  unit: g
+- time: 20210722053300
+  name: 鸡蛋
+  amount: 90
+  unit: g
+
+
+water:
+- time: 20210721154900
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20210721170000
+  name: 咖啡
+  amount: 111
+  unit: ml
+- time: 20210721174400
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20210721181800
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20210721190100
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20210721204700
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20210721224000
+  name: 咖啡
+  amount: 139
+  unit: ml
+- time: 20210721231600
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20210722064000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20210722102600
+  name: 红茶
+  amount: 250
+  unit: ml
+med:
+- time: 20210721170000
+  name: 牛磺酸
+  amount: 0.8
+  unit: g
+- time: 20210721224000
+  name: 牛磺酸
+  amount: 0.6
+  unit: g
+- time: 20210722102600
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
