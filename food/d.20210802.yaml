@@ -40,14 +40,6 @@ food:
   name: 红薯
   amount: 390
   unit: g
-- time: 20210802122200
-  name: 杏梅
-  amount: 102
-  unit: g
-- time: 20210802122400
-  name: 黑布林
-  amount: 128
-  unit: g
 water:
 - time: 20210802192200
   name: 开水
