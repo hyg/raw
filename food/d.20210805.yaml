@@ -1,0 +1,91 @@
+date: 20210805
+food:
+- time: 20210805210400
+  name: 橙
+  amount: 120
+  unit: g
+- time: 20210805214000
+  name: 绿豆
+  amount: 100
+  unit: g
+- time: 20210805214000
+  name: 十倍零卡糖
+  amount: 5
+  unit: g
+- time: 20210805215500
+  name: 奶粉
+  amount: 25
+  unit: g
+- time: 20210806022600
+  name: 大米
+  amount: 75
+  unit: g
+- time: 20210806022600
+  name: 鸡蛋
+  amount: 100
+  unit: g
+- time: 20210806022600
+  name: 一休智造红烧肉
+  amount: 200
+  unit: g
+- time: 20210806025000
+  name: 奶粉
+  amount: 25
+  unit: g
+- time: 20210806112100
+  name: 黑布林
+  amount: 218
+  unit: g
+water:
+- time: 20210805200500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20210805215500
+  name: 咖啡
+  amount: 140
+  unit: ml
+- time: 20210805230000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20210805234000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20210806022600
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20210806025000
+  name: 咖啡
+  amount: 125
+  unit: ml
+- time: 20210806043100
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20210806073900
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20210806112600
+  name: 红茶
+  amount: 250
+  unit: ml
+med:
+- time: 20210805215500
+  name: 牛磺酸
+  amount: 0.5
+  unit: g
+- time: 20210806025000
+  name: 牛磺酸
+  amount: 0.7
+  unit: g
+- time: 20210806112600
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
