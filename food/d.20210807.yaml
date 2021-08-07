@@ -1,0 +1,57 @@
+date: 20210807
+food:
+- time: 20210807204300
+  name: 橙
+  amount: 120
+  unit: g
+- time: 20210807205700
+  name: 红薯
+  amount: 485
+  unit: g
+- time: 20210807215700
+  name: 桃酥
+  amount: 47
+  unit: g
+- time: 20210807215700
+  name: 江米条
+  amount: 20
+  unit: g
+- time: 20210807222200
+  name: 奶粉
+  amount: 25.5
+  unit: g
+- time: 20210808005300
+  name: 葡萄
+  amount: 186
+  unit: g
+
+water:
+- time: 20210807203000
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20210807222200
+  name: 咖啡
+  amount: 138
+  unit: ml
+- time: 20210807230700
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20210808002600
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20210808011600
+  name: 红茶
+  amount: 250
+  unit: ml
+med:
+- time: 20210807222200
+  name: 牛磺酸
+  amount: 0.7
+  unit: g
+
+comment: |+
+  ...
+ 
