@@ -72,29 +72,25 @@ food:
   name: 奶粉
   amount: 26.3
   unit: g
-- time: 20210907185500
+- time: 20210907174300
   name: 油菜
   amount: 150
   unit: g
-- time: 20210907185500
+- time: 20210907174300
   name: 菠菜
   amount: 150
   unit: g
-- time: 20210907185500
+- time: 20210907174300
   name: 芦笋
   amount: 75
   unit: g
-- time: 20210907185500
+- time: 20210907174300
   name: 卤水豆腐
   amount: 100
   unit: g
-- time: 20210907185500
+- time: 20210907174300
   name: 鸡蛋
   amount: 50
-  unit: g
-- time: 20210907191200
-  name: 花生
-  amount: 25
   unit: g
 - time: 20210907191200
   name: 黑芝麻片
@@ -104,10 +100,11 @@ food:
   name: 巧克力
   amount: 9.4
   unit: g
-- time: 20210907213200
+- time: 20210907225500
   name: 梨
   amount: 100
-  unit: g  
+  unit: g
+
  water:
 - time: 20210907044000
   name: 柠檬水
@@ -154,6 +151,10 @@ food:
   amount: 250
   unit: ml
 - time: 20210907212000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20210907231600
   name: 红茶
   amount: 250
   unit: ml
