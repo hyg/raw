@@ -56,7 +56,6 @@ food:
   name: 奶粉
   amount: 26
   unit: g
-
 - time: 20210908185500
   name: 小白菜
   amount: 150
@@ -81,7 +80,6 @@ food:
   name: 龙利鱼肉
   amount: 100
   unit: g
-
 - time: 20210908191200
   name: 黑芝麻片
   amount: 14
@@ -90,7 +88,7 @@ food:
   name: 巧克力
   amount: 9.4
   unit: g
-- time: 20210908213200
+- time: 20210908225500
   name: 梨
   amount: 100
   unit: g  
@@ -132,6 +130,18 @@ food:
   amount: 250
   unit: ml
 - time: 20210908153100
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20210908193000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20210908212000
+  name: 红茶
+  amount: 250
+  unit: ml
+- time: 20210908231600
   name: 红茶
   amount: 250
   unit: ml
