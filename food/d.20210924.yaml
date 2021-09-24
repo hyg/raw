@@ -1,0 +1,107 @@
+date: 20210924
+food:
+- time: 20210924142900
+  name: 猕猴桃
+  amount: 90
+  unit: g
+- time: 20210924150000
+  name: 绿豆
+  amount: 100
+  unit: g
+- time: 20210924150000
+  name: 十倍零卡糖
+  amount: 5
+  unit: g
+- time: 20210924155100
+  name: 花生
+  amount: 25
+  unit: g
+- time: 20210924160600
+  name: 奶粉
+  amount: 25
+  unit: g
+- time: 20210924193700
+  name: 花生
+  amount: 20
+  unit: g  
+- time: 20210924194700
+  name: 巧克力
+  amount: 9.4
+  unit: g  
+- time: 20210924205500
+  name: 杏鲍菇
+  amount: 100
+  unit: g  
+- time: 20210924205500
+  name: 饺子
+  amount: 250
+  unit: g  
+- time: 20210924214200
+  name: 奶粉
+  amount: 25
+  unit: g
+- time: 20210925014500
+  name: 娃娃菜
+  amount: 100
+  unit: g  
+- time: 20210925014500
+  name: 饺子
+  amount: 250
+  unit: g  
+- time: 20210924044400
+  name: 梨
+  amount: 100
+  unit: g
+- time: 20210924044400
+  name: 柿子
+  amount: 180
+  unit: g
+water:
+- time: 20210924142500
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20210924160600
+  name: 咖啡
+  amount: 130
+  unit: ml
+- time: 20210924163300
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20210924182500
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20210924194300
+  name: 咖啡
+  amount: 130
+  unit: ml
+- time: 20210925003700
+  name: 六堡茶
+  amount: 250
+  unit: 
+- time: 20210925022200
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20210925041400
+  name: 六堡茶
+  amount: 250
+  unit: ml
+med:
+- time: 20210924160600
+  name: 牛磺酸
+  amount: 0.5
+  unit: g
+- time: 20210924194300
+  name: 牛磺酸
+  amount: 0.5
+  unit: g
+- time: 20210925041400
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
