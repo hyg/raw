@@ -1,0 +1,77 @@
+date: 20210929
+food:
+- time: 20210929143700
+  name: 红薯
+  amount: 300
+  unit: g
+- time: 20210929144800
+  name: 花生
+  amount: 25
+  unit: g
+- time: 20210929150300
+  name: 奶粉
+  amount: 25
+  unit: g
+
+- time: 20210929190500
+  name: 花生
+  amount: 25
+  unit: g
+- time: 20210929191400
+  name: 巧克力
+  amount: 9.4
+  unit: g
+- time: 20210929223000
+  name: 鸡排
+  amount: 100
+  unit: g
+- time: 20210929225000
+  name: 奶粉
+  amount: 25
+  unit: g  
+- time: 20210930025500
+  name: 荞麦面
+  amount: 60
+  unit: g  
+- time: 20210930025500
+  name: 一休智造酸菜鸡丝
+  amount: 170
+  unit: g  
+- time: 20210930034000
+  name: 梨
+  amount: 100
+  unit: g
+- time: 20210930034500
+  name: 柿子
+  amount: 180
+  unit: g
+water:
+- time: 20210929135200
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20210929150300
+  name: 咖啡
+  amount: 130
+  unit: ml
+- time: 20210929161500
+  name: 六堡茶
+  amount: 250
+  unit: ml
+
+med:
+- time: 20210929150300
+  name: 牛磺酸
+  amount: 0.5
+  unit: g
+- time: 20210929225000
+  name: 牛磺酸
+  amount: 0.5
+  unit: g
+- time: 20210930005000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
