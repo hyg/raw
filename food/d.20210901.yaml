@@ -72,7 +72,7 @@ food:
   name: 梨
   amount: 250
   unit: g
- water:
+water:
 - time: 20210901053500
   name: 柠檬水
   amount: 250

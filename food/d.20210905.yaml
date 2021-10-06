@@ -76,7 +76,7 @@ food:
   name: 巧克力
   amount: 9.4
   unit: g
- water:
+water:
 - time: 20210905075700
   name: 开水
   amount: 220
