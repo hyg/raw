@@ -1,0 +1,25 @@
+date: 20211012
+sleep: 
+  time: 20211012003300
+  weight: 61.8
+wake:
+  time: 20211012035500
+  weight: 61.1
+exercise: 
+- time: 20211012043000
+  item:  
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount202: 20
+    unit: turn  
+  - typ20e: 侧平板支撑 
+    amount: 20
+    unit: turn 
+  - type: pilates.p095++（仰卧直腿卷腹触足卷腹|straight leg toe touches++ *10）
+    amount: 5
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 110
+
+comment: |+ 
