@@ -1,0 +1,95 @@
+date: 20211020
+food:
+- time: 20211020201700
+  name: 橙
+  amount: 200
+  unit: g
+- time: 20211020203900
+  name: 大米
+  amount: 50
+  unit: g
+- time: 20211020203900
+  name: 大葱
+  amount: 20
+  unit: g
+- time: 20211020203900
+  name: 鸡肉
+  amount: 100
+  unit: g
+- time: 20211020225500
+  name: 花生
+  amount: 15
+  unit: g
+- time: 20211020225500
+  name: 黑芝麻
+  amount: 15
+  unit: g
+- time: 20211020210000
+  name: 奶粉
+  amount: 25
+  unit: g
+- time: 20211021000700
+  name: 南瓜
+  amount: 250
+  unit: g
+- time: 20211021022200
+  name: 奶粉
+  amount: 25
+  unit: g
+- time: 20211021025800
+  name: 冬枣
+  amount: 50
+  unit: g
+- time: 20211021033000
+  name: 荞麦面圈
+  amount: 60
+  unit: g
+- time: 20211021033000
+  name: 一休智造土豆烧牛肉
+  amount: 220
+  unit: g
+water:
+- time: 20211020193800
+  name: 柠檬水
+  amount: 250
+  unit: ml
+- time: 20211020210000
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20211020212400
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20211020221600
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20211021022200
+  name: 咖啡
+  amount: 150
+  unit: ml
+- time: 20211021040000
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20211021043000
+  name: 六堡茶
+  amount: 250
+  unit: ml
+med:
+- time: 20211020210000
+  name: 塔格糖
+  amount: 0.5
+  unit: g
+- time: 20211021022200
+  name: 阿拉伯糖
+  amount: 1
+  unit: g
+- time: 20211021043000
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
+  ...
+ 
