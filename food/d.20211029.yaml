@@ -1,105 +1,148 @@
-date: 20211019
+date: 20211029
 food:
-- time: 20211019203900
+- time: 20211029033700
+  name: 蜜橘
+  amount: 150
+  unit: g
+- time: 20211029034000
   name: 杂谷
-  amount: 80
+  amount: 50
   unit: g
-- time: 20211019203900
-  name: 红枣
-  amount: 100
+- time: 20211029034000
+  name: 灰枣
+  amount: 50
   unit: g
-- time: 20211019205700
+- time: 20211029035700
   name: 花生
-  amount: 15
+  amount: 10
   unit: g
-- time: 20211019205700
+- time: 20211029035700
   name: 黑芝麻
-  amount: 15
+  amount: 10
   unit: g
-- time: 20211019210200
+- time: 20211029055300
+  name: 杏鲍菇
+  amount: 90
+  unit: g
+- time: 20211029055300
+  name: 青椒
+  amount: 60
+  unit: g
+- time: 20211029055300
+  name: 干酪丝
+  amount: 20
+  unit: g
+- time: 20211029055300
+  name: 梅花肉
+  amount: 120
+  unit: g
+- time: 20211029060500
+  name: 红枣夹核桃
+  amount: 30
+  unit: g
+- time: 20211029060500
   name: 奶粉
   amount: 25
   unit: g
-- time: 20211019233000
-  name: 黄豆
-  amount: 50
+- time: 20211029100000
+  name: 萝卜
+  amount: 500
   unit: g
-- time: 20211019233000
-  name: 银杏仁
-  amount: 40
+- time: 20211029100000
+  name: 水饺
+  amount: 300
   unit: g
-- time: 20211019233000
-  name: 鲈鱼
+- time: 20211029122900
+  name: 猕猴桃
   amount: 200
   unit: g
-- time: 20211020011000
+- time: 20211029190600
+  name: 蜜橘
+  amount: 150
+  unit: g
+- time: 20211029204200
+  name: 面包
+  amount: 50
+  unit: g
+- time: 20211029204200
+  name: 杏鲍菇
+  amount: 70
+  unit: g
+- time: 20211029204200
+  name: 干酪丝
+  amount: 20
+  unit: g
+- time: 20211029204200
+  name: 梅花肉
+  amount: 200
+  unit: g
+- time: 20211029210300
+  name: 红枣夹核桃
+  amount: 30
+  unit: g
+- time: 20211029210500
   name: 奶粉
   amount: 25
   unit: g
-- time: 20211020061000
-  name: 大米
-  amount: 75
+- time: 20211030011400
+  name: 红枣夹核桃
+  amount: 60
   unit: g
-- time: 20211020061000
-  name: 一休智造糖醋里脊
-  amount: 220
-  unit: g
-- time: 20211020082200
-  name: 冬枣
-  amount: 50
-  unit: g
-
 water:
-- time: 20211019195700
-  name: 柠檬水
+- time: 20211029025200
+  name: 开水
+  amount: 150
+  unit: ml
+- time: 20211029042300
+  name: 六堡茶
   amount: 250
   unit: ml
-- time: 20211019210200
+- time: 20211029060500
   name: 咖啡
   amount: 150
   unit: ml
-- time: 20211019213000
+- time: 20211029064000
   name: 六堡茶
   amount: 250
   unit: ml
-- time: 20211019214100
+- time: 20211029071200
   name: 六堡茶
   amount: 250
   unit: ml
-- time: 20211020011000
+- time: 20211029093000
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20211029111800
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20211029192400
+  name: 六堡茶
+  amount: 250
+  unit: ml
+- time: 20211029210500
   name: 咖啡
   amount: 150
   unit: ml
-- time: 20211020025200
+- time: 20211029215300
   name: 六堡茶
   amount: 250
   unit: ml
-- time: 20211020031200
-  name: 六堡茶
-  amount: 250
-  unit: ml
-- time: 20211020071500
-  name: 六堡茶
-  amount: 250
-  unit: ml
-- time: 20211020082000
-  name: 六堡茶
-  amount: 250
-  unit: ml
-- time: 20211020083500
+- time: 20211029215300
   name: 六堡茶
   amount: 250
   unit: ml
 med:
-- time: 20211019210200
+- time: 20211029060500
   name: 塔格糖
   amount: 0.5
   unit: g
-- time: 20211020011000
+- time: 20211029210500
   name: 阿拉伯糖
   amount: 1
   unit: g
-- time: 20211020083500
+- time: 20211029071200
   name: daily multi
   amount: 1
   unit: 片
