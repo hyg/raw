@@ -9,7 +9,7 @@ exercise:
 - time: 20211111071700
   item:  
   - type: 坐姿转体扭腰(Core Twist) 
-    amount202: 20
+    amount: 20
     unit: turn  
   - type: pilates.p55 
     amount: 20

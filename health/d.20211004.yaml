@@ -9,7 +9,7 @@ exercise:
 - time: 20211004012500
   item:  
   - type: 坐姿转体扭腰(Core Twist) 
-    amount202: 20
+    amount: 20
     unit: turn  
   - type: 侧平板支撑 
     amount: 20

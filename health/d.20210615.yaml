@@ -9,7 +9,7 @@ exercise:
 - time: 202106151080300
   item:  
   - type: 坐姿转体扭腰(42.2) 
-    amount202: 20
+    amount: 20
     unit: turn 
   - type: 侧平板支撑 
     amount: 20
