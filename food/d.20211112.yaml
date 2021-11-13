@@ -31,7 +31,7 @@ food:
 - time: 20211112105700
   name: 奶粉
   amount: 26
-  unit: 
+  unit: g
 - time: 20211112125900
   name: 洋葱
   amount: 252
