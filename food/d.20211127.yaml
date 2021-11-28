@@ -84,25 +84,6 @@ food:
   name: 亚麻籽
   amount: 2
   unit: g
-
-
-- time: 20211127201300
-  name: 油菜
-  amount: 60
-  unit: g
-- time: 20211127201300
-  name: 小白菜
-  amount: 220
-  unit: g
-- time: 20211127201300
-  name: 卤水豆腐
-  amount: 160
-  unit: g
-- time: 20211127225700
-  name: 红薯
-  amount: 550
-  unit: g
-
 water:
 - time: 20211127134700
   name: 开水
