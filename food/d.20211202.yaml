@@ -72,20 +72,10 @@ food:
   name: 谷言肉末茄子
   amount: 200
   unit: g
-
-- time: 20211202022200
-  name: 奶粉
+- time: 20211203074100
+  name: 苹果
   amount: 25
   unit: g
-- time: 20211202022200
-  name: 可可粉
-  amount: 2
-  unit: g
-- time: 20211202022200
-  name: 三倍零卡糖
-  amount: 3
-  unit: g
-
 water:
 - time: 20211202155000
   name: 开水
