@@ -60,20 +60,6 @@ food:
   name: 枣
   amount: 72
   unit: g
-
-- time: 20211203022200
-  name: 奶粉
-  amount: 25
-  unit: g
-- time: 20211203022200
-  name: 可可粉
-  amount: 2
-  unit: g
-- time: 20211203022200
-  name: 三倍零卡糖
-  amount: 3
-  unit: g
-
 water:
 - time: 20211203172900
   name: 开水
