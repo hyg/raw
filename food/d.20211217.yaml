@@ -86,10 +86,10 @@ food:
   unit: g
 - time: 20211217151500
   name: 柿子
-  amount: 284
+  amount: 184
   unit: g
 water:
-- time: 2021121702800
+- time: 20211217014800
   name: 开水
   amount: 250
   unit: ml
