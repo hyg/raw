@@ -65,37 +65,6 @@ food:
   name: 柿子
   amount: 175
   unit: g
-
-- time: 20211218063000
-  name: 大米
-  amount: 60
-  unit: g
-- time: 20211218063000
-  name: 胡萝卜
-  amount: 125
-  unit: g
-- time: 20211218063000
-  name: 番茄酱
-  amount: 30
-  unit: g
-- time: 20211218063000
-  name: 豆瓣酱
-  amount: 5
-  unit: g
-- time: 20211218063000
-  name: 辣白菜
-  amount: 38
-  unit: g
-
-- time: 20211218140700
-  name: 奶粉
-  amount: 30
-  unit: g
-- time: 20211218140700
-  name: 可可粉
-  amount: 3.3
-  unit: g
-
 water:
 - time: 20211218032300
   name: 开水
