@@ -14,7 +14,7 @@ exercise:
   - type: 侧平板支撑 
     amount: 20
     unit: turn 
-  - type: pilates.p095++（仰卧直腿卷腹触足卷腹|straight leg toe touches++ *10）
+  - type: pilates.p095++（仰卧直腿触足卷腹|straight leg toe touches++ *10）
     amount: 5
     unit: turn
   - type: pilates.p079

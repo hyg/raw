@@ -68,20 +68,6 @@ food:
   name: 柿子
   amount: 167
   unit: g
-
-- time: 20211221233700
-  name: 奶粉
-  amount: 27.5
-  unit: g
-- time: 20211221233700
-  name: 可可粉
-  amount: 2.5
-  unit: g
-- time: 20211221233700
-  name: 蜂蜜
-  amount: 1
-  unit: g
-
 water:
 - time: 20211221070700
   name: 开水
