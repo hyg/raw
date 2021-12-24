@@ -1,0 +1,84 @@
+name: 萝卜
+amount: 100
+unit: g
+element:
+  能量:
+    amount: 13
+    unit: kcal
+    nrv: 0.65
+  脂肪:
+    amount: 0.1
+    unit: g
+    nrv: 0.17
+  蛋白质:
+    amount: 0.7
+    unit: g
+    nrv: 1.17
+  碳水化合物:
+    amount: 4
+    unit: g
+    nrv: 1.33
+  膳食纤维:
+    amount: 1.8
+    unit: g
+    nrv: 7.2
+  维生素B1:
+    amount: 0.02
+    unit: mg
+    nrv: 1.43
+  维生素B2:
+    amount: 0.01
+    unit: mg
+    nrv: 0.71 
+  维生素B6:
+    amount: 0.06
+    unit: mg
+    nrv: 4.29
+  维生素C:
+    amount: 19
+    unit: mg
+    nrv: 19
+  钙:
+    amount: 47
+    unit: mg
+    nrv: 5.88
+  磷:
+    amount: 16
+    unit: mg
+    nrv: 2.29
+  钾:
+    amount: 167
+    unit: mg
+    nrv: 8.35
+  钠:
+    amount: 54.3
+    unit: mg
+    nrv: 2.71
+  镁:
+    amount: 12
+    unit: mg
+    nrv: 4  
+  铁:
+    amount: 0.2
+    unit: mg
+    nrv: 1.33
+  锌:
+    amount: 0.14
+    unit: mg
+    nrv: 0.93
+  硒:
+    amount: 0.12
+    unit: μg
+    nrv: 0.24
+  铜:
+    amount: 0.01
+    unit: mg
+    nrv: 0.67
+  锰:
+    amount: 0.05
+    unit: mg
+    nrv: 1.67
+  叶酸:
+    amount: 6.8
+    unit: μg
+    nrv: 1.7

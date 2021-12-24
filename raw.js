@@ -24,6 +24,7 @@ try {
     for (var i = 0; i < list.length; i++) {
         if (list[i].substr(0, 2) == "d.") {
             h = yaml.safeLoad(fs.readFileSync("health/" + list[i], 'utf8'));
+            //if(!h.wake.weight) {console.log("can find wake data"+h.date);}
             hmap[h.date] = h;
         }
     }
@@ -316,6 +317,8 @@ function makeRfile() {
                     d = d + ',\"' + day + "\"";
                     w1 = w1 + "," + hmap[day].sleep.weight;
                     w2 = w2 + "," + hmap[day].wake.weight;
+
+                    //if(!hmap[day].wake.weight) {console.log("can find wake weight:"+day);}
 
                     sleep = sleep + "," + sleeptime;
                     wake = wake + "," + waketime;

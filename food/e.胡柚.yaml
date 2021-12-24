@@ -1,0 +1,76 @@
+name: 胡柚
+amount: 100
+unit: g
+element:
+  能量:
+    amount: 33
+    unit: kcal
+    nrv: 1.64
+  蛋白质:
+    amount: 0.7
+    unit: g
+    nrv: 1.17
+  脂肪:
+    amount: 0.3
+    unit: g
+    nrv: 0.5
+  碳水化合物:
+    amount: 7.8
+    unit: g
+    nrv: 2.6
+  维生素A:
+    amount: 47
+    unit: μg
+    nrv: 5.88
+  膳食纤维:
+    amount: 1.2
+    unit: g
+    nrv: 4.8
+  维生素B1:
+    amount: 0.05
+    unit: mg
+    nrv: 3.57
+  维生素B2:
+    amount: 0.01
+    unit: mg
+    nrv: 0.71 
+  维生素B6:
+    amount: 0.01
+    unit: mg
+    nrv: 0.71
+  维生素C:
+    amount: 38
+    unit: mg
+    nrv: 38
+  钙:
+    amount: 21
+    unit: mg
+    nrv: 2.62
+  磷:
+    amount: 17
+    unit: mg
+    nrv: 2.43
+  钾:
+    amount: 60
+    unit: mg
+    nrv: 3
+  钠:
+    amount: 7
+    unit: mg
+    nrv: 0.35
+  镁:
+    amount: 9
+    unit: mg
+    nrv: 3
+  铁:
+    amount: 0.1
+    unit: mg
+    nrv: 0.67
+  锌:
+    amount: 0.1
+    unit: mg
+    nrv: 0.67
+  尼克酸:
+    amount: 0.2
+    unit: μg
+    nrv: 1.43

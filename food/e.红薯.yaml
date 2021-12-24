@@ -1,0 +1,88 @@
+name: 红薯
+amount: 100
+unit: g
+element:
+  能量:
+    amount: 79
+    unit: kcal
+    nrv: 3.94
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0.33
+  蛋白质:
+    amount: 2.6
+    unit: g
+    nrv: 4.33
+  碳水化合物:
+    amount: 17.8
+    unit: g
+    nrv: 5.93
+  膳食纤维:
+    amount: 1.2
+    unit: g
+    nrv: 4.8
+  维生素A:
+    amount: 1
+    unit: μg
+    nrv: 0.12
+  维生素B1:
+    amount: 0.1
+    unit: mg
+    nrv: 7.14
+  维生素B2:
+    amount: 0.02
+    unit: mg
+    nrv: 1.43
+  维生素B6:
+    amount: 0.27
+    unit: mg
+    nrv: 19.29
+  维生素C:
+    amount: 14
+    unit: mg
+    nrv: 14
+  钙:
+    amount: 7
+    unit: mg
+    nrv: 0.88
+  镁:
+    amount: 24
+    unit: mg
+    nrv: 8
+  钾:
+    amount: 347
+    unit: mg
+    nrv: 17.35
+  磷:
+    amount: 46
+    unit: mg
+    nrv: 6.57
+  铁:
+    amount: 0.4
+    unit: mg
+    nrv: 2.67
+  锌:
+    amount: 0.3
+    unit: mg
+    nrv: 2
+  铜:
+    amount: 0.09
+    unit: mg
+    nrv: 6
+  锰:
+    amount: 0.1
+    unit: mg
+    nrv: 3.33
+  碘:
+    amount: 1.2
+    unit: μg
+    nrv: 0.8
+  硒:
+    amount: 0.47
+    unit: μg
+    nrv: 0.94
+  叶酸:
+    amount: 12.4
+    unit: μg
+    nrv: 3.1  
