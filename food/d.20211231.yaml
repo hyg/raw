@@ -52,15 +52,15 @@ food:
   name: 奶粉
   amount: 30
   unit: g
-- time: 202120101014700
+- time: 20220101014700
   name: 面包
   amount: 80
   unit: g
-- time: 202120101014700
+- time: 20220101014700
   name: 辣白菜
   amount: 50
   unit: g
-- time: 202120101014700
+- time: 20220101014700
   name: 卤牛肉
   amount: 80
   unit: g
