@@ -27,7 +27,7 @@
 
 1. 猪肉
    * https://laojuantou.taobao.com
-   * 中粮安至选
+   * 中粮安至选：https://anzhixuan.tmall.com
 1. 牛肉：
    * 中粮安至选
 1. 兔肉：https://pengdashipin.tmall.com
@@ -53,6 +53,7 @@
   * https://shop323533384.taobao.com
   * https://xinghuadami.tmall.com
 * 面粉：佳禾（嫩江县嘉田水稻种植专业合作社）、哈萨克斯坦硬麦、鑫乐（永良4号）、荣军农场（龙麦35）
+  * https://shop293589892.taobao.com
   * https://detail.tmall.com/item.htm?id=595994374796
   * https://xinleshipin.tmall.com
   * https://item.taobao.com/item.htm?id=601681108022
