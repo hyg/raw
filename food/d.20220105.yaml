@@ -41,27 +41,27 @@ food:
   name: 可可粉
   amount: 3
   unit: g
-- time: 202201050173000
+- time: 20220105173000
   name: 大米
   amount: 60
   unit: g
-- time: 202201050173000
+- time: 20220105173000
   name: 胡萝卜
   amount: 75
   unit: g
-- time: 202201050173000
+- time: 20220105173000
   name: 辣白菜
   amount: 30
   unit: g
-- time: 202201050173000
+- time: 20220105173000
   name: 番茄酱
   amount: 30
   unit: g
-- time: 202201050173000
+- time: 20220105173000
   name: 豆瓣酱
   amount: 7
   unit: g
-- time: 202201050173000
+- time: 20220105173000
   name: 卤牛肉
   amount: 89
   unit: g
@@ -73,19 +73,19 @@ food:
   name: 可可粉
   amount: 2
   unit: g
-- time: 202201050220600
+- time: 20220105220600
   name: 芦笋
   amount: 90
   unit: g
-- time: 202201050220600
+- time: 20220105220600
   name: 小白菜
   amount: 140
   unit: g
-- time: 202201050220600
+- time: 20220105220600
   name: 快菜
   amount: 115
   unit: g
-- time: 202201050220600
+- time: 20220105220600
   name: 鸡肉
   amount: 100
   unit: g
