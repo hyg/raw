@@ -65,6 +65,10 @@ food:
   amount: 3
   unit: g
 - time: 20220109163000
+  name:  辣白菜
+  amount: 30
+  unit: g
+- time: 20220109163000
   name:  卤牛肉
   amount: 70
   unit: g
