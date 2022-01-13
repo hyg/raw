@@ -104,6 +104,18 @@ food:
   name: 三文鱼
   amount: 70
   unit: g
+- time: 20220113014000
+  name: 荞麦片
+  amount: 60
+  unit: g
+- time: 20220113014000
+  name: 麦胚芽
+  amount: 20
+  unit: g
+- time: 20220113014000
+  name: 奶粉
+  amount: 20
+  unit: g
 water:
 - time: 20220112113400
   name: 开水
