@@ -52,7 +52,6 @@ food:
   name: 可可粉
   amount: 2.2
   unit: g
-
 - time: 20220115233000
   name: 荞麦片
   amount: 100
