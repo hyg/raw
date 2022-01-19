@@ -56,7 +56,6 @@ food:
   name: 奶粉
   amount: 30
   unit: g
-
 - time: 20220118223500
   name: 面包
   amount: 80
