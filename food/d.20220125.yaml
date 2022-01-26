@@ -76,7 +76,6 @@ food:
   name: 卤水豆腐
   amount: 200
   unit: g
-
 - time: 20220125230300
   name: 枸杞
   amount: 5.5
