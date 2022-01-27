@@ -1,12 +1,12 @@
-date: 20220126
+date: 20220127
 sleep: 
-  time: 20220126012900
-  weight: 59.2
+  time: 20220127051100
+  weight: 59.3
 wake:
-  time: 20220126125900
-  weight: 58.5
+  time: 20220127110300
+  weight: 58.9
 exercise: 
-- time: 20220126135500
+- time: 20220127115500
   item:  
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -20,9 +20,9 @@ exercise:
   - type: pilates.p079
     amount: 5
     unit: turn
-  endheartrate: 96
+  endheartrate: 104
 stool:
-- time: 20220126174000
+- time: 20220127222000
   amount:   2   #	1:多;		2:适中;		3:少;
   type:     1   #	0:水样;		1:软;		2:适中;		3:硬;
   diffcult: 1   #	1:不困难;	2:困难  
