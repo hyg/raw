@@ -41,9 +41,9 @@ if (arguments.length > 0) {
         startdate = arguments[0]+"0101";
         enddate = arguments[0]+"1231";
     } else {
-        fooddaylog(arguments[0]);
         startdate = arguments[0];
-        enddate = arguments[0];
+        enddate = arguments[1];
+        foodperiodlog(startdate,enddate);
     }
 } else {
     fooddaylog(datestr());
@@ -192,6 +192,72 @@ function fooddaysum(date,etable,ftable){
         }
     }
 
+}
+
+// 
+function foodperiodlog(startdate,enddate) {
+    let etable = new Object();
+    let ftable = new Object();
+    let daycnt = 0;
+
+    for(var date in fmap){
+        if((date >= startdate) && (date <= enddate)){
+            fooddaysum(date,etable,ftable);
+            daycnt++;
+        }
+    }
+
+    console.log("day counter = ",daycnt);
+
+    console.log("成份表\n名称\t\t总数量\t\t日均\t单位\tNRV(%)");
+    let keysSorted = Object.keys(etable).sort(function (a, b) { return etable[a].nrv - etable[b].nrv })
+
+    for (var i in keysSorted) {
+        var name = keysSorted[i];
+        if ((etable[name].unit == "g") && (etable[name].amount < 1)) {
+            if (etable[name].amount < 0.001) {
+                etable[name].unit = "μg";
+                etable[name].amount = etable[name].amount * 1000000;
+            } else {
+                etable[name].unit = "mg";
+                etable[name].amount = etable[name].amount * 1000;
+            }
+        }
+        var dayamount = etable[name].amount/daycnt ;
+        var daynrv = etable[name].nrv/daycnt ;
+        var amounttab = "\t\t";
+        if(etable[name].amount > 10000){
+            amounttab = "\t";
+        }
+
+        if (name.replace(/[^\x00-\xff]/g, '**').length < 8) {
+            console.log(name + "\t\t" + etable[name].amount.toFixed(2) + amounttab + dayamount.toFixed(2) + "\t" + etable[name].unit + "\t" + daynrv.toFixed(2));
+        } else {
+            console.log(name + "\t" + etable[name].amount.toFixed(2) + amounttab + dayamount.toFixed(2) + "\t" + etable[name].unit + "\t" + daynrv.toFixed(2));
+        }
+    }
+
+    console.log("\n未算入成份表的食物\n名称\t\t\t总数量\t\t日均\t单位");
+    let foodSorted = Object.keys(ftable).sort(function (a, b) { return ftable[a].amount - ftable[b].amount })
+
+    for (var i in foodSorted) {
+        var name = foodSorted[i];
+        var dayamount = ftable[name].amount/daycnt ;
+
+        var nametab = "\t\t\t"
+        if(name.replace(/[^\x00-\xff]/g, '**').length >= 8){
+            nametab = "\t\t";
+        }
+        if(name.replace(/[^\x00-\xff]/g, '**').length >= 16){
+            nametab = "\t";
+        }
+
+        var amounttab = "\t\t";
+        if(ftable[name].amount > 10000){
+            amounttab = "\t";
+        }
+        console.log(name + nametab + ftable[name].amount.toFixed(2) + amounttab + dayamount.toFixed(2) + "\t" + ftable[name].unit);
+    }
 }
 
 // 
