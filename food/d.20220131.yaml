@@ -104,7 +104,6 @@ food:
   name: 一休智造川香回锅肉
   amount: 220
   unit: g
-
 water:
 - time: 20220131164400
   name: 开水
