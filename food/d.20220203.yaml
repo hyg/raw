@@ -72,24 +72,6 @@ food:
   name: 鸡肉
   amount: 107
   unit: g
-
-
-- time: 20220203031500
-  name: 枸杞
-  amount: 7.3
-  unit: g
-- time: 20220203031500
-  name: 花生
-  amount: 5.7
-  unit: g
-- time: 20220203031500
-  name: 黑芝麻
-  amount: 3
-  unit: g
-- time: 20220203031500
-  name: 亚麻籽
-  amount: 2.1
-  unit: g
 water:
 - time: 20220203170000
   name: 开水
