@@ -1,152 +1,160 @@
-date: 20220204
+date: 20220205
 food:
-- time: 20220204192200
+- time: 20220205195500
   name: 杂谷
   amount: 40
   unit: g
-- time: 20220204192200
+- time: 20220205195500
   name: 杂豆
   amount: 20
   unit: g
-- time: 20220204192200
+- time: 20220205195500
   name: 南瓜
-  amount: 54
+  amount: 65
   unit: g
-- time: 20220204195200
+- time: 20220205200700
   name: 枸杞
   amount: 5
   unit: g
-- time: 20220204195200
+- time: 20220205200700
   name: 花生
-  amount: 5.8
+  amount: 5.1
   unit: g
-- time: 20220204195200
+- time: 20220205200700
   name: 黑芝麻
-  amount: 3
+  amount: 3.2
   unit: g
-- time: 20220204195200
+- time: 20220205200700
   name: 亚麻籽
   amount: 2
   unit: g
-- time: 20220204195900
+- time: 20220205201500
   name: 奶粉
   amount: 30
   unit: g
-- time: 20220204195900
+- time: 20220205201500
   name: 可可粉
-  amount: 4
+  amount: 3
   unit: g
-- time: 20220204231400
+- time: 20220206004400
   name: 大米
   amount: 60
   unit: g
-- time: 20220204231400
+- time: 20220206004400
   name: 胡萝卜
-  amount: 68
+  amount: 56
   unit: g
-- time: 20220204231400
+- time: 20220206004400
   name: 番茄酱
   amount: 30
   unit: g
-- time: 20220204231400
+- time: 20220206004400
   name: 豆瓣酱
-  amount: 6
+  amount: 7
   unit: g
-- time: 20220204231400
+- time: 20220206004400
   name: 辣白菜
-  amount: 22
+  amount: 25
   unit: g
-- time: 20220204231400
+- time: 20220206004400
   name: 羊肉
-  amount: 102
+  amount: 111
   unit: g
-- time: 20220204234500
+- time: 20220206005700
   name: 奶粉
   amount: 30.1
   unit: g
-- time: 20220204234500
+- time: 20220206005700
   name: 可可粉
-  amount: 4
+  amount: 4.1
   unit: g
 - time: 20220205052000
-  name: 娃娃菜
-  amount: 139
+  name: 木耳
+  amount: 10
   unit: g
 - time: 20220205052000
-  name: 青豆
-  amount: 61
+  name: 西兰花
+  amount: 118
   unit: g
 - time: 20220205052000
-  name: 水饺
-  amount: 350
+  name: 油菜
+  amount: 130
+  unit: g
+- time: 20220205052000
+  name: 小白菜
+  amount: 114
+  unit: g
+- time: 20220205052000
+  name: 卤水豆腐
+  amount: 200
   unit: g
 water:
-- time: 20220204182200
+- time: 20220205183200
   name: 开水
   amount: 250
   unit: ml
-- time: 20220204195900
+- time: 20220205201500
   name: 可可奶
-  amount: 134.1
+  amount: 117.2
   unit: ml
-- time: 20220204201000
+- time: 20220205211000
   name: 绿茶
   amount: 250
   unit: ml
-- time: 20220204205800
+- time: 20220205214100
   name: 绿茶
   amount: 250
   unit: ml
-- time: 20220204213400
+- time: 20220205221200
   name: 绿茶
   amount: 250
   unit: ml
-- time: 20220204234500
+- time: 20220206000600
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20220206005700
   name: 可可奶
-  amount: 135.9
+  amount: 121.1
   unit: ml
-- time: 20220204235700
+- time: 20220206014900
   name: 绿茶
   amount: 250
   unit: ml
-- time: 20220205002700
+- time: 20220206024500
   name: 绿茶
   amount: 250
   unit: ml
-- time: 20220205025300
+- time: 20220206040200
   name: 绿茶
   amount: 250
   unit: ml
-- time: 20220205031500
+- time: 20220206043400
   name: 绿茶
   amount: 250
   unit: ml
-- time: 20220205060000
+- time: 20220206062100
   name: 绿茶
   amount: 250
   unit: ml
-- time: 20220205065100
-  name: 绿茶
-  amount: 250
-  unit: ml
-- time: 20220205082200
+- time: 20220206075200
   name: 绿茶
   amount: 250
   unit: ml
 med:
-- time: 20220204195900
+- time: 20220205201500
   name: 塔格糖
   amount: 0.5
   unit: g
-- time: 20220204195900
+- time: 20220205201500
   name: 牛磺酸
   amount: 1
   unit: g
-- time: 20220204234500
+- time: 20220206005700
   name: 阿拉伯糖
-  amount: 1
+  amount: 0.9
   unit: g
-- time: 20220205065100
+- time: 20220206075200
   name: daily multi
   amount: 1
   unit: 片
