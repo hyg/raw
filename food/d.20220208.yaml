@@ -93,12 +93,12 @@ food:
   amount: 200
   unit: g
 water:
-- time: 20220208184000
+- time: 20220208185000
   name: 开水
   amount: 250
   unit: ml
 - time: 20220208201800
-  name: 可可粉
+  name: 可可奶
   amount: 119
   unit: ml
 - time: 20220208204800
