@@ -84,11 +84,6 @@ food:
   name: 腊肠
   amount: 86
   unit: g
-
-- time: 20220211090000
-  name: 奶粉
-  amount: 21
-  unit: g
 water:
 - time: 20220211194900
   name: 绿茶
