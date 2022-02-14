@@ -411,12 +411,14 @@ function makeRfile() {
     fs.writeFile("health/weight.R", wstr, (err) => {
         if (err) throw err;
         console.log('health/weight.R文件已被保存');
+        console.log('在R环境运行 source(\"D:/huangyg/git/raw/health/weight.R\",encoding = \"UTF-8\")');
       });
     
     var sleepstr = d + "\r\n" + sleep + "\r\n" + wake + "\r\n" + sleeplong + "\r\nplot(c(1:" + cnt + "),sleep,type=\"b\",pch=15,lty=1,col=\"red\",xaxt=\"n\",xlab = \"date\")\r\nlines(c(1:" + cnt + "),wake,type=\"b\",pch=17,lty=2,col=\"blue\")\r\nlines(c(1:" + cnt + "),sleeplong,type=\"b\",pch=21,lty=2,col=\"green\")\r\nlegend(\"topleft\",inset=.05,title=\"睡眠曲线\",c(\"睡\",\"醒\",\"时长\"),lty=c(1,2,2),pch=c(15,17,21),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 480)\r\naxis(1, c(1:" + cnt + "),date)\r\n";
     fs.writeFile("health/sleep.R", sleepstr, (err) => {
         if (err) throw err;
         console.log('health/sleep.R文件已被保存');
+        console.log('在R环境运行 source(\"D:/huangyg/git/raw/health/sleep.R\",encoding = \"UTF-8\")');
       });
 }
 
