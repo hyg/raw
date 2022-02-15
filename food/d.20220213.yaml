@@ -84,7 +84,6 @@ food:
   name: 卤水豆腐
   amount: 200
   unit: g
-
 water:
 - time: 20220213205600
   name: 开水
