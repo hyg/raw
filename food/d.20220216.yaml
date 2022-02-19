@@ -40,31 +40,31 @@ food:
   name: 可可粉
   amount: 2
   unit: g
-- time: 20220215061300
+- time: 20220216061300
   name: 大米
   amount: 60
   unit: g
-- time: 20220215061300
+- time: 20220216061300
   name: 胡萝卜
   amount: 50
   unit: g
-- time: 20220215061300
+- time: 20220216061300
   name: 西兰花
   amount: 240
   unit: g
-- time: 20220215061300
+- time: 20220216061300
   name: 油菜
   amount: 151
   unit: g
-- time: 20220215061300
+- time: 20220216061300
   name: 小白菜
   amount: 100
   unit: g
-- time: 20220215061300
+- time: 20220216061300
   name: 鸡蛋
   amount: 36
   unit: g
-- time: 20220215061300
+- time: 20220216061300
   name: 猪肉
   amount: 63
   unit: g
@@ -76,27 +76,27 @@ food:
   name: 可可粉
   amount: 4
   unit: g
-- time: 20220215131300
+- time: 20220216131300
   name: 大米
   amount: 60
   unit: g
-- time: 20220215131300
+- time: 20220216131300
   name: 洋葱
   amount: 365
   unit: g
-- time: 20220215131300
+- time: 20220216131300
   name: 番茄酱
   amount: 30
   unit: g
-- time: 20220215131300
+- time: 20220216131300
   name: 豆瓣酱
   amount: 13
   unit: g
-- time: 20220215131300
+- time: 20220216131300
   name: 辣白菜
   amount: 52
   unit: g
-- time: 20220215131300
+- time: 20220216131300
   name: 猪肉
   amount: 145
   unit: g
@@ -170,15 +170,15 @@ med:
   name: 阿拉伯糖
   amount: 1
   unit: g
-- time: 20220215075800
+- time: 20220216075800
   name: 维生素C
   amount: 200
   unit: mg
-- time: 20220215160000
+- time: 20220216160000
   name: 维生素C
   amount: 200
   unit: mg
-- time: 20220215160000 
+- time: 20220216160000 
   name: daily multi
   amount: 1
   unit: 片

@@ -21,5 +21,9 @@ exercise:
     amount: 5
     unit: turn
   endheartrate: 101
-
+stool:
+- time: 20220218195500
+  amount:   2   #	1:多;		2:适中;		3:少;
+  type:     2   #	0:水样;		1:软;		2:适中;		3:硬;
+  diffcult: 2   #	1:不困难;	2:困难  
 comment: |+ 
