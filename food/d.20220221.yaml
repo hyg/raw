@@ -62,7 +62,7 @@ food:
   unit: g
 - time: 20220221202500
   name: 鸡腿汉堡
-  amount: 160
+  amount: 140
   unit: g
 water:
 - time: 20220221050400
