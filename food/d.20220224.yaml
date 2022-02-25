@@ -32,7 +32,6 @@ food:
   name: 亚麻籽
   amount: 2
   unit: g
-
 - time: 20220224090300
   name: 奶粉
   amount: 30
