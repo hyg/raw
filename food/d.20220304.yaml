@@ -72,11 +72,6 @@ food:
   name: 猪大肠
   amount: 40
   unit: g
-
-- time: 20220304021500
-  name: 胡柚
-  amount: 235
-  unit: g
 water:
 - time: 20220304095000
   name: 开水
