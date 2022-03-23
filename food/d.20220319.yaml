@@ -157,7 +157,8 @@ med:
 - time: 20220319233400  
   name: daily multi
   amount: 1
-  unit: 片comment: |+
+  unit: 片
+comment: |+
   ...
  
 
