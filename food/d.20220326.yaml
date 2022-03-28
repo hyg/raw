@@ -117,6 +117,10 @@ water:
   name: 绿茶
   amount: 250
   unit: ml
+- time: 20220327104500
+  name: 绿茶
+  amount: 100
+  unit: ml
 med:
 - time: 20220326233300
   name: 塔格糖
@@ -130,7 +134,14 @@ med:
   name: 阿拉伯糖
   amount: 1
   unit: g
-comment: |+
+- time: 20220327104500 
+  name: 维生素C
+  amount: 200
+  unit: mg
+- time: 20220327104500  
+  name: daily multi
+  amount: 1
+  unit: 片comment: |+
   
  
 
