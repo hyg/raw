@@ -1,0 +1,23 @@
+date: 20220331
+food:
+- time: 20220402003400
+  name: 三文鱼
+  amount: 75
+  unit: g
+water:
+- time: 20220401215100
+  name: 牛奶
+  amount: 450
+  unit: ml
+- time: 20220401224100
+  name: 绿茶
+  amount: 250
+  unit: ml
+- time: 20220402003400
+  name: 绿茶
+  amount: 150
+  unit: ml
+comment: |+
+  
+ 
+
