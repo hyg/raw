@@ -60,7 +60,6 @@ food:
   name: 鱼腩
   amount: 117
   unit: g
-
 water:
 - time: 20220330194100
   name: 开水
@@ -111,7 +110,7 @@ med:
   name: 塔格糖
   amount: 0.5
   unit: g
-- time: 2022033022020
+- time: 20220330220200
   name: 牛磺酸
   amount: 1.1
   unit: g
