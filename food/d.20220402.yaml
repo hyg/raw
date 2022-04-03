@@ -76,7 +76,6 @@ food:
   name: 梅花肉
   amount: 100
   unit: g
-
 water:
 - time: 20220402055900
   name: 绿茶
