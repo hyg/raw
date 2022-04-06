@@ -6,7 +6,7 @@ food:
   unit: g
 - time: 20220404025300
   name: 花青素杂粮
-  amount: 37
+  amount: 30
   unit: g
 - time: 20220404025300
   name: 灰枣
@@ -192,7 +192,7 @@ water:
 med:
 - time: 20220404032600
   name: 塔格糖
-  amount: 0.1
+  amount: 0.5
   unit: g
 - time: 20220404032600
   name: 牛磺酸
