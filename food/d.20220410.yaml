@@ -6,7 +6,7 @@ food:
   unit: g
 - time: 20220410040700
   name: 花青素杂粮
-  amount: 30
+  amount: 35
   unit: g
 - time: 20220410040700
   name: 灰枣
@@ -75,11 +75,6 @@ food:
 - time: 20220410183000
   name: 一休智造毛氏红烧肉
   amount: 200
-  unit: g
-
-- time: 20220410173000
-  name: 橙
-  amount: 104
   unit: g
 water:
 - time: 20220410025900
