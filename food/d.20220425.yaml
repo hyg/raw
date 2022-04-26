@@ -36,7 +36,6 @@ food:
   name: 奶粉
   amount: 25.6
   unit: g
-
 - time: 20220425153800
   name: 大米
   amount: 60
@@ -65,15 +64,15 @@ food:
   name: 奶粉
   amount: 25.2
   unit: g
-- time: 202204252000000
+- time: 20220425200000
   name: 油菜
   amount: 125
   unit: g
-- time: 202204252000000
+- time: 20220425200000
   name: 菜心
   amount: 177
   unit: g
-- time: 202204252000000
+- time: 20220425200000
   name: 卤水豆腐
   amount: 100
   unit: g
@@ -130,6 +129,10 @@ water:
   name: 汤水
   amount: 350
   unit: ml
+- time: 20220426011700
+  name: 绿茶
+  amount: 200
+  unit: ml
 med:
 - time: 20220425121700
   name: 牛磺酸
@@ -139,11 +142,11 @@ med:
   name: 阿拉伯糖
   amount: 1.1
   unit: g
-- time: 20220425001700  
+- time: 20220426011700  
   name: 维生素B
   amount: 1
   unit: 片
-- time: 20220425001700  
+- time: 20220426011700  
   name: daily multi
   amount: 1
   unit: 片
