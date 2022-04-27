@@ -81,6 +81,10 @@ water:
   name: 绿茶
   amount: 250
   unit: ml
+- time: 20220426150400
+  name: 绿茶
+  amount: 250
+  unit: ml
 - time: 20220426155200
   name: 绿茶
   amount: 250
