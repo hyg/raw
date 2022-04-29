@@ -122,7 +122,6 @@ water:
   name: 绿茶
   amount: 250
   unit: ml
-
 med:
 - time: 20220428113500
   name: 牛磺酸
