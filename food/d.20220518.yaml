@@ -119,7 +119,7 @@ water:
   unit: ml
 - time: 20220518233300
   name: 菊花茶
-  amount: 2-0
+  amount: 200
   unit: ml
 med:
 - time: 20220518101000
