@@ -80,6 +80,18 @@ food:
   name: 橙
   amount: 100
   unit: g
+- time: 20220603034500
+  name: 荞麦片
+  amount: 71.2
+  unit: g
+- time: 20220603034500
+  name: 麦胚芽
+  amount: 30.4
+  unit: g
+- time: 20220603034500
+  name: 奶粉
+  amount: 20
+  unit: g
 water:
 - time: 20220602021000
   name: 开水
@@ -132,6 +144,10 @@ water:
 - time: 20220603004500
   name: 菊花茶
   amount: 250
+  unit: ml
+- time: 20220603042500
+  name: 菊花茶
+  amount: 190
   unit: ml
 med:
 - time: 20220602034300
