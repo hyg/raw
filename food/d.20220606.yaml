@@ -60,12 +60,10 @@ food:
   name: 香菇肉酱
   amount: 120
   unit: g
-
 - time: 20220607013000
   name: 奶粉
   amount: 25.1
   unit: g
-
 - time: 20220606023000
   name: 橙
   amount: 146
