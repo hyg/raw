@@ -68,7 +68,6 @@ food:
   name: 桃
   amount: 164
   unit: g
-
 water:
 - time: 20220630091100
   name: 开水
