@@ -44,8 +44,22 @@ food:
   name: 奶粉
   amount: 28.0
   unit: g
-
-
+- time: 20220719035300
+  name: 杏梅
+  amount: 612
+  unit: g
+- time: 20220719080000
+  name: 菠菜
+  amount: 240
+  unit: g
+- time: 20220719080000
+  name: 小白菜
+  amount: 138
+  unit: g
+- time: 20220719080000
+  name: 卤水豆腐
+  amount: 200
+  unit: g
 water:
 - time: 20220718143200
   name: 开水
@@ -79,17 +93,24 @@ water:
   name: 开水
   amount: 250
   unit: ml
-
+- time: 20220719085500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20220719122400
+  name: 开水
+  amount: 250
+  unit: ml
 med:
 - time: 20220718181800
   name: 牛磺酸
   amount: 1.2
   unit: g
-- time: 20220718040700  
+- time: 20220719085500  
   name: selenium
   amount: 200
   unit: μg
-- time: 20220718040700 
+- time: 20220719085500 
   name: daily multi
   amount: 1
   unit: 片
