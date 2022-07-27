@@ -1,9 +1,9 @@
 date: 20220727
 sleep: 
-  time: 20220727085400
-  weight: 60.1
+  time: 20220727115500
+  weight: 59.5
 wake:
-  time: 20220727181100
+  time: 20220727165500
   weight: 58.8
 exercise: 
 - time: 20220727190000
@@ -22,9 +22,9 @@ exercise:
     unit: turn
   endheartrate: 104
 stool:
-- time: 20220727203100
-  amount:   1   #	1:多;		2:适中;		3:少;
-  type:     1   #	0:水样;		1:软;		2:适中;		3:硬;
+- time: 202207272338100
+  amount:   2   #	1:多;		2:适中;		3:少;
+  type:     2   #	0:水样;		1:软;		2:适中;		3:硬;
   diffcult: 1  #	1:不困难;	2:困难
 comment: |+
   
