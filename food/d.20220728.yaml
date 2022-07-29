@@ -1,120 +1,176 @@
 date: 20220728
 food:
-- time: 20220728181500
+- time: 20220728103900
   name: 灰枣
   amount: 21
   unit: g
-- time: 20220728181500
+- time: 20220728103900
   name: 黑青稞
   amount: 30
   unit: g
-- time: 20220728181500
+- time: 20220728103900
   name: 花青素杂粮
   amount: 20
   unit: g
-- time: 20220728181500
+- time: 20220728103900
   name: 麦片
   amount: 10
   unit: g
-- time: 20220728183800
+- time: 20220728110000
   name: 亚麻籽
   amount: 5.0
   unit: g
-- time: 20220728183800
+- time: 20220728110000
   name: 枸杞
   amount: 5.0
   unit: g
-- time: 20220728183800
+- time: 20220728110000
   name: 麦胚芽
-  amount: 5.2
+  amount: 5.0
   unit: g
-- time: 20220728184500
+- time: 20220728111100
   name: 奶粉
   amount: 26.0
   unit: g
-- time: 20220728222222
+- time: 20220728111100
+  name: 蜂蜜
+  amount: 2.0
+  unit: g
+- time: 20220728144040
   name: 大米
   amount: 80
   unit: g
-- time: 20220728222222
+- time: 20220728144040
   name: 胡萝卜
-  amount: 120
+  amount: 168
   unit: g
-- time: 20220728222222
+- time: 20220728144040
   name: 番茄酱
   amount: 30
   unit: g
-- time: 20220728222222
+- time: 20220728144040
   name: 豆瓣酱
   amount: 8
   unit: g
-- time: 20220728222222
+- time: 20220728144040
   name: 辣白菜
-  amount: 40
+  amount: 36
   unit: g
-- time: 20220728222222
+- time: 20220728144040
   name: 卤猪肠
-  amount: 101
+  amount: 96
   unit: g
-- time: 20220728222222
+- time: 20220728144040
   name: 腊肉
-  amount: 26
+  amount: 20
   unit: g
-- time: 20220728224000
+- time: 20220728150000
   name: 奶粉
-  amount: 25.0
+  amount: 26.0
   unit: g
-- time: 20220728224000
+- time: 20220728191200
+  name: 炸糕
+  amount: 225
+  unit: g
+- time: 20220728191200
+  name: 豆沙春卷
+  amount: 60
+  unit: g
+- time: 20220728230900
+  name: 河粉
+  amount: 230
+  unit: g
+- time: 20220728230900
+  name: 卤猪肠
+  amount: 50
+  unit: g
+- time: 20220729002000
+  name: 奶粉
+  amount: 28.5
+  unit: g
+- time: 20220729002000
+  name: 可可粉
+  amount: 4.0
+  unit: g
+- time: 20220729002000
   name: 蜂蜜
-  amount: 1.3
+  amount: 1.1
   unit: g
-- time: 20220728013500
-  name: 杏梅
-  amount: 194
+- time: 20220729022200
+  name: 豆沙春卷
+  amount: 182
   unit: g
-- time: 20220728014100
+- time: 20220729045500
   name: 橙
-  amount: 117
+  amount: 119
+  unit: g
+- time: 20220729071100
+  name: 杏梅
+  amount: 173
   unit: g
 water:
-- time: 20220728165900
+- time: 20220728091300
   name: 开水
   amount: 250
   unit: ml
-- time: 20220728184500
+- time: 20220728111100
   name: 咖啡
-  amount: 102.0
+  amount: 118.8
   unit: ml
-- time: 20220728192100
+- time: 20220728120300
   name: 开水
   amount: 250
   unit: ml
-- time: 20220728204200
+- time: 20220728131100
   name: 开水
   amount: 250
   unit: ml
-- time: 20220728224000
+- time: 20220728150000
   name: 咖啡
-  amount: 106.6
+  amount: 103.7
   unit: ml
-- time: 20220728230500
+- time: 20220728180800
   name: 开水
   amount: 250
   unit: ml
-- time: 20220728010300
+- time: 20220728195700
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20220728215500
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20220729002000
+  name: 可可粉
+  amount: 102.8
+  unit: ml
+- time: 20220729010600
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20220729023800
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20220729055600
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20220729073700
   name: 开水
   amount: 250
   unit: ml
 med:
-- time: 20220728184500
+- time: 20220728111100
   name: 牛磺酸
   amount: 1.0
   unit: g
-- time: 20220728010300  
+- time: 20220729055600  
   name: selenium
   amount: 200
   unit: μg
-- time: 20220728010300 
+- time: 20220729055600 
   name: daily multi
   amount: 1
   unit: 片
