@@ -32,7 +32,6 @@ food:
   name: 奶粉
   amount: 25.1
   unit: g
-
 - time: 20220812000000
   name: 大米
   amount: 80
