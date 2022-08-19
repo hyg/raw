@@ -1,153 +1,60 @@
 date: 20220819
 food:
-- time: 20220819215500
+- time: 20220819235000
   name: 灰枣
-  amount: 21
+  amount: 20
   unit: g
-- time: 20220819215500
+- time: 20220819235000
   name: 黑青稞
   amount: 30
   unit: g
-- time: 20220819215500
+- time: 20220819235000
   name: 花青素杂粮
-  amount: 21
+  amount: 20
   unit: g
-- time: 20220819215500
+- time: 20220819235000
   name: 麦片
-  amount: 9
+  amount: 10
   unit: g
-- time: 20220819221600
+- time: 20220820001000
   name: 亚麻籽
-  amount: 4.8
+  amount: 5.0
   unit: g
-- time: 20220819221600
+- time: 20220820001000
   name: 枸杞
   amount: 5.0
   unit: g
-- time: 20220819221600
+- time: 20220820001000
   name: 麦胚芽
   amount: 6.5
   unit: g
-- time: 20220819222500
+- time: 20220820001800
   name: 奶粉
-  amount: 27.5
+  amount: 26.5
   unit: g
-- time: 20220820013500
-  name: 大米
-  amount: 70
-  unit: g
-- time: 20220820013500
-  name: 胡萝卜
-  amount: 112
-  unit: g
-- time: 20220820013500
-  name: 番茄酱
-  amount: 30
-  unit: g
-- time: 20220820013500
-  name: 豆瓣酱
-  amount: 7
-  unit: g
-- time: 20220820013500
-  name: 辣白菜
-  amount: 21
-  unit: g
-- time: 20220820013500
-  name: 羊肉
-  amount: 150
-  unit: g
-- time: 20220820015000
-  name: 奶粉
-  amount: 27.0
-  unit: g
-- time: 20220820042800
+- time: 20220820032200
   name: 桃
-  amount: 217
-  unit: g
-- time: 20220820085100
-  name: 黑布林
-  amount: 368
-  unit: g
-- time: 20220820091500
-  name: 卤水豆腐
-  amount: 200
-  unit: g
-- time: 20220820091500
-  name: 三文鱼
-  amount: 313
-  unit: g
-- time: 20220820110000
-  name: 奶粉
-  amount: 25.0
-  unit: g
-- time: 20220820110000
-  name: 可可粉
-  amount: 4.1
-  unit: g
-- time: 20220820110000
-  name: 蜂蜜
-  amount: 1.3
+  amount: 195
   unit: g
 water:
-- time: 20220819205400
+- time: 20220819222700
   name: 开水
   amount: 200
   unit: ml
-- time: 20220819222500
+- time: 20220820001800
   name: 咖啡
-  amount: 115.9
+  amount: 102.9
   unit: ml
-- time: 20220819224800
+- time: 20220820011600
   name: 开水
   amount: 250
   unit: ml
-- time: 20220820000300
+- time: 20220820014300
   name: 开水
   amount: 250
   unit: ml
-- time: 20220820015000
-  name: 咖啡
-  amount: 105.5
-  unit: ml
-- time: 20220820021300
+- time: 20220820040400
   name: 开水
   amount: 250
   unit: ml
-- time: 20220820032200
-  name: 开水
-  amount: 250
-  unit: ml
-- time: 20220820064700
-  name: 开水
-  amount: 250
-  unit: ml
-- time: 20220820091500
-  name: 汤水
-  amount: 350
-  unit: ml
-- time: 20220820102800
-  name: 开水
-  amount: 250
-  unit: ml
-- time: 20220820110000
-  name: 可可奶
-  amount: 119.7
-  unit: ml
-- time: 20220820121300
-  name: 开水
-  amount: 250
-  unit: ml
-- time: 20220820145200
-  name: 开水
-  amount: 250
-  unit: ml
-med:
-- time: 20220820145200  
-  name: selenium
-  amount: 200
-  unit: μg
-- time: 20220820145200 
-  name: daily multi
-  amount: 1
-  unit: 片
 comment: |+
