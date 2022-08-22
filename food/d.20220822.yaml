@@ -1,0 +1,61 @@
+date: 20220822
+food:
+- time: 20220822221400
+  name: 灰枣
+  amount: 20
+  unit: g
+- time: 20220822221400
+  name: 杂粮
+  amount: 30
+  unit: g
+- time: 20220822221400
+  name: 花青素杂粮
+  amount: 20
+  unit: g
+- time: 20220822221400
+  name: 麦片
+  amount: 10
+  unit: g
+- time: 20220822223500
+  name: 亚麻籽
+  amount: 5.0
+  unit: g
+- time: 20220822223500
+  name: 枸杞
+  amount: 5.0
+  unit: g
+- time: 20220822223500
+  name: 麦胚芽
+  amount: 6.1
+  unit: g
+- time: 20220822224100
+  name: 奶粉
+  amount: 32.0
+  unit: g
+water:
+- time: 20220822210900
+  name: 开水
+  amount: 200
+  unit: ml
+- time: 20220822224100
+  name: 咖啡
+  amount: 124.8
+  unit: ml
+- time: 20220822225700
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20220822234300
+  name: 开水
+  amount: 250
+  unit: ml
+med:
+- time: 20220822234300  
+  name: selenium
+  amount: 200
+  unit: μg
+- time: 20220822234300 
+  name: daily multi
+  amount: 1
+  unit: 片
+comment: |+
