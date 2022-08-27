@@ -72,12 +72,6 @@ food:
   name: 酱菜
   amount: 37
   unit: g
-
-
-- time: 20220826192300
-  name: 压缩干粮
-  amount: 125
-  unit: g
 water:
 - time: 20220826014300
   name: 开水
