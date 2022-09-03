@@ -14,7 +14,7 @@ food:
   unit: g
 - time: 20220902031200
   name: 麦片
-  amount: 12
+  amount: 10
   unit: g
 - time: 20220902033100
   name: 亚麻籽
