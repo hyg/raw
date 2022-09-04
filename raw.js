@@ -11,11 +11,11 @@ try {
     var list = fs.readdirSync("food");
     for (var i = 0; i < list.length; i++) {
         if (list[i].substr(0, 2) == "d.") {
-            f = yaml.safeLoad(fs.readFileSync("food/" + list[i], 'utf8'));
+            f = yaml.load(fs.readFileSync("food/" + list[i], 'utf8'));
             fmap[f.date] = f;
         }
         if (list[i].substr(0, 2) == "e.") {
-            e = yaml.safeLoad(fs.readFileSync("food/" + list[i], 'utf8'));
+            e = yaml.load(fs.readFileSync("food/" + list[i], 'utf8'));
             emap[e.name] = e;
         }
     }
@@ -23,7 +23,7 @@ try {
     list = fs.readdirSync("health");
     for (var i = 0; i < list.length; i++) {
         if (list[i].substr(0, 2) == "d.") {
-            h = yaml.safeLoad(fs.readFileSync("health/" + list[i], 'utf8'));
+            h = yaml.load(fs.readFileSync("health/" + list[i], 'utf8'));
             //if(!h.wake.weight) {console.log("can find wake data"+h.date);}
             hmap[h.date] = h;
         }
