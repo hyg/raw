@@ -28,7 +28,6 @@ food:
   name: 麦胚芽
   amount: 6.0
   unit: g
-
 - time: 20220907062100
   name: 奶粉
   amount: 25.1
