@@ -92,6 +92,10 @@ food:
   name: 柿子
   amount: 95
   unit: g
+- time: 20221007032600
+  name: 压缩干粮
+  amount: 62.5
+  unit: g
 water:
 - time: 20221006114600
   name: 开水
@@ -130,6 +134,10 @@ water:
   amount: 118.3
   unit: ml
 - time: 20221007024300
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20221007034200
   name: 开水
   amount: 250
   unit: ml
