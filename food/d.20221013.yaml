@@ -60,7 +60,6 @@ food:
   name: 奶粉
   amount: 25.0
   unit: g
-
 - time: 20221013230500
   name: 豆皮
   amount: 49
