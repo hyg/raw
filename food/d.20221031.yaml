@@ -36,7 +36,6 @@ food:
   name: 奶粉
   amount: 26.0
   unit: g
-
 - time: 20221031191500
   name: 土豆粉条
   amount: 74
