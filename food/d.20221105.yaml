@@ -53,10 +53,6 @@ food:
   amount: 224
   unit: g
 - time: 20221105212100
-  name: 豆皮
-  amount: 45
-  unit: g
-- time: 20221105212100
   name: 羊筋
   amount: 125
   unit: g
