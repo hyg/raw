@@ -84,6 +84,10 @@ food:
   name: 可可粉
   amount: 4.0
   unit: g
+- time: 20221116094800
+  name: 灰枣
+  amount: 62
+  unit: g
 water:
 - time: 20221115193400
   name: 开水
