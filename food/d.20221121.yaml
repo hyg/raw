@@ -122,15 +122,15 @@ water:
   amount: 100
   unit: ml
 med:
-- time: 202211220702500  
+- time: 20221122072500  
   name: 维生素D3
   amount: 125
   unit: μg
-- time: 202211220702500  
+- time: 20221122072500  
   name: selenium
   amount: 200
   unit: μg
-- time: 202211220702500 
+- time: 20221122072500 
   name: daily multi
   amount: 1
   unit: 片
