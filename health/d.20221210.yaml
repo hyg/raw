@@ -1,0 +1,32 @@
+date: 20221210
+sleep: 
+  time: 20221209210200
+  weght: 59.3
+wake:
+  time: 20221210051500
+  weight: 58.5
+exercise: 
+- time: 20221210060000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: pilates.p095++（仰卧直腿触足卷腹 | straight leg toe touches++ *10）
+    amount: 5
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 116
+stool:
+- time: 20221210192500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 2   #	1:不困难;	2:困难
+comment: |+
+睡觉时觉得冷，用了电热膜、热水袋和热水瓶。结果零点左右热醒，浑身湿透。补水后关掉电热膜，把热水袋、热水瓶推到被子外，才稍微睡好。
+睡醒时不咳嗽，吞咽疼。起床穿衣服时后背还有汗水，受凉后有点咳嗽。
+运动后，上颚后端发炎的地方有一层痰膜脱落。
