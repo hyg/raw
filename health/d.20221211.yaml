@@ -1,0 +1,25 @@
+date: 20221211
+sleep: 
+  time: 20221210214000
+  weght: 58.9
+wake:
+  time: 20221211083300
+  weight: 58.0
+exercise: 
+- time: 20221211094100
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: pilates.p095++（仰卧直腿触足卷腹 | straight leg toe touches++ *10）
+    amount: 5
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 105
+comment: |+
+气管上部发痒有痰，吸入冷空气刺激会咳嗽，咳掉痰更容易刺激，不咳掉可能会向下流乳气管。
