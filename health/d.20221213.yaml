@@ -1,0 +1,26 @@
+date: 20221213
+sleep: 
+  time: 20221213014400
+  weght: 59.0
+wake:
+  time: 20221213101600
+  weight: 58.2
+exercise: 
+- time: 20221213111500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: pilates.p095++（仰卧直腿触足卷腹 | straight leg toe touches++ *10）
+    amount: 5
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 97
+comment: |+
+早起时，上颚后端基本不疼了，气管上端还是痒而且咳嗽。鼻子通畅了。
+咳嗽时有呕气、太阳穴略疼。
