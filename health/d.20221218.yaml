@@ -1,0 +1,31 @@
+date: 20221218
+sleep: 
+  time: 20221218015500
+  weght: 58.5
+wake:
+  time: 20221218110000
+  weight: 57.9
+exercise: 
+- time: 20221218114500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: pilates.p095++（仰卧直腿触足卷腹 | straight leg toe touches++ *10）
+    amount: 5
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 96
+stool:
+- time: 20221219004000
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+醒来气管顶端有痰，但只有在吞咽刺激到气管上端时零星咳嗽。早餐吃到灰枣也会因为枣皮划过那里咳嗽几下。
+上颚后端已经没有感觉，舌根右侧溃疡还疼。
