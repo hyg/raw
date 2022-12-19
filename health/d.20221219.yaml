@@ -1,0 +1,31 @@
+date: 20221219
+sleep: 
+  time: 20221219012000
+  weght: 59.1
+wake:
+  time: 20221219114100
+  weight: 58.1
+exercise: 
+- time: 20221219123000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: pilates.p095++（仰卧直腿触足卷腹 | straight leg toe touches++ *10）
+    amount: 5
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 91
+stool:
+- time: 20221219191500
+  amount:   3   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 2   #	1:不困难;	2:困难
+comment: |+
+上颚后端基本没有症状，气管顶端还是有痰、不算很痒、但是有轻微压迫的疤痕感觉。
+吸入冷气时偶尔咳嗽。吞咽枣皮的时候没有咳嗽，对这类轻微刺激已经不敏感。
