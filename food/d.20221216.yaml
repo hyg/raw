@@ -108,7 +108,7 @@ water:
 - time: 20221216163700
   name: 牛奶
   amount: 121.5
-  unit: m
+  unit: ml
 - time: 20221216172300
   name: 开水
   amount: 250
