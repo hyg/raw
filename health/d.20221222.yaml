@@ -1,0 +1,32 @@
+date: 20221222
+sleep: 
+  time: 20221222025500
+  weght: 60.3
+wake:
+  time: 20221222112500
+  weight: 59.5
+exercise: 
+- time: 20221222122000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: pilates.p095++（仰卧直腿触足卷腹 | straight leg toe touches++ *10）
+    amount: 5
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 97
+stool:
+- time: 20221222143000
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+9点多醒了一次，上颚后端开始发干、出现粘液。补水约100ml继续睡。
+11点多舌头左侧发疼醒来，没有明显伤口，也有发干的感觉。舌根右侧溃疡基本好了。
+气管顶端略发痒、基本不咳嗽，这个位置痰也不多。
