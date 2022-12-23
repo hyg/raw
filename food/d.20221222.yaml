@@ -80,6 +80,10 @@ food:
   name: 柚子
   amount: 94.5
   unit: g
+- time: 20221223014300
+  name: 灰枣
+  amount: 100
+  unit: g
 water:
 - time: 20221222113200
   name: 开水
@@ -124,6 +128,10 @@ water:
 - time: 20221223010200
   name: 开水
   amount: 150
+  unit: ml
+- time: 20221223014900
+  name: 开水
+  amount: 100
   unit: ml
 med:
 - time: 20221222235900  

@@ -1,0 +1,33 @@
+date: 20221223
+sleep: 
+  time: 20221223021500
+  weght: 59.9
+wake:
+  time: 20221223121800
+  weight: 59.4
+exercise: 
+- time: 20221223131500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: pilates.p095++（仰卧直腿触足卷腹 | straight leg toe touches++ *10）
+    amount: 5
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 90
+stool:
+- time: 20221223200500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+五点多口干，起床补充了300ml温水。
+醒来后上颚后端、鼻腔略微发干，有一点稀的粘液，但是没有破皮的疼痛。
+舌根右侧和舌中部左侧都不再有溃疡，只是略微有点痊愈不完全的隐痛。
+气管上端还有点痒，有结痂后的纤维化，冷空气刺激到会闭口从鼻子轻轻咳嗽。
