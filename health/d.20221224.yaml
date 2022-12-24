@@ -1,0 +1,31 @@
+date: 20221224
+sleep: 
+  time: 20221224045500
+  weght: 60.5
+wake:
+  time: 20221224122000
+  weight: 59.8
+exercise: 
+- time: 20221224131000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: pilates.p095++（仰卧直腿触足卷腹 | straight leg toe touches++ *10）
+    amount: 5
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 90
+stool:
+- time: 20221224231500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+半夜没有补水，醒来时上颚后端略微发干，但是没有破皮，也很少痰了。舌头两侧都没有疼痛感。气管顶端发痒很轻微了，深呼吸也没有刺激到，但是仍然有缺乏弹性的疤痕感觉。
+运动时抬头低头动作挤压气管，有轻微咳嗽，基本无痰。
