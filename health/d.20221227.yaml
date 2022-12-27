@@ -1,0 +1,33 @@
+date: 20221227
+sleep: 
+  time: 20221227031300
+  weght: 60.7
+wake:
+  time: 20221227120000
+  weight: 59.7
+exercise: 
+- time: 20221227124500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: pilates.p095++（仰卧直腿触足卷腹 | straight leg toe touches++ *10）
+    amount: 5
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 90
+stool:
+- time: 20221227191000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+6点多补水250ml，10点多补水50ml。起床前有闭口咳嗽，有痰。起床时上颚左后端发干，但没有破皮。口腔向上去左鼻孔的垂直管壁有痰。气管上端从喉结到口腔有痰，也是靠左侧。舌右侧在冲牙器水压下疼，平时略有不适。
+怕冷，用了一个热水袋、一个运动水杯、开电热膜，睡到6点多身上皮肤还是冷的，起床时身上热但是两脚是冷的。
+运动时无痰，气管痒、有闭口咳嗽。
+白天用一副发热鞋垫，一张取暖贴在后腰，一副电热片在前胸后背偏左。
