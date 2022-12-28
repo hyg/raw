@@ -1,0 +1,36 @@
+date: 20221228
+sleep: 
+  time: 20221228043700
+  weght: 60.9
+wake:
+  time: 20221228123000
+  weight: 60.1
+exercise: 
+- time: 20221228133000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: pilates.p095++（仰卧直腿触足卷腹 | straight leg toe touches++ *10）
+    amount: 5
+    unit: turn
+  - type: pilates.p079
+    amount: 5
+    unit: turn
+  endheartrate: 89
+stool:
+- time: 20221228152000
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+半夜没有补水，电热膜没有关掉。醒来有些口干，但是没有破皮的疼痛。起床后仰头小口喝水，没有从上颚后端冲下粘液。舌两侧不疼。气管上端轻微痒，没有明显的痰。喝水后十几分钟，上颚后端慢慢有粘液出来。
+ABC健康小程序12：49测：血氧98、血压113/84、体温36.9、心率79、呼吸17.
+今天不用取暖贴喝鞋垫，用电热片和烘鞋器。
+ABC健康小程序13：47运动结束1分钟后测：血氧94、体温36.9、心率82、呼吸18.
+运动时微微出汗，但是眼眶周围、后腰处发干发痒。
+ABC健康小程序16：16静坐中测：血氧94、体温36.9、心率83、呼吸19.
+早饭后电热片一停就有轻微咳嗽。午饭后基本没感觉。
