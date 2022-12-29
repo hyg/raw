@@ -141,6 +141,10 @@ water:
   name: 开水
   amount: 200
   unit: ml
+- time: 20221229041200
+  name: 开水
+  amount: 120
+  unit: ml
 med:
 - time: 20221228164500  
   name: 双料喉风散

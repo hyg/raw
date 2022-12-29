@@ -1,0 +1,33 @@
+date: 20221229
+sleep: 
+  time: 20221229042300
+  weght: 60.0
+wake:
+  time: 20221229130000
+  weight: 59.4
+exercise: 
+- time: 20221229140000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  endheartrate: 89
+stool:
+- time: 20221229173000
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+9点多口干，补水大约100ml。
+起床时气管顶端有轻微发痒，受凉有闭口咳嗽。上颚和舌头不疼，仰头喝水时感到上颚后端有明显的浓痰覆盖，冲下喝掉之后裸露出的部分发干，接触冷空气轻微疼痛。
+起床后半小时用血氧仪测，95~98之间，深呼吸就立刻涨两三个点。
+运功过程心率是80~90之间，血氧是96~98之间，可能和深呼吸有关。运动结束时血氧仪心率是86，60秒后也是86，中间半分钟升高到92。自己把脉这60秒是89次。运动快结束时眼眶周围有发干发痒。
