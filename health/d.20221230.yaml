@@ -1,0 +1,37 @@
+date: 20221230
+sleep: 
+  time: 20221230033400
+  weght: 60.3
+wake:
+  time: 20221230120000
+  weight: 59.46
+  SpO2: 95
+  PRbpm: 70
+exercise: 
+- time: 20221230124000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 98
+  PRbpm: 90
+  endheartrate: 96
+stool:
+- time: 20221230214000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+半夜没有补水，上颚后端有痰覆盖，吸气、吞咽可以祛痰，裸露的伤口呼吸时发干、轻微刺激。
+起床时舌侧不疼，气管有轻微发痒，深呼吸冷空气有咳嗽的欲望。
+起床前血氧95，穿衣后血氧升到98，心率升到80。
+PRbpm是指夹式血氧仪读数，heartrate是自己把脉60秒的脉搏计数。
