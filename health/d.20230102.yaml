@@ -1,0 +1,37 @@
+date: 20230102
+sleep: 
+  time: 20230102001100
+  weght: 59.7
+wake:
+  time: 20230102103000
+  weight: 59.0
+  SpO2: 95
+  PRbpm: 68
+exercise: 
+- time: 20230102112000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 98
+  PRbpm: 87
+  endheartrate: 80
+stool:
+- time: 20230102125200
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+半夜醒了补水一次。
+醒来时上颚、舌、气管都没有明显感觉，深呼吸时气管还是发痒、有轻微咳嗽。左膝有些僵，翻身时筋很容易卡住，刮伤之后很疼。
+起床后给左膝贴了取暖贴。今天脚底、前后胸还是用电热。
+运动时感觉右侧有轻微落枕，平时没感觉。
