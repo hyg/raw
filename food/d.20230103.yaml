@@ -1,168 +1,160 @@
-date: 20230102
+date: 20230103
 food:
-- time: 20230102114800
+- time: 20230103100000
   name: 大米
   amount: 20.0
   unit: g
-- time: 20230102114800
+- time: 20230103100000
   name: 绿豆
-  amount: 20.0
+  amount: 20.5
   unit: g
-- time: 20230102114800
+- time: 20230103100000
   name: 灰枣
-  amount: 31.5
+  amount: 28.5
   unit: g
-- time: 20230102114800
+- time: 20230103100000
   name: 南瓜
-  amount: 34.5
+  amount: 61.5
   unit: g
-- time: 20230102114800
+- time: 20230103100000
   name: 花青素杂粮
-  amount: 21.0
+  amount: 21.5
   unit: g
-- time: 20230102120000
+- time: 20230103100200
   name: 亚麻籽
   amount: 5.0
   unit: g
-- time: 20230102120000
+- time: 20230103100200
   name: 枸杞
   amount: 5.0
   unit: g
-- time: 20230102120000
+- time: 20230103100200
   name: 麦胚芽
   amount: 6.0
   unit: g
-- time: 20230102120900
+- time: 20230103102200
   name: 奶粉
   amount: 25.0
   unit: g
-- time: 20230102120900
+- time: 20230103102200
   name: 小分子肽粉
   amount: 3.0
   unit: g
-- time: 20230102172000
+- time: 20230103132900
+  name: 金桔
+  amount: 112
+  unit: g
+- time: 20230103154500
   name: 大米
   amount: 40.0
   unit: g
-- time: 20230102172000
+- time: 20230103154500
   name: 黑青稞
   amount: 15.0
   unit: g
-- time: 20230102172000
+- time: 20230103154500
   name: 花青素杂粮
   amount: 15.0
   unit: g
-- time: 20230102172000
+- time: 20230103154500
   name: 胡萝卜
-  amount: 142.0
+  amount: 108.5
   unit: g
-- time: 20230102172000
-  name: 西兰花
-  amount: 116.6
-  unit: g
-- time: 20230102172000
+- time: 20230103154500
   name: 小白菜
-  amount: 196.0
+  amount: 177.0
   unit: g
-- time: 20230102172000
-  name: 油菜
-  amount: 79.5
-  unit: g
-- time: 20230102172000
+- time: 20230103154500
   name: 鸡腿
-  amount: 176.5
+  amount: 157.0
   unit: g
-- time: 20230102181300
+- time: 20230103162300
   name: 奶粉
-  amount: 26.5
+  amount: 27.0
   unit: g
-- time: 20230102181300
+- time: 20230103162300
   name: 可可粉
-  amount: 4.5
+  amount: 4.0
   unit: g
-- time: 20230102181300
+- time: 20230103162300
   name: 胶原蛋白肽粉
-  amount: 3.0
+  amount: 3.5
   unit: g
-- time: 20230102213000
+- time: 20230103191000
   name: 大白菜
-  amount: 128.5
+  amount: 195.5
   unit: g
-- time: 20230102213000
+- time: 20230103191000
   name: 水饺
-  amount: 137.5
+  amount: 107.0
   unit: g
-- time: 20230102215200
+- time: 20230103194600
   name: 奶粉
   amount: 25.0
   unit: g
-- time: 20230102215200
+- time: 20230103194600
   name: 胶原蛋白肽粉
-  amount: 2.5
-  unit: g
-- time: 20230103010000
-  name: 苹果
-  amount: 126.5
+  amount: 3.0
   unit: g
 water:
-- time: 202301021038000
+- time: 202301030839000
   name: 开水
   amount: 250
   unit: ml
-- time: 20230102120900
+- time: 20230103102200
   name: 咖啡
-  amount: 101.0
+  amount: 101.5
   unit: ml
-- time: 20230102124200
+- time: 20230103111800
   name: 开水
   amount: 250
   unit: ml
-- time: 20230102135200
+- time: 20230103134300
   name: 开水
   amount: 250
   unit: ml
-- time: 20230102154600
+- time: 20230103135400
   name: 开水
   amount: 250
   unit: ml
-- time: 20230102181300
+- time: 20230103162300
   name: 可可奶
-  amount: 105.0
+  amount: 102.5
   unit: ml
-- time: 20230102202600
+- time: 20230103174300
   name: 开水
   amount: 250
   unit: ml
-- time: 20230102215200
+- time: 20230103194600
   name: 牛奶
   amount: 100.0
   unit: ml
-- time: 20230102222200
+- time: 20230103204700
   name: 开水
   amount: 250
   unit: ml
-- time: 20230103011300
+- time: 20230103213000
   name: 开水
-  amount: 250
+  amount: 100
   unit: ml
 med:
-- time: 20230102121900  
+- time: 20230103123000  
   name: 双料喉风散
   amount: 100
   unit: mg
-- time: 20230102184900  
+- time: 20230103163600  
   name: 双料喉风散
   amount: 100
   unit: mg
-- time: 20230102202600  
+- time: 20230103174300  
   name: selenium
   amount: 200
   unit: μg
-- time: 20230102202600 
+- time: 20230103174300 
   name: daily multi
   amount: 1
   unit: 片
-- time: 20230102220000  
+- time: 20230103201100  
   name: 双料喉风散
   amount: 100
   unit: mg

@@ -1,0 +1,37 @@
+date: 20230103
+sleep: 
+  time: 20230103024500
+  weght: 59.8
+wake:
+  time: 20230103083000
+  weight: 59.2
+  SpO2: 96
+  PRbpm: 75
+exercise: 
+- time: 20230103093000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 98
+  PRbpm: 99
+  endheartrate: 100
+stool:
+- time: 20230103170500
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+醒来的时候还没有太口干，所以没有补水，回笼觉后直接起床。
+上颚、舌侧基本没有感觉，气管深呼吸冷空气时会轻微咳嗽。
+大便有酸苦味，有三个半小时前吃的金桔。
+17~18点感到困，20点出头也很困。
