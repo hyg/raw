@@ -1,0 +1,40 @@
+date: 20230104
+sleep: 
+  time: 20230103222200
+  weght: 59.8
+wake:
+  time: 20230104085000
+  weight: 58.9
+  SpO2: 95
+  PRbpm: 65
+exercise: 
+- time: 20230104094000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 98
+  PRbpm: 87
+  endheartrate: 88
+stool:
+- time: 20230104105000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+半夜小便一次，不需要补水。
+醒来是上颚、舌、气管都没有感觉，仰头喝水也没有冲下粘液。但是水温不高，喝完坐下来之后有点咳嗽。
+今天身体有点冷，前几天觉得很烫的烘鞋器，今天踩了很久觉得温度正好。改回大米饭吃几天。
+现在早上静止心率是65左右。空腹连续做一组20次坐姿转体扭腰(Core Twist) ，心率85左右。
+休息一分钟后连续做一组10次仰卧直腿触足卷腹（straight leg toe touches），心率95左右。
+但是运动后一小时内，静止都降不到85以下。运动后两小时降到75~80，去一趟厕所回来又85了。四个半小时后静止心率70~75。
+今天也吃了金桔，时间在牌匾之后。没有第二次。

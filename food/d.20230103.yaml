@@ -97,7 +97,7 @@ food:
   amount: 3.0
   unit: g
 water:
-- time: 202301030839000
+- time: 20230103083900
   name: 开水
   amount: 250
   unit: ml
