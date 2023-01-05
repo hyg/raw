@@ -1,0 +1,37 @@
+date: 20230105
+sleep: 
+  time: 20230105023000
+  weght: 59.2
+wake:
+  time: 20230105115000
+  weight: 58.6
+  SpO2: 95
+  PRbpm: 75
+exercise: 
+- time: 20230105130000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 98
+  PRbpm: 91
+  endheartrate: 91
+stool:
+- time: 20230105145500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+天微亮时醒过一次，上颚后端发干，有恶化迹象，于是补充了大约100ml温水。
+起床时上颚、舌、气管没有异常，刚醒血氧91、心率80+，安静几分钟后稳定在血氧95、心率70~75。
+起床后仰头小口补充温水，从上颚后端左侧冲下好几口较稀的粘液，露出的位置接触冷空气有轻微刺激。怀疑和昨晚睡前洗鼻有关。
+今天心率普遍比昨天高10次，运动时心率超过100，10秒左右回到90+。
