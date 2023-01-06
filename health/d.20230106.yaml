@@ -1,0 +1,36 @@
+date: 20230106
+sleep: 
+  time: 20230106021800
+  weght: 59.0
+wake:
+  time: 20230106101500
+  weight: 58.2
+  SpO2: 95
+  PRbpm: 77
+exercise: 
+- time: 20230106111500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 98
+  PRbpm: 101
+  endheartrate: 103
+stool:
+- time: 20230106130500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+半夜没有补水，醒来时上颚、舌、气管没有异常。但是看手机肩膀露出着凉后有几次轻微咳嗽。
+可能因为昨天没有吃第三餐，运动后心率有些高。
+前两天分别吃了10、12克菊粉。这两天排便快，感觉量少、没有排净、还会有第二次。实际上站起来看是正常的量，没有第二次需要。
