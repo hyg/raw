@@ -1,0 +1,38 @@
+date: 20230107
+sleep: 
+  time: 20230107020800
+  weght: 59.7
+wake:
+  time: 20230107113000
+  weight: 59.0
+  SpO2: 95
+  PRbpm: 72
+exercise: 
+- time: 20230107123000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 88
+  endheartrate: 86
+stool:
+- time: 20230107142900
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+天亮后醒了一次，气管痒有咳嗽。口干不明显，不需要补水。
+醒来时，上颚、舌、气管正常，没有明显发痒和口干。穿衣坐好后，呼吸冷空气又有点气短。
+热水袋和水杯都凉了，12月中下旬热水袋早上还是微烫的，勉强能靠在身上。
+穿薄袜踩烘鞋器，很久都不觉得烫。以前隔着厚袜都只能踩一会拔电一会，觉得太烫。天黑后吃过第二餐，再踩就觉得烫了。
+大便软、细，比吃菊粉之前量少，还在正常范围，有鱼腥味。排便快，大概是平时一半时间。还是有排不净的感觉。
