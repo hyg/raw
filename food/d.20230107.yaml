@@ -94,7 +94,7 @@ food:
   unit: g
 - time: 20230108020700
   name: 益生元压片糖果
-  amount: 0.9
+  amount: 1.5
   unit: g
 water:
 - time: 20230107113900

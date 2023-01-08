@@ -1,0 +1,41 @@
+date: 20230108
+sleep: 
+  time: 20230108034700
+  weght: 59.2
+wake:
+  time: 20230108111100
+  weight: 58.6
+  SpO2: 95
+  PRbpm: 79
+exercise: 
+- time: 20230108121000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 91
+  endheartrate: 92
+stool:
+- time: 20230108141400
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+- time: 20230108201000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 2   #	1:不困难;	2:困难
+comment: |+
+略有口干但没有刺激伤口的感觉，中途没有补水。
+醒来时上颚、舌、气管都没有症状，千万舌在冲牙器清洗时有疼痛。起床后呼吸冷空气刺激到气管，有咳嗽。
+咳嗽后喉头有痰。第一次大便很快，第二次排气后等了一会才有，体积都是中等。
+今天开始有皮屑，这是12月发烧以来第一次出现。
