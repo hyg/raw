@@ -1,0 +1,36 @@
+date: 20230109
+sleep: 
+  time: 20230109044700
+  weght: 59.7
+wake:
+  time: 20230109123400
+  weight: 59.2
+  SpO2: 95
+  PRbpm: 77
+exercise: 
+- time: 20230109134000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 98
+  PRbpm: 91
+  endheartrate: 92
+stool:
+- time: 20230109200200
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+略有口干但没有刺激伤口的感觉，中途没有补水。
+醒来时上颚、舌、气管都没有症状。仰头补充温水后，明显有一块粘液湿润后脱离。呼吸冷空气刺激后，稍有咳嗽冲动，但是没有咳出来。
+
