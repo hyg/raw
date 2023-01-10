@@ -94,7 +94,7 @@ food:
   unit: g
 - time: 20230109234500
   name: 可可粉
-  amount: 3.0
+  amount: 4.0
   unit: g
 - time: 20230109234500
   name: 胶原蛋白肽粉
@@ -156,7 +156,7 @@ water:
 med:
 - time: 20230109185500  
   name: CoQ10
-  amount: 200
+  amount: 100
   unit: mg
 - time: 20230109213000  
   name: selenium
