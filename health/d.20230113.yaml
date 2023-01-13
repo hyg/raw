@@ -1,0 +1,36 @@
+date: 20230113
+sleep: 
+  time: 20230113044444
+  weght: 59.5
+wake:
+  time: 20230113134800
+  weight: 58.8
+  SpO2: 95
+  PRbpm: 69
+exercise: 
+- time: 20230113150000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 98
+  PRbpm: 87
+  endheartrate: 83
+stool:
+- time: 20230113165000
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+睡觉中没有补水，醒来时上颚发干，气管有些痒。侧卧时后背受凉又咳嗽冲动，需要盖住后颈、后脑勺。
+仰头补充温水时，上颚后端没有粘液，五分钟后有一点流下。深呼吸冷空气气管有点痒。
+运动时可以一口气多做几个动作，不再需要一动作一换气，心率下降比较快。
