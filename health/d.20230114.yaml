@@ -1,0 +1,38 @@
+date: 20230114
+sleep: 
+  time: 20230114070000
+  weght: 59.9
+wake:
+  time: 20230114144300
+  weight: 59.4
+  SpO2: 95
+  PRbpm: 70
+exercise: 
+- time: 20230114153000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 98
+  PRbpm: 88
+  endheartrate: 92
+stool:
+- time: 20230115013500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+11点多口干，补充了大约100ml温水。
+起床时气管有些痒，但没有咳嗽。仰头补充温水没有立刻冲下粘液，几分钟后陆续有留下来。
+起床后，喉头有痰，呼吸也有咳嗽冲动。运动时，上颚后端已经开始发干。
+开始加强维生素C，一日两次，每次500mg。
+昨天吃那么多，排便却不多。
