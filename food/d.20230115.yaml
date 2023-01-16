@@ -115,7 +115,7 @@ water:
   unit: ml
 - time: 20230115160400
   name: 开水
-  amount: 100
+  amount: 250
   unit: ml
 - time: 20230115173000
   name: 开水
