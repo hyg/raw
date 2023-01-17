@@ -1,0 +1,36 @@
+date: 20230117
+sleep: 
+  time: 20230117053900
+  weght: 59.7
+wake:
+  time: 20230117142200
+  weight: 59.2
+  SpO2: 95
+  PRbpm: 75
+exercise: 
+- time: 20230117152000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 98
+  PRbpm: 102
+  endheartrate: 103
+stool:
+- time: 20230117233300
+  amount:   3   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 2   #	1:不困难;	2:困难
+comment: |+
+睡得比较久，中间补水两次。补水后几分钟上颚后端有粘液流下。
+除了上颚后端发干，气管还有些发痒，肩膀露出着凉时有轻微咳嗽，其余正常。
+早饭刷牙后安静下来，感觉左侧气管和肺有些发痒，心率90。
