@@ -1,0 +1,36 @@
+date: 20230118
+sleep: 
+  time: 20230118070200
+  weght: 60.4
+wake:
+  time: 20230118142500
+  weight: 59.6
+  SpO2: 94
+  PRbpm: 79
+exercise: 
+- time: 20230118152500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 98
+  PRbpm: 93
+  endheartrate: 91
+stool:
+- time: 20230118221300
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+睡觉中间虽然口干但是没感到出现伤口的危险，不需要补水。气管有些痒，翻身露出肩膀时有轻微咳嗽。
+静止心率提高了10左右。早上运动前左肺有些痒。
+连续吃了一天半菊粉后，大便变软而且量大，有酸味。屁也多。
