@@ -1,14 +1,14 @@
-date: 20230111
+date: 20230119
 sleep: 
-  time: 20230111041300
-  weight: 59.4
+  time: 20230119072200
+  weight: 60.6
 wake:
-  time: 20230111120100
-  weight: 59.0
-  SpO2: 93
-  PRbpm: 72
+  time: 20230119150700
+  weight: 59.8
+  SpO2: 94
+  PRbpm: 79
 exercise: 
-- time: 20230111131000
+- time: 20230119160500
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -22,16 +22,15 @@ exercise:
   - type: pilates.p79
     amount: 5
     unit: turn
-  SpO2: 99
-  PRbpm: 93
-  endheartrate: 92
+  SpO2: 97
+  PRbpm: 101
+  endheartrate: 93
 stool:
-- time: 20230111185900
+- time: 20230119221300
   amount:   2   #	1:多; 2:适中;	3:少
-  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 comment: |+
-八九点时醒一次，觉得口干，补水。
-醒来时气管稍微有点痒（尤其是左侧），上颚后端向鼻腔处干燥。起床后发现右鼻翼内侧有结疤的出血点。
-
-
+醒来有些口干，但不需要补水。
+气管和左肺的反应减轻，可能和维生素C有关。
+心率比较高，运动后很久都不降低。全天都在90左右。
