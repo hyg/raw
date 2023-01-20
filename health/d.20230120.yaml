@@ -1,0 +1,37 @@
+date: 20230120
+sleep: 
+  time: 20230120042000
+  weight: 59.8
+wake:
+  time: 20230120123000
+  weight: 59.2
+  SpO2: 94
+  PRbpm: 77
+exercise: 
+- time: 20230120160500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 101
+  endheartrate: 93
+stool:
+- time: 20230120222000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+8点多醒一次，身上有汗，略微口干，没到补水的地步。
+12点半醒来时气管和肺对冷空气反应不明显，上颚后端感到空气干燥。
+心率还是90+。
+今天忙没吃VC。
