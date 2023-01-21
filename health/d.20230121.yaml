@@ -1,0 +1,37 @@
+date: 20230121
+sleep: 
+  time: 20230121020000
+  weight: 60.3
+wake:
+  time: 20230121131500
+  weight: 59.3
+  SpO2: 95
+  PRbpm: 71
+exercise: 
+- time: 20230121141000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 99
+  PRbpm: 89
+  endheartrate: 89
+stool:
+- time: 20230121180000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+8点多醒一次，呼吸干冷空气时鼻腔发干，有辣、疼的感觉。口腔没到补水的地步。可能和睡前吸入熏眼蒸汽有关，当时鼻腔也觉得受刺激。
+起床时鼻腔已经不对刺激有反应，气管和肺对冷空气反应不明显。
+室温降到12°C。增加饮食中的热量，缩短两餐间隔。
+晚上室温降到10°C。
