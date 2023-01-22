@@ -1,0 +1,36 @@
+date: 20230122
+sleep: 
+  time: 20230122073200
+  weight: 59.6
+wake:
+  time: 20230122161200
+  weight: 59.1
+  SpO2: 95
+  PRbpm: 75
+exercise: 
+- time: 20230122171000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 98
+  PRbpm: 90
+  endheartrate: 95
+stool:
+- time: 20230122232400
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+中间醒来补水一次，稍微口干可不可不补的情况。
+气管基本不痒了，深呼吸时左肺有弹性不足的感觉。补水几分钟后有粘液从上颚后端留到喉头，干咳可以咳出。
+被子和热水袋足够，只要露出来的头部和鼻腔适应之后，室温有10°C就可以。

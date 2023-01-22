@@ -169,10 +169,9 @@ water:
   name: 开水
   amount: 250
   unit: ml
-
-- time: 20230121011800
+- time: 20230122065000
   name: 开水
-  amount: 250
+  amount: 100
   unit: ml
 med:
 - time: 20230121152500  
@@ -191,4 +190,8 @@ med:
   name: daily multi
   amount: 1
   unit: 片
+- time: 20230122065000  
+  name: 维生素C
+  amount: 500
+  unit: mg
 comment: |+
