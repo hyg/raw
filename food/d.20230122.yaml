@@ -108,19 +108,6 @@ food:
   name: 胶原蛋白肽粉
   amount: 3.0
   unit: g
-
-- time: 20230122005000
-  name: 益生菌压片糖
-  amount: 1.5
-  unit: g
-- time: 20230122035500
-  name: 苹果
-  amount: 193.0
-  unit: g
-- time: 20230122051000
-  name: 灰枣
-  amount: 81.0
-  unit: g
 water:
 - time: 20230122162400
   name: 开水
@@ -134,7 +121,7 @@ water:
   name: 开水
   amount: 50
   unit: ml
-- time: 202301221692100
+- time: 20230122192100
   name: 开水
   amount: 250
   unit: ml
