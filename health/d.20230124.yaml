@@ -1,0 +1,35 @@
+date: 20230124
+sleep: 
+  time: 20230124074700
+  weight: 59.7
+wake:
+  time: 20230124150000
+  weight: 59.2
+  SpO2: 95
+  PRbpm: 77
+exercise: 
+- time: 20230124160500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 98
+  PRbpm: 91
+  endheartrate: 91
+stool:
+- time: 20230124190800
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+半夜肩膀着凉咳嗽了几下，其余正常。有些口干但不需要补水。
+菊粉、维生素C都停了。起床在左膝用2小时的薄取暖贴，运动后在后腰用10小时的厚取暖贴，午夜在左胸用薄取暖贴。
