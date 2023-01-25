@@ -1,0 +1,30 @@
+date: 20230125
+sleep: 
+  time: 20230124223800
+  weight: 60.1
+wake:
+  time: 20230125160000
+  weight: 58.4
+  SpO2: 95
+  PRbpm: 65
+exercise: 
+- time: 20230125164000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 98
+  PRbpm: 90
+  endheartrate: 83
+comment: |+
+从2点多醒来，断断续续看了三百多页小说，排了两次小便，中间睡回笼觉，用了蒸汽眼罩，没有口干到需要补水。
+起床前血氧88~95，心率58~75之间变化。

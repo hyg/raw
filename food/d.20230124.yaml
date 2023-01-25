@@ -44,7 +44,6 @@ food:
   name: 益生菌压片糖
   amount: 1.5
   unit: g
-
 - time: 20230124204800
   name: 大米
   amount: 100.0
@@ -59,7 +58,7 @@ food:
   unit: g
 - time: 20230124204800
   name: 卤水豆腐
-  amount: 200
+  amount: 170
   unit: g
 - time: 20230124211100
   name: 奶粉
