@@ -49,7 +49,7 @@ food:
   amount: 70.0
   unit: g
 - time: 20230126213400
-  name: 小葱
+  name: 大葱
   amount: 20.0
   unit: g
 - time: 20230126213400
@@ -132,6 +132,10 @@ water:
 - time: 20230127025000
   name: 开水
   amount: 250
+  unit: ml
+- time: 20230127035000
+  name: 开水
+  amount: 280
   unit: ml
 med:
 - time: 20230126215700  
