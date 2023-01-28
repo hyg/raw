@@ -1,0 +1,36 @@
+date: 20230128
+sleep: 
+  time: 20230128035300
+  weight: 60.2
+wake:
+  time: 20230128161000
+  weight: 59.1
+  SpO2: 99
+  PRbpm: 66
+exercise: 
+- time: 20230128170000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 99
+  PRbpm: 89
+  endheartrate: 89
+stool:
+- time: 20230129012600
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+睡眠中没有感觉口干，不需要补水。早上感觉鼻腔发干发冷。
+气管和肺部没有异常。
+心率已经比较正常，把运动逐步恢复。
