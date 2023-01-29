@@ -102,7 +102,7 @@ food:
   unit: g
 - time: 20230129034000
   name: 胶原蛋白肽
-  amount: 4.0
+  amount: 3.0
   unit: g
 water:
 - time: 20230128162000
