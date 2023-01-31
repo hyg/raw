@@ -1,0 +1,37 @@
+date: 20230130
+sleep: 
+  time: 20230130094500
+  weight: 60.1
+wake:
+  time: 20230130174000
+  weight: 59.4
+  SpO2: 94
+  PRbpm: 77
+exercise: 
+- time: 20230130191000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 99
+  PRbpm: 95
+  endheartrate: 90
+stool:
+- time: 20230130223500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+睡觉中间小便一次，起床前口干补充大约100ml温水。补水后几分钟上颚有粘液流下。
+刚醒时后脑附近有轻微落枕的感觉，起床后没有异常。
+气管和肺没有异常。第一餐结束刷牙后在左云门加取暖贴。
+继续补充维生素C，菊粉再补充几天观察一下。
