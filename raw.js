@@ -343,7 +343,7 @@ function makeRfile() {
 
     try {
         for (var day in fmap) {
-            //console.log("\nday=",day);
+            //console.log("\nday="+day+"hmap[day]="+hmap[day]);
             sleepday = Math.floor(hmap[day].sleep.time / 1000000);
             sleephour = Math.floor(hmap[day].sleep.time % 1000000 / 10000);
             sleepminute = Math.floor(hmap[day].sleep.time % 10000 / 100);
@@ -365,6 +365,7 @@ function makeRfile() {
             //console.log("\n================="+day+"=================\nfood:\t"+fmap[day].comment+"\nhealth:\t"+hmap[day].comment);
             //if (day > "20150407") {
             if ((day >= startdate) && (day <= enddate)) {
+                //console.log("day:"+day);
                 cnt = cnt + 1;
                 if (bFirst) {
                     d = d + "\"" + day + "\"";
