@@ -153,6 +153,10 @@ water:
   name: 开水
   amount: 125
   unit: ml
+- time: 20230202091700
+  name: 开水
+  amount: 150
+  unit: ml
 med:
 - time: 20230201191300  
   name: 维生素C

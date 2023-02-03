@@ -1,0 +1,36 @@
+date: 20230202
+sleep: 
+  time: 20230202101500
+  weight: 60.9
+wake:
+  time: 20230202190000
+  weight: 60.0
+  SpO2: 95
+  PRbpm: 77
+exercise: 
+- time: 20230202200500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 98
+  PRbpm: 89
+  endheartrate: 92
+stool:
+- time: 20230202220000
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  醒来时上颚后端有点发干，但是不需要补水。
+  气管基本没有反应，肩膀受凉时有轻微咳嗽。
+  今天停VC，继续吃益生菌。
