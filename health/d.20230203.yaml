@@ -1,0 +1,36 @@
+date: 20230203
+sleep: 
+  time: 20230203122900
+  weight: 60.2
+wake:
+  time: 20230203184500
+  weight: 59.6
+  SpO2: 95
+  PRbpm: 77
+exercise: 
+- time: 20230203194500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 99
+  PRbpm: 93
+  endheartrate: 93
+stool:
+- time: 20230203220000
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  醒来时上颚后端稍微有点发干，不需要补水。
+  气管没有异常反应。身上轻微出汗，手和肩膀露出也不怎么觉得冷。
+  喝完两杯后不久就想排便，晚上十点才有空，速度快、量大、较软、没有气味。
