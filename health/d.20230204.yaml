@@ -1,0 +1,30 @@
+date: 20230204
+sleep: 
+  time: 20230204113200
+  weight: 60.3
+wake:
+  time: 20230204192000
+  weight: 59.5
+  SpO2: 93
+  PRbpm: 80
+exercise: 
+- time: 20230204202500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 99
+  PRbpm: 91
+  endheartrate: 97
+comment: |+
+  睡觉中间去一次小便，醒来时有些口干但不需要补水。
+  气管基本没有特别反应。睡觉时有些出汗，鼻腔也发干。
