@@ -1,0 +1,36 @@
+date: 20230207
+sleep: 
+  time: 20230207140400
+  weight: 60.9
+wake:
+  time: 20230207194000
+  weight: 59.9
+  SpO2: 95
+  PRbpm: 75
+exercise: 
+- time: 20230207204000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 89
+  endheartrate: 90
+stool:
+- time: 20230208095500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡前觉得身上挺热的，就没烧热水。结果睡到一半觉得冷，起来开了一个取暖贴，放在被窝里暖脚才睡舒服。
+  醒来有些出汗口干，但不需要补水。鼻腔也干涸，气管没有异常反应。
+  牛奶还是改回饭后吃，饭前可以加水果。
