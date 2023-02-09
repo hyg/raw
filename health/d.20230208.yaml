@@ -1,0 +1,37 @@
+date: 20230208
+sleep: 
+  time: 20230208103500
+  weight: 61.1
+wake:
+  time: 20230208180000
+  weight: 60.7
+  SpO2: 95
+  PRbpm: 79
+exercise: 
+- time: 20230208191000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 98
+  endheartrate: 98
+stool:
+- time: 20230209060600
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  加热水袋，醒来时身上出汗，口干鼻干，但是没有补水。
+  起床喝温水之后，上颚后端有粘液流下。
+  睡觉中间气管有反应，轻微咳嗽。起床时基本没有了，起床后又开始咳嗽。可能和昨天拖地呼吸消毒水、分切南瓜接触霉菌有关。
+  增加两次500mg维生素C。
