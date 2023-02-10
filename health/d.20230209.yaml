@@ -1,0 +1,35 @@
+date: 20230209
+sleep: 
+  time: 20230209090000
+  weight: 61.2
+wake:
+  time: 20230209172000
+  weight: 60.4
+  SpO2: 95
+  PRbpm: 72
+exercise: 
+- time: 20230209182000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 91
+  endheartrate: 95
+stool:
+- time: 20230209044000
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡下时气管还有点敏感，起床时基本没有异常反应。
+  用2/3满的热水袋和热水瓶，入睡时很舒服，中间热醒把热水袋推出被子才消汗。醒来时身上微汗、口干，但不需要补水。
