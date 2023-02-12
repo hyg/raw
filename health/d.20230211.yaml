@@ -1,0 +1,30 @@
+date: 20230211
+sleep: 
+  time: 20230211090800
+  weight: 61.2
+wake:
+  time: 20230211172000
+  weight: 60.6
+  SpO2: 95
+  PRbpm: 75
+exercise: 
+- time: 20230211183000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 91
+  endheartrate: 97
+comment: |+
+  睡觉中间出汗、口干，需要补充温水。不过热水袋只装了三分之一，出汗少了很多。可能是因为睡前离喝水时间太久，本来就缺水。
+  气管没有异常反应。
