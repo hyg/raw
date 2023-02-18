@@ -1,0 +1,37 @@
+date: 20230217
+sleep: 
+  time: 20230217095800
+  weight: 60.8
+wake:
+  time: 20230217183000
+  weight: 60.5
+  SpO2: 95
+  PRbpm: 73
+exercise: 
+- time: 20230217193000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 88
+  endheartrate: 92
+stool:
+- time: 20230217213500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间热醒几次，把热水袋热水杯推出被窝之后汗消了，但还是觉得热。
+  感觉口干但是不需要补水。气管没有异常反应。
+  早饭前觉得胯部、膝盖发酸。可能原因：昨天减少VC、羽绒裤换成护膝、换了薄裤。今天恢复三次VC。
+  今天开始停小分子肽和胶原蛋白肽。剩下几盒小分子肽粉作为储备。
