@@ -1,0 +1,32 @@
+date: 20230219
+sleep: 
+  time: 20230219114800
+  weight: 60.7
+wake:
+  time: 20230219182300
+  weight: 60.2
+  SpO2: 95
+  PRbpm: 77
+exercise: 
+- time: 20230219192500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 98
+  PRbpm: 88
+  endheartrate: 91
+comment: |+
+  睡觉中间不需要小便，略微口干不需要补水。
+  使用了三分之二满热水杯和三分之一满热水袋，按前几天情况会出汗热醒，今天醒来时不觉得热，身上无汗，左膝不灵活。
+  气管没有异常反应。
+  今天加羽绒裤，在左膝加12小时热帖，用12小时暖鞋垫。吃维生素D3。
