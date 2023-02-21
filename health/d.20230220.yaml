@@ -1,0 +1,35 @@
+date: 20230220
+sleep: 
+  time: 20230220114800
+  weight: 61.1
+wake:
+  time: 20230220181000
+  weight: 60.6
+  SpO2: 95
+  PRbpm: 73
+exercise: 
+- time: 20230220190000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 80
+  endheartrate: 89
+stool:
+- time: 20230220210600
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡着前就把热水袋、热水杯提到被子边缘，醒来时身上没有汗，取回热水袋热水杯后轻微出汗。不需要补水。
+  今天继续串羽绒裤、在左膝用12小时取暖贴，鞋垫不用了。
