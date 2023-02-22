@@ -1,0 +1,35 @@
+date: 20230221
+sleep: 
+  time: 20230221112300
+  weight: 61.5
+wake:
+  time: 20230221191000
+  weight: 60.8
+  SpO2: 94
+  PRbpm: 72
+exercise: 
+- time: 20230221201500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 89
+  endheartrate: 91
+stool:
+- time: 20230221220200
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡着前把热水袋热水杯推到外围，半夜睡帽脱落冻醒，有轻微咳嗽。起来小便后把热水杯拿到手上，被窝温度升高轻微出汗。
+  醒来时上颚后端发干，没有补水很快起床了。这是气管没有异常反应。
