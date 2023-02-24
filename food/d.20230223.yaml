@@ -138,34 +138,16 @@ water:
   name: 可可奶
   amount: 100.0
   unit: ml
-
-- time: 20230224125900
-  name: 葡萄酒
-  amount: 31.5
-  unit: ml
-- time: 20230224131700
+- time: 20230224135100
   name: 开水
   amount: 150
-  unit: ml
-- time: 20230224132800
-  name: 开水
-  amount: 100
   unit: ml
 med:
 - time: 20230223230500  
   name: 维生素C
   amount: 500
   unit: mg
-
-- time: 20230223131700  
-  name: selenium
-  amount: 200
-  unit: μg
-- time: 20230223131700 
-  name: daily multi
-  amount: 1
-  unit: 片
-- time: 20230223132800  
+- time: 20230224135100  
   name: 维生素C
   amount: 500
   unit: mg
