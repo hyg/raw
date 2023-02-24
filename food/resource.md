@@ -47,12 +47,12 @@
 
 #### 主食
 
-* 大米：吉粳81号、吉宏6号、龙稻18、南粳9108
-  * https://ybdh.taobao.com
+* 大米：吉粳81号、吉宏6号、龙稻18、南粳46
   * https://shop34396683.taobao.com
-  * https://suleijia.taobao.com
   * https://shop323533384.taobao.com
-  * https://xinghuadami.tmall.com
+  * https://suleijia.taobao.com
+  * https://zhongguolinye.tmall.com
+  * https://shop309662936.taobao.com
 * 面粉：佳禾（嫩江县嘉田水稻种植专业合作社）、哈萨克斯坦硬麦、鑫乐（永良4号）、荣军农场（龙麦35）
   * https://shop293589892.taobao.com
   * https://detail.tmall.com/item.htm?id=595994374796
