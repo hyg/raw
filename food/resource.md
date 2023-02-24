@@ -17,7 +17,7 @@
 
 1. 奶制品：
    * 海乳
-   * 酸奶菌种: http://youduoyi.tmall.com
+   * 酸奶菌种: https://shop110908838.taobao.com
    * 酸奶菌种: https://shop583274885.taobao.com
 1. 黑芝麻: https://baiyouli.taobao.com
 1. 小磨香油：崔字牌
@@ -35,9 +35,9 @@
 
 1. 麦胚芽：https://fuzhiyuansp.tmall.com/category-1153328603.htm
 1. 番茄酱：
-  - https://xiaochu.tmall.com
-  - https://tunhe.tmall.com
-  - https://guannonggufen.tmall.com
+  * https://xiaochu.tmall.com
+  * https://tunhe.tmall.com
+  * https://guannonggufen.tmall.com
 1. 绞股蓝：https://yigengtang.taobao.com
 
 #### 蔬菜
@@ -53,11 +53,10 @@
   * https://suleijia.taobao.com
   * https://zhongguolinye.tmall.com
   * https://shop309662936.taobao.com
-* 面粉：佳禾（嫩江县嘉田水稻种植专业合作社）、哈萨克斯坦硬麦、鑫乐（永良4号）、荣军农场（龙麦35）
-  * https://shop293589892.taobao.com
+* 面粉：佳禾（嫩江县嘉田水稻种植专业合作社）、哈萨克斯坦硬麦、鑫乐（永良4号）
+  * https://heitudi.taobao.com
   * https://detail.tmall.com/item.htm?id=595994374796
   * https://xinleshipin.tmall.com
-  * https://item.taobao.com/item.htm?id=601681108022
 * 面条（低纳）：
   * https://detail.tmall.com/item.htm?id=641798065371
   * https://detail.tmall.com/item.htm?id=590601689344
@@ -70,7 +69,7 @@
 
 #### 水果
 
-* 番石榴：https://gyy8888.taobao.com
+* 番石榴：
 * 猕猴桃：https://shop144175853.taobao.com/category-1214136365.htm
 
 
@@ -87,7 +86,7 @@
 
 | 供货商     | 黑青稞米  | 墨江紫米 | 黑花生  |
 | ------- | --- | --- | --- |
-| 佳悦五谷杂粮 | 2500g   |   |    |
+| 青稞酒之家 | 2500g   |   |    |
 | 香冠食品 |    |  2000g  |   |
 | 呆呆菇娘 |   |   |  1000g  |
 
