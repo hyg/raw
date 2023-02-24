@@ -24,7 +24,7 @@
 
 #### 蛋白质
 
-1. 猪肉
+1. 猪肉：
    * https://laojuantou.taobao.com
 1. 牛肉：
    * 中粮安至选
@@ -35,9 +35,9 @@
 
 1. 麦胚芽：https://fuzhiyuansp.tmall.com/category-1153328603.htm
 1. 番茄酱：
-  * https://xiaochu.tmall.com
-  * https://tunhe.tmall.com
-  * https://guannonggufen.tmall.com
+    * https://xiaochu.tmall.com
+    * https://tunhe.tmall.com
+    * https://guannonggufen.tmall.com
 1. 绞股蓝：https://yigengtang.taobao.com
 
 #### 蔬菜
