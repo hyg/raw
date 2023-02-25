@@ -96,11 +96,6 @@ food:
   name: 菊粉
   amount: 6.0
   unit: g
-
-- time: 20230224121700
-  name: 橙
-  amount: 154.5
-  unit: g
 water:
 - time: 20230223212000
   name: 开水
