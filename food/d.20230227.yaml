@@ -1,91 +1,91 @@
-date: 20230226
+date: 20230227
 food:
-- time: 20230226210400
+- time: 20230227090000
   name: 大米
   amount: 15.0
   unit: g
-- time: 20230226210400
+- time: 20230227090000
   name: 黑青稞
   amount: 20.0
   unit: g
-- time: 20230226210400
+- time: 20230227090000
   name: 麦片
   amount: 15.0
   unit: g
-- time: 20230226210400
+- time: 20230227090000
   name: 花青素杂粮
   amount: 20.0
   unit: g
-- time: 20230226210400
+- time: 20230227090000
   name: 灰枣
-  amount: 24.5
+  amount: 30.0
   unit: g
-- time: 20230226210400
+- time: 20230227090000
   name: 南瓜
-  amount: 53.0
+  amount: 68.0
   unit: g
-- time: 20230226212800
+- time: 20230227092500
   name: 黑芝麻
   amount: 5.0
   unit: g
-- time: 20230226212800
+- time: 20230227092500
   name: 枸杞
   amount: 5.0
   unit: g
-- time: 20230226212800
+- time: 20230227092500
   name: 花生
   amount: 5.0
   unit: g
-- time: 20230226213000
+- time: 20230227092900
   name: 奶粉
   amount: 25.0
   unit: g 
-- time: 20230227003900
+- time: 20230227125500
   name: 蓝莓叶黄素酯压片糖果
   amount: 2.0
   unit: g
-- time: 20230227004300
+- time: 20230227131000
   name: 粉利
-  amount: 69.0
+  amount: 83.5
   unit: g
-- time: 20230227004300
+- time: 20230227131000
   name: 芹菜
-  amount: 289.0
+  amount: 245.0
   unit: g
-- time: 20230227004300
+- time: 20230227131000
   name: 西兰花
-  amount: 120.0
+  amount: 126.0
   unit: g
-- time: 20230227004300
+- time: 20230227131000
   name: 松板肉
-  amount: 128.5
+  amount: 280.5
   unit: g
-- time: 20230227011500
+- time: 20230227134800
   name: 奶粉
   amount: 25.0
   unit: g
 water:
-- time: 20230226194800
+- time: 20230227072900
   name: 开水
   amount: 250
   unit: ml
-- time: 20230226213000
-  name: 咖啡
-  amount: 101.5
-  unit: ml
-- time: 20230227225100
-  name: 开水
-  amount: 250
-  unit: ml
-- time: 20230227233700
-  name: 开水
-  amount: 250
-  unit: ml
-- time: 20230227011500
+- time: 20230227092900
   name: 咖啡
   amount: 100.0
   unit: ml
-- time: 20230227021800
+- time: 20230227114200
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20230227123400
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20230227134800
+  name: 咖啡
+  amount: 103.0
+  unit: ml
+- time: 20230227151700
   name: 开水
   amount: 250
   unit: ml
