@@ -1,0 +1,30 @@
+date: 20230301
+sleep: 
+  time: 20230228174800
+  weight: 61.4
+wake:
+  time: 20230228232500
+  weight: 60.9
+  SpO2: 94
+  PRbpm: 74
+exercise: 
+- time: 20230301003500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 87
+  endheartrate: 92
+comment: |+
+  热水杯和热水袋都装一半，醒来时口干鼻干，上颚后端几乎要破皮。必须立刻起床喝水。
+  气管没有异常反应。
