@@ -1,0 +1,35 @@
+date: 20230304
+sleep: 
+  time: 20230303160800
+  weight: 61.6
+wake:
+  time: 20230304011000
+  weight: 60.8
+  SpO2: 93
+  PRbpm: 76
+exercise: 
+- time: 20230304020000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 88
+  endheartrate: 94
+stool:
+- time: 2023020304112000
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  三分之二热水杯和一半热水袋，中间口鼻发干，需要补水。鼻孔里有干血块。
+  脱帽受凉时有几次轻微咳嗽，今天增加一次维生素C。
