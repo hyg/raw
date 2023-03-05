@@ -1,0 +1,35 @@
+date: 20230305
+sleep: 
+  time: 20230304202000
+  weight: 61.8
+wake:
+  time: 20230305005200
+  weight: 61.1
+  SpO2: 94
+  PRbpm: 73
+exercise: 
+- time: 20230305015200
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 90
+  endheartrate: 85
+stool:
+- time: 2023020304150900
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     3   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 2   #	1:不困难;	2:困难
+comment: |+
+  三分之二热水杯和一半热水袋，醒来时口干，没有继续睡、直接起床后喝水。
+  气管没有异常。
