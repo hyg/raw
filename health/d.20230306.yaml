@@ -1,14 +1,14 @@
-date: 20230305
+date: 20230306
 sleep: 
-  time: 20230304202000
+  time: 20230305154200
   weight: 61.8
 wake:
-  time: 20230305005200
+  time: 20230306003700
   weight: 61.1
   SpO2: 94
-  PRbpm: 73
+  PRbpm: 75
 exercise: 
-- time: 20230305015200
+- time: 20230306014000
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -23,13 +23,13 @@ exercise:
     amount: 5
     unit: turn
   SpO2: 97
-  PRbpm: 90
-  endheartrate: 85
+  PRbpm: 91
+  endheartrate: 99
 stool:
-- time: 20230305150900
+- time: 20230306190900
   amount:   2   #	1:多; 2:适中;	3:少
-  type:     3   #	0:水样; 1:软;	2:适中;	3:硬;
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 2   #	1:不困难;	2:困难
 comment: |+
-  三分之二热水杯和一半热水袋，醒来时口干，没有继续睡、直接起床后喝水。
-  气管没有异常。
+  三分之二热水杯和一半热水袋，睡着时忘记推出去结果半夜热醒，身上出汗需要补水。
+  气管没有异常反应，昨天开始可以冷水刷牙。今天试一下用护膝代替羽绒裤。过几天准备用薄羽绒代替龙牙棉服。
