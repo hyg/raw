@@ -137,22 +137,24 @@ water:
   name: 开水
   amount: 250
   unit: ml
-
-- time: 20230306145300
+- time: 20230306173000
   name: 开水
-  amount: 150
+  amount: 250
+  unit: ml
+- time: 20230306193500
+  name: 开水
+  amount: 100
   unit: ml
 med:
 - time: 20230306023800  
   name: 维生素C
   amount: 500
   unit: mg
-
-- time: 20230306145300  
+- time: 20230306173000  
   name: selenium
   amount: 200
   unit: μg
-- time: 20230306145300 
+- time: 20230306173000 
   name: daily multi
   amount: 1
   unit: 片
