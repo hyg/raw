@@ -1,0 +1,35 @@
+date: 20230307
+sleep: 
+  time: 20230306195400
+  weight: 61.3
+wake:
+  time: 20230307053000
+  weight: 60.5
+  SpO2: 96
+  PRbpm: 69
+exercise: 
+- time: 20230307062000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 98
+  PRbpm: 93
+  endheartrate: 98
+stool:
+- time: 20230307145000
+  amount:   3   #	1:多; 2:适中;	3:少
+  type:     3   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 2   #	1:不困难;	2:困难
+comment: |+
+  三分之二热水杯和一半热水袋，中间口干需要补水。
+  护膝代替羽绒裤后，膝盖没有异常。
