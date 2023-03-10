@@ -1,14 +1,14 @@
-date: 20230309
+date: 20230310
 sleep: 
-  time: 20230308182900
-  weight: 61.7
+  time: 20230309192300
+  weight: 61.2
 wake:
-  time: 20230309023500
-  weight: 61.1
+  time: 20230310032800
+  weight: 60.5
   SpO2: 95
-  PRbpm: 68
+  PRbpm: 71
 exercise: 
-- time: 20230309033500
+- time: 20230310042500
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -22,13 +22,14 @@ exercise:
   - type: pilates.p79
     amount: 5
     unit: turn
-  SpO2: 96
-  PRbpm: 85
-  endheartrate: 94
+  SpO2: 98
+  PRbpm: 86
+  endheartrate: 90
 stool:
-- time: 20230309053000
+- time: 20230310063500
   amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 comment: |+
-  三分之二热水杯和二分之一热水袋，醒来时身上发热基本没汗，口鼻发干、上颚后端有很稀的痰，不需要补水。
+  满杯热水杯和三分之一热水袋，睡着前就热得出汗、口干，推到边上才好点。
+  醒来时也觉得热但是身上没有汗，略微口干不需要补水。今晚试试不用热水袋了。
