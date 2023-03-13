@@ -83,12 +83,15 @@ food:
 - time: 20230312150200
   name: 鸡蛋
   amount: 47.5
-  unit: 
+  unit: g
+- time: 20230312154000
+  name: 奶粉
+  amount: 26.0
+  unit: g
 - time: 20230312154000
   name: 可可粉
   amount: 4.0
-  unit: 
-g
+  unit: g
 water:
 - time: 20230312051900
   name: 开水

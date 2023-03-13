@@ -1,0 +1,35 @@
+date: 20230313
+sleep: 
+  time: 20230312202400
+  weight: 61.7
+wake:
+  time: 20230313052600
+  weight: 60.9
+  SpO2: 93
+  PRbpm: 67
+exercise: 
+- time: 20230313062000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 98
+  PRbpm: 88
+  endheartrate: 86
+stool:
+- time: 20230313075500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  满杯热水杯和半满热水袋，睡着前不需要推开，醒来时体温舒适没有汗。略微口干不需要补水，呼吸道没有异常反应。
+  白天嘴唇发干，疼但是还没有出血。睡前用凡士林。
