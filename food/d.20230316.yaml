@@ -67,15 +67,15 @@ food:
 - time: 20230316182800
   name: 大米
   amount: 80.0
-  unit: 
+  unit: g
 - time: 20230316182800
   name: 莴笋叶
   amount: 235.0
-  unit: 
+  unit: g
 - time: 20230316182800
   name: 小白菜
   amount: 74.0 
-  unit: 
+  unit: g
 - time: 20230316182800
   name: 鸡肉
   amount: 165.5
