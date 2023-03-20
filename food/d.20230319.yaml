@@ -1,6 +1,6 @@
 date: 20230319
 food:
-- time: 202303191091300
+- time: 20230319091300
   name: 苹果
   amount: 149.0
   unit: g
@@ -14,7 +14,7 @@ food:
   unit: g
 - time: 20230319091900
   name: 花青素杂粮
-  amount: 30.0
+  amount: 20.0
   unit: g
 - time: 20230319091900
   name: 绿豆
@@ -44,7 +44,7 @@ food:
   name: 奶粉
   amount: 25.0
   unit: g 
-- time: 202303191240
+- time: 20230319124000
   name: 蓝莓叶黄素酯压片糖果
   amount: 2.0
   unit: g
