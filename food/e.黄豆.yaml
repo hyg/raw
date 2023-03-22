@@ -10,7 +10,7 @@ element:
     amount: 35.1
     unit: g
     nrv: 59
-  能量:
+  热量:
     amount: 358.978
     unit: kcal
     nrv: 18

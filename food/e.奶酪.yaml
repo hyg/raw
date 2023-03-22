@@ -2,7 +2,7 @@ name: 奶酪
 amount: 100
 unit: g
 element:
-  能量:
+  热量:
     amount: 328
     unit: kcal
     nrv: 16

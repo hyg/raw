@@ -18,15 +18,15 @@ element:
     amount: 0.2
     unit: g
     nrv: 0.3
-  纤维:
+  膳食纤维:
     amount: 1.8
     unit: g
     nrv: 5.4
-  维生素 A:
+  维生素A:
     amount: 11
     unit: "μg"
     nrv: 1.2
-  维生素 C:
+  维生素C:
     amount: 53
     unit: "mg"
     nrv: 58.9

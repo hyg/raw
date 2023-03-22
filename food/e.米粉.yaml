@@ -18,11 +18,11 @@ element:
     amount: 0.5
     unit: g
     nrv: 0.8
-  纤维:
+  膳食纤维:
     amount: 1.3
     unit: g
     nrv: 5.2
-  维生素 B1:
+  维生素B1:
     amount: 0.11
     unit: "mg"
     nrv: 9.2

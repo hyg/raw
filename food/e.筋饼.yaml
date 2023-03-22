@@ -1,0 +1,56 @@
+name: 筋饼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 204
+    unit: kcal
+    nrv: 10.2
+  碳水化合物:
+    amount: 39.1
+    unit: g
+    nrv: 13.0
+  蛋白质:
+    amount: 6.4
+    unit: g
+    nrv: 11.6
+  脂肪:
+    amount: 1.9
+    unit: g
+    nrv: 3.2
+  膳食纤维:
+    amount: 0.9
+    unit: g
+    nrv: 3.6
+  维生素A:
+    amount: 0
+    unit: μg
+    nrv: 0
+  维生素C:
+    amount: 0
+    unit: mg
+    nrv: 0
+  钙:
+    amount: 7
+    unit: mg
+    nrv: 0.7
+  铁:
+    amount: 0.5
+    unit: mg
+    nrv: 6.3
+  镁:
+    amount: 3
+    unit: mg
+    nrv: 0.8
+  铜:
+    amount: 0.1
+    unit: mg
+    nrv: 6.7
+  锰:
+    amount: 0.1
+    unit: mg
+    nrv: 5.0
+  锌:
+    amount: 0.4
+    unit: mg
+    nrv: 3.6

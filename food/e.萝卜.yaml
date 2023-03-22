@@ -2,7 +2,7 @@ name: 萝卜
 amount: 100
 unit: g
 element:
-  能量:
+  热量:
     amount: 13
     unit: kcal
     nrv: 0.65

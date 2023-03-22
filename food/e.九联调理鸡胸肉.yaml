@@ -19,7 +19,7 @@ element:
     amount: 600
     unit: mg
     nrv: 30
-  能量:
+  热量:
     amount: 460
     unit: kj
     nrv: 5

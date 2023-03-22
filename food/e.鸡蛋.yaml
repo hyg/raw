@@ -70,7 +70,7 @@ element:
     amount: 125.7
     unit: mg
     nrv: 6.29
-  能量:
+  热量:
     amount: 143
     unit: kcal
     nrv: 7.12

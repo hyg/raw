@@ -27,7 +27,7 @@ element:
     amount: 20
     unit: g
     nrv: 33
-  能量:
+  热量:
     amount: 1164
     unit: kj
     nrv: 14

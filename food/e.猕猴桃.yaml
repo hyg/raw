@@ -2,7 +2,7 @@ name: 猕猴桃
 amount: 100
 unit: g
 element:
-  能量:
+  热量:
     amount: 56
     unit: kcal
     nrv: 3.1

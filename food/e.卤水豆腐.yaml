@@ -2,7 +2,7 @@ name: 卤水豆腐
 amount: 100
 unit: g
 element:
-  能量:
+  热量:
     amount: 414
     unit: kj
     nrv: 4.9

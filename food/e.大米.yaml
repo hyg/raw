@@ -2,7 +2,7 @@ name: 大米
 amount: 100
 unit: g
 element:
-  能量:
+  热量:
     amount: 1467
     unit: kj
     nrv: 17

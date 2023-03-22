@@ -18,7 +18,7 @@ element:
     amount: 237
     unit: mg
     nrv: 12
-  能量:
+  热量:
     amount: 757
     unit: kj
     nrv: 9

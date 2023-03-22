@@ -2,7 +2,7 @@ name: 洋葱
 amount: 100
 unit: g
 element:
-  能量:
+  热量:
     amount: 39
     unit: kcal
     nrv: 1.95

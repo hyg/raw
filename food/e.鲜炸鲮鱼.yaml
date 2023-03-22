@@ -1,0 +1,52 @@
+name: 鲜炸鲮鱼
+amount: 100
+unit: g
+element:
+ 热量:
+  amount: 529
+  unit: kcal
+  nrv: 26.5
+ 蛋白质:
+  amount: 17.8
+  unit: g
+  nrv: 32.6
+ 脂肪:
+  amount: 49.4
+  unit: g
+  nrv: 82.3
+ 碳水化合物:
+  amount: 4.5
+  unit: g
+  nrv: 1.5
+ 维生素A:
+  amount: 130
+  unit: μg
+  nrv: 14.4
+ 维生素E:
+  amount: 1.69
+  unit: mg
+  nrv: 16.9
+ 钙:
+  amount: 26
+  unit: mg
+  nrv: 2.6
+ 磷:
+  amount: 270
+  unit: mg
+  nrv: 38.6
+ 铁:
+  amount: 1.5
+  unit: mg
+  nrv: 12.5
+ 锌:
+  amount: 1.04
+  unit: mg
+  nrv: 10.4
+ 钾:
+  amount: 331
+  unit: mg
+  nrv: 20.9
+ 钠:
+  amount: 680
+  unit: mg
+  nrv: 34.0

@@ -2,7 +2,7 @@ name: 红薯
 amount: 100
 unit: g
 element:
-  能量:
+  热量:
     amount: 79
     unit: kcal
     nrv: 3.94

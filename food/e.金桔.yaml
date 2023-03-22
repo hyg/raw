@@ -22,7 +22,7 @@ element:
     amount: 1.8
     unit: g
     nrv: 7.2
-  维生素 C:
+  维生素C:
     amount: 35
     unit: "mg"
     nrv: 58.3

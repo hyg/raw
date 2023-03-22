@@ -14,7 +14,7 @@ element:
     amount: 1
     unit: g
     nrv: 0
-  能量:
+  热量:
     amount: 71.222
     unit: kcal
     nrv: 4

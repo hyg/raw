@@ -22,11 +22,11 @@ element:
     amount: 0
     unit: g
     nrv: 0
-  维生素 A:
+  维生素A:
     amount: 3
     unit: "μg"
     nrv: 0.3
-  维生素 E:
+  维生素E:
     amount: 0.34
     unit: "mg"
     nrv: 2.3

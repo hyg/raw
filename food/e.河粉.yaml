@@ -22,7 +22,7 @@ element:
     amount: 0.5
     unit: g
     nrv: 2.1
-  维生素 B1:
+  维生素B1:
     amount: 0.06
     unit: "mg"
     nrv: 4.0

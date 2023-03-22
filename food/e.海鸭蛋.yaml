@@ -54,7 +54,7 @@ element:
     amount: 106
     unit: mg
     nrv: 5.3
-  能量:
+  热量:
     amount: 180
     unit: kcal
     nrv: 9

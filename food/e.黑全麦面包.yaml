@@ -10,7 +10,7 @@ element:
     amount: 1.5
     unit: g
     nrv: 19
-  能量:
+  热量:
     amount: 1467
     unit: kj
     nrv: 17

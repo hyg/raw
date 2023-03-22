@@ -2,7 +2,7 @@ name: 黑米
 amount: 100
 unit: g
 element:
-  能量:
+  热量:
     amount: 333
     unit: kcal
     nrv: 17

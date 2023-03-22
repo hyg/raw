@@ -46,7 +46,7 @@ element:
     amount: 49
     unit: μg
     nrv: 98
-  能量:
+  热量:
     amount: 220
     unit: kcal
     nrv: 11

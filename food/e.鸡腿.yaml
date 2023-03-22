@@ -22,15 +22,15 @@ element:
     amount: 0
     unit: g
     nrv: 0
-  维生素 B1:
+  维生素B1:
     amount: 0.05
     unit: "mg"
     nrv: 3.3
-  维生素 B2:
+  维生素B2:
     amount: 0.08
     unit: "mg"
     nrv: 4.7
-  维生素 E:
+  维生素E:
     amount: 0.26
     unit: "mg"
     nrv: 1.7

@@ -10,7 +10,7 @@ element:
     amount: 23.5
     unit: g
     nrv: 39
-  能量:
+  热量:
     amount: 458.16299999999995
     unit: kcal
     nrv: 23

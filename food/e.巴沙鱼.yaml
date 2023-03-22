@@ -2,7 +2,7 @@ name: 巴沙鱼
 amount: 100
 unit: g
 element:
-  能量:
+  热量:
     amount: 80
     unit: kcal
     nrv: 3.3
