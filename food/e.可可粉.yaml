@@ -1,0 +1,64 @@
+name: 可可粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 228
+    unit: kcal
+    nrv: 11.4
+  碳水化合物:
+    amount: 57.9
+    unit: g
+    nrv: 19.3
+  蛋白质:
+    amount: 19.6
+    unit: g
+    nrv: 35.3
+  脂肪:
+    amount: 13.7
+    unit: g
+    nrv: 22.3
+  纤维:
+    amount: 33.2
+    unit: g
+    nrv: 132.8
+  维生素 B1:
+    amount: 0.04
+    unit: "mg"
+    nrv: 3.3
+  维生素 B2:
+    amount: 0.09
+    unit: "mg"
+    nrv: 6.9
+  维生素 B3:
+    amount: 0.7
+    unit: "mg"
+    nrv: 4.4
+  维生素 E:
+    amount: 0.8
+    unit: "mg"
+    nrv: 5.3
+  钙:
+    amount: 134
+    unit: "mg"
+    nrv: 13.4
+  镁:
+    amount: 499
+    unit: "mg"
+    nrv: 124.8
+  磷:
+    amount: 734
+    unit: "mg"
+    nrv: 104.9
+  钾:
+    amount: 1524
+    unit: "mg"
+    nrv: 76.2
+  铜:
+    amount: 3.6
+    unit: "mg"
+    nrv: 400.0
+  锌:
+    amount: 3.5
+    unit: "mg"
+    nrv: 31.8

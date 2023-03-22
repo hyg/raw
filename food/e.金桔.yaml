@@ -1,0 +1,40 @@
+name: 金桔
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 44
+    unit: kcal
+    nrv: 2.2
+  碳水化合物:
+    amount: 11.3
+    unit: g
+    nrv: 3.8
+  蛋白质:
+    amount: 0.9
+    unit: g
+    nrv: 1.8
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0.3
+  膳食纤维:
+    amount: 1.8
+    unit: g
+    nrv: 7.2
+  维生素 C:
+    amount: 35
+    unit: "mg"
+    nrv: 58.3
+  钾:
+    amount: 191
+    unit: "mg"
+    nrv: 9.6
+  钙:
+    amount: 30
+    unit: "mg"
+    nrv: 3.0
+  胡萝卜素:
+    amount: 0.01
+    unit: "mg"
+    nrv: 0.0

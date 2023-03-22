@@ -1,0 +1,44 @@
+name: 鸡腿
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 196
+    unit: kcal
+    nrv: 9.8
+  蛋白质:
+    amount: 17
+    unit: g
+    nrv: 34.0
+  脂肪:
+    amount: 14
+    unit: g
+    nrv: 22.8
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  膳食纤维:
+    amount: 0
+    unit: g
+    nrv: 0
+  维生素 B1:
+    amount: 0.05
+    unit: "mg"
+    nrv: 3.3
+  维生素 B2:
+    amount: 0.08
+    unit: "mg"
+    nrv: 4.7
+  维生素 E:
+    amount: 0.26
+    unit: "mg"
+    nrv: 1.7
+  钙:
+    amount: 11
+    unit: "mg"
+    nrv: 1.1
+  镁:
+    amount: 21
+    unit: "mg"
+    nrv: 5.3

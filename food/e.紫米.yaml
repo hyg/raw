@@ -1,0 +1,48 @@
+name: 紫米
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 348
+    unit: kcal
+    nrv: 17.4
+  碳水化合物:
+    amount: 75
+    unit: g
+    nrv: 25.0
+  蛋白质:
+    amount: 9.8
+    unit: g
+    nrv: 17.6
+  脂肪:
+    amount: 2.1
+    unit: g
+    nrv: 3.4
+  膳食纤维:
+    amount: 4.4
+    unit: g
+    nrv: 17.6
+  维生素 B1:
+    amount: 0.3
+    unit: "mg"
+    nrv: 25.0
+  维生素 B2:
+    amount: 0.15
+    unit: "mg"
+    nrv: 11.5
+  维生素 E:
+    amount: 2.27
+    unit: "mg"
+    nrv: 15.1
+  钙:
+    amount: 18
+    unit: "mg"
+    nrv: 1.8
+  铁:
+    amount: 3.2
+    unit: "mg"
+    nrv: 40.0
+  锌:
+    amount: 2.6
+    unit: "mg"
+    nrv: 23.6

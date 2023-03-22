@@ -1,0 +1,44 @@
+name: 鸡腿肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 197
+    unit: kcal
+    nrv: 9.9
+  蛋白质:
+    amount: 18.5
+    unit: g
+    nrv: 37.0
+  脂肪:
+    amount: 13.1
+    unit: g
+    nrv: 21.2
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  膳食纤维:
+    amount: 0
+    unit: g
+    nrv: 0
+  维生素 A:
+    amount: 3
+    unit: "μg"
+    nrv: 0.3
+  维生素 E:
+    amount: 0.34
+    unit: "mg"
+    nrv: 2.3
+  钾:
+    amount: 211
+    unit: "mg"
+    nrv: 10.6
+  钙:
+    amount: 10
+    unit: "mg"
+    nrv: 1.0
+  铁:
+    amount: 1.2
+    unit: "mg"
+    nrv: 8.5

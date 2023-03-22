@@ -1,0 +1,56 @@
+name: 橙
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 47
+    unit: kcal
+    nrv: 2.4
+  碳水化合物:
+    amount: 11.7
+    unit: g
+    nrv: 3.9
+  蛋白质:
+    amount: 0.9
+    unit: g
+    nrv: 1.6
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0.3
+  纤维:
+    amount: 1.8
+    unit: g
+    nrv: 5.4
+  维生素 A:
+    amount: 11
+    unit: "μg"
+    nrv: 1.2
+  维生素 C:
+    amount: 53
+    unit: "mg"
+    nrv: 58.9
+  钙:
+    amount: 40
+    unit: "mg"
+    nrv: 4
+  铁:
+    amount: 0.3
+    unit: "mg"
+    nrv: 3.8
+  镁:
+    amount: 10
+    unit: "mg"
+    nrv: 2.5
+  铜:
+    amount: 0.1
+    unit: "mg"
+    nrv: 11.1
+  锰:
+    amount: 0.1
+    unit: "mg"
+    nrv: 4.3
+  锌:
+    amount: 0.1
+    unit: "mg"
+    nrv: 0.9

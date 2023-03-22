@@ -1,0 +1,44 @@
+name: 河粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 97
+    unit: kcal
+    nrv: 4.9
+  蛋白质:
+    amount: 1.9
+    unit: g
+    nrv: 3.8
+  脂肪:
+    amount: 0.1
+    unit: g
+    nrv: 0.2
+  碳水化合物:
+    amount: 22.9
+    unit: g
+    nrv: 7.6
+  膳食纤维:
+    amount: 0.5
+    unit: g
+    nrv: 2.1
+  维生素 B1:
+    amount: 0.06
+    unit: "mg"
+    nrv: 4.0
+  钙:
+    amount: 6
+    unit: "mg"
+    nrv: 0.6
+  镁:
+    amount: 21
+    unit: "mg"
+    nrv: 5.3
+  磷:
+    amount: 37
+    unit: "mg"
+    nrv: 4.6
+  钾:
+    amount: 21
+    unit: "mg"
+    nrv: 1.1

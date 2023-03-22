@@ -1,0 +1,40 @@
+name: 米粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 356
+    unit: kcal
+    nrv: 17.8
+  碳水化合物:
+    amount: 79.2
+    unit: g
+    nrv: 26.4
+  蛋白质:
+    amount: 4.6
+    unit: g
+    nrv: 8.3
+  脂肪:
+    amount: 0.5
+    unit: g
+    nrv: 0.8
+  纤维:
+    amount: 1.3
+    unit: g
+    nrv: 5.2
+  维生素 B1:
+    amount: 0.11
+    unit: "mg"
+    nrv: 9.2
+  钙:
+    amount: 5
+    unit: "mg"
+    nrv: 0.5
+  铁:
+    amount: 1.1
+    unit: "mg"
+    nrv: 13.8
+  锌:
+    amount: 0.4
+    unit: "mg"
+    nrv: 3.6

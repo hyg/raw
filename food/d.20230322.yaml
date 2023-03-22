@@ -1,106 +1,103 @@
-date: 20230321
+date: 20230322
 food:
-- time: 20230321113600
+- time: 20230322102200
   name: 苹果
-  amount: 170.5
+  amount: 190.0
   unit: g
-- time: 20230321114200
+- time: 20230322102800
   name: 黑青稞
   amount: 20.0
   unit: g
-- time: 20230321114200
+- time: 20230322102800
   name: 麦片
   amount: 20.0
   unit: g
-- time: 20230321114200
+- time: 20230322102800
   name: 花青素杂粮
   amount: 20.0
   unit: g
-- time: 20230321114200
+- time: 20230322102800
   name: 绿豆
   amount: 10.0
   unit: g
-- time: 20230321114200
+- time: 20230322102800
   name: 灰枣
-  amount: 25.0
+  amount: 27.5
   unit: g
-- time: 20230321114200
+- time: 20230322102800
   name: 南瓜
-  amount: 73.0
+  amount: 93.5
   unit: g
-- time: 20230321120400
+- time: 20230322105000
   name: 枸杞
   amount: 5.0
   unit: g
-- time: 20230321120400
+- time: 20230322105000
   name: 亚麻籽
   amount: 5.0
   unit: g
-- time: 20230321120400
+- time: 20230322105000
   name: 麦胚芽
   amount: 6.0
   unit: g
-- time: 20230321121000
+- time: 20230322105700
   name: 奶粉
   amount: 25.0
   unit: g 
-- time: 20230321121000
+- time: 20230322105700
   name: 小分子肽粉
-  amount: 3.0
+  amount: 2.5
   unit: g 
-- time: 20230321151200
+- time: 20230322134300
   name: 蓝莓叶黄素酯压片糖果
   amount: 2.0
   unit: g
-- time: 20230321151500
-  name: 米粉
-  amount: 200.0
+- time: 20230322140700
+  name: 筋饼
+  amount: 82.5
   unit: g
-- time: 20230321151500
-  name: 杏鲍菇
-  amount: 59.5
+- time: 20230322140700
+  name: 奶酪
+  amount: 28.5
   unit: g
-- time: 20230321151500
-  name: 油菜
-  amount: 90.0
-  unit: g
-- time: 20230321151500
+- time: 20230322140700
   name: 猪肉
-  amount: 90.0
+  amount: 102.0
   unit: g
-- time: 20230321160200
+- time: 20230322143200
   name: 奶粉
   amount: 25.0
   unit: g
-- time: 20230321203100
+
+- time: 20230322203100
   name: 蓝莓叶黄素酯压片糖果
   amount: 2.0
   unit: g
-- time: 20230321203000
+- time: 20230322203000
   name: 大米
   amount: 70.0
   unit: g
-- time: 20230321203000
+- time: 20230322203000
   name: 快菜
   amount: 203.0
   unit: g
-- time: 20230321203000
+- time: 20230322203000
   name: 西兰花
   amount: 101.5
   unit: g
-- time: 20230321203000
+- time: 20230322203000
   name: 鸡蛋
   amount: 109.5
   unit: g
-- time: 20230321205700
+- time: 20230322205700
   name: 奶粉
   amount: 26.0
   unit: g
-- time: 20230321205700
+- time: 20230322205700
   name: 可可粉
   amount: 4.5
   unit: g
-- time: 20230321205700
+- time: 20230322205700
   name: 小分子肽粉
   amount: 3.0
   unit: g
@@ -109,27 +106,36 @@ food:
   amount: 130.5
   unit: g
 water:
-- time: 20230321100800
+- time: 20230322090700
   name: 开水
-  amount: 300
+  amount: 170
   unit: ml
-- time: 20230321121000
+- time: 20230322105700
+  name: 咖啡
+  amount: 107.0
+  unit: ml
+- time: 20230322114300
+  name: 开水
+  amount: 250
+  unit: ml
+- time: 20230322143200
   name: 咖啡
   amount: 100.0
   unit: ml
-- time: 20230321131300
+- time: 20230322152300
   name: 开水
   amount: 250
   unit: ml
-- time: 20230321160200
-  name: 咖啡
-  amount: 100.5
-  unit: ml
-- time: 20230321184600
+- time: 20230322160900
   name: 开水
   amount: 250
   unit: ml
-- time: 20230321205700
+- time: 20230322174800
+  name: 开水
+  amount: 250
+  unit: ml
+
+- time: 20230322205700
   name: 可可奶
   amount: 100.0
   unit: ml

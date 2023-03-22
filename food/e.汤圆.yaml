@@ -1,0 +1,36 @@
+name: 汤圆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 266
+    unit: kcal
+    nrv: 13.3
+  蛋白质:
+    amount: 3.8
+    unit: g
+    nrv: 7.6
+  脂肪:
+    amount: 0.5
+    unit: g
+    nrv: 0.8
+  碳水化合物:
+    amount: 57.2
+    unit: g
+    nrv: 19.1
+  膳食纤维:
+    amount: 1.5
+    unit: g
+    nrv: 6.0
+  钾:
+    amount: 42
+    unit: "mg"
+    nrv: 2.1
+  钙:
+    amount: 24
+    unit: "mg"
+    nrv: 2.4
+  镁:
+    amount: 9
+    unit: "mg"
+    nrv: 2.3

@@ -1,0 +1,56 @@
+name: 灰枣
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 257
+    unit: kcal
+    nrv: 12.9
+  碳水化合物:
+    amount: 63.6
+    unit: g
+    nrv: 21.2
+  蛋白质:
+    amount: 2.5
+    unit: g
+    nrv: 4.5
+  脂肪:
+    amount: 0.5
+    unit: g
+    nrv: 1
+  纤维:
+    amount: 8.2
+    unit: g
+    nrv: 24.3
+  维生素 A:
+    amount: 55
+    unit: "μg"
+    nrv: 6.1
+  维生素 C:
+    amount: 1
+    unit: "mg"
+    nrv: 1.1
+  钙:
+    amount: 81
+    unit: "mg"
+    nrv: 8.1
+  铁:
+    amount: 2.6
+    unit: "mg"
+    nrv: 32.5
+  镁:
+    amount: 51
+    unit: "mg"
+    nrv: 12.8
+  铜:
+    amount: 0.4
+    unit: "mg"
+    nrv: 44.4
+  锰:
+    amount: 0.8
+    unit: "mg"
+    nrv: 34.8
+  锌:
+    amount: 0.2
+    unit: "mg"
+    nrv: 1.8

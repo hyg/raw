@@ -62,7 +62,6 @@ element:
     amount: 130
     unit: μg
     nrv: 4
-    
   磷:
     amount: 326
     unit: mg

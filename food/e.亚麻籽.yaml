@@ -1,0 +1,56 @@
+name: 亚麻籽
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 534
+    unit: kcal
+    nrv: 26.7
+  碳水化合物:
+    amount: 28.88
+    unit: g
+    nrv: 9.6
+  蛋白质:
+    amount: 18.29
+    unit: g
+    nrv: 32.7
+  脂肪:
+    amount: 42.16
+    unit: g
+    nrv: 70.3
+  纤维:
+    amount: 27.3
+    unit: g
+    nrv: 81.2
+  维生素 A:
+    amount: 0
+    unit: "μg"
+    nrv: 0
+  维生素 C:
+    amount: 1.6
+    unit: "mg"
+    nrv: 1.8
+  钙:
+    amount: 255
+    unit: "mg"
+    nrv: 25.5
+  铁:
+    amount: 5.73
+    unit: "mg"
+    nrv: 71.6
+  镁:
+    amount: 392
+    unit: "mg"
+    nrv: 98
+  铜:
+    amount: 1.2
+    unit: "mg"
+    nrv: 133.3
+  锰:
+    amount: 2.48
+    unit: "mg"
+    nrv: 107.8
+  锌:
+    amount: 4.34
+    unit: "mg"
+    nrv: 39.4

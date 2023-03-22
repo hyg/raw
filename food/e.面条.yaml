@@ -1,0 +1,52 @@
+name: 面条
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 352
+    unit: kcal
+    nrv: 17.6
+  蛋白质:
+    amount: 11.8
+    unit: g
+    nrv: 23.6
+  脂肪:
+    amount: 1.4
+    unit: g
+    nrv: 2.3
+  碳水化合物:
+    amount: 73.0
+    unit: g
+    nrv: 24.3
+  膳食纤维:
+    amount: 3.5
+    unit: g
+    nrv: 14.0
+  钼:
+    amount: 20
+    unit: "μg"
+    nrv: 40.0
+  钙:
+    amount: 50
+    unit: "mg"
+    nrv: 5.0
+  铁:
+    amount: 2.0
+    unit: "mg"
+    nrv: 13.3
+  镁:
+    amount: 60
+    unit: "mg"
+    nrv: 15.0
+  锰:
+    amount: 0.66
+    unit: "mg"
+    nrv: 33.0
+  磷:
+    amount: 138
+    unit: "mg"
+    nrv: 17.3
+  钾:
+    amount: 85
+    unit: "mg"
+    nrv: 4.3

@@ -1,0 +1,56 @@
+name: 绿豆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 341
+    unit: kcal
+    nrv: 17.1
+  碳水化合物:
+    amount: 62.6
+    unit: g
+    nrv: 20.9
+  蛋白质:
+    amount: 23.5
+    unit: g
+    nrv: 42
+  脂肪:
+    amount: 1.2
+    unit: g
+    nrv: 2.4
+  纤维:
+    amount: 10.7
+    unit: g
+    nrv: 31.7
+  维生素 A:
+    amount: 0
+    unit: "μg"
+    nrv: 0
+  维生素 C:
+    amount: 1.8
+    unit: "mg"
+    nrv: 2
+  钙:
+    amount: 130
+    unit: "mg"
+    nrv: 13
+  铁:
+    amount: 8.3
+    unit: "mg"
+    nrv: 103.8
+  镁:
+    amount: 92
+    unit: "mg"
+    nrv: 23
+  铜:
+    amount: 0.9
+    unit: "mg"
+    nrv: 100
+  锰:
+    amount: 1.8
+    unit: "mg"
+    nrv: 78.3
+  锌:
+    amount: 2.9
+    unit: "mg"
+    nrv: 26.4

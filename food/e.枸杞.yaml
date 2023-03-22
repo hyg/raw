@@ -1,0 +1,56 @@
+name: 枸杞
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 350
+    unit: kcal
+    nrv: 17.5
+  碳水化合物:
+    amount: 68
+    unit: g
+    nrv: 22.7
+  蛋白质:
+    amount: 12
+    unit: g
+    nrv: 21.4
+  脂肪:
+    amount: 1
+    unit: g
+    nrv: 2
+  纤维:
+    amount: 3.3
+    unit: g
+    nrv: 9.8
+  维生素 A:
+    amount: 1625
+    unit: "μg"
+    nrv: 180.6
+  维生素 C:
+    amount: 48
+    unit: "mg"
+    nrv: 53.3
+  钙:
+    amount: 112
+    unit: "mg"
+    nrv: 11.2
+  铁:
+    amount: 9
+    unit: "mg"
+    nrv: 112.5
+  镁:
+    amount: 96
+    unit: "mg"
+    nrv: 24
+  铜:
+    amount: 1.3
+    unit: "mg"
+    nrv: 144.4
+  锰:
+    amount: 1.5
+    unit: "mg"
+    nrv: 65.2
+  锌:
+    amount: 2.3
+    unit: "mg"
+    nrv: 20.9

@@ -1,0 +1,56 @@
+name: 猪肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 143
+    unit: kcal
+    nrv: 7.2
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  蛋白质:
+    amount: 16.5
+    unit: g
+    nrv: 29.7
+  脂肪:
+    amount: 8.4
+    unit: g
+    nrv: 14.4
+  纤维:
+    amount: 0
+    unit: g
+    nrv: 0
+  维生素 A:
+    amount: 0.018
+    unit: "μg"
+    nrv: 0
+  维生素 C:
+    amount: 0
+    unit: "mg"
+    nrv: 0
+  钙:
+    amount: 6
+    unit: "mg"
+    nrv: 0.6
+  铁:
+    amount: 1.1
+    unit: "mg"
+    nrv: 13.7
+  镁:
+    amount: 25
+    unit: "mg"
+    nrv: 6.3
+  铜:
+    amount: 0.1
+    unit: "mg"
+    nrv: 11.1
+  锰:
+    amount: 0.1
+    unit: "mg"
+    nrv: 4.3
+  锌:
+    amount: 1.5
+    unit: "mg"
+    nrv: 13.6

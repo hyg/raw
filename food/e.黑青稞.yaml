@@ -1,0 +1,56 @@
+name: 黑青稞
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 358
+    unit: kcal
+    nrv: 18
+  碳水化合物:
+    amount: 64.3
+    unit: g
+    nrv: 21.4
+  蛋白质:
+    amount: 12.6
+    unit: g
+    nrv: 22.5
+  脂肪:
+    amount: 2.4
+    unit: g
+    nrv: 4.8
+  纤维:
+    amount: 7.3
+    unit: g
+    nrv: 21.6
+  维生素 A:
+    amount: 0
+    unit: "μg"
+    nrv: 0
+  维生素 C:
+    amount: 5
+    unit: "mg"
+    nrv: 5.6
+  钙:
+    amount: 46
+    unit: "mg"
+    nrv: 4.6
+  铁:
+    amount: 5.7
+    unit: "mg"
+    nrv: 71.3
+  镁:
+    amount: 160
+    unit: "mg"
+    nrv: 40
+  铜:
+    amount: 0.4
+    unit: "mg"
+    nrv: 44.4
+  锰:
+    amount: 1.9
+    unit: "mg"
+    nrv: 82.6
+  锌:
+    amount: 3.0
+    unit: "mg"
+    nrv: 27.3

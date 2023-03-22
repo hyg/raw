@@ -1,0 +1,20 @@
+name: 小分子肽粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 391
+    unit: kcal
+    nrv: 19.6
+  蛋白质:
+    amount: 92.8
+    unit: g
+    nrv: 185.6
+  碳水化合物:
+    amount: 3.2
+    unit: g
+    nrv: 1.1
+  钠:
+    amount: 802
+    unit: mg
+    nrv: 40.1

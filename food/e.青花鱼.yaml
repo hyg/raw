@@ -1,0 +1,40 @@
+name: 青花鱼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 212
+    unit: kcal
+    nrv: 10.6
+  蛋白质:
+    amount: 26
+    unit: g
+    nrv: 52
+  脂肪:
+    amount: 11
+    unit: g
+    nrv: 18.3
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  钙:
+    amount: 9
+    unit: mg
+    nrv: 0.9
+  钾:
+    amount: 301
+    unit: mg
+    nrv: 15.1
+  镁:
+    amount: 26
+    unit: mg
+    nrv: 6.5
+  维生素A:
+    amount: 0.01
+    unit: mg
+    nrv: 0.001
+  维生素C:
+    amount: 0
+    unit: mg
+    nrv: 0

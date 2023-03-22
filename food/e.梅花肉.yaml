@@ -1,0 +1,44 @@
+name: 梅花肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 469
+    unit: kcal
+    nrv: 23.5
+  蛋白质:
+    amount: 36.9
+    unit: g
+    nrv: 73.8
+  脂肪:
+    amount: 34.9
+    unit: g
+    nrv: 56.4
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  膳食纤维:
+    amount: 0
+    unit: g
+    nrv: 0
+  维生素 B1:
+    amount: 0.33
+    unit: "mg"
+    nrv: 22.0
+  维生素 B2:
+    amount: 0.1
+    unit: "mg"
+    nrv: 5.9
+  维生素 E:
+    amount: 1.57
+    unit: "mg"
+    nrv: 10.5
+  钙:
+    amount: 10
+    unit: "mg"
+    nrv: 1.0
+  镁:
+    amount: 25
+    unit: "mg"
+    nrv: 6.3

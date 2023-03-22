@@ -1,0 +1,40 @@
+name: 松板肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 416
+    unit: kcal
+    nrv: 20.8
+  蛋白质:
+    amount: 26.8
+    unit: g
+    nrv: 53.6
+  脂肪:
+    amount: 32.1
+    unit: g
+    nrv: 53.5
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  钙:
+    amount: 16
+    unit: mg
+    nrv: 1.6
+  钾:
+    amount: 340
+    unit: mg
+    nrv: 17
+  镁:
+    amount: 34
+    unit: mg
+    nrv: 8.5
+  维生素A:
+    amount: 3
+    unit: 微克
+    nrv: 0.3
+  维生素C:
+    amount: 0
+    unit: mg
+    nrv: 0

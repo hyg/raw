@@ -1,0 +1,56 @@
+name: 油菜
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 26
+    unit: kcal
+    nrv: 1.3
+  碳水化合物:
+    amount: 1.6
+    unit: g
+    nrv: 0.5
+  蛋白质:
+    amount: 3.3
+    unit: g
+    nrv: 5.9
+  脂肪:
+    amount: 0.4
+    unit: g
+    nrv: 0.8
+  纤维:
+    amount: 1.6
+    unit: g
+    nrv: 4.8
+  维生素 A:
+    amount: 536.33
+    unit: "μg"
+    nrv: 59.6
+  维生素 C:
+    amount: 56.2
+    unit: "mg"
+    nrv: 62.4
+  钙:
+    amount: 132
+    unit: "mg"
+    nrv: 13.2
+  铁:
+    amount: 2.0
+    unit: "mg"
+    nrv: 25
+  镁:
+    amount: 42
+    unit: "mg"
+    nrv: 10.5
+  铜:
+    amount: 0.1
+    unit: "mg"
+    nrv: 11.1
+  锰:
+    amount: 0.5
+    unit: "mg"
+    nrv: 21.7
+  锌:
+    amount: 0.4
+    unit: "mg"
+    nrv: 3.6
