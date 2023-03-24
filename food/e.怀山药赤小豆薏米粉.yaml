@@ -1,0 +1,24 @@
+name: 怀山药赤小豆薏米粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 400
+    unit: kcal
+    nrv: 20
+  碳水化合物:
+    amount: 73.5
+    unit: g
+    nrv: 25
+  蛋白质:
+    amount: 19.9
+    unit: g
+    nrv: 33
+  脂肪:
+    amount: 2.5
+    unit: g
+    nrv: 4
+  钠:
+    amount: 0
+    unit: "mg"
+    nrv: 0

@@ -78,7 +78,7 @@ food:
   unit: g
 - time: 20230323210700
   name: 可可粉
-  amount: 4.
+  amount: 4.0
   unit: g
 - time: 20230323210700
   name: 小分子肽粉
