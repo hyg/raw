@@ -1,0 +1,34 @@
+date: 20230325
+sleep: 
+  time: 20230325014700
+  weight: 61.2
+wake:
+  time: 20230325113200
+  weight: 60.5
+  SpO2: 95
+  PRbpm: 75
+exercise: 
+- time: 20230325123000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 98
+  endheartrate: 97
+stool:
+- time: 20230325140500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  三分之一满热水袋，一直摆在腘窝下，直到睡着膝盖还是冰的。天微亮时醒来身上微微出汗，膝盖也是热的。推到侧面补了回笼觉。
