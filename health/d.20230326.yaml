@@ -1,0 +1,35 @@
+date: 20230326
+sleep: 
+  time: 20230326011700
+  weight: 61.0
+wake:
+  time: 20230326093000
+  weight: 60.6
+  SpO2: 98
+  PRbpm: 69
+exercise: 
+- time: 20230326102000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 90
+  endheartrate: 94
+stool:
+- time: 20230326115000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  三分之一满热水袋，一直放在腘窝下。直到睡着还觉得膝盖冷。醒来时稍微有点热，出汗不明显。
+  小腿和左后腰发酸。
