@@ -1,0 +1,48 @@
+name: 艾糍
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 196
+    unit: kcal
+    nrv: 9.8
+  碳水化合物:
+    amount: 42.0
+    unit: g
+    nrv: 14.0
+  蛋白质:
+    amount: 3.6
+    unit: g
+    nrv: 6.5
+  脂肪:
+    amount: 2.75
+    unit: g
+    nrv: 4.6
+  膳食纤维:
+    amount: 2.25
+    unit: g
+    nrv: 9.0
+  维生素B1:
+    amount: 0.12
+    unit: mg
+    nrv: 8.0
+  维生素B2:
+    amount: 0.1
+    unit: mg
+    nrv: 5.9
+  钙:
+    amount: 17.5
+    unit: mg
+    nrv: 1.75
+  铁:
+    amount: 0.9
+    unit: mg
+    nrv: 11.3
+  钠:
+    amount: 16.0
+    unit: mg
+    nrv: 0.8
+  锌:
+    amount: 0.6
+    unit: mg
+    nrv: 5.5

@@ -1,0 +1,56 @@
+name: 黑芝麻
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 563
+    unit: kcal
+    nrv: 28.2
+  碳水化合物:
+    amount: 23.4
+    unit: g
+    nrv: 7.8
+  脂肪:
+    amount: 49.7
+    unit: g
+    nrv: 83.2
+  蛋白质:
+    amount: 17.7
+    unit: g
+    nrv: 32.2
+  膳食纤维:
+    amount: 11.8
+    unit: g
+    nrv: 47.2
+  维生素A:
+    amount: 9.0
+    unit: μg
+    nrv: 1.0
+  维生素B1:
+    amount: 0.54
+    unit: mg
+    nrv: 36.0
+  维生素B2:
+    amount: 0.38
+    unit: mg
+    nrv: 22.4
+  维生素E:
+    amount: 0.3
+    unit: mg
+    nrv: 3.0
+  钙:
+    amount: 970.0
+    unit: mg
+    nrv: 97.0
+  镁:
+    amount: 346.0
+    unit: mg
+    nrv: 86.5
+  铜:
+    amount: 1.7
+    unit: mg
+    nrv: 170
+  锌:
+    amount: 7.7
+    unit: mg
+    nrv: 70.0

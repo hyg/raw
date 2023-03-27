@@ -1,0 +1,56 @@
+name: 花生
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 567
+    unit: kcal
+    nrv: 28.4
+  碳水化合物:
+    amount: 16.1
+    unit: g
+    nrv: 5.4
+  蛋白质:
+    amount: 25.8
+    unit: g
+    nrv: 46.9
+  脂肪:
+    amount: 46.0
+    unit: g
+    nrv: 76.7
+  膳食纤维:
+    amount: 8.2
+    unit: g
+    nrv: 32.8
+  维生素B1:
+    amount: 0.4
+    unit: mg
+    nrv: 26.7
+  维生素B2:
+    amount: 0.2
+    unit: mg
+    nrv: 11.8
+  维生素E:
+    amount: 8.3
+    unit: mg
+    nrv: 83.0
+  钙:
+    amount: 92.0
+    unit: mg
+    nrv: 9.2
+  镁:
+    amount: 184.0
+    unit: mg
+    nrv: 46.0
+  磷:
+    amount: 376.0
+    unit: mg
+    nrv: 47.0
+  钾:
+    amount: 658
+    unit: mg
+    nrv: 33.0
+  锌:
+    amount: 3.3
+    unit: mg
+    nrv: 30.0

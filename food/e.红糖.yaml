@@ -1,0 +1,36 @@
+name: 红糖
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 374
+    unit: kcal
+    nrv: 18.7
+  碳水化合物:
+    amount: 94.5
+    unit: g
+    nrv: 31.5
+  蛋白质:
+    amount: 0.3
+    unit: g
+    nrv: 0.5
+  脂肪:
+    amount: 0.1
+    unit: g
+    nrv: 0.2
+  钙:
+    amount: 128.0
+    unit: mg
+    nrv: 12.8
+  铁:
+    amount: 15.0
+    unit: mg
+    nrv: 187.5
+  钠:
+    amount: 88.0
+    unit: mg
+    nrv: 4.4
+  锌:
+    amount: 0.3
+    unit: mg
+    nrv: 2.7

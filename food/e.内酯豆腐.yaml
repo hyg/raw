@@ -1,0 +1,64 @@
+name: 内酯豆腐
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 60
+    unit: kcal
+    nrv: 3.0
+  碳水化合物:
+    amount: 2.2
+    unit: g
+    nrv: 0.7
+  蛋白质:
+    amount: 8.0
+    unit: g
+    nrv: 14.5
+  脂肪:
+    amount: 2.8
+    unit: g
+    nrv: 4.7
+  膳食纤维:
+    amount: 3.0
+    unit: g
+    nrv: 12.0
+  维生素A:
+    amount: 1.2
+    unit: μg
+    nrv: 0.1
+  维生素B1:
+    amount: 0.05
+    unit: mg
+    nrv: 3.3
+  维生素B2:
+    amount: 0.16
+    unit: mg
+    nrv: 9.4
+  维生素C:
+    amount: 0.0
+    unit: mg
+    nrv: 0.0
+  维生素E:
+    amount: 0.4
+    unit: mg
+    nrv: 4.0
+  钙:
+    amount: 350.0
+    unit: mg
+    nrv: 35.0
+  铁:
+    amount: 5.0
+    unit: mg
+    nrv: 62.5
+  镁:
+    amount: 48.0
+    unit: mg
+    nrv: 12.0
+  钾:
+    amount: 460.0
+    unit: mg
+    nrv: 23.0
+  锌:
+    amount: 0.73
+    unit: mg
+    nrv: 6.6

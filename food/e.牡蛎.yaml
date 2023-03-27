@@ -1,0 +1,52 @@
+name: 牡蛎
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 59
+    unit: kcal
+    nrv: 3.0
+  碳水化合物:
+    amount: 5.2
+    unit: g
+    nrv: 1.7
+  蛋白质:
+    amount: 9.4
+    unit: g
+    nrv: 17.1
+  脂肪:
+    amount: 1.5
+    unit: g
+    nrv: 2.5
+  膳食纤维:
+    amount: 0.2
+    unit: g
+    nrv: 0.8
+  维生素A:
+    amount: 20.0
+    unit: μg
+    nrv: 2.2
+  维生素C:
+    amount: 3.3
+    unit: mg
+    nrv: 3.7
+  钙:
+    amount: 78.0
+    unit: mg
+    nrv: 7.8
+  铁:
+    amount: 3.0
+    unit: mg
+    nrv: 37.5
+  钠:
+    amount: 97.0
+    unit: mg
+    nrv: 4.8
+  锌:
+    amount: 6.4
+    unit: mg
+    nrv: 58.2
+  硒:
+    amount: 99.2
+    unit: μg
+    nrv: 180
