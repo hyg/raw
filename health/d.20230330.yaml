@@ -1,14 +1,14 @@
-date: 20230329
+date: 20230330
 sleep: 
-  time: 20230329031400
-  weight: 61.6
-wake:
-  time: 20230329114000
+  time: 20230330021200
   weight: 61.0
-  SpO2: 95
-  PRbpm: 70
+wake:
+  time: 20230330113500
+  weight: 60.5
+  SpO2: 94
+  PRbpm: 69
 exercise: 
-- time: 20230329124000
+- time: 20230330124500
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -23,12 +23,12 @@ exercise:
     amount: 5
     unit: turn
   SpO2: 98
-  PRbpm: 91
-  endheartrate: 96
+  PRbpm: 90
+  endheartrate: 94
 stool:
-- time: 20230329222200
-  amount:   1   #	1:多; 2:适中;	3:少
+- time: 20230330143500
+  amount:   2   #	1:多; 2:适中;	3:少
   type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 comment: |+
-  半满热水袋垫在腘窝下。天微亮时醒来鼻腔发干，身上基本没有出汗，把热水袋推到侧面补了回笼觉。
+  半满热水袋垫在腘窝下。天微亮时醒来微微发热，没有明显出汗。上颚后端发干。把热水袋推到侧面补回笼觉。

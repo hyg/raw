@@ -151,6 +151,7 @@ function fooddaysum(date,etable,ftable){
             for (var e in fooddata.element) {
                 let item = new Object();
                 item.amount = parseFloat(fooddata.element[e].amount) * r;
+                //console.log(fooddata.element[e].unit);
                 item.unit = fooddata.element[e].unit.toLowerCase();
                 item.nrv = parseFloat(fooddata.element[e].nrv) * r;
 

@@ -1,0 +1,24 @@
+name: 黑豆粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 447
+    unit: kcal
+    nrv: 22
+  碳水化合物:
+    amount: 49.2
+    unit: g
+    nrv: 16
+  蛋白质:
+    amount: 28.9
+    unit: g
+    nrv: 48
+  脂肪:
+    amount: 14.7
+    unit: g
+    nrv: 24
+  钠:
+    amount: 19
+    unit: mg
+    nrv: 1
