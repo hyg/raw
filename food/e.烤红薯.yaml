@@ -1,0 +1,56 @@
+name: 烤红薯
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 116
+    unit: kcal
+    nrv: 6
+  碳水化合物:
+    amount: 27.9
+    unit: g
+    nrv: 9
+  蛋白质:
+    amount: 1.6
+    unit: g
+    nrv: 3
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0
+  膳食纤维:
+    amount: 3.9
+    unit: g
+    nrv: 16
+  钠:
+    amount: 73
+    unit: mg
+    nrv: 4
+  维生素A:
+    amount: 3740
+    unit: IU
+    nrv: 124
+  维生素C:
+    amount: 25.6
+    unit: mg
+    nrv: 43
+  维生素B1:
+    amount: 0.08
+    unit: mg
+    nrv: 5
+  钙:
+    amount: 17
+    unit: mg
+    nrv: 2
+  镁:
+    amount: 27
+    unit: mg
+    nrv: 7
+  磷:
+    amount: 44
+    unit: mg
+    nrv: 7
+  钾:
+    amount: 337
+    unit: mg
+    nrv: 9

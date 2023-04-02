@@ -76,9 +76,9 @@ med:
   amount: 1
   unit: 片
 - time: 20170817180500
-  name: 硒
+  name: selenium
   amount: 100
-  unit: mcg
+  unit: μg
 - time: 20170817180500
   name: 维生素D3
   amount: 400

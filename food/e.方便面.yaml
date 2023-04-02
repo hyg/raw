@@ -1,0 +1,28 @@
+name: 方便面
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 444
+    unit: kcal
+    nrv: 22
+  碳水化合物:
+    amount: 63.6
+    unit: g
+    nrv: 21
+  膳食纤维:
+    amount: 2.2
+    unit: g
+    nrv: 9
+  蛋白质:
+    amount: 8.6
+    unit: g
+    nrv: 14
+  脂肪:
+    amount: 17.6
+    unit: g
+    nrv: 29
+  钠:
+    amount: 1851
+    unit: mg
+    nrv: 93

@@ -17,6 +17,7 @@ try {
         if (list[i].substr(0, 2) == "e.") {
             e = yaml.load(fs.readFileSync("food/" + list[i], 'utf8'));
             emap[e.name] = e;
+            //if(e.name == "胶原蛋白肽粉") console.log(e.name+"\tamount:"+e.element["锌"].amount+"\tunit:"+e.element["锌"].unit+"\tnrv:"+e.element["锌"].nrv);
         }
     }
 
@@ -159,7 +160,7 @@ function fooddaysum(date,etable,ftable){
                     item.unit = "g";
                     item.amount = item.amount / 1000;
                 }
-                if (item.unit == "μg") {
+                if ((item.unit == "µg") || (item.unit == "μg")) {
                     item.unit = "g";
                     item.amount = item.amount / 1000000;
                 }
@@ -176,6 +177,8 @@ function fooddaysum(date,etable,ftable){
                     // new element
                     etable[e] = item;
                 }
+                //if(fooddata.name == "胶原蛋白肽粉") console.log(fooddata.name+"\tamount:"+fooddata.element["锌"].amount+"\tunit:"+fooddata.element["锌"].unit+"\tnrv:"+fooddata.element["锌"].nrv);
+                //if(e=="锌") console.log(food[id].amount+"克的"+food[id].name+"含有"+item.amount+item.unit+"。累计摄入："+etable[e].amount);
             }
             delete food[id];
         } else {
@@ -453,7 +456,7 @@ function E_fix() {
                 item.unit = "g";
                 item.amount = item.amount / 1000;
             }
-            if (item.unit == "μg") {
+            if ((item.unit == "µg") || (item.unit == "μg")) {
                 item.unit = "g";
                 item.amount = item.amount / 1000000;
             }

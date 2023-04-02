@@ -1,0 +1,56 @@
+name: 鲷鱼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 97
+    unit: kcal
+    nrv: 5
+  蛋白质:
+    amount: 18.5
+    unit: g
+    nrv: 31
+  脂肪:
+    amount: 2.3
+    unit: g
+    nrv: 4
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  膳食纤维:
+    amount: 0
+    unit: g
+    nrv: 0
+  维生素A:
+    amount: 21
+    unit: µg
+    nrv: 3
+  维生素B1:
+    amount: 0.24
+    unit: mg
+    nrv: 16
+  维生素B2:
+    amount: 0.13
+    unit: mg
+    nrv: 8
+  维生素E:
+    amount: 0.8
+    unit: mg
+    nrv: 7
+  镁:
+    amount: 25
+    unit: mg
+    nrv: 6
+  钙:
+    amount: 11
+    unit: mg
+    nrv: 1
+  铁:
+    amount: 0.7
+    unit: mg
+    nrv: 5
+  锌:
+    amount: 0.7
+    unit: mg
+    nrv: 5

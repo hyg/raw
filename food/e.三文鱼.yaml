@@ -1,0 +1,52 @@
+name: 三文鱼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 202
+    unit: kcal
+    nrv: 10
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  膳食纤维:
+    amount: 0
+    unit: g
+    nrv: 0
+  蛋白质:
+    amount: 20.4
+    unit: g
+    nrv: 34
+  脂肪:
+    amount: 13
+    unit: g
+    nrv: 22
+  钠:
+    amount: 59
+    unit: mg
+    nrv: 3
+  钙:
+    amount: 12
+    unit: mg
+    nrv: 1
+  磷:
+    amount: 260
+    unit: mg
+    nrv: 26
+  镁:
+    amount: 30
+    unit: mg
+    nrv: 8
+  维生素B12:
+    amount: 4.4
+    unit: μg
+    nrv: 73
+  维生素D:
+    amount: 12.5
+    unit: μg
+    nrv: 250
+  欧米伽3脂肪酸:
+    amount: 3324
+    unit: mg
+    nrv: 416

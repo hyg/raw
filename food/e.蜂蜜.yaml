@@ -1,0 +1,48 @@
+name: 蜂蜜
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 304
+    unit: kcal
+    nrv: 15
+  碳水化合物:
+    amount: 82.4
+    unit: g
+    nrv: 27
+  膳食纤维:
+    amount: 0
+    unit: g
+    nrv: 0
+  蛋白质:
+    amount: 0.3
+    unit: g
+    nrv: 1
+  脂肪:
+    amount: 0
+    unit: g
+    nrv: 0
+  钠:
+    amount: 4
+    unit: mg
+    nrv: 0
+  钙:
+    amount: 6
+    unit: mg
+    nrv: 1
+  铁:
+    amount: 0.4
+    unit: mg
+    nrv: 3
+  锌:
+    amount: 0.2
+    unit: mg
+    nrv: 2
+  硒:
+    amount: 1.2
+    unit: μg
+    nrv: 2
+  硼:
+    amount: 2
+    unit: mg
+    nrv: 0

@@ -1,0 +1,40 @@
+name: 瓜子仁
+amount: 100
+unit: g
+element: 
+  热量:
+    amount: 612
+    unit: kcal
+    nrv: 31
+  碳水化合物:
+    amount: 10.6
+    unit: g
+    nrv: 4
+  蛋白质:
+    amount: 29.8
+    unit: g
+    nrv: 50
+  脂肪:
+    amount: 49.3
+    unit: g
+    nrv: 82
+  膳食纤维:
+    amount: 2.3
+    unit: g
+    nrv: 9
+  钙:
+    amount: 59
+    unit: mg
+    nrv: 6
+  镁:
+    amount: 392
+    unit: mg
+    nrv: 98
+  铁:
+    amount: 5.00
+    unit: mg
+    nrv: 36
+  锌:
+    amount: 4.56
+    unit: mg
+    nrv: 38

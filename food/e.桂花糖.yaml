@@ -1,0 +1,28 @@
+name: 桂花糖
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 382
+    unit: kcal
+    nrv: 19
+  碳水化合物:
+    amount: 95
+    unit: g
+    nrv: 32
+  蛋白质:
+    amount: 0
+    unit: g
+    nrv: 0
+  脂肪:
+    amount: 0
+    unit: g
+    nrv: 0
+  膳食纤维:
+    amount: 0
+    unit: g
+    nrv: 0
+  钠:
+    amount: 0.45
+    unit: g
+    nrv: 0.02

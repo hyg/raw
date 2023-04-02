@@ -1,0 +1,64 @@
+name: 贻贝
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 84
+    unit: kcal
+    nrv: 4
+  蛋白质:
+    amount: 14.5
+    unit: g
+    nrv: 24
+  脂肪:
+    amount: 1.5
+    unit: g
+    nrv: 3
+  碳水化合物:
+    amount: 3.6
+    unit: g
+    nrv: 1
+  膳食纤维:
+    amount: 0
+    unit: g
+    nrv: 0
+  维生素B1:
+    amount: 0.02
+    unit: mg
+    nrv: 1
+  维生素B2:
+    amount: 0.12
+    unit: mg
+    nrv: 7
+  维生素E:
+    amount: 1.9
+    unit: mg
+    nrv: 16
+  镁:
+    amount: 29
+    unit: mg
+    nrv: 7
+  钾:
+    amount: 240
+    unit: mg
+    nrv: 12
+  钙:
+    amount: 64
+    unit: mg
+    nrv: 6
+  锌:
+    amount: 2.2
+    unit: mg
+    nrv: 15
+  铜:
+    amount: 0.16
+    unit: mg
+    nrv: 16
+  锰:
+    amount: 0.04
+    unit: mg
+    nrv: 2
+  硒:
+    amount: 28.3
+    unit: μg
+    nrv: 32

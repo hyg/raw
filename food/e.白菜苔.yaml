@@ -1,0 +1,56 @@
+name: 白菜苔
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 22
+    unit: kcal
+    nrv: 1
+  蛋白质:
+    amount: 2.2
+    unit: g
+    nrv: 4
+  脂肪:
+    amount: 0.4
+    unit: g
+    nrv: 1
+  碳水化合物:
+    amount: 2.8
+    unit: g
+    nrv: 1
+  膳食纤维:
+    amount: 3
+    unit: g
+    nrv: 12
+  维生素A:
+    amount: 316.5
+    unit: μg
+    nrv: 21
+  维生素B1:
+    amount: 0.02
+    unit: mg
+    nrv: 1
+  维生素B2:
+    amount: 0.22
+    unit: mg
+    nrv: 13
+  维生素C:
+    amount: 120
+    unit: mg
+    nrv: 200
+  钙:
+    amount: 124
+    unit: mg
+    nrv: 12
+  钾:
+    amount: 371
+    unit: mg
+    nrv: 7
+  磷:
+    amount: 45
+    unit: mg
+    nrv: 6
+  镁:
+    amount: 32
+    unit: mg
+    nrv: 8

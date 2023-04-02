@@ -1,0 +1,28 @@
+name: 手抓饼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 410
+    unit: kcal
+    nrv: 20
+  碳水化合物:
+    amount: 40
+    unit: g
+    nrv: 13
+  蛋白质:
+    amount: 7
+    unit: g
+    nrv: 12
+  脂肪:
+    amount: 24
+    unit: g
+    nrv: 40
+  膳食纤维:
+    amount: 2.5
+    unit: g
+    nrv: 0
+  钠:
+    amount: 603.2
+    unit: mg
+    nrv: 30

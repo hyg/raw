@@ -1,0 +1,40 @@
+name: 木耳
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 19
+    unit: kcal
+    nrv: 1
+  蛋白质:
+    amount: 2.3
+    unit: g
+    nrv: 4
+  脂肪:
+    amount: 0.3
+    unit: g
+    nrv: 1
+  碳水化合物:
+    amount: 4.4
+    unit: g
+    nrv: 1
+  膳食纤维:
+    amount: 3.7
+    unit: g
+    nrv: 15
+  钙:
+    amount: 13
+    unit: mg
+    nrv: 1
+  镁:
+    amount: 30
+    unit: mg
+    nrv: 8
+  铁:
+    amount: 5.5
+    unit: mg
+    nrv: 46
+  锌:
+    amount: 0.8
+    unit: mg
+    nrv: 8

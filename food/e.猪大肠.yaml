@@ -1,0 +1,60 @@
+name: 猪大肠
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 224
+    unit: kcal
+    nrv: 11
+  蛋白质:
+    amount: 20.8
+    unit: g
+    nrv: 35
+  脂肪:
+    amount: 14.4
+    unit: g
+    nrv: 24
+  碳水化合物:
+    amount: 2.3
+    unit: g
+    nrv: 1
+  膳食纤维:
+    amount: 2.3
+    unit: g
+    nrv: 9
+  维生素B1:
+    amount: 0.11
+    unit: mg
+    nrv: 7
+  维生素B2:
+    amount: 0.78
+    unit: mg
+    nrv: 46
+  维生素E:
+    amount: 0.3
+    unit: mg
+    nrv: 3
+  钙:
+    amount: 14
+    unit: mg
+    nrv: 1
+  磷:
+    amount: 202
+    unit: mg
+    nrv: 29
+  镁:
+    amount: 21
+    unit: mg
+    nrv: 5
+  钾:
+    amount: 219
+    unit: mg
+    nrv: 11
+  钠:
+    amount: 543
+    unit: mg
+    nrv: 27
+  硒:
+    amount: 30.4
+    unit: µg
+    nrv: 35

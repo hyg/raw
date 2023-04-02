@@ -1,0 +1,28 @@
+name: 青豆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 81
+    unit: kcal
+    nrv: 4
+  碳水化合物:
+    amount: 14.9
+    unit: g
+    nrv: 5
+  膳食纤维:
+    amount: 6.4
+    unit: g
+    nrv: 26
+  蛋白质:
+    amount: 5.4
+    unit: g
+    nrv: 9
+  脂肪:
+    amount: 0.3
+    unit: g
+    nrv: 0
+  钠:
+    amount: 5
+    unit: mg
+    nrv: 0.3

@@ -1,0 +1,28 @@
+name: 薏米
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 357
+    unit: kcal
+    nrv: 18
+  碳水化合物:
+    amount: 77.7
+    unit: g
+    nrv: 26
+  膳食纤维:
+    amount: 10.8
+    unit: g
+    nrv: 43
+  蛋白质:
+    amount: 10.6
+    unit: g
+    nrv: 18
+  脂肪:
+    amount: 1
+    unit: g
+    nrv: 2
+  钠:
+    amount: 4
+    unit: mg
+    nrv: 0.3

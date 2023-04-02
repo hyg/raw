@@ -1,0 +1,28 @@
+name: 鲐鲅鱼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 129
+    unit: kcal
+    nrv: 6
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  膳食纤维:
+    amount: 0
+    unit: g
+    nrv: 0
+  蛋白质:
+    amount: 24.3
+    unit: g
+    nrv: 41
+  脂肪:
+    amount: 3.8
+    unit: g
+    nrv: 6
+  钠:
+    amount: 63
+    unit: mg
+    nrv: 4

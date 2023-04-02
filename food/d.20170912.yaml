@@ -52,9 +52,9 @@ water:
   unit: ml
 med:
 - time: 20170912235000
-  name: 硒
+  name: selenium
   amount: 100
-  unit: mcg
+  unit: μg
 - time: 20170912235000
   name: daily multi
   amount: 1

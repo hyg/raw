@@ -1,0 +1,28 @@
+name: 粉利
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 154
+    unit: kcal
+    nrv: 8
+  碳水化合物:
+    amount: 32.1
+    unit: g
+    nrv: 11
+  蛋白质:
+    amount: 2.1
+    unit: g
+    nrv: 4
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0
+  膳食纤维:
+    amount: 0.2
+    unit: g
+    nrv: 1
+  钠:
+    amount: 2.2
+    unit: mg
+    nrv: 0

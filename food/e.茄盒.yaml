@@ -1,0 +1,28 @@
+name: 茄盒
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 145
+    unit: kcal
+    nrv: 7
+  碳水化合物:
+    amount: 9.9
+    unit: g
+    nrv: 3
+  膳食纤维:
+    amount: 1.9
+    unit: g
+    nrv: 8
+  蛋白质:
+    amount: 8.5
+    unit: g
+    nrv: 14
+  脂肪:
+    amount: 8.7
+    unit: g
+    nrv: 14
+  钠:
+    amount: 321
+    unit: mg
+    nrv: 16

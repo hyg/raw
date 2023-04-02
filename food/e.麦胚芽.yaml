@@ -14,11 +14,11 @@ element:
     amount: 367
     unit: kcal
     nrv: 18.35
-  糖:
+  碳水化合物:
     amount: 47
     unit: g
     nrv: 15.67
-  粗纤维:
+  膳食纤维:
     amount: 2.1
     unit: g
     nrv: 8.4

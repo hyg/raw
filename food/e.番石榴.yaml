@@ -22,7 +22,7 @@ element:
     amount: 5.9
     unit: g
     nrv: 24
-  视黄醇当量:
+  视黄醇:
     amount: 53
     unit: μg
     nrv: 7

@@ -1,0 +1,28 @@
+name: 北沙参
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 318
+    unit: kcal
+    nrv: 16
+  碳水化合物:
+    amount: 77.3
+    unit: g
+    nrv: 26
+  膳食纤维:
+    amount: 18.7
+    unit: g
+    nrv: 75
+  蛋白质:
+    amount: 1.8
+    unit: g
+    nrv: 3
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0
+  钠:
+    amount: 3
+    unit: mg
+    nrv: 0.2

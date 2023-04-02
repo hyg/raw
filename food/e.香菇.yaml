@@ -1,0 +1,52 @@
+name: 香菇
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 25
+    unit: kcal
+    nrv: 1
+  碳水化合物:
+    amount: 4.3
+    unit: g
+    nrv: 1
+  膳食纤维:
+    amount: 2.5
+    unit: g
+    nrv: 10
+  蛋白质:
+    amount: 2.9
+    unit: g
+    nrv: 5
+  脂肪:
+    amount: 0.3
+    unit: g
+    nrv: 1
+  钠:
+    amount: 4
+    unit: mg
+    nrv: 0
+  维生素B2:
+    amount: 0.21
+    unit: mg
+    nrv: 13
+  维生素D:
+    amount: 7.8
+    unit: μg
+    nrv: 156
+  烟酸:
+    amount: 7.4
+    unit: mg
+    nrv: 46
+  维生素B6:
+    amount: 0.11
+    unit: mg
+    nrv: 6
+  钾:
+    amount: 470
+    unit: mg
+    nrv: 24
+  磷:
+    amount: 70
+    unit: mg
+    nrv: 7

@@ -1,0 +1,28 @@
+name: 馄饨
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 177
+    unit: kcal
+    nrv: 9
+  碳水化合物:
+    amount: 27.2
+    unit: g
+    nrv: 9
+  膳食纤维:
+    amount: 1.1
+    unit: g
+    nrv: 4
+  蛋白质:
+    amount: 7.9
+    unit: g
+    nrv: 13
+  脂肪:
+    amount: 3.3
+    unit: g
+    nrv: 6
+  钠:
+    amount: 481
+    unit: mg
+    nrv: 24

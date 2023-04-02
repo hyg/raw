@@ -1,0 +1,28 @@
+name: 压缩饼干
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 471
+    unit: kcal
+    nrv: 24
+  碳水化合物:
+    amount: 69.6
+    unit: g
+    nrv: 23
+  蛋白质:
+    amount: 5.3
+    unit: g
+    nrv: 9
+  脂肪:
+    amount: 18.4
+    unit: g
+    nrv: 31
+  膳食纤维:
+    amount: 1.5
+    unit: g
+    nrv: 6
+  钠:
+    amount: 857
+    unit: mg
+    nrv: 43

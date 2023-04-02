@@ -49,7 +49,7 @@ food:
   amount: 144.5
   unit: g
 - time: 20230118183000
-  name: 益生元压片糖果
+  name: 益生菌压片糖果
   amount: 1.5
   unit: g
 - time: 20230118203300
@@ -77,11 +77,11 @@ food:
   amount: 6.0
   unit: g
 - time: 20230118212500
-  name: 益生菌粉
+  name: 益生菌冻干粉
   amount: 2.0
   unit: g
 - time: 20230119011000
-  name: 益生元压片糖果
+  name: 益生菌压片糖果
   amount: 1.5
   unit: g
 - time: 20230119004500

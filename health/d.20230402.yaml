@@ -1,0 +1,35 @@
+date: 20230402
+sleep: 
+  time: 20230402025800
+  weight: 60.7
+wake:
+  time: 20230402114500
+  weight: 60.2
+  SpO2: 95
+  PRbpm: 75
+exercise: 
+- time: 20230402124500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 93
+  endheartrate: 98
+stool:
+- time: 20230403011500
+  amount:   3   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  把昨天白天用的取暖贴粘在床单腘窝位置。没有用热水袋。早上醒来时温度舒适，基本没有出汗。口鼻没有发干，但是感觉唾液粘稠，心率偏高。
+  起床前不觉得小腿酸，起床后又感觉有一点。

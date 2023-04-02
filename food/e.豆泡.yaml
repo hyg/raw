@@ -1,0 +1,44 @@
+name: 豆泡
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 129
+    unit: kcal
+    nrv: 6
+  碳水化合物:
+    amount: 9.6
+    unit: g
+    nrv: 3
+  膳食纤维:
+    amount: 2.6
+    unit: g
+    nrv: 10
+  蛋白质:
+    amount: 14.2
+    unit: g
+    nrv: 24
+  脂肪:
+    amount: 5.5
+    unit: g
+    nrv: 9
+  钠:
+    amount: 300
+    unit: mg
+    nrv: 15
+  维生素B2:
+    amount: 0.18
+    unit: mg
+    nrv: 11
+  钙:
+    amount: 81
+    unit: mg
+    nrv: 8
+  铁:
+    amount: 0.8
+    unit: mg
+    nrv: 5
+  锌:
+    amount: 1.2
+    unit: mg
+    nrv: 8

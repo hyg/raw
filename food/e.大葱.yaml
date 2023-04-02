@@ -18,7 +18,7 @@ element:
     amount: 0.2
     unit: g
     nrv: 0.3
-  纤维素:
+  膳食纤维:
     amount: 2
     unit: g
     nrv: 8

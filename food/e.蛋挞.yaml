@@ -1,0 +1,20 @@
+name: 蛋挞
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 313
+    unit: kcal
+    nrv: 16
+  蛋白质:
+    amount: 5.5
+    unit: g
+    nrv: 9
+  脂肪:
+    amount: 20.6
+    unit: g
+    nrv: 34
+  碳水化合物:
+    amount: 24.7
+    unit: g
+    nrv: 8

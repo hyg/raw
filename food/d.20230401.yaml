@@ -73,7 +73,7 @@ food:
   amount: 88.0
   unit: g
 - time: 20230401213000
-  name: 牛奶
+  name: 奶粉
   amount: 25.0
   unit: g
 - time: 20230401213000
@@ -125,7 +125,8 @@ water:
   name: 开水
   amount: 250
   unit: ml
-smed:
+med:
+
 - time: 20230401234700  
   name: selenium
   amount: 200

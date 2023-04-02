@@ -1,0 +1,28 @@
+name: 压缩干粮
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 396
+    unit: kcal
+    nrv: 20
+  膳食纤维:
+    amount: 0.8
+    unit: g
+    nrv: 3
+  碳水化合物:
+    amount: 87.2
+    unit: g
+    nrv: 29
+  蛋白质:
+    amount: 7.2
+    unit: g
+    nrv: 12
+  脂肪:
+    amount: 1.2
+    unit: g
+    nrv: 2
+  钠:
+    amount: 320
+    unit: mg
+    nrv: 16

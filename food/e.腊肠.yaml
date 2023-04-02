@@ -1,0 +1,28 @@
+name: 腊肠
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 462
+    unit: kcal
+    nrv: 23
+  碳水化合物:
+    amount: 0.8
+    unit: g
+    nrv: 0
+  膳食纤维:
+    amount: 0
+    unit: g
+    nrv: 0
+  蛋白质:
+    amount: 20.2
+    unit: g
+    nrv: 34
+  脂肪:
+    amount: 41.6
+    unit: g
+    nrv: 69
+  钠:
+    amount: 1693
+    unit: mg
+    nrv: 85

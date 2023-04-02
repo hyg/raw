@@ -41,7 +41,7 @@ food:
   amount: 3.0
   unit: g
 - time: 20230128213100
-  name: 益生菌压片糖
+  name: 益生菌压片糖果
   amount: 1.5
   unit: g
 - time: 20230128215200
@@ -89,7 +89,7 @@ food:
   amount: 122.0
   unit: g
 - time: 20230129033500
-  name: 益生菌压片糖
+  name: 益生菌压片糖果
   amount: 1.5
   unit: g
 - time: 20230129034000
@@ -101,7 +101,7 @@ food:
   amount: 3.5
   unit: g
 - time: 20230129034000
-  name: 胶原蛋白肽
+  name: 胶原蛋白肽粉  
   amount: 3.0
   unit: g
 water:

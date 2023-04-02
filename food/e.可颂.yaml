@@ -1,0 +1,28 @@
+name: 可颂
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 406
+    unit: kcal
+    nrv: 20
+  碳水化合物:
+    amount: 38.5
+    unit: g
+    nrv: 13
+  蛋白质:
+    amount: 7.7
+    unit: g
+    nrv: 13
+  脂肪:
+    amount: 24.5
+    unit: g
+    nrv: 41
+  膳食纤维:
+    amount: 1.8
+    unit: g
+    nrv: 7
+  钠:
+    amount: 480
+    unit: mg
+    nrv: 24

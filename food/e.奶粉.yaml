@@ -22,3 +22,55 @@ element:
     amount: 32
     unit: mg
     nrv: 1.6
+  钙:
+    amount: 1020
+    unit: mg
+    nrv: 102
+  铁:
+    amount: 0.4
+    unit: mg
+    nrv: 3
+  锌:
+    amount: 3.2
+    unit: mg
+    nrv: 32
+  维生素A:
+    amount: 318
+    unit: μg
+    nrv: 35
+  维生素D:
+    amount: 0.2
+    unit: μg
+    nrv: 2
+  维生素E:
+    amount: 0.61
+    unit: mg
+    nrv: 4
+  维生素K:
+    amount: 3.4
+    unit: μg
+    nrv: 3
+  维生素B1:
+    amount: 0.31
+    unit: mg
+    nrv: 22
+  维生素B2:
+    amount: 1.8
+    unit: mg
+    nrv: 120
+  维生素B6:
+    amount: 0.5
+    unit: mg
+    nrv: 36
+  维生素B12:
+    amount: 2.2
+    unit: μg
+    nrv: 92
+  烟酸:
+    amount: 0.6
+    unit: mg
+    nrv: 4
+  叶酸:
+    amount: 46
+    unit: μg
+    nrv: 21

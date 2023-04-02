@@ -1,0 +1,28 @@
+name: 鹿肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 135
+    unit: kcal
+    nrv: 7
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  膳食纤维:
+    amount: 0
+    unit: g
+    nrv: 0
+  蛋白质:
+    amount: 21.8
+    unit: g
+    nrv: 36
+  脂肪:
+    amount: 5
+    unit: g
+    nrv: 8
+  钠:
+    amount: 48
+    unit: mg
+    nrv: 3

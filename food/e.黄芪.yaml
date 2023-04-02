@@ -1,0 +1,28 @@
+name: 黄芪
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 264
+    unit: kcal
+    nrv: 13
+  碳水化合物:
+    amount: 63.4
+    unit: g
+    nrv: 21
+  膳食纤维:
+    amount: 1.7
+    unit: g
+    nrv: 7
+  蛋白质:
+    amount: 2.3
+    unit: g
+    nrv: 4
+  脂肪:
+    amount: 0.5
+    unit: g
+    nrv: 1
+  钠:
+    amount: 12
+    unit: mg
+    nrv: 0.8

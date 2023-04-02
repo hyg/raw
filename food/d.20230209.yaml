@@ -69,7 +69,7 @@ food:
   amount: 100.0
   unit: g
 - time: 20230209232200
-  name: 猪鸡排
+  name: 鸡排
   amount: 224.0
   unit: g
 - time: 20230210001400

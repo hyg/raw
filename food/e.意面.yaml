@@ -1,0 +1,28 @@
+name: 意面
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 371
+    unit: kcal
+    nrv: 19
+  碳水化合物:
+    amount: 75.5
+    unit: g
+    nrv: 25
+  膳食纤维:
+    amount: 2.7
+    unit: g
+    nrv: 11
+  蛋白质:
+    amount: 12.5
+    unit: g
+    nrv: 21
+  脂肪:
+    amount: 1.3
+    unit: g
+    nrv: 2
+  钠:
+    amount: 3
+    unit: mg
+    nrv: 0

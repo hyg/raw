@@ -1,0 +1,16 @@
+name: 蔗糖
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 387
+    unit: kcal
+    nrv: 19
+  碳水化合物:
+    amount: 100
+    unit: g
+    nrv: 33
+  钠:
+    amount: 1
+    unit: mg
+    nrv: 0
