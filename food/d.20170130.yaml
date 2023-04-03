@@ -89,7 +89,7 @@ water:
   name: 汤水
   amount: 800
   unit: ml
-- time: 20170131012 000
+- time: 20170131012000
   name: 六堡茶
   amount: 200
   unit: ml

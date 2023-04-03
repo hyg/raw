@@ -178,7 +178,7 @@ function fooddaysum(date,etable,ftable){
                     etable[e] = item;
                 }
                 //if(fooddata.name == "胶原蛋白肽粉") console.log(fooddata.name+"\tamount:"+fooddata.element["锌"].amount+"\tunit:"+fooddata.element["锌"].unit+"\tnrv:"+fooddata.element["锌"].nrv);
-                //if(e=="锌") console.log(food[id].amount+"克的"+food[id].name+"含有"+item.amount+item.unit+"。累计摄入："+etable[e].amount);
+                //if(e=="硒") console.log(food[id].amount+"克的"+food[id].name+"含有"+item.amount+item.unit+"。累计摄入："+etable[e].amount);
             }
             delete food[id];
         } else {
@@ -186,13 +186,60 @@ function fooddaysum(date,etable,ftable){
         }
     }
 
-
-
     for (var id in food) {
         if(food[id].name in ftable){
             ftable[food[id].name].amount += food[id].amount;
         }else{
             ftable[food[id].name] = food[id];
+        }
+    }
+
+    var med = d.med;
+
+    for(var id in med){
+        if (med[id].name in emap) {//known med
+            let meddata = emap[med[id].name];
+            let r = med[id].amount / meddata.amount;  // 此处单位不能换算，无比人工写成相同。
+            for (var e in meddata.element) {
+                let item = new Object();
+                item.amount = parseFloat(meddata.element[e].amount) * r;
+                //console.log(meddata.element[e].unit);
+                item.unit = meddata.element[e].unit.toLowerCase();
+                item.nrv = parseFloat(meddata.element[e].nrv) * r;
+
+                if (item.unit == "mg") {
+                    item.unit = "g";
+                    item.amount = item.amount / 1000;
+                }
+                if ((item.unit == "µg") || (item.unit == "μg")) {
+                    item.unit = "g";
+                    item.amount = item.amount / 1000000;
+                }
+                if (item.unit == "kj") {
+                    item.unit = "kcal";
+                    item.amount = item.amount * 0.239;
+                }
+
+                if (e in etable) {
+                    // element already in table
+                    etable[e].amount += item.amount;
+                    etable[e].nrv += item.nrv;
+                } else {
+                    // new element
+                    etable[e] = item;
+                }
+                //if(e=="硒") console.log(med[id].amount+"克的"+med[id].name+"含有"+item.amount+item.unit+"。累计摄入："+etable[e].amount);
+            }
+            
+            delete med[id];
+        }else{//unknown med
+            //console.log("unknown med:"+med[id].name+"\t"+med[id].amount+"\t"+med[id].unit);
+            if(med[id].name in ftable){
+                ftable[med[id].name].amount += med[id].amount;
+            }else{
+                ftable[med[id].name] = med[id];
+            }
+            //console.log("ftable:"+ftable[med[id].name].name+"\t"+ftable[med[id].name].amount+"\t"+ftable[med[id].name].unit);
         }
     }
 

@@ -23,13 +23,9 @@ element:
     unit: g
     nrv: 16
   钠:
-    amount: 73
+    amount: 13
     unit: mg
-    nrv: 4
-  维生素A:
-    amount: 3740
-    unit: IU
-    nrv: 124
+    nrv: 0.7
   维生素C:
     amount: 25.6
     unit: mg

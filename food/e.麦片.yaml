@@ -32,5 +32,5 @@ element:
     nrv: 47.1
   铁:
     amount: 7
-    unit: 毫克
+    unit: mg
     nrv: 47

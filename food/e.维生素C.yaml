@@ -1,0 +1,8 @@
+name: 维生素C
+amount: 100
+unit: mg
+element:
+  维生素C:
+    amount: 100
+    unit: mg
+    nrv: 111

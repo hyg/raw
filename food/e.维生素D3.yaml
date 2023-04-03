@@ -1,0 +1,8 @@
+name: 维生素D3
+amount: 125
+unit: μg
+element:
+  维生素D3:
+    amount: 125
+    unit: μg
+    nrv: 625

@@ -3,9 +3,8 @@ sleep:
   time: 20210706043900
   weight: 61.5
 wake:
-  time: 202107061232 00
+  time: 20210706123200
   weight: 60.3
-
 stool:
 - time: 20210706175000
   amount:   2   #	1:多;		2:适中;		3:少;

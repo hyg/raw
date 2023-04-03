@@ -1,0 +1,128 @@
+name: daily multi
+amount: 1
+unit: 片
+element:
+  维生素A:
+    amount: 1050
+    unit: μg
+    nrv: 117
+  维生素C:
+    amount: 90
+    unit: mg
+    nrv: 100
+  维生素D3:
+    amount: 10
+    unit: μg
+    nrv: 50
+  维生素E:
+    amount: 13.5
+    unit: mg
+    nrv: 90
+  维生素K:
+    amount: 25
+    unit: mg
+    nrv: 21
+  维生素B1:
+    amount: 1.5
+    unit: mg
+    nrv: 123
+  维生素B2:
+    amount: 1.7
+    unit: mg
+    nrv: 131
+  烟酸:
+    amount: 20
+    unit: mg
+    nrv: 125
+  维生素B6:
+    amount: 2
+    unit: mg
+    nrv: 118
+  叶酸:
+    amount: 500
+    unit: μg
+    nrv: 208
+  维生素B12:
+    amount: 6
+    unit: μg
+    nrv: 250
+  生物素:
+    amount: 30
+    unit: μg
+    nrv: 100
+  泛酸:
+    amount: 10
+    unit: mg
+    nrv: 200
+  钙:
+    amount: 200
+    unit: mg
+    nrv: 15
+  铁:
+    amount: 18
+    unit: mg
+    nrv: 100
+  磷:
+    amount: 109
+    unit: mg
+    nrv: 9
+  碘:
+    amount: 150
+    unit: μg
+    nrv: 100
+  镁:
+    amount: 100
+    unit: mg
+    nrv: 24
+  锌:
+    amount: 11
+    unit: mg
+    nrv: 100
+  硒:
+    amount: 55
+    unit: μg
+    nrv: 100
+  铜:
+    amount: 0.9
+    unit: mg
+    nrv: 100
+  锰:
+    amount: 2.3
+    unit: mg
+    nrv: 100
+  铬:
+    amount: 35
+    unit: μg
+    nrv: 100
+  钼:
+    amount: 45
+    unit: μg
+    nrv: 100
+  氯:
+    amount: 72
+    unit: mg
+    nrv: 3
+  钾:
+    amount: 80
+    unit: mg
+    nrv: 2
+  硅:
+    amount: 2
+    unit: mg
+    nrv: 0
+  番茄红素:
+    amount: 300
+    unit: μg
+    nrv: 0
+  叶黄素:
+    amount: 250
+    unit: μg
+    nrv: 0
+  硼:
+    amount: 150
+    unit: μg
+    nrv: 0
+  钒:
+    amount: 10
+    unit: μg
+    nrv: 0

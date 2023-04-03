@@ -49,7 +49,7 @@ food:
   amount: 133.0
   unit: g
 - time: 20230111164000
-  name: 面条
+  name: 方便面
   amount: 60.0
   unit: g
 - time: 20230111164000
@@ -81,7 +81,7 @@ food:
   amount: 1.5
   unit: g
 - time: 20230111223900
-  name: 面条
+  name: 方便面
   amount: 60.0
   unit: g
 - time: 20230111223900

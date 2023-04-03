@@ -1,0 +1,8 @@
+name: CoQ10
+amount: 100
+unit: mg
+element:
+  CoQ10:
+    amount: 100
+    unit: mg
+    nrv: 200
