@@ -24,33 +24,33 @@ element:
     nrv: 7.8
   维生素A:
     amount: 63
-    unit: "μg"
+    unit: μg
     nrv: 7
   维生素C:
-    amount: 89.2
-    unit: "mg"
-    nrv: 99.1
+    amount: 51
+    unit: mg
+    nrv: 56.6
   钙:
     amount: 47
-    unit: "mg"
+    unit: mg
     nrv: 4.7
   铁:
     amount: 0.7
-    unit: "mg"
+    unit: mg
     nrv: 8.8
   镁:
     amount: 21
-    unit: "mg"
+    unit: mg
     nrv: 5.3
   铜:
     amount: 0.1
-    unit: "mg"
+    unit: mg
     nrv: 11.1
   锰:
     amount: 0.2
-    unit: "mg"
+    unit: mg
     nrv: 8.7
   锌:
     amount: 0.4
-    unit: "mg"
+    unit: mg
     nrv: 3.6

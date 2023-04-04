@@ -7,19 +7,19 @@ food:
 - time: 20230403160400
   name: 黑青稞
   amount: 20.0
-  unit: 
+  unit: g
 - time: 20230403160400
   name: 麦片
   amount: 20.0
-  unit: 
+  unit: g
 - time: 20230403160400
   name: 花青素杂粮
   amount: 20.0
-  unit: 
+  unit: g
 - time: 20230403160400
   name: 绿豆
   amount: 10.0
-  unit: 
+  unit: g
 - time: 20230403160400
   name: 灰枣
   amount: 21.5

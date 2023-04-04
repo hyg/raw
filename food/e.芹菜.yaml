@@ -23,9 +23,9 @@ element:
     unit: g
     nrv: 6.4
   维生素C:
-    amount: 13.4
+    amount: 8
     unit: "mg"
-    nrv: 22.3
+    nrv: 8.8
   钾:
     amount: 260
     unit: "mg"

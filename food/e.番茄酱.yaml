@@ -26,3 +26,7 @@ element:
     amount: 73
     unit: mg
     nrv: 4
+  番茄红素:
+    amount: 6
+    unit: mg
+    nrv: 0

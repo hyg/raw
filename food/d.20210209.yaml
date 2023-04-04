@@ -47,11 +47,11 @@ food:
 - time: 20210209234400
   name: 花生米
   amount: 51
-  unit: 
+  unit: g
 - time: 20210210000000
   name: 南果梨
   amount: 75
-  unit: 
+  unit: g
 - time: 20210210014000
   name: 红枣
   amount: 51

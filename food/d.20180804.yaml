@@ -80,7 +80,7 @@ water:
 - time: 20180804163000
   name: 开水
   amount: 250
-  unit: 
+  unit: ml
 - time: 20180804200400
   name: 开水
   amount: 250

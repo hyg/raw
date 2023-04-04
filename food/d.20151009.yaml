@@ -19,7 +19,7 @@ food:
 - time: 20151009143000
   name: 葡萄干
   amount: 200
-  unit: 
+  unit: g
 - time: 20151009192000
   name: 米饭
   amount: 120

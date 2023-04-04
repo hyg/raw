@@ -52,7 +52,7 @@ water:
 - time: 20150425185000
   name: 碧螺春
   amount: 500
-  unit: 
+  unit: ml
 comment: |+
   蛋白质， 水果，蔬菜摄入不足
 

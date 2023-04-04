@@ -31,7 +31,7 @@ food:
 - time: 20210906113000
   name: 大米
   amount: 60
-  unit: 
+  unit: g
 - time: 20210906113000
   name: 胡萝卜
   amount: 92

@@ -35,7 +35,7 @@ food:
 - time: 20160920190000
   name: 番石榴
   amount: 120
-  unit: 
+  unit: g
 - time: 20160920223000
   name: 玉米
   amount: 120

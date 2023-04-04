@@ -31,7 +31,7 @@ food:
 - time: 20160922162000
   name: 海鸭蛋
   amount: 60
-  unit: 
+  unit: g
 - time: 20160922193500
   name: 南瓜
   amount: 250

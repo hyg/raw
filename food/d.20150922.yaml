@@ -96,7 +96,7 @@ water:
 - time: 20150922165000
   name: 开水
   amount: 300
-  unit: 
+  unit: ml
 - time: 20150922195000
   name: 开水
   amount: 300

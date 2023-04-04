@@ -1,0 +1,93 @@
+name: 青见
+nickname: 柑橘
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 43
+    unit: kcal
+    nrv: 2
+  碳水化合物:
+    amount: 9.4
+    unit: g
+    nrv: 3
+  蛋白质:
+    amount: 0.9
+    unit: g
+    nrv: 2
+  脂肪:
+    amount: 0.3
+    unit: g
+    nrv: 0
+  钠:
+    amount: 1
+    unit: mg
+    nrv: 0
+  膳食纤维:
+    amount: 1.7
+    unit: g
+    nrv: 7
+  钙:
+    amount: 36
+    unit: mg
+    nrv: 4
+  铁:
+    amount: 0.4
+    unit: mg
+    nrv: 3
+  锌:
+    amount: 0.1
+    unit: mg
+    nrv: 1
+  维生素A:
+    amount: 4
+    unit: μg
+    nrv: 0
+  胡萝卜素:
+    amount: 23
+    unit: μg
+    nrv: 0
+  β-胡萝卜素:
+    amount: 114
+    unit: μg
+    nrv: 0
+  维生素E:
+    amount: 0.3
+    unit: mg
+    nrv: 2
+  维生素K:
+    amount: 0
+    unit: μg
+    nrv: 0
+  维生素B1:
+    amount: 0.03
+    unit: mg
+    nrv: 2
+  维生素B2:
+    amount: 0.04
+    unit: mg
+    nrv: 3
+  维生素B6:
+    amount: 0.06
+    unit: mg
+    nrv: 4
+  维生素B12:
+    amount: 0
+    unit: μg
+    nrv: 0
+  烟酸:
+    amount: 0.3
+    unit: mg
+    nrv: 2
+  叶酸:
+    amount: 30
+    unit: μg
+    nrv: 8
+  泛酸:
+    amount: 0.3
+    unit: mg
+    nrv: 4
+  维生素C:
+    amount: 28
+    unit: mg
+    nrv: 31

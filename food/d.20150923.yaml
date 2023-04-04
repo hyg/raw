@@ -3,7 +3,7 @@ food:
 - time: 20150923063000
   name: 苹果
   amount: 50
-  unit: 
+  unit: g
 - time: 20150923073000
   name: 苹果
   amount: 100
@@ -76,7 +76,7 @@ water:
 - time: 20150923100000
   name: 开水
   amount: 300
-  unit: 
+  unit: ml
 - time: 20150923121000
   name: 开水
   amount: 300

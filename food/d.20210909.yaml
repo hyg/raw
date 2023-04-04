@@ -19,7 +19,7 @@ food:
 - time: 20210909092100
   name: 红薯
   amount: 600
-  unit: 
+  unit: g
 - time: 20210909145200
   name: 大米
   amount: 30

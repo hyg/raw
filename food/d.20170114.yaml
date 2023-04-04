@@ -60,7 +60,7 @@ water:
 - time: 20170114112500
   name: 汤水
   amount: 600
-  unit: 
+  unit: ml
 - time: 20170114135800
   name: 开水
   amount: 200

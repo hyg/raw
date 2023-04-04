@@ -73,7 +73,7 @@ water:
 - time: 20170110180000
   name: 开水
   amount: 250
-  unit: 
+  unit: ml
 - time: 20170110184200
   name: 开水
   amount: 250

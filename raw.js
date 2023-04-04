@@ -178,7 +178,7 @@ function fooddaysum(date,etable,ftable){
                     etable[e] = item;
                 }
                 //if(fooddata.name == "胶原蛋白肽粉") console.log(fooddata.name+"\tamount:"+fooddata.element["锌"].amount+"\tunit:"+fooddata.element["锌"].unit+"\tnrv:"+fooddata.element["锌"].nrv);
-                //if(e=="硒") console.log(food[id].amount+"克的"+food[id].name+"含有"+item.amount+item.unit+"。累计摄入："+etable[e].amount);
+                //if(e=="膳食纤维") console.log(food[id].amount+food[id].unit+"的"+food[id].name+"\t含有"+item.amount.toFixed(10)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(10)+"\t累计nrv:"+etable[e].nrv.toFixed(2));
             }
             delete food[id];
         } else {
@@ -228,7 +228,7 @@ function fooddaysum(date,etable,ftable){
                     // new element
                     etable[e] = item;
                 }
-                //if(e=="硒") console.log(med[id].amount+"克的"+med[id].name+"含有"+item.amount+item.unit+"。累计摄入："+etable[e].amount);
+                //if(e=="维生素C") console.log(med[id].amount+med[id].unit+"的"+med[id].name+"\t含有"+item.amount.toFixed(10)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(10)+"\t累计nrv:"+etable[e].nrv.toFixed(2));
             }
             
             delete med[id];

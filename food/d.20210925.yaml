@@ -11,7 +11,7 @@ food:
 - time: 20210925141700
   name: 十倍零卡糖
   amount: 5
-  unit: 
+  unit: g
 - time: 20210925143000
   name: 花生
   amount: 25

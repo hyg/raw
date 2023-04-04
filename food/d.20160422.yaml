@@ -84,7 +84,7 @@ water:
 - time: 20160422213500
   name: 开水
   amount: 400
-  unit: 
+  unit: ml
 - time: 20160422235500
   name: 开水
   amount: 400

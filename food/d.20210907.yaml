@@ -43,7 +43,7 @@ food:
 - time: 20210907150000
   name: 荞麦面
   amount: 60
-  unit: 
+  unit: g
 - time: 20210907150000
   name: 胡萝卜
   amount: 90

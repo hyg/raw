@@ -7,7 +7,7 @@ food:
 - time: 20160507103500
   name: 杂粮粥+黑芝麻+麦胚芽
   amount: 120
-  unit: 
+  unit: g
 - time: 20160507153000
   name: 大米
   amount: 118

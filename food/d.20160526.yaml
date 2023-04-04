@@ -44,7 +44,7 @@ water:
 - time: 20160526121200
   name: 牛奶
   amount: 200
-  unit: 
+  unit: ml
 - time: 20160526175600
   name: 开水
   amount: 400

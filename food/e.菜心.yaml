@@ -35,9 +35,9 @@ element:
     unit: mg
     nrv: 5
   维生素C:
-    amount: 56
+    amount: 44
     unit: mg
-    nrv: 94
+    nrv: 48.8
   钙:
     amount: 99
     unit: mg

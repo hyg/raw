@@ -96,7 +96,7 @@ water:
 - time: 20170218230000
   name: 汤水
   amount: 600
-  unit: 
+  unit: ml
 - time: 20170219034500
   name: 牛奶
   amount: 200
