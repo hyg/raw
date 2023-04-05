@@ -1,0 +1,24 @@
+name: 爆鱼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 228.9
+    unit: kcal
+    nrv: 11
+  碳水化合物:
+    amount: 22.3
+    unit: g
+    nrv: 7
+  蛋白质:
+    amount: 22.3
+    unit: g
+    nrv: 37
+  脂肪:
+    amount: 5.4
+    unit: g
+    nrv: 9
+  钠:
+    amount: 785
+    unit: mg
+    nrv: 39

@@ -1,0 +1,157 @@
+date: 20230405
+food:
+  - time: 20230405140900
+    name: 番石榴
+    amount: 218.0
+    unit: g  
+  - time: 20230405141500
+    name: 黑青稞
+    amount: 20.0
+    unit: g
+  - time: 20230405141500
+    name: 麦片
+    amount: 20.0
+    unit: g
+  - time: 20230405141500
+    name: 花青素杂粮
+    amount: 20.0
+    unit: g
+  - time: 20230405141500
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20230405141500
+    name: 灰枣
+    amount: 28.0
+    unit: g
+  - time: 20230405143300
+    name: 枸杞
+    amount: 5.0
+    unit: g
+  - time: 20230405143300
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20230405143300
+    name: 麦胚芽
+    amount: 6.0
+    unit: g
+  - time: 20230405144000
+    name: 奶粉
+    amount: 25.0
+    unit: g
+  - time: 20230405144000
+    name: 小分子肽粉
+    amount: 2.5
+    unit: g  
+  - time: 20230405183000
+    name: 方便面
+    amount: 65.5
+    unit: g
+  - time: 20230405183000
+    name: 生菜
+    amount: 114.5
+    unit: g
+  - time: 20230405183000
+    name: 杏鲍菇
+    amount: 67.0
+    unit: g
+  - time: 20230405183000
+    name: 爆鱼
+    amount: 198.0
+    unit: g
+  - time: 20230405201500
+    name: 奶粉
+    amount: 25.0
+    unit: g
+  - time: 20230406003000
+    name: 西兰花
+    amount: 165.5
+    unit: g
+  - time: 20230406003000
+    name: 莴笋
+    amount: 202.0
+    unit: g
+  - time: 20230406003000
+    name: 芦笋
+    amount: 31.0
+    unit: g
+  - time: 20230406003000
+    name: 豆皮
+    amount: 42.5
+    unit: g
+  - time: 20230406003000
+    name: 低钠盐
+    amount: 2.0
+    unit: g
+  - time: 20230406003000
+    name: 油
+    amount: 1.5
+    unit: g
+  - time: 20230406005300
+    name: 奶粉
+    amount: 26.0
+    unit: g
+  - time: 20230406005300
+    name: 可可粉
+    amount: 4.0
+    unit: g
+  - time: 20230406005300
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20230406025800
+    name: 胡柚
+    amount: 146.5
+    unit: g
+water:
+  - time: 20230405125600
+    name: 开水
+    amount: 200
+    unit: ml  
+  - time: 20230405144000
+    name: 咖啡
+    amount: 117.0
+    unit: ml
+  - time: 20230405154000
+    name: 开水
+    amount: 250
+    unit: ml  
+  - time: 20230405201500
+    name: 咖啡
+    amount: 105.0
+    unit: ml
+  - time: 20230405205100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230405232300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230406005300
+    name: 可可奶
+    amount: 100.5
+    unit: ml
+  - time: 20230406014800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230406022800
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20230405232300
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20230405232300
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20230405232300
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
