@@ -11,9 +11,9 @@ element:
     unit: g
     nrv: 0.5
   蛋白质:
-    amount: 3.3
+    amount: 1.8
     unit: g
-    nrv: 5.9
+    nrv: 3.1
   脂肪:
     amount: 0.4
     unit: g

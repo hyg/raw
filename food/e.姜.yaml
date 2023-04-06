@@ -30,7 +30,7 @@ element:
     amount: 0.02
     unit: mg
     nrv: 1
-  烟酸:
+  维生素B3:
     amount: 0.7
     unit: mg
     nrv: 4

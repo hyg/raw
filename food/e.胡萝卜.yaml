@@ -30,7 +30,7 @@ element:
     amount: 40
     unit: μg
     nrv: 2.86
-  烟酸:
+  维生素B3:
     amount: 200
     unit: μg
     nrv: 1.4
@@ -43,9 +43,9 @@ element:
     unit: mg
     nrv: 16
   维生素K:
-    amount: 4
+    amount: 10
     unit: μg
-    nrv: 5
+    nrv: 12.5
   钙:
     amount: 32
     unit: mg

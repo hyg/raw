@@ -82,3 +82,7 @@ element:
     amount: 2.1
     unit: mg
     nrv: 15
+  维生素K:
+    amount: 47
+    unit: μg
+    nrv: 58.7

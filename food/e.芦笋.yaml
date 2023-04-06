@@ -26,6 +26,10 @@ element:
     amount: 5
     unit: "mg"
     nrv: 8.3
+  维生素K:
+    amount: 60
+    unit: "μg"
+    nrv: 75
   钾:
     amount: 202
     unit: "mg"

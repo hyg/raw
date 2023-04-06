@@ -1,0 +1,12 @@
+name: 香油
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 883.9
+    unit: kcal
+    nrv: 44
+  脂肪:
+    amount: 100.0
+    unit: g
+    nrv: 167

@@ -1,0 +1,24 @@
+name: 腐竹
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 451
+    unit: kcal
+    nrv: 22
+  蛋白质:
+    amount: 40.8
+    unit: g
+    nrv: 68
+  脂肪:
+    amount: 21.5
+    unit: g
+    nrv: 36
+  碳水化合物:
+    amount: 22.4
+    unit: g
+    nrv: 7
+  钠:
+    amount: 68
+    unit: mg
+    nrv: 3

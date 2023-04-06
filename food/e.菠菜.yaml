@@ -26,7 +26,7 @@ element:
     amount: 2.92
     unit: mg
     nrv: 365
-  视黄醇:
+  维生素A:
     amount: 487
     unit: μg
     nrv: 61
@@ -50,6 +50,10 @@ element:
     amount: 1.74
     unit: mg
     nrv: 12
+  维生素K:
+    amount: 380
+    unit: μg
+    nrv: 475
   钾:
     amount: 311
     unit: mg
@@ -78,7 +82,6 @@ element:
     amount: 660
     unit: μg
     nrv: 22
-    
   磷:
     amount: 47
     unit: mg

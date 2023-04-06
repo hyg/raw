@@ -141,6 +141,10 @@ water:
     name: 开水
     amount: 250
     unit: ml
+  - time: 20230406044900
+    name: 开水
+    amount: 200
+    unit: ml
 med:
   - time: 20230405232300
     name: 维生素D3
