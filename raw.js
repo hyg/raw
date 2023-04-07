@@ -178,7 +178,7 @@ function fooddaysum(date,etable,ftable){
                     etable[e] = item;
                 }
                 //if(fooddata.name == "胶原蛋白肽粉") console.log(fooddata.name+"\tamount:"+fooddata.element["锌"].amount+"\tunit:"+fooddata.element["锌"].unit+"\tnrv:"+fooddata.element["锌"].nrv);
-                if(e=="钙") console.log(food[id].amount+food[id].unit+"的"+food[id].name+"\t含有"+item.amount.toFixed(10)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(10)+"\t累计nrv:"+etable[e].nrv.toFixed(2));
+                if(e=="钠") console.log(food[id].amount+food[id].unit+"的"+food[id].name+"\t含有"+item.amount.toFixed(10)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(10)+"\t累计nrv:"+etable[e].nrv.toFixed(2));
             }
             delete food[id];
         } else {
