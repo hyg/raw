@@ -1,0 +1,24 @@
+name: 乐享鸡块
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 190.7
+    unit: kcal
+    nrv: 10
+  蛋白质:
+    amount: 13.1
+    unit: g
+    nrv: 22
+  脂肪:
+    amount: 11
+    unit: g
+    nrv: 18
+  碳水化合物:
+    amount: 9.9
+    unit: g
+    nrv: 3
+  钠:
+    amount: 519
+    unit: mg
+    nrv: 26
