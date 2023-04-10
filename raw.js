@@ -295,26 +295,29 @@ function foodperiodlog(startdate,enddate) {
         }
     }
 
-    console.log("\n未算入成份表的食物\n名称\t\t\t总数量\t\t日均\t单位");
-    let foodSorted = Object.keys(ftable).sort(function (a, b) { return ftable[a].amount - ftable[b].amount })
-
-    for (var i in foodSorted) {
-        var name = foodSorted[i];
-        var dayamount = ftable[name].amount/daycnt ;
-
-        var nametab = "\t\t\t"
-        if(name.replace(/[^\x00-\xff]/g, '**').length >= 8){
-            nametab = "\t\t";
+    //console.log("typeof ftable"+typeof(ftable));
+    if(Object.keys(ftable).length>0){
+        console.log("\n未算入成份表的食物\n名称\t\t\t总数量\t\t日均\t单位");
+        let foodSorted = Object.keys(ftable).sort(function (a, b) { return ftable[a].amount - ftable[b].amount })
+    
+        for (var i in foodSorted) {
+            var name = foodSorted[i];
+            var dayamount = ftable[name].amount/daycnt ;
+    
+            var nametab = "\t\t\t"
+            if(name.replace(/[^\x00-\xff]/g, '**').length >= 8){
+                nametab = "\t\t";
+            }
+            if(name.replace(/[^\x00-\xff]/g, '**').length >= 16){
+                nametab = "\t";
+            }
+    
+            var amounttab = "\t\t";
+            if(ftable[name].amount > 10000){
+                amounttab = "\t";
+            }
+            console.log(name + nametab + ftable[name].amount.toFixed(2) + amounttab + dayamount.toFixed(2) + "\t" + ftable[name].unit);
         }
-        if(name.replace(/[^\x00-\xff]/g, '**').length >= 16){
-            nametab = "\t";
-        }
-
-        var amounttab = "\t\t";
-        if(ftable[name].amount > 10000){
-            amounttab = "\t";
-        }
-        console.log(name + nametab + ftable[name].amount.toFixed(2) + amounttab + dayamount.toFixed(2) + "\t" + ftable[name].unit);
     }
 }
 
@@ -360,30 +363,31 @@ function fooddaylog(date) {
         }
     }
 
-    console.log("\n未算入成份表的食物\n名称\t\t\t总数量\t\t单位");
-    
-    let foodSorted = Object.keys(ftable).sort(function (a, b) { return ftable[a].amount - ftable[b].amount })
-    //console.log(foodSorted);
-    for (var i in foodSorted) {
-        var name = foodSorted[i];
-        var dayamount = ftable[name].amount ;
+    if (Object.keys(ftable).length > 0) {
+        console.log("\n未算入成份表的食物\n名称\t\t\t总数量\t\t单位");
 
-        var nametab = "\t\t\t"
-        if(name.replace(/[^\x00-\xff]/g, '**').length >= 8){
-            nametab = "\t\t";
-        }
-        if(name.replace(/[^\x00-\xff]/g, '**').length >= 16){
-            nametab = "\t";
-        }
+        let foodSorted = Object.keys(ftable).sort(function (a, b) { return ftable[a].amount - ftable[b].amount })
+        //console.log(foodSorted);
+        for (var i in foodSorted) {
+            var name = foodSorted[i];
+            var dayamount = ftable[name].amount;
 
-        var amounttab = "\t\t";
-        if(ftable[name].amount > 10000){
-            amounttab = "\t";
-        }
+            var nametab = "\t\t\t"
+            if (name.replace(/[^\x00-\xff]/g, '**').length >= 8) {
+                nametab = "\t\t";
+            }
+            if (name.replace(/[^\x00-\xff]/g, '**').length >= 16) {
+                nametab = "\t";
+            }
 
-        console.log(name + nametab + ftable[name].amount.toFixed(2) + amounttab + ftable[name].unit);
+            var amounttab = "\t\t";
+            if (ftable[name].amount > 10000) {
+                amounttab = "\t";
+            }
+
+            console.log(name + nametab + ftable[name].amount.toFixed(2) + amounttab + ftable[name].unit);
+        }
     }
-
 }
 
 // make then R files

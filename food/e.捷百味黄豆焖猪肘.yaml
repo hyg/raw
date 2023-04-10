@@ -1,0 +1,24 @@
+name: 捷百味黄豆焖猪肘
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 247.7
+    unit: kcal
+    nrv: 12
+  蛋白质:
+    amount: 12.8
+    unit: g
+    nrv: 21
+  脂肪:
+    amount: 19.9
+    unit: g
+    nrv: 33
+  碳水化合物:
+    amount: 4.9
+    unit: g
+    nrv: 2
+  钠:
+    amount: 893
+    unit: mg
+    nrv: 45

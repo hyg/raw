@@ -1,0 +1,24 @@
+name: 捷百味土豆牛肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 122.3
+    unit: kcal
+    nrv: 6
+  蛋白质:
+    amount: 5.0
+    unit: g
+    nrv: 8
+  脂肪:
+    amount: 8.5
+    unit: g
+    nrv: 14
+  碳水化合物:
+    amount: 6.6
+    unit: g
+    nrv: 2
+  钠:
+    amount: 453
+    unit: mg
+    nrv: 23

@@ -1,0 +1,24 @@
+name: 捷百味黑椒肉丸
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 199.5
+    unit: kcal
+    nrv: 10
+  蛋白质:
+    amount: 6.3
+    unit: g
+    nrv: 11
+  脂肪:
+    amount: 17.2
+    unit: g
+    nrv: 29
+  碳水化合物:
+    amount: 5.4
+    unit: g
+    nrv: 2
+  钠:
+    amount: 512
+    unit: mg
+    nrv: 26

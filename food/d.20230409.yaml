@@ -95,9 +95,7 @@ food:
   - time: 20230410002400
     name: 菊粉
     amount: 6.0
-    unit: g 
-  
-   
+    unit: g   
 water:
   - time: 20230409142100
     name: 开水

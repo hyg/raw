@@ -1,0 +1,24 @@
+name: 捷百味台式卤肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 133
+    unit: kcal
+    nrv: 7
+  蛋白质:
+    amount: 5.0
+    unit: g
+    nrv: 8
+  脂肪:
+    amount: 10.6
+    unit: g
+    nrv: 18
+  碳水化合物:
+    amount: 4.7
+    unit: g
+    nrv: 2
+  钠:
+    amount: 431
+    unit: mg
+    nrv: 22

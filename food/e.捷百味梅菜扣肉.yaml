@@ -1,0 +1,24 @@
+name: 捷百味梅菜扣肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 218.6
+    unit: kcal
+    nrv: 11
+  蛋白质:
+    amount: 6.1
+    unit: g
+    nrv: 10
+  脂肪:
+    amount: 19.9
+    unit: g
+    nrv: 33
+  碳水化合物:
+    amount: 4.4
+    unit: g
+    nrv: 1
+  钠:
+    amount: 607
+    unit: mg
+    nrv: 30
