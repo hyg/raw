@@ -1,0 +1,24 @@
+name: 脱骨肘子肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 338
+    unit: kcal
+    nrv: 17
+  蛋白质:
+    amount: 21.3
+    unit: g
+    nrv: 36
+  脂肪:
+    amount: 24.5
+    unit: g
+    nrv: 41
+  碳水化合物:
+    amount: 2.5
+    unit: g
+    nrv: 1
+  钠:
+    amount: 786
+    unit: mg
+    nrv: 39
