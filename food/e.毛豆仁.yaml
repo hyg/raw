@@ -1,0 +1,24 @@
+name: 毛豆仁
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 123.8
+    unit: kcal
+    nrv: 6
+  蛋白质:
+    amount: 13.1
+    unit: g
+    nrv: 22
+  脂肪:
+    amount: 5.0
+    unit: g
+    nrv: 8
+  碳水化合物:
+    amount: 6.5
+    unit: g
+    nrv: 2
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0
