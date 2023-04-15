@@ -1,0 +1,28 @@
+name: 土豆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 77
+    unit: kcal
+    nrv: 4
+  碳水化合物:
+    amount: 17
+    unit: g
+    nrv: 6
+  蛋白质:
+    amount: 2
+    unit: g
+    nrv: 3
+  脂肪:
+    amount: 0.1
+    unit: g
+    nrv: 0
+  膳食纤维:
+    amount: 2.2
+    unit: g
+    nrv: 9
+  钠:
+    amount: 6
+    unit: mg
+    nrv: 0.3
