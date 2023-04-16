@@ -1,0 +1,24 @@
+name: 金煌芒
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 52
+    unit: kcal
+    nrv: 2.6
+  蛋白质:
+    amount: 0.83
+    unit: g
+    nrv: 1.4
+  脂肪:
+    amount: 0.24
+    unit: g
+    nrv: 0.05
+  碳水化合物:
+    amount: 13.01
+    unit: g
+    nrv: 4.4
+  膳食纤维:
+    amount: 1.38
+    unit: g
+    nrv: 5.6

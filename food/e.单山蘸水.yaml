@@ -1,0 +1,24 @@
+name: 单山蘸水
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 204.5
+    unit: kcal
+    nrv: 10
+  蛋白质:
+    amount: 21.5
+    unit: g
+    nrv: 36
+  脂肪:
+    amount: 7.5
+    unit: g
+    nrv: 13
+  碳水化合物:
+    amount: 12.5
+    unit: g
+    nrv: 4
+  钠:
+    amount: 8524
+    unit: mg
+    nrv: 426

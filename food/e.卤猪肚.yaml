@@ -1,0 +1,24 @@
+name: 卤猪肚
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 223.75
+    unit: kcal
+    nrv: 11
+  蛋白质:
+    amount: 18.6
+    unit: g
+    nrv: 31
+  脂肪:
+    amount: 16.0
+    unit: g
+    nrv: 25.6
+  碳水化合物:
+    amount: 1.4
+    unit: g
+    nrv: 0.4
+  钠:
+    amount: 650
+    unit: mg
+    nrv: 32.5
