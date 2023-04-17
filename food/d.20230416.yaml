@@ -86,7 +86,7 @@ food:
     unit: g  
   - time: 20230416234500
     name: 低钠盐
-    amount: 3.0
+    amount: 2.0
     unit: g  
   - time: 20230416234500
     name: 油
