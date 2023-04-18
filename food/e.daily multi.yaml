@@ -20,7 +20,7 @@ element:
     nrv: 90
   维生素K:
     amount: 25
-    unit: mg
+    unit: μg
     nrv: 21
   维生素B1:
     amount: 1.5
