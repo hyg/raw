@@ -1,0 +1,24 @@
+name: 许老八大黄米黑芝麻馅汤圆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1192
+    unit: kj
+    nrv: 14
+  蛋白质:
+    amount: 4.3
+    unit: g
+    nrv: 7
+  脂肪:
+    amount: 10.8
+    unit: g
+    nrv: 18
+  碳水化合物:
+    amount: 42.3
+    unit: g
+    nrv: 14
+  钠:
+    amount: 11
+    unit: mg
+    nrv: 1

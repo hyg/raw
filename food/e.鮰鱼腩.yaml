@@ -1,0 +1,24 @@
+name: 鮰鱼腩
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1079
+    unit: kj
+    nrv: 13
+  碳水化合物:
+    amount: 3.7
+    unit: g
+    nrv: 1
+  蛋白质:
+    amount: 12.1
+    unit: g
+    nrv: 20
+  脂肪:
+    amount: 21.9
+    unit: g
+    nrv: 37
+  钠:
+    amount: 189
+    unit: mg
+    nrv: 9
