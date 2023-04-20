@@ -185,7 +185,7 @@ function fooddaysum(date,etable,ftable){
                 if (food[id].name.replace(/[^\x00-\xff]/g, '**').length >= 16) {
                     nametab = "\t";
                 }
-                if(e=="胡萝卜素") console.log(food[id].amount+food[id].unit+"\t"+food[id].name+nametab+"含有"+item.amount.toFixed(8)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(8)+item.unit+"\t累计nrv:"+etable[e].nrv.toFixed(2)+"%");
+                if(e=="脂肪") console.log(food[id].amount+food[id].unit+"\t"+food[id].name+nametab+"含有"+item.amount.toFixed(8)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(8)+item.unit+"\t累计nrv:"+etable[e].nrv.toFixed(2)+"%");
             }
             delete food[id];
         } else {

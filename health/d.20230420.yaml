@@ -1,14 +1,14 @@
-date: 20230419
+date: 20230420
 sleep: 
-  time: 20230419052000
-  weight: 60.5
-wake:
-  time: 20230419135000
+  time: 20230420040000
   weight: 59.7
-  SpO2: 94
-  PRbpm: 66
+wake:
+  time: 20230420110000
+  weight: 59.4
+  SpO2: 95
+  PRbpm: 62
 exercise: 
-- time: 20230419145000
+- time: 20230420120000
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -22,12 +22,12 @@ exercise:
   - type: pilates.p79
     amount: 5
     unit: turn
-  SpO2: 96
-  PRbpm: 99
-  endheartrate: 106
+  SpO2: 94
+  PRbpm: 85
+  endheartrate: 89
 stool:
-- time: 20230420034000
-  amount:   2   #	1:多; 2:适中;	3:少
+- time: 20230420230100
+  amount:   1   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 comment: |+
