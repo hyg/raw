@@ -1,0 +1,24 @@
+name: 依恋油醋汁
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 118
+    unit: kj
+    nrv: 1
+  碳水化合物:
+    amount: 3.9
+    unit: g
+    nrv: 1
+  蛋白质:
+    amount: 2.4
+    unit: g
+    nrv: 4
+  脂肪:
+    amount: 0
+    unit: g
+    nrv: 0
+  钠:
+    amount: 1280
+    unit: mg
+    nrv: 64

@@ -2,6 +2,10 @@ name: 鸡蛋
 amount: 100
 unit: g
 element:
+  热量:
+    amount: 143
+    unit: kcal
+    nrv: 7.12
   脂肪:
     amount: 10.5
     unit: g
@@ -70,7 +74,4 @@ element:
     amount: 125.7
     unit: mg
     nrv: 6.29
-  热量:
-    amount: 143
-    unit: kcal
-    nrv: 7.12
+

@@ -1,0 +1,24 @@
+name: 蛋饺
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 887
+    unit: kj
+    nrv: 11
+  碳水化合物:
+    amount: 5.1
+    unit: g
+    nrv: 2
+  蛋白质:
+    amount: 9.2
+    unit: g
+    nrv: 15
+  脂肪:
+    amount: 17.4
+    unit: g
+    nrv: 29
+  钠:
+    amount: 497
+    unit: mg
+    nrv: 25

@@ -22,3 +22,7 @@ element:
     amount: 0
     unit: mg
     nrv: 0
+  膳食纤维:
+    amount: 4.2
+    unit: g
+    nrv: 16.8
