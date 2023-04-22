@@ -2,7 +2,7 @@ var fs = require('fs');
 var yaml = require('js-yaml');
 var os = require('os');
 var child = require('child_process');
-const { markAsUntransferable } = require('worker_threads');
+//const { markAsUntransferable } = require('worker_threads');
 
 // log and basic data
 var fmap = new Object();    // food log
@@ -24,18 +24,24 @@ if (arguments.length > 0) {
         enddate = arguments[0]+"1231";
         loadmap();
         foodyearlog(arguments[0]);
+        showtables();
+        makeRfile();
     } else if ((arguments.length == 1)&(arguments[0].length == 8)) {
         // day mode:"node raw 20230410"
         startdate = arguments[0];
         enddate = arguments[0];
         loadmap();
         fooddaylog(arguments[0]);
+        showtables();
+        //makeRfile();
     }else if (arguments.length == 2){
         // period mode:"node raw 20230101 20230331"
         startdate = arguments[0];
         enddate = arguments[1];
         loadmap();
         foodperiodlog(startdate,enddate);
+        showtables();
+        makeRfile();
     }else{
         console.log("unkonw mode...\n\nyear mode:\t\"node raw 2023\"\nday mode:\t\"node raw 20230410\"\nperiod mode:\t\"node raw 20230101 20230331\"\ntoday mode:\t\"node raw\"");
         process.exit();
@@ -46,9 +52,10 @@ if (arguments.length > 0) {
     enddate = datestr();
     loadmap();
     fooddaylog(datestr());
+    showtables();
+    //makeRfile();
 }
-showtables();
-makeRfile();
+
 
 
 // load log and element data between given period
@@ -237,7 +244,8 @@ function fooddaysum(date,etable,ftable){
                 if (food[id].name.replace(/[^\x00-\xff]/g, '**').length >= 16) {
                     nametab = "\t";
                 }
-                if(e=="钙") console.log(food[id].amount+food[id].unit+"\t"+food[id].name+nametab+"含有"+item.amount.toFixed(8)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(8)+item.unit+"\t累计nrv:"+etable[e].nrv.toFixed(2)+"%");
+                // testlog: element detail
+                //if(e=="钙") console.log(food[id].amount+food[id].unit+"\t"+food[id].name+nametab+"含有"+item.amount.toFixed(8)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(8)+item.unit+"\t累计nrv:"+etable[e].nrv.toFixed(2)+"%");
             }
             delete food[id];
         } else {
