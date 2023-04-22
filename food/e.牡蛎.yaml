@@ -24,7 +24,7 @@ element:
     nrv: 0.8
   维生素A:
     amount: 20.0
-    unit: μg
+    unit: µg
     nrv: 2.2
   维生素C:
     amount: 3.3
@@ -48,5 +48,5 @@ element:
     nrv: 58.2
   硒:
     amount: 99.2
-    unit: μg
+    unit: µg
     nrv: 180

@@ -24,11 +24,11 @@ element:
     nrv: 18
   维生素A:
     amount: 3
-    unit: μg
+    unit: µg
     nrv: 0.375
   维生素E:
     amount: 780
-    unit: μg
+    unit: µg
     nrv: 5.57
   钙:
     amount: 5
@@ -40,7 +40,7 @@ element:
     nrv: 26.2
   锰:
     amount: 40
-    unit: μg
+    unit: µg
     nrv: 1.33
   磷:
     amount: 195
@@ -48,7 +48,7 @@ element:
     nrv: 27.86
   硒:
     amount: 3.82
-    unit: μg
+    unit: µg
     nrv: 7.64
   镁:
     amount: 20

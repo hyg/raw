@@ -9,7 +9,7 @@ element:
     nrv: 44
   维生素A:
     amount: 219
-    unit: μg
+    unit: µg
     nrv: 27
   钠:
     amount: 240

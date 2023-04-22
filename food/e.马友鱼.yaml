@@ -32,7 +32,7 @@ element:
     nrv: 3.8
   维生素A:
     amount: 25.5
-    unit: μg
+    unit: µg
     nrv: 1.7
   维生素C:
     amount: 0

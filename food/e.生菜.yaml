@@ -28,7 +28,7 @@ element:
     nrv: 25 
   维生素K: 
     amount: 315 
-    unit: μg 
+    unit: µg 
     nrv: 393.7
   钙: 
     amount: 36 

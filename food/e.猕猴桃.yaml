@@ -24,19 +24,19 @@ element:
     nrv: 10.4
   硫胺素:
     amount: 50
-    unit: μg
+    unit: µg
     nrv: 3.57
   核黄素:
     amount: 20
-    unit: μg
+    unit: µg
     nrv: 1.43
   维生素B3:
     amount: 300
-    unit: μg
+    unit: µg
     nrv: 2.14
   维生素A:
     amount: 22
-    unit: μg
+    unit: µg
     nrv: 2.75
   维生素C:
     amount: 62

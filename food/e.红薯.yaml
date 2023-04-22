@@ -24,7 +24,7 @@ element:
     nrv: 4.8
   维生素A:
     amount: 1
-    unit: μg
+    unit: µg
     nrv: 0.12
   维生素B1:
     amount: 0.1
@@ -76,13 +76,13 @@ element:
     nrv: 3.33
   碘:
     amount: 1.2
-    unit: μg
+    unit: µg
     nrv: 0.8
   硒:
     amount: 0.47
-    unit: μg
+    unit: µg
     nrv: 0.94
   叶酸:
     amount: 12.4
-    unit: μg
+    unit: µg
     nrv: 3.1  

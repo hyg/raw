@@ -153,11 +153,11 @@ med:
 - time: 20230226121200  
   name: 维生素D3
   amount: 123
-  unit: μg
+  unit: µg
 - time: 20230226121200  
   name: selenium
   amount: 200
-  unit: μg
+  unit: µg
 - time: 20230226121200 
   name: daily multi
   amount: 1

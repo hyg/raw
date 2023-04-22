@@ -1,8 +1,8 @@
 name: selenium
 amount: 200
-unit: μg
+unit: µg
 element:
   硒:
     amount: 200
-    unit: μg
+    unit: µg
     nrv: 364

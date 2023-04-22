@@ -48,7 +48,6 @@ food:
     name: 番石榴
     amount: 147.5
     unit: g
-
   - time: 20230422160400
     name: 大米
     amount: 40.0
@@ -85,32 +84,26 @@ food:
     name: 可可粉
     amount: 4.0
     unit: g
-
-  - time: 20230422203800
+  - time: 20230422222222
     name: 西兰花
-    amount: 100.0
+    amount: 104.0
     unit: g
-  - time: 20230422203800
+  - time: 20230422222222
     name: 菠菜
-    amount: 100
+    amount: 113.0
     unit: g
-  - time: 20230422203800
-    name: 油菜
-    amount: 100.0
-    unit: g
-  - time: 20230422203800
+  - time: 20230422222222
     name: 卤水豆腐
-    amount: 72.5
+    amount: 73.0
     unit: g
-  - time: 20230422160400
+  - time: 20230422222222
     name: 低钠盐
-    amount: 1.5
+    amount: 2.0
     unit: g
-  - time: 20230422160400
+  - time: 20230422222222
     name: 油
     amount: 1.0
     unit: g
-  
 water:
   - time: 20230422103600
     name: 开水
@@ -140,25 +133,28 @@ water:
     name: 开水
     amount: 250
     unit: ml
-
-  - time: 20230422214800
+  - time: 20230422205900
     name: 开水
     amount: 250
     unit: ml
-  - time: 20230422233500
+  - time: 20230422225200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20230422002000
+  - time: 20230422225800
+    name: 葡萄酒
+    amount: 21.5
+    unit: ml
+  - time: 20230423000700
     name: 开水
     amount: 100
     unit: ml
 med:
-  - time: 20230422214800
+  - time: 20230422225200
     name: selenium
     amount: 200
-    unit: μg
-  - time: 20230422214800
+    unit: µg
+  - time: 20230422225200
     name: daily multi
     amount: 1
     unit: 片

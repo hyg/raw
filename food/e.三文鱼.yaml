@@ -40,11 +40,11 @@ element:
     nrv: 8
   维生素B12:
     amount: 4.4
-    unit: μg
+    unit: µg
     nrv: 73
   维生素D:
     amount: 12.5
-    unit: μg
+    unit: µg
     nrv: 250
   欧米伽3脂肪酸:
     amount: 3324

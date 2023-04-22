@@ -24,7 +24,7 @@ element:
     nrv: 6
   维生素A:
     amount: 130.5
-    unit: μg
+    unit: µg
     nrv: 9
   维生素B1:
     amount: 0.06

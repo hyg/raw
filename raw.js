@@ -9,14 +9,15 @@ var fmap = new Object();    // food log
 var emap = new Object();    // element data
 var hmap = new Object();    // health log
 
-// Statistics tables
+// Statistics period
+var daycnt = 0;
+var startdate,enddate ;
+// Statistics report
 var etable = new Object();  // element data
 var ftable = new Object();  // food data
-var daycnt = 0;
 
 // read the arguments
 var arguments = process.argv.splice(2);
-var startdate,enddate ;
 if (arguments.length > 0) {
     if ((arguments.length == 1)&(arguments[0].length == 4)) {
         // year mode: "node raw 2023"
@@ -57,8 +58,8 @@ if (arguments.length > 0) {
 }
 
 
-
-// load log and element data between given period
+// loaf element data
+// load log between given period
 function loadmap(){
     var startfilename = "d."+startdate+".yaml";
     var endfilename = "d."+enddate+".yaml";
@@ -92,7 +93,7 @@ function loadmap(){
     }
 }
 
-// 
+// day mode and today mode
 function fooddaylog(date) {
     if (fmap[date] === undefined)
         return; // have not record of today or yestoday yet
@@ -101,7 +102,7 @@ function fooddaylog(date) {
     daycnt++;
 }
 
-// 
+// period mode
 function foodperiodlog(startdate,enddate) {
     for(var date in fmap){
         if((date >= startdate) && (date <= enddate)){
@@ -111,7 +112,7 @@ function foodperiodlog(startdate,enddate) {
     }
 }
 
-
+// year mode
 function foodyearlog(year) {
     for(var date in fmap){
         if(date.slice(0,4) == year){
@@ -180,6 +181,7 @@ function showtables(){
     console.log("enddate:\t",enddate);
 }
 
+// Statistics of the food,water,med and their element in the given day
 function fooddaysum(date,etable,ftable){
     d = fmap[date];
     var name, amount, unit, nrv;
@@ -446,7 +448,7 @@ function E_fix() {
 
             if ((item.unit == "g") && (item.amount < 1)) {
                 if (item.amount < 0.001) {
-                    item.unit = "μg";
+                    item.unit = "µg";
                     item.amount = item.amount * 1000000;
                 } else {
                     item.unit = "mg";

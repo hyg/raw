@@ -40,7 +40,7 @@ element:
     nrv: 2
   硒:
     amount: 1.2
-    unit: μg
+    unit: µg
     nrv: 2
   硼:
     amount: 2

@@ -28,11 +28,11 @@ element:
     nrv: 3.57
   维生素B2:
     amount: 110
-    unit: μg
+    unit: µg
     nrv: 7.86
   维生素B6:
     amount: 29.999999999999996
-    unit: μg
+    unit: µg
     nrv: 2.14
   维生素E:
     amount: 4.98
@@ -40,7 +40,7 @@ element:
     nrv: 35.57
   叶酸:
     amount: 70.7
-    unit: μg
+    unit: µg
     nrv: 17.68
   钙:
     amount: 44
@@ -56,7 +56,7 @@ element:
     nrv: 6.05
   锌:
     amount: 380
-    unit: μg
+    unit: µg
     nrv: 2.53
   铁:
     amount: 1
@@ -68,7 +68,7 @@ element:
     nrv: 3.67
   硒:
     amount: 13.83
-    unit: μg
+    unit: µg
     nrv: 27.66
   钠:
     amount: 125.7

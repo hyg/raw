@@ -48,7 +48,7 @@ element:
     nrv: 6.5
   硒:
     amount: 41.5
-    unit: μg
+    unit: µg
     nrv: 83.2
   钠:
     amount: 106

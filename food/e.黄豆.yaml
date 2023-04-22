@@ -56,7 +56,7 @@ element:
     nrv: 75
   硒:
     amount: 6.159999999999999
-    unit: μg
+    unit: µg
     nrv: 12
   膳食纤维:
     amount: 15.5
@@ -68,7 +68,7 @@ element:
     nrv: 135
   胡萝卜素:
     amount: 220
-    unit: μg
+    unit: µg
     nrv: 28
   维生素B1:
     amount: 4.1000000000000005
@@ -76,7 +76,7 @@ element:
     nrv: 29
   维生素B2:
     amount: 200
-    unit: μg
+    unit: µg
     nrv: 14
   维生素B3:
     amount: 2.1
@@ -84,5 +84,5 @@ element:
     nrv: 15
   维生素K:
     amount: 47
-    unit: μg
+    unit: µg
     nrv: 58.7

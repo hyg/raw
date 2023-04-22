@@ -20,11 +20,11 @@ element:
     nrv: 18.3
   维生素B1:
     amount: 400
-    unit: μg
+    unit: µg
     nrv: 28.6
   维生素B2:
     amount: 140
-    unit: μg
+    unit: µg
     nrv: 10
   维生素E:
     amount: 6.6

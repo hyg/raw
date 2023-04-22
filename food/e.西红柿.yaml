@@ -24,23 +24,23 @@ element:
     nrv: 2
   胡萝卜素:
     amount: 550
-    unit: μg
+    unit: µg
     nrv: 69
   维生素A:
     amount: 487
-    unit: μg
+    unit: µg
     nrv: 61
   维生素B1:
     amount: 30
-    unit: μg
+    unit: µg
     nrv: 2
   维生素B2:
     amount: 30
-    unit: μg
+    unit: µg
     nrv: 2
   维生素B3:
     amount: 600
-    unit: μg
+    unit: µg
     nrv: 4
   维生素C:
     amount: 19
@@ -48,7 +48,7 @@ element:
     nrv: 19
   维生素E:
     amount: 570
-    unit: μg
+    unit: µg
     nrv: 4
   钾:
     amount: 163
@@ -72,11 +72,11 @@ element:
     nrv: 3
   锌:
     amount: 130
-    unit: μg
+    unit: µg
     nrv: 1
   锰:
     amount: 80
-    unit: μg
+    unit: µg
     nrv: 3
     
   磷:
@@ -85,10 +85,10 @@ element:
     nrv: 0
   硒:
     amount: 0.15
-    unit: μg
+    unit: µg
     nrv: 0
   铜:
     amount: 60
-    unit: μg
+    unit: µg
     nrv: 4
 

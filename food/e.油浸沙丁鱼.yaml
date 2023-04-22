@@ -44,7 +44,7 @@ element:
     nrv: 15.33
   硒:
     amount: 49
-    unit: μg
+    unit: µg
     nrv: 98
   热量:
     amount: 220

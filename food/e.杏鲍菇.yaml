@@ -64,7 +64,7 @@ element:
     nrv: 2.6
   硒:
     amount: 1.8
-    unit: μg
+    unit: µg
     nrv: 3.6
   铜:
     amount: 0.06
@@ -76,9 +76,9 @@ element:
     nrv: 1.33
   叶酸:
     amount: 42.8
-    unit: μg
+    unit: µg
     nrv: 10.7
   尼克酸:
     amount: 3.68
-    unit: μg
+    unit: µg
     nrv: 26.29

@@ -24,7 +24,7 @@ element:
   nrv: 18
  维生素A:
   amount: 550
-  unit: μg
+  unit: µg
   nrv: 69
  维生素E:
   amount: 4.28
@@ -32,7 +32,7 @@ element:
   nrv: 28
  维生素K:
   amount: 62
-  unit: μg
+  unit: µg
   nrv: 52
  维生素B1:
   amount: 0.36
@@ -48,7 +48,7 @@ element:
   nrv: 19
  维生素B12:
   amount: 0
-  unit: μg
+  unit: µg
   nrv: 0
  维生素B3:
   amount: 2.87
@@ -56,7 +56,7 @@ element:
   nrv: 18
  叶酸:
   amount: 63
-  unit: μg
+  unit: µg
   nrv: 16
  泛酸:
   amount: 1.18
@@ -100,5 +100,5 @@ element:
   nrv: 150
  硒:
   amount: 3.5
-  unit: μg
+  unit: µg
   nrv: 6

@@ -77,7 +77,7 @@ med:
 - time: 20170801164500
   name: selenium
   amount: 100
-  unit: μg
+  unit: µg
 - time: 20170801164500
   name: 维生素D3
   amount: 400

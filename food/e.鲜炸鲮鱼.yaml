@@ -20,7 +20,7 @@ element:
   nrv: 1.5
  维生素A:
   amount: 130
-  unit: μg
+  unit: µg
   nrv: 14.4
  维生素E:
   amount: 1.69

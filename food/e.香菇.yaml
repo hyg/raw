@@ -32,7 +32,7 @@ element:
     nrv: 13
   维生素D:
     amount: 7.8
-    unit: μg
+    unit: µg
     nrv: 156
   维生素B3:
     amount: 7.4

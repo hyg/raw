@@ -28,19 +28,19 @@ element:
     nrv: 365
   维生素A:
     amount: 487
-    unit: μg
+    unit: µg
     nrv: 61
   维生素B1:
     amount: 40
-    unit: μg
+    unit: µg
     nrv: 3
   维生素B2:
     amount: 110
-    unit: μg
+    unit: µg
     nrv: 8
   维生素B3:
     amount: 600
-    unit: μg
+    unit: µg
     nrv: 4
   维生素C:
     amount: 32
@@ -52,7 +52,7 @@ element:
     nrv: 12
   维生素K:
     amount: 380
-    unit: μg
+    unit: µg
     nrv: 475
   钾:
     amount: 311
@@ -76,11 +76,11 @@ element:
     nrv: 19
   锌:
     amount: 850
-    unit: μg
+    unit: µg
     nrv: 6
   锰:
     amount: 660
-    unit: μg
+    unit: µg
     nrv: 22
   磷:
     amount: 47
@@ -88,10 +88,10 @@ element:
     nrv: 7
   硒:
     amount: 0.97
-    unit: μg
+    unit: µg
     nrv: 2
   铜:
     amount: 100
-    unit: μg
+    unit: µg
     nrv: 7
 

@@ -41,15 +41,15 @@ element:
     nrv: 1
   维生素A:
     amount: 4
-    unit: μg
+    unit: µg
     nrv: 0
   胡萝卜素:
     amount: 23
-    unit: μg
+    unit: µg
     nrv: 0
   β-胡萝卜素:
     amount: 114
-    unit: μg
+    unit: µg
     nrv: 0
   维生素E:
     amount: 0.3
@@ -57,7 +57,7 @@ element:
     nrv: 2
   维生素K:
     amount: 0
-    unit: μg
+    unit: µg
     nrv: 0
   维生素B1:
     amount: 0.03
@@ -73,7 +73,7 @@ element:
     nrv: 4
   维生素B12:
     amount: 0
-    unit: μg
+    unit: µg
     nrv: 0
   维生素B3:
     amount: 0.3
@@ -81,7 +81,7 @@ element:
     nrv: 2
   叶酸:
     amount: 30
-    unit: μg
+    unit: µg
     nrv: 8
   泛酸:
     amount: 0.3
