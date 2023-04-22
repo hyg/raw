@@ -2,59 +2,110 @@ var fs = require('fs');
 var yaml = require('js-yaml');
 var os = require('os');
 var child = require('child_process');
+const { markAsUntransferable } = require('worker_threads');
 
 var fmap = new Object();
 var emap = new Object();
 var hmap = new Object();
 
-try {
-    var list = fs.readdirSync("food");
-    for (var i = 0; i < list.length; i++) {
-        if (list[i].substr(0, 2) == "d.") {
-            f = yaml.load(fs.readFileSync("food/" + list[i], 'utf8'));
-            fmap[f.date] = f;
-        }
-        if (list[i].substr(0, 2) == "e.") {
-            e = yaml.load(fs.readFileSync("food/" + list[i], 'utf8'));
-            emap[e.name] = e;
-            //if(e.name == "胶原蛋白肽粉") console.log(e.name+"\tamount:"+e.element["锌"].amount+"\tunit:"+e.element["锌"].unit+"\tnrv:"+e.element["锌"].nrv);
-        }
-    }
-
-    list = fs.readdirSync("health");
-    for (var i = 0; i < list.length; i++) {
-        if (list[i].substr(0, 2) == "d.") {
-            h = yaml.load(fs.readFileSync("health/" + list[i], 'utf8'));
-            //if(!h.wake.weight) {console.log("can find wake data"+h.date);}
-            hmap[h.date] = h;
-        }
-    }
-} catch (e) {
-    // failure
-    console.log("yaml read error！" + list[i] + e);
-}
-
 var arguments = process.argv.splice(2);
 var startdate,enddate ;
 if (arguments.length > 0) {
     if (arguments[0].length == 4) {
-        foodyearlog(arguments[0]);
         startdate = arguments[0]+"0101";
         enddate = arguments[0]+"1231";
+        loadmap();
+        foodyearlog(arguments[0]);
     } else {
         startdate = arguments[0];
         enddate = arguments[1];
+        loadmap();
         foodperiodlog(startdate,enddate);
     }
 } else {
-    fooddaylog(datestr());
     startdate = datestr();
     enddate = datestr();
+    loadmap();
+    fooddaylog(datestr());
 }
 console.log("startdate=",startdate);
 console.log("enddate=",enddate);
 makeRfile();
 
+
+// load log and element data between given period
+function OLDloaddata(){
+    var startfilename = "d."+startdate+".yaml";
+    var endfilename = "d."+enddate+".yaml";
+
+    try {
+        var list = fs.readdirSync("food");
+        for (var i = 0; i < list.length; i++) {
+            if (list[i].substr(0, 2) == "d.") {
+                if((list[i] >= startfilename) & (list[i] <= endfilename)){
+                    f = yaml.load(fs.readFileSync("food/" + list[i], 'utf8'));
+                    fmap[f.date] = f;
+                }
+            }
+            if (list[i].substr(0, 2) == "e.") {
+                e = yaml.load(fs.readFileSync("food/" + list[i], 'utf8'));
+                emap[e.name] = e;
+            }
+        }
+    
+        list = fs.readdirSync("health");
+        for (var i = 0; i < list.length; i++) {
+            if (list[i].substr(0, 2) == "d.") {
+                if((list[i] >= startfilename) & (list[i] <= endfilename)){
+                    h = yaml.load(fs.readFileSync("health/" + list[i], 'utf8'));
+                    //if(!h.wake.weight) {console.log("can find wake data"+h.date);}
+                    hmap[h.date] = h;
+                }
+            }
+        }
+    } catch (e) {
+        // failure
+        console.log("yaml read error！" + list[i] + e);
+    }
+}
+
+function loadmap(){
+    var startfilename = "d."+startdate+".yaml";
+    var endfilename = "d."+enddate+".yaml";
+
+    try {
+        fs.readdirSync("food").forEach(file => {
+            if (file.substr(0, 2) == "d.") {
+                if((file >= startfilename) & (file <= endfilename)){
+                    f = yaml.load(fs.readFileSync("food/" + file, 'utf8'));
+                    fmap[f.date] = f;
+                }
+            }
+            if (file.substr(0, 2) == "e.") {
+                e = yaml.load(fs.readFileSync("food/" + file, 'utf8'));
+                emap[e.name] = e;
+            }
+        });
+
+        fs.readdirSync("health").forEach(file => {
+            if (file.substr(0, 2) == "d.") {
+                if((file >= startfilename) & (file <= endfilename)){
+                    h = yaml.load(fs.readFileSync("health/" + file, 'utf8'));
+                    //if(!h.wake.weight) {console.log("can find wake data"+h.date);}
+                    hmap[h.date] = h;
+                }
+            }
+        });
+    } catch (e) {
+        // failure
+        console.log("yaml read error！" + list[i] + e);
+    }
+}
+
+// display the tables
+function showtables(){
+
+}
 
 function foodyearlog(year) {
     let etable = new Object();
@@ -185,7 +236,7 @@ function fooddaysum(date,etable,ftable){
                 if (food[id].name.replace(/[^\x00-\xff]/g, '**').length >= 16) {
                     nametab = "\t";
                 }
-                if(e=="脂肪") console.log(food[id].amount+food[id].unit+"\t"+food[id].name+nametab+"含有"+item.amount.toFixed(8)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(8)+item.unit+"\t累计nrv:"+etable[e].nrv.toFixed(2)+"%");
+                if(e=="钙") console.log(food[id].amount+food[id].unit+"\t"+food[id].name+nametab+"含有"+item.amount.toFixed(8)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(8)+item.unit+"\t累计nrv:"+etable[e].nrv.toFixed(2)+"%");
             }
             delete food[id];
         } else {

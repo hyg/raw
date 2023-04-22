@@ -1,14 +1,14 @@
-date: 20230421
+date: 20230422
 sleep: 
-  time: 20230421011000
-  weight: 60.0
+  time: 20230422035000
+  weight: 59.7
 wake:
-  time: 20230421105500
+  time: 20230422103000
   weight: 59.3
   SpO2: 95
-  PRbpm: 63
+  PRbpm: 62
 exercise: 
-- time: 20230421115000
+- time: 20230422113000
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -22,13 +22,13 @@ exercise:
   - type: pilates.p79
     amount: 5
     unit: turn
-  SpO2: 95
-  PRbpm: 85
-  endheartrate: 91
+  SpO2: 98
+  PRbpm: 84
+  endheartrate: 90
 stool:
-- time: 20230422034000
+- time: 20230422155000
   amount:   3   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
-  diffcult: 2   #	1:不困难;	2:困难
+  diffcult: 1   #	1:不困难;	2:困难
 comment: |+
-  这几天早饭后没有立刻排便，可能和杂粮粥改肉粥有关。
+  早饭换回杂粮粥，排便当天就正常了。
