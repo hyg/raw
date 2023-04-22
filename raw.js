@@ -8,6 +8,10 @@ var fmap = new Object();
 var emap = new Object();
 var hmap = new Object();
 
+var etable = new Object();
+var ftable = new Object();
+var daycnt = 0;
+
 var arguments = process.argv.splice(2);
 var startdate,enddate ;
 if (arguments.length > 0) {
@@ -28,47 +32,13 @@ if (arguments.length > 0) {
     loadmap();
     fooddaylog(datestr());
 }
+showtables();
 console.log("startdate=",startdate);
 console.log("enddate=",enddate);
 makeRfile();
 
 
 // load log and element data between given period
-function OLDloaddata(){
-    var startfilename = "d."+startdate+".yaml";
-    var endfilename = "d."+enddate+".yaml";
-
-    try {
-        var list = fs.readdirSync("food");
-        for (var i = 0; i < list.length; i++) {
-            if (list[i].substr(0, 2) == "d.") {
-                if((list[i] >= startfilename) & (list[i] <= endfilename)){
-                    f = yaml.load(fs.readFileSync("food/" + list[i], 'utf8'));
-                    fmap[f.date] = f;
-                }
-            }
-            if (list[i].substr(0, 2) == "e.") {
-                e = yaml.load(fs.readFileSync("food/" + list[i], 'utf8'));
-                emap[e.name] = e;
-            }
-        }
-    
-        list = fs.readdirSync("health");
-        for (var i = 0; i < list.length; i++) {
-            if (list[i].substr(0, 2) == "d.") {
-                if((list[i] >= startfilename) & (list[i] <= endfilename)){
-                    h = yaml.load(fs.readFileSync("health/" + list[i], 'utf8'));
-                    //if(!h.wake.weight) {console.log("can find wake data"+h.date);}
-                    hmap[h.date] = h;
-                }
-            }
-        }
-    } catch (e) {
-        // failure
-        console.log("yaml read error！" + list[i] + e);
-    }
-}
-
 function loadmap(){
     var startfilename = "d."+startdate+".yaml";
     var endfilename = "d."+enddate+".yaml";
@@ -102,23 +72,37 @@ function loadmap(){
     }
 }
 
-// display the tables
-function showtables(){
+// 
+function fooddaylog(date) {
+    if (fmap[date] === undefined)
+        return; // have not record of today or yestoday yet
 
+    fooddaysum(date,etable,ftable);
+    daycnt++;
 }
 
-function foodyearlog(year) {
-    let etable = new Object();
-    let ftable = new Object();
-    let daycnt = 0;
+// 
+function foodperiodlog(startdate,enddate) {
+    for(var date in fmap){
+        if((date >= startdate) && (date <= enddate)){
+            fooddaysum(date,etable,ftable);
+            daycnt++;
+        }
+    }
+}
 
+
+function foodyearlog(year) {
     for(var date in fmap){
         if(date.slice(0,4) == year){
             fooddaysum(date,etable,ftable);
             daycnt++;
         }
     }
+}
 
+// display the tables
+function showtables(){
     console.log("day counter = ",daycnt);
 
     console.log("成份表\n名称\t\t总数量\t\t日均\t单位\tNRV(%)");
@@ -149,28 +133,32 @@ function foodyearlog(year) {
         }
     }
 
-    console.log("\n未算入成份表的食物\n名称\t\t\t总数量\t\t日均\t单位");
-    let foodSorted = Object.keys(ftable).sort(function (a, b) { return ftable[a].amount - ftable[b].amount })
-
-    for (var i in foodSorted) {
-        var name = foodSorted[i];
-        var dayamount = ftable[name].amount/daycnt ;
-
-        var nametab = "\t\t\t"
-        if(name.replace(/[^\x00-\xff]/g, '**').length >= 8){
-            nametab = "\t\t";
+    //console.log("typeof ftable"+typeof(ftable));
+    if(Object.keys(ftable).length>0){
+        console.log("\n未算入成份表的食物\n名称\t\t\t总数量\t\t日均\t单位");
+        let foodSorted = Object.keys(ftable).sort(function (a, b) { return ftable[a].amount - ftable[b].amount })
+    
+        for (var i in foodSorted) {
+            var name = foodSorted[i];
+            var dayamount = ftable[name].amount/daycnt ;
+    
+            var nametab = "\t\t\t"
+            if(name.replace(/[^\x00-\xff]/g, '**').length >= 8){
+                nametab = "\t\t";
+            }
+            if(name.replace(/[^\x00-\xff]/g, '**').length >= 16){
+                nametab = "\t";
+            }
+    
+            var amounttab = "\t\t";
+            if(ftable[name].amount > 10000){
+                amounttab = "\t";
+            }
+            console.log(name + nametab + ftable[name].amount.toFixed(2) + amounttab + dayamount.toFixed(2) + "\t" + ftable[name].unit);
         }
-        if(name.replace(/[^\x00-\xff]/g, '**').length >= 16){
-            nametab = "\t";
-        }
-
-        var amounttab = "\t\t";
-        if(ftable[name].amount > 10000){
-            amounttab = "\t";
-        }
-        console.log(name + nametab + ftable[name].amount.toFixed(2) + amounttab + dayamount.toFixed(2) + "\t" + ftable[name].unit);
     }
 }
+
 
 function fooddaysum(date,etable,ftable){
     d = fmap[date];
@@ -303,144 +291,6 @@ function fooddaysum(date,etable,ftable){
 
 }
 
-// 
-function foodperiodlog(startdate,enddate) {
-    let etable = new Object();
-    let ftable = new Object();
-    let daycnt = 0;
-
-    for(var date in fmap){
-        if((date >= startdate) && (date <= enddate)){
-            fooddaysum(date,etable,ftable);
-            daycnt++;
-        }
-    }
-
-    console.log("day counter = ",daycnt);
-
-    console.log("成份表\n名称\t\t总数量\t\t日均\t单位\tNRV(%)");
-    let keysSorted = Object.keys(etable).sort(function (a, b) { return etable[a].nrv - etable[b].nrv })
-
-    for (var i in keysSorted) {
-        var name = keysSorted[i];
-        if ((etable[name].unit == "g") && (etable[name].amount < 1)) {
-            if (etable[name].amount < 0.001) {
-                etable[name].unit = "μg";
-                etable[name].amount = etable[name].amount * 1000000;
-            } else {
-                etable[name].unit = "mg";
-                etable[name].amount = etable[name].amount * 1000;
-            }
-        }
-        var dayamount = etable[name].amount/daycnt ;
-        var daynrv = etable[name].nrv/daycnt ;
-        var amounttab = "\t\t";
-        if(etable[name].amount > 10000){
-            amounttab = "\t";
-        }
-
-        if (name.replace(/[^\x00-\xff]/g, '**').length < 8) {
-            console.log(name + "\t\t" + etable[name].amount.toFixed(2) + amounttab + dayamount.toFixed(2) + "\t" + etable[name].unit + "\t" + daynrv.toFixed(2));
-        } else {
-            console.log(name + "\t" + etable[name].amount.toFixed(2) + amounttab + dayamount.toFixed(2) + "\t" + etable[name].unit + "\t" + daynrv.toFixed(2));
-        }
-    }
-
-    //console.log("typeof ftable"+typeof(ftable));
-    if(Object.keys(ftable).length>0){
-        console.log("\n未算入成份表的食物\n名称\t\t\t总数量\t\t日均\t单位");
-        let foodSorted = Object.keys(ftable).sort(function (a, b) { return ftable[a].amount - ftable[b].amount })
-    
-        for (var i in foodSorted) {
-            var name = foodSorted[i];
-            var dayamount = ftable[name].amount/daycnt ;
-    
-            var nametab = "\t\t\t"
-            if(name.replace(/[^\x00-\xff]/g, '**').length >= 8){
-                nametab = "\t\t";
-            }
-            if(name.replace(/[^\x00-\xff]/g, '**').length >= 16){
-                nametab = "\t";
-            }
-    
-            var amounttab = "\t\t";
-            if(ftable[name].amount > 10000){
-                amounttab = "\t";
-            }
-            console.log(name + nametab + ftable[name].amount.toFixed(2) + amounttab + dayamount.toFixed(2) + "\t" + ftable[name].unit);
-        }
-    }
-}
-
-// 
-function fooddaylog(date) {
-    //console.log(fmap[datestr()]);
-    //console.log(date);
-    //console.log(fmap[date]);
-    if (fmap[date] === undefined)
-        return; // have not record of today or yestoday yet
-
-    d = fmap[date];
-    let etable = new Object();
-    let ftable = new Object();
-
-    fooddaysum(date,etable,ftable);
-
-    console.log("成份表\n名称\t\t总数量\t\t单位\tNRV(%)");
-    let keysSorted = Object.keys(etable).sort(function (a, b) { return etable[a].nrv - etable[b].nrv })
-
-    for (var i in keysSorted) {
-        var name = keysSorted[i];
-        if ((etable[name].unit == "g") && (etable[name].amount < 1)) {
-            if (etable[name].amount < 0.001) {
-                etable[name].unit = "μg";
-                etable[name].amount = etable[name].amount * 1000000;
-            } else {
-                etable[name].unit = "mg";
-                etable[name].amount = etable[name].amount * 1000;
-            }
-        }
-        var dayamount = etable[name].amount ;
-        var daynrv = etable[name].nrv ;
-        var amounttab = "\t\t";
-        if(etable[name].amount > 10000){
-            amounttab = "\t";
-        }
-
-        if (name.replace(/[^\x00-\xff]/g, '**').length < 8) {
-            console.log(name + "\t\t" + etable[name].amount.toFixed(2) + amounttab + etable[name].unit + "\t" + daynrv.toFixed(2));
-        } else {
-            console.log(name + "\t" + etable[name].amount.toFixed(2) + amounttab + etable[name].unit + "\t" + daynrv.toFixed(2));
-        }
-    }
-
-    if (Object.keys(ftable).length > 0) {
-        console.log("\n未算入成份表的食物\n名称\t\t\t总数量\t\t单位");
-
-        let foodSorted = Object.keys(ftable).sort(function (a, b) { return ftable[a].amount - ftable[b].amount })
-        //console.log(foodSorted);
-        for (var i in foodSorted) {
-            var name = foodSorted[i];
-            var dayamount = ftable[name].amount;
-
-            var nametab = "\t\t\t"
-            if (name.replace(/[^\x00-\xff]/g, '**').length >= 8) {
-                nametab = "\t\t";
-            }
-            if (name.replace(/[^\x00-\xff]/g, '**').length >= 16) {
-                nametab = "\t";
-            }
-
-            var amounttab = "\t\t";
-            if (ftable[name].amount > 10000) {
-                amounttab = "\t";
-            }
-
-            console.log(name + nametab + ftable[name].amount.toFixed(2) + amounttab + ftable[name].unit);
-        }
-    }
-}
-
 // make then R files
 function makeRfile() {
     var d = "date <- c(";
@@ -540,7 +390,8 @@ function makeRfile() {
 // utils
 function datestr() {
     var theDate = new Date();
-    theDate.setDate(theDate.getDate() - 1);
+    //theDate.setDate(theDate.getDate() - 1);
+    theDate.setDate(theDate.getDate());
 
     var year = theDate.getFullYear();
     var month = theDate.getMonth() + 1 < 10 ? "0" + (theDate.getMonth() + 1) : theDate.getMonth() + 1;
