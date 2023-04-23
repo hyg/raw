@@ -91,6 +91,47 @@ function loadmap(){
         // failure
         console.log("yaml read error！" + list[i] + e);
     }
+
+    /*
+    // make the Nutritional composition table of mixtures
+    var z = new Object();
+    z.name = "花青素杂粮";
+    z.amount = 100;
+    z.unit = "g";
+    z.element = new Object();
+
+    for(e in emap["紫米"].element){
+        if(z.element[e] === undefined){
+            z.element[e] = new Object();
+            z.element[e].amount = emap["紫米"].element[e].amount*2/3;
+            z.element[e].unit = emap["紫米"].element[e].unit;
+            z.element[e].nrv = emap["紫米"].element[e].nrv*2/3;
+        }else{
+            z.element[e].amount += emap["紫米"].element[e].amount*2/3;
+            z.element[e].nrv += emap["紫米"].element[e].nrv*2/3;
+        }
+        //console.log(yaml.dump(z));
+        //console.log("%s in 紫米:\n%s\n%s in 花青素杂粮:\n%s",e,yaml.dump(emap["紫米"].element[e]),e,yaml.dump(z.element[e]));
+    }
+
+    for(e in emap["花生"].element){
+        if(z.element[e] === undefined){
+            z.element[e] = new Object();
+            z.element[e].amount = emap["花生"].element[e].amount/3;
+            z.element[e].unit = emap["花生"].element[e].unit;
+            z.element[e].nrv = emap["花生"].element[e].nrv/3;
+        }else{
+            z.element[e].amount += emap["花生"].element[e].amount/3;
+            z.element[e].nrv += emap["花生"].element[e].nrv/3;
+        }
+    }
+
+    for(e in z.element){
+        z.element[e].amount = z.element[e].amount.toFixed(1);
+        z.element[e].nrv = z.element[e].nrv.toFixed(1);
+    }
+    console.log("\n\n%s\n\n",yaml.dump(z));
+    */
 }
 
 // day mode and today mode
@@ -124,7 +165,7 @@ function foodyearlog(year) {
 
 // display the tables
 function showtables(){
-    console.log("成份表\n名称\t\t总数量\t\t日均\t单位\tNRV(%)");
+    console.log("\t\t\t成份表\n名称\t\t总数量\t\t日均\t单位\tNRV(%)");
     let keysSorted = Object.keys(etable).sort(function (a, b) { return etable[a].nrv - etable[b].nrv })
 
     for (var i in keysSorted) {
@@ -154,7 +195,7 @@ function showtables(){
 
     //console.log("typeof ftable"+typeof(ftable));
     if(Object.keys(ftable).length>0){
-        console.log("\n未算入成份表的食物\n名称\t\t\t总数量\t\t日均\t单位");
+        console.log("\n\t\t未算入成份表的食物\n名称\t\t\t总数量\t\t日均\t单位");
         let foodSorted = Object.keys(ftable).sort(function (a, b) { return ftable[a].amount - ftable[b].amount })
     
         for (var i in foodSorted) {
@@ -176,9 +217,7 @@ function showtables(){
             console.log(name + nametab + ftable[name].amount.toFixed(2) + amounttab + dayamount.toFixed(2) + "\t" + ftable[name].unit);
         }
     }
-    console.log("\nday counter:\t",daycnt);
-    console.log("startdate:\t",startdate);
-    console.log("enddate:\t",enddate);
+    console.log("\n%s ~ %s : %d days.",startdate,enddate,daycnt);
 }
 
 // Statistics of the food,water,med and their element in the given day
@@ -247,7 +286,7 @@ function fooddaysum(date,etable,ftable){
                     nametab = "\t";
                 }
                 // testlog: element detail
-                //if(e=="钙") console.log(food[id].amount+food[id].unit+"\t"+food[id].name+nametab+"含有"+item.amount.toFixed(8)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(8)+item.unit+"\t累计nrv:"+etable[e].nrv.toFixed(2)+"%");
+                if(e=="热量") console.log(food[id].amount+food[id].unit+"\t"+food[id].name+nametab+"含有"+item.amount.toFixed(8)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(8)+item.unit+"\t累计nrv:"+etable[e].nrv.toFixed(2)+"%");
             }
             delete food[id];
         } else {

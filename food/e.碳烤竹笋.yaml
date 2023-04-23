@@ -1,0 +1,20 @@
+name: 碳烤竹笋
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 84
+    unit: kj
+    nrv: 1
+  碳水化合物:
+    amount: 3.9
+    unit: g
+    nrv: 1
+  蛋白质:
+    amount: 1
+    unit: g
+    nrv: 2
+  钠:
+    amount: 43.8
+    unit: mg
+    nrv: 2
