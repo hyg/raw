@@ -1,0 +1,28 @@
+name: 脱脂奶粉
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 1.3
+    unit: g
+    nrv: 2
+  蛋白质:
+    amount: 32.6
+    unit: g
+    nrv: 54
+  热量:
+    amount: 1529
+    unit: kj
+    nrv: 18
+  碳水化合物:
+    amount: 54.5
+    unit: g
+    nrv: 18
+  钠:
+    amount: 450
+    unit: mg
+    nrv: 23
+  钙:
+    amount: 1000
+    unit: mg
+    nrv: 125

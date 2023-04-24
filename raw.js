@@ -89,7 +89,7 @@ function loadmap(){
         });
     } catch (e) {
         // failure
-        console.log("yaml read error！" + list[i] + e);
+        console.log("yaml read error！" + e);
     }
 
     /*
@@ -217,7 +217,9 @@ function showtables(){
             console.log(name + nametab + ftable[name].amount.toFixed(2) + amounttab + dayamount.toFixed(2) + "\t" + ftable[name].unit);
         }
     }
-    console.log("\n%s ~ %s : %d days.",startdate,enddate,daycnt);
+    if(daycnt > 1){
+        console.log("\n%s ~ %s : %d days.",startdate,enddate,daycnt);
+    }
 }
 
 // Statistics of the food,water,med and their element in the given day
@@ -286,7 +288,7 @@ function fooddaysum(date,etable,ftable){
                     nametab = "\t";
                 }
                 // testlog: element detail
-                if(e=="热量") console.log(food[id].amount+food[id].unit+"\t"+food[id].name+nametab+"含有"+item.amount.toFixed(8)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(8)+item.unit+"\t累计nrv:"+etable[e].nrv.toFixed(2)+"%");
+                if(e=="脂肪") console.log(food[id].amount+food[id].unit+"\t"+food[id].name+nametab+"含有"+item.amount.toFixed(8)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(8)+item.unit+"\t累计nrv:"+etable[e].nrv.toFixed(2)+"%");
             }
             delete food[id];
         } else {
