@@ -1,0 +1,35 @@
+date: 20230425
+sleep: 
+  time: 20230425075100
+  weight: 59.3
+wake:
+  time: 20230425152700
+  weight: 58.5
+  SpO2: 97
+  PRbpm: 91
+exercise: 
+- time: 20230425163500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 130
+  endheartrate: 97
+stool:
+- time: 20230426024500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 2   #	1:不困难;	2:困难
+comment: |+
+  醒之后在微信吵架了，闭目躺了一会心率也降不下来。
+  整个白天心率基本在90左右，稍微静一点能降到80多。
