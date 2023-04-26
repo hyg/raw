@@ -1,0 +1,125 @@
+date: 20230426
+food:
+  - time: 20230426162600
+    name: 番石榴
+    amount: 188.0
+    unit: g
+  - time: 20230426163200
+    name: 黑青稞
+    amount: 20.0
+    unit: g
+  - time: 20230426163200
+    name: 麦片
+    amount: 20.0
+    unit: g
+  - time: 20230426163200
+    name: 花青素杂粮
+    amount: 20.0
+    unit: g
+  - time: 20230426163200
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20230426163200
+    name: 灰枣
+    amount: 25.0
+    unit: g
+  - time: 20230426165300
+    name: 枸杞
+    amount: 5.0
+    unit: g
+  - time: 20230426165300
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20230426165300
+    name: 麦胚芽
+    amount: 6.0
+    unit: g
+  - time: 20230426170000
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20230426170000
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20230426204800
+    name: 大米
+    amount: 50.0
+    unit: g
+  - time: 20230426204800
+    name: 黑青稞
+    amount: 10.0
+    unit: g
+  - time: 20230426204800
+    name: 紫米
+    amount: 20.0
+    unit: g
+  - time: 20230426204800
+    name: 胡萝卜
+    amount: 117.5
+    unit: g
+  - time: 20230426204800
+    name: 小白菜
+    amount: 174.5
+    unit: g
+  - time: 20230426204800
+    name: 鮰鱼腩
+    amount: 76.0
+    unit: g
+  - time: 20230426204800
+    name: 低钠盐
+    amount: 1.5
+    unit: g
+  - time: 20230426212121
+    name: 脱脂奶粉
+    amount: 26.0
+    unit: g
+  - time: 20230426212121
+    name: 菊粉
+    amount: 7.5
+    unit: g
+water:
+  - time: 20230426150900
+    name: 开水
+    amount: 225
+    unit: ml
+  - time: 20230426170000
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20230426172300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230426185300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230426212121
+    name: 可可奶
+    amount: 100.0
+    unit: ml
+  - time: 20230426214600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230426223200
+    name: 开水
+    amount: 180
+    unit: ml
+med:
+  - time: 20230426223200
+    name: 维生素D3
+    amount: 125
+    unit: µg
+  - time: 20230426223200
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20230426223200
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+

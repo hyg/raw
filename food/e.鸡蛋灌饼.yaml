@@ -1,0 +1,24 @@
+name: 鸡蛋灌饼
+amount: 100
+unit: g
+element:
+  脂肪:
+    amount: 2.5
+    unit: g
+    nrv: 4
+  蛋白质:
+    amount: 7.7
+    unit: g
+    nrv: 13
+  热量:
+    amount: 1069
+    unit: kj
+    nrv: 13
+  碳水化合物:
+    amount: 49.8
+    unit: g
+    nrv: 17
+  钠:
+    amount: 254
+    unit: mg
+    nrv: 13
