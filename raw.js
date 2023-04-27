@@ -165,7 +165,8 @@ function foodyearlog(year) {
 
 // display the tables
 function showtables(){
-    console.log("\t\t\t成份表\n名称\t\t总数量\t\t日均\t单位\tNRV(%)");
+    console.log(">> 脂肪供热%d%%  碳水供热%d%%  蛋白质供热%d%% <<",(etable["脂肪"].amount*9.3*100/etable["热量"].amount).toFixed(2),(etable["碳水化合物"].amount*4*100/etable["热量"].amount).toFixed(2),(etable["蛋白质"].amount*4*100/etable["热量"].amount).toFixed(2));
+    console.log("名称\t\t总数量\t\t日均\t单位\tNRV(%)");
     let keysSorted = Object.keys(etable).sort(function (a, b) { return etable[a].nrv - etable[b].nrv })
 
     for (var i in keysSorted) {
@@ -288,7 +289,7 @@ function fooddaysum(date,etable,ftable){
                     nametab = "\t";
                 }
                 // testlog: element detail
-                if(e=="膳食纤维") console.log(food[id].amount+food[id].unit+"\t"+food[id].name+nametab+"含有"+item.amount.toFixed(8)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(8)+item.unit+"\t累计nrv:"+etable[e].nrv.toFixed(2)+"%");
+                if(e=="热量") console.log(food[id].amount+food[id].unit+"\t"+food[id].name+nametab+"含有"+item.amount.toFixed(8)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(8)+item.unit+"\t累计nrv:"+etable[e].nrv.toFixed(2)+"%");
             }
             delete food[id];
         } else {

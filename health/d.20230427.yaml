@@ -1,0 +1,37 @@
+date: 20230427
+sleep: 
+  time: 20230426224700
+  weight: 59.7
+wake:
+  time: 20230427040000
+  weight: 58.9
+  SpO2: 95
+  PRbpm: 74
+exercise: 
+- time: 20230427051600
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 94
+  PRbpm: 97
+  endheartrate: 86
+stool:
+- time: 20230427113000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  昨晚提前发困发冷，睡着前直到起来小便，身上发冷，体表温度低。睡到2点多自然醒，身上发热有汗。
+  断续回笼觉期间，侧卧出汗、仰卧消汗。可能和侧卧拿手机时肩肘关节不顺有关。
+  起床后后颈有落枕的疼痛，运动后蔓延到太阳穴。
+  午饭后实在太困，下午一点半谁到将近五点。
