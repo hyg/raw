@@ -1,0 +1,35 @@
+date: 20230428
+sleep: 
+  time: 20230428011800
+  weight: 58.9
+wake:
+  time: 20230428072100
+  weight: 58.5
+  SpO2: 95
+  PRbpm: 73
+exercise: 
+- time: 20230428082100
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 97
+  endheartrate: 62
+stool:
+- time: 20230428154500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  把脉时感觉有互相错开的几组跳动，只能按最浅层、力气最大的一组计数。
+  饭后犯困。

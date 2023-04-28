@@ -80,36 +80,35 @@ food:
     name: 青见
     amount: 206.5
     unit: g
-
-  - time: 20230427170000
+  - time: 20230427193500
     name: 大米
     amount: 50.0
     unit: g
-  - time: 20230427170000
+  - time: 20230427193500
     name: 黑青稞
     amount: 10.0
     unit: g
-  - time: 20230427170000
+  - time: 20230427193500
     name: 紫米
     amount: 20.0
     unit: g
-  - time: 20230427170000
+  - time: 20230427193500
     name: 胡萝卜
     amount: 54.0
     unit: g
-  - time: 20230427170000
+  - time: 20230427193500
     name: 芹菜
     amount: 235.0
     unit: g
-  - time: 20230427170000
+  - time: 20230427193500
     name: 卤水豆腐
     amount: 180.0
     unit: g
-  - time: 20230427170000
+  - time: 20230427193500
     name: 低钠盐
     amount: 1.5
     unit: g
-  - time: 20230427170000
+  - time: 20230427193500
     name: 油
     amount: 1.0
     unit: g
