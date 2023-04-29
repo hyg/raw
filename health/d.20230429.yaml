@@ -1,0 +1,36 @@
+date: 20230429
+sleep: 
+  time: 20230428231900
+  weight: 59.0
+wake:
+  time: 20230429081000
+  weight: 58.5
+  SpO2: 96
+  PRbpm: 69
+exercise: 
+- time: 20230429091000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 96
+  endheartrate: 94
+stool:
+- time: 20230429182000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  脉搏稍微清晰了一点，还是很微弱而且不同步。
+  不出门的热量升到1750千卡，体重位置59公斤。看看是否相关。
+  如果相关，再往下要用运动来实现，不能再减少摄入。

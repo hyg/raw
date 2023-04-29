@@ -1,0 +1,129 @@
+date: 20230429
+food:
+  - time: 20230429093300
+    name: 番石榴
+    amount: 144.5
+    unit: g
+  - time: 20230429093600
+    name: 黑青稞
+    amount: 20.0
+    unit: g
+  - time: 20230429093600
+    name: 麦片
+    amount: 20.0
+    unit: g
+  - time: 20230429093600
+    name: 花青素杂粮
+    amount: 20.0
+    unit: g
+  - time: 20230429093600
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20230429093600
+    name: 灰枣
+    amount: 27.5
+    unit: g
+  - time: 20230429095400
+    name: 枸杞
+    amount: 5.0
+    unit: 
+  - time: 20230429095400
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20230429095400
+    name: 麦胚芽
+    amount: 6.0
+    unit: g
+  - time: 20230429134500
+    name: 海虾
+    amount: 60.0
+    unit: g
+  - time: 20230429134500
+    name: 五花肉
+    amount: 60.0
+    unit: g
+  - time: 20230429134500
+    name: 牛里脊
+    amount: 50.0
+    unit: g
+  - time: 20230429134500
+    name: 低钠盐
+    amount: 3.0
+    unit: g
+  - time: 2023042965500
+    name: 许老八大黄米黑芝麻馅汤圆
+    amount: 158.0
+    unit: g  
+  - time: 20230429212500
+    name: 怀山药赤小豆薏米粉
+    amount: 41.0
+    unit: g
+  - time: 20230429212500
+    name: 脱脂奶粉
+    amount: 51.5
+    unit: g
+  - time: 20230429212500
+    name: 菊粉
+    amount: 12.0
+    unit: g
+  - time: 20230429212500
+    name: 小分子肽粉
+    amount: 2.5
+    unit: g
+  - time: 20230429213000
+    name: 椰枣
+    amount: 24.0
+    unit: g 
+  - time: 20230429233900
+    name: 青见
+    amount: 225.5
+    unit: g  
+water:
+  - time: 20230429081800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230429100100
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20230429133000
+    name: 汤水
+    amount: 500
+    unit: ml
+  - time: 20230429160000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230429165500
+    name: 汤水
+    amount: 450
+    unit: ml
+  - time: 20230429183200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230429193000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230429213600
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20230429224200
+    name: 开水
+    amount: 150
+    unit: ml
+med:
+  - time: 20230429213600
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230429213600
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+

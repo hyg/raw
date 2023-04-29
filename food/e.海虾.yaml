@@ -1,0 +1,72 @@
+name: 海虾
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 333
+    unit: kj
+    nrv: 3
+  碳水化合物:
+    amount: 1.5
+    unit: g
+    nrv: 0.5
+  蛋白质:
+    amount: 16.8
+    unit: g
+    nrv: 25.8
+  脂肪:
+    amount: 0.6
+    unit: g
+    nrv: 1
+  钠:
+    amount: 302.2
+    unit: mg
+    nrv: 20.1
+  钙:
+    amount: 146
+    unit: mg
+    nrv: 18.25
+  磷:
+    amount: 196
+    unit: mg
+    nrv: 27.2
+  钾:
+    amount: 228
+    unit: mg
+    nrv: 11.4
+  镁:
+    amount: 46
+    unit: mg
+    nrv: 13.9
+  铁:
+    amount: 3
+    unit: mg
+    nrv: 25
+  锌:
+    amount: 1.44
+    unit: mg
+    nrv: 11.5
+  硒:
+    amount: 56.4
+    unit: μg
+    nrv: 94
+  铜:
+    amount: 0.44
+    unit: mg
+    nrv: 55
+  锰:
+    amount: 0.11
+    unit: mg
+    nrv: 2.4
+  维生素B1:
+    amount: 0.01
+    unit: mg
+    nrv: 0.7
+  维生素B2:
+    amount: 0.05
+    unit: mg
+    nrv: 3.6
+  维生素B3:
+    amount: 1.9
+    unit: mg
+    nrv: 15.8
