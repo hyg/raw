@@ -1,0 +1,24 @@
+name: 后腿腊肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1613
+    unit: kj
+    nrv: 19
+  碳水化合物:
+    amount: 11.8
+    unit: g
+    nrv: 4
+  蛋白质:
+    amount: 19.5
+    unit: g
+    nrv: 33
+  脂肪:
+    amount: 68
+    unit: g
+    nrv: 49
+  钠:
+    amount: 1900
+    unit: mg
+    nrv: 95

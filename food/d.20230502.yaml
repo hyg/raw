@@ -1,0 +1,70 @@
+date: 20230502
+food:
+  - time: 20230501143200
+    name: 杏鲍菇
+    amount: 73.0
+    unit: g
+  - time: 20230501143200
+    name: 鸡腿肉
+    amount: 77.5
+    unit: g
+  - time: 20230501143200
+    name: 西兰花
+    amount: 93.0
+    unit: g
+  - time: 20230501143200
+    name: 芹菜
+    amount: 154.5
+    unit: g
+  - time: 20230501143200
+    name: 低钠盐
+    amount: 1.0
+    unit: g
+water:
+  - time: 20230502131100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230502145700
+    name: 咖啡
+    amount: 81.5
+    unit: ml
+  - time: 20230502153400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230502163300
+    name: 开水
+    amount: 250
+    unit: ml
+
+  - time: 20230502150800
+    name: 牛奶
+    amount: 83.0
+    unit: ml
+  - time: 20230502161300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230502190000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230502200000
+    name: 汤水
+    amount: 500
+    unit: ml
+  - time: 20230502234400
+    name: 开水
+    amount: 150
+    unit: ml
+med:
+  - time: 20230502234400
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230502234400
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
