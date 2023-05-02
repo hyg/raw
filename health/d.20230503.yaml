@@ -1,14 +1,14 @@
-date: 20230502
+date: 20230503
 sleep: 
-  time: 20230502073900
+  time: 20230503073900
   weight: 59.4
 wake:
-  time: 20230502130000
+  time: 20230503130000
   weight: 58.9
   SpO2: 96
   PRbpm: 66
 exercise: 
-- time: 20230502132000
+- time: 20230503132000
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -26,7 +26,7 @@ exercise:
   PRbpm: 98
   endheartrate: 91
 stool:
-- time: 20230502143400
+- time: 20230503143400
   amount:   1   #	1:多; 2:适中;	3:少
   type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难

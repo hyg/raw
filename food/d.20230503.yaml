@@ -1,0 +1,204 @@
+date: 20230503
+food:
+  - time: 20230503134300
+    name: 青见
+    amount: 188.0
+    unit: g
+  
+  - time: 20230503134900
+    name: 黑青稞
+    amount: 20.0
+    unit: g
+  - time: 20230503134900
+    name: 麦片
+    amount: 20.0
+    unit: g
+  - time: 20230503134900
+    name: 花青素杂粮
+    amount: 20.0
+    unit: g
+  - time: 20230503134900
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20230503134900
+    name: 灰枣
+    amount: 23.5
+    unit: g
+
+  - time: 20230503141000
+    name: 枸杞
+    amount: 5.0
+    unit: 
+  - time: 20230503141000
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20230503141000
+    name: 麦胚芽
+    amount: 6.0
+    unit: g
+
+  - time: 20230503141600
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20230503141600
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  
+
+  - time: 20230503134900
+    name: 大米
+    amount: 20.0
+    unit: g
+  - time: 20230503134900
+    name: 生菜
+    amount: 120.0
+    unit: g
+  - time: 20230503134900
+    name: 鸡蛋
+    amount: 50.0
+    unit: g
+  - time: 20230503134900
+    name: 低钠盐
+    amount: 1.5
+    unit: g
+
+  - time: 20230503134900
+    name: 大米
+    amount: 40.0
+    unit: g
+  - time: 20230503134900
+    name: 麦片
+    amount: 3.0
+    unit: g
+  - time: 20230503134900
+    name: 紫米
+    amount: 20.0
+    unit: g
+  - time: 20230503134900
+    name: 杏鲍菇
+    amount: 70.0
+    unit: g
+  - time: 20230503134900
+    name: 菜心
+    amount: 50.0
+    unit: g
+  - time: 20230503134900
+    name: 小白菜
+    amount: 120.0
+    unit: g
+  - time: 20230503134900
+    name: 西兰花
+    amount: 100
+    unit: g
+  - time: 20230503134900
+    name: 鸡腿肉
+    amount: 70
+    unit: g
+  - time: 20230503134900
+    name: 低钠盐
+    amount: 2.0
+    unit: g
+  - time: 20230503134900
+    name: 油
+    amount: 1.0
+    unit: g
+
+  - time: 2023043183900
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 2023043183900
+    name: 可可粉
+    amount: 4.0
+    unit: g
+
+  - time: 20230503134900
+    name: 荞麦面
+    amount: 70.0
+    unit: g
+  - time: 20230503134900
+    name: 生菜
+    amount: 100.0
+    unit: g
+  - time: 20230503134900
+    name: 木耳
+    amount: 10.0
+    unit: g
+  - time: 20230503134900
+    name: 豆瓣酱
+    amount: 10.0
+    unit: g
+  - time: 20230503134900
+    name: 油
+    amount: 1
+    unit: g
+
+  - time: 20230503134900
+    name: 脱脂奶粉
+    amount: 25
+    unit: g
+  - time: 20230503134900
+    name: 菊粉
+    amount: 5
+    unit: g
+
+  - time: 20230503134900
+    name: 胡柚
+    amount: 200
+    unit: g
+water:
+  - time: 20230503130600
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20230503141600
+    name: 咖啡
+    amount: 83.5
+    unit: ml
+  - time: 20230503144200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230503155000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230503183900
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20230503203000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230503215500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230503233000
+    name: 汤水
+    amount: 385.5
+    unit: ml
+  - time: 20230503005800
+    name: 开水
+    amount: 250
+    unit: ml
+  
+  - time: 20230503051400
+    name: 开水
+    amount: 150
+    unit: ml
+med:
+  - time: 20230503005800
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230503005800
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
