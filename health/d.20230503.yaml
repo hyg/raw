@@ -1,14 +1,14 @@
 date: 20230503
 sleep: 
-  time: 20230503073900
-  weight: 59.4
+  time: 20230503050200
+  weight: 59.3
 wake:
-  time: 20230503130000
-  weight: 58.9
-  SpO2: 96
+  time: 20230503144500
+  weight: 58.5
+  SpO2: 94
   PRbpm: 66
 exercise: 
-- time: 20230503132000
+- time: 20230503150000
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -22,15 +22,14 @@ exercise:
   - type: pilates.p79
     amount: 5
     unit: turn
-  SpO2: 97
-  PRbpm: 98
-  endheartrate: 91
+  SpO2: 96
+  PRbpm: 97
+  endheartrate: 85
 stool:
-- time: 20230503143400
+- time: 20230503160500
   amount:   1   #	1:多; 2:适中;	3:少
   type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 comment: |+
-  睡五小时左右醒。继续喝菊花茶。
-  嘴唇破了，一用凡士林就好、一断凡士林就再破。右侧牙龈和下巴淋巴已经好了。
-  实验一下：喝150ml水在20分钟后可以运动。
+  再测试一下起床后6分钟喝75ml水，起床15分钟后开始运动。37分钟后吃水果，40分钟后吃早餐，60分钟后吃混合油籽，68分钟后喝咖啡，75分钟后完毕。
+  浮脉很是很轻，按压到中间出现比较轻的脉搏，倒是没有互相错开的几种跳动了。

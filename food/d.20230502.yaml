@@ -27,7 +27,7 @@ food:
   - time: 20230502141000
     name: 枸杞
     amount: 5.0
-    unit: 
+    unit: g
   - time: 20230502141000
     name: 亚麻籽
     amount: 5.0
@@ -145,10 +145,9 @@ water:
     name: 开水
     amount: 250
     unit: ml
-  
-  - time: 20230502051400
+  - time: 20230503043200
     name: 开水
-    amount: 150
+    amount: 120
     unit: ml
 med:
   - time: 20230503005800
