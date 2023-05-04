@@ -1,0 +1,35 @@
+date: 20230504
+sleep: 
+  time: 20230504060500
+  weight: 59.3
+wake:
+  time: 20230504140000
+  weight: 58.5
+  SpO2: 95
+  PRbpm: 63
+exercise: 
+- time: 20230504141500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 96
+  endheartrate: 87
+stool:
+- time: 20230504153400
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  10：50左右醒了一次，回笼觉也有3小时。
+  运动后脉搏相对清晰，在中、浅深度来回漂移，但没有互相错开的多个脉搏。

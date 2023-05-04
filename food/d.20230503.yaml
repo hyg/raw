@@ -4,23 +4,23 @@ food:
     name: 青见
     amount: 188.0
     unit: g  
-  - time: 20230503230000
+  - time: 20230503152500
     name: 黑青稞
     amount: 20.0
     unit: g
-  - time: 20230503230000
+  - time: 20230503152500
     name: 麦片
     amount: 20.0
     unit: g
-  - time: 20230503230000
+  - time: 20230503152500
     name: 花青素杂粮
     amount: 20.0
     unit: g
-  - time: 20230503230000
+  - time: 20230503152500
     name: 绿豆
     amount: 10.0
     unit: g
-  - time: 20230503230000
+  - time: 20230503152500
     name: 灰枣
     amount: 23.5
     unit: g
