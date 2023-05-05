@@ -22,11 +22,11 @@ element:
     amount: 1.3
     unit: g
     nrv: 5.2
-  硫胺素:
+  维生素B1:
     amount: 40
     unit: µg
     nrv: 2.86
-  核黄素:
+  维生素B2:
     amount: 40
     unit: µg
     nrv: 2.86

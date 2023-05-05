@@ -38,7 +38,7 @@ element:
     amount: 2
     unit: mg
     nrv: 118
-  叶酸:
+  维生素B9:
     amount: 500
     unit: µg
     nrv: 208
@@ -46,11 +46,11 @@ element:
     amount: 6
     unit: µg
     nrv: 250
-  生物素:
+  维生素B7:
     amount: 30
     unit: µg
     nrv: 100
-  泛酸:
+  维生素B5:
     amount: 10
     unit: mg
     nrv: 200

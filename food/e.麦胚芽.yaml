@@ -74,11 +74,11 @@ element:
     amount: 22
     unit: mg
     nrv: 157.14
-  泛酸:
+  维生素B5:
     amount: 800
     unit: µg
     nrv: 16
-  叶酸:
+  维生素B9:
     amount: 500
     unit: µg
     nrv: 125

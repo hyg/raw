@@ -78,7 +78,7 @@ element:
     amount: 0.05
     unit: mg
     nrv: 1.67
-  叶酸:
+  维生素B9:
     amount: 6.8
     unit: µg
     nrv: 1.7

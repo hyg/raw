@@ -1,0 +1,68 @@
+name: 百香果
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 97
+    unit: kcal
+    nrv: 5
+  碳水化合物:
+    amount: 23.38
+    unit: g
+    nrv: 8
+  蛋白质:
+    amount: 2.2
+    unit: g
+    nrv: 4
+  脂肪:
+    amount: 0.7
+    unit: g
+    nrv: 1
+  膳食纤维:
+    amount: 10.4
+    unit: g
+    nrv: 35
+  维生素A:
+    amount: 175
+    unit: μg
+    nrv: 20
+  维生素C:
+    amount: 30
+    unit: mg
+    nrv: 30
+  维生素E:
+    amount: 0.65
+    unit: mg
+    nrv: 4
+  钾:
+    amount: 348
+    unit: mg
+    nrv: 17
+  钙:
+    amount: 12
+    unit: mg
+    nrv: 1
+  镁:
+    amount: 29
+    unit: mg
+    nrv: 7
+  铁:
+    amount: 0.7
+    unit: mg
+    nrv: 4
+  锌:
+    amount: 0.1
+    unit: mg
+    nrv: 1
+  铜:
+    amount: 0.086
+    unit: mg
+    nrv: 9
+  锰:
+    amount: 0.15
+    unit: mg
+    nrv: 8
+  硒:
+    amount: 0.6
+    unit: μg
+    nrv: 1

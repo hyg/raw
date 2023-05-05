@@ -19,9 +19,9 @@ element:
     unit: g
     nrv: 2.4
   膳食纤维:
-    amount: 10.7
+    amount: 6.4
     unit: g
-    nrv: 31.7
+    nrv: 21.3
   维生素A:
     amount: 0
     unit: "µg"

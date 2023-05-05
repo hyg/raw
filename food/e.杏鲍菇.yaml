@@ -74,11 +74,11 @@ element:
     amount: 0.04
     unit: mg
     nrv: 1.33
-  叶酸:
+  维生素B9:
     amount: 42.8
     unit: µg
     nrv: 10.7
-  尼克酸:
+  维生素B3:
     amount: 3.68
     unit: µg
     nrv: 26.29

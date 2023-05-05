@@ -92,7 +92,6 @@ food:
     name: 菊粉
     amount: 13
     unit: g
-
   - time: 20230504224500
     name: 荞麦面
     amount: 74.5
@@ -160,7 +159,11 @@ water:
     unit: ml  
   - time: 20230504234800
     name: 开水
-    amount: 150
+    amount: 250
+    unit: ml
+  - time: 20230505021700
+    name: 开水
+    amount: 50
     unit: ml
 med:
   - time: 20230504234800
