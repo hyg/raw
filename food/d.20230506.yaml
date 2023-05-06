@@ -1,0 +1,161 @@
+date: 20230506
+food:
+  - time: 20230506094300
+    name: 青见
+    amount: 193.5
+    unit: g
+  - time: 20230506094700
+    name: 黑青稞
+    amount: 10.0
+    unit: g
+  - time: 20230506094700
+    name: 麦片
+    amount: 20.0
+    unit: g
+  - time: 20230506094700
+    name: 花青素杂粮
+    amount: 20.0
+    unit: g
+  - time: 20230506094700
+    name: 绿豆
+    amount: 20.0
+    unit: g
+  - time: 20230506094700
+    name: 灰枣
+    amount: 25.0
+    unit: g
+  - time: 20230506100700
+    name: 枸杞
+    amount: 5.0
+    unit: g
+  - time: 20230506100700
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20230506100700
+    name: 麦胚芽
+    amount: 6.0
+    unit: g
+  - time: 20230506101500
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20230506101500
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20230506132000
+    name: 土豆
+    amount: 266.5
+    unit: g
+  - time: 20230506132000
+    name: 油
+    amount: 1.5
+    unit: g
+  - time: 20230506132000
+    name: 杏鲍菇
+    amount: 118.0
+    unit: g
+  - time: 20230506132000
+    name: 芹菜
+    amount: 398.5
+    unit: g
+  - time: 20230506132000
+    name: 鸡腿肉
+    amount: 83.5
+    unit: g
+  - time: 20230506132000
+    name: 低钠盐
+    amount: 1.5
+    unit: g
+  - time: 20230506132000
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20230506141100
+    name: 脱脂奶粉
+    amount: 25.0
+    unit: g
+  - time: 20230506141100
+    name: 胶原蛋白肽粉
+    amount: 3.0
+    unit: g
+  - time: 20230506170000
+    name: 怀山药赤小豆薏米粉
+    amount: 20.5
+    unit: g
+  - time: 20230506170500
+    name: 椰枣
+    amount: 17.0
+    unit: g
+  - time: 20230506183000
+    name: 方便面
+    amount: 61.0
+    unit: g
+  - time: 20230506183000
+    name: 鸡蛋
+    amount: 50.5
+    unit: g
+  - time: 20230506183000
+    name: 单山蘸水
+    amount: 2.5
+    unit: g
+  - time: 20230506184800
+    name: 胡柚
+    amount: 165.0
+    unit: g
+water:
+  - time: 20230506090600
+    name: 开水
+    amount: 90
+    unit: ml
+  - time: 20230506101500
+    name: 咖啡
+    amount: 81.5
+    unit: ml
+  - time: 20230506105200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230506112500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230506123800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230506141100
+    name: 牛奶
+    amount: 80.5
+    unit: ml
+  - time: 20230506143800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230506171200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230506183000
+    name: 汤水
+    amount: 300
+    unit: ml
+  - time: 20230506204200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230506213000
+    name: 开水
+    amount: 190
+    unit: ml
+med:
+  - time: 20230506204200
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230506204200
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
