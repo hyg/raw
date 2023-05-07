@@ -1,14 +1,14 @@
-date: 20230506
+date: 20230507
 sleep: 
-  time: 20230506013400
-  weight: 59.3
+  time: 20230506230700
+  weight: 59.4
 wake:
-  time: 20230506090000
-  weight: 58.9
-  SpO2: 94
-  PRbpm: 59
+  time: 20230507083000
+  weight: 58.7
+  SpO2: 96
+  PRbpm: 56
 exercise: 
-- time: 20230506091500
+- time: 20230507084500
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -23,13 +23,13 @@ exercise:
     amount: 5
     unit: turn
   SpO2: 97
-  PRbpm: 86
-  endheartrate: 83
+  PRbpm: 81
+  endheartrate: 76
 stool:
-- time: 20230506110400
-  amount:   2   #	1:多; 2:适中;	3:少
+- time: 20230507163000
+  amount:   1   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
-  diffcult: 1   #	1:不困难;	2:困难
+  diffcult: 2   #	1:不困难;	2:困难
 comment: |+
-  7点多热醒，没有回笼觉。
-  把脉时不仅前后位置要准，横向微调也有明显不同。
+  3点半自然醒，4点多开始回笼觉。天亮之后觉得热。
+  开始运动时觉得有些乏。

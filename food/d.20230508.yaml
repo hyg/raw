@@ -1,0 +1,67 @@
+date: 20230508
+food:
+  - time: 20230508134900
+    name: 低钠盐
+    amount: 1.5
+    unit: g
+  - time: 20230508132000
+    name: 土豆
+    amount: 115
+    unit: g
+  - time: 20230508134900
+    name: 鸡蛋
+    amount: 50.0
+    unit: g
+
+water:
+  - time: 20230508083700
+    name: 开水
+    amount: 75
+    unit: ml
+  - time: 20230508094300
+    name: 咖啡
+    amount: 81.0
+    unit: ml
+  
+  - time: 20230508105200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230508112500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230508123800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230508141100
+    name: 牛奶
+    amount: 80.5
+    unit: ml
+  - time: 20230508143800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230508171200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230508204200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230508213000
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20230508204200
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230508204200
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+

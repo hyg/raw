@@ -1,0 +1,68 @@
+name: 娃娃菜
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 13
+    unit: kcal
+    nrv: 1
+  碳水化合物:
+    amount: 2.2
+    unit: g
+    nrv: 1
+  蛋白质:
+    amount: 1.7
+    unit: g
+    nrv: 3
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0
+  膳食纤维:
+    amount: 1.4
+    unit: g
+    nrv: 6
+  维生素A:
+    amount: 8
+    unit: μg
+    nrv: 1
+  维生素C:
+    amount: 12
+    unit: mg
+    nrv: 12
+  维生素E:
+    amount: 0.5
+    unit: mg
+    nrv: 4
+  碘:
+    amount: 3
+    unit: μg
+    nrv: 2
+  钙:
+    amount: 70
+    unit: mg
+    nrv: 7
+  钾:
+    amount: 278
+    unit: mg
+    nrv: 13.9
+  铁:
+    amount: 0.4
+    unit: mg
+    nrv: 3.3
+  锌:
+    amount: 0.5
+    unit: mg
+    nrv: 5
+  硒:
+    amount: 0.2
+    unit: μg
+    nrv: 0.3
+  钼:
+    amount: 6
+    unit: μg
+    nrv: 13
+  叶酸:
+    amount: 80
+    unit: μg
+    nrv: 20
