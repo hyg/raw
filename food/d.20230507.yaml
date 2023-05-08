@@ -96,7 +96,6 @@ food:
     name: 胶原蛋白肽粉
     amount: 3.0
     unit: g
-
   - time: 20230507194500
     name: 大米
     amount: 20

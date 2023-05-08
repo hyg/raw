@@ -1,14 +1,14 @@
 date: 20230508
 sleep: 
-  time: 20230507230700
-  weight: 59.4
+  time: 20230507222900
+  weight: 59.1
 wake:
-  time: 20230508083000
-  weight: 58.7
+  time: 20230508080000
+  weight: 58.4
   SpO2: 96
-  PRbpm: 56
+  PRbpm: 60
 exercise: 
-- time: 20230508084500
+- time: 20230508081700
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -23,13 +23,13 @@ exercise:
     amount: 5
     unit: turn
   SpO2: 97
-  PRbpm: 81
-  endheartrate: 76
+  PRbpm: 78
+  endheartrate: 88
 stool:
-- time: 20230508110400
-  amount:   2   #	1:多; 2:适中;	3:少
-  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+- time: 20230508164000
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 comment: |+
-  3点半自然醒，4点多开始回笼觉。天亮之后觉得热。
-  开始运动时觉得有些乏。
+  3点半醒一次，然后回笼觉。
+  起床后只穿短袖polo，直到早餐1结束刷牙后才穿长袖外套。左侧后腰着凉有些疼。
