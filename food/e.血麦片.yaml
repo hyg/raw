@@ -1,0 +1,20 @@
+name: 血麦片
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1449
+    unit: kj
+    nrv: 17
+  碳水化合物:
+    amount: 58.6
+    unit: g
+    nrv: 20
+  蛋白质:
+    amount: 16.5
+    unit: g
+    nrv: 28
+  脂肪:
+    amount: 2.2
+    unit: g
+    nrv: 4

@@ -1,0 +1,67 @@
+date: 20230510
+food:
+  - time: 20230510113700
+    name: 鸡蛋
+    amount: 300.0
+    unit: g
+  - time: 20230510114000
+    name: 猪肉
+    amount: 300.0
+    unit: g
+  - time: 20230510114000
+    name: 鲷鱼
+    amount: 300.0
+    unit: g
+
+water:
+  - time: 20230510110600
+    name: 开水
+    amount: 85
+    unit: ml
+  - time: 20230510121300
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20230510125000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230510134100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230510142000
+    name: 开水
+    amount: 250
+    unit: ml
+
+  - time: 20230510172400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230510190000
+    name: 汤水
+    amount: 250
+    unit: ml
+  - time: 20230510200000
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20230510211300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230510215800
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20230510211300
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230510211300
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
