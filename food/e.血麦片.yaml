@@ -18,3 +18,47 @@ element:
     amount: 2.2
     unit: g
     nrv: 4
+  膳食纤维:
+    amount: 3.3
+    unit: g
+    nrv: 14
+  钙:
+    amount: 8
+    unit: mg
+    nrv: 1
+  铁:
+    amount: 2.5
+    unit: mg
+    nrv: 14
+  钾:
+    amount: 160
+    unit: mg
+    nrv: 8
+  锌:
+    amount: 1.1
+    unit: mg
+    nrv: 7
+  硒:
+    amount: 11.6
+    unit: μg
+    nrv: 21
+  维生素B1:
+    amount: 0.2
+    unit: mg
+    nrv: 15
+  维生素B2:
+    amount: 0.1
+    unit: mg
+    nrv: 7
+  维生素B6:
+    amount: 0.2
+    unit: mg
+    nrv: 15
+  维生素E:
+    amount: 0.1
+    unit: mg
+    nrv: 1
+  维生素K:
+    amount: 0.1
+    unit: μg
+    nrv: 0

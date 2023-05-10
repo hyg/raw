@@ -150,7 +150,7 @@ water:
     amount: 250
     unit: ml
   - time: 20230509184200
-    name: 可可奶
+    name: 牛奶
     amount: 81.0
     unit: ml
   - time: 20230509191100
