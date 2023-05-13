@@ -1,0 +1,112 @@
+name: 鹌鹑蛋
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 160
+    unit: kcal
+    nrv: 8
+  碳水化合物:
+    amount: 0.6
+    unit: g
+    nrv: 0
+  蛋白质:
+    amount: 13.6
+    unit: g
+    nrv: 23
+  脂肪:
+    amount: 11.2
+    unit: g
+    nrv: 19
+  钠:
+    amount: 140
+    unit: mg
+    nrv: 7
+  胆固醇:
+    amount: 515
+    unit: mg
+    nrv: 172
+  维生素A:
+    amount: 337
+    unit: μg
+    nrv: 42
+  维生素D:
+    amount: 2.2
+    unit: μg
+    nrv: 22
+  维生素E:
+    amount: 1.8
+    unit: mg
+    nrv: 12
+  维生素K:
+    amount: 0.1
+    unit: μg
+    nrv: 0
+  维生素B1:
+    amount: 0.11
+    unit: mg
+    nrv: 9
+  维生素B2:
+    amount: 0.3
+    unit: mg
+    nrv: 18
+  维生素B6:
+    amount: 0.2
+    unit: mg
+    nrv: 10
+  维生素B12:
+    amount: 1.9
+    unit: μg
+    nrv: 32
+  维生素B3:
+    amount: 0.1
+    unit: mg
+    nrv: 0.7
+  维生素B9:
+    amount: 20
+    unit: μg
+    nrv: 5
+  维生素B5:
+    amount: 1
+    unit: mg
+    nrv: 17
+  维生素H:
+    amount: 4.5
+    unit: μg
+    nrv: 15
+  钙:
+    amount: 47
+    unit: mg
+    nrv: 4.7
+  磷:
+    amount: 180
+    unit: mg
+    nrv: 25
+  钾:
+    amount: 138
+    unit: mg
+    nrv: 6.9
+  镁:
+    amount: 12
+    unit: mg
+    nrv: 3
+  铁:
+    amount: 2.8
+    unit: mg
+    nrv: 19
+  锌:
+    amount: 1.1
+    unit: mg
+    nrv: 11
+  铜:
+    amount: 0.1
+    unit: mg
+    nrv: 8
+  锰:
+    amount: 0.1
+    unit: mg
+    nrv: 4
+  硒:
+    amount: 13.5
+    unit: μg
+    nrv: 25

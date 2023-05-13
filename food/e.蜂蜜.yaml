@@ -3,29 +3,17 @@ amount: 100
 unit: g
 element:
   热量:
-    amount: 304
+    amount: 316
     unit: kcal
-    nrv: 15
+    nrv: 16
   碳水化合物:
-    amount: 82.4
+    amount: 68
     unit: g
-    nrv: 27
-  膳食纤维:
-    amount: 0
-    unit: g
-    nrv: 0
-  蛋白质:
-    amount: 0.3
-    unit: g
-    nrv: 1
-  脂肪:
-    amount: 0
-    unit: g
-    nrv: 0
+    nrv: 23
   钠:
-    amount: 4
+    amount: 106
     unit: mg
-    nrv: 0
+    nrv: 5
   钙:
     amount: 6
     unit: mg
