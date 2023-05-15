@@ -1,0 +1,45 @@
+name: 安康鱼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 127
+    unit: kcal
+    nrv: 6
+  蛋白质:
+    amount: 20.8
+    unit: g
+    nrv: 35
+  脂肪:
+    amount: 4.2
+    unit: g
+    nrv: 7
+  钠:
+    amount: 70
+    unit: mg
+    nrv: 4
+  钙:
+    amount: 21
+    unit: mg
+    nrv: 2
+  磷:
+    amount: 294
+    unit: mg
+    nrv: 42
+  铁:
+    amount: 0.7
+    unit: mg
+    nrv: 5
+  硒:
+    amount: 25.2
+    unit: μg
+    nrv: 36
+  维生素A:
+    amount: 32
+    unit: μg RE
+    nrv: 4
+  维生素E:
+    amount: 0.34
+    unit: mg
+    nrv: 3
+

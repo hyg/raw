@@ -1,0 +1,68 @@
+name: 黄瓜
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 15
+    unit: kcal
+    nrv: 1
+  膳食纤维:
+    amount: 0.8
+    unit: g
+    nrv: 3
+  碳水化合物:
+    amount: 2.8
+    unit: g
+    nrv: 1
+  蛋白质:
+    amount: 0.8
+    unit: g
+    nrv: 1
+  脂肪:
+    amount: 0.1
+    unit: g
+    nrv: 0
+  钙:
+    amount: 16
+    unit: mg
+    nrv: 2
+  镁:
+    amount: 13
+    unit: mg
+    nrv: 3
+  铁:
+    amount: 0.3
+    unit: mg
+    nrv: 2
+  锰:
+    amount: 0.1
+    unit: mg
+    nrv: 3
+  锌:
+    amount: 0.2
+    unit: mg
+    nrv: 2
+  维生素C:
+    amount: 2.8
+    unit: mg
+    nrv: 3
+  胡萝卜素:
+    amount: 16
+    unit: μg
+    nrv: 2
+  叶酸:
+    amount: 7
+    unit: μg
+    nrv: 2
+  钾:
+    amount: 147
+    unit: mg
+    nrv: 4
+  磷:
+    amount: 24
+    unit: mg
+    nrv: 3
+  硒:
+    amount: 0.1
+    unit: μg
+    nrv: 0

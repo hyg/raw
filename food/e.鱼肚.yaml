@@ -1,0 +1,64 @@
+name: 鱼肚
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 127
+    unit: kcal
+    nrv: 6
+  蛋白质:
+    amount: 16.9
+    unit: g
+    nrv: 28
+  脂肪:
+    amount: 6.8
+    unit: g
+    nrv: 11
+  钠:
+    amount: 800
+    unit: mg
+    nrv: 40
+  钙:
+    amount: 100
+    unit: mg
+    nrv: 10
+  镁:
+    amount: 35
+    unit: mg
+    nrv: 9
+  铁:
+    amount: 2.3
+    unit: mg
+    nrv: 16
+  锌:
+    amount: 0.8
+    unit: mg
+    nrv: 8
+  硒:
+    amount: 27.6
+    unit: μg
+    nrv: 50
+  维生素D:
+    amount: 0.3
+    unit: μg
+    nrv: 6
+  维生素E:
+    amount: 2.8
+    unit: mg
+    nrv: 28
+  维生素B1:
+    amount: 0.04
+    unit: mg
+    nrv: 3
+  维生素B2:
+    amount: 0.14
+    unit: mg
+    nrv: 9
+  维生素B6:
+    amount: 0.14
+    unit: mg
+    nrv: 9
+  维生素B12:
+    amount: 0.9
+    unit: μg
+    nrv: 38
