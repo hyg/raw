@@ -1,0 +1,36 @@
+date: 20230516
+sleep: 
+  time: 20230516032100
+  weight: 58.9
+wake:
+  time: 20230516123000
+  weight: 58.1
+  SpO2: 96
+  PRbpm: 65
+exercise: 
+- time: 20230516125000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 96
+  PRbpm: 91
+  endheartrate: 89
+stool:
+- time: 20230516202500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  5点、7点、9点醒过，7点有小便。5、7点两次左侧臀、腿、脚趾、右侧外侧脚趾、内侧膝盖疼，触摸时疼痛范围扩大到肚腩皮肤。
+  醒来时身上皮肤是凉的，温度比手掌低。可能立夏换被子不能一次换到四季被，应该换到（四季被+空调被）。
+  心率提高了。
