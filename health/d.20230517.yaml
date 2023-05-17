@@ -1,0 +1,37 @@
+date: 20230516
+sleep: 
+  time: 20230516052600
+  weight: 59.0
+wake:
+  time: 20230516133000
+  weight: 58.0
+  SpO2: 94
+  PRbpm: 69
+exercise: 
+- time: 20230516134500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 96
+  PRbpm: 105
+  endheartrate: 104
+stool:
+- time: 20230518020000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  7、9、11点醒过。三次都小便，9点补充150ml水。
+  起床时，水痘没有扩大增多。左脚掌和左胯还有些疼，但是不明显。
+  检查了内衣内裤盒子，没有污染。
+  从干衣机中取衣服时觉得燥热，水痘扩大增多。需要荫凉。
