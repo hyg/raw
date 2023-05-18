@@ -1,0 +1,37 @@
+date: 20230516
+sleep: 
+  time: 20230516040800
+  weight: 59.4
+wake:
+  time: 20230516130800
+  weight: 58.1
+  SpO2: 95
+  PRbpm: 65
+exercise: 
+- time: 20230516132300
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 96
+  PRbpm: 91
+  endheartrate: 95
+stool:
+- time: 202305181503000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  每隔一两小时醒一次，每次都小便，其中一次补充250ml水。
+  睡前涂了阿昔洛韦凝胶，吃了200mg阿昔洛韦片，睡时不压着水痘基本不疼，小脚趾跟和脚掌外沿有些疼。可能是痛风，也可能是水痘病毒在体内发作。醒来时水痘面积没有扩大，红疹有蔓延，已有水痘在增大、互相连通。早饭后感到水痘内部水压增加，有红疹部位开始出现新的小水痘。
+  暂时按最保守的剂量，每12小时200mg阿昔洛韦片，外用的凝胶按三小时左右一次。
+  左股坐着的时候基本不疼，昨天骨头疼。

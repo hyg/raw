@@ -1,0 +1,193 @@
+date: 20230518
+food:
+  - time: 20230518134600
+    name: 青见
+    amount: 203.0
+    unit: g
+  - time: 20230518134800
+    name: 黑青稞
+    amount: 20.0
+    unit: g
+  - time: 20230518134800
+    name: 血麦片
+    amount: 20.0
+    unit: g
+  - time: 20230518134800
+    name: 花青素杂粮
+    amount: 20.0
+    unit: g
+  - time: 20230518134800
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20230518134800
+    name: 灰枣
+    amount: 24.5
+    unit: g
+  - time: 20230518140900
+    name: 枸杞
+    amount: 5.0
+    unit: g
+  - time: 20230518140900
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20230518140900
+    name: 麦胚芽
+    amount: 6.0
+    unit: g
+  - time: 20230518141700
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20230518141700
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20230518153000
+    name: 土豆
+    amount: 80.5
+    unit: g
+  - time: 20230518153000
+    name: 鹌鹑蛋
+    amount: 36.5
+    unit: g
+  - time: 20230518153000
+    name: 低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20230518153000
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20230518201500
+    name: 大米
+    amount: 50.0
+    unit: g
+  - time: 20230518201500
+    name: 血麦片
+    amount: 30.0
+    unit: g
+  - time: 20230518201500
+    name: 杏鲍菇
+    amount: 95.5
+    unit: g
+  - time: 20230518201500
+    name: 蛋饺
+    amount: 59.0
+    unit: g
+  - time: 20230518201500
+    name: 小白菜
+    amount: 249.0
+    unit: g
+  - time: 20230518201500
+    name: 低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20230518201500
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20230518235700
+    name: 胡柚
+    amount: 161.5
+    unit: g
+  - time: 20230519004500
+    name: 大米
+    amount: 60.0
+    unit: g
+  - time: 20230519004500
+    name: 生菜
+    amount: 75.5
+    unit: g
+  - time: 20230519004500
+    name: 鸡蛋
+    amount: 45.0
+    unit: g
+  - time: 20230519004500
+    name: 低钠盐
+    amount: 2
+    unit: g  
+  - time: 20230519013600
+    name: 脱脂奶粉
+    amount: 25.0
+    unit: g
+  - time: 20230519013600
+    name: 菊粉
+    amount: 10
+    unit: g
+water:
+  - time: 20230518131200
+    name: 开水
+    amount: 75
+    unit: ml
+  - time: 20230518141700
+    name: 咖啡
+    amount: 82.5
+    unit: ml
+  - time: 20230518142900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230518154500
+    name: 茶饮
+    amount: 250
+    unit: ml
+  - time: 20230518160500
+    name: 茶饮
+    amount: 250
+    unit: ml
+  - time: 20230518174500
+    name: 茶饮
+    amount: 250
+    unit: ml
+  - time: 20230518181900
+    name: 茶饮
+    amount: 250
+    unit: ml
+  - time: 20230518192200
+    name: 茶饮
+    amount: 250
+    unit: ml
+  - time: 20230518214100
+    name: 茶饮
+    amount: 250
+    unit: ml
+  - time: 20230518220700
+    name: 茶饮
+    amount: 250
+    unit: ml
+  - time: 20230519004500
+    name: 粥水
+    amount: 350
+    unit: ml
+  - time: 20230519013600
+    name: 牛奶
+    amount: 80.0
+    unit: ml
+  - time: 20230519020900
+    name: 茶饮
+    amount: 250
+    unit: ml
+  - time: 20230519023000
+    name: 茶饮
+    amount: 100
+    unit: ml
+med:
+  - time: 20230518164500
+    name: 阿昔洛韦
+    amount: 200
+    unit: mg
+  - time: 20230519020900
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230519020900
+    name: daily multi
+    amount: 1
+    unit: 片
+  - time: 20230519020900
+    name: 阿昔洛韦
+    amount: 200
+    unit: mg
+comment: |+
