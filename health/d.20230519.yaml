@@ -1,0 +1,41 @@
+date: 20230519
+sleep: 
+  time: 20230519034300
+  weight: 59.8
+wake:
+  time: 20230519131000
+  weight: 58.2
+  SpO2: 95
+  PRbpm: 76
+exercise: 
+- time: 20230519133000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 96
+  PRbpm: 95
+  endheartrate: 94
+stool:
+- time: 202305181510000
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  每隔一两小时醒一次，每次都小便，第三次补充250ml水，然后涂了一遍碘伏，之后疼痛减轻不少，能睡久一些。
+  醒来时左腿发热，心率略高。
+  昨晚站立办公后，水痘增大很明显。今早右侧有几处发痒，不敢挠，但是右肚皮还是出现一处红疹，暂时还没有水痘。
+  今天运动时，抻筋比较容易，不像前两天开始很酸。
+  早餐后油籽去掉枸杞。
+  又买了一盒阿昔洛韦片，说明书剂量比较明确。加上最近关节不疼，应该不是痛风而是带状疱疹症状。所以按800mg*5次剂量试试。增加复合维生素B。
+  阿昔洛韦凝胶作用不明显，有效成分是1%。新买了几盒乳膏，有效成分是3%。
+  喝热汤后，水痘位置缺少肿胀发痒。以后要留心体内积热散热问题，和免疫力的关系。
