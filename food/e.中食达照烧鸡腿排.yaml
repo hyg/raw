@@ -1,0 +1,24 @@
+name: 中食达照烧鸡腿排
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 965
+    unit: kj
+    nrv: 11
+  碳水化合物:
+    amount: 6.8
+    unit: g
+    nrv: 2
+  蛋白质:
+    amount: 16.9
+    unit: g
+    nrv: 28
+  脂肪:
+    amount: 15.2
+    unit: g
+    nrv: 25
+  钠:
+    amount: 722
+    unit: mg
+    nrv: 36

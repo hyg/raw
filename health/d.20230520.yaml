@@ -1,0 +1,37 @@
+date: 20230520
+sleep: 
+  time: 20230520061300
+  weight: 59.3
+wake:
+  time: 20230520140200
+  weight: 58.2
+  SpO2: 95
+  PRbpm: 70
+exercise: 
+- time: 20230520141700
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 96
+  PRbpm: 82
+  endheartrate: 92
+stool:
+- time: 202305181510000
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  昨天三餐之间都去躺着，觉得热，水痘发痒发麻，最宽松的长裤还是觉得刺激，不由自主地把乳膏蹭落成球。
+  睡前两次用碘伏擦掉乳膏，睡时每一两小时起来小便一次，第三次补充150ml水，这次不觉得热，也不怎么发痒了。
+  醒来时水痘基本不痒，基本没有扩大范围，似乎有红疹出出现新地小水痘，左腿体温偏高。
+  运动时压到臀部水痘，之后有些疼。后面坐到的臀部和大腿后侧也会疼。其它地方基本不疼。
