@@ -1,0 +1,38 @@
+date: 20230521
+sleep: 
+  time: 20230521053400
+  weight: 59.3
+wake:
+  time: 20230521130000
+  weight: 58.2
+  SpO2: 96
+  PRbpm: 65
+exercise: 
+- time: 20230521131500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 96
+  PRbpm: 75
+  endheartrate: 81
+stool:
+- time: 20230522041500
+  amount:   3   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 2   #	1:不困难;	2:困难
+comment: |+
+  昨晚睡前洗澡后，部分独立的水痘已经收汁，颜色是深红。喷颠覆之后换德绒秋裤睡觉。
+  前面是一两小时醒一次，7点补充220ml水分，吃了一次8片阿昔洛韦，后面半程可以睡三四小时。
+  醒来时左右腿温度都偏高，大部分独立的水痘已经收汁，只有几处合并的大水痘还是凸起状态。水痘之间的红疹颜色淡了，痒麻感觉也轻多了。
+  起床后左腿伸直不自然，运动时很快适应。没有筋短的感觉，只是觉得酸。
+  早餐后混合油籽，重新加上枸杞。
