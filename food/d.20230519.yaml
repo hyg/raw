@@ -167,7 +167,7 @@ med:
     amount: 800
     unit: mg
   - time: 20230519150500
-    name: 复合维生素B
+    name: 维福佳复合维生素B
     amount: 3
     unit: 片
   - time: 20230519195600
@@ -175,7 +175,7 @@ med:
     amount: 800
     unit: mg
   - time: 20230519195600 
-    name: 复合维生素B
+    name: 维福佳复合维生素B
     amount: 3
     unit: 片
   - time: 20230519230700

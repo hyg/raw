@@ -1,0 +1,37 @@
+date: 20230522
+sleep: 
+  time: 20230522045300
+  weight: 59.4
+wake:
+  time: 20230522130000
+  weight: 58.3
+  SpO2: 95
+  PRbpm: 59
+exercise: 
+- time: 20230522131500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 96
+  PRbpm: 75
+  endheartrate: 81
+stool:
+- time: 20230522150000
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡下后，开始每小时小便一次。第二次补充250ml水，吃一份阿昔洛韦片。后面每次能睡两三小时。
+  醒来时左腿，尤其是左臀发热。最后几处合并的水痘还没有收汁，还在发疼。
+  左腿抬不起来，大腿抬平腿根和臀部就发酸，乏力。但是关节没有角度限制，踩在床沿下蹲可以轻松抬高角度。
+  开始运动时，左臀发酸。

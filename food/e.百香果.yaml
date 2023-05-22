@@ -3,66 +3,50 @@ amount: 100
 unit: g
 element:
   热量:
-    amount: 97
+    amount: 72
     unit: kcal
-    nrv: 5
+    nrv: 3.6
   碳水化合物:
-    amount: 23.38
+    amount: 5.7
     unit: g
-    nrv: 8
+    nrv: 2
   蛋白质:
-    amount: 2.2
+    amount: 3
     unit: g
-    nrv: 4
+    nrv: 5.5
   脂肪:
-    amount: 0.7
+    amount: 0.3
     unit: g
-    nrv: 1
+    nrv: 0.6
   膳食纤维:
-    amount: 10.4
+    amount: 13.9
     unit: g
-    nrv: 35
+    nrv: 46
   维生素A:
-    amount: 175
+    amount: 125
     unit: μg
-    nrv: 20
+    nrv: 14
   维生素C:
-    amount: 30
+    amount: 18
     unit: mg
-    nrv: 30
-  维生素E:
-    amount: 0.65
-    unit: mg
-    nrv: 4
+    nrv: 18
   钾:
-    amount: 348
+    amount: 200
     unit: mg
-    nrv: 17
+    nrv: 10
   钙:
-    amount: 12
+    amount: 10
     unit: mg
     nrv: 1
   镁:
-    amount: 29
+    amount: 28
     unit: mg
     nrv: 7
   铁:
-    amount: 0.7
+    amount: 0.6
     unit: mg
     nrv: 4
   锌:
     amount: 0.1
     unit: mg
-    nrv: 1
-  铜:
-    amount: 0.086
-    unit: mg
-    nrv: 9
-  锰:
-    amount: 0.15
-    unit: mg
-    nrv: 8
-  硒:
-    amount: 0.6
-    unit: μg
     nrv: 1
