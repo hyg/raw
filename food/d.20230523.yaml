@@ -1,0 +1,209 @@
+date: 20230523
+food:
+  - time: 20230523143800
+    name: 橙
+    amount: 164.5
+    unit: g
+  - time: 20230523144000
+    name: 黑青稞
+    amount: 20.0
+    unit: g
+  - time: 20230523144000
+    name: 血麦片
+    amount: 20.0
+    unit: g
+  - time: 20230523144000
+    name: 花青素杂粮
+    amount: 20.0
+    unit: g
+  - time: 20230523144000
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20230523144000
+    name: 灰枣
+    amount: 29.5
+    unit: g
+  - time: 20230523150300
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20230523150300
+    name: 麦胚芽
+    amount: 6.0
+    unit: g
+  - time: 20230523151100
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20230523151100
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20230523173600
+    name: 百香果
+    amount: 69.5
+    unit: g
+  - time: 20230523185100
+    name: 大米
+    amount: 50.0
+    unit: g
+  - time: 20230523185100
+    name: 血麦片
+    amount: 30.0
+    unit: g
+  - time: 20230523185100
+    name: 杏鲍菇
+    amount: 117.0
+    unit: g
+  - time: 20230523185100
+    name: 西兰花
+    amount: 153.0
+    unit: g
+  - time: 20230523185100
+    name: 油菜
+    amount: 51.5
+    unit: g
+  - time: 20230523185100
+    name: 菜心
+    amount: 159.5
+    unit: g
+  - time: 20230523185100
+    name: 鸡蛋
+    amount: 41.0
+    unit: g
+  - time: 20230523185100
+    name: 卤水豆腐
+    amount: 69.0
+    unit: g
+  - time: 20230523185100
+    name: 低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20230523185100
+    name: 油
+    amount: 1.0
+    unit: g  
+  - time: 20230524005200
+    name: 方便面
+    amount: 63.0
+    unit: g
+  - time: 20230524005200
+    name: 黄瓜
+    amount: 222.5
+    unit: g
+  - time: 20230524005200
+    name: 蛋饺
+    amount: 76.0
+    unit: g
+  - time: 20230524005200
+    name: 低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20230524014000
+    name: 脱脂奶粉
+    amount: 15.0
+    unit: g
+  - time: 20230524014000
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20230523140600
+    name: 开水
+    amount: 75
+    unit: ml
+  - time: 20230523151100
+    name: 咖啡
+    amount: 82.0
+    unit: ml
+  - time: 20230523160200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230523164000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230523172600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230523201300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230523215300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230523234000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230524014000
+    name: 可可奶
+    amount: 60.5
+    unit: ml
+  - time: 20230524015000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230524040500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230524050000
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20230523082000
+    name: 阿昔洛韦
+    amount: 800
+    unit: mg
+  - time: 20230523082000
+    name: 维福佳复合维生素B
+    amount: 2
+    unit: 片
+  - time: 20230523140600
+    name: 阿昔洛韦
+    amount: 800
+    unit: mg
+  - time: 20230523140600
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+  - time: 20230523193600
+    name: 阿昔洛韦
+    amount: 800
+    unit: mg
+  - time: 20230523193600
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+  - time: 20230523234000
+    name: 阿昔洛韦
+    amount: 800
+    unit: mg
+  - time: 20230523234000 
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+  - time: 20230524040500
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230524040500
+    name: daily multi
+    amount: 1
+    unit: 片
+  - time: 20230524040500
+    name: 阿昔洛韦
+    amount: 800
+    unit: mg
+  - time: 20230524040500 
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+comment: |+

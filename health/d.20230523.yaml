@@ -1,0 +1,37 @@
+date: 20230523
+sleep: 
+  time: 20230523060000
+  weight: 58.9
+wake:
+  time: 20230523140000
+  weight: 58.0
+  SpO2: 97
+  PRbpm: 70
+exercise: 
+- time: 20230523141600
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 96
+  PRbpm: 83
+  endheartrate: 92
+stool:
+- time: 20230523161000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  继续不断起床，中间补充250ml水，顺便吃阿昔洛韦片。今天每次加一片复合维生素B。
+  小便困难。左腿骨上端和左肋骨发热发疼，抬腿时左腿根发酸，运动时角度没有限制，但是左臀受压发酸。
+  起床忘了测心率，坐起来之后才测的。大部分独立的水痘已经没有水，只是平坦皮肤上的一个褐色圆点，个别合并的大水痘还在收汁。部分已经平坦范围还发热发痒。
+  再次停了枸杞。
