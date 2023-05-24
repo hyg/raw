@@ -1,0 +1,38 @@
+date: 20230524
+sleep: 
+  time: 20230524070800
+  weight: 59.0
+wake:
+  time: 20230524150000
+  weight: 58.0
+  SpO2: 96
+  PRbpm: 64
+exercise: 
+- time: 20230524151600
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 96
+  PRbpm: 88
+  endheartrate: 92
+stool:
+- time: 20230525033500
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡下后，前两次小便间隔1小时多。补充250ml水和8片阿昔洛韦片、2片复合维生素B后睡了4小时多，再回笼觉1小时起床。
+  大部分水痘已经收干，包括合并的大水痘。起床前双腿有些发热，左膝北侧、左臀后侧疼，有灼烧感。起床后检查左腿可以抬起，坐腹股沟内有一条发酸，但是可以抬起超过大腿水平。
+  运动后恢复在跪坐姿势把脉，左膝开始有些吃力，右膝正常、一开始就可以轻松坐在右脚跟上。脉搏比较浅而有力。
+  起床时两肋不疼，用手压才有伤痛感觉。早餐时开始觉得轻微疼，左肋更重。加了一件皮肤衣之后不压不疼。
+  混合油籽中恢复枸杞。小便正常没有炎症。
