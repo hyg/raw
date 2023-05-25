@@ -1,0 +1,20 @@
+name: 鲜味王
+amount: 100
+unit: g
+element:
+  蛋白质:
+    amount: 2.2
+    unit: g
+    nrv: 4
+  热量:
+    amount: 59
+    unit: kj
+    nrv: 1
+  碳水化合物:
+    amount: 1.2
+    unit: g
+    nrv: 0
+  钠:
+    amount: 769
+    unit: mg
+    nrv: 38

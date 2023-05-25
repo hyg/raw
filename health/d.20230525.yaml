@@ -1,0 +1,36 @@
+date: 20230525
+sleep: 
+  time: 20230525054900
+  weight: 58.8
+wake:
+  time: 20230525135000
+  weight: 57.7
+  SpO2: 94
+  PRbpm: 60
+exercise: 
+- time: 20230525140500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 96
+  PRbpm: 86
+  endheartrate: 90
+stool:
+- time: 20230525033500
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  8、9、11点多醒来小便，9点多那次补充200ml水和阿昔洛韦片、复合维生素B。醒来时左肋有些疼。
+  水痘已经全部收干，一两处较浅的已经脱痂，合并的大水痘还深色。左小腿肚、左膝略上内测两处局部发热发痒。
+  左腹股沟内还有肿胀、发酸的感觉。运动后跪坐把脉，左膝还不能完全弯曲到位。

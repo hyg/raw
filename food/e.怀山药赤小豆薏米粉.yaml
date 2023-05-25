@@ -20,5 +20,5 @@ element:
     nrv: 4
   钠:
     amount: 0
-    unit: "mg"
+    unit: mg
     nrv: 0
