@@ -1,0 +1,37 @@
+date: 20230526
+sleep: 
+  time: 20230526065700
+  weight: 58.4
+wake:
+  time: 20230526143000
+  weight: 57.7
+  SpO2: 95
+  PRbpm: 63
+exercise: 
+- time: 20230526144500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 86
+  endheartrate: 92
+stool:
+- time: 20230526170500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  9、11、13点多小便，11点多那次补充200ml水和阿昔洛韦片、复合维生素B。
+  昨晚洗澡后涂碘伏时，有两三处结痂脱落。睡觉时碰到裸露的新肉还有些疼，起床时局部发热但是基本不疼了。
+  左腹股沟到左肋一带还是隐隐发痛。左膝在运动后把脉时有些紧，接近一分钟慢慢能坐到脚跟。
+  今天水痘结痂处只涂碘伏，阿昔洛韦乳膏用在面部红疹，试一下和水痘病毒有没有关系。
