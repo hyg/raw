@@ -1,0 +1,36 @@
+date: 20230527
+sleep: 
+  time: 20230527043100
+  weight: 58.7
+wake:
+  time: 20230527130500
+  weight: 58.0
+  SpO2: 94
+  PRbpm: 58
+exercise: 
+- time: 20230527142000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 98
+  PRbpm: 84
+  endheartrate: 90
+stool:
+- time: 20230527163500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  起床三次，第二次补充200ml水和阿昔洛韦片、复合维生素B。
+  醒来时左腿发热，发痒。全部结痂但是没有继续脱落。上次可能是洗澡泡软的原因。左大腿内测、腹股沟一带还有些发紧，左肋骨下沿和再向下一掌范围的皮肤还有些疼。
+  运动后把脉时左膝发紧，大概20秒后才可以做到后脚跟上。今天脉搏比较浅，介于中和浅之间，跳动比较有力、清晰。

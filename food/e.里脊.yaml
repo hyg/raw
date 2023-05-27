@@ -1,0 +1,80 @@
+name: 里脊
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 142
+    unit: kcal
+    nrv: 7
+  蛋白质:
+    amount: 24.5
+    unit: g
+    nrv: 41
+  脂肪:
+    amount: 4.4
+    unit: g
+    nrv: 7
+  钠:
+    amount: 49
+    unit: mg
+    nrv: 3.5
+  胆固醇:
+    amount: 85
+    unit: mg
+    nrv: 28
+  钙:
+    amount: 6
+    unit: mg
+    nrv: 1
+  铁:
+    amount: 1.3
+    unit: mg
+    nrv: 9
+  锌:
+    amount: 2.2
+    unit: mg
+    nrv: 15
+  钾:
+    amount: 262
+    unit: mg
+    nrv: 13
+  磷:
+    amount: 156
+    unit: mg
+    nrv: 20
+  镁:
+    amount: 28
+    unit: mg
+    nrv: 7
+  维生素B1:
+    amount: 0.04
+    unit: mg
+    nrv: 3
+  维生素B2:
+    amount: 0.19
+    unit: mg
+    nrv: 13
+  维生素E:
+    amount: 0.05
+    unit: mg
+    nrv: 1
+  维生素B6:
+    amount: 0.24
+    unit: mg
+    nrv: 12
+  维生素B12:
+    amount: 0.63
+    unit: μg
+    nrv: 26
+  叶酸:
+    amount: 3
+    unit: μg
+    nrv: 2
+  维生素B3:
+    amount: 6.9
+    unit: mg
+    nrv: 43
+  维生素B5:
+    amount: 0.4
+    unit: mg
+    nrv: 6
