@@ -1,12 +1,12 @@
 date: 20230528
 sleep: 
-  time: 20230528043100
-  weight: 58.7
+  time: 20230528042500
+  weight: 58.6
 wake:
   time: 20230528130500
-  weight: 58.0
-  SpO2: 94
-  PRbpm: 58
+  weight: 57.7
+  SpO2: 95
+  PRbpm: 59
 exercise: 
 - time: 20230528142000
   item:
@@ -22,13 +22,16 @@ exercise:
   - type: pilates.p79
     amount: 5
     unit: turn
-  SpO2: 98
+  SpO2: 97
   PRbpm: 84
-  endheartrate: 90
+  endheartrate: 86
 stool:
-- time: 20230528163500
-  amount:   2   #	1:多; 2:适中;	3:少
+- time: 20230528192800
+  amount:   1   #	1:多; 2:适中;	3:少
   type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 comment: |+
-  
+  睡觉中间起来小便四次，第二次补充150ml水和阿昔洛韦、复合维生素B。
+  左腿弯曲时感觉左膝上下一带发麻发僵，醒来时左腿发热，结痂处发痒，左肋下隐痛。
+  运动后把脉时左腿角度受限制，大约半分钟才能坐到脚跟。
+  大便先软后水，出到胡柚。
