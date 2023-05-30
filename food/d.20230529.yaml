@@ -44,10 +44,6 @@ food:
     name: 脱脂奶粉
     amount: 5.0
     unit: g
-  - time: 20230529151700
-    name: 小分子肽粉
-    amount: 3.0
-    unit: g
   - time: 20230529175900
     name: 胡柚
     amount: 226.5
@@ -117,7 +113,7 @@ water:
     name: 开水
     amount: 250
     unit: ml
-  - time: 202305291210000
+  - time: 20230529210000
     name: 开水
     amount: 250
     unit: ml

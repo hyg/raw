@@ -1,0 +1,24 @@
+name: 白象菌菇三鲜蒸煎饺
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 892
+    unit: kj
+    nrv: 11
+  蛋白质:
+    amount: 7.9
+    unit: g
+    nrv: 13
+  脂肪:
+    amount: 8.2
+    unit: g
+    nrv: 14
+  钠:
+    amount: 440
+    unit: mg
+    nrv: 22
+  碳水化合物:
+    amount: 26.7
+    unit: g
+    nrv: 9

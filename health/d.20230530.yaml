@@ -1,0 +1,37 @@
+date: 20230530
+sleep: 
+  time: 20230529220800
+  weight: 58.4
+wake:
+  time: 20230530063000
+  weight: 57.3
+  SpO2: 95
+  PRbpm: 58
+exercise: 
+- time: 20230530064500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 96
+  PRbpm: 86
+  endheartrate: 86
+stool:
+- time: 20230530170500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  昨天第三次正好吃完一整盒阿昔洛韦，也是每次800mg剂量满十天，按说明书停药。
+  睡觉时起来小便3次，没有补充水分和药。醒来时左腿局部发热、发痒，看起来皮疹没有扩大，应该是结痂愈合的痒。
+  弯曲左膝时，原先皮疹范围的皮肤发硬，范围一直到皮下一两厘米处。
+  运动后把脉时，可以做到脚后跟，大概十几秒后比较放松。脉搏较浅，清晰。
