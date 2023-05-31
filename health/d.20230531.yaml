@@ -1,0 +1,37 @@
+date: 20230531
+sleep: 
+  time: 20230531015400
+  weight: 58.1
+wake:
+  time: 20230531070000
+  weight: 57.5
+  SpO2: 94
+  PRbpm: 62
+exercise: 
+- time: 20230531071500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 96
+  PRbpm: 82
+  endheartrate: 83
+stool:
+- time: 20230531084500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 2   #	1:不困难;	2:困难
+comment: |+
+  睡前补充水分100ml，睡觉时起床小便一次。
+  醒来时结痂处发痒发热，皮肤到皮下一两厘米发紧发麻。气温升高被子偏厚，醒来时身体感觉有些乏、卧室空气浑浊。
+  运动后把脉时，前半分钟左膝发紧。一开始脉搏不明显，在中等深度找到后慢慢回到浅层，也很清晰有力。
+  左肋和稍下的左腹还是隐痛。

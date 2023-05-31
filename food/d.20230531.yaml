@@ -1,0 +1,198 @@
+date: 20230531
+food:
+  - time: 20230531074700
+    name: 百香果
+    amount: 55.0
+    unit: g
+  - time: 20230531075000
+    name: 黑青稞
+    amount: 20.0
+    unit: g
+  - time: 20230531075000
+    name: 血麦片
+    amount: 20.0
+    unit: g
+  - time: 20230531075000
+    name: 花青素杂粮
+    amount: 20.0
+    unit: g
+  - time: 20230531075000
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20230531075000
+    name: 灰枣
+    amount: 25.0
+    unit: g
+  - time: 20230531081100
+    name: 枸杞
+    amount: 5.0
+    unit: g
+  - time: 20230531081100
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20230531081100
+    name: 麦胚芽
+    amount: 6.0
+    unit: g
+  - time: 20230531081900
+    name: 奶粉
+    amount: 15.0
+    unit: g
+  - time: 20230531081900
+    name: 脱脂奶粉
+    amount: 5.0
+    unit: g
+  - time: 20230531081900
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20230531100400
+    name: 土豆
+    amount: 95.5
+    unit: g
+  - time: 20230531100400
+    name: 鸡蛋
+    amount: 43.0
+    unit: g
+  - time: 20230531100400
+    name: 鹌鹑蛋
+    amount: 9.0
+    unit: g
+  - time: 20230531100400
+    name: 低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20230531100400
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20230531153800
+    name: 橙
+    amount: 156
+    unit: g
+  - time: 20230531163300
+    name: 大米
+    amount: 40.0
+    unit: g
+  - time: 20230531163300
+    name: 血麦片
+    amount: 20.0
+    unit: g
+  - time: 20230531163300
+    name: 花青素杂粮
+    amount: 30.0
+    unit: g
+  - time: 20230531163300
+    name: 西兰花
+    amount: 103.5
+    unit: g
+  - time: 20230531163300
+    name: 油菜
+    amount: 165.5
+    unit: g
+  - time: 20230531163300
+    name: 后腿腊肉
+    amount: 21.5
+    unit: g
+  - time: 20230531163300
+    name: 卤水豆腐
+    amount: 70.0
+    unit: g
+  - time: 20230531163300
+    name: 低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20230531220000
+    name: 意面
+    amount: 50.0
+    unit: g
+  - time: 20230531220000
+    name: 杏鲍菇
+    amount: 78.0
+    unit: g
+  - time: 20230531220000
+    name: 里脊
+    amount: 34.0
+    unit: g
+  - time: 20230531220000
+    name: 低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20230531222200
+    name: 脱脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20230531222200
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20230531070300
+    name: 开水
+    amount: 75
+    unit: ml
+  - time: 20230531081900
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20230531091500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230531101300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230531113300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230531150000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230531171400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230531192200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230531193600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230531212900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230531222200
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20230531231700
+    name: 开水
+    amount: 150
+    unit: ml
+med:
+  - time: 20230531091500
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+  - time: 20230531171400
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+  - time: 20230531171400
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230531171400
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
+  减少早餐1，把饱腹时间缩短到一个半小时，在早餐2补充更多蛋白质和油盐，为上午提供营养。
