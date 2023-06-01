@@ -1,0 +1,24 @@
+name: 竹升面
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1551
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 12.7
+    unit: g
+    nrv: 21
+  脂肪:
+    amount: 2.9
+    unit: g
+    nrv: 5
+  钠:
+    amount: 459
+    unit: mg
+    nrv: 20
+  碳水化合物:
+    amount: 72.1
+    unit: g
+    nrv: 24

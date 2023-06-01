@@ -1,0 +1,37 @@
+date: 20230601
+sleep: 
+  time: 20230601005000
+  weight: 58.0
+wake:
+  time: 20230601070000
+  weight: 57.5
+  SpO2: 96
+  PRbpm: 63
+exercise: 
+- time: 20230601071500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 96
+  PRbpm: 86
+  endheartrate: 87
+stool:
+- time: 20230601173000
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  3点多起来小便，6点多热醒，还有些困但睡不着了。
+  结痂处发热发痒，范围小了，大概集中在结痂范围的四分之一。左肋左腹不摸不疼，按压还有些隐痛。
+  运动后把脉时，左膝有一根筋错位了一下，摆正后20多秒后才缓过来。脉搏开始有些乱，缓过来之后较浅、清晰有力。
+  恢复睡前喝水习惯：250ml、2小时、50ml、睡。

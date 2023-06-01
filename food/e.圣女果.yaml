@@ -1,0 +1,60 @@
+name: 圣女果
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 21
+    unit: kcal
+    nrv: 1
+  碳水化合物:
+    amount: 4.2
+    unit: g
+    nrv: 1
+  蛋白质:
+    amount: 0.9
+    unit: g
+    nrv: 2
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0
+  膳食纤维:
+    amount: 1.2
+    unit: g
+    nrv: 5
+  维生素A:
+    amount: 30
+    unit: μg
+    nrv: 3
+  维生素C:
+    amount: 20
+    unit: mg
+    nrv: 22
+  维生素E:
+    amount: 0.57
+    unit: mg
+    nrv: 4
+  胡萝卜素:
+    amount: 180
+    unit: μg
+    nrv: 2
+  镁:
+    amount: 10
+    unit: mg
+    nrv: 3
+  钙:
+    amount: 6
+    unit: mg
+    nrv: 1
+  钾:
+    amount: 230
+    unit: mg
+    nrv: 12
+  磷:
+    amount: 19
+    unit: mg
+    nrv: 3
+  纳:
+    amount: 3
+    unit: mg
+    nrv: 0
