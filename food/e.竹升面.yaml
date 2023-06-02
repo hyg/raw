@@ -14,11 +14,11 @@ element:
     amount: 2.9
     unit: g
     nrv: 5
-  钠:
-    amount: 459
-    unit: mg
-    nrv: 20
   碳水化合物:
     amount: 72.1
     unit: g
     nrv: 24
+  钠:
+    amount: 249
+    unit: mg
+    nrv: 12

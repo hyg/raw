@@ -2,30 +2,30 @@ name: 奶粉
 amount: 100
 unit: g
 element:
-  脂肪:
-    amount: 26
-    unit: g
-    nrv: 43
+  热量:
+    amount: 2112
+    unit: kj
+    nrv: 25
   蛋白质:
     amount: 23.5
     unit: g
     nrv: 39
-  热量:
-    amount: 458.16299999999995
-    unit: kcal
-    nrv: 23
+  脂肪:
+    amount: 27
+    unit: g
+    nrv: 45
   碳水化合物:
-    amount: 41.6
+    amount: 42
     unit: g
     nrv: 14
   钠:
-    amount: 32
+    amount: 592
     unit: mg
-    nrv: 1.6
+    nrv: 30
   钙:
-    amount: 1020
+    amount: 900
     unit: mg
-    nrv: 102
+    nrv: 90
   铁:
     amount: 0.4
     unit: mg
@@ -38,10 +38,6 @@ element:
     amount: 318
     unit: µg
     nrv: 35
-  维生素D:
-    amount: 0.2
-    unit: µg
-    nrv: 2
   维生素E:
     amount: 0.61
     unit: mg

@@ -54,7 +54,7 @@ element:
     amount: 19
     unit: mg
     nrv: 3
-  纳:
+  钠:
     amount: 3
     unit: mg
     nrv: 0
