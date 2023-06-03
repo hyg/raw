@@ -1,19 +1,19 @@
 date: 20230603
 sleep: 
-  time: 20230603005500
-  weight: 58.2
+  time: 20230603002300
+  weight: 58.4
 wake:
-  time: 20230603100000
-  weight: 57.1
-  SpO2: 96
+  time: 20230603120000
+  weight: 57.2
+  SpO2: 97
   PRbpm: 57
 exercise: 
-- time: 20230603101500
+- time: 20230603121500
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
     unit: turn
-  - type: pilates.p55 
+  - type: pilates.p55
     amount: 20 
     unit: turn
   - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
@@ -23,11 +23,14 @@ exercise:
     amount: 5
     unit: turn
   SpO2: 97
-  PRbpm: 85
+  PRbpm: 83
   endheartrate: 84
 stool:
-- time: 20230603221500
-  amount:   1   #	1:多; 2:适中;	3:少
-  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+- time: 20230603160000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 comment: |+
+  睡觉时起床小便三次，看来红薯木瓜炖牛奶的水分吸收很慢。喝水时间还可以前移。
+  醒来时几处大水痘的疤痕处发痒，左肋和左腹的隐痛明显减轻。
+  运动后把脉时，左膝没有卡错的感觉，更接近正常的抻筋。脉搏还算清晰，力度不强，深度偏浅。

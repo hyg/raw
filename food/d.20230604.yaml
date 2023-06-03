@@ -1,0 +1,216 @@
+date: 20230604
+food:
+  - time: 20230604125000
+    name: 百香果
+    amount: 75
+    unit: g
+
+  - time: 20230604125400
+    name: 黑青稞
+    amount: 15
+    unit: g
+  - time: 20230604125400
+    name: 血麦片
+    amount: 10
+    unit: g
+  - time: 20230604125400
+    name: 花青素杂粮
+    amount: 10
+    unit: g
+  - time: 20230604125400
+    name: 绿豆
+    amount: 5
+    unit: g
+  - time: 20230604125400
+    name: 灰枣
+    amount: 25
+    unit: g
+
+  - time: 20230604131300
+    name: 枸杞
+    amount: 5
+    unit: g
+  - time: 20230604131300
+    name: 亚麻籽
+    amount: 5
+    unit: g
+  - time: 20230604131300
+    name: 麦胚芽
+    amount: 6
+    unit: g
+
+  - time: 20230604131900
+    name: 奶粉
+    amount: 20
+    unit: g
+  - time: 20230604131900
+    name: 小分子肽粉
+    amount: 3
+    unit: g
+
+  - time: 20230604125000
+    name: 意面
+    amount: 40
+    unit: g
+  - time: 20230604125000
+    name: 杏鲍菇
+    amount: 90
+    unit: g
+  - time: 20230604125000
+    name: 鸡蛋
+    amount: 45
+    unit: g
+  - time: 20230604125000
+    name: 低钠盐
+    amount: 1
+    unit: g
+
+  - time: 20230604163000
+    name: 橙
+    amount: 160
+    unit: g
+  
+  - time: 20230604170000
+    name: 大米
+    amount: 40
+    unit: g
+  - time: 20230604170000
+    name: 血麦片
+    amount: 10
+    unit: g
+  - time: 20230604170000
+    name: 花青素杂粮
+    amount: 30
+    unit: g
+  - time: 20230604170000
+    name: 西兰花
+    amount: 100
+    unit: g
+  - time: 20230604170000
+    name: 红薯叶
+    amount: 150
+    unit: g
+  - time: 20230604170000
+    name: 卤水豆腐
+    amount: 60
+    unit: g
+  - time: 20230604170000
+    name: 后腿腊肉
+    amount: 20
+    unit: g
+  - time: 20230604170000
+    name: 里脊
+    amount: 30
+    unit: g
+  - time: 20230604170000
+    name: 低钠盐
+    amount: 1
+    unit: g
+
+
+  - time: 20230604213000
+    name: 圣女果
+    amount: 93
+    unit: g
+
+  - time: 20230604220000
+    name: 大米
+    amount: 50
+    unit: g
+  - time: 20230604220000
+    name: 胡萝卜
+    amount: 80
+    unit: g
+  - time: 20230604220000
+    name: 生菜
+    amount: 60
+    unit: g
+  - time: 20230604220000
+    name: 低钠盐
+    amount: 2
+    unit: g
+
+  
+  - time: 20230604230000
+    name: 奶粉
+    amount: 10
+    unit: g
+  - time: 20230604230000
+    name: 脱脂奶粉
+    amount: 10
+    unit: g
+  - time: 20230604230000
+    name: 可可粉
+    amount: 4
+    unit: g
+water:
+  - time: 20230604120300
+    name: 开水
+    amount: 75
+    unit: ml
+  - time: 20230604131900
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20230604133000
+    name: 开水
+    amount: 250
+    unit: ml
+
+  - time: 20230604134500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230604162200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230604181700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230604202800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230604212500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230604214500
+    name: 汤水
+    amount: 250
+    unit: ml
+
+  - time: 20230604212100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230604231700
+    name: 开水
+    amount: 150
+    unit: ml
+med:
+  - time: 20230604133000
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+
+  - time: 20230604181700
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+  - time: 20230604181700
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230604181700
+    name: daily multi
+    amount: 1
+    unit: 片
+  - time: 20230604004500
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+comment: |+
+  

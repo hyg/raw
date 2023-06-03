@@ -1,0 +1,68 @@
+name: 荔枝
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 70
+    unit: kcal
+    nrv: 3.5
+  碳水化合物:
+    amount: 16.5
+    unit: g
+    nrv: 5
+  蛋白质:
+    amount: 0.8
+    unit: g
+    nrv: 1
+  脂肪:
+    amount: 0.4
+    unit: g
+    nrv: 1
+  膳食纤维:
+    amount: 0.5
+    unit: g
+    nrv: 1.7
+  维生素C:
+    amount: 41
+    unit: mg
+    nrv: 68
+  维生素B1:
+    amount: 0.03
+    unit: mg
+    nrv: 2
+  维生素B2:
+    amount: 0.07
+    unit: mg
+    nrv: 4
+  维生素E:
+    amount: 0.4
+    unit: mg
+    nrv: 4
+  钙:
+    amount: 2
+    unit: mg
+    nrv: 0
+  铁:
+    amount: 0.3
+    unit: mg
+    nrv: 2
+  钾:
+    amount: 151
+    unit: mg
+    nrv: 7.9
+  钠:
+    amount: 1
+    unit: mg
+    nrv: 0
+  锌:
+    amount: 0.1
+    unit: mg
+    nrv: 1
+  铜:
+    amount: 0.07
+    unit: mg
+    nrv: 7
+  锰:
+    amount: 0.06
+    unit: mg
+    nrv: 3
