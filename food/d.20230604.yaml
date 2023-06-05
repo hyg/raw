@@ -165,6 +165,10 @@ water:
     name: 开水
     amount: 250
     unit: ml
+  - time: 20230605010400
+    name: 开水
+    amount: 150
+    unit: ml
 med:
   - time: 20230604140300
     name: 维福佳复合维生素B
@@ -187,4 +191,4 @@ med:
     amount: 1
     unit: 片
 comment: |+
-  
+  把鸡蛋灌饼的重量错估为50g，导致热量分配失衡。实测后把可可奶去掉，导致今天钙不足。
