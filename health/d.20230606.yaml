@@ -1,0 +1,38 @@
+date: 20230606
+sleep: 
+  time: 20230606011700
+  weight: 58.0
+wake:
+  time: 20230606120300
+  weight: 56.9
+  SpO2: 95
+  PRbpm: 57
+exercise: 
+- time: 20230606121500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 96
+  PRbpm: 83
+  endheartrate: 79
+stool:
+- time: 20230606210800
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 2   #	1:不困难;	2:困难
+comment: |+
+  睡觉起床小便4次，中间有大段时间睡不着，又觉得乏还没到起床状态。虽然这样，也没有冬季那种口干需要补充水分的感觉。
+  还有个别结痂处偶尔发痒，大部分已经不痒不热。左肋左腹也不疼了。
+  左膝后筋已经基本正常，前筋还有些紧，运动后把脉时感觉发酸，但是可以坐到脚跟，完全放松把体重压上去。
+  以前把脉都记错一位，把关脉写作寸脉，以为是从高骨位置开始算，其实高骨位置是中间。关脉深度中等，不算清晰。可能和左膝紧张有关，后面做起来一会再测，清晰有力。
+  舌头右侧在吃东西喝水时基本不疼了。

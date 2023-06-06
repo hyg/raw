@@ -51,15 +51,15 @@ food:
   - time: 20230605144000
     name: 意面
     amount: 40.0
-    unit: 
+    unit: g
   - time: 20230605144000
     name: 杏鲍菇
     amount: 80.5
-    unit: 
+    unit: g
   - time: 20230605144000
     name: 蛋饺
     amount: 30
-    unit: 
+    unit: g
   - time: 20230605144000
     name: 低钠盐
     amount: 1.5
