@@ -1,0 +1,186 @@
+date: 20230607
+food:
+  - time: 20230607143200
+    name: 百香果
+    amount: 64.5
+    unit: g
+  - time: 20230607143500
+    name: 黑青稞
+    amount: 10.0
+    unit: g
+  - time: 20230607143500
+    name: 血麦片
+    amount: 10.0
+    unit: g
+  - time: 20230607143500
+    name: 紫米
+    amount: 10.0
+    unit: g
+  - time: 20230607143500
+    name: 花生
+    amount: 5.0
+    unit: g
+  - time: 20230607143500
+    name: 绿豆
+    amount: 5.0
+    unit: g
+  - time: 20230607143500
+    name: 灰枣
+    amount: 18
+    unit: g
+  - time: 20230607145000
+    name: 枸杞
+    amount: 5.0
+    unit: g
+  - time: 20230607145000
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20230607145000
+    name: 麦胚芽
+    amount: 6.0
+    unit: g
+  - time: 20230608023000
+    name: 鸡蛋灌饼
+    amount: 90.5
+    unit: g
+  - time: 20230608023000
+    name: 鸡蛋
+    amount: 42.0
+    unit: g
+  - time: 20230608023000
+    name: 生菜
+    amount: 62.5
+    unit: g
+  - time: 20230608023000
+    name: 低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20230607165300
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20230607165300
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20230607212100
+    name: 荔枝
+    amount: 119.5
+    unit: g
+  - time: 20230607211800
+    name: 大米
+    amount: 30.0
+    unit: g
+  - time: 20230607211800
+    name: 血麦片
+    amount: 10.0
+    unit: g
+  - time: 20230607211800
+    name: 紫米
+    amount: 20.0
+    unit: g
+  - time: 20230607211800
+    name: 西兰花
+    amount: 166.0
+    unit: g
+  - time: 20230607211800
+    name: 油菜
+    amount: 40.5
+    unit: g
+  - time: 20230607211800
+    name: 菜心
+    amount: 229.5
+    unit: g
+  - time: 20230607211800
+    name: 鮰鱼腩
+    amount: 116
+    unit: g
+  - time: 20230607211800
+    name: 豆瓣酱
+    amount: 10
+    unit: g
+  - time: 20230608023000
+    name: 红薯
+    amount: 159.0
+    unit: g
+  - time: 20230608023000
+    name: 木瓜
+    amount: 94.5
+    unit: g
+  - time: 20230608023000
+    name: 脱脂奶粉
+    amount: 20.0
+    unit: g
+water:
+  - time: 20230607135300
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20230607145700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230607152800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230607165300
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20230607174800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230607192800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230607220700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230607233800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230608011600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230608023000
+    name: 汤水
+    amount: 150
+    unit: ml
+  - time: 20230608024200
+    name: 开水
+    amount: 140
+    unit: ml
+med:
+  - time: 20230607145700
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+  - time: 20230607220700
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+  - time: 20230607220700
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230607220700
+    name: daily multi
+    amount: 1
+    unit: 片
+  - time: 20230608024200
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+comment: |+
+  减少午餐主食，抵消鸡蛋灌饼和梅花肉的高热量。
+  百香果需要选大个的，抵消晚餐缺少绿叶菜造成的膳食纤维缺口。
+  咖啡从早餐1之后移到早餐2之后，缩短两次早餐之间的饥饿时间。
+  按照包冰和出水的比例，鮰鱼腩按一斤出五两熟肉折算，梅花肉按一斤出六两。
+  熟鮰鱼腩58.0克按116克计算生重，热量较多去掉卤水豆腐，缺钙把红薯木瓜奶粉改为脱脂奶粉。
