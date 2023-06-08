@@ -1,0 +1,100 @@
+name: 山药豆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 93
+    unit: kcal
+    nrv: 5
+  碳水化合物:
+    amount: 20.6
+    unit: g
+    nrv: 7
+  蛋白质:
+    amount: 2.9
+    unit: g
+    nrv: 5
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0
+  钠:
+    amount: 3
+    unit: mg
+    nrv: 0
+  灰分:
+    amount: 1.2
+    unit: g
+    nrv: 0
+  膳食纤维:
+    amount: 4.2
+    unit: g
+    nrv: 17
+  叶酸:
+    amount: 20
+    unit: μg
+    nrv: 5
+  胡萝卜素:
+    amount: 24
+    unit: μg
+    nrv: 4
+  镁:
+    amount: 19
+    unit: mg
+    nrv: 5
+  磷:
+    amount: 64
+    unit: mg
+    nrv: 9
+  钾:
+    amount: 570
+    unit: mg
+    nrv: 14
+  钙:
+    amount: 5
+    unit: mg
+    nrv: 1
+  锰:
+    amount: 0.05
+    unit: mg
+    nrv: 3
+  铁:
+    amount: 0.6
+    unit: mg
+    nrv: 4
+  铜:
+    amount: 0.15
+    unit: mg
+    nrv: 10
+  锌:
+    amount: 0.4
+    unit: mg
+    nrv: 4
+  维生素B1:
+    amount: 0.11
+    unit: mg
+    nrv: 10
+  维生素B2:
+    amount: 0.02
+    unit: mg
+    nrv: 2
+  维生素B3:
+    amount: 0.3
+    unit: mg
+    nrv: 2
+  维生素B5:
+    amount: 0.6
+    unit: mg
+    nrv: 12
+  维生素B6:
+    amount: 0.07
+    unit: mg
+    nrv: 5
+  维生素C:
+    amount: 9
+    unit: mg
+    nrv: 10
+  维生素E:
+    amount: 0.6
+    unit: mg
+    nrv: 4

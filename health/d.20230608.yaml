@@ -1,0 +1,37 @@
+date: 20230608
+sleep: 
+  time: 20230608051000
+  weight: 57.9
+wake:
+  time: 20230608130200
+  weight: 57.1
+  SpO2: 96
+  PRbpm: 62
+exercise: 
+- time: 20230608131700
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 81
+  endheartrate: 83
+stool:
+- time: 20230608204500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 2   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间小便两次。醒来时觉得热，踢掉半截被子。穿caxa的跑步长裤睡有些闷，大痂发痒。
+  右侧舌头已经愈合，昨晚冲牙器冲到也没有问题。
+  左膝前筋略紧，但可以顺利坐下而且放松。
+  尺脉浅、关脉偏浅，都清晰有力，寸脉基本摸不到。

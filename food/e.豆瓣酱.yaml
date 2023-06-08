@@ -2,103 +2,23 @@ name: 豆瓣酱
 amount: 100
 unit: g
 element:
- 热量:
-  amount: 220
-  unit: kcal
-  nrv: 11
- 蛋白质:
-  amount: 16.3
-  unit: g
-  nrv: 27
- 脂肪:
-  amount: 10.3
-  unit: g
-  nrv: 17
- 碳水化合物:
-  amount: 14.7
-  unit: g
-  nrv: 5
- 膳食纤维:
-  amount: 4.4
-  unit: g
-  nrv: 18
- 维生素A:
-  amount: 550
-  unit: µg
-  nrv: 69
- 维生素E:
-  amount: 4.28
-  unit: mg
-  nrv: 28
- 维生素K:
-  amount: 62
-  unit: µg
-  nrv: 52
- 维生素B1:
-  amount: 0.36
-  unit: mg
-  nrv: 30
- 维生素B2:
-  amount: 0.38
-  unit: mg
-  nrv: 29
- 维生素B6:
-  amount: 0.25
-  unit: mg
-  nrv: 19
- 维生素B12:
-  amount: 0
-  unit: µg
-  nrv: 0
- 维生素B3:
-  amount: 2.87
-  unit: mg
-  nrv: 18
- 维生素B9:
-  amount: 63
-  unit: µg
-  nrv: 16
- 维生素B5:
-  amount: 1.18
-  unit: mg
-  nrv: 24
- 钙:
-  amount: 102
-  unit: mg
-  nrv: 10
- 铁:
-  amount: 10.9
-  unit: mg
-  nrv: 61
- 镁:
-  amount: 100
-  unit: mg
-  nrv: 25
- 锰:
-  amount: 1.10
-  unit: mg
-  nrv: 55
- 锌:
-  amount: 1.40
-  unit: mg
-  nrv: 14
- 铜:
-  amount: 0.19
-  unit: mg
-  nrv: 19
- 钾:
-  amount: 1220
-  unit: mg
-  nrv: 61
- 磷:
-  amount: 220
-  unit: mg
-  nrv: 31
- 钠:
-  amount: 3009
-  unit: mg
-  nrv: 150
- 硒:
-  amount: 3.5
-  unit: µg
-  nrv: 6
+  热量:
+    amount: 398
+    unit: kj
+    nrv: 5
+  蛋白质:
+    amount: 3.6
+    unit: g
+    nrv: 6
+  脂肪:
+    amount: 5
+    unit: g
+    nrv: 8
+  碳水化合物:
+    amount: 5.6
+    unit: g
+    nrv: 2
+  钠:
+    amount: 8653
+    unit: mg
+    nrv: 432
