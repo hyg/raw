@@ -1,0 +1,195 @@
+date: 20230609
+food:
+  - time: 20230609114400
+    name: 百香果
+    amount: 66.0
+    unit: g
+  - time: 20230609114500
+    name: 黑青稞
+    amount: 10.0
+    unit: g
+  - time: 20230609114500
+    name: 血麦片
+    amount: 5.0
+    unit: g
+  - time: 20230609114500
+    name: 紫米
+    amount: 5.0
+    unit: g
+  - time: 20230609114500
+    name: 绿豆
+    amount: 5.0
+    unit: g
+  - time: 20230609114500
+    name: 灰枣
+    amount: 11.5
+    unit: g
+  - time: 20230609115900
+    name: 枸杞
+    amount: 5.0
+    unit: g
+  - time: 20230609115900
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20230609115900
+    name: 麦胚芽
+    amount: 6.0
+    unit: g
+  - time: 20230609230600
+    name: 青麦碾转
+    amount: 130.0
+    unit: g
+  - time: 20230609230600
+    name: 杏鲍菇
+    amount: 114.0
+    unit: g
+  - time: 20230609230600
+    name: 蛋饺
+    amount: 58.5
+    unit: g
+  - time: 20230609230600
+    name: 依恋油醋汁
+    amount: 10.5
+    unit: g
+  - time: 20230609135600
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20230609135600
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20230609175200
+    name: 荔枝
+    amount: 99.5
+    unit: g
+  - time: 20230609175500
+    name: 青麦碾转
+    amount: 75.0
+    unit: g
+  - time: 20230609175500
+    name: 西兰花
+    amount: 98.0
+    unit: g
+  - time: 20230609175500
+    name: 油菜
+    amount: 176.0
+    unit: g
+  - time: 20230609175500
+    name: 梅花肉
+    amount: 55.8
+    unit: g
+  - time: 20230609175500
+    name: 卤水豆腐
+    amount: 47.5
+    unit: g
+  - time: 20230609175500
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20230609175500
+    name: 低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20230609230600
+    name: 大米
+    amount: 40.0
+    unit: g
+  - time: 20230609230600
+    name: 鸡蛋
+    amount: 36.5
+    unit: g
+  - time: 20230609230600
+    name: 生菜
+    amount: 40
+    unit: g
+  - time: 20230609230600
+    name: 低钠盐
+    amount: 1.5
+    unit: g
+  - time: 20230609230600
+    name: 奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230609230600
+    name: 脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230609230600
+    name: 菊粉
+    amount: 15.0
+    unit: g
+water:
+  - time: 20230609110300
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20230609121000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230609131500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230609135600
+    name: 咖啡
+    amount: 82.5
+    unit: ml
+  - time: 20230609150200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230609163200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230609182000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230609195600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230609211600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230609230600
+    name: 牛奶
+    amount: 81.0
+    unit: ml
+  - time: 20230609231000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 202306010001700
+    name: 开水
+    amount: 50
+    unit: ml
+med:
+  - time: 20230609121000
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+  - time: 20230609195600
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+  - time: 20230609195600
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230609195600
+    name: daily multi
+    amount: 1
+    unit: 片
+  - time: 20230609231000
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+comment: |+
+  减少了午饭荔枝、主食、梅花肉和晚饭后的奶粉，勉强把青麦碾转的蛋饺加到早餐2。
+  午餐用熟梅花肉33.5克，折算为生肉55.8克。

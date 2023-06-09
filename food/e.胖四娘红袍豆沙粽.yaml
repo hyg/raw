@@ -1,0 +1,24 @@
+name: 胖四娘红袍豆沙粽
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1186
+    unit: kj
+    nrv: 14
+  蛋白质:
+    amount: 7.2
+    unit: g
+    nrv: 12
+  脂肪:
+    amount: 3.4
+    unit: g
+    nrv: 6
+  碳水化合物:
+    amount: 56.1
+    unit: g
+    nrv: 19
+  钠:
+    amount: 113
+    unit: mg
+    nrv: 6

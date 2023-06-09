@@ -1,0 +1,37 @@
+date: 20230609
+sleep: 
+  time: 20230609040800
+  weight: 57.6
+wake:
+  time: 20230609110000
+  weight: 57.0
+  SpO2: 95
+  PRbpm: 57
+exercise: 
+- time: 20230609111500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 96
+  PRbpm: 82
+  endheartrate: 84
+stool:
+- time: 20230609164500
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间醒了两次，感觉不是小便的原因，可去可不去，于是没去。拿手机看一下快递就继续睡了，还是很困的。
+  结痂处开始脱皮，不仅是水痘位置，而是附近红疹范围都脱皮。不清楚是不是碘伏用太多了。
+  左膝前筋还有些紧，可以坐下去到脚跟，但是发酸会分心。十几秒后才好一些。
+  关脉较浅，尺脉中等深度，都清晰有力。寸脉在向拇指方向偏一点的位置找到，隐隐约约，中等深度。

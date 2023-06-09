@@ -1,0 +1,24 @@
+name: 胖四娘排骨板栗粽
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 838
+    unit: kj
+    nrv: 10
+  蛋白质:
+    amount: 7.8
+    unit: g
+    nrv: 13
+  脂肪:
+    amount: 3.5
+    unit: g
+    nrv: 6
+  碳水化合物:
+    amount: 33.9
+    unit: g
+    nrv: 11
+  钠:
+    amount: 306
+    unit: mg
+    nrv: 15

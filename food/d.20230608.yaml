@@ -165,6 +165,10 @@ water:
     name: 开水
     amount: 50
     unit: ml
+  - time: 20230609033000
+    name: 开水
+    amount: 200
+    unit: ml
 med:
   - time: 20230608141700
     name: 维福佳复合维生素B
