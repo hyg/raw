@@ -1,0 +1,36 @@
+date: 20230610
+sleep: 
+  time: 20230610021600
+  weight: 57.5
+wake:
+  time: 20230610120000
+  weight: 56.6
+  SpO2: 96
+  PRbpm: 61
+exercise: 
+- time: 20230610121500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 96
+  PRbpm: 87
+  endheartrate: 88
+stool:
+- time: 20230611012500
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  五点多醒了，出去去了一次丰巢，顺便小便，补充150ml水。如果不去应该可以直接再睡着。
+  结痂基本已经脱落，红疹范围有些脱皮。关节运动时这一片皮肤有些发紧，但是皮下已经没有太多感觉。不动的时候反而偶尔皮下一两厘米范围会疼一下。
+  今天左膝比较快适应跪坐姿势。脉搏都清晰，关脉有力、偏浅，尺脉中等深度，寸脉偏浅。

@@ -2,83 +2,51 @@ name: 麦胚芽
 amount: 100
 unit: g
 element:
-  脂肪:
-    amount: 9.7
-    unit: g
-    nrv: 16.17
-  蛋白质:
-    amount: 27.9
-    unit: g
-    nrv: 46.5
   热量:
-    amount: 367
-    unit: kcal
-    nrv: 18.35
+    amount: 1664
+    unit: kj
+    nrv: 20
+  蛋白质:
+    amount: 34.9
+    unit: g
+    nrv: 58
+  脂肪:
+    amount: 10.6
+    unit: g
+    nrv: 18
   碳水化合物:
-    amount: 47
+    amount: 33.7
     unit: g
-    nrv: 15.67
+    nrv: 11
   膳食纤维:
-    amount: 2.1
+    amount: 13.2
     unit: g
-    nrv: 8.4
-  镁:
-    amount: 336
-    unit: mg
-    nrv: 112
-  钙:
-    amount: 72
-    unit: mg
-    nrv: 9
-  磷:
-    amount: 1.118
-    unit: g
-    nrv: 159.71
-  钾:
-    amount: 827
-    unit: mg
-    nrv: 41.35
-  锌:
-    amount: 10.08
-    unit: mg
-    nrv: 67.2
-  铁:
-    amount: 9.4
-    unit: mg
-    nrv: 62.67
-  锰:
-    amount: 13.74
-    unit: mg
-    nrv: 458
-  铜:
-    amount: 740
-    unit: µg
-    nrv: 49.33
+    nrv: 53
   钠:
-    amount: 3
+    amount: 6
     unit: mg
-    nrv: 0.15
-  维生素B1:
-    amount: 2.1
-    unit: mg
-    nrv: 150
-  维生素B2:
-    amount: 600
-    unit: µg
-    nrv: 42.86
-  维生素B6:
-    amount: 1
-    unit: mg
-    nrv: 71.43
+    nrv: 0.3
   维生素E:
-    amount: 22
+    amount: 20.2
     unit: mg
-    nrv: 157.14
-  维生素B5:
-    amount: 800
-    unit: µg
-    nrv: 16
-  维生素B9:
-    amount: 500
-    unit: µg
-    nrv: 125
+    nrv: 144
+  维生素B1:
+    amount: 0.4
+    unit: mg
+    nrv: 29
+  维生素B6:
+    amount: 0.79
+    unit: mg
+    nrv: 56
+  铁:
+    amount: 10.3
+    unit: mg
+    nrv: 69
+  锌:
+    amount: 15.4
+    unit: mg
+    nrv: 103
+  硒:
+    amount: 21.4
+    unit: μg
+    nrv: 43

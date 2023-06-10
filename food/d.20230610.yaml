@@ -1,0 +1,215 @@
+date: 20230610
+food:
+  - time: 20230610125600
+    name: 百香果
+    amount: 86.0
+    unit: g
+  - time: 20230610125900
+    name: 黑青稞
+    amount: 10.0
+    unit: g
+  - time: 20230610125900
+    name: 血麦片
+    amount: 10.0
+    unit: g
+  - time: 20230610125900
+    name: 紫米
+    amount: 10.0
+    unit: g
+  - time: 20230610125900
+    name: 绿豆
+    amount: 5.0
+    unit: g
+  - time: 20230610125900
+    name: 灰枣
+    amount: 18.0
+    unit: g
+  - time: 20230610234500
+    name: 青麦碾转
+    amount: 80.0
+    unit: g
+  - time: 20230610234500
+    name: 梅花肉
+    amount: 26.5
+    unit: g
+  - time: 20230610234500
+    name: 依恋油醋汁
+    amount: 5
+    unit: g
+  - time: 20230610151000
+    name: 枸杞
+    amount: 5.0
+    unit: g
+  - time: 20230610151000
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20230610151000
+    name: 麦胚芽
+    amount: 6.0
+    unit: g
+  - time: 20230610152500
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20230610152500
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20230610155000
+    name: 竹壳茶
+    amount: 1.8
+    unit: g
+  - time: 20230610185700
+    name: 荔枝
+    amount: 107.0
+    unit: g
+  - time: 20230610190000
+    name: 大米
+    amount: 30
+    unit: g
+  - time: 20230610190000
+    name: 黑青稞
+    amount: 10
+    unit: g
+  - time: 20230610190000
+    name: 血麦片
+    amount: 10
+    unit: g
+  - time: 20230610190000
+    name: 紫米
+    amount: 30
+    unit: g
+  - time: 20230610190000
+    name: 杏鲍菇
+    amount: 164.5
+    unit: g
+  - time: 20230610190000
+    name: 西兰花
+    amount: 101.0
+    unit: g
+  - time: 20230610190000
+    name: 小白菜
+    amount: 162.0
+    unit: g
+  - time: 20230610190000
+    name: 鸡蛋
+    amount: 38.5
+    unit: g
+  - time: 20230610190000
+    name: 后腿腊肉
+    amount: 15.5
+    unit: g
+  - time: 20230610190000
+    name: 卤水豆腐
+    amount: 59.5
+    unit: g
+  - time: 20230610190000
+    name: 低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20230610234500
+    name: 山药豆
+    amount: 179.0
+    unit: g
+  - time: 20230610234500
+    name: 蛋饺
+    amount: 44.5
+    unit: g
+  - time: 20230610234500
+    name: 低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20230610235800
+    name: 脱脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20230610235800
+    name: 可可粉
+    amount: 4
+    unit: g
+water:
+  - time: 20230610120200
+    name: 开水
+    amount: 120
+    unit: ml
+  - time: 20230610132500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230610141700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230610152500
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20230610155000
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230610160200
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230610170100
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230610174400
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230610195400
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230610203800
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230610223700
+    name: 竹壳茶
+    amount: 100
+    unit: ml
+  - time: 20230610235800
+    name: 可可奶
+    amount: 81.5
+    unit: ml
+  - time: 20230611020100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230611022000
+    name: 开水
+    amount: 60
+    unit: ml
+med:
+  - time: 20230610132500
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+  - time: 20230610195400
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+  - time: 20230610195400
+    name: 维生素D3
+    amount: 125
+    unit: µg
+  - time: 20230610195400
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230610195400
+    name: daily multi
+    amount: 1
+    unit: 片
+  - time: 20230611022000
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+comment: |+
+  把油籽也移到早餐2之后。
+  今天青麦碾转用150°C下火蒸烤12分钟，剩下5分钟时发现是下火180°C烤，再改回180°C蒸烤10分钟。蒸烤不能选上下火，操作中乱了。
