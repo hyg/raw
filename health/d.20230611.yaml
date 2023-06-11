@@ -1,0 +1,36 @@
+date: 20230611
+sleep: 
+  time: 20230611041800
+  weight: 57.6
+wake:
+  time: 20230611133000
+  weight: 56.7
+  SpO2: 94
+  PRbpm: 58
+exercise: 
+- time: 20230611134500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 87
+  endheartrate: 87
+stool:
+- time: 20230611145500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间醒了两次小便，第二次是送菜敲门醒的。
+  左小腿肚有一处还发痒，深度从表皮到一厘米。但是肉眼看没有异常，是自然脱痂后还有零星碎皮没有脱尽，颜色也和其它患处差不多，比健康皮肤略深。
+  左膝在跪坐姿势已经比较轻松。关脉较浅，尺脉寸脉中等深度。关脉清晰有力，尺脉清晰，寸脉微弱需要挤着腕骨依稀感觉到。

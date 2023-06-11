@@ -1,0 +1,198 @@
+date: 20230611
+food:
+  - time: 20230611141000
+    name: 百香果
+    amount: 78
+    unit: g
+  - time: 20230611141400
+    name: 黑青稞
+    amount: 10.0
+    unit: g
+  - time: 20230611141400
+    name: 血麦片
+    amount: 5.0
+    unit: g
+  - time: 20230611141400
+    name: 紫米
+    amount: 5.0
+    unit: g
+  - time: 20230611141400
+    name: 花生
+    amount: 5.0
+    unit: g
+  - time: 20230611141400
+    name: 灰枣
+    amount: 20.0
+    unit: g
+  - time: 20230611153600
+    name: 胖四娘鲜肉板栗粽
+    amount: 120
+    unit: g
+  - time: 20230611154800
+    name: 枸杞
+    amount: 5.0
+    unit: g
+  - time: 20230611154800
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20230611154800
+    name: 麦胚芽
+    amount: 6.0
+    unit: g
+  - time: 20230611155400
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20230611155400
+    name: 小分子肽粉
+    amount: 2.5
+    unit: g
+  - time: 20230611185700
+    name: 荔枝
+    amount: 101.5
+    unit: g
+  - time: 20230611214400
+    name: 大米
+    amount: 30.0
+    unit: g
+  - time: 20230611214400
+    name: 黑青稞
+    amount: 10.0
+    unit: g
+  - time: 20230611214400
+    name: 血麦片
+    amount: 10.0
+    unit: g
+  - time: 20230611214400
+    name: 紫米
+    amount: 20.0
+    unit: g
+  - time: 20230611214400
+    name: 杏鲍菇
+    amount: 152.0
+    unit: g
+  - time: 20230611214400
+    name: 胡萝卜
+    amount: 92.5
+    unit: g
+  - time: 20230611214400
+    name: 小白菜
+    amount: 93.5
+    unit: g
+  - time: 20230611214400
+    name: 油菜
+    amount: 152.5
+    unit: g
+  - time: 20230611214400
+    name: 后腿腊肉
+    amount: 30.0
+    unit: g
+  - time: 20230611214400
+    name: 东北豆皮
+    amount: 61.5
+    unit: g
+  - time: 20230611214400
+    name: 低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20230612005500
+    name: 圣女果
+    amount: 104.5
+    unit: g
+  - time: 20230612011600
+    name: 青麦碾转
+    amount: 80.0
+    unit: g
+  - time: 20230612011600
+    name: 鹌鹑蛋
+    amount: 29.0
+    unit: g
+  - time: 20230612011600
+    name: 依恋油醋汁
+    amount: 12.5
+    unit: g
+  - time: 20230612013000
+    name: 奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230612013000
+    name: 脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230612013000
+    name: 菊粉
+    amount: 10.0
+    unit: g
+water:
+  - time: 20230611133300
+    name: 开水
+    amount: 120
+    unit: ml
+  - time: 20230611152000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230611155400
+    name: 咖啡
+    amount: 81.5
+    unit: ml
+  - time: 20230611160500
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20230611172600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230611182400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230611190100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230611211600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230611230500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230611234100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230612013000
+    name: 牛奶
+    amount: 80.5
+    unit: ml
+  - time: 20230612025700
+    name: 开水
+    amount: 100
+    unit: ml
+med:
+  - time: 20230611160500
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+  - time: 20230611234100
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+  - time: 20230611234100
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230611234100
+    name: daily multi
+    amount: 1
+    unit: 片
+  - time: 20230612025700
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+comment: |+
+  吃百香果时用去皮功能算吃掉部分，不小心扔掉了四个顶盖，最后读数是82.0，按多扔了4克算，计78克。

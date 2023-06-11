@@ -1,0 +1,24 @@
+name: 东北豆皮
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 585
+    unit: kj
+    nrv: 7
+  蛋白质:
+    amount: 20
+    unit: g
+    nrv: 33
+  脂肪:
+    amount: 5.1
+    unit: g
+    nrv: 9
+  碳水化合物:
+    amount: 3.3
+    unit: g
+    nrv: 1
+  钠:
+    amount: 217
+    unit: mg
+    nrv: 11
