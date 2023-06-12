@@ -1,0 +1,201 @@
+date: 20230612
+food:
+  - time: 20230612124500
+    name: 百香果
+    amount: 77.5
+    unit: g
+  - time: 20230612124700
+    name: 黑青稞
+    amount: 20.0
+    unit: g
+  - time: 20230612124700
+    name: 血麦片
+    amount: 10.0
+    unit: g
+  - time: 20230612124700
+    name: 紫米
+    amount: 10.0
+    unit: g
+  - time: 20230612124700
+    name: 花生
+    amount: 5.0
+    unit: g
+  - time: 20230612124700
+    name: 灰枣
+    amount: 20.0
+    unit: g
+  - time: 20230612143500
+    name: 意面
+    amount: 50.0
+    unit: g
+  - time: 20230612143500
+    name: 鹌鹑蛋
+    amount: 9.0
+    unit: g
+  - time: 20230612143500
+    name: 豆瓣酱
+    amount: 3
+    unit: g
+  - time: 20230612144200
+    name: 枸杞
+    amount: 5.0
+    unit: g
+  - time: 20230612144200
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20230612144200
+    name: 麦胚芽
+    amount: 6.0
+    unit: g
+  - time: 20230612144800
+    name: 奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230612144800
+    name: 脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230612144800
+    name: 小分子肽粉
+    amount: 2.5
+    unit: g
+  - time: 20230612184500
+    name: 橙
+    amount: 156.5
+    unit: g
+  - time: 20230612185800
+    name: 大米
+    amount: 30.0
+    unit: g
+  - time: 20230612185800
+    name: 黑青稞
+    amount: 10.0
+    unit: g
+  - time: 20230612185800
+    name: 血麦片
+    amount: 10.0
+    unit: g
+  - time: 20230612185800
+    name: 紫米
+    amount: 30.0
+    unit: g
+  - time: 20230612185800
+    name: 杏鲍菇
+    amount: 133.5
+    unit: g
+  - time: 20230612185800
+    name: 木耳
+    amount: 10.0
+    unit: g
+  - time: 20230612185800
+    name: 油菜
+    amount: 239.0
+    unit: g
+  - time: 20230612185800
+    name: 后腿腊肉
+    amount: 29.5
+    unit: g
+  - time: 20230612185800
+    name: 东北豆皮
+    amount: 44.5
+    unit: g
+  - time: 20230612185800
+    name: 低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20230612230000
+    name: 圣女果
+    amount: 88.5
+    unit: g
+  - time: 20230612233000
+    name: 大米
+    amount: 45.0
+    unit: g
+  - time: 20230612233000
+    name: 鸡蛋
+    amount: 41.0
+    unit: g
+  - time: 20230612233000
+    name: 生菜
+    amount: 42.0
+    unit: g
+  - time: 20230612233000
+    name: 低钠盐
+    amount: 1
+    unit: g
+  - time: 20230612233800
+    name: 奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230612233800
+    name: 脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230612233800
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20230612120300
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20230612131200
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20230612140200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230612144800
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20230612161500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230612172100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230612182300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230612201900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230612233000
+    name: 粥水
+    amount: 250
+    unit: ml
+  - time: 20230612233800
+    name: 可可奶
+    amount: 80.5
+    unit: ml
+  - time: 20230613002900
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20230612131200
+    name: 维福佳复合维生素B
+    amount: 1
+    unit: 片
+  - time: 20230612201900
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230612201900
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
+  维生素B吃完了。水果换回橙之后，膳食纤维的压力大为减轻。
+  早餐1应该往水果、容易吸收而营养全面的快餐靠拢，饱腹感不能太久。可以改变纯碳水的方案。（试试水果+灰枣+油籽+咖啡？如果不够就用南瓜、红薯）
+  早餐2往半小时备餐、饱腹感长靠拢，营养也应该全面完整。尽量选择低蛋白低脂的主食和单独的肉类，这样更好吃。（试试红薯、绿豆、土豆粉条）
+  而储备的杂粮粥食材，可以挪到晚上。注意早餐补充盐油，不能拖到中午。

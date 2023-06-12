@@ -15,6 +15,23 @@ var startdate,enddate ;
 // Statistics report
 var etable = new Object();  // element data
 var ftable = new Object();  // food data
+// element detail tables
+//const Keyelement = "热量";
+//const Keyelement = "脂肪";
+const Keyelement = "蛋白质";
+//const Keyelement = "碳水化合物";
+//const Keyelement = "钠";
+//const Keyelement = "膳食纤维";
+//const Keyelement = "钙";
+var Detailtable = new Object();
+//var caloriesTable = new Object(); 
+//var ProteinTable = new Object(); 
+//var FatTable = new Object(); 
+//var CarbohydrateTable = new Object(); 
+//var SodiumTable  = new Object(); 
+//var DietaryFiberTable = new Object();
+//var CalciumTable = new Object();
+
 
 // read the arguments
 var arguments = process.argv.splice(2);
@@ -165,6 +182,13 @@ function foodyearlog(year) {
 
 // display the tables
 function showtables(){
+    if(typeof Keyelement !== "undefined" && Keyelement !== null)
+    {
+        console.log(Keyelement+"明细表");
+        console.table(Detailtable);
+    }
+    
+
     console.log(">> 脂肪供能%d%%  碳水供能%d%%  蛋白质供能%d%% <<",(etable["脂肪"].amount*9.0*100/etable["热量"].amount).toFixed(2),(etable["碳水化合物"].amount*4*100/etable["热量"].amount).toFixed(2),(etable["蛋白质"].amount*4*100/etable["热量"].amount).toFixed(2));
     console.log("名称\t\t总数量\t\t日均\t单位\tNRV(%)");
     let keysSorted = Object.keys(etable).sort(function (a, b) { return etable[a].nrv - etable[b].nrv })
@@ -247,6 +271,7 @@ function fooddaysum(date,etable,ftable){
     }
 
     var food = d.food;
+    var keycnt = 1 ;
 
     for (var id in food) {
         if (food[id].name in emap) {
@@ -280,16 +305,31 @@ function fooddaysum(date,etable,ftable){
                     // new element
                     etable[e] = item;
                 }
-                //if(fooddata.name == "胶原蛋白肽粉") console.log(fooddata.name+"\tamount:"+fooddata.element["锌"].amount+"\tunit:"+fooddata.element["锌"].unit+"\tnrv:"+fooddata.element["锌"].nrv);
-                var nametab = "\t\t\t"
+                
+                // detail data
+                if(typeof Keyelement !== "undefined" && Keyelement !== null)
+                {
+                    if(e==Keyelement){
+                        var data = new Object();
+                        data["名称"] = food[id].name ;
+                        data["摄入数量"] = food[id].amount+food[id].unit ;
+                        data["含有"+Keyelement] = item.amount.toFixed(3)+item.unit ;
+                        data["累计摄入"] = etable[e].amount.toFixed(3)+item.unit ;
+                        data["累计nrv"] = etable[e].nrv.toFixed(2)+"%" ;
+    
+                        Detailtable[keycnt++] = data ;
+                    };
+                };
+
+                // testlog: element detail
+                /*var nametab = "\t\t\t"
                 if (food[id].name.replace(/[^\x00-\xff]/g, '**').length >= 8) {
                     nametab = "\t\t";
                 }
                 if (food[id].name.replace(/[^\x00-\xff]/g, '**').length >= 16) {
                     nametab = "\t";
-                }
-                // testlog: element detail
-                if(e=="膳食纤维") console.log(food[id].amount+food[id].unit+"\t"+food[id].name+nametab+"含有"+item.amount.toFixed(8)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(8)+item.unit+"\t累计nrv:"+etable[e].nrv.toFixed(2)+"%");
+                } */
+                //if(e=="膳食纤维") console.log(food[id].amount+food[id].unit+"\t"+food[id].name+nametab+"含有"+item.amount.toFixed(2)+item.unit+"\t累计摄入："+etable[e].amount.toFixed(2)+item.unit+"\t累计nrv:"+etable[e].nrv.toFixed(2)+"%");
             }
             delete food[id];
         } else {
@@ -339,6 +379,20 @@ function fooddaysum(date,etable,ftable){
                     // new element
                     etable[e] = item;
                 }
+                // detail data
+                if(typeof Keyelement !== "undefined" && Keyelement !== null)
+                {
+                    if(e==Keyelement){
+                        var data = new Object();
+                        data["名称"] = med[id].name ;
+                        data["摄入数量"] = med[id].amount+med[id].unit ;
+                        data["含有"+Keyelement] = item.amount.toFixed(3)+item.unit ;
+                        data["累计摄入"] = etable[e].amount.toFixed(3)+item.unit ;
+                        data["累计nrv"] = etable[e].nrv.toFixed(2)+"%" ;
+
+                        Detailtable[keycnt++] = data ;
+                    };
+                };
                 //if(e=="维生素C") console.log(med[id].amount+med[id].unit+"的"+med[id].name+"\t含有"+item.amount.toFixed(10)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(10)+"\t累计nrv:"+etable[e].nrv.toFixed(2));
             }
             

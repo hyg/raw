@@ -1,0 +1,36 @@
+date: 20230612
+sleep: 
+  time: 20230612051800
+  weight: 57.7
+wake:
+  time: 20230612120000
+  weight: 56.9
+  SpO2: 95
+  PRbpm: 61
+exercise: 
+- time: 20230612121500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 83
+  endheartrate: 84
+stool:
+- time: 20230612204000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间小便两次。醒来时不觉得被子厚，起床时有些乏。
+  左小腿肚还有一处疤痕略微发痒发热，而且有一厘米左右深度。
+  左膝前后都基本适应拉伸。关脉浅，尺脉其次，寸脉中等深度。关脉寸脉清晰有力，尺脉清晰、力度中等。

@@ -173,6 +173,10 @@ water:
     name: 开水
     amount: 100
     unit: ml
+  - time: 20230612045400
+    name: 开水
+    amount: 100
+    unit: ml
 med:
   - time: 20230611160500
     name: 维福佳复合维生素B
