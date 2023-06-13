@@ -1,0 +1,36 @@
+date: 20230613
+sleep: 
+  time: 20230613042800
+  weight: 57.7
+wake:
+  time: 20230613140000
+  weight: 56.7
+  SpO2: 96
+  PRbpm: 65
+exercise: 
+- time: 20230613141500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 94
+  endheartrate: 90
+stool:
+- time: 20230613220500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  九点多起来小便一次。当时血氧95、心率60。
+  醒来时疤痕处没有发痒发热。
+  运动后跪坐姿势左膝还算轻松，不影响放松。深度：关脉较浅、尺脉中、寸脉深；关脉清晰有力、尺脉清晰、寸脉微弱。
