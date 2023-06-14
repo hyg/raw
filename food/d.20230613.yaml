@@ -161,6 +161,10 @@ water:
     name: 可可奶
     amount: 80.0
     unit: ml
+  - time: 20230614044500
+    name: 开水
+    amount: 50
+    unit: ml
 med:
   - time: 20230613213600
     name: 维生素D3

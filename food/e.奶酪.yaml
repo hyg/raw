@@ -6,18 +6,22 @@ element:
     amount: 328
     unit: kcal
     nrv: 16
-  碳水化合物:
-    amount: 3.5
-    unit: g
-    nrv: 1
-  脂肪:
-    amount: 23.5
-    unit: g
-    nrv: 39
   蛋白质:
     amount: 25.7
     unit: g
     nrv: 43
+  脂肪:
+    amount: 23.5
+    unit: g
+    nrv: 39
+  碳水化合物:
+    amount: 3.5
+    unit: g
+    nrv: 1
+  钠:
+    amount: 584.6
+    unit: mg
+    nrv: 29
   维生素A:
     amount: 152
     unit: µg
@@ -42,10 +46,6 @@ element:
     amount: 799
     unit: mg
     nrv: 100
-  钠:
-    amount: 584.6
-    unit: mg
-    nrv: 29
   铁:
     amount: 2.4
     unit: mg

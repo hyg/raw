@@ -1,0 +1,36 @@
+date: 20230614
+sleep: 
+  time: 20230614050500
+  weight: 57.6
+wake:
+  time: 20230614130200
+  weight: 56.8
+  SpO2: 96
+  PRbpm: 62
+exercise: 
+- time: 20230614131500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 88
+  endheartrate: 82
+stool:
+- time: 20230614212500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间起床小便一次。醒来时脚掌发热，身上还好，被子包着肩膀才正好。起床前血氧一度降到90以下，睁眼看又慢慢升回来。
+  左小腿肚有一处疤痕皮下隐痛，其余没有异常。早晚两次喷碘伏，此外不再用药。
+  左膝前后筋都正常，把脉后站起来时发酸，需要手扶一下。深度：关脉较浅，尺脉中，寸脉偏深。关脉清晰有力，尺脉偏模糊，寸脉很模糊、几乎找不到。

@@ -2,7 +2,27 @@ name: 奶酪
 fullname: 柏札莱马苏里拉奶酪
 amount: 100
 unit: g
-element:
+element:  
+  热量:
+    amount: 1164
+    unit: kj
+    nrv: 14
+  蛋白质:
+    amount: 20
+    unit: g
+    nrv: 33
+  脂肪:
+    amount: 22
+    unit: g
+    nrv: 37
+  碳水化合物:
+    amount: 0.6
+    unit: g
+    nrv: 0
+  钠:
+    amount: 240
+    unit: mg
+    nrv: 12
   钙:
     amount: 350
     unit: mg
@@ -11,23 +31,3 @@ element:
     amount: 219
     unit: µg
     nrv: 27
-  钠:
-    amount: 240
-    unit: mg
-    nrv: 12
-  碳水化合物:
-    amount: 0.6
-    unit: g
-    nrv: 0
-  脂肪:
-    amount: 22
-    unit: g
-    nrv: 37
-  蛋白质:
-    amount: 20
-    unit: g
-    nrv: 33
-  热量:
-    amount: 1164
-    unit: kj
-    nrv: 14
