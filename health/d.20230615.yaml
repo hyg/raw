@@ -1,0 +1,37 @@
+date: 20230615
+sleep: 
+  time: 20230615051700
+  weight: 57.6
+wake:
+  time: 20230615130000
+  weight: 56.9
+  SpO2: 96
+  PRbpm: 62
+exercise: 
+- time: 20230615131500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 96
+  PRbpm: 92
+  endheartrate: 96
+stool:
+- time: 20230615154500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  11点多醒来小便，其实也可以直接起床或继续睡到13点。
+  昨晚洗澡剃头后，睡帽脱落会鼻塞。穿着T恤、德绒秋裤盖薄毯薄被，醒来时身上发热，露出胳膊肩膀正合适，小腿和脚掌发热。
+  左腿结痂处已经不痒。左膝可以轻松跪坐下来，一分钟后起来时发酸需要手扶。
+  关脉较浅、尺脉寸脉中等深度。尺脉寸脉要靠近关脉找到，都清晰，关脉清晰有力。
