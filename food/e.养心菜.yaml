@@ -1,0 +1,56 @@
+name: 养心菜
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 45
+    unit: kcal
+    nrv: 2.6
+  蛋白质:
+    amount: 2.1
+    unit: g
+    nrv: 3.2
+  脂肪:
+    amount: 0.7
+    unit: g
+    nrv: 1.6
+  碳水化合物:
+    amount: 8
+    unit: g
+    nrv: 2.7
+  膳食纤维:
+    amount: 1.5
+    unit: g
+    nrv: 5
+  维生素A:
+    amount: 2.8
+    unit: mg
+    nrv: 0.4
+  维生素B2:
+    amount: 0.31
+    unit: mg
+    nrv: 22
+  维生素B1:
+    amount: 0.05
+    unit: mg
+    nrv: 3.6
+  维生素B3:
+    amount: 0.9
+    unit: mg
+    nrv: 6.4
+  维生素C:
+    amount: 95
+    unit: mg
+    nrv: 95
+  钙:
+    amount: 500
+    unit: mg
+    nrv: 62.5
+  磷:
+    amount: 29
+    unit: mg
+    nrv: 4
+  铁:
+    amount: 3.2
+    unit: mg
+    nrv: 26.7
