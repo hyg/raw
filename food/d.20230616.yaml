@@ -44,7 +44,7 @@ food:
     name: 低钠盐
     amount: 1
     unit: g
-  - time: 202306161920400
+  - time: 20230616190400
     name: 橙
     amount: 196.0
     unit: g

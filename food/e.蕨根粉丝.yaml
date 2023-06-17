@@ -1,0 +1,20 @@
+name: 蕨根粉丝
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1515
+    unit: kj
+    nrv: 18
+  脂肪:
+    amount: 0.7
+    unit: g
+    nrv: 1.6
+  碳水化合物:
+    amount: 87.6
+    unit: g
+    nrv: 29
+  钠:
+    amount: 9
+    unit: mg
+    nrv: 0.6
