@@ -22,11 +22,11 @@ element:
     amount: 44
     unit: kcal
     nrv: 2.2
-  维生素C:
+  VC(抗坏血酸):
     amount: 6
     unit: mg
     nrv: 6
-  维生素E:
+  VE(生育酚):
     amount: 1.34
     unit: mg
     nrv: 9.57

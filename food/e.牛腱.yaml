@@ -22,11 +22,11 @@ element:
     amount: 54
     unit: mg
     nrv: 18
-  维生素A:
+  VA(视黄醇等):
     amount: 3
     unit: µg
     nrv: 0.375
-  维生素E:
+  VE(生育酚):
     amount: 780
     unit: µg
     nrv: 5.57

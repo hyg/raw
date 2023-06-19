@@ -42,7 +42,7 @@ element:
     amount: 0.2
     unit: mg
     nrv: 2
-  维生素C:
+  VC(抗坏血酸):
     amount: 2.8
     unit: mg
     nrv: 3
@@ -50,7 +50,7 @@ element:
     amount: 16
     unit: μg
     nrv: 2
-  叶酸:
+  VB9(叶酸):
     amount: 7
     unit: μg
     nrv: 2

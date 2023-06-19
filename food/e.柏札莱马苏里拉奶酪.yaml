@@ -27,7 +27,7 @@ element:
     amount: 350
     unit: mg
     nrv: 44
-  维生素A:
+  VA(视黄醇等):
     amount: 219
     unit: µg
     nrv: 27

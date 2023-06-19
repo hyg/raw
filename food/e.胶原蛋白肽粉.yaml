@@ -26,7 +26,7 @@ element:
     amount: 56
     unit: mg
     nrv: 3
-  维生素C:
+  VC(抗坏血酸):
     amount: 171.0
     unit: mg
     nrv: 171

@@ -22,7 +22,7 @@ element:
     amount: 3.1
     unit: g
     nrv: 1.03
-  维生素E:
+  VE(生育酚):
     amount: 4.98
     unit: mg
     nrv: 35.57

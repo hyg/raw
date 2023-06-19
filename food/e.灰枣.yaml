@@ -26,11 +26,11 @@ element:
     amount: 8.2
     unit: g
     nrv: 24.3
-  维生素A:
+  VA(视黄醇等):
     amount: 55
     unit: "µg"
     nrv: 6.1
-  维生素C:
+  VC(抗坏血酸):
     amount: 1
     unit: "mg"
     nrv: 1.1

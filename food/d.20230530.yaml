@@ -195,7 +195,7 @@ med:
     amount: 3
     unit: 片
   - time: 20230530233000
-    name: 维生素D3
+    name: 维生素D3:
     amount: 125
     unit: µg
   - time: 20230530233000

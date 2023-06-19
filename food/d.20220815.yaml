@@ -143,7 +143,7 @@ water:
   unit: ml
 med:
 - time: 20220816000500  
-  name: 维生素D3
+  name: 维生素D3:
   amount: 125
   unit: µg
 - time: 20220816102900  

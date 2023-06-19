@@ -64,7 +64,7 @@ med:
   amount: 100
   unit: µg
 - time: 20170731093000
-  name: 维生素D3
+  name: 维生素D3:
   amount: 400
   unit: U
 comment: |+

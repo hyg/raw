@@ -22,11 +22,11 @@ element:
     amount: 2.25
     unit: g
     nrv: 9.0
-  维生素B1:
+  VB1(硫胺素):
     amount: 0.12
     unit: mg
     nrv: 8.0
-  维生素B2:
+  VB2(核黄素):
     amount: 0.1
     unit: mg
     nrv: 5.9

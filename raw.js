@@ -21,8 +21,8 @@ var ftable = new Object();  // food data
 //const Keyelement = "蛋白质";
 //const Keyelement = "碳水化合物";
 //const Keyelement = "钠";
-const Keyelement = "膳食纤维";
-//const Keyelement = "钙";
+//const Keyelement = "膳食纤维";
+const Keyelement = "钙";
 var keycnt = 1 ;
 var Detailtable = new Object();
 //var caloriesTable = new Object(); 
@@ -392,7 +392,7 @@ function fooddaysum(date,etable,ftable){
                         Detailtable[keycnt++] = data ;
                     };
                 };
-                //if(e=="维生素C") console.log(med[id].amount+med[id].unit+"的"+med[id].name+"\t含有"+item.amount.toFixed(10)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(10)+"\t累计nrv:"+etable[e].nrv.toFixed(2));
+                //if(e=="VC(抗坏血酸)") console.log(med[id].amount+med[id].unit+"的"+med[id].name+"\t含有"+item.amount.toFixed(10)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(10)+"\t累计nrv:"+etable[e].nrv.toFixed(2));
             }
             
             delete med[id];

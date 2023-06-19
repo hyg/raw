@@ -26,7 +26,7 @@ element:
     amount: 300
     unit: mg
     nrv: 15
-  维生素B2:
+  VB2(核黄素):
     amount: 0.18
     unit: mg
     nrv: 11

@@ -38,7 +38,7 @@ element:
     amount: 30
     unit: mg
     nrv: 8
-  维生素B12:
+  VB12(钴胺素):
     amount: 4.4
     unit: µg
     nrv: 73

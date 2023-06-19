@@ -22,11 +22,11 @@ element:
     amount: 0
     unit: g
     nrv: 0
-  维生素A:
+  VA(视黄醇等):
     amount: 3
     unit: "µg"
     nrv: 0.3
-  维生素E:
+  VE(生育酚):
     amount: 0.34
     unit: "mg"
     nrv: 2.3

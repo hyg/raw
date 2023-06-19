@@ -167,7 +167,7 @@ med:
   amount: 1000
   unit: mg
 - time: 20230304180900  
-  name: 维生素D3
+  name: 维生素D3:
   amount: 125
   unit: µg
 - time: 20230304180900  

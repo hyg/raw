@@ -2,7 +2,7 @@ name: 李子
 amount: 100
 unit: g
 element:
-  能量:
+  热量:
     amount: 157
     unit: kcal
     nrv: 8
@@ -58,23 +58,23 @@ element:
     amount: 0.2
     unit: μg
     nrv: 0
-  维生素A:
+  VA(视黄醇等):
     amount: 25
     unit: μg
     nrv: 3
-  维生素B1:
+  VB1(硫胺素):
     amount: 0.01
     unit: mg
     nrv: 1
-  维生素B2:
+  VB2(核黄素):
     amount: 0.02
     unit: mg
     nrv: 2
-  维生素C:
+  VC(抗坏血酸):
     amount: 5
     unit: mg
     nrv: 5
-  维生素E:
+  VE(生育酚):
     amount: 0.3
     unit: mg
     nrv: 3
