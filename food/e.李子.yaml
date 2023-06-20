@@ -4,8 +4,8 @@ unit: g
 element:
   热量:
     amount: 157
-    unit: kcal
-    nrv: 8
+    unit: kj
+    nrv: 2
   蛋白质:
     amount: 0.7
     unit: g

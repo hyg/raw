@@ -1,0 +1,72 @@
+name: 空心菜
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 19
+    unit: kcal
+    nrv: 1.1
+  蛋白质:
+    amount: 2.6
+    unit: g
+    nrv: 4
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0.4
+  碳水化合物:
+    amount: 3.1
+    unit: g
+    nrv: 1.2
+  膳食纤维:
+    amount: 2.1
+    unit: g
+    nrv: 7
+  钠:
+    amount: 113
+    unit: mg
+    nrv: 7.5
+  VA(视黄醇等):
+    amount: 315
+    unit: μg
+    nrv: 39
+  VB1(硫胺素):
+    amount: 0.03
+    unit: mg
+    nrv: 2.1
+  VB2(核黄素):
+    amount: 0.1
+    unit: mg
+    nrv: 7  
+  VB6(吡哆素):
+    amount: 0.1
+    unit: mg
+    nrv: 7
+  VC(抗坏血酸):
+    amount: 55
+    unit: mg
+    nrv: 55
+  钙:
+    amount: 77
+    unit: mg
+    nrv: 9.6
+  磷:
+    amount: 39
+    unit: mg
+    nrv: 5.4
+  钾:
+    amount: 32
+    unit: mg
+    nrv: 1.6
+  镁:
+    amount: 71
+    unit: mg
+    nrv: 21.5
+  铁:
+    amount: 1.7
+    unit: mg
+    nrv: 14
+  锌:
+    amount: 0.18
+    unit: mg
+    nrv: 1.4

@@ -22,10 +22,10 @@ element:
     amount: 1.5
     unit: g
     nrv: 5
-  VA(视黄醇等):
+  胡萝卜素:
     amount: 2.8
     unit: mg
-    nrv: 0.4
+    nrv: 77.8
   VB2(核黄素):
     amount: 0.31
     unit: mg
