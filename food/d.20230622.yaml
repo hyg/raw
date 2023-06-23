@@ -1,0 +1,182 @@
+date: 20230622
+food:
+  - time: 20230622145100
+    name: 百香果
+    amount: 72.0
+    unit: g
+  - time: 20230622145300
+    name: 枸杞
+    amount: 5.0
+    unit: g
+  - time: 20230622145300
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20230622145300
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20230622150100
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20230622150100
+    name: 胶原蛋白肽粉
+    amount: 3.0
+    unit: g
+  - time: 20230622164500
+    name: 蕨根粉丝
+    amount: 80.5
+    unit: g
+  - time: 20230622164500
+    name: 后腿腊肉
+    amount: 31.5
+    unit: g
+  - time: 20230622164500
+    name: 杏鲍菇
+    amount: 101.5
+    unit: g
+  - time: 20230622164500
+    name: 娃娃菜
+    amount: 97.0
+    unit: g
+  - time: 20230622164500
+    name: 低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20230622192500
+    name: 李子
+    amount: 54.0
+    unit: g
+  - time: 20230622192500
+    name: 圣女果
+    amount: 49.5
+    unit: g
+  - time: 20230622193200
+    name: 胖四娘排骨板栗粽
+    amount: 120
+    unit: g
+  - time: 20230622193200
+    name: 胡萝卜
+    amount: 80.0
+    unit: g
+  - time: 20230622193200
+    name: 空心菜
+    amount: 144.5
+    unit: g
+  - time: 20230622193200
+    name: 油菜
+    amount: 138.5
+    unit: g
+  - time: 20230622193200
+    name: 东北豆皮
+    amount: 40.0
+    unit: g
+  - time: 20230622193200
+    name: 低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20230622193200
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20230623004000
+    name: 圣女果
+    amount: 72.0
+    unit: g
+  - time: 20230623004200
+    name: 大米
+    amount: 29.0
+    unit: g
+  - time: 20230623004200
+    name: 血麦片
+    amount: 10.0
+    unit: g
+  - time: 20230623004200
+    name: 紫米
+    amount: 10.0
+    unit: g
+  - time: 20230623004200
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20230623004200
+    name: 花生
+    amount: 5.0
+    unit: g
+  - time: 20230623004200
+    name: 灰枣
+    amount: 30.5
+    unit: g
+  - time: 20230623010500
+    name: 奶粉
+    amount: 22.0
+    unit: g
+  - time: 20230623010500
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20230622140500
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20230622150100
+    name: 牛奶
+    amount: 81.0
+    unit: ml
+  - time: 20230622151000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230622161200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230622175500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230622185000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230622201200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230622211300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230622221200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230622232800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230623010500
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20230623011500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230623053000
+    name: 开水
+    amount: 50
+    unit: ml
+med:
+  - time: 20230623011500
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230623011500
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
+  

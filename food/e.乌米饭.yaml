@@ -1,0 +1,24 @@
+name: 乌米饭
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2300
+    unit: kj
+    nrv: 32
+  蛋白质:
+    amount: 28.2
+    unit: g
+    nrv: 39
+  脂肪:
+    amount: 13.5
+    unit: g
+    nrv: 18
+  碳水化合物:
+    amount: 1.0
+    unit: g
+    nrv: 1
+  钠:
+    amount: 345
+    unit: mg
+    nrv: 18

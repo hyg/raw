@@ -26,8 +26,8 @@ exercise:
   PRbpm: 84
   endheartrate: 90
 stool:
-- time: 20230621154000
-  amount:   2   #	1:多; 2:适中;	3:少
+- time: 20230622030300
+  amount:   1   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 comment: |+

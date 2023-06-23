@@ -123,7 +123,7 @@ med:
   amount: 1
   unit: g
 - time: 20220627053000  
-  name: 维生素D3:
+  name: 维生素D3
   amount: 125
   unit: µg
 - time: 20220627053000  
