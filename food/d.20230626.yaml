@@ -157,6 +157,10 @@ water:
     name: 竹壳茶
     amount: 250
     unit: ml
+  - time: 20230627082000
+    name: 竹壳茶
+    amount: 75
+    unit: ml
 med:
   - time: 20230626225300
     name: selenium

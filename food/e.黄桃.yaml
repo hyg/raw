@@ -1,0 +1,52 @@
+name: 黄桃
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 236
+    unit: kj
+    nrv: 3
+  碳水化合物:
+    amount: 14.0
+    unit: g
+    nrv: 5.6
+  蛋白质:
+    amount: 0.5
+    unit: g
+    nrv: 1
+  脂肪:
+    amount: 0.1
+    unit: g
+    nrv: 0.1
+  膳食纤维:
+    amount: 1.2
+    unit: g
+    nrv: 5
+  VA(视黄醇等):
+    amount: 15
+    unit: μg
+    nrv: 2
+  VE(生育酚):
+    amount: 0.92
+    unit: mg
+    nrv: 6
+  VB2(核黄素):
+    amount: 0.01
+    unit: mg
+    nrv: 1
+  VC(抗坏血酸):
+    amount: 9.0
+    unit: mg
+    nrv: 10
+  VB3(烟酸):
+    amount: 0.30
+    unit: mg
+    nrv: 2
+  磷:
+    amount: 7
+    unit: mg
+    nrv: 1
+  硒:
+    amount: 0.8
+    unit: μg
+    nrv: 1
