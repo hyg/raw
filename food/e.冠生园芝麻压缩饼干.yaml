@@ -1,0 +1,24 @@
+name: 冠生园芝麻压缩饼干
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1947
+    unit: kj
+    nrv: 23
+  碳水化合物:
+    amount: 65.9
+    unit: g
+    nrv: 22
+  蛋白质:
+    amount: 8.5
+    unit: g
+    nrv: 14
+  脂肪:
+    amount: 17.8
+    unit: g
+    nrv: 30
+  钠:
+    amount: 171
+    unit: mg
+    nrv: 9
