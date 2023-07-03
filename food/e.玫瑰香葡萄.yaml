@@ -1,0 +1,36 @@
+name: 玫瑰香葡萄
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 50
+    unit: kcal
+    nrv: 2.9
+  碳水化合物:
+    amount: 11.1
+    unit: g
+    nrv: 4.4
+  膳食纤维:
+    amount: 1
+    unit: g
+    nrv: 4
+  蛋白质:
+    amount: 0.4
+    unit: g
+    nrv: 0.6
+  脂肪:
+    amount: 0.4
+    unit: g
+    nrv: 0.8
+  钠:
+    amount: 2.4
+    unit: mg
+    nrv: 0.2
+  钾:
+    amount: 104
+    unit: mg
+    nrv: 5.2
+  VC(抗坏血酸):
+    amount: 25
+    unit: mg
+    nrv: 25

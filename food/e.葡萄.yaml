@@ -1,0 +1,36 @@
+name: 葡萄
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 43
+    unit: kcal
+    nrv: 2.5
+  碳水化合物:
+    amount: 9.9
+    unit: g
+    nrv: 4
+  膳食纤维:
+    amount: 0.4
+    unit: g
+    nrv: 1.6
+  蛋白质:
+    amount: 0.5
+    unit: g
+    nrv: 0.8
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0
+  钠:
+    amount: 2
+    unit: mg
+    nrv: 0
+  钾:
+    amount: 104
+    unit: mg
+    nrv: 5.2
+  VC(抗坏血酸):
+    amount: 25
+    unit: mg
+    nrv: 25

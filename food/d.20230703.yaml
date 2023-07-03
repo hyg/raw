@@ -1,0 +1,173 @@
+date: 20230703
+food:
+  - time: 20230703162500
+    name: 百香果
+    amount: 50.5
+    unit: g
+  - time: 20230703181000
+    name: 枸杞
+    amount: 5.0
+    unit: g
+  - time: 20230703181000
+    name: 桑葚干
+    amount: 5.0
+    unit: g
+  - time: 20230703181000
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20230703181000
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20230703163500
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20230703163500
+    name: 胶原蛋白肽粉
+    amount: 3
+    unit: g
+  - time: 20230703181000
+    name: 青麦碾转
+    amount: 71.0
+    unit: g
+  - time: 20230703181000
+    name: 蛋饺
+    amount: 44.5
+    unit: g
+  - time: 20230703181000
+    name: 娃娃菜
+    amount: 90.0
+    unit: g
+  - time: 20230703181000
+    name: 低钠盐
+    amount: 1.5
+    unit: g
+  - time: 20230703205500
+    name: 玫瑰香葡萄
+    amount: 177.0
+    unit: g
+  - time: 20230703210300
+    name: 萌享庄园乌米经典鲜肉粽
+    amount: 120
+    unit: g
+  - time: 20230703210300
+    name: 西兰花
+    amount: 75.0
+    unit: g
+  - time: 20230703210300
+    name: 菜心
+    amount: 112.0
+    unit: g
+  - time: 20230703210300
+    name: 油菜
+    amount: 121.0
+    unit: g
+  - time: 20230703210300
+    name: 卤水豆腐
+    amount: 100.0
+    unit: g
+  - time: 20230703210300
+    name: 低钠盐
+    amount: 1.5
+    unit: g
+  - time: 20230703210300
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20230704015000
+    name: 橙
+    amount: 110.0
+    unit: g
+  - time: 20230704015700
+    name: 黑青稞
+    amount: 20.0
+    unit: g
+  - time: 20230704015700
+    name: 紫米
+    amount: 20.0
+    unit: g
+  - time: 20230704015700
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20230704015700
+    name: 花生
+    amount: 5.5
+    unit: g
+  - time: 20230704015700
+    name: 灰枣
+    amount: 15.0
+    unit: g
+  - time: 20230704015700
+    name: 红薯
+    amount: 121.5
+    unit: g  
+  - time: 20230704022300
+    name: 奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230704022300
+    name: 脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230704022300
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20230703154300
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20230703163500
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20230703170000
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230703170800
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230703182700
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230703191100
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230703214300
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230703230300
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230704003600
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230704022300
+    name: 可可奶
+    amount: 80.5
+    unit: ml
+  - time: 20230704032000
+    name: 竹壳茶
+    amount: 150
+    unit: ml
+med:
+  - time: 20230703214300
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230703214300
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+

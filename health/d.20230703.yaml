@@ -1,0 +1,35 @@
+date: 20230703
+sleep: 
+  time: 20230703085600
+  weight: 56.0
+wake:
+  time: 20230703154000
+  weight: 55.5
+  SpO2: 95
+  PRbpm: 62
+exercise: 
+- time: 20230703155500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 89
+  endheartrate: 93
+stool:
+- time: 20230703190000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡前9个小时只喝了130ml水，睡觉中间没有起来小便，也不觉得很渴。穿长裤短袖盖抓绒毯合适，没有戴帽。
+  运动后把脉：关脉尺脉中偏浅，清晰，偶尔需要重新找一下；寸脉摸不到，至多隐隐约约。
