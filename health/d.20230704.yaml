@@ -1,0 +1,35 @@
+date: 20230704
+sleep: 
+  time: 20230704061100
+  weight: 56.2
+wake:
+  time: 20230704140000
+  weight: 55.5
+  SpO2: 96
+  PRbpm: 61
+exercise: 
+- time: 20230704141500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 86
+  endheartrate: 89
+stool:
+- time: 20230704175000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  13点起床小便一次，补充50ml水。穿长裤短袖盖抓绒毯正合适，不需要戴帽。
+  运动后把脉：关脉中偏浅、尺脉中、寸脉深，关脉尺脉清晰有力，寸脉隐隐约约、有时分不清是不是手指在跳。
