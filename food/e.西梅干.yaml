@@ -1,0 +1,20 @@
+name: 西梅干
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1148
+    unit: kj
+    nrv: 14
+  碳水化合物:
+    amount: 65
+    unit: g
+    nrv: 22
+  膳食纤维:
+    amount: 7.5
+    unit: g
+    nrv: 30
+  蛋白质:
+    amount: 2.5
+    unit: g
+    nrv: 4

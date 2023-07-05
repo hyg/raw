@@ -4,19 +4,19 @@ food:
     name: 百香果
     amount: 74.0
     unit: g
-  - time: 202307041450000
+  - time: 20230704145000
     name: 枸杞
     amount: 5.0
     unit: g
-  - time: 202307041450000
+  - time: 20230704145000
     name: 桑葚干
     amount: 5.0
     unit: g
-  - time: 202307041450000
+  - time: 20230704145000
     name: 亚麻籽
     amount: 5.0
     unit: g
-  - time: 202307041450000
+  - time: 20230704145000
     name: 麦胚芽
     amount: 10.0
     unit: g
