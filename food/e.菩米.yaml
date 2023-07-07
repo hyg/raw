@@ -1,0 +1,16 @@
+name: 菩米
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1452
+    unit: kj
+    nrv: 17
+  蛋白质:
+    amount: 7
+    unit: g
+    nrv: 12
+  碳水化合物:
+    amount: 77.3
+    unit: g
+    nrv: 26
