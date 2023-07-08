@@ -24,7 +24,7 @@ element:
     nrv: 4.3
   钠:
     amount: 2.3
-    unit: g
+    unit: mg
     nrv: 0.2
   VA(视黄醇等):
     amount: 75
