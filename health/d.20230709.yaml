@@ -1,0 +1,35 @@
+date: 20230709
+sleep: 
+  time: 20230709062900
+  weight: 55.9
+wake:
+  time: 202307091401000
+  weight: 55.1
+  SpO2: 95
+  PRbpm: 62
+exercise: 
+- time: 20230709141600
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 96
+  PRbpm: 83
+  endheartrate: 86
+stool:
+- time: 20230709160000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间起来小便一次。穿长袖长裤戴帽盖抓绒毯，脱帽不觉得凉。
+  运动后把脉：关脉浅、尺脉中、寸脉深；关脉清晰有力、尺脉寸脉清晰。

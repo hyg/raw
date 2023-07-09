@@ -1,0 +1,137 @@
+date: 20230709
+food:
+  - time: 20230709145000
+    name: 百香果
+    amount: 107.0
+    unit: g
+  - time: 20230709145100
+    name: 枸杞
+    amount: 5.0
+    unit: g
+  - time: 20230709145100
+    name: 桑葚干
+    amount: 5.0
+    unit: g
+  - time: 20230709145100
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20230709145100
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20230709150500
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20230709150500
+    name: 胶原蛋白肽粉
+    amount: 3.0
+    unit: g
+  - time: 20230709164000
+    name: 白象菌菇三鲜蒸煎饺
+    amount: 102.5
+    unit: g
+  - time: 20230709164000
+    name: 南瓜
+    amount: 79.0
+    unit: g
+  - time: 20230709164000
+    name: 杏鲍菇
+    amount: 89.5
+    unit: g
+  - time: 20230709164000
+    name: 低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20230709190700
+    name: 橙
+    amount: 101.5
+    unit: g
+  - time: 20230709190900
+    name: 菩米
+    amount: 30.0
+    unit: g
+  - time: 20230709190900
+    name: 紫米
+    amount: 30.0
+    unit: g
+  - time: 20230709190900
+    name: 血麦片
+    amount: 15.0
+    unit: g
+  - time: 20230709190900
+    name: 西兰花
+    amount: 102.0
+    unit: g
+  - time: 20230709190900
+    name: 小白菜
+    amount: 86.0
+    unit: g
+  - time: 20230709190900
+    name: 油菜
+    amount: 110.0
+    unit: g
+  - time: 20230709190900
+    name: 卤水豆腐
+    amount: 90.0
+    unit: g
+  - time: 20230709190900
+    name: 鸡蛋
+    amount: 55.0
+    unit: g
+  - time: 20230709190900
+    name: 低钠盐
+    amount: 1.5
+    unit: g
+  - time: 20230709190900
+    name: 油
+    amount: 1.0
+    unit: g
+water:
+  - time: 20230709140600
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20230709150500
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20230709153400
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230709155600
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230709161100
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230709170300
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230709181300
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230709205000
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230709214500
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+med:
+  - time: 20230709205000
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230709205000
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+

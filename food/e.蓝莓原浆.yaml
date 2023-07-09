@@ -1,0 +1,12 @@
+name: 蓝莓原浆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 945
+    unit: kj
+    nrv: 11
+  碳水化合物:
+    amount: 55.6
+    unit: g
+    nrv: 19
