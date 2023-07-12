@@ -1,0 +1,36 @@
+date: 20230712
+sleep: 
+  time: 20230712032000
+  weight: 56.0
+wake:
+  time: 20230712121000
+  weight: 54.9
+  SpO2: 95
+  PRbpm: 55
+exercise: 
+- time: 20230712122500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 89
+  endheartrate: 88
+stool:
+- time: 20230712135000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间起床1次。穿长裤长袖盖抓绒毯、不戴帽合适。
+  昨天午后左膝基本正常，可以不用护膝。睡觉时伸直正面还有些疼，微曲舒适。
+  运动后左膝跪坐不到位，关脉中偏浅、尺脉寸脉中；关脉尺脉清晰有力、寸脉清晰。
