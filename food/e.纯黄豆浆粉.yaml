@@ -1,0 +1,24 @@
+name: 纯黄豆浆粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1884
+    unit: kj
+    nrv: 22
+  蛋白质:
+    amount: 26.8
+    unit: g
+    nrv: 45
+  脂肪:
+    amount: 15
+    unit: g
+    nrv: 25
+  碳水化合物:
+    amount: 51.4
+    unit: g
+    nrv: 17
+  钠:
+    amount: 20
+    unit: mg
+    nrv: 1

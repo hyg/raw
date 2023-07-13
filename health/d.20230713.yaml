@@ -1,0 +1,35 @@
+date: 20230713
+sleep: 
+  time: 20230713044000
+  weight: 55.3
+wake:
+  time: 20230713133000
+  weight: 54.8
+  SpO2: 94
+  PRbpm: 58
+exercise: 
+- time: 20230713134500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 86
+  endheartrate: 91
+stool:
+- time: 20230713173300
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间没有醒过，穿长袖长裤戴左护膝盖抓绒毯正合适。估计以前是左膝被冻伤。
+  运动后左膝跪坐发酸发紧，坐不到脚跟。左手关脉中偏浅、尺脉寸脉中；三处都清晰，不算有力。

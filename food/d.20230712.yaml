@@ -99,7 +99,7 @@ food:
   - time: 20230713000000
     name: 脱脂奶粉
     amount: 20.0
-    unit: 
+    unit: g
   - time: 20230713000000
     name: 可可粉
     amount: 5.0
