@@ -1,0 +1,25 @@
+name: 菇娘
+nickname: 毛酸浆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 98
+    unit: kcal
+    nrv: 5.8
+  碳水化合物:
+    amount: 11
+    unit: g
+    nrv: 4.4
+  脂肪:
+    amount: 2.84
+    unit: g
+    nrv: 6.3
+  蛋白质:
+    amount: 6.43
+    unit: g
+    nrv: 9.9
+  膳食纤维:
+    amount: 1.34
+    unit: g
+    nrv: 4.5
