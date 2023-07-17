@@ -1,0 +1,170 @@
+date: 20230717
+food:
+  - time: 20230717145800
+    name: 百香果
+    amount: 79.5
+    unit: g
+  - time: 20230717150000
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20230717150000
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20230717150000
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20230717150800
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20230717150800
+    name: 胶原蛋白肽粉
+    amount: 2.5
+    unit: g
+  - time: 20230717162700
+    name: 竹升面
+    amount: 63.5
+    unit: g
+  - time: 20230717162700
+    name: 梅花肉
+    amount: 52
+    unit: g
+  - time: 20230717162700
+    name: 油菜
+    amount: 100.0
+    unit: g
+  - time: 20230717162700
+    name: 低钠盐
+    amount: 1.5
+    unit: g
+  - time: 20230717195500
+    name: 黄桃
+    amount: 109.5
+    unit: g
+  - time: 20230717200000
+    name: 西梅干
+    amount: 17.5
+    unit: g
+  - time: 20230717200000
+    name: 菩米
+    amount: 20.5
+    unit: g
+  - time: 20230717200000
+    name: 紫米
+    amount: 30.5
+    unit: g
+  - time: 20230717200000
+    name: 血麦片
+    amount: 10.0
+    unit: g
+  - time: 20230717200000
+    name: 鸡蛋
+    amount: 46.5
+    unit: g
+  - time: 20230717200000
+    name: 卤水豆腐
+    amount: 45.0
+    unit: g
+  - time: 20230717200000
+    name: 西兰花
+    amount: 77.0
+    unit: g
+  - time: 20230717200000
+    name: 小白菜
+    amount: 58.5
+    unit: g
+  - time: 20230717200000
+    name: 快菜
+    amount: 167.5
+    unit: g
+  - time: 20230717200000
+    name: 低钠盐
+    amount: 2
+    unit: g
+  - time: 20230717200000
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20230718000200
+    name: 黑青稞
+    amount: 20.0
+    unit: g
+  - time: 20230718000200
+    name: 紫米
+    amount: 15.0
+    unit: g
+  - time: 20230718000200
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20230718000200
+    name: 花生
+    amount: 5.0
+    unit: g
+  - time: 20230718000200
+    name: 灰枣
+    amount: 32.5
+    unit: g
+  - time: 20230718003300
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20230718003300
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20230717140400
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20230717150800
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20230717151900
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230717154000
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230717171900
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230717181900
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230717203900
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230717214900
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230718003300
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20230718013600
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20230717203900
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230717203900
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
+  梅花肉熟重31.0克，折算生重52克。
