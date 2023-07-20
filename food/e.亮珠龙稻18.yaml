@@ -1,0 +1,16 @@
+name: 亮珠龙稻18
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1469
+    unit: kj
+    nrv: 17
+  蛋白质:
+    amount: 5.4
+    unit: g
+    nrv: 9
+  碳水化合物:
+    amount: 80.2
+    unit: g
+    nrv: 27

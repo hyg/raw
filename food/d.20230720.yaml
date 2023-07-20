@@ -1,0 +1,127 @@
+date: 20230720
+food:
+  - time: 20230720140300
+    name: 百香果
+    amount: 79.0
+    unit: g
+  - time: 20230720140600
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20230720140600
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20230720140600
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20230720141400
+    name: 奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230720141400
+    name: 脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230720141400
+    name: 胶原蛋白肽粉
+    amount: 3.0
+    unit: g
+  - time: 20230720144500
+    name: 竹升面
+    amount: 60.5
+    unit: g
+  - time: 20230720144500
+    name: 猪肉
+    amount: 105.1
+    unit: g
+  - time: 20230720144500
+    name: 油菜
+    amount: 98.0
+    unit: g
+  - time: 20230720144500
+    name: 十三村原味腐乳
+    amount: 23.5
+    unit: g
+  - time: 20230720193500
+    name: 黑布林
+    amount: 133.0
+    unit: g
+  - time: 20230720193800
+    name: 黄桃
+    amount: 195.0
+    unit: g
+  - time: 20230720194400
+    name: 竹升面
+    amount: 60.0
+    unit: g
+  - time: 20230720194400
+    name: 鸡蛋
+    amount: 45.0
+    unit: g
+  - time: 20230720194400
+    name: 猪肉
+    amount: 126.0
+    unit: g
+  - time: 20230720194400
+    name: 卤水豆腐
+    amount: 104.5
+    unit: g
+  - time: 20230720194400
+    name: 快菜
+    amount: 151.5
+    unit: g
+  - time: 20230720194400
+    name: 西兰花
+    amount: 90.0
+    unit: g
+  - time: 20230720194400
+    name: 豆瓣酱
+    amount: 8
+    unit: g
+water:
+  - time: 20230720131400
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20230720141400
+    name: 咖啡
+    amount: 87.0
+    unit: ml
+  - time: 20230720151700
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230720152500
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230720160400
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230720181700
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230720205600
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230720215200
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+med:
+  - time: 20230720151700
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230720151700
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
+  午餐梅花骨连骨熟重142.5，按85%折算生重167.6克。骨重62.5克，肉重105.0克。
+  晚餐梅花骨连骨熟重156.0，按85%折算生重183.5克。骨重57.5，肉重126.0。
