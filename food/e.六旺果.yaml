@@ -1,0 +1,29 @@
+name: 六旺果
+nickname: 凤眼果
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 383
+    unit: kcal
+    nrv: 23.8
+  碳水化合物:
+    amount: 60.42
+    unit: g
+    nrv: 24.8
+  蛋白质:
+    amount: 30.32
+    unit: g
+    nrv: 46.6
+  脂肪:
+    amount: 2.18
+    unit: g
+    nrv: 4.8
+  铁:
+    amount: 136.86
+    unit: mg
+    nrv: 1107
+  VC(抗坏血酸):
+    amount: 7225
+    unit: μg
+    nrv: 7.2
