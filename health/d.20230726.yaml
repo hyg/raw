@@ -1,14 +1,14 @@
-date: 20230725
+date: 20230726
 sleep: 
-  time: 20230725012800
-  weight: 55.2
+  time: 20230726055800
+  weight: 55.3
 wake:
-  time: 20230725112000
+  time: 20230726140000
   weight: 54.4
-  SpO2: 95
-  PRbpm: 57
+  SpO2: 96
+  PRbpm: 58
 exercise: 
-- time: 20230725121500
+- time: 20230726141500
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -23,8 +23,13 @@ exercise:
     amount: 5
     unit: turn
   SpO2: 97
-  PRbpm: 83
-  endheartrate: 87
+  PRbpm: 92
+  endheartrate: 94
+stool:
+- time: 20230726162000
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
 comment: |+
   睡觉中间起来小便1次。不戴护膝，穿短袖长抓绒裤盖抓绒毯正合适。
-  运动后把脉是左膝发紧，半分钟后才能坐到脚跟。关脉中偏浅、尺脉寸脉中；关脉寸脉清晰有力、尺脉清晰。
+  运动后把脉是左膝发紧，半分钟后才能坐到脚跟。关脉中偏浅、尺脉寸脉中；三处都清晰有力。
