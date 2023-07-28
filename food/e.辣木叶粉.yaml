@@ -1,0 +1,24 @@
+name: 辣木叶粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 886
+    unit: kj
+    nrv: 11
+  蛋白质:
+    amount: 24.4
+    unit: g
+    nrv: 026
+  脂肪:
+    amount: 5
+    unit: g
+    nrv: 8
+  碳水化合物:
+    amount: 17
+    unit: g
+    nrv: 6
+  钠:
+    amount: 26
+    unit: mg
+    nrv: 1
