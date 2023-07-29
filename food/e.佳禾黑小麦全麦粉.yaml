@@ -1,0 +1,20 @@
+name: 佳禾黑小麦全麦粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1400
+    unit: kj
+    nrv: 10
+  蛋白质:
+    amount: 12.6
+    unit: g
+    nrv: 10
+  脂肪:
+    amount: 1.2
+    unit: g
+    nrv: 2
+  碳水化合物:
+    amount: 73.0
+    unit: g
+    nrv: 24
