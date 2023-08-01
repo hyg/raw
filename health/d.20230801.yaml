@@ -1,0 +1,37 @@
+date: 20230801
+sleep: 
+  time: 20230801053400
+  weight: 55.0
+wake:
+  time: 20230801154000
+  weight: 54.1
+  SpO2: 95
+  PRbpm: 63
+exercise: 
+- time: 20230801155500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 96
+  PRbpm: 86
+  endheartrate: 88
+stool:
+- time: 20230801184500
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间起来小便1次，穿短袖德绒裤盖抓绒毯正合适，露出肩膀觉得凉。
+  右手中指背的水泡没有破，睡觉时涂了碘伏。
+  运动后把脉是左膝发紧，约20秒后能坐到脚跟。三处中、三处都清晰。
+  早餐1之后刷牙移到早餐前，用含氟牙膏。早餐1和早餐2之间漱口、不刷牙。
