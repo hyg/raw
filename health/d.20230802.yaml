@@ -1,0 +1,31 @@
+date: 20230802
+sleep: 
+  time: 20230802060500
+  weight: 55.2
+wake:
+  time: 20230802160000
+  weight: 54.2
+  SpO2: 96
+  PRbpm: 58
+exercise: 
+- time: 20230802162000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 85
+  endheartrate: 91
+comment: |+
+  睡觉中间起来小便1次，穿短袖德绒裤盖抓绒毯正合适。
+  昨晚清理干衣机时把右手中指背的水泡刮破了，用碘伏消毒后用了创可贴。
+  运动后把脉是左膝发紧，约15秒后能坐到脚跟。关脉中偏浅，尺脉寸脉中；关脉寸脉清晰有力、尺脉清晰。

@@ -1,0 +1,24 @@
+name: 好侍味嘟嘟牛肉原味咖喱
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 271
+    unit: kj
+    nrv: 3
+  蛋白质:
+    amount: 2.6
+    unit: g
+    nrv: 4
+  脂肪:
+    amount: 2
+    unit: g
+    nrv: 3
+  碳水化合物:
+    amount: 9
+    unit: g
+    nrv: 3
+  钠:
+    amount: 411
+    unit: mg
+    nrv: 21

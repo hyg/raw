@@ -1,0 +1,36 @@
+date: 20230803
+sleep: 
+  time: 20230803061700
+  weight: 55.1
+wake:
+  time: 20230803161500
+  weight: 54.0
+  SpO2: 98
+  PRbpm: 60
+exercise: 
+- time: 20230803163000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 91
+  endheartrate: 94
+stool:
+- time: 20230803190100
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间起来小便1次，穿短袖德绒裤盖抓绒毯正合适。睡下时上颚后端有些发干，湿润一下睡好之后没有继续干。
+  昨晚清理干衣机时把右手中指背碘伏消毒后用了创可贴。
+  运动后把脉是左膝发紧，约10秒后能坐到脚跟。关脉中偏浅，尺脉寸脉中；关脉寸脉清晰有力、尺脉清晰。
