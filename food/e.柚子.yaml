@@ -1,0 +1,69 @@
+name: 柚子
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 159
+    unit: kj
+    nrv: 2.35
+  蛋白质:
+    amount: 0.8
+    unit: g
+    nrv: 1.23
+  碳水化合物:
+    amount: 9.6
+    unit: g
+    nrv: 3.9
+  膳食纤维:
+    amount: 1.0
+    unit: g
+    nrv: 3.3
+  钠:
+    amount: 1
+    unit: mg
+    nrv: 0.07
+  VB1(硫胺素):
+    amount: 0.03
+    unit: mg
+    nrv: 2.14
+  VB2(核黄素):
+    amount: 0.03
+    unit: mg
+    nrv: 2.14
+  VB3(烟酸):
+    amount: 0.22
+    unit: µg
+    nrv: 1.47
+  VB6(吡哆素):
+    amount: 0.06
+    unit: mg
+    nrv: 4.29
+  VC(抗坏血酸):
+    amount: 61
+    unit: mg
+    nrv: 61
+  磷:
+    amount: 17
+    unit: mg
+    nrv: 2.43
+  钾:
+    amount: 216
+    unit: mg
+    nrv: 10.8
+  镁:
+    amount: 6
+    unit: mg
+    nrv: 1.82
+  钙:
+    amount: 4
+    unit: mg
+    nrv: 0.4
+  铁:
+    amount: 0.1
+    unit: mg
+    nrv: 0.67
+  锌:
+    amount: 0.08
+    unit: mg
+    nrv: 0.64
+  

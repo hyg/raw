@@ -20,7 +20,7 @@ exercise:
     amount: 5
     unit: set
   - type: pilates.p79
-    amount: 5s
+    amount: 5
     unit: turn
   SpO2: 98
   PRbpm: 95

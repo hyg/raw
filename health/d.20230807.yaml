@@ -1,0 +1,36 @@
+date: 20230807
+sleep: 
+  time: 202308070100700
+  weight: 54.6
+wake:
+  time: 20230807180000
+  weight: 54.1
+  SpO2: 94
+  PRbpm: 57
+exercise: 
+- time: 20230807182100
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: turn
+  SpO2: 97
+  PRbpm: 87
+  endheartrate: 91
+stool:
+- time: 20230808023500
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间没有起来小便，穿短袖德绒裤盖抓绒毯正合适。
+  右手中指背在睡前用碘伏喷洗，再用双氧水淋洗，然后用倒了康复新液的透气敷料贴上。睡觉中没有感到痛痒。起床后用碘伏喷洗后用创口贴保护，昨天白天伤口重新出血。
+  运动后把脉立刻能坐到脚跟，左膝略紧不影响放松。关脉中偏浅、尺脉寸脉中；三处都清晰有力、尺脉需要多按压半级。

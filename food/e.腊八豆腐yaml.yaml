@@ -1,0 +1,24 @@
+name: 腊八豆腐
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 872
+    unit: kj
+    nrv: 10
+  蛋白质:
+    amount: 16.5
+    unit: g
+    nrv: 28
+  脂肪:
+    amount: 7.3
+    unit: g
+    nrv: 12
+  碳水化合物:
+    amount: 18.8
+    unit: g
+    nrv: 6
+  钠:
+    amount: 845
+    unit: mg
+    nrv: 42

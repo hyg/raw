@@ -1,14 +1,14 @@
-date: 20230805
+date: 20230806
 sleep: 
-  time: 20230805120600
-  weight: 55.0
+  time: 20230806071100
+  weight: 54.8
 wake:
-  time: 20230805180000
-  weight: 54.2
-  SpO2: 95
-  PRbpm: 67
+  time: 20230806175000
+  weight: 54.0
+  SpO2: 93
+  PRbpm: 64
 exercise: 
-- time: 20230805181500
+- time: 20230806181000
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -22,15 +22,15 @@ exercise:
   - type: pilates.p79
     amount: 5
     unit: turn
-  SpO2: 97
-  PRbpm: 97
-  endheartrate: 100
+  SpO2: 96
+  PRbpm: 90
+  endheartrate: 93
 stool:
-- time: 20230806070000
+- time: 20230806205000
   amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 comment: |+
   睡觉中间没有起来小便，穿短袖德绒裤盖抓绒毯正合适。
   右手中指背在睡前用碘伏喷洗，再用双氧水淋洗，然后用倒了康复新液的透气敷料贴上。睡觉中没有感到痛痒。
-  运动后把脉立刻能坐到脚跟，左膝略紧不影响放松。关脉中偏浅，尺脉寸脉中；三处都清晰有力。
+  运动后把脉立刻能坐到脚跟，左膝略紧不影响放松。三处深度中；三处都清晰有力。
