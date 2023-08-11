@@ -1,0 +1,80 @@
+name: 油条
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 388
+    unit: kcal
+    nrv: 24
+  蛋白质:
+    amount: 6.9
+    unit: g
+    nrv: 11
+  脂肪:
+    amount: 17.6
+    unit: g
+    nrv: 39
+  碳水化合物:
+    amount: 51
+    unit: g
+    nrv: 21
+  钠:
+    amount: 585
+    unit: mg
+    nrv: 39
+  膳食纤维:
+    amount: 0.9
+    unit: g
+    nrv: 3.6
+  VE(生育酚):
+    amount: 3.19
+    unit: mg
+    nrv: 0.45
+  VB1(硫胺素):
+    amount: 0.01
+    unit: mg
+    nrv: 0.83
+  VB2(核黄素):
+    amount: 0.07
+    unit: mg
+    nrv: 5
+  VB3(烟酸):
+    amount: 0.7
+    unit: mg
+    nrv: 4.7
+  磷:
+    amount: 77
+    unit: mg
+    nrv: 10.7
+  钾:
+    amount: 227
+    unit: mg
+    nrv: 11.35
+  镁:
+    amount: 19
+    unit: mg
+    nrv: 5.8
+  钙:
+    amount: 6
+    unit: mg
+    nrv: 0.75
+  铁:
+    amount: 1
+    unit: mg
+    nrv: 8.3
+  锌:
+    amount: 0.75
+    unit: mg
+    nrv: 6
+  硒:
+    amount: 8.6
+    unit: μg
+    nrv: 14.3
+  铜:
+    amount: 0.19
+    unit: mg
+    nrv: 23.75
+  锰:
+    amount: 0.52
+    unit: mg
+    nrv: 0
