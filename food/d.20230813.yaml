@@ -1,0 +1,195 @@
+date: 20230813
+food:
+  - time: 20230813183500
+    name: 橙
+    amount: 86.0
+    unit: g
+  - time: 20230813184000
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20230813184000
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20230813184000
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20230813185800
+    name: 佳禾黑小麦全麦粉
+    amount: 60
+    unit: g
+  - time: 20230813185800
+    name: 辣木叶粉
+    amount: 6.7
+    unit: g
+  - time: 20230813185800
+    name: 鸡蛋
+    amount: 46.0
+    unit: g
+  - time: 20230813185800
+    name: 南瓜
+    amount: 52.0
+    unit: g
+  - time: 20230813185800
+    name: 娃娃菜
+    amount: 109.5
+    unit: g
+  - time: 20230813185800
+    name: 十三村原味腐乳
+    amount: 8.0
+    unit: g
+  - time: 20230813192000
+    name: 奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230813192000
+    name: 脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230813192000
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20230815001200
+    name: 柚子
+    amount: 244.5
+    unit: g
+  - time: 20230814003900
+    name: 大米
+    amount: 25.0
+    unit: g
+  - time: 20230814003900
+    name: 黑青稞
+    amount: 10.0
+    unit: g
+  - time: 20230814003900
+    name: 紫米
+    amount: 10.0
+    unit: g
+  - time: 20230814003900
+    name: 黄豆
+    amount: 25.0
+    unit: g
+  - time: 20230814003900
+    name: 鸡腿肉
+    amount: 70
+    unit: g
+  - time: 20230814003900
+    name: 西兰花
+    amount: 95.0
+    unit: g
+  - time: 20230814003900
+    name: 油菜
+    amount: 164.5
+    unit: g
+  - time: 20230814003900
+    name: 低钠盐
+    amount: 1.5
+    unit: g
+  - time: 20230814003900
+    name: 油
+    amount: 1
+    unit: g
+  - time: 20230814043000
+    name: 番石榴
+    amount: 249.5
+    unit: g
+  - time: 20230814043500
+    name: 黑青稞
+    amount: 20.0
+    unit: g
+  - time: 20230814043500
+    name: 紫米
+    amount: 20.0
+    unit: g
+  - time: 20230814043500
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20230814043500
+    name: 花生
+    amount: 5.0
+    unit: g
+  - time: 20230814043500
+    name: 灰枣
+    amount: 17.5
+    unit: g
+  - time: 20230814043500
+    name: 红薯
+    amount: 49.0
+    unit: g
+  - time: 20230814050000
+    name: 奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230814050000
+    name: 脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230814050000
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20230813172900
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20230813185300
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230813192000
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20230813193000
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230813201800
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230813204500
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230813223600
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230814012000
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230814021200
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230814033400
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+  - time: 20230814050000
+    name: 可可奶
+    amount: 80.5
+    unit: ml
+  - time: 20230814055100
+    name: 竹壳茶
+    amount: 250
+    unit: ml
+med:
+  - time: 20230813193000
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230813193000
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
+  梅花骨生重478.5克，加64.5克豆瓣酱和适量料酒煮，熟重347.0克，折算比例72.5%。
+  熟鸡腿肉和西兰花先蒸4分钟，加上油菜再蒸3分钟。有些生，可以各加1分钟。
