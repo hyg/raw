@@ -52,7 +52,7 @@ food:
     name: 小分子肽粉
     amount: 3.0
     unit: g
-  - time: 20230815001200
+  - time: 20230814001200
     name: 柚子
     amount: 244.5
     unit: g
