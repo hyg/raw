@@ -91,11 +91,11 @@ food:
   - time: 20230815051000
     name: 桑葚干
     amount: 10.0
-    unit: 
+    unit: g
   - time: 20230815051000
     name: 亚麻籽
     amount: 5.0
-    unit: 
+    unit: g
   - time: 20230815051000
     name: 麦胚芽
     amount: 10.0
