@@ -19,7 +19,7 @@ exercise:
     unit: set
   - type: pilates.p79
     amount: 5
-    unit: turn
+    unit: set
   endheartrate: 89
 stool:
 - time: 20221229173000

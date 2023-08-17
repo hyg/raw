@@ -21,7 +21,7 @@ exercise:
     unit: set
   - type: pilates.p79
     amount: 5
-    unit: turn
+    unit: set
   SpO2: 98
   PRbpm: 93
   endheartrate: 96
