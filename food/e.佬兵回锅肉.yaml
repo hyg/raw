@@ -1,0 +1,24 @@
+name: 
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1487
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 6.8
+    unit: g
+    nrv: 11
+  脂肪:
+    amount: 35.2
+    unit: g
+    nrv: 59
+  碳水化合物:
+    amount: 4.1
+    unit: g
+    nrv: 1
+  钠:
+    amount: 748
+    unit: mg
+    nrv: 37
