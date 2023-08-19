@@ -1,0 +1,88 @@
+name: 秋葵
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 130
+    unit: kj
+    nrv: 8
+  蛋白质:
+    amount: 2
+    unit: g
+    nrv: 3
+  脂肪:
+    amount: 0.1
+    unit: g
+    nrv: 0.2
+  碳水化合物:
+    amount: 7
+    unit: g
+    nrv: 2.9
+  钠:
+    amount: 8
+    unit: mg
+    nrv: 0.5
+  膳食纤维:
+    amount: 3.2
+    unit: mg
+    nrv: 12.8
+  VA(视黄醇等):
+    amount: 19
+    unit: μg
+    nrv: 2.4
+  VE(生育酚):
+    amount: 0.36
+    unit: mg
+    nrv: 0.05
+  VK(凝血维生素):
+    amount: 53
+    unit: μg
+    nrv: 66.25
+  VB1(硫胺素):
+    amount: 0.2
+    unit: mg
+    nrv: 14.3
+  VB2(核黄素):
+    amount: 0.06
+    unit: mg
+    nrv: 4.3
+  VB6(吡哆素):
+    amount: 0.22
+    unit: mg
+    nrv: 15.7
+  VC(抗坏血酸):
+    amount: 21.1
+    unit: mg
+    nrv: 21.1
+  VB3(烟酸):
+    amount: 1
+    unit: mg
+    nrv: 6.7
+  VB9(叶酸):
+    amount: 88
+    unit: μg
+    nrv: 22
+  磷:
+    amount: 63
+    unit: mg
+    nrv: 8.75
+  钾:
+    amount: 303
+    unit: mg
+    nrv: 15.15
+  镁:
+    amount: 57
+    unit: mg
+    nrv: 17.3
+  钙:
+    amount: 81
+    unit: mg
+    nrv: 10.1
+  铁:
+    amount: 0.8
+    unit: mg
+    nrv: 5
+  锌:
+    amount: 0.6
+    unit: mg
+    nrv: 4.8
