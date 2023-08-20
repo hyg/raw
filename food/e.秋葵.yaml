@@ -24,7 +24,7 @@ element:
     nrv: 0.5
   膳食纤维:
     amount: 3.2
-    unit: mg
+    unit: g
     nrv: 12.8
   VA(视黄醇等):
     amount: 19
