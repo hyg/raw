@@ -1,0 +1,24 @@
+name: 十三村干酪腐乳
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 511
+    unit: kj
+    nrv: 6
+  蛋白质:
+    amount: 14.5
+    unit: g
+    nrv: 24
+  脂肪:
+    amount: 3.7
+    unit: g
+    nrv: 6
+  碳水化合物:
+    amount: 7.5
+    unit: g
+    nrv: 3
+  钠:
+    amount: 1482
+    unit: mg
+    nrv: 74

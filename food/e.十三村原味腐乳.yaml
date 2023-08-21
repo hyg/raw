@@ -18,10 +18,6 @@ element:
     amount: 26.8
     unit: g
     nrv: 45
-  膳食纤维:
-    amount: 1.3
-    unit: g
-    nrv: 5
   钠:
     amount: 2270
     unit: mg
