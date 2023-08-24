@@ -1,0 +1,28 @@
+name: 凯兰牧场脱脂奶粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1484
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 32.0
+    unit: g
+    nrv: 53
+  脂肪:
+    amount: 0.6
+    unit: g
+    nrv: 1
+  碳水化合物:
+    amount: 54.0
+    unit: g
+    nrv: 18
+  钠:
+    amount: 350
+    unit: mg
+    nrv: 18
+  钙:
+    amount: 1100
+    unit: mg
+    nrv: 138
