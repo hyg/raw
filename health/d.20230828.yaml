@@ -1,0 +1,36 @@
+date: 20230828
+sleep: 
+  time: 20230828071000
+  weight: 54.9
+wake:
+  time: 20230828180000
+  weight: 53.9
+  SpO2: 96
+  PRbpm: 62
+exercise: 
+- time: 20230828183200
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 96
+  PRbpm: 81
+  endheartrate: 84
+stool:
+- time: 20230828200500
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间起来小便1次，盖抓绒毯加薄羽绒被裸睡，后一半把薄羽绒被掀起到肚脐，上半身只盖抓绒毯，直到起床前十几分钟才盖回。血液凉了才有困意。
+  起床穿棉长裤短袖T恤，后来换成德绒长裤、加皮肤衣。
+  运动后把脉，调整手势到反握、食指对寸脉，还在适应中：三处深度中；三处都清晰有力，寸脉相对最有力。
