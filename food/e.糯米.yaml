@@ -1,0 +1,80 @@
+name: 糯米
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1464
+    unit: kj
+    nrv: 21.6
+  蛋白质:
+    amount: 7.3
+    unit: g
+    nrv: 11.2
+  脂肪:
+    amount: 1
+    unit: g
+    nrv: 2.2
+  碳水化合物:
+    amount: 78.3
+    unit: g
+    nrv: 32
+  钠:
+    amount: 2
+    unit: mg
+    nrv: 0.1
+  膳食纤维:
+    amount: 0.8
+    unit: g
+    nrv: 3.2
+  VE(生育酚):
+    amount: 1.29
+    unit: mg
+    nrv: 9.2
+  VB1(硫胺素):
+    amount: 0.11
+    unit: mg
+    nrv: 7.9
+  VB2(核黄素):
+    amount: 0.04
+    unit: mg
+    nrv: 2.9
+  VB3(烟酸):
+    amount: 2.3
+    unit: mg
+    nrv: 15.3
+  磷:
+    amount: 113
+    unit: mg
+    nrv: 15.7
+  钾:
+    amount: 137
+    unit: mg
+    nrv: 6.9
+  镁:
+    amount: 49
+    unit: mg
+    nrv: 14.8
+  钙:
+    amount: 26
+    unit: mg
+    nrv: 3.3
+  铁:
+    amount: 1.4
+    unit: mg
+    nrv: 11.7
+  锌:
+    amount: 1.54
+    unit: mg
+    nrv: 12.3
+  硒:
+    amount: 2.7
+    unit: μg
+    nrv: 4.5
+  铜:
+    amount: 0.25
+    unit: mg
+    nrv: 31.25
+  锰:
+    amount: 1.54
+    unit: mg
+    nrv: 67
