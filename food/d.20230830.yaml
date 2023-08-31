@@ -1,0 +1,133 @@
+date: 20230830
+food:
+  - time: 20230830075700
+    name: 百香果
+    amount: 51.5
+    unit: g
+  - time: 20230830080500
+    name: 佳禾黑小麦全麦粉
+    amount: 60.0
+    unit: g
+  - time: 20230830080500
+    name: 辣木叶粉2
+    amount: 4.0
+    unit: g
+  - time: 20230830080500
+    name: 脱骨肘子肉
+    amount: 60.0
+    unit: g
+  - time: 20230830080500
+    name: 娃娃菜
+    amount: 97.0
+    unit: g
+  - time: 20230830080500
+    name: 南瓜
+    amount: 98.0
+    unit: g
+  - time: 20230830080500
+    name: 十三村原味腐乳
+    amount: 7.5
+    unit: g
+  - time: 20230830081500
+    name: 奶粉
+    amount: 15.0
+    unit: g
+  - time: 20230830081500
+    name: 凯兰牧场脱脂奶粉
+    amount: 5.0
+    unit: g
+  - time: 20230830081500
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20230830121400
+    name: 蓝莓原浆
+    amount: 49.5
+    unit: g
+  - time: 20230830121600
+    name: 乌米饭
+    amount: 80.0
+    unit: g
+  - time: 20230830121600
+    name: 鸡蛋
+    amount: 37.5
+    unit: g
+  - time: 20230830121600
+    name: 胡萝卜
+    amount: 86.5
+    unit: g
+  - time: 20230830121600
+    name: 豇豆
+    amount: 96.5
+    unit: g
+  - time: 20230830121600
+    name: 小白菜
+    amount: 89.5
+    unit: g
+  - time: 20230830121600
+    name: 鲁晶低钠海盐
+    amount: 1.5
+    unit: g
+  - time: 20230830121600
+    name: 油
+    amount: 2.5
+    unit: g
+  - time: 20230830125500
+    name: 奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230830125500
+    name: 凯兰牧场脱脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20230830125500
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20230830071000
+    name: 开水
+    amount: 50
+    unit: ml
+  - time: 20230830081500
+    name: 咖啡
+    amount: 81.5
+    unit: ml
+  - time: 20230830083000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230830092000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230830102100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230830111800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230830121400
+    name: 开水
+    amount: 300
+    unit: ml
+  - time: 20230830125500
+    name: 可可奶
+    amount: 100.0
+    unit: ml
+  - time: 20230830135500
+    name: 开水
+    amount: 300
+    unit: ml
+med:
+  - time: 20230830083000
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230830083000
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+

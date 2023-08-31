@@ -1,0 +1,174 @@
+date: 20230831
+food:
+  - time: 20230831010700
+    name: 蓝莓原浆
+    amount: 53.5
+    unit: g
+  - time: 20230831010800
+    name: 佳禾黑小麦全麦粉
+    amount: 60.0
+    unit: g
+  - time: 20230831010800
+    name: 辣木叶粉2
+    amount: 4.0
+    unit: g
+  - time: 20230831010800
+    name: 脱骨肘子肉
+    amount: 50.0
+    unit: g
+  - time: 20230831010800
+    name: 娃娃菜
+    amount: 141.5
+    unit: g
+  - time: 20230831010800
+    name: 南瓜
+    amount: 97.0
+    unit: g
+  - time: 20230831010800
+    name: 十三村原味腐乳
+    amount: 7.0
+    unit: g
+  - time: 20230831012900
+    name: 奶粉
+    amount: 15.0
+    unit: g
+  - time: 20230831012900
+    name: 凯兰牧场脱脂奶粉
+    amount: 5.0
+    unit: g
+  - time: 20230831012900
+    name: 胶原蛋白肽粉
+    amount: 3.0
+    unit: g
+  - time: 20230831012900
+    name: 菊粉
+    amount: 10.5
+    unit: g
+  - time: 20230831071700
+    name: 西梅干
+    amount: 17.0
+    unit: g
+  - time: 20230831071700
+    name: 大米
+    amount: 50.0
+    unit: g
+  - time: 20230831071700
+    name: 血麦片
+    amount: 20.0
+    unit: g
+  - time: 20230831071700
+    name: 鸡腿肉
+    amount: 80
+    unit: g
+  - time: 20230831071700
+    name: 胡萝卜
+    amount: 81.0
+    unit: g
+  - time: 20230831071700
+    name: 西兰花
+    amount: 104.5
+    unit: g
+  - time: 20230831071700
+    name: 芹菜
+    amount: 132.0
+    unit: g
+  - time: 20230831071700
+    name: 鲁晶低钠海盐
+    amount: 2.0
+    unit: g
+  - time: 20230831124700
+    name: 黑青稞
+    amount: 20.0
+    unit: g
+  - time: 20230831124700
+    name: 紫米
+    amount: 20.0
+    unit: g
+  - time: 20230831124700
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20230831124700
+    name: 南瓜
+    amount: 65.0
+    unit: g  
+  - time: 20230831130800
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20230831130800
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20230831130800
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20230831131900
+    name: 凯兰牧场脱脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20230831131900
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20230831000900
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20230831005700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230831010700
+    name: 开水
+    amount: 120
+    unit: ml
+  - time: 20230831012900
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20230831022400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230831031700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230831034500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230831052300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230831080200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230831102100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230831131900
+    name: 可可奶
+    amount: 81.0
+    unit: ml
+  - time: 20230831133600
+    name: 开水
+    amount: 100
+    unit: ml
+med:
+  - time: 20230831022400
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230831022400
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
+  烤鸡腿熟重65.0克，肉质大概9克也用在蔬菜上，折算生重80克。

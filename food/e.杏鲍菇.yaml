@@ -18,6 +18,10 @@ element:
     amount: 8.3
     unit: g
     nrv: 2.77
+  膳食纤维:
+    amount: 2.1
+    unit: g
+    nrv: 8.4
   VB1(硫胺素):
     amount: 0.03
     unit: mg

@@ -1,0 +1,30 @@
+date: 20230830
+sleep: 
+  time: 20230829234600
+  weight: 54.9
+wake:
+  time: 20230830070000
+  weight: 53.5
+  SpO2: 94
+  PRbpm: 60
+exercise: 
+- time: 20230830073000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 96
+  PRbpm: 91
+  endheartrate: 94
+comment: |+
+  睡觉中间起来小便2次，2点多醒来之后一直睡不着。起床穿薄长裤短袖T恤。
+  运动后把脉：关脉寸脉中偏浅、尺脉中；三处都清晰有力，寸脉快而脆。
