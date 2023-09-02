@@ -1,0 +1,183 @@
+date: 20230902
+food:
+  - time: 20230902010900
+    name: 圣女果
+    amount: 144.0
+    unit: g
+  - time: 20230902011400
+    name: 佳禾黑小麦全麦粉
+    amount: 60.0
+    unit: g
+  - time: 20230902011400
+    name: 辣木叶粉2
+    amount: 4.0
+    unit: g
+  - time: 20230902011400
+    name: 脱骨肘子肉
+    amount: 50.0
+    unit: g
+  - time: 20230902011400
+    name: 西兰花
+    amount: 116.0
+    unit: g
+  - time: 20230902011400
+    name: 南瓜
+    amount: 103.0
+    unit: g
+  - time: 20230902011400
+    name: 十三村原味腐乳
+    amount: 7.0
+    unit: g
+  - time: 20230902012500
+    name: 奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230902012500
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230902012500
+    name: 胶原蛋白肽粉
+    amount: 3.0
+    unit: g
+  - time: 20230902072800
+    name: 蓝莓原浆
+    amount: 52.0
+    unit: g
+  - time: 20230902073000
+    name: 佳禾黑小麦全麦粉
+    amount: 59.0
+    unit: g
+  - time: 20230902073000
+    name: 辣木叶粉2
+    amount: 4.0
+    unit: g
+  - time: 20230902073000
+    name: 鸡蛋
+    amount: 34.0
+    unit: g
+  - time: 20230902073000
+    name: 腊八豆腐
+    amount: 53.5
+    unit: g
+  - time: 20230902073000
+    name: 杏鲍菇
+    amount: 86.5
+    unit: g
+  - time: 20230902073000
+    name: 胡萝卜
+    amount: 64.5
+    unit: g
+  - time: 20230902073000
+    name: 芹菜
+    amount: 115.0
+    unit: g
+  - time: 20230902073000
+    name: 鲁晶低钠海盐
+    amount: 1.0
+    unit: g
+  - time: 20230902073000
+    name: 油
+    amount: 2.0
+    unit: g
+  - time: 20230902122000
+    name: 香蕉
+    amount: 221.5
+    unit: g  
+  - time: 20230902122400
+    name: 山药豆
+    amount: 99.5
+    unit: g
+  - time: 20230902123400
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20230902123400
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20230902123400
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20230902124400
+    name: 奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230902124400
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230902124400
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20230902000800
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20230902005500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230902012500
+    name: 咖啡
+    amount: 85.5
+    unit: ml
+  - time: 20230902015700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230902023700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230902040800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230902050800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230902064300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230902084800
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20230902101000
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20230902114300
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20230902124400
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20230902143800
+    name: 开水
+    amount: 50
+    unit: ml
+med:
+  - time: 20230902015700
+    name: 维生素D3
+    amount: 125
+    unit: µg
+  - time: 20230902015700
+    name: selenium
+    amount: 100
+    unit: µg
+  - time: 20230902015700
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
+  烤肉饼：肉膜306克+全麦粉6.0克+鸡蛋35.0克+豆瓣酱10克+料酒，分为六个。180°、20分钟。
+  每个肉饼计：51克猪肉、1克全麦粉、6克鸡蛋、1.7克豆瓣酱。

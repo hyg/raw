@@ -1,0 +1,96 @@
+name: 冬枣
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 439
+    unit: kj
+    nrv: 6.5
+  蛋白质:
+    amount: 1.8
+    unit: g
+    nrv: 2.8
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0.4
+  碳水化合物:
+    amount: 27.8
+    unit: g
+    nrv: 11.4
+  钠:
+    amount: 33
+    unit: mg
+    nrv: 2.2
+  膳食纤维:
+    amount: 3.8
+    unit: g
+    nrv: 15.2
+  VE(生育酚):
+    amount: 0.19
+    unit: mg
+    nrv: 1.4
+  VB1(硫胺素):
+    amount: 0.08
+    unit: mg
+    nrv: 5.7
+  VB2(核黄素):
+    amount: 0.09
+    unit: mg
+    nrv: 6.4
+  VB3(烟酸):
+    amount: 0.51
+    unit: mg
+    nrv: 3.4
+  VB9(叶酸):
+    amount: 30
+    unit: μg
+    nrv: 7.5
+  VC(抗坏血酸):
+    amount: 243
+    unit: mg
+    nrv: 243
+  生物素:
+    amount: 2.8
+    unit: μg
+    nrv: 7
+  磷:
+    amount: 29
+    unit: mg
+    nrv: 4
+  钾:
+    amount: 195
+    unit: mg
+    nrv: 9.8
+  镁:
+    amount: 17
+    unit: mg
+    nrv: 5.2
+  钙:
+    amount: 16
+    unit: mg
+    nrv: 2
+  铁:
+    amount: 0.2
+    unit: mg
+    nrv: 1.7
+  锌:
+    amount: 0.19
+    unit: mg
+    nrv: 1.5
+  碘:
+    amount: 6.7
+    unit: μg
+    nrv: 5.6
+  硒:
+    amount: 0.1
+    unit: μg
+    nrv: 0.2
+  铜:
+    amount: 0.08
+    unit: mg
+    nrv: 10
+  锰:
+    amount: 0.13
+    unit: mg
+    nrv: 2.9
