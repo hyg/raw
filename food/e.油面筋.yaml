@@ -1,0 +1,20 @@
+name: 油面筋
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 187
+    unit: kj
+    nrv: 2
+  蛋白质:
+    amount: 4.4
+    unit: g
+    nrv: 7
+  脂肪:
+    amount: 2.7
+    unit: g
+    nrv: 5
+  碳水化合物:
+    amount: 1
+    unit: g
+    nrv: 1

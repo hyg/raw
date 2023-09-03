@@ -1,0 +1,36 @@
+date: 20230903
+sleep: 
+  time: 20230902154100
+  weight: 54.6
+wake:
+  time: 20230903003000
+  weight: 53.8
+  SpO2: 97
+  PRbpm: 61
+exercise: 
+- time: 20230903005600
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 96
+  PRbpm: 88
+  endheartrate: 91
+stool:
+- time: 20230903022600
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间没有起来小便，九点半热醒、身上出汗，把手肩露出被子到十一点半才凉下来，补睡了一会。起床穿薄长裤短袖T恤，便后换空气层长裤，加皮肤衣有些热。
+  运动后把脉：关脉寸脉中偏浅、尺脉中；关脉寸脉清晰有力、尺脉清晰。
+  调整饮水节奏之后，小便气味变淡，睡眠好转。
