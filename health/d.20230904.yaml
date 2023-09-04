@@ -1,0 +1,43 @@
+date: 20230904
+sleep: 
+  time: 20230903162200
+  weight: 54.6
+wake:
+  time: 20230903233000
+  weight: 53.8
+  SpO2: 95
+  PRbpm: 65
+exercise: 
+- time: 20230904000500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 96
+  PRbpm: 82
+  endheartrate: 86
+- time: 2023
+  item: 
+  - type: walk
+    amount: 24
+    unit: minute
+  SpO2: 96
+  PRbpm: 119
+stool:
+- time: 20230904014000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间没有起来小便，九点半憋醒、身上微微出汗，补睡了一会起床。起床穿薄长裤短袖T恤，便后换空气层长裤，加皮肤衣。
+  运动后把脉：三处深度中；尺脉寸脉清晰有力、关脉清晰。
+  步行回来脱离皮肤衣有些着凉，蓝莓原浆有些发酵含酒精，加上奶酪油面筋脂肪多，不太舒服没有再去第二次步行。歇几天。
