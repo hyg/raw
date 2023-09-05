@@ -25,7 +25,7 @@ exercise:
   SpO2: 96
   PRbpm: 82
   endheartrate: 86
-- time: 2023
+- time: 20230904053000
   item: 
   - type: walk
     amount: 24

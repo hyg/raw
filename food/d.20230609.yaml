@@ -180,7 +180,7 @@ med:
     unit: 片
   - time: 20230609195600
     name: selenium
-    amount: 100
+    amount: 200
     unit: µg
   - time: 20230609195600
     name: daily multi

@@ -172,7 +172,7 @@ water:
 med:
   - time: 20230705224200
     name: selenium
-    amount: 100
+    amount: 200
     unit: µg
   - time: 20230705224200
     name: daily multi
