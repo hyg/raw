@@ -1,0 +1,179 @@
+date: 20230908
+food:
+  - time: 20230908031700
+    name: 菇娘
+    amount: 100
+    unit: g
+
+  - time: 20230908031700
+    name: 佳禾黑小麦全麦粉
+    amount: 60.0
+    unit: g
+  - time: 20230908031700
+    name: 辣木叶粉2
+    amount: 4.0
+    unit: g
+  - time: 20230908031700
+    name: 猪肉
+    amount: 51.0
+    unit: g
+  - time: 20230908031700
+    name: 鸡蛋
+    amount: 6.0
+    unit: g
+  - time: 20230908031700
+    name: 豆瓣酱
+    amount: 1.7
+    unit: g
+  - time: 20230908031700
+    name: 奶酪
+    amount: 10
+    unit: g
+  - time: 20230908031700
+    name: 秋葵
+    amount: 100
+    unit: g
+  - time: 20230908031700
+    name: 南瓜
+    amount: 120
+    unit: g
+  - time: 20230908031700
+    name: 鲁晶低钠海盐
+    amount: 0.5
+    unit: g
+
+  - time: 20230908033700
+    name: 奶粉
+    amount: 15.0
+    unit: g
+  - time: 20230908033700
+    name: 凯兰牧场脱脂奶粉
+    amount: 5.0
+    unit: g
+  - time: 20230908033700
+    name: 胶原蛋白肽粉
+    amount: 3.0
+    unit: g
+
+  - time: 20230908082500
+    name: 香蕉
+    amount: 220
+    unit: g
+
+  - time: 20230908083300
+    name: 山药豆
+    amount: 80
+    unit: g
+  - time: 20230908083300
+    name: 鸡蛋
+    amount: 35
+    unit: g
+  - time: 20230908083300
+    name: 五城五香茶干
+    amount: 50
+    unit: g
+  - time: 20230908083300
+    name:  西兰花
+    amount: 100
+    unit: g
+  - time: 20230908083300
+    name: 油菜
+    amount: 100
+    unit: g
+  - time: 20230908083300
+    name: 
+    amount: 50
+    unit: g
+  - time: 20230908083300
+    name: 鲁晶低钠海盐
+    amount: 1.0
+    unit: g
+  - time: 20230908083300
+    name: 油
+    amount: 1.0
+    unit: g  
+f:
+
+  - time: 20230908124200
+    name: 鼎螺鲜螺蛳粉米粉
+    amount: 49.5
+    unit: g
+  - time: 20230908124200
+    name: 鼎螺鲜螺蛳粉配料
+    amount: 84.5
+    unit: g
+  - time: 20230908124200
+    name: 油面筋
+    amount: 46.0
+    unit: g
+  - time: 20230908132000
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: 
+  - time: 20230908132000
+    name: 奶粉
+    amount: 10.0
+    unit: 
+  - time: 20230908132000
+    name: 菊粉
+    amount: 12.0
+    unit: g
+water:
+  - time: 20230908020800
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20230908030100
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20230908033700
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20230908040300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230908050300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230908060700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230908072000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230908085700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230908101800
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20230908124200
+    name: 汤水
+    amount: 200
+    unit: ml
+  - time: 20230908132000
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20230908152600
+    name: 开水
+    amount: 50
+    unit: ml
+med:
+  - time: 20230908040300
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20230908040300
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
