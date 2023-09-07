@@ -1,14 +1,14 @@
-date: 20230906
+date: 20230907
 sleep: 
-  time: 20230905205700
-  weight: 54.4
+  time: 20230906202700
+  weight: 54.9
 wake:
-  time: 20230906030000
-  weight: 53.8
+  time: 20230907020000
+  weight: 54.0
   SpO2: 96
   PRbpm: 62
 exercise: 
-- time: 20230906033600
+- time: 20230907023000
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -23,20 +23,20 @@ exercise:
     amount: 5
     unit: set
   SpO2: 96
-  PRbpm: 85
-  endheartrate: 92
-- time: 20230906054000
+  PRbpm: 89
+  endheartrate: 87
+- time: 202309070536000
   item:
   - type: walk
-    amount: 27
+    amount: 25
     unit: minute
-  SpO2: 96
-  PRbpm: 110
+  SpO2: 97
+  PRbpm: 126
 stool:
-- time: 20230906052600
-  amount:   2   #	1:多; 2:适中;	3:少
+- time: 20230907044800
+  amount:   1   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 comment: |+
-  睡觉中间起来小便1次。起床穿薄长裤短袖T恤。
-  运动后把脉：寸脉中偏浅、关脉尺脉中；寸脉清晰有力、关脉尺脉清晰。
+  睡觉中间起来小便1次，一点半左右热醒，小腿和脚掌发热出汗。起床穿薄长裤短袖T恤。
+  运动时右腿后筋有些发紧。运动后把脉：关脉寸脉中偏浅、尺脉中；三处都清晰有力。

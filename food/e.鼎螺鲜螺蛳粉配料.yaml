@@ -1,0 +1,24 @@
+name: 鼎螺鲜螺蛳粉配料
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 779
+    unit: kj
+    nrv: 9
+  碳水化合物:
+    amount: 8
+    unit: g
+    nrv: 3
+  蛋白质:
+    amount: 5.8
+    unit: g
+    nrv: 10
+  脂肪:
+    amount: 14.7
+    unit: g
+    nrv: 25
+  钠:
+    amount: 2501
+    unit: mg
+    nrv: 125
