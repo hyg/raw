@@ -1,0 +1,24 @@
+name: 麻酱鸡蛋
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 818
+    unit: kj
+    nrv: 10
+  蛋白质:
+    amount: 13.9
+    unit: g
+    nrv: 23
+  脂肪:
+    amount: 12.7
+    unit: g
+    nrv: 21
+  碳水化合物:
+    amount: 6.6
+    unit: g
+    nrv: 2  
+  钠:
+    amount: 1900
+    unit: mg
+    nrv: 95

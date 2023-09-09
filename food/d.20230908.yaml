@@ -52,7 +52,6 @@ food:
     name: 香蕉
     amount: 171.5
     unit: g
-
   - time: 20230908082500
     name: 山药豆
     amount: 79.5
