@@ -1,0 +1,24 @@
+name: 天津油面筋
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1526
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 34.9
+    unit: g
+    nrv: 53
+  脂肪:
+    amount: 23.3
+    unit: g
+    nrv: 39
+  碳水化合物:
+    amount: 4.1
+    unit: g
+    nrv: 1
+  纳:
+    amount: 34
+    unit: mg
+    nrv: 2

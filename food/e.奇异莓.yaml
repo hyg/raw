@@ -1,0 +1,24 @@
+name: 奇异莓
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 77
+    unit: kcal
+    nrv: 4.8
+  蛋白质:
+    amount: 1.2
+    unit: g
+    nrv: 1.8
+  脂肪:
+    amount: 0.6
+    unit: g
+    nrv: 1.3
+  碳水化合物:
+    amount: 18
+    unit: g
+    nrv: 7.4
+  膳食纤维:
+    amount: 3
+    unit: g
+    nrv: 12
