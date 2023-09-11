@@ -1,0 +1,185 @@
+date: 20230911
+food:
+  - time: 20230911033100
+    name: 百香果
+    amount: 103.5
+    unit: g
+  - time: 20230911033700
+    name: 佳禾黑小麦全麦粉
+    amount: 59.0
+    unit: g
+  - time: 20230911033700
+    name: 辣木叶粉
+    amount: 4.0
+    unit: g
+  - time: 20230911033700
+    name: 鮰鱼腩
+    amount: 24.0
+    unit: g
+  - time: 20230911033700
+    name: 奶酪
+    amount: 11.0
+    unit: g
+  - time: 20230911033700
+    name: 南瓜
+    amount: 109.0
+    unit: g
+  - time: 20230911033700
+    name: 秋葵
+    amount: 123.0
+    unit: g
+  - time: 20230911033700
+    name: 鲁晶低钠海盐
+    amount: 1.0
+    unit: g
+  - time: 20230911035300
+    name: 奶粉
+    amount: 20
+    unit: g
+  - time: 20230911035300
+    name: 胶原蛋白肽粉
+    amount: 3.0
+    unit: g
+  - time: 20230911082500
+    name: 圣女果
+    amount: 100.0
+    unit: g
+  - time: 20230911082800
+    name: 菇娘
+    amount: 49.5
+    unit: g
+  - time: 20230911083100
+    name: 佳禾黑小麦全麦粉
+    amount: 59.0
+    unit: g
+  - time: 20230911083100
+    name: 辣木叶粉
+    amount: 4.0
+    unit: g
+  - time: 20230911083100
+    name: 鸡蛋
+    amount: 71.5
+    unit: g
+  - time: 20230911083100
+    name: 湘东情原味豆干
+    amount: 65.0
+    unit: g
+  - time: 20230911083100
+    name: 西兰花
+    amount: 77.0
+    unit: g
+  - time: 20230911083100
+    name: 小白菜
+    amount: 33.0
+    unit: g
+  - time: 20230911083100
+    name: 红薯叶
+    amount: 159.5
+    unit: g
+  - time: 20230911083100
+    name: 鲁晶低钠海盐
+    amount: 1.5
+    unit: g
+  - time: 20230911083100
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20230911130300
+    name: 鲜玉米
+    amount: 156.0
+    unit: g
+  - time: 20230911131800
+    name: 桑葚干
+    amount: 10
+    unit: g
+  - time: 20230911131800
+    name: 亚麻籽
+    amount: 5
+    unit: g
+  - time: 20230911131800
+    name: 麦胚芽
+    amount: 10
+    unit: g
+  - time: 20230911133100
+    name: 冬枣
+    amount: 103.0
+    unit: g
+  - time: 20230911134600
+    name: 菇娘
+    amount: 50.5
+    unit: g
+  - time: 20230911135000
+    name: 凯兰牧场脱脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20230911135000
+    name: 可可粉
+    amount: 4.0
+    unit: g
+  - time: 20230911135000
+    name: 鲁晶低钠海盐
+    amount: 0.2
+    unit: g
+water:
+  - time: 20230911023400
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20230911031200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230911035300
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20230911040000
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20230911043200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230911052500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230911063900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230911090600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230911103900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230911115400
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20230911135000
+    name: 可可奶
+    amount: 85.0
+    unit: ml
+  - time: 20230911143300
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20230911143800
+    name: 开水
+    amount: 50
+    unit: ml
+med:  
+  - time: 20230911040000
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20230911040000
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
