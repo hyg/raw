@@ -1,0 +1,24 @@
+name: 广信烟熏牡蛎
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1191
+    unit: kj
+    nrv: 14
+  蛋白质:
+    amount: 15.7
+    unit: g
+    nrv: 26
+  脂肪:
+    amount: 20.3
+    unit: g
+    nrv: 34
+  碳水化合物:
+    amount: 10.2
+    unit: g
+    nrv: 3
+  钠:
+    amount: 718
+    unit: mg
+    nrv: 36

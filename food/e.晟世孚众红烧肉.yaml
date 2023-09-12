@@ -1,0 +1,24 @@
+name: 晟世孚众红烧肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1550
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 7.2
+    unit: g
+    nrv: 12
+  脂肪:
+    amount: 36.5
+    unit: g
+    nrv: 61
+  碳水化合物:
+    amount: 3.2
+    unit: g
+    nrv: 1
+  钠:
+    amount: 840
+    unit: mg
+    nrv: 42
