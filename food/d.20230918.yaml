@@ -1,0 +1,154 @@
+date: 20230918
+food:
+  - time: 20230918043800
+    name: 冬枣
+    amount: 47.5
+    unit: g
+  - time: 20230918043800
+    name: 菇娘
+    amount: 49.5
+    unit: g
+  - time: 20230918043800
+    name: 佳禾黑小麦全麦粉
+    amount: 59.0
+    unit: g
+  - time: 20230918043800
+    name: 辣木叶粉
+    amount: 4.0
+    unit: g
+  - time: 20230918043800
+    name: 九转涎酱香猪肝
+    amount: 20.5
+    unit: g
+  - time: 20230918043800
+    name: 奶酪
+    amount: 11.0
+    unit: g
+  - time: 20230918043800
+    name: 南瓜
+    amount: 62.5
+    unit: g
+  - time: 20230918043800
+    name: 秋葵
+    amount: 100.5
+    unit: g
+  - time: 20230918043800
+    name: 鲁晶低钠海盐
+    amount: 0.5
+    unit: g
+  - time: 20230918050500
+    name: 奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230918050500
+    name: 凯兰牧场脱脂奶粉
+    amount: 9.5
+    unit: g
+  - time: 20230918050500
+    name: 胶原蛋白肽粉
+    amount: 3.0
+    unit: g
+  - time: 20230918050500
+    name: 菊粉
+    amount: 11.0
+    unit: g
+  - time: 20230918093000
+    name: 鼎螺鲜螺蛳粉米粉
+    amount: 50.0
+    unit: g
+  - time: 20230918093000
+    name: 鼎螺鲜螺蛳粉配料
+    amount: 231.5
+    unit: g
+  - time: 20230918093000
+    name: 油面筋
+    amount: 36.5
+    unit: g
+  - time: 20230918103600
+    name: 香蕉
+    amount: 170.5
+    unit: g
+  - time: 20230918161300
+    name: 百香果
+    amount: 63.5
+    unit: g
+  - time: 20230918161900
+    name: 柿子
+    amount: 152.0
+    unit: g
+  - time: 20230918162600
+    name: 凯兰牧场脱脂奶粉
+    amount: 35.0
+    unit: g
+  - time: 20230918162600
+    name: 可可粉
+    amount: 6.0
+    unit: g
+water:
+  - time: 20230918033800
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20230918042300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230918050500
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20230918051100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230918054500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230918062700
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20230918071300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230918081900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230918120500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230918124500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230918132200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230918155500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230918162600
+    name: 可可奶
+    amount: 100.0
+    unit: ml
+  - time: 20230918164800
+    name: 开水
+    amount: 150
+    unit: ml
+med:
+  - time: 20230918051100
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20230918051100
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
+  今天吃的是好欢螺400g。因为只有一张营养成分表，没有区分米粉和配料，所以借用鼎螺鲜的数据。

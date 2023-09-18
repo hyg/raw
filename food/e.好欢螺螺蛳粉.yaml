@@ -1,0 +1,24 @@
+name: 好欢螺螺蛳粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1055
+    unit: kj
+    nrv: 13
+  蛋白质:
+    amount: 6.1
+    unit: g
+    nrv: 10
+  脂肪:
+    amount: 11.6
+    unit: g
+    nrv: 19
+  碳水化合物:
+    amount: 31.3
+    unit: g
+    nrv: 10
+  钠:
+    amount: 1641
+    unit: mg
+    nrv: 82
