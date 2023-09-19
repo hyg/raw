@@ -1,14 +1,14 @@
-date: 20230917
+date: 20230918
 sleep: 
   time: 20230917204300
   weight: 53.7
 wake:
-  time: 20230917033000
+  time: 20230918033000
   weight: 53.2
   SpO2: 93
   PRbpm: 58
 exercise: 
-- time: 20230917040000
+- time: 20230918040000
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -16,7 +16,7 @@ exercise:
   - type: pilates.p55 
     amount: 20 
     unit: turn
-  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
     amount: 5
     unit: set
   - type: pilates.p79
@@ -25,7 +25,7 @@ exercise:
   SpO2: 98
   PRbpm: 80
   endheartrate: 84
-- time: 20230917055500
+- time: 20230918055500
   item:
   - type: walk
     amount: 25
@@ -33,7 +33,7 @@ exercise:
   SpO2: 93
   PRbpm: 117
 stool:
-- time: 20230917052000
+- time: 20230918052000
   amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难

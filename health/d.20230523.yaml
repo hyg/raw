@@ -16,7 +16,7 @@ exercise:
   - type: pilates.p55 
     amount: 20 
     unit: turn
-  - type: 仰卧直腿触足卷腹（straight leg toe touches）*10 + 坐位体前屈（Sit and Reach;）*10
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
     amount: 5
     unit: set
   - type: pilates.p79

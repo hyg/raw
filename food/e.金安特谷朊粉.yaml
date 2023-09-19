@@ -1,0 +1,20 @@
+name: 金安特谷朊粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1636
+    unit: kj
+    nrv: 19
+  蛋白质:
+    amount: 75
+    unit: g
+    nrv: 125
+  脂肪:
+    amount: 2.0
+    unit: g
+    nrv: 3
+  碳水化合物:
+    amount: 15.9
+    unit: g
+    nrv: 5
