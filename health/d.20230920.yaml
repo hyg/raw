@@ -1,14 +1,14 @@
 date: 20230920
 sleep: 
-  time: 20230919192300
-  weight: 54.6
+  time: 20230919201800
+  weight: 53.9
 wake:
-  time: 20230920043500
-  weight: 53.6
-  SpO2: 95
+  time: 20230920034500
+  weight: 53.2
+  SpO2: 94
   PRbpm: 57
 exercise: 
-- time: 20230920050100
+- time: 20230920041500
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -24,19 +24,19 @@ exercise:
     unit: set
   SpO2: 97
   PRbpm: 78
-  endheartrate: 83
-- time: 20230920064000
+  endheartrate: 77
+- time: 20230920055900
   item:
   - type: walk
-    amount: 26
+    amount: 22
     unit: minute
-  SpO2: 96
-  PRbpm: 122
+  SpO2: 94
+  PRbpm: 123
 stool:
-- time: 20230920062000
-  amount:   1   #	1:多; 2:适中;	3:少
-  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+- time: 20230920054600
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 comment: |+
-  睡觉中间起来小便1次，一点五十左右。起床穿德绒长裤短袖polo，9点加薄羽绒背心、换高帮靴。
-  运动时左膝有些发紧、不影响跪坐放松。运动后把脉：一开始三处都模糊不清，接近一分钟结束时才慢慢显现；关脉中偏浅、尺脉寸脉深度中；三处都清晰。
+  睡觉中间没有起来小便。起床穿德绒长裤短袖T恤。运动后加保羽绒背心、换高帮靴。步行时在德绒长裤外套薄长裤，T恤加皮肤衣。
+  运动后把脉：三处深度中；尺脉清晰有力、关脉寸脉开始有些微弱，逐渐清晰。

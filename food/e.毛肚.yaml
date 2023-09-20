@@ -1,0 +1,24 @@
+name: 毛肚
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 235
+    unit: kj
+    nrv: 3
+  蛋白质:
+    amount: 10.8
+    unit: g
+    nrv: 18
+  脂肪:
+    amount: 1.2
+    unit: g
+    nrv: 2
+  碳水化合物:
+    amount: 0.4
+    unit: g
+    nrv: 0
+  钠:
+    amount: 70
+    unit: mg
+    nrv: 4
