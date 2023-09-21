@@ -81,7 +81,7 @@ food:
     amount: 2.0
     unit: g
   - time: 20230920142500
-    name: 鼎螺鲜螺蛳粉米粉
+    name: 螺蛳粉米粉
     amount: 50
     unit: g
   - time: 20230920142500
@@ -152,6 +152,14 @@ water:
   - time: 20230920152200
     name: 开水
     amount: 50
+    unit: ml
+  - time: 20230920163000
+    name: 开水
+    amount: 25
+    unit: ml
+  - time: 20230920181200
+    name: 开水
+    amount: 25
     unit: ml
 med:
   - time: 20230920053400

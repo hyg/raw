@@ -1,0 +1,24 @@
+name: 只投螺碗螺蛳粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1072
+    unit: kj
+    nrv: 13
+  蛋白质:
+    amount: 4.7
+    unit: g
+    nrv: 8
+  脂肪:
+    amount: 9.5
+    unit: g
+    nrv: 16
+  碳水化合物:
+    amount: 37.7
+    unit: g
+    nrv: 13
+  钠:
+    amount: 1485
+    unit: mg
+    nrv: 74

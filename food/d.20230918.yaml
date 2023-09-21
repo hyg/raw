@@ -53,11 +53,11 @@ food:
     amount: 11.0
     unit: g
   - time: 20230918093000
-    name: 鼎螺鲜螺蛳粉米粉
+    name: 螺蛳粉米粉
     amount: 50.0
     unit: g
   - time: 20230918093000
-    name: 鼎螺鲜螺蛳粉配料
+    name: 螺蛳粉配料
     amount: 231.5
     unit: g
   - time: 20230918093000

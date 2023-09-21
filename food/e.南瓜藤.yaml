@@ -1,0 +1,20 @@
+name: 南瓜藤
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 19
+    unit: kcal
+    nrv: 1.2
+  蛋白质:
+    amount: 3.15
+    unit: g
+    nrv: 4.8
+  脂肪:
+    amount: 0.4
+    unit: g
+    nrv: 0.9
+  钠:
+    amount: 11
+    unit: mg
+    nrv: 0.7

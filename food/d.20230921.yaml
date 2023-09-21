@@ -1,0 +1,187 @@
+date: 20230921
+food:
+  - time: 20230921054800
+    name: 百香果
+    amount: 72.0
+    unit: g
+  - time: 20230921055000
+    name: 菇娘
+    amount: 50.0
+    unit: g
+  - time: 20230921055000
+    name: 佳禾黑小麦全麦粉
+    amount: 13
+    unit: g
+  - time: 20230921055000
+    name: 雁门清高苦荞粉
+    amount: 37.5
+    unit: g
+  - time: 20230921055000
+    name: 金安特谷朊粉
+    amount: 16
+    unit: g
+  - time: 20230921055000
+    name: 鮰鱼腩
+    amount: 31.0
+    unit: g
+  - time: 20230921055000
+    name: 九转涎酱香猪肝
+    amount: 26.0
+    unit: g
+  - time: 20230921055000
+    name: 南瓜
+    amount: 94.0
+    unit: g
+  - time: 20230921055000
+    name: 秋葵
+    amount: 95.5
+    unit: g
+  - time: 20230921055000
+    name: 鲁晶低钠海盐
+    amount: 0.5
+    unit: g
+  - time: 20230921061000
+    name: 奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230921061000
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20230921061000
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20230921102100
+    name: 香蕉
+    amount: 167.5
+    unit: g  
+  - time: 20230921102400
+    name: 山药豆
+    amount: 59.5
+    unit: g
+  - time: 20230921102400
+    name: 鸡蛋
+    amount: 34.0
+    unit: g
+  - time: 20230921102400
+    name: 西兰花
+    amount: 92.0
+    unit: g
+  - time: 20230921102400
+    name: 南瓜藤
+    amount: 116.5
+    unit: g
+  - time: 20230921102400
+    name: 鲁晶低钠海盐
+    amount: 1.0
+    unit: g
+  - time: 20230921102400
+    name: 油
+    amount: 1.0
+    unit: g
+
+  - time: 20230921142500
+    name: 螺蛳粉米粉
+    amount: 50
+    unit: g
+  - time: 20230921142500
+    name: 螺蛳粉配料
+    amount: 100
+    unit: g
+  - time: 20230921142500
+    name: 田螺肉
+    amount: 80
+    unit: g
+  - time: 20230921142500
+    name: 豆瓣酱
+    amount: 8
+    unit: g
+  - time: 20230921142500
+    name: 毛肚
+    amount: 50
+    unit: g
+  - time: 20230921142500
+    name: 小白菜
+    amount: 30
+    unit: g
+
+  - time: 20230921145000
+    name: 桑葚干
+    amount: 10
+    unit: g
+  - time: 20230921145000
+    name: 亚麻籽
+    amount: 5
+    unit: g
+  - time: 20230921145000
+    name: 麦胚芽
+    amount: 10
+    unit: g
+
+  - time: 20230921145000
+    name: 凯兰牧场脱脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20230921145000
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20230921044600
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20230921053200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230921061000
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20230921062800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230921071700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230921081900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230921091400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230921104800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20230921113800
+    name: 开水
+    amount: 250
+    unit: ml
+
+  - time: 20230921145000
+    name: 牛奶
+    amount: 80.5
+    unit: ml
+  - time: 20230921152200
+    name: 开水
+    amount: 50
+    unit: ml
+med:
+  - time: 20230921062800
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20230921062800
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
+  生螺肉400.0g+料酒40.0g+豆瓣酱40.0g+姜19.5g+水 = 熟螺肉291.0g+螺肉汤536.0g
+  熟螺肉折算比例72.75%。每份（生螺肉40.0g+4.0g豆瓣酱）大约对应（熟螺肉29g+54g螺肉汤）。
