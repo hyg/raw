@@ -80,14 +80,13 @@ food:
     name: 油
     amount: 1.0
     unit: g
-
   - time: 20230921142500
     name: 螺蛳粉米粉
     amount: 50
     unit: g
   - time: 20230921142500
     name: 螺蛳粉配料
-    amount: 100
+    amount: 161.5
     unit: g
   - time: 20230921142500
     name: 田螺肉
@@ -98,34 +97,16 @@ food:
     amount: 8
     unit: g
   - time: 20230921142500
-    name: 毛肚
-    amount: 50
-    unit: g
-  - time: 20230921142500
     name: 小白菜
-    amount: 30
+    amount: 29.0
     unit: g
-
-  - time: 20230921145000
-    name: 桑葚干
-    amount: 10
-    unit: g
-  - time: 20230921145000
-    name: 亚麻籽
-    amount: 5
-    unit: g
-  - time: 20230921145000
-    name: 麦胚芽
-    amount: 10
-    unit: g
-
   - time: 20230921145000
     name: 凯兰牧场脱脂奶粉
-    amount: 20.0
+    amount: 30.0
     unit: g
   - time: 20230921145000
-    name: 可可粉
-    amount: 4.0
+    name: 菊粉
+    amount: 5.0
     unit: g
 water:
   - time: 20230921044600
@@ -164,12 +145,15 @@ water:
     name: 开水
     amount: 250
     unit: ml
-
+  - time: 20230921132500
+    name: 开水
+    amount: 250
+    unit: ml
   - time: 20230921145000
     name: 牛奶
-    amount: 80.5
+    amount: 100.0
     unit: ml
-  - time: 20230921152200
+  - time: 20230921154200
     name: 开水
     amount: 50
     unit: ml
