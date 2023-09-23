@@ -185,8 +185,15 @@ water:
     name: 可可奶
     amount: 80.5
     unit: ml
-
-  - time: 20230922154200
+  - time: 20230922173600
+    name: 开水
+    amount: 50
+    unit: ml
+  - time: 20230922180100
+    name: 开水
+    amount: 50
+    unit: ml
+  - time: 20230922191300
     name: 开水
     amount: 50
     unit: ml
@@ -200,5 +207,3 @@ med:
     amount: 1
     unit: 片
 comment: |+
-  生螺肉400.0g+料酒40.0g+豆瓣酱40.0g+姜19.5g+水 = 熟螺肉291.0g+螺肉汤536.0g
-  熟螺肉折算比例72.75%。每份（生螺肉40.0g+4.0g豆瓣酱）大约对应（熟螺肉29g+54g螺肉汤）。
