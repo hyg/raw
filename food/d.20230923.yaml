@@ -177,10 +177,21 @@ water:
     name: 牛奶
     amount: 45.0
     unit: ml
-
-  - time: 20230923154200
+  - time: 20230923142800
     name: 开水
     amount: 150
+    unit: ml
+  - time: 20230923152100
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20230923173200
+    name: 开水
+    amount: 50
+    unit: ml
+  - time: 20230923182100
+    name: 开水
+    amount: 50
     unit: ml
 med:
   - time: 20230923053900
