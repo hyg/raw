@@ -1,0 +1,24 @@
+name: 螺不凡黄金腐竹
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2323
+    unit: kj
+    nrv: 28
+  蛋白质:
+    amount: 29.2
+    unit: g
+    nrv: 49
+  脂肪:
+    amount: 40.4
+    unit: g
+    nrv: 67
+  碳水化合物:
+    amount: 19.5
+    unit: g
+    nrv: 7
+  钠:
+    amount: 66
+    unit: mg
+    nrv: 3

@@ -1,0 +1,24 @@
+name: 螺不凡78号汤底
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 373
+    unit: kj
+    nrv: 4
+  蛋白质:
+    amount: 5.5
+    unit: g
+    nrv: 9
+  脂肪:
+    amount: 2.5
+    unit: g
+    nrv: 4
+  碳水化合物:
+    amount: 19.9
+    unit: g
+    nrv: 4
+  钠:
+    amount: 6293
+    unit: mg
+    nrv: 315

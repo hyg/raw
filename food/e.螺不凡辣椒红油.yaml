@@ -1,0 +1,24 @@
+name: 螺不凡辣椒红油
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 367
+    unit: kj
+    nrv: 44
+  蛋白质:
+    amount: 0
+    unit: g
+    nrv: 0
+  脂肪:
+    amount: 99.5
+    unit: g
+    nrv: 166
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0

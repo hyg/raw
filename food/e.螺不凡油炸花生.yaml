@@ -1,0 +1,24 @@
+name: 螺不凡油炸花生
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2523
+    unit: kj
+    nrv: 30
+  蛋白质:
+    amount: 26.1
+    unit: g
+    nrv: 44
+  脂肪:
+    amount: 44.9
+    unit: g
+    nrv: 75
+  碳水化合物:
+    amount: 24.6
+    unit: g
+    nrv: 8
+  钠:
+    amount: 6
+    unit: mg
+    nrv: 0

@@ -197,6 +197,14 @@ water:
     name: 开水
     amount: 50
     unit: ml
+  - time: 20230924175600
+    name: 开水
+    amount: 50
+    unit: ml
+  - time: 20230924184900
+    name: 开水
+    amount: 50
+    unit: ml
 med:
   - time: 20230924052300
     name: selenium
