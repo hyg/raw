@@ -1,0 +1,24 @@
+name: 湘东情柴火香干
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 763
+    unit: kj
+    nrv: 9
+  蛋白质:
+    amount: 23.6
+    unit: g
+    nrv: 39
+  脂肪:
+    amount: 2.3
+    unit: g
+    nrv: 4
+  碳水化合物:
+    amount: 15.3
+    unit: g
+    nrv: 5
+  钠:
+    amount: 280
+    unit: mg
+    nrv: 14

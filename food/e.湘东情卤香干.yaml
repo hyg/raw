@@ -1,0 +1,24 @@
+name: 湘东情卤香干
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 940
+    unit: kj
+    nrv: 11
+  蛋白质:
+    amount: 28.5
+    unit: g
+    nrv: 48
+  脂肪:
+    amount: 1.2
+    unit: g
+    nrv: 2
+  碳水化合物:
+    amount: 24.2
+    unit: g
+    nrv: 8
+  钠:
+    amount: 408
+    unit: mg
+    nrv: 20
