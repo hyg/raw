@@ -197,7 +197,6 @@ water:
     name: 开水
     amount: 50
     unit: ml
-
   - time: 20230927195500
     name: 开水
     amount: 50
