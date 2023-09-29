@@ -91,7 +91,7 @@ food:
   - time: 20230925162400
     name: 柿子
     amount: 109.0
-    unit: gs
+    unit: g
   - time: 20230925162800
     name: 圆白菜
     amount: 70.5
@@ -194,6 +194,10 @@ water:
     amount: 80.5
     unit: ml
   - time: 20230925171000
+    name: 开水
+    amount: 50
+    unit: ml
+  - time: 20230925181500
     name: 开水
     amount: 50
     unit: ml
