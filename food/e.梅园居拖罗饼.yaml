@@ -1,0 +1,24 @@
+name: 梅园居拖罗饼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1700
+    unit: kj
+    nrv: 20
+  蛋白质:
+    amount: 6.5
+    unit: g
+    nrv: 11
+  脂肪:
+    amount: 18
+    unit: g
+    nrv: 30
+  碳水化合物:
+    amount: 54.0
+    unit: g
+    nrv: 18
+  钠:
+    amount: 46
+    unit: mg
+    nrv: 2
