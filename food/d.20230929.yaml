@@ -44,117 +44,107 @@ food:
     name: 小分子肽粉
     amount: 3.0
     unit: g
-
-  - time: 20230929124300
-    name: 菇娘
-    amount: 40.0
+  - time: 20230929150200
+    name: 香蕉
+    amount: 65.5
     unit: g
-
-  - time: 20230929124600
+  - time: 20230929150800
     name: 山药豆
-    amount: 60
+    amount: 60.5
     unit: g
-  - time: 20230929124600
+  - time: 20230929150800
     name: 九转涎酱香猪肝
-    amount: 20.0
+    amount: 16.0
     unit: g
-  - time: 20230929124600
+  - time: 20230929150800
     name: 湘东情卤香干
-    amount: 30
+    amount: 34.0
     unit: g
-  - time: 20230929124600
+  - time: 20230929150800
     name: 南瓜藤
-    amount: 50
+    amount: 36.5
     unit: g
-  - time: 20230929124600
+  - time: 20230929150800
     name: 西兰花
-    amount: 100
+    amount: 79.0
     unit: g
-  - time: 20230929124600
+  - time: 20230929150800
     name: 小白菜
-    amount: 100
+    amount: 106.0
     unit: g
-  - time: 20230929124600
+  - time: 20230929150800
     name: 鲁晶低钠海盐
     amount: 1.0
     unit: g
-  - time: 20230929124600
+  - time: 20230929150800
     name: 鲜味王
     amount: 0.5
     unit: g
-  - time: 20230929124600
+  - time: 20230929150800
     name: 油
-    amount: 1.0
+    amount: 1.5
     unit: g
-
-  - time: 20230929131500
-    name: 香蕉
-    amount: 70
+  - time: 20230929183800
+    name: 菇娘
+    amount: 40.0
     unit: g
-
-  - time: 20230929141500
+  - time: 20230929184200
     name: 番茄酱
-    amount: 30.0
+    amount: 29.5
     unit: g
-  - time: 20230929141500
+  - time: 20230929184200
     name: 圆白菜
-    amount: 50
+    amount: 58.0
     unit: g
-  - time: 20230929141500
+  - time: 20230929184200
     name: 洋葱
-    amount: 50
+    amount: 52.0
     unit: g
-  - time: 20230929141500
+  - time: 20230929184200
     name: 胡萝卜
-    amount: 50
+    amount: 49.5
     unit: g
-  - time: 20230929141500
+  - time: 20230929184200
     name: 南瓜
-    amount: 50
+    amount: 46.5
     unit: g
-  - time: 20230929141500
+  - time: 20230929184200
     name: 鸡蛋灌饼
-    amount: 90
+    amount: 87.5
     unit: g
-  - time: 20230929141500
+  - time: 20230929184200
     name: 鸡蛋
-    amount: 40
+    amount: 38.5
     unit: g
-  - time: 20230929141500
+  - time: 20230929184200
     name: 鲁晶低钠海盐
-    amount: 1.0
+    amount: 1.5
     unit: g
-  - time: 20230929141500
+  - time: 20230929184200
     name: 油
     amount: 1.0
     unit: g
-
-  - time: 20230929151500
+  - time: 20230929190300
     name: 桑葚干
-    amount: 10.0
+    amount: 7.0
     unit: g
-  - time: 20230929151500
-    name: 亚麻籽
-    amount: 5.0
-    unit: g
-  - time: 20230929151500
+  - time: 20230929190300
     name: 麦胚芽
     amount: 10.0
     unit: g
-
-  - time: 20230929191115
+  - time: 20230929190900
     name: 梅园居拖罗饼
-    amount: 65.5
+    amount: 74.5
     unit: g
-  - time: 20230929191115
+  - time: 20230929190900
     name: 奶粉
     amount: 10.0
     unit: g
-  - time: 20230929191115
+  - time: 20230929190900
     name: 凯兰牧场脱脂奶粉
     amount: 10.0
     unit: g
-  - time: 20230929191115
+  - time: 20230929190900
     name: 可可粉
     amount: 4.0
     unit: g
@@ -179,38 +169,33 @@ water:
     name: 开水
     amount: 250
     unit: ml
-
-  - time: 20230929104400
+  - time: 20230929131700
     name: 开水
     amount: 250
     unit: ml
-  - time: 20230929151200
+  - time: 20230929135300
     name: 开水
     amount: 250
     unit: ml
-  - time: 20230929162500
+  - time: 20230929153700
     name: 开水
     amount: 250
     unit: ml
-  - time: 20230929173600
+  - time: 20230929164600
     name: 开水
-    amount: 250
+    amount: 150
     unit: ml
-  - time: 20230929191115
+  - time: 20230929190900
     name: 可可奶
-    amount: 80.0
+    amount: 80.5
     unit: ml
-  - time: 20230929200300
+  - time: 20230929194800
     name: 开水
     amount: 50
     unit: ml
-  - time: 20230929211115
+  - time: 20230929203800
     name: 开水
-    amount: 50
-    unit: ml
-  - time: 20230929211115
-    name: 开水
-    amount: 50
+    amount: 100
     unit: ml
 med:
   - time: 20230929112600

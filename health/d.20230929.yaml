@@ -25,13 +25,13 @@ exercise:
   SpO2: 98
   PRbpm: 79
   endheartrate: 84
-- time: 20230929090000
+- time: 20230929124500
   item:
   - type: walk
     amount: 26
     unit: minute
   SpO2: 96
-  PRbpm: 129
+  PRbpm: 128
 stool:
 - time: 20230929113500
   amount:   2   #	1:多; 2:适中;	3:少
