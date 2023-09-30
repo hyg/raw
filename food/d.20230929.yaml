@@ -1,34 +1,34 @@
 date: 20230929
 food:
-  - time: 20230929101115
+  - time: 20230929105100
     name: 百香果
     amount: 47.0
     unit: g
-  - time: 20230929112600
+  - time: 20230929105800
     name: 雁门清高苦荞粉
     amount: 40.0
     unit: g
-  - time: 20230929112600
+  - time: 20230929105800
     name: 金安特谷朊粉
     amount: 10.0
     unit: g
-  - time: 20230929112600
+  - time: 20230929105800
     name: 辣木叶粉
     amount: 2.0
     unit: g
-  - time: 20230929112600
+  - time: 20230929105800
     name: 鮰鱼腩
     amount: 27.0
     unit: g
-  - time: 20230929112600
+  - time: 20230929105800
     name: 南瓜
     amount: 51.5
     unit: g
-  - time: 20230929112600
+  - time: 20230929105800
     name: 秋葵
     amount: 145.5
     unit: g
-  - time: 20230929112600
+  - time: 20230929105800
     name: 鲁晶低钠海盐
     amount: 0.5
     unit: g
