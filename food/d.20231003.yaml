@@ -4,7 +4,6 @@ food:
     name: 百香果
     amount: 42.0
     unit: g
-
   - time: 20231003083200
     name: 雁门清高苦荞粉
     amount: 40.0
@@ -89,73 +88,61 @@ food:
     name: 油
     amount: 1.0
     unit: g
-
-  - time: 20231003181200
-    name: 柿子
-    amount: 130
-    unit: g
-  
-  - time: 20231003182000
+  - time: 20231003192600
     name: 番茄酱
-    amount: 30
+    amount: 30.0
     unit: g
-  - time: 20231003182000
+  - time: 20231003192600
     name: 胡萝卜
-    amount: 50
+    amount: 50.0
     unit: g
-  - time: 20231003182000
+  - time: 20231003192600
     name: 洋葱
-    amount: 60
+    amount: 58.5
     unit: g
-  - time: 20231003182000
+  - time: 20231003192600
     name: 圆白菜
-    amount: 60
+    amount: 65.5
     unit: g
-  - time: 20231003182000
+  - time: 20231003192600
     name: 南瓜
-    amount: 60
+    amount: 91.0
     unit: g
-  - time: 20231003182000
-    name: 冬日红薯粉皮
-    amount: 40.0
-    unit: g
-  - time: 20231003182000
+  - time: 20231003192600
     name: 鲁晶低钠海盐
     amount: 1.0
     unit: g
-  - time: 20231003182000
+  - time: 20231003192600
     name: 油
     amount: 1.0
     unit: g
-
-  - time: 20231003183700
+  - time: 20231003194000
     name: 桑葚干
     amount: 10.0
     unit: g
-  - time: 20231003183700
+  - time: 20231003194000
     name: 亚麻籽
-    amount: 5.0
+    amount: 3.5
     unit: g
-  - time: 20231003183700
+  - time: 20231003194000
     name: 麦胚芽
     amount: 10.0
     unit: g
-
-  - time: 20231003184800
+  - time: 20231003194900
     name: 奶粉
-    amount: 15.0
+    amount: 10.0
     unit: g
-  - time: 20231003184800
+  - time: 20231003194900
     name: 凯兰牧场脱脂奶粉
-    amount: 5.0
+    amount: 10.0
     unit: g
-  - time: 20231003184800
+  - time: 20231003194900
     name: 可可粉
     amount: 4.0
     unit: g
-  - time: 20231003184800
-    name: 伊卡侬72%臻黑巧克力
-    amount: 5.0
+  - time: 20231003194900
+    name: 梅园居拖罗饼
+    amount: 72.5
     unit: g
 water:
   - time: 20231003072700
@@ -194,20 +181,23 @@ water:
     name: 开水
     amount: 250
     unit: ml
-
-  - time: 20231003152800
+  - time: 20231003184100
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231003184800
-    name: 可可奶
-    amount: 82.5
+  - time: 20231003192600
+    name: 汤水
+    amount: 250
     unit: ml
-  - time: 20231003185800
+  - time: 20231003194900
+    name: 可可奶
+    amount: 84.5
+    unit: ml
+  - time: 20231003202300
     name: 开水
     amount: 50
     unit: ml
-  - time: 20231003204800
+  - time: 20231003203600
     name: 开水
     amount: 50
     unit: ml

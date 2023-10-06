@@ -1,0 +1,46 @@
+date: 20231004
+sleep: 
+  time: 20231003233600
+  weight: 53.2
+wake:
+  time: 20231004084200
+  weight: 52.2
+  SpO2: 96
+  PRbpm: 56
+exercise: 
+- time: 20231004090500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 98
+  PRbpm: 86
+  endheartrate: 91
+- time: 20231004121500
+  item:
+  - type: walk
+    amount: 27
+    unit: minute
+  SpO2: 96
+  PRbpm: 135
+stool:
+- time: 20231004102000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+- time: 20231004151500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间起来小便一次，大概三点三刻，陆陆续续查装机攻略到六点才稍微浅睡。起床后穿德绒长裤、短袖T恤。运动后加穿棉薄长裤、薄羽绒背心、戴帽。
+  运动后把脉：关脉中偏浅、寸脉尺脉深度中；关脉寸脉清晰有力、尺脉清晰。今天心率有些上升。
