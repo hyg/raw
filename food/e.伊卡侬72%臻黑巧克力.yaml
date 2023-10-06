@@ -1,24 +1,24 @@
-name: 梅园居拖罗饼
+name: 伊卡侬72%臻黑巧克力
 amount: 100
 unit: g
 element:
   热量:
-    amount: 1700
+    amount: 2562
     unit: kj
-    nrv: 20
+    nrv: 31
   蛋白质:
-    amount: 6.5
+    amount: 6.7
     unit: g
     nrv: 11
   脂肪:
-    amount: 18
+    amount: 46.9
     unit: g
-    nrv: 30
+    nrv: 78
   碳水化合物:
-    amount: 54.0
+    amount: 41.9
     unit: g
-    nrv: 18
+    nrv: 14
   钠:
-    amount: 46
+    amount: 14
     unit: mg
-    nrv: 2
+    nrv: 1

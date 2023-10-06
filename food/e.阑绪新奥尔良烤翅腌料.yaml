@@ -1,24 +1,24 @@
-name: 湘东情卤香干
+name: 阑绪新奥尔良烤翅腌料
 amount: 100
 unit: g
 element:
   热量:
-    amount: 940
+    amount: 1219
     unit: kj
-    nrv: 11
+    nrv: 15
   蛋白质:
-    amount: 28.5
+    amount: 5.2
     unit: g
-    nrv: 48
+    nrv: 9
   脂肪:
     amount: 1.2
     unit: g
     nrv: 2
   碳水化合物:
-    amount: 24.2
+    amount: 63.9
     unit: g
-    nrv: 8
+    nrv: 21
   钠:
-    amount: 408
+    amount: 9864
     unit: mg
-    nrv: 20
+    nrv: 493

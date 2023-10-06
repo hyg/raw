@@ -1,0 +1,43 @@
+date: 20231002
+sleep: 
+  time: 20231001204800
+  weight: 53.5
+wake:
+  time: 20231002052500
+  weight: 52.3
+  SpO2: 96
+  PRbpm: 56
+exercise: 
+- time: 20231002060800
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 99
+  PRbpm: 75
+  endheartrate: 79
+- time: 20231002100500
+  item:
+  - type: walk
+    amount: 26
+    unit: minute
+  SpO2: 94
+  PRbpm: 134
+stool:
+- time: 20231002072800
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间起来小便1次。睡觉戴帽。起床穿抓绒长裤短袖T恤。运动完加薄羽绒背心、薄棉长裤、穿高帮靴、戴薄滑雪帽。
+  运动后把脉：开始寸脉清晰、尺脉关脉很模糊；半分钟后关脉尺脉寸脉都清晰、三处深度中。
+  今天早起体力不如前几天，睁眼后看着心率很快升到60，闭眼睡五分钟才慢慢降回来。不像前几天一分钟不到就降回55左右。

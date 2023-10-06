@@ -1,0 +1,208 @@
+date: 20231002
+food:
+  - time: 20231002064500
+    name: 百香果
+    amount: 43.0
+    unit: g
+  - time: 20231002064900
+    name: 螺不凡干米粉
+    amount: 51.0
+    unit: g
+  - time: 20231002064900
+    name: 螺不凡黄金腐竹
+    amount: 15.0
+    unit: g
+  - time: 20231002064900
+    name: 螺不凡酸豆角萝卜木耳包
+    amount: 31.0
+    unit: g
+  - time: 20231002064900
+    name: 螺不凡红油酸笋
+    amount: 29.0
+    unit: g
+  - time: 20231002064900
+    name: 螺不凡油炸花生
+    amount: 10.0
+    unit: g
+  - time: 20231002064900
+    name: 螺不凡78号汤底
+    amount: 10.0
+    unit: g
+  - time: 20231002064900
+    name: 田螺肉
+    amount: 80
+    unit: g
+  - time: 20231002064900
+    name: 豆瓣酱
+    amount: 0.89
+    unit: g
+  - time: 20231002064900
+    name: 小白菜
+    amount: 50
+    unit: g
+  - time: 20231002071100
+    name: 奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231002071100
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231002071100
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20231002114200
+    name: 香蕉
+    amount: 102.0
+    unit: g
+  - time: 20231002114800
+    name: 山药豆
+    amount: 60.0
+    unit: g
+  - time: 20231002114800
+    name: 鸡腿肉
+    amount: 77
+    unit: g
+  - time: 20231002114800
+    name: 阑绪新奥尔良烤翅腌料
+    amount: 1
+    unit: g
+  - time: 20231002114800
+    name: 西兰花
+    amount: 139.5
+    unit: g
+  - time: 20231002114800
+    name: 小白菜
+    amount: 78.5
+    unit: g
+  - time: 20231002181200
+    name: 香蕉
+    amount: 99
+    unit: g
+  - time: 20231002182000
+    name: 番茄酱
+    amount: 30.5
+    unit: g
+  - time: 20231002182000
+    name: 胡萝卜
+    amount: 50.5
+    unit: g
+  - time: 20231002182000
+    name: 洋葱
+    amount: 60
+    unit: g
+  - time: 20231002182000
+    name: 圆白菜
+    amount: 45.0
+    unit: g
+  - time: 20231002182000
+    name: 南瓜
+    amount: 62.5
+    unit: g
+  - time: 20231002182000
+    name: 鸡蛋灌饼
+    amount: 89.0
+    unit: g
+  - time: 20231002182000
+    name: 鸡蛋
+    amount: 37.0
+    unit: g
+  - time: 20231002182000
+    name: 鲁晶低钠海盐
+    amount: 1.0
+    unit: g
+  - time: 20231002183700
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20231002183700
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20231002183700
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20231002184800
+    name: 奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231002184800
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231002184800
+    name: 菊粉
+    amount: 6.0
+    unit: g
+  - time: 20231002184800
+    name: 伊卡侬72%臻黑巧克力
+    amount: 5
+    unit: g
+water:
+  - time: 20231002053400
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20231002063700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231002071100
+    name: 咖啡
+    amount: 81.0
+    unit: ml
+  - time: 20231002072400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231002082800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231002093900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231002104000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231002121700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231002143800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231002152800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231002184800
+    name: 可可奶
+    amount: 82.5
+    unit: ml
+  - time: 20231002185800
+    name: 开水
+    amount: 50
+    unit: ml
+  - time: 20231002204800
+    name: 开水
+    amount: 50
+    unit: ml
+med:
+  - time: 20231002072400
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20231002072400
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
+  田螺肉熟重58.0克，折算生重80克。汤汁熟重12.0克，折算豆瓣酱0.89克。
+  烤肉卷：梅花肉365克（400克已取用35克）分为四卷，每卷生重约91克。鸡腿肉1000克共13片，每片生重约77克，烤12片。
+  新奥尔良颜料用70克，大概25克在梅花肉，45克在鸡腿肉。考虑倒掉的部分，折算每卷梅花肉含1.5克腌料，每卷鸡腿肉含1克腌料。
