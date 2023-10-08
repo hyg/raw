@@ -1,0 +1,24 @@
+name: 塔拉额吉黄油
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 3693
+    unit: kj
+    nrv: 44
+  脂肪:
+    amount: 0
+    unit: g
+    nrv: 0
+  蛋白质:
+    amount: 99.8
+    unit: g
+    nrv: 166
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  钠:
+    amount: 40
+    unit: mg
+    nrv: 2
