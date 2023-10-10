@@ -134,7 +134,7 @@ food:
     unit: g
   - time: 20231009214800
     name: 麦胚芽
-    amount: 13.0
+    amount: 10.0
     unit: g
   - time: 20231009220000
     name: 奶粉

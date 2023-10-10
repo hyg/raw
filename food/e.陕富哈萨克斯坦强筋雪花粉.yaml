@@ -1,0 +1,24 @@
+name: 陕富哈萨克斯坦强筋雪花粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1500
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 12.2
+    unit: g
+    nrv: 20
+  脂肪:
+    amount: 1.1
+    unit: g
+    nrv: 2
+  碳水化合物:
+    amount: 73.4
+    unit: g
+    nrv: 24
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0

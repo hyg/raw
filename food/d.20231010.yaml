@@ -1,0 +1,225 @@
+date: 20231010
+food:
+  - time: 20231010115700
+    name: 猕猴桃
+    amount: 88.0
+    unit: g
+  - time: 20231010120400
+    name: 螺不凡干米粉
+    amount: 50.5
+    unit: g
+  - time: 20231010120400
+    name: 螺不凡黄金腐竹
+    amount: 15.5
+    unit: g
+  - time: 20231010120400
+    name: 螺不凡酸豆角萝卜木耳包
+    amount: 30.5
+    unit: g
+  - time: 20231010120400
+    name: 螺不凡红油酸笋
+    amount: 29.0
+    unit: g
+  - time: 20231010120400
+    name: 螺不凡油炸花生
+    amount: 12.5
+    unit: g
+  - time: 20231010120400
+    name: 螺不凡78号汤底
+    amount: 6.5
+    unit: g
+  - time: 20231010120400
+    name: 田螺肉
+    amount: 42
+    unit: g
+  - time: 20231010120400
+    name: 豆瓣酱
+    amount: 1.9
+    unit: g
+  - time: 20231010120400
+    name: 依恋油醋汁
+    amount: 9.5
+    unit: g
+  - time: 20231010120400
+    name: 油菜
+    amount: 63.0
+    unit: g
+  - time: 20231010122500
+    name: 奶粉
+    amount: 15
+    unit: g
+  - time: 20231010122500
+    name: 凯兰牧场脱脂奶粉
+    amount: 5
+    unit: g
+  - time: 20231010122500
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20231010165100
+    name: 梨
+    amount: 164.0
+    unit: g
+  - time: 20231010165600
+    name: 山药豆
+    amount: 60.0
+    unit: g
+  - time: 20231010165600
+    name: 菜心
+    amount: 181.5
+    unit: g
+  - time: 20231010165600
+    name: 西兰花
+    amount: 117.0
+    unit: g
+  - time: 20231010165600
+    name: 鸡蛋
+    amount: 40.0
+    unit: g
+  - time: 20231010165600
+    name: 湘东情柴火香干
+    amount: 45.5
+    unit: g
+  - time: 20231010165600
+    name: 鲁晶低钠海盐
+    amount: 1.0
+    unit: g
+  - time: 20231010165600
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20231010211300
+    name: 龙丰果
+    amount: 77.5
+    unit: g
+  - time: 20231010211500
+    name: 柿子
+    amount: 129.0
+    unit: g
+  - time: 20231010212300
+    name: 番茄酱
+    amount: 30.0
+    unit: g
+  - time: 20231010212300
+    name: 胡萝卜
+    amount: 59.5
+    unit: g
+  - time: 20231010212300
+    name: 洋葱
+    amount: 54.5
+    unit: g
+  - time: 20231010212300
+    name: 圆白菜
+    amount: 86.5
+    unit: g
+  - time: 20231010212300
+    name: 南瓜
+    amount: 47.5
+    unit: g
+  - time: 20231010212300
+    name: 陕富哈萨克斯坦强筋雪花粉
+    amount: 50.0
+    unit: g
+  - time: 20231010212300
+    name: 辣木叶粉
+    amount: 3.75
+    unit: g
+  - time: 20231010212300
+    name: 鲁晶低钠海盐
+    amount: 1.5
+    unit: g
+  - time: 20231010212300
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20231010213500
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20231010213500
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20231010213500
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20231010214500
+    name: 奶粉
+    amount: 15.0
+    unit: g
+  - time: 20231010214500
+    name: 凯兰牧场脱脂奶粉
+    amount: 5
+    unit: g
+  - time: 20231010214500
+    name: 可可粉
+    amount: 4
+    unit: g
+  - time: 20231010214900
+    name: 伊卡浓72%臻黑巧克力
+    amount: 5
+    unit: g
+water:
+  - time: 20231010103400
+    amount: 100
+    unit: ml
+  - time: 20231010122500
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20231010123400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231010130300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231010134400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231010144800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231010160300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231010181000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231010192700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231010212300
+    name: 汤水
+    amount: 250
+    unit: ml
+  - time: 20231010214500
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20231010221300
+    name: 开水
+    amount: 70
+    unit: ml
+med:
+  - time: 20231010123400
+    name: 维生素D3
+    amount: 125
+    unit: µg
+  - time: 20231010123400
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20231010123400
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
+  田螺肉熟重30.5克，田螺汤熟重26.0克。折算田螺肉生重42克，豆瓣酱1.9克。
