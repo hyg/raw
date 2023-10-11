@@ -52,10 +52,6 @@ food:
     name: 凯兰牧场脱脂奶粉
     amount: 5
     unit: g
-  - time: 20231010122500
-    name: 小分子肽粉
-    amount: 3.0
-    unit: g
   - time: 20231010165100
     name: 梨
     amount: 164.0
