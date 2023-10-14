@@ -1,0 +1,192 @@
+date: 20231014
+food:
+  - time: 20231014125600
+    name: 百香果
+    amount: 42
+    unit: g
+  - time: 20231014130000
+    name: 陕富哈萨克斯坦强筋雪花粉
+    amount: 50.0
+    unit: g
+  - time: 20231014130000
+    name: 辣木叶粉
+    amount: 3.75
+    unit: g
+  - time: 20231014130000
+    name: 秋葵
+    amount: 135.5
+    unit: g
+  - time: 20231014130000
+    name: 南瓜
+    amount: 56.5
+    unit: g
+  - time: 20231014130000
+    name: 西梅干
+    amount: 20.0
+    unit: g
+  - time: 20231014130000
+    name: 鸡蛋
+    amount: 61.5
+    unit: g
+  - time: 20231014130000
+    name: 十三村原味腐乳
+    amount: 6.0
+    unit: g
+  - time: 202310141131800
+    name: 奶粉
+    amount: 15
+    unit: g
+  - time: 202310141131800
+    name: 凯兰牧场脱脂奶粉
+    amount: 5
+    unit: g
+  - time: 202310141131800
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20231014172500
+    name: 猕猴桃
+    amount: 83.5
+    unit: g
+  - time: 20231014173200
+    name: 南瓜
+    amount: 165.5
+    unit: g
+  - time: 20231014173200
+    name: 鸡蛋
+    amount: 59.0
+    unit: g
+  - time: 20231014173200
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20231014173200
+    name: 陕富哈萨克斯坦强筋雪花粉
+    amount: 20.0
+    unit: g
+  - time: 20231014173200
+    name: 油菜
+    amount: 156.0
+    unit: g
+  - time: 20231014173200
+    name: 西兰花
+    amount: 191.5
+    unit: g
+  - time: 20231014173200
+    name: 湘东情腊香干
+    amount: 46.0
+    unit: g
+  - time: 20231014173200
+    name: 鲁晶低钠海盐
+    amount: 1.0
+    unit: g
+  - time: 20231014173200
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20231014205400
+    name: 百香果
+    amount: 41.5
+    unit: g
+  - time: 20231014210400
+    name: 螺不凡干米粉
+    amount: 51.5
+    unit: g
+  - time: 20231014210400
+    name: 螺不凡黄金腐竹
+    amount: 17.0
+    unit: g
+  - time: 20231014210400
+    name: 螺不凡酸豆角萝卜木耳包
+    amount: 32.0
+    unit: g
+  - time: 20231014210400
+    name: 螺不凡红油酸笋
+    amount: 28.5
+    unit: g
+  - time: 20231014210400
+    name: 螺不凡油炸花生
+    amount: 10.5
+    unit: g
+  - time: 20231014210400
+    name: 螺不凡78号汤底
+    amount: 10.0
+    unit: g
+  - time: 20231014210400
+    name: 天津油面筋
+    amount: 19.0
+    unit: g
+  - time: 20231014210400
+    name: 鑫昊霖海鲜全家福
+    amount: 76.0
+    unit: g
+  - time: 20231014210400
+    name: 圆白菜
+    amount: 105.0
+    unit: g
+  - time: 20231014210400
+    name: 依恋油醋汁
+    amount: 10.0
+    unit: g
+water:
+  - time: 20231014113900
+    amount: 100
+    unit: ml
+  - time: 20231014123000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 202310141131800
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20231014132600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231014135100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231014141300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231014144100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231014154900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231014182600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231014194800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231014210400
+    name: 汤水
+    amount: 150
+    unit: ml
+  - time: 20231014222600
+    name: 开水
+    amount: 70
+    unit: ml
+med:
+  - time: 20231014132600
+    name: 维生素D3
+    amount: 125
+    unit: µg
+  - time: 20231014132600
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20231014132600
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+

@@ -1,0 +1,76 @@
+name: 石榴
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 347
+    unit: kj
+    nrv: 5.2
+  蛋白质:
+    amount: 1.7
+    unit: g
+    nrv: 2.6
+  碳水化合物:
+    amount: 18.7
+    unit: g
+    nrv: 7.7
+  脂肪:
+    amount: 1.2
+    unit: g
+    nrv: 2.7
+  膳食纤维:
+    amount: 4
+    unit: g
+    nrv: 13.3
+  VE(生育酚):
+    amount: 0.6
+    unit: mg
+    nrv: 4.3
+  VB1(硫胺素):
+    amount: 0.07
+    unit: mg
+    nrv: 5
+  VB2(核黄素):
+    amount: 0.05
+    unit: mg
+    nrv: 3.6
+  VB6(吡哆素):
+    amount: 0.08
+    unit: mg
+    nrv: 5.7
+  VB3(烟酸):
+    amount: 0.29
+    unit: mg
+    nrv: 1.9
+  VC(抗坏血酸):
+    amount: 10.2
+    unit: mg
+    nrv: 10.2
+  磷:
+    amount: 36
+    unit: mg
+    nrv: 5
+  钾:
+    amount: 236
+    unit: mg
+    nrv: 11.8
+  镁:
+    amount: 12
+    unit: mg
+    nrv: 3.6
+  钙:
+    amount: 10
+    unit: mg
+    nrv: 1
+  钠:
+    amount: 3
+    unit: mg
+    nrv: 0
+  铁:
+    amount: 0.3
+    unit: mg
+    nrv: 2.5
+  锌:
+    amount: 0.35
+    unit: mg
+    nrv: 2.8
