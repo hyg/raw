@@ -154,6 +154,7 @@ food:
     unit: g
 water:
   - time: 20231009103000
+    name: 开水
     amount: 100
     unit: ml
   - time: 20231009112600

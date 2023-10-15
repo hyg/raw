@@ -130,13 +130,14 @@ food:
     unit: g
 water:
   - time: 20231014113900
+    name: 开水
     amount: 100
     unit: ml
   - time: 20231014123000
     name: 开水
     amount: 250
     unit: ml
-  - time: 202310141131800
+  - time: 20231014131800
     name: 咖啡
     amount: 80.0
     unit: ml
