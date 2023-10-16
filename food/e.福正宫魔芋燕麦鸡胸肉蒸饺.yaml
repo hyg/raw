@@ -1,0 +1,28 @@
+name: 福正宫魔芋燕麦鸡胸肉蒸饺
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 496
+    unit: kj
+    nrv: 6
+  蛋白质:
+    amount: 6.6
+    unit: g
+    nrv: 11
+  脂肪:
+    amount: 1.9
+    unit: g
+    nrv: 3
+  碳水化合物:
+    amount: 17.0
+    unit: g
+    nrv: 6
+  钠:
+    amount: 484
+    unit: mg
+    nrv: 24
+  膳食纤维:
+    amount: 3.0
+    unit: g
+    nrv: 12

@@ -1,0 +1,24 @@
+name: 巧星厨黄焖酱汁
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 456
+    unit: kj
+    nrv: 5
+  蛋白质:
+    amount: 5.4
+    unit: g
+    nrv: 9
+  脂肪:
+    amount: 1.2
+    unit: g
+    nrv: 2
+  碳水化合物:
+    amount: 18.8
+    unit: g
+    nrv: 6
+  钠:
+    amount: 5781
+    unit: mg
+    nrv: 289

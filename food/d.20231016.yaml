@@ -1,0 +1,216 @@
+date: 20231016
+food:
+  - time: 20231016124700
+    name: 百香果
+    amount: 43.0
+    unit: g
+  - time: 20231016125200
+    name: 陕富哈萨克斯坦强筋雪花粉
+    amount: 50.0
+    unit: g
+  - time: 20231016125200
+    name: 辣木叶粉
+    amount: 3.75
+    unit: g
+  - time: 20231016125200
+    name: 秋葵
+    amount: 139.0
+    unit: g
+  - time: 20231016125200
+    name: 南瓜
+    amount: 56.5
+    unit: g
+  - time: 20231016125200
+    name: 鸡腿肉
+    amount: 77
+    unit: g
+  - time: 20231016125200
+    name: 阑绪新奥尔良烤翅腌料
+    amount: 1
+    unit: g
+  - time: 20231016125200
+    name: 鲁晶低钠海盐
+    amount: 0.5
+    unit: g
+  - time: 20231016131800
+    name: 奶粉
+    amount: 15
+    unit: g
+  - time: 20231016131800
+    name: 凯兰牧场脱脂奶粉
+    amount: 5
+    unit: g
+  - time: 20231016131800
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20231016174800
+    name: 黄桃
+    amount: 95.0
+    unit: g
+  - time: 20231016175100
+    name: 冬枣
+    amount: 94.0
+    unit: g
+  - time: 20231016180200
+    name: 大米
+    amount: 30.0
+    unit: g
+  - time: 20231016180200
+    name: 黑青稞
+    amount: 15.0
+    unit: g
+  - time: 20231016180200
+    name: 血麦片
+    amount: 15.0
+    unit: g
+  - time: 20231016180200
+    name: 花生
+    amount: 5.0
+    unit: g
+  - time: 20231016180200
+    name: 鸡蛋
+    amount: 54.5
+    unit: g
+  - time: 20231016180200
+    name: 五城五香茶干
+    amount: 40.0
+    unit: g
+  - time: 20231016180200
+    name: 圆白菜
+    amount: 99.0
+    unit: g
+  - time: 20231016180200
+    name: 菠菜
+    amount: 125.0
+    unit: g
+  - time: 20231016180200
+    name: 鲁晶低钠海盐
+    amount: 1.0
+    unit: g
+  - time: 20231016180200
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20231016183000
+    name: 纯黄豆浆粉
+    amount: 31.5
+    unit: g
+  - time: 20231016212000
+    name: 猕猴桃
+    amount: 85.5
+    unit: g
+  - time: 20231016212300
+    name: 番茄酱
+    amount: 27.0
+    unit: g
+  - time: 20231016212300
+    name: 胡萝卜
+    amount: 50.0
+    unit: g
+  - time: 20231016212300
+    name: 洋葱
+    amount: 54.0
+    unit: g
+  - time: 20231016212300
+    name: 圆白菜
+    amount: 51.5
+    unit: g
+  - time: 20231016212300
+    name: 南瓜
+    amount: 48.5
+    unit: g
+  - time: 20231016212300
+    name: 鲁晶低钠海盐
+    amount: 1.5
+    unit: g
+  - time: 20231016212300
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20231016213400
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20231016213400
+    name: 亚麻籽
+    amount: 0
+    unit: g
+  - time: 20231016213400
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20231016214000
+    name: 奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231016214000
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231016214000
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20231016114900
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20231016123200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231016131800
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20231016132700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231016135800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231016144500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231016161000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231016165800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231016183000
+    name: 豆浆
+    amount: 152.5
+    unit: ml
+  - time: 20231016193400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231016214000
+    name: 可可奶
+    amount: 80.5
+    unit: ml
+  - time: 20231016215800
+    name: 开水
+    amount: 50
+    unit: ml
+med:
+  - time: 20231016132700
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20231016132700
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
+  黄焖鸡快=香菇二十个36.5g+鸡块1008g+巧星厨黄焖酱汁154g。
+  先煮一半，鸡块熟重340g，汤汁368克。
+  折算比例：一个香菇=1.8g香菇生重；熟鸡块34克=生鸡块50g；汤汁37克=巧星厨黄焖酱汁7.7g。
