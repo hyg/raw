@@ -1,0 +1,244 @@
+date: 20231018
+food:
+  - time: 20231018125700
+    name: 百香果
+    amount: 46.0
+    unit: g
+  - time: 20231018130000
+    name: 螺不凡干米粉
+    amount: 50.0
+    unit: g
+  - time: 20231018130000
+    name: 螺不凡黄金腐竹
+    amount: 9.5
+    unit: g
+  - time: 20231018130000
+    name: 螺不凡酸豆角萝卜木耳包
+    amount: 32.0
+    unit: g
+  - time: 20231018130000
+    name: 螺不凡红油酸笋
+    amount: 29.0
+    unit: g
+  - time: 20231018130000
+    name: 螺不凡油炸花生
+    amount: 12.5
+    unit: g
+  - time: 20231018130000
+    name: 螺不凡78号汤底
+    amount: 13.0
+    unit: g
+  - time: 20231018130000
+    name: 九转涎酱香猪肝
+    amount: 10.5
+    unit: g
+  - time: 20231018130000
+    name: 鑫昊霖海鲜全家福
+    amount: 80
+    unit: g
+  - time: 20231018130000
+    name: 油菜
+    amount: 77.5
+    unit: g
+  - time: 20231018130000
+    name: 依恋油醋汁
+    amount: 9.0
+    unit: g
+  - time: 20231018131700
+    name: 奶粉
+    amount: 15.0
+    unit: g
+  - time: 20231018131700
+    name: 凯兰牧场脱脂奶粉
+    amount: 5.0
+    unit: g
+  - time: 20231018131700
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20231018173800
+    name: 冬枣
+    amount: 76.5
+    unit: g
+  - time: 20231018174500
+    name: 陕富哈萨克斯坦强筋雪花粉
+    amount: 50.0
+    unit: g
+  - time: 20231018174500
+    name: 辣木叶粉
+    amount: 4.0
+    unit: g
+  - time: 20231018174500
+    name: 鸡蛋
+    amount: 62.5
+    unit: g
+  - time: 20231018174500
+    name: 腐竹
+    amount: 10.5
+    unit: g
+  - time: 20231018174500
+    name: 西兰花
+    amount: 95.0
+    unit: g
+  - time: 20231018174500
+    name: 小白菜
+    amount: 85.0
+    unit: g
+  - time: 20231018174500
+    name: 油菜
+    amount: 86.5
+    unit: g
+  - time: 20231018174500
+    name: 鲁晶低钠海盐
+    amount: 1.0
+    unit: g
+  - time: 20231018174500
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20231018175900
+    name: 纯黄豆浆粉
+    amount: 12.5
+    unit: g
+  - time: 20231018175900
+    name: 凯兰牧场脱脂奶粉
+    amount: 5.0
+    unit: g
+  - time: 20231018175900
+    name: 菊粉
+    amount: 5.0
+    unit: g
+  - time: 20231018211900
+    name: 苹果
+    amount: 202.0
+    unit: g
+  - time: 20231018212800
+    name: 番茄酱
+    amount: 29.5
+    unit: g
+  - time: 20231018212800
+    name: 胡萝卜
+    amount: 51.0
+    unit: g
+  - time: 20231018212800
+    name: 洋葱
+    amount: 51.0
+    unit: g
+  - time: 20231018212800
+    name: 圆白菜
+    amount: 50.0
+    unit: g
+  - time: 20231018212800
+    name: 南瓜
+    amount: 45.5
+    unit: g
+  - time: 20231018212800
+    name: 秋葵
+    amount: 30
+    unit: g
+  - time: 20231018212800
+    name: 冬日红薯粉皮
+    amount: 30.5
+    unit: g
+  - time: 20231018212800
+    name: 天津油面筋
+    amount: 14.0
+    unit: g
+  - time: 20231018212800
+    name: 鲁晶低钠海盐
+    amount: 1.5
+    unit: g
+  - time: 20231018212800
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20231018213900
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20231018213900
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20231018213900
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20231018215000
+    name: 纯黄豆浆粉
+    amount: 10.0
+    unit: g
+  - time: 20231018215000
+    name: 凯兰牧场脱脂奶粉
+    amount: 5.5
+    unit: g
+  - time: 20231018215000
+    name: 菊粉
+    amount: 5.0
+    unit: g
+water:
+  - time: 20231018113900
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20231018124100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231018131700
+    name: 咖啡
+    amount: 81.0
+    unit: ml
+  - time: 20231018132500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231018135800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231018142400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231018155900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231018171700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231018175900
+    name: 豆浆
+    amount: 80.5
+    unit: ml
+  - time: 20231018192000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231018212800
+    name: 汤水
+    amount: 150
+    unit: ml
+  - time: 20231018215000
+    name: 豆浆
+    amount: 86.0
+    unit: ml
+  - time: 20231018220200
+    name: 开水
+    amount: 50
+    unit: ml
+med:
+  - time: 20231018132500
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20231018132500
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
+  今天做新一屉馒头，早餐吃螺蛳粉。螺蛳粉先消耗海鲜，然后是天津油面筋，最后是猪油渣。
+  午餐去掉花生，腐竹减半，它们和螺蛳粉重合。腾出来的热量在蔬菜汤里加红薯粉皮。
+  从今天试试1650千卡热量，主要增加碳水化合物，继续控制脂肪，保持蛋白质。先不增加力量训练观察一下。
