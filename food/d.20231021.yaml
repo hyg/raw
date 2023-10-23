@@ -190,7 +190,7 @@ water:
     amount: 150
     unit: ml
   - time: 20231021212000
-    name: 可可豆奶
+    name: 豆奶
     amount: 150.0
     unit: ml
   - time: 20231021212800
