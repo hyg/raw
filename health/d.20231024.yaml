@@ -1,0 +1,43 @@
+date: 20231024
+sleep: 
+  time: 20231024020000
+  weight: 52.6
+wake:
+  time: 20231024123000
+  weight: 51.5
+  SpO2: 94
+  PRbpm: 57
+exercise: 
+- time: 20231024131700
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 99
+  PRbpm: 77
+  endheartrate: 85
+- time: 20231024154500
+  item:
+  - type: walk
+    amount: 24
+    unit: minute
+  SpO2: 95
+  PRbpm: 126
+stool:
+- time: 20231024153000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间小便1次。
+  起床后穿抓绒长裤、棉薄长裤、长袖秋衣、羽绒背心。室内运动后穿高帮靴、戴帽。早餐后加穿单外套。室外运动穿厚长裤、羽绒背心和防晒衣。
+  运动后把脉：关脉中偏浅、尺脉深度中、寸脉开始中偏浅半分钟后深度中；关脉尺脉清晰有力、寸脉开始清晰有力半分钟后只是清晰。

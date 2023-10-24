@@ -7,7 +7,7 @@ element:
     unit: kj
     nrv: 9
   蛋白质:
-    amount: 35
+    amount: 3.5
     unit: g
     nrv: 6
   脂肪:
