@@ -1,0 +1,184 @@
+date: 20231025
+food:
+  - time: 20231025141200
+    name: 百香果
+    amount: 44.0
+    unit: g
+  - time: 20231025142000
+    name: 陕富哈萨克斯坦强筋雪花粉
+    amount: 50.0
+    unit: g
+  - time: 20231025142000
+    name: 辣木叶粉
+    amount: 4.0
+    unit: g
+  - time: 20231025142000
+    name: 九转涎酱香猪肝
+    amount: 9.5
+    unit: g
+  - time: 20231025142000
+    name: 鸡肉
+    amount: 39
+    unit: g
+  - time: 20231025142000
+    name: 巧星厨黄焖酱汁
+    amount: 3
+    unit: g
+  - time: 20231025142000
+    name: 南瓜
+    amount: 68.0
+    unit: g
+  - time: 20231025142000
+    name: 秋葵
+    amount: 152.0
+    unit: g
+  - time: 20231025145600
+    name: 桑葚干
+    amount: 5.0
+    unit: g
+  - time: 20231025145600
+    name: 黑芝麻
+    amount: 10.0
+    unit: g
+  - time: 20231025145600
+    name: 麦胚芽
+    amount: 5.0
+    unit: g
+  - time: 20231025144500
+    name: 舒特全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20231025144500
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20231025192000
+    name: 香蕉
+    amount: 268.5
+    unit: g
+  - time: 20231025192300
+    name: 冬枣
+    amount: 24.5
+    unit: g
+  - time: 20231025192600
+    name: 大米
+    amount: 30.0
+    unit: g
+  - time: 20231025192600
+    name: 黑青稞
+    amount: 15.0
+    unit: g
+  - time: 20231025192600
+    name: 血麦片
+    amount: 15.0
+    unit: g
+  - time: 20231025192600
+    name: 六旺果
+    amount: 19.0
+    unit: g
+  - time: 20231025192600
+    name: 鸡蛋
+    amount: 56.0
+    unit: g
+  - time: 20231025192600
+    name: 木耳
+    amount: 5.0
+    unit: g
+  - time: 20231025192600
+    name: 腐竹
+    amount: 22.0
+    unit: g
+  - time: 20231025192600
+    name: 景丰园猪油渣
+    amount: 16.0
+    unit: g
+  - time: 20231025192600
+    name: 西兰花
+    amount: 172.5
+    unit: g
+  - time: 20231025192600
+    name: 鲁晶低钠海盐
+    amount: 1.0
+    unit: g
+  - time: 20231025192600
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20231025192600
+    name: 巧星厨黄焖酱汁
+    amount: 4.8
+    unit: g
+  - time: 20231025195600
+    name: 桑葚干
+    amount: 5.0
+    unit: g
+  - time: 20231025195600
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20231025195600
+    name: 麦胚芽
+    amount: 5.0
+    unit: g
+  - time: 202310251200300
+    name: 纯黄豆浆粉
+    amount: 22.5
+    unit: g
+  - time: 202310251200300
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+water:
+  - time: 20231025130900
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20231025150400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231025144500
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20231025145600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231025152600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231025180300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231025182400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 202310251200300
+    name: 豆奶
+    amount: 150
+    unit: ml
+  - time: 20231025201600
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20231025220500
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20231025145600
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20231025145600
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
+  第七个机动。
+  早餐鸡块带骨熟重26.5克，汤汁14.5克。折算带骨生重39克，黄焖酱汁3克。骨重0克。秋葵渣5.5克。
+  晚餐汤汁23.0克，折算4.8克黄焖酱汁。
