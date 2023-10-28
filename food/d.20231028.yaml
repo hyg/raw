@@ -1,0 +1,174 @@
+date: 20231028
+food:
+  - time: 20231028150900
+    name: 百香果
+    amount: 32.0
+    unit: g
+  - time: 20231028151600
+    name: 陕富哈萨克斯坦强筋雪花粉
+    amount: 50.0
+    unit: g
+  - time: 20231028151600
+    name: 辣木叶粉
+    amount: 4.0
+    unit: g
+  - time: 20231028151600
+    name: 九转涎酱香猪肝
+    amount: 20.5
+    unit: g
+  - time: 20231028151600
+    name: 腐竹
+    amount: 13.0
+    unit: g
+  - time: 20231028151600
+    name: 南瓜
+    amount: 82.5
+    unit: g
+  - time: 20231028151600
+    name: 秋葵
+    amount: 129.0
+    unit: g
+  - time: 20231028151600
+    name: 十三村原味腐乳
+    amount: 8.5
+    unit: g
+  - time: 20231028155500
+    name: 桑葚干
+    amount: 5.0
+    unit: g
+  - time: 20231028155500
+    name: 黑芝麻
+    amount: 10.0
+    unit: g
+  - time: 20231028155500
+    name: 麦胚芽
+    amount: 5.0
+    unit: g
+  - time: 20231028144500
+    name: 舒特全脂奶粉
+    amount: 15.0
+    unit: g
+  - time: 20231028144500
+    name: 凯兰牧场脱脂奶粉
+    amount: 5.0
+    unit: g
+  - time: 20231028144500
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20231028191000
+    name: 香蕉
+    amount: 112.5
+    unit: g
+  - time: 20231028181200
+    name: 山药豆
+    amount: 80.0
+    unit: g
+  - time: 20231028181200
+    name: 梅花肉
+    amount: 91
+    unit: g
+  - time: 20231028181200
+    name: 阑绪新奥尔良烤翅腌料
+    amount: 1.5
+    unit: g
+  - time: 20231028181200
+    name: 鸡蛋
+    amount: 54.5
+    unit: g
+  - time: 20231028181200
+    name: 油菜
+    amount: 51.5
+    unit: g
+  - time: 20231028181200
+    name: 小白菜
+    amount: 156.0
+    unit: g
+  - time: 20231028181200
+    name: 西兰花
+    amount: 102.0
+    unit: g
+  - time: 20231028181200
+    name: 鲁晶低钠海盐
+    amount: 1.5
+    unit: g
+  - time: 20231028193600
+    name: 纯黄豆浆粉
+    amount: 26.0
+    unit: g
+  - time: 20231028213000
+    name: 冬枣
+    amount: 107.0
+    unit: g
+  - time: 20231028213000
+    name: 桑葚干
+    amount: 5.0
+    unit: g
+  - time: 20231028213000
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20231028213000
+    name: 麦胚芽
+    amount: 5.0
+    unit: g
+  - time: 20231028213000
+    name: 驼铃风干甜红葡萄酒
+    amount: 100
+    unit: ml
+water:
+  - time: 20231028140900
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20231028150400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231028144500
+    name: 咖啡
+    amount: 82.0
+    unit: ml
+  - time: 20231028155500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231028164300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231028170100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231028181400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231028193600
+    name: 豆浆
+    amount: 150.0
+    unit: ml
+  - time: 2023102821130
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20231028215500
+    name: 开水
+    amount: 200
+    unit: ml
+med:
+  - time: 20231028155500
+    name: 维生素D3
+    amount: 125
+    unit: µg
+  - time: 20231028155500
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20231028155500
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
+  秋葵渣15.0克。

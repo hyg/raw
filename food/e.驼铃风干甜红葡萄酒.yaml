@@ -1,0 +1,64 @@
+name: 驼铃风干甜红葡萄酒
+amount: 100
+unit: ml
+element:
+  热量:
+    amount: 81.6
+    unit: kcal
+    nrv: 5
+  碳水化合物:
+    amount: 4.51
+    unit: g
+    nrv: 1.8
+  酒精:
+    amount: 11.5
+    unit: ml
+    nrv: 36
+  钙:
+    amount: 7.8
+    unit: mg
+    nrv: 1
+  磷:
+    amount: 8
+    unit: mg
+    nrv: 1.1
+  钾:
+    amount: 53.4
+    unit: mg
+    nrv: 2.7
+  钠:
+    amount: 103.5
+    unit: mg
+    nrv: 6.9
+  氯:
+    amount: 106.5
+    unit: mg
+    nrv: 4.6
+  蛋白质:
+    amount: 0.1
+    unit: g
+    nrv: 0.2
+  VB1(硫胺素):
+    amount: 0.8
+    unit: mg
+    nrv: 57
+  VB2(核黄素):
+    amount: 0.0086
+    unit: mg
+    nrv: 0.6
+  VB3(烟酸):
+    amount: 0.065
+    unit: mg
+    nrv: 0.4
+  VB6(吡哆素):
+    amount: 0.06
+    unit: mg
+    nrv: 4.3
+  VB9(叶酸):
+    amount: 40
+    unit: μg
+    nrv: 10
+  VB12(钴胺素):
+    amount: 1.2
+    unit: μg
+    nrv: 50
