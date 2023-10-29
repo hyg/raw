@@ -1,0 +1,43 @@
+date: 20231029
+sleep: 
+  time: 20231028223200
+  weight: 52.9
+wake:
+  time: 20231029052500
+  weight: 51.6
+  SpO2: 96
+  PRbpm: 57
+exercise: 
+- time: 20231029055700
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 99
+  PRbpm: 70
+  endheartrate: 74
+- time: 20231029102500
+  item:
+  - type: 核心训练入门
+    amount: 11
+    unit: minute
+  SpO2: 99
+  PRbpm: 76
+stool:
+- time: 20231029153000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 2   #	1:不困难;	2:困难
+comment: |+
+  喝葡萄酒后很困，躺下后又精神了。将近1点才睡着，睡觉中间小便3次。5点出头自然醒，其实还有点乏，眼睛也还累，但是身上发热腿出汗，心率也像休息够了。
+  起床后穿caxa运动长裤、P300抓绒长裤、短袖T恤、羽绒背心。室内运动后穿高帮靴、戴帽。早餐后加穿单外套。室外运动穿厚长裤、羽绒背心和防晒衣。
+  运动后把脉：尺脉关脉中偏浅、寸脉深度中；尺脉关脉清晰有力、尺脉更尖锐，寸脉清晰。
