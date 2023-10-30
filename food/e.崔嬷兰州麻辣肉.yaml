@@ -1,0 +1,24 @@
+name: 崔嬷兰州麻辣肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1204
+    unit: kj
+    nrv: 14
+  蛋白质:
+    amount: 12.6
+    unit: g
+    nrv: 21
+  脂肪:
+    amount: 23.9
+    unit: g
+    nrv: 39
+  碳水化合物:
+    amount: 2.6
+    unit: g
+    nrv: 1
+  钠:
+    amount: 633
+    unit: mg
+    nrv: 32

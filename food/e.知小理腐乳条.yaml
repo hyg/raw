@@ -1,0 +1,24 @@
+name: 知小理腐乳条
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2025
+    unit: kj
+    nrv: 24
+  蛋白质:
+    amount: 6
+    unit: g
+    nrv: 10
+  脂肪:
+    amount: 28.4
+    unit: g
+    nrv: 47
+  碳水化合物:
+    amount: 51.3
+    unit: g
+    nrv: 17
+  钠:
+    amount: 181
+    unit: mg
+    nrv: 9
