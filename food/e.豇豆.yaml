@@ -3,82 +3,86 @@ amount: 100
 unit: g
 element:
   热量:
-    amount: 1407
-    unit: kj
-    nrv: 20.8
+    amount: 32
+    unit: kcal
+    nrv: 2
   蛋白质:
-    amount: 19.3
+    amount: 2.7
     unit: g
-    nrv: 29.7
+    nrv: 4.2
   脂肪:
-    amount: 1.2
+    amount: 0.2
     unit: g
-    nrv: 2.7
+    nrv: 0.4
   碳水化合物:
-    amount: 65.6
+    amount: 5.8
     unit: g
-    nrv: 26.9
+    nrv: 2.4
   钠:
-    amount: 7
+    amount: 5
     unit: mg
-    nrv: 0.5
+    nrv: 0.3
   膳食纤维:
-    amount: 7.1
+    amount: 1.8
     unit: g
-    nrv: 28.4
+    nrv: 6
   VA(视黄醇等):
-    amount: 10
+    amount: 20
     unit: μg
-    nrv: 1.25
+    nrv: 2.5
   VE(生育酚):
-    amount: 8.61
+    amount: 0.65
     unit: mg
-    nrv: 61.5
+    nrv: 0.1
   VB1(硫胺素):
-    amount: 0.16
-    unit: mg
-    nrv: 11.4
-  VB2(核黄素):
-    amount: 0.08
-    unit: mg
-    nrv: 5.7
-  VB3(烟酸):
-    amount: 1.9
-    unit: mg
-    nrv: 12.7
-  磷:
-    amount: 344
-    unit: mg
-    nrv: 47.8
-  钾:
-    amount: 737
-    unit: mg
-    nrv: 36.9
-  镁:
-    amount: 36
-    unit: mg
-    nrv: 10.9
-  钙:
-    amount: 40
+    amount: 0.07
     unit: mg
     nrv: 5
+  VB2(核黄素):
+    amount: 0.07
+    unit: mg
+    nrv: 5
+  VB3(烟酸):
+    amount: 0.8
+    unit: mg
+    nrv: 5.7
+  VC(抗坏血酸):
+    amount: 18
+    unit: mg
+    nrv: 18
+  磷:
+    amount: 50
+    unit: mg
+    nrv: 6.9
+  钾:
+    amount: 145
+    unit: mg
+    nrv: 7.25
+  镁:
+    amount: 43
+    unit: mg
+    nrv: 13
+  钙:
+    amount: 42
+    unit: mg
+    nrv: 0.4
   铁:
-    amount: 7.1
+    amount: 1
     unit: mg
-    nrv: 59.1
+    nrv: 8.3
   锌:
-    amount: 3.04
+    amount: 0.94
     unit: mg
-    nrv: 24.3
+    nrv: 7.5
   硒:
-    amount: 5.7
+    amount: 1.4
     unit: μg
-    nrv: 9.5
+    nrv: 2.3
   铜:
-    amount: 2.1
+    amount: 0.11
     unit: mg
-    nrv: 262.5
+    nrv: 13.75
   锰:
-    amount: 1.07
+    amount: 0.39
     unit: mg
-    nrv: 46.5
+    nrv: 8.7

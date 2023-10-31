@@ -1,0 +1,84 @@
+name: 豇豆干
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1407
+    unit: kj
+    nrv: 20.8
+  蛋白质:
+    amount: 19.3
+    unit: g
+    nrv: 29.7
+  脂肪:
+    amount: 1.2
+    unit: g
+    nrv: 2.7
+  碳水化合物:
+    amount: 65.6
+    unit: g
+    nrv: 26.9
+  钠:
+    amount: 7
+    unit: mg
+    nrv: 0.5
+  膳食纤维:
+    amount: 7.1
+    unit: g
+    nrv: 28.4
+  VA(视黄醇等):
+    amount: 10
+    unit: μg
+    nrv: 1.25
+  VE(生育酚):
+    amount: 8.61
+    unit: mg
+    nrv: 61.5
+  VB1(硫胺素):
+    amount: 0.16
+    unit: mg
+    nrv: 11.4
+  VB2(核黄素):
+    amount: 0.08
+    unit: mg
+    nrv: 5.7
+  VB3(烟酸):
+    amount: 1.9
+    unit: mg
+    nrv: 12.7
+  磷:
+    amount: 344
+    unit: mg
+    nrv: 47.8
+  钾:
+    amount: 737
+    unit: mg
+    nrv: 36.9
+  镁:
+    amount: 36
+    unit: mg
+    nrv: 10.9
+  钙:
+    amount: 40
+    unit: mg
+    nrv: 5
+  铁:
+    amount: 7.1
+    unit: mg
+    nrv: 59.1
+  锌:
+    amount: 3.04
+    unit: mg
+    nrv: 24.3
+  硒:
+    amount: 5.7
+    unit: μg
+    nrv: 9.5
+  铜:
+    amount: 2.1
+    unit: mg
+    nrv: 262.5
+  锰:
+    amount: 1.07
+    unit: mg
+    nrv: 46.5
