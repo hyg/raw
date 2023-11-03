@@ -1,0 +1,163 @@
+date: 20231103
+food:
+  - time: 20231103123600
+    name: 百香果
+    amount: 26.0
+    unit: g
+  - time: 20231103123700
+    name: 猕猴桃
+    amount: 79.0
+    unit: g
+  - time: 20231103124100
+    name: 白象玉米蔬菜猪肉蒸煎饺
+    amount: 140
+    unit: g
+  - time: 20231103124100
+    name: 九转涎酱香猪肝
+    amount: 10.0
+    unit: g
+  - time: 20231103124100
+    name: 菜心
+    amount: 22.5
+    unit: g
+  - time: 20231103124100
+    name: 南瓜
+    amount: 48.5
+    unit: g
+  - time: 20231103124100
+    name: 秋葵
+    amount: 75.5
+    unit: g
+  - time: 20231103124100
+    name: 鲁晶低钠海盐
+    amount: 0.5
+    unit: g
+  - time: 20231103130000
+    name: 桑葚干
+    amount: 5.0
+    unit: g
+  - time: 20231103130000
+    name: 黑芝麻
+    amount: 5.0
+    unit: g
+  - time: 20231103130000
+    name: 麦胚芽
+    amount: 5.0
+    unit: g
+  - time: 20231103130600
+    name: 舒特全脂奶粉
+    amount: 20
+    unit: g
+  - time: 20231103130600
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20231103174200
+    name: 香蕉
+    amount: 243.0
+    unit: g
+  - time: 20231103174900
+    name: 陕富哈萨克斯坦强筋雪花粉
+    amount: 50.0
+    unit: g
+  - time: 20231103174900
+    name: 雁门清高苦荞粉
+    amount: 5.0
+    unit: g
+  - time: 20231103174900
+    name: 辣木叶粉
+    amount: 5.0
+    unit: g
+  - time: 20231103174900
+    name: 鸡蛋
+    amount: 55.0
+    unit: g
+  - time: 20231103174900
+    name: 崔嬷兰州糟肉
+    amount: 37.0
+    unit: g
+  - time: 20231103174900
+    name: 西兰花
+    amount: 126.0
+    unit: g
+  - time: 20231103174900
+    name: 油菜
+    amount: 161.5
+    unit: g
+  - time: 20231103174900
+    name: 鲁晶低钠海盐
+    amount: 0.5
+    unit: g
+  - time: 20231103180400
+    name: 纯黄豆浆粉
+    amount: 25.5
+    unit: g
+  - time: 20231103195300
+    name: 香蕉
+    amount: 243.0
+    unit: g  
+  - time: 20231103200000
+    name: 舒特全脂奶粉
+    amount: 13.0
+    unit: g
+  - time: 20231103200000
+    name: 可可粉
+    amount: 3.0
+    unit: g
+water:
+  - time: 20231103114000
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20231103121800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231103130600
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 202311031431600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231103133300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231103154900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231103162000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231103180400
+    name: 豆浆
+    amount: 150.0
+    unit: ml
+  - time: 20231103191700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231103200000
+    name: 可可奶
+    amount: 83.5
+    unit: ml
+  - time: 20231103200900
+    name: 开水
+    amount: 100
+    unit: ml
+med:
+  - time: 202311031431600
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 202311031431600
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
+  秋葵渣3.0克。
+  昨晚提前泡了40克黑青稞、20克黄豆，准备做四餐的米饭。
