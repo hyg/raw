@@ -1,0 +1,24 @@
+name: 旷野金农有机燕麦米
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1514
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 9.8
+    unit: g
+    nrv: 16
+  脂肪:
+    amount: 3.2
+    unit: g
+    nrv: 5
+  碳水化合物:
+    amount: 72.3
+    unit: g
+    nrv: 24
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0

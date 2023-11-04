@@ -1,0 +1,228 @@
+date: 20231104
+food:
+  - time: 20231104145000
+    name: 百香果
+    amount: 38.0
+    unit: g
+  - time: 20231104145700
+    name: 陕富哈萨克斯坦强筋雪花粉
+    amount: 50.0
+    unit: g
+  - time: 20231104145700
+    name: 雁门清高苦荞粉
+    amount: 5.0
+    unit: g
+  - time: 20231104145700
+    name: 辣木叶粉
+    amount: 5.0
+    unit: g
+  - time: 20231104145700
+    name: 鮰鱼腩
+    amount: 60
+    unit: g
+  - time: 20231104145700
+    name: 豆瓣酱
+    amount: 5.76
+    unit: g
+  - time: 20231104145700
+    name: 南瓜
+    amount: 81.5
+    unit: g
+  - time: 20231104145700
+    name: 秋葵
+    amount: 171.5
+    unit: g
+  - time: 20231104151500
+    name: 舒特全脂奶粉
+    amount: 15.0
+    unit: g
+  - time: 20231104151500
+    name: 凯兰牧场脱脂奶粉
+    amount: 5.0
+    unit: g
+  - time: 20231104151500
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20231104183300
+    name: 猕猴桃
+    amount: 82.0
+    unit: g
+  - time: 20231104184000
+    name: 大米
+    amount: 30.0
+    unit: g
+  - time: 20231104184000
+    name: 黑青稞
+    amount: 10.0
+    unit: g
+  - time: 20231104184000
+    name: 紫米
+    amount: 10.0
+    unit: g
+  - time: 20231104184000
+    name: 黄豆
+    amount: 5.0
+    unit: g
+  - time: 20231104184000
+    name: 九转涎酱香猪肝
+    amount: 10.0
+    unit: g
+  - time: 20231104184000
+    name: 西兰花
+    amount: 122.0
+    unit: g
+  - time: 20231104184000
+    name: 小白菜
+    amount: 166.0
+    unit: g
+  - time: 20231104184000
+    name: 鲁晶低钠海盐
+    amount: 1.5
+    unit: g
+  - time: 20231104184000
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20231104190300
+    name: 鸡蛋
+    amount: 55.5
+    unit: g
+  - time: 20231104190300
+    name: 香蕉
+    amount: 86.0
+    unit: g
+  - time: 20231104190300
+    name: 桑葚干
+    amount: 5
+    unit: g
+  - time: 20231104190300
+    name: 黑芝麻
+    amount: 5
+    unit: g
+  - time: 20231104190300
+    name: 麦胚芽
+    amount: 5
+    unit: g
+  - time: 20231104190900
+    name: 纯黄豆浆粉
+    amount: 22.5
+    unit: g
+  - time: 20231104151500
+    name: 凯兰牧场脱脂奶粉
+    amount: 5.0
+    unit: g
+  - time: 20231104213400
+    name: 香蕉
+    amount: 146.0
+    unit: g
+  - time: 20231104213900
+    name: 冬枣
+    amount: 46.0
+    unit: g  
+  - time: 20231104214000
+    name: 番茄酱
+    amount: 31.0
+    unit: g
+  - time: 20231104214000
+    name: 胡萝卜
+    amount: 51.0
+    unit: g
+  - time: 20231104214000
+    name: 洋葱
+    amount: 56.0
+    unit: g
+  - time: 20231104214000
+    name: 圆白菜
+    amount: 51.5
+    unit: g
+  - time: 20231104214000
+    name: 南瓜
+    amount: 53.5
+    unit: g
+  - time: 20231104214000
+    name: 白象玉米蔬菜猪肉蒸煎饺
+    amount: 39.5
+    unit: g
+  - time: 20231104214000
+    name: 鲁晶低钠海盐
+    amount: 1.0
+    unit: g
+  - time: 20231104214000
+    name: 油
+    amount: 1.5
+    unit: g
+  - time: 20231104215200
+    name: 桑葚干
+    amount: 5.0
+    unit: g
+  - time: 20231104215200
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20231104215200
+    name: 麦胚芽
+    amount: 5.0
+    unit: g
+water:
+  - time: 20231104133700
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20231104143700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231104151500
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20231104152600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231104161500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231104163400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231104174100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231104190900
+    name: 豆奶
+    amount: 152.0
+    unit: ml
+  - time: 20231104204500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231104214000
+    name: 汤水
+    amount: 100
+    unit: ml
+  - time: 20231104220000
+    name: 开水
+    amount: 150
+    unit: ml
+med:
+  - time: 20231104152600
+    name: 维生素D3
+    amount: 125
+    unit: µg
+  - time: 20231104152600
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20231104152600
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
+  秋葵渣1.0克。
+  昨晚的午餐肉用猪肉305.5克、鸡蛋53.0克、盐4.0克。烤箱30°C、23分钟。切8块每块含猪肉38.2克、鸡蛋6.6克、盐0.5克。
+  炖鱼腩用梭边鱼腩（斑点叉尾鮰）520.5克、豆瓣酱50.0克、料酒49.0克、姜若干。熟重忘记称了，这次按一斤出八两估算：每1克熟鱼腩对应1.25克生鱼腩、0.12克豆瓣酱。

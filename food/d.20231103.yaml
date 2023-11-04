@@ -117,7 +117,7 @@ water:
     name: 咖啡
     amount: 80.5
     unit: ml
-  - time: 202311031431600
+  - time: 20231103131600
     name: 开水
     amount: 250
     unit: ml

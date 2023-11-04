@@ -1,0 +1,24 @@
+name: 韩三顺辣白菜
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 116
+    unit: kj
+    nrv: 1
+  蛋白质:
+    amount: 1.6
+    unit: g
+    nrv: 3
+  脂肪:
+    amount: 0
+    unit: g
+    nrv: 0
+  碳水化合物:
+    amount: 5.0
+    unit: g
+    nrv: 2
+  钠:
+    amount: 960
+    unit: mg
+    nrv: 48

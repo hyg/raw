@@ -1,0 +1,24 @@
+name: 旷野金农有机玉米碴
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1479
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 7.8
+    unit: g
+    nrv: 13
+  脂肪:
+    amount: 0
+    unit: g
+    nrv: 0
+  碳水化合物:
+    amount: 79.2
+    unit: g
+    nrv: 26
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0
