@@ -1,0 +1,24 @@
+name: 邕味佳红油酸笋
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 131
+    unit: kj
+    nrv: 2
+  蛋白质:
+    amount: 1.0
+    unit: g
+    nrv: 2
+  脂肪:
+    amount: 1.2
+    unit: g
+    nrv: 2
+  碳水化合物:
+    amount: 4.1
+    unit: g
+    nrv: 1
+  钠:
+    amount: 679
+    unit: mg
+    nrv: 34

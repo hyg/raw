@@ -1,0 +1,221 @@
+date: 20231106
+food:
+  - time: 20231106120700
+    name: 百香果
+    amount: 36.0
+    unit: g
+  - time: 20231106120900
+    name: 香蕉
+    amount: 76.5
+    unit: g
+  - time: 20231106121500
+    name: 陕富哈萨克斯坦强筋雪花粉
+    amount: 50.0
+    unit: g
+  - time: 20231106121500
+    name: 雁门清高苦荞粉
+    amount: 5.0
+    unit: g
+  - time: 20231106121500
+    name: 辣木叶粉
+    amount: 5.0
+    unit: g
+  - time: 20231106121500
+    name: 鮰鱼腩
+    amount: 47.5
+    unit: g
+  - time: 20231106121500
+    name: 豆瓣酱
+    amount: 4.56
+    unit: g
+  - time: 20231106121500
+    name: 南瓜
+    amount: 53.0
+    unit: g
+  - time: 20231106121500
+    name: 秋葵
+    amount: 139.5
+    unit: g
+  - time: 20231106123300
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20231106123300
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20231106123300
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20231106165000
+    name: 舒特全脂奶粉
+    amount: 15.0
+    unit: g
+  - time: 20231106165000
+    name: 凯兰牧场脱脂奶粉
+    amount: 5.0
+    unit: g
+  - time: 20231106165000
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20231106161900
+    name: 香蕉
+    amount: 122.0
+    unit: g
+  - time: 20231106162200
+    name: 大米
+    amount: 30.0
+    unit: g
+  - time: 20231106162200
+    name: 黑青稞
+    amount: 10.0
+    unit: g
+  - time: 20231106162200
+    name: 紫米
+    amount: 10.0
+    unit: g
+  - time: 20231106162200
+    name: 黄豆
+    amount: 5.0
+    unit: g
+  - time: 20231106162200
+    name: 九转涎酱香猪肝
+    amount: 19.5
+    unit: g
+  - time: 20231106162200
+    name: 鸡蛋
+    amount: 66.5
+    unit: g
+  - time: 20231106162200
+    name: 西兰花
+    amount: 84.0
+    unit: g
+  - time: 20231106162200
+    name: 小白菜
+    amount: 81.0
+    unit: g
+  - time: 20231106162200
+    name: 油菜
+    amount: 201.5
+    unit: g
+  - time: 20231106162200
+    name: 鲁晶低钠海盐
+    amount: 1.0
+    unit: g
+  - time: 20231106162200
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20231106165000
+    name: 舒特全脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231106165000
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231106165000
+    name: 可可粉
+    amount: 4.0
+    unit: g
+  - time: 20231106195200
+    name: 冬枣
+    amount: 63.5
+    unit: g  
+  - time: 20231106195500
+    name: 番茄酱
+    amount: 30.5
+    unit: g
+  - time: 20231106195500
+    name: 胡萝卜
+    amount: 51.5
+    unit: g
+  - time: 20231106195500
+    name: 洋葱
+    amount: 59.0
+    unit: g
+  - time: 20231106195500
+    name: 圆白菜
+    amount: 50.5
+    unit: g
+  - time: 20231106195500
+    name: 南瓜
+    amount: 60.0
+    unit: g
+  - time: 20231106195500
+    name: 白象玉米蔬菜猪肉蒸煎饺
+    amount: 95.5
+    unit: g
+  - time: 20231106195500
+    name: 鲁晶低钠海盐
+    amount: 1.0
+    unit: g
+  - time: 20231106195500
+    name: 油
+    amount: 1.0
+    unit: g
+water:
+  - time: 20231106110900
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20231106115300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231106165000
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20231106125400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231106132400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231106135300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231106151600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231106165000
+    name: 可可奶
+    amount: 80.5
+    unit: ml
+  - time: 20231106173200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231106192200
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20231106195500
+    name: 汤水
+    amount: 140
+    unit: ml
+  - time: 20231106202000
+    name: 开水
+    amount: 150
+    unit: ml
+med:
+  - time: 20231106125400
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20231106125400
+    name: daily multi
+    amount: 1
+    unit: 片
+comment: |+
+  秋葵渣2.0克。
+  炖鱼腩熟重38.0克。
+  午餐肉折算：每块含猪肉38.2克、鸡蛋6.6克、盐0.5克。
+  炖鱼腩折算：每1克熟鱼腩对应1.25克生鱼腩、0.12克豆瓣酱。

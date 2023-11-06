@@ -1,0 +1,24 @@
+name: 邕味佳酸豆角
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 163
+    unit: kj
+    nrv: 2
+  蛋白质:
+    amount: 2.9
+    unit: g
+    nrv: 5
+  脂肪:
+    amount: 1.6
+    unit: g
+    nrv: 3
+  碳水化合物:
+    amount: 0.9
+    unit: g
+    nrv: 0
+  钠:
+    amount: 2256
+    unit: mg
+    nrv: 113
