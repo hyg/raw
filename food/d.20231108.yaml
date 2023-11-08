@@ -61,6 +61,7 @@ food:
     amount: 3.0
     unit: g
   - time: 20231108194400
+  - time: 20231108194400
     name: 香蕉
     amount: 76.0
     unit: g  
@@ -68,25 +69,36 @@ food:
   - time: 20231108195100
     name: 年辉鲜河粉
     amount: 230.0
+    amount: 230.0
     unit: g
+  - time: 20231108195100
   - time: 20231108195100
     name: 牛腱
     amount: 36.0
+    amount: 36.0
     unit: g
+  - time: 20231108195100
   - time: 20231108195100
     name: 豆瓣酱
     amount: 6.5
+    amount: 6.5
     unit: g
+  - time: 20231108195100
   - time: 20231108195100
     name: 黄豆芽
     amount: 215.0
+    amount: 215.0
     unit: g
+  - time: 20231108195100
   - time: 20231108195100
     name: 油
     amount: 3.0
+    amount: 3.0
     unit: g
   - time: 20231108195100
+  - time: 20231108195100
     name: 西兰花
+    amount: 113.0
     amount: 113.0
     unit: g
   - time: 20231108195100
@@ -94,9 +106,11 @@ food:
     amount: 158.0
     unit: g
   - time: 20231108195100
+  - time: 20231108195100
     name: 鲁晶低钠海盐
     amount: 1.0
     unit: g
+  - time: 20231108195100
   - time: 20231108195100
     name: 油
     amount: 1.0
