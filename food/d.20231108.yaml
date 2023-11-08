@@ -8,7 +8,6 @@ food:
     name: 香蕉
     amount: 123.5
     unit: g 
-
   - time: 20231108143800
     name: 陕富哈萨克斯坦强筋雪花粉
     amount: 50.0
@@ -61,50 +60,48 @@ food:
     name: 小分子肽粉
     amount: 3.0
     unit: g
-
-  - time: 20231108163500
+  - time: 20231108194400
     name: 香蕉
-    amount: 60
+    amount: 76.0
     unit: g  
 
-  - time: 20231108164100
+  - time: 20231108195100
     name: 年辉鲜河粉
-    amount: 230
+    amount: 230.0
     unit: g
-  - time: 20231108164100
+  - time: 20231108195100
     name: 牛腱
-    amount: 50
+    amount: 36.0
     unit: g
-  - time: 20231108164100
+  - time: 20231108195100
     name: 豆瓣酱
-    amount: 6
+    amount: 6.5
     unit: g
-  - time: 20231108164100
+  - time: 20231108195100
     name: 黄豆芽
-    amount: 250
+    amount: 215.0
     unit: g
-  - time: 20231108164100
+  - time: 20231108195100
     name: 油
-    amount: 1
+    amount: 3.0
     unit: g
-  - time: 20231108164100
+  - time: 20231108195100
     name: 西兰花
-    amount: 100
+    amount: 113.0
     unit: g
-  - time: 20231108164100
+  - time: 20231108195100
     name: 油菜
-    amount: 160
+    amount: 158.0
     unit: g
-  - time: 20231108164100
+  - time: 20231108195100
     name: 鲁晶低钠海盐
     amount: 1.0
     unit: g
-  - time: 20231108164100
+  - time: 20231108195100
     name: 油
     amount: 1.0
     unit: g
-
-  - time: 20231108170000
+  - time: 20231108202500
     name: 舒特全脂奶粉
     amount: 15.0
     unit: g
@@ -112,47 +109,21 @@ food:
     name: 凯兰牧场脱脂奶粉
     amount: 5.0
     unit: g
-  - time: 20231108170000
+  - time: 20231108202500
     name: 可可粉
     amount: 4.0
     unit: g
-
-  - time: 20231108195200
+  - time: 20231108235400
     name: 冬枣
-    amount: 35
+    amount: 34.5
     unit: g
-
-  - time: 20231108200200
-    name: 番茄酱
-    amount: 30
-    unit: g
-  - time: 20231108200200
-    name: 胡萝卜
-    amount: 50
-    unit: g
-  - time: 20231108200200
+  - time: 20231108235600
     name: 洋葱
-    amount: 50
+    amount: 10.0
     unit: g
-  - time: 20231108200200
-    name: 圆白菜
-    amount: 50
-    unit: g
-  - time: 20231108200200
-    name: 南瓜
-    amount: 60
-    unit: g
-  - time: 20231108200200
+  - time: 20231108235600
     name: 白象玉米蔬菜猪肉蒸煎饺
-    amount: 40
-    unit: g
-  - time: 20231108200200
-    name: 鲁晶低钠海盐
-    amount: 1.0
-    unit: g
-  - time: 20231108200200
-    name: 油
-    amount: 1.0
+    amount: 80.0
     unit: g
 water:
   - time: 20231108133100
@@ -183,20 +154,19 @@ water:
     name: 开水
     amount: 250
     unit: ml
-
-  - time: 20231108161900
+  - time: 20231108202500
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20231108204600
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231108170000
-    name: 可可奶
-    amount: 91.0
-    unit: ml
-  - time: 20231108202500
+  - time: 20231108225900
     name: 开水
-    amount: 150
+    amount: 250
     unit: ml
-  - time: 20231108224400
+  - time: 20231109001100
     name: 开水
     amount: 100
     unit: ml
@@ -213,4 +183,4 @@ comment: |+
   秋葵渣0.0克。
   午餐肉每块含猪肉38.2克、鸡蛋6.6克、盐0.5克。
   炖鱼腩：每1克熟鱼腩对应1.25克生鱼腩、0.12克豆瓣酱。
-  烤红薯生重430.0克，熟重206.0克。切薄片，230°C+23分钟，上下换格，230°C+10分钟。
+  烤红薯生重430.0克，熟重206.0克。
