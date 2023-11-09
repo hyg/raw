@@ -100,30 +100,28 @@ food:
     name: 可可粉
     amount: 4.5
     unit: g
-
-  - time: 20231109235400
+  - time: 20231109193600
     name: 冬枣
-    amount: 75
+    amount: 63.5
     unit: g
-
-  - time: 20231109220000
+  - time: 20231109193800
     name: 年辉鲜河粉
     amount: 230.0
     unit: g
-  - time: 20231109220000
+  - time: 20231109193800
     name: 牛腱
-    amount: 50
+    amount: 81.0
     unit: g
-  - time: 20231109220000
+  - time: 20231109193800
     name: 九转涎酱香猪肝
-    amount: 20
+    amount: 19.5
     unit: g
-  - time: 20231109220000
+  - time: 20231109193800
     name: 菜心
-    amount: 100
+    amount: 121.5
     unit: g
-  - time: 20231109220000
-    name: 十三村原味腐乳
+  - time: 20231109193800
+    name: 豆瓣酱
     amount: 8
     unit: g
 water:
@@ -167,10 +165,9 @@ water:
     name: 开水
     amount: 250
     unit: ml
-
-  - time: 20231109001100
+  - time: 20231109184500
     name: 开水
-    amount: 100
+    amount: 250
     unit: ml
 med:
   - time: 20231109092600
