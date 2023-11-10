@@ -60,82 +60,77 @@ food:
     name: 小分子肽粉
     amount: 3.0
     unit: g
-
-  - time: 20231110160700
+  - time: 20231110192700
     name: 香蕉
-    amount: 130.0
+    amount: 115.5
     unit: g
-
-  - time: 20231110161500
+  - time: 20231110193200
     name: 白象玉米蔬菜猪肉蒸煎饺
-    amount: 100
+    amount: 102.5
     unit: g
-  - time: 20231110161500
+  - time: 20231110193200
     name: 九转涎酱香猪肝
-    amount: 20
+    amount: 19.5
     unit: g  
-  - time: 20231110161500
-    name: 洋葱
-    amount: 50
-    unit: g
-  - time: 20231110161500
+  - time: 20231110193200
     name: 圆白菜
-    amount: 100
+    amount: 100.5
     unit: g
-  - time: 20231110161500
+  - time: 20231110193200
     name: 菠菜
-    amount: 150
+    amount: 143.0
     unit: g
-  - time: 20231110161500
+  - time: 20231110193200
     name: 鲁晶低钠海盐
     amount: 1.0
     unit: g
-  - time: 20231110161500
+  - time: 20231110193200
     name: 油
     amount: 1.0
     unit: g
-
-  - time: 20231110163600
+  - time: 20231110194600
     name: 舒特全脂奶粉
-    amount: 15
+    amount: 15.0
     unit: g
-  - time: 20231110155700
+  - time: 20231110194600
     name: 凯兰牧场脱脂奶粉
-    amount: 5
+    amount: 5.0
     unit: g
-  - time: 20231110163600
+  - time: 20231110194600
     name: 可可粉
-    amount: 4
+    amount: 4.0
     unit: g
-
-  - time: 20231110193600
+  - time: 20231110213200
     name: 冬枣
-    amount: 75
+    amount: 81.5
     unit: g
-
-  - time: 20231110193800
+  - time: 20231110213500
     name: 螺不凡干米粉
     amount: 60.0
     unit: g
-  - time: 20231110193800
+  - time: 20231110213500
     name: 牛腱
-    amount: 50
+    amount: 48.5
     unit: g
-  - time: 20231110193800
+  - time: 20231110213500
     name: 鸡蛋
-    amount: 60
+    amount: 54.0
     unit: g
-  - time: 20231110193800
+  - time: 20231110213500
     name: 菜心
-    amount: 100
+    amount: 126.0
     unit: g
-  - time: 20231110193800
+  - time: 20231110213500
     name: 鲁晶低钠海盐
     amount: 1.0
     unit: g
-  - time: 20231110193800
+  - time: 20231110213500
     name: 鲜味王
     amount: 0.5
+    unit: g
+  - time: 20231110214400
+    name: 伊卡浓72%臻黑巧克力
+    amount: 5
     unit: g
 water:
   - time: 20231110142600
@@ -158,30 +153,29 @@ water:
     name: 开水
     amount: 250
     unit: ml
-
-  - time: 20231110100900
+  - time: 20231110170200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231110151400
+  - time: 20231110180900
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231110153300
-    name: 开水
-    amount: 250
-    unit: ml
-  - time: 20231110163600
+  - time: 20231110194600
     name: 可可奶
     amount: 80.5
     unit: ml
-  - time: 202311102165000
+  - time: 20231110201900
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231110184500
+  - time: 20231110213500
+    name: 汤水
+    amount: 150
+    unit: ml
+  - time: 20231110220600
     name: 开水
-    amount: 250
+    amount: 150
     unit: ml
 med:
   - time: 20231110161300
