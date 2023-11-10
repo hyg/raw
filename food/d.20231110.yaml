@@ -1,67 +1,64 @@
 date: 20231110
 food:
-  - time: 20231110081800
+  - time: 20231110152400
     name: 百香果
-    amount: 40
+    amount: 41.0
     unit: g
-  - time: 20231110081900
+  - time: 20231110152500
     name: 香蕉
-    amount: 60
+    amount: 61.0
     unit: g
-
-  - time: 20231110082500
+  - time: 20231110153000
     name: 陕富哈萨克斯坦强筋雪花粉
     amount: 50.0
     unit: g
-  - time: 20231110082500
+  - time: 20231110153000
     name: 雁门清高苦荞粉
     amount: 5.0
     unit: g
-  - time: 20231110082500
+  - time: 20231110153000
     name: 辣木叶粉
     amount: 5.0
     unit: g
-  - time: 20231110082500
+  - time: 20231110153000
     name: 鮰鱼腩
-    amount: 60
+    amount: 62.5
     unit: g
-  - time: 20231110082500
+  - time: 20231110153000
     name: 豆瓣酱
-    amount: 6.6
+    amount: 6
     unit: g
-  - time: 20231110082500
+  - time: 20231110153000
     name: 南瓜
-    amount: 65
+    amount: 66.5
     unit: g
-  - time: 20231110082500
+  - time: 20231110153000
     name: 秋葵
-    amount: 140
+    amount: 150.0
     unit: g
-
-  - time: 20231110084900
+  - time: 20231110154600
     name: 桑葚干
     amount: 10.0
     unit: g
-  - time: 20231110084900
+  - time: 20231110154600
     name: 亚麻籽
     amount: 5.0
     unit: g
-  - time: 20231110084900
+  - time: 20231110154600
     name: 麦胚芽
     amount: 10.0
     unit: g
-
-  - time: 20231110090200
+  - time: 20231110155700
     name: 舒特全脂奶粉
-    amount: 20.0
+    amount: 15.0
     unit: g
-  - time: 20231110090200
+  - time: 20231110155700
     name: 凯兰牧场脱脂奶粉
-    amount: 0
+    amount: 5.0
     unit: g
-  - time: 20231110090200
+  - time: 20231110155700
     name: 小分子肽粉
-    amount: 3
+    amount: 3.0
     unit: g
 
   - time: 20231110160700
@@ -100,11 +97,11 @@ food:
 
   - time: 20231110163600
     name: 舒特全脂奶粉
-    amount: 20
+    amount: 15
     unit: g
-  - time: 20231110090200
+  - time: 20231110155700
     name: 凯兰牧场脱脂奶粉
-    amount: 0
+    amount: 5
     unit: g
   - time: 20231110163600
     name: 可可粉
@@ -141,26 +138,27 @@ food:
     amount: 0.5
     unit: g
 water:
-  - time: 20231110071400
+  - time: 20231110142600
     name: 开水
     amount: 100
     unit: ml
-  - time: 20231110075800
+  - time: 20231110150400
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231110090200
+  - time: 20231110155700
     name: 咖啡
-    amount: 85.0
+    amount: 80.0
     unit: ml
-  - time: 20231110092600
+  - time: 20231110161300
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231110095400
+  - time: 20231110163000
     name: 开水
     amount: 250
     unit: ml
+
   - time: 20231110100900
     name: 开水
     amount: 250
@@ -186,11 +184,11 @@ water:
     amount: 250
     unit: ml
 med:
-  - time: 20231110092600
+  - time: 20231110161300
     name: selenium
     amount: 200
     unit: µg
-  - time: 20231110092600
+  - time: 20231110161300
     name: daily multi
     amount: 1
     unit: 片

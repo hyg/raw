@@ -21,8 +21,8 @@ var ftable = new Object();  // food data
 //const Keyelement = "脂肪";
 //const Keyelement = "碳水化合物";
 //const Keyelement = "钠";
-const Keyelement = "膳食纤维";
-//const Keyelement = "钙";
+//const Keyelement = "膳食纤维";
+const Keyelement = "钙";
 //const Keyelement = "VC(抗坏血酸)";
 //const Keyelement = "VA(视黄醇等)";
 

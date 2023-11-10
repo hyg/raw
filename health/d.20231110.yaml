@@ -3,12 +3,12 @@ sleep:
   time: 20231110004400
   weight: 50.8
 wake:
-  time: 20231110070500
-  weight: 50.6
+  time: 20231110141600
+  weight: 49.9
   SpO2: 96
-  PRbpm: 59
+  PRbpm: 56
 exercise: 
-- time: 20231110073600
+- time: 20231110144500
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -23,8 +23,8 @@ exercise:
     amount: 5
     unit: set
   SpO2: 99
-  PRbpm: 71
-  endheartrate: 71
+  PRbpm: 78
+  endheartrate: 81
 - time: 20231110180300
   item:
   - type: walk
