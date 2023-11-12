@@ -1,176 +1,192 @@
-date: 20231112
+date: 20231113
 food:
-  - time: 20231112154300
+  - time: 20231113154300
     name: 猕猴桃
-    amount: 89.0
+    amount: 90
     unit: g
-  - time: 20231112154900
+
+  - time: 20231113154900
     name: 陕富哈萨克斯坦强筋雪花粉
     amount: 50.0
     unit: g
-  - time: 20231112154900
+  - time: 20231113154900
     name: 雁门清高苦荞粉
     amount: 5.0
     unit: g
-  - time: 20231112154900
+  - time: 20231113154900
     name: 辣木叶粉
     amount: 5.0
     unit: g
-  - time: 20231112154900
+  - time: 20231113154900
     name: 鮰鱼腩
-    amount: 75
+    amount: 60
     unit: g
-  - time: 20231112154900
+  - time: 20231113154900
     name: 豆瓣酱
-    amount: 7.2
+    amount: 5.8
     unit: g
-  - time: 20231112154900
+  - time: 20231113154900
     name: 南瓜
-    amount: 59.5
+    amount: 60
     unit: g
-  - time: 20231112154900
-    name: 秋葵
-    amount: 52.5
+  - time: 20231113154900
+    name: 西兰花
+    amount: 150
     unit: g
-  - time: 20231112160300
+
+  - time: 20231113160300
     name: 桑葚干
     amount: 10.0
     unit: g
-  - time: 20231112160300
+  - time: 20231113160300
     name: 亚麻籽
     amount: 5.0
     unit: g
-  - time: 20231112160300
+  - time: 20231113160300
     name: 麦胚芽
     amount: 10.0
     unit: g
-  - time: 20231112161200
+
+  - time: 20231113161200
     name: 舒特全脂奶粉
     amount: 20.0
     unit: g
-  - time: 20231112161200
+  - time: 20231113161200
     name: 小分子肽粉
     amount: 3.0
     unit: g
-  - time: 20231112200700
+
+  - time: 20231113200700
     name: 香蕉
-    amount: 108.0
+    amount: 120
     unit: g
-  - time: 20231112200700
+  - time: 20231113200700
     name: 红薯
-    amount: 216
+    amount: 214
     unit: g
-  - time: 20231112200700
-    name: 奶酪
-    amount: 22.0
+  - time: 20231113200700
+    name: 鸡蛋
+    amount: 45
     unit: g
-  - time: 20231112200700
+  - time: 20231113200700
     name: 山药豆
-    amount: 60.5
+    amount: 60
     unit: g
-  - time: 20231112200700
+
+  - time: 20231113200700
     name: 九转涎酱香猪肝
-    amount: 20.5
+    amount: 20
     unit: g  
-  - time: 20231112200700
-    name: 西兰花
-    amount: 99.0
+  - time: 20231113200700
+    name: 胡萝卜
+    amount: 100
     unit: g
-  - time: 20231112200700
+  - time: 20231113200700
     name: 油菜
-    amount: 151.5
+    amount: 100
     unit: g
-  - time: 20231112200700
+  - time: 20231113200700
+    name: 小白菜
+    amount: 100
+    unit: g
+  - time: 20231113200700
     name: 鲁晶低钠海盐
     amount: 1.0
     unit: g
-  - time: 20231112200700
+  - time: 20231113200700
     name: 油
     amount: 1.0
     unit: g
-  - time: 20231112203000
+
+  - time: 20231113203000
     name: 舒特全脂奶粉
     amount: 20
     unit: g
-  - time: 20231112203000
+  - time: 20231113203000
     name: 可可粉
     amount: 4.0
     unit: g
-  - time: 20231112231500
+
+  - time: 20231113231500
     name: 冬枣
-    amount: 31.5
+    amount: 35
     unit: g
-  - time: 202311122231800
+
+  - time: 202311132231800
     name: 河粉
-    amount: 239.0
+    amount: 230
     unit: g
-  - time: 202311122231800
+  - time: 202311132231800
     name: 牛腱
-    amount: 56.0
+    amount: 50
     unit: g
-  - time: 202311122231800
+  - time: 202311132231800
     name: 绿豆芽
     amount: 100.0
     unit: g
-  - time: 202311122231800
+  - time: 202311132231800
     name: 生菜
-    amount: 110.5
+    amount: 110
     unit: g
-  - time: 202311122231800
-    name: 豆瓣酱
-    amount: 10.5
+  - time: 202311132231800
+    name: 鲁晶低钠海盐
+    amount: 1.5
+    unit: g
+  - time: 202311132231800
+    name: 鲜味王
+    amount: 0.5
     unit: g
 water:
-  - time: 20231112144900
+  - time: 20231113144900
     name: 开水
     amount: 100
     unit: ml
-  - time: 20231112152500
+  - time: 20231113152500
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231112161200
+  - time: 20231113161200
     name: 咖啡
     amount: 80.0
     unit: ml
-  - time: 20231112162500
+  - time: 20231113162500
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231112165500
+  - time: 20231113165500
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231112172200
+  - time: 20231113172200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231112184900
+  - time: 20231113184900
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231112203000
+  - time: 20231113203000
     name: 可可奶
     amount: 82.5
     unit: ml
-  - time: 20231112205900
+  - time: 20231113205900
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231112222200
+  - time: 20231113222200
     name: 开水
     amount: 250
     unit: ml
-  - time: 202311122231800
+  - time: 202311132231800
     name: 汤水
     amount: 150
     unit: ml
 med:
-  - time: 20231112162500
+  - time: 20231113162500
     name: selenium
     amount: 200
     unit: µg
-  - time: 20231112162500
+  - time: 20231113162500
     name: daily multi
     amount: 1
     unit: 片

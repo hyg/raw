@@ -29,7 +29,7 @@ exercise:
   item:
   - type: walk
     amount: 26
-    unit: minut5
+    unit: minute
   SpO2: 96
   PRbpm: 122
 stool:
