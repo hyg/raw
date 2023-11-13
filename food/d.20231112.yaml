@@ -100,23 +100,23 @@ food:
     name: 冬枣
     amount: 31.5
     unit: g
-  - time: 202311122231800
+  - time: 20231112231800
     name: 河粉
     amount: 239.0
     unit: g
-  - time: 202311122231800
+  - time: 20231112231800
     name: 牛腱
     amount: 56.0
     unit: g
-  - time: 202311122231800
+  - time: 20231112231800
     name: 绿豆芽
     amount: 100.0
     unit: g
-  - time: 202311122231800
+  - time: 20231112231800
     name: 生菜
     amount: 110.5
     unit: g
-  - time: 202311122231800
+  - time: 20231112231800
     name: 豆瓣酱
     amount: 10.5
     unit: g
@@ -161,7 +161,7 @@ water:
     name: 开水
     amount: 250
     unit: ml
-  - time: 202311122231800
+  - time: 20231112231800
     name: 汤水
     amount: 150
     unit: ml

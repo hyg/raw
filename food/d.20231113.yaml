@@ -52,81 +52,71 @@ food:
     name: 小分子肽粉
     amount: 3.0
     unit: g
-
-  - time: 20231113154300
+  - time: 20231113191400
     name: 猕猴桃
-    amount: 90
+    amount: 86.0
     unit: g
-
-  - time: 20231113200700
+  - time: 20231113192300
     name: 红薯
     amount: 214
     unit: g
-  - time: 20231113200700
+  - time: 20231113192300
     name: 鸡蛋
-    amount: 45
+    amount: 37.0
     unit: g
-
-  - time: 20231113200700
+  - time: 20231113192300
     name: 九转涎酱香猪肝
-    amount: 20
+    amount: 20.0
     unit: g  
-  - time: 20231113200700
-    name: 胡萝卜
-    amount: 100
+  - time: 20231113192300
+    name: 西兰花
+    amount: 100.5
     unit: g
-  - time: 20231113200700
+  - time: 20231113192300
     name: 油菜
-    amount: 100
+    amount: 159.0
     unit: g
-  - time: 20231113200700
-    name: 小白菜
-    amount: 100
-    unit: g
-  - time: 20231113200700
+  - time: 20231113192300
     name: 鲁晶低钠海盐
-    amount: 1.0
+    amount: 0.5
     unit: g
-  - time: 20231113200700
+  - time: 20231113192300
     name: 油
     amount: 1.0
     unit: g
-
-  - time: 20231113203000
+  - time: 20231113194300
     name: 舒特全脂奶粉
-    amount: 20
+    amount: 20.0
     unit: g
-  - time: 20231113203000
+  - time: 20231113194300
     name: 可可粉
     amount: 4.0
     unit: g
-
-  - time: 20231113231500
+  - time: 20231113213700
     name: 冬枣
-    amount: 70
+    amount: 73.0
     unit: g
-
-  - time: 202311132231800
+  - time: 20231113214300
     name: 河粉
-    amount: 230
+    amount: 236.0
     unit: g
-  - time: 202311132231800
+  - time: 20231113214300
     name: 牛腱
-    amount: 50
+    amount: 63.5
     unit: g
-  - time: 202311132231800
+  - time: 20231113214300
     name: 绿豆芽
-    amount: 100.0
+    amount: 113.5
     unit: g
-  - time: 202311132231800
+  - time: 20231113214300
     name: 生菜
-    amount: 110
+    amount: 115.0
     unit: g
-  - time: 202311132231800
+  - time: 20231113214300
     name: 鲁晶低钠海盐
-    amount: 1.5
+    amount: 2.0
     unit: g
-  - time: 202311132231800
+  - time: 20231113214300
     name: 鲜味王
     amount: 0.5
     unit: g
@@ -155,26 +145,21 @@ water:
     name: 开水
     amount: 250
     unit: ml
-
-  - time: 20231113184900
+  - time: 20231113181200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231113203000
+  - time: 20231113194300
     name: 可可奶
-    amount: 82.5
+    amount: 80.0
     unit: ml
-  - time: 20231113205900
+  - time: 20231113203100
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231113222200
-    name: 开水
-    amount: 250
-    unit: ml
-  - time: 202311132231800
+  - time: 20231113214300
     name: 汤水
-    amount: 150
+    amount: 250
     unit: ml
 med:
   - time: 20231113155200
@@ -188,6 +173,6 @@ med:
 comment: |+
   秋葵渣0.0克。
   午餐肉每块含猪肉38.2克、鸡蛋6.6克、盐0.5克。
-  炖鱼腩：每1克熟鱼腩对应1.25克生鱼腩、0.12克豆瓣酱。
-  烤红薯生重430.0克，熟重206.0克。
-  烤红薯鸡蛋：200°C+23分钟。
+  炖鱼腩：每1克熟鱼腩对应1.25克生鱼腩、0.12克豆瓣酱。实际熟重53克，但后来看有相当部分是冻结的汤汁。
+  烤红薯生重430.0克，熟重206.0克。实际熟重102.5克
+  烤红薯鸡蛋：200°C+15分钟。
