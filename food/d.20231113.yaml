@@ -1,65 +1,63 @@
 date: 20231113
 food:
+  - time: 20231113150000
+    name: 陕富哈萨克斯坦强筋雪花粉
+    amount: 50.0
+    unit: g
+  - time: 20231113150000
+    name: 雁门清高苦荞粉
+    amount: 5.0
+    unit: g
+  - time: 20231113150000
+    name: 辣木叶粉
+    amount: 5.0
+    unit: g
+  - time: 20231113150000
+    name: 鮰鱼腩
+    amount: 66.25
+    unit: g
+  - time: 20231113150000
+    name: 豆瓣酱
+    amount: 6.36
+    unit: g
+  - time: 20231113150000
+    name: 南瓜
+    amount: 58.0
+    unit: g
+  - time: 20231113150000
+    name: 秋葵
+    amount: 204.0
+    unit: g
+  - time: 20231113152400
+    name: 香蕉
+    amount: 109.0
+    unit: g
+  - time: 20231113152400
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20231113152400
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20231113152400
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20231113153300
+    name: 舒特全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20231113153300
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+
   - time: 20231113154300
     name: 猕猴桃
     amount: 90
     unit: g
 
-  - time: 20231113154900
-    name: 陕富哈萨克斯坦强筋雪花粉
-    amount: 50.0
-    unit: g
-  - time: 20231113154900
-    name: 雁门清高苦荞粉
-    amount: 5.0
-    unit: g
-  - time: 20231113154900
-    name: 辣木叶粉
-    amount: 5.0
-    unit: g
-  - time: 20231113154900
-    name: 鮰鱼腩
-    amount: 60
-    unit: g
-  - time: 20231113154900
-    name: 豆瓣酱
-    amount: 5.8
-    unit: g
-  - time: 20231113154900
-    name: 南瓜
-    amount: 60
-    unit: g
-  - time: 20231113154900
-    name: 西兰花
-    amount: 150
-    unit: g
-
-  - time: 20231113160300
-    name: 桑葚干
-    amount: 10.0
-    unit: g
-  - time: 20231113160300
-    name: 亚麻籽
-    amount: 5.0
-    unit: g
-  - time: 20231113160300
-    name: 麦胚芽
-    amount: 10.0
-    unit: g
-
-  - time: 20231113161200
-    name: 舒特全脂奶粉
-    amount: 20.0
-    unit: g
-  - time: 20231113161200
-    name: 小分子肽粉
-    amount: 3.0
-    unit: g
-
-  - time: 20231113200700
-    name: 香蕉
-    amount: 120
-    unit: g
   - time: 20231113200700
     name: 红薯
     amount: 214
@@ -67,10 +65,6 @@ food:
   - time: 20231113200700
     name: 鸡蛋
     amount: 45
-    unit: g
-  - time: 20231113200700
-    name: 山药豆
-    amount: 60
     unit: g
 
   - time: 20231113200700
@@ -109,7 +103,7 @@ food:
 
   - time: 20231113231500
     name: 冬枣
-    amount: 35
+    amount: 70
     unit: g
 
   - time: 202311132231800
@@ -137,30 +131,31 @@ food:
     amount: 0.5
     unit: g
 water:
-  - time: 20231113144900
+  - time: 20231113135400
     name: 开水
     amount: 100
     unit: ml
-  - time: 20231113152500
+  - time: 2023111344800
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231113161200
+  - time: 20231113153300
     name: 咖啡
     amount: 80.0
     unit: ml
-  - time: 20231113162500
+  - time: 20231113155200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231113165500
+  - time: 20231113163400
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231113172200
+  - time: 20231113165700
     name: 开水
     amount: 250
     unit: ml
+
   - time: 20231113184900
     name: 开水
     amount: 250
@@ -182,11 +177,11 @@ water:
     amount: 150
     unit: ml
 med:
-  - time: 20231113162500
+  - time: 20231113155200
     name: selenium
     amount: 200
     unit: µg
-  - time: 20231113162500
+  - time: 20231113155200
     name: daily multi
     amount: 1
     unit: 片
@@ -195,4 +190,4 @@ comment: |+
   午餐肉每块含猪肉38.2克、鸡蛋6.6克、盐0.5克。
   炖鱼腩：每1克熟鱼腩对应1.25克生鱼腩、0.12克豆瓣酱。
   烤红薯生重430.0克，熟重206.0克。
-  烤香蕉红薯山药豆：200°C+23分钟。
+  烤红薯鸡蛋：200°C+23分钟。
