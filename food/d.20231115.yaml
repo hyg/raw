@@ -56,13 +56,10 @@ food:
     name: 凯兰牧场脱脂奶粉
     amount: 5.0
     unit: g
-
-
-  - time: 20231115194900
+  - time: 20231115194600
     name: 猕猴桃
-    amount: 90
+    amount: 84.0
     unit: g
-
   - time: 20231115195600
     name: 大米
     amount: 60.0
@@ -91,14 +88,13 @@ food:
     name: 鲜味王
     amount: 1.5
     unit: g
-
   - time: 20231115195600
     name: 西兰花
-    amount: 100
+    amount: 118.5
     unit: g
   - time: 20231115195600
     name: 小白菜
-    amount: 150
+    amount: 90.0
     unit: g
   - time: 20231115195600
     name: 鲁晶低钠海盐
@@ -108,23 +104,22 @@ food:
     name: 油
     amount: 1.0
     unit: g
-
-  - time: 20231115201500
+  - time: 20231115202000
     name: 舒特全脂奶粉
     amount: 15.0
     unit: g
-  - time: 20231115201500
+  - time: 20231115202000
     name: 凯兰牧场脱脂奶粉
     amount: 5.0
     unit: g
-  - time: 20231115201500
+  - time: 20231115202000
     name: 小分子肽粉
     amount: 3.0
     unit: g
 
   - time: 20231115230200
     name: 冬枣
-    amount: 90
+    amount: 95
     unit: g
 
   - time: 20231115230500
@@ -193,19 +188,19 @@ water:
     name: 开水
     amount: 250
     unit: ml
-
-  - time: 20231115191900
+  - time: 20231115185800
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231115201500
-    name: 可可奶
+  - time: 20231115202000
+    name: 咖啡
     amount: 80.0
     unit: ml
-  - time: 20231115205400
+  - time: 20231115211800
     name: 开水
     amount: 250
     unit: ml
+
   - time: 20231115230500
     name: 汤水
     amount: 150
