@@ -19,24 +19,24 @@ food:
     unit: g
   - time: 20231115161200
     name: 鮰鱼腩
-    amount: 80
+    amount: 75
     unit: g
   - time: 20231115161200
     name: 豆瓣酱
-    amount: 8
+    amount: 7.2
     unit: g
   - time: 20231115161200
     name: 南瓜
-    amount: 70
+    amount: 69.5
     unit: g
   - time: 20231115161200
     name: 秋葵
-    amount: 130
+    amount: 139.5
     unit: g
 
   - time: 20231115163400
     name: 香蕉
-    amount: 120
+    amount: 109.0
     unit: g
   - time: 20231115163400
     name: 桑葚干
@@ -53,7 +53,11 @@ food:
 
   - time: 20231115164300
     name: 舒特全脂奶粉
-    amount: 20.0
+    amount: 15.0
+    unit: g
+  - time: 20231115164300
+    name: 凯兰牧场脱脂奶粉
+    amount: 5.0
     unit: g
   - time: 20231115164300
     name: 小分子肽粉
@@ -113,16 +117,16 @@ food:
 
   - time: 20231115201500
     name: 舒特全脂奶粉
-    amount: 20.0
+    amount: 15.0
     unit: g
   - time: 20231115201500
-    name: 可可粉
-    amount: 4.0
+    name: 凯兰牧场脱脂奶粉
+    amount: 5.0
     unit: g
 
   - time: 20231115230200
     name: 冬枣
-    amount: 100
+    amount: 90
     unit: g
 
   - time: 20231115230500
@@ -143,12 +147,8 @@ food:
     unit: g
   - time: 20231115230500
     name: 福正宫魔芋燕麦鸡胸肉蒸饺
-    amount: 120
+    amount: 60
     unit: g
-  - time: 20231115230500
-    name: 崔嬷兰州糟肉
-    amount: 0
-    unit: g  
   - time: 20231115230500
     name: 鲁晶低钠海盐
     amount: 1.0
@@ -157,11 +157,25 @@ food:
     name: 油
     amount: 1.0
     unit: g
+
+  - time: 20231115231500
+    name: 舒特全脂奶粉
+    amount: 15.0
+    unit: g
+  - time: 20231115231500
+    name: 凯兰牧场脱脂奶粉
+    amount: 5.0
+    unit: g
+  - time: 20231115231500
+    name: 可可粉
+    amount: 4.0
+    unit: g
 water:
-  - time: 20231115150900
+  - time: 20231115151000
     name: 开水
     amount: 100
     unit: ml
+
   - time: 20231115155200
     name: 开水
     amount: 250
@@ -214,4 +228,4 @@ med:
 comment: |+
   秋葵渣11.0克。
   午餐肉每块含猪肉38.2克、鸡蛋6.6克、盐0.5克。
-  炖鱼腩：每1克熟鱼腩对应1.25克生鱼腩、0.12克豆瓣酱。今天吃的熟重59.0克。
+  炖鱼腩：每1克熟鱼腩对应1.25克生鱼腩、0.12克豆瓣酱。今天吃的熟重60克。

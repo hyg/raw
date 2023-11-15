@@ -1,14 +1,14 @@
 date: 20231115
 sleep: 
-  time: 20231115015600
+  time: 20231115033700
   weight: 51.3
 wake:
   time: 20231115150000
-  weight: 50.3
-  SpO2: 97
-  PRbpm: 54
+  weight: 50.4
+  SpO2: 96
+  PRbpm: 56
 exercise: 
-- time: 20231115153200
+- time: 20231115153000
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -23,8 +23,8 @@ exercise:
     amount: 5
     unit: set
   SpO2: 99
-  PRbpm: 75
-  endheartrate: 77
+  PRbpm: 76
+  endheartrate: 81
 - time: 20231115183900
   item:
   - type: walk
@@ -43,4 +43,4 @@ comment: |+
   室内运动后换薄外套、戴帽、穿高帮靴。
   室外运动穿厚长裤、薄外套、运动护膝、薄手套。
   运动后换穿P300抓绒长裤、厚外套。
-  运动后把脉：关脉寸脉中偏浅、尺脉深度中；寸脉中偏外、尺脉居中、关脉中偏内；三处都清晰有力。
+  运动后把脉：寸脉浅、关脉尺脉中偏浅；寸脉中偏外、关脉尺脉居中；三处都清晰有力。
