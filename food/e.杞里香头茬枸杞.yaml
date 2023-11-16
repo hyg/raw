@@ -1,0 +1,60 @@
+name: 杞里香头茬枸杞
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1619
+    unit: kj
+    nrv: 19
+  蛋白质:
+    amount: 14.7
+    unit: g
+    nrv: 25
+  脂肪:
+    amount: 1.6
+    unit: g
+    nrv: 3
+  碳水化合物:
+    amount: 77.0
+    unit: g
+    nrv: 26
+  钠:
+    amount: 390
+    unit: mg
+    nrv: 15
+  膳食纤维:
+    amount: 3.3
+    unit: g
+    nrv: 9.8
+  VA(视黄醇等):
+    amount: 1625
+    unit: "µg"
+    nrv: 180.6
+  VC(抗坏血酸):
+    amount: 48
+    unit: "mg"
+    nrv: 53.3
+  钙:
+    amount: 112
+    unit: "mg"
+    nrv: 11.2
+  铁:
+    amount: 9
+    unit: "mg"
+    nrv: 112.5
+  镁:
+    amount: 96
+    unit: "mg"
+    nrv: 24
+  铜:
+    amount: 1.3
+    unit: "mg"
+    nrv: 144.4
+  锰:
+    amount: 1.5
+    unit: "mg"
+    nrv: 65.2
+  锌:
+    amount: 2.3
+    unit: "mg"
+    nrv: 20.9
