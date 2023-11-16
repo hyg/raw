@@ -60,73 +60,70 @@ food:
     name: 小分子肽粉
     amount: 3.0
     unit: g
-
-  - time: 20231116194600
+  - time: 20231116211700
     name: 猕猴桃
-    amount: 90
+    amount: 88.0
     unit: g
-
-  - time: 20231116195600
+  - time: 20231116212500
     name: 大米
     amount: 30.0
     unit: g
-  - time: 20231116195600
+  - time: 20231116212500
     name: 黑青稞
     amount: 10.0
     unit: g
-  - time: 20231116195600
+  - time: 20231116212500
     name: 紫米
     amount: 10.0
     unit: g
-  - time: 20231116195600
+  - time: 20231116212500
     name: 血麦片
     amount: 10.0
     unit: g
-  - time: 20231116195600
+  - time: 20231116212500
     name: 花生
-    amount: 5.0
+    amount: 3.0
     unit: g
-  - time: 20231116195600
+  - time: 20231116212500
     name: 猪肉
     amount: 38.2
     unit: g
-  - time: 20231116195600
+  - time: 20231116212500
     name: 鸡蛋
     amount: 6.6
     unit: g
-  - time: 20231116195600
+  - time: 20231116212500
     name: 九转涎酱香猪肝
-    amount: 20
+    amount: 20.0
     unit: g
-  - time: 20231116195600
+  - time: 20231116212500
     name: 西兰花
-    amount: 110
+    amount: 103.0
     unit: g
-  - time: 20231116195600
+  - time: 20231116212500
     name: 油菜
-    amount: 160
+    amount: 170.5
     unit: g
-  - time: 20231116195600
+  - time: 20231116212500
     name: 鲁晶低钠海盐
     amount: 1.0
     unit: g
-  - time: 20231116195600
+  - time: 20231116212500
     name: 油
     amount: 1.0
     unit: g
-
-  - time: 20231116202000
+  - time: 20231116220000
     name: 舒特全脂奶粉
     amount: 10.0
     unit: g
-  - time: 20231116202000
+  - time: 20231116220000
     name: 凯兰牧场脱脂奶粉
     amount: 10.0
     unit: g
 
   - time: 20231116235400
     name: 冬枣
-    amount: 45
+    amount: 63
     unit: g
 
   - time: 20231116001700
@@ -191,23 +188,27 @@ water:
     name: 开水
     amount: 250
     unit: ml
-
-  - time: 20231116172200
+  - time: 20231116182100
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231116174700
+  - time: 20231116185400
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231116185800
+  - time: 20231116185500
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231116202000
+  - time: 20231116203800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231116220000
     name: 咖啡
     amount: 80.0
     unit: ml
+
   - time: 20231116211800
     name: 开水
     amount: 250
