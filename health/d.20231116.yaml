@@ -1,14 +1,14 @@
-date: 20231114
+date: 20231116
 sleep: 
-  time: 20231114015600
-  weight: 51.3
+  time: 20231116042700
+  weight: 51.1
 wake:
-  time: 20231114150000
-  weight: 50.3
+  time: 20231116153000
+  weight: 50.4
   SpO2: 97
-  PRbpm: 54
+  PRbpm: 55
 exercise: 
-- time: 20231114153200
+- time: 20231116161000
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -24,23 +24,23 @@ exercise:
     unit: set
   SpO2: 99
   PRbpm: 75
-  endheartrate: 77
-- time: 20231114183900
+  endheartrate: 78
+- time: 20231116181900
   item:
   - type: walk
-    amount: 26
+    amount: 25
     unit: minute
   SpO2: 96
-  PRbpm: 125
+  PRbpm: 126
 stool:
-- time: 20231114180500
+- time: 20231116173500
   amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 comment: |+
-  睡觉中间起来小便1次。
-  起床后穿caxa运动长裤、P300抓绒长裤、短袖T恤、单外套。
+  睡觉中间没有起来小便。
+  起床后穿caxa运动长裤、P300抓绒长裤、长袖秋衣、单外套。
   室内运动后换薄外套、戴帽、穿高帮靴。
   室外运动穿厚长裤、薄外套、运动护膝、薄手套。
   运动后换穿P300抓绒长裤、厚外套。
-  运动后把脉：关脉寸脉中偏浅、尺脉深度中；寸脉中偏外、尺脉居中、关脉中偏内；三处都清晰有力。
+  运动后把脉：寸脉中、关脉尺脉中偏浅；寸脉中偏外、关脉居中、尺脉中偏内；寸脉清晰、关脉尺脉清晰有力。
