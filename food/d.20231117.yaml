@@ -25,6 +25,10 @@ food:
     name: 鸡蛋
     amount: 6.6
     unit: g
+  - time: 20231117212500
+    name: 萨宝多马苏里拉芝士
+    amount: 15
+    unit: g
   - time: 20231117165300
     name: 南瓜
     amount: 77.5
@@ -57,11 +61,11 @@ food:
 
   - time: 20231117172000
     name: 舒特全脂奶粉
-    amount: 15.0
+    amount: 20.0
     unit: g
   - time: 20231117172000
     name: 凯兰牧场脱脂奶粉
-    amount: 5.0
+    amount: 0
     unit: g
   - time: 20231117172000
     name: 小分子肽粉
@@ -94,8 +98,8 @@ food:
     amount: 5
     unit: g
   - time: 20231117212500
-    name: 鸡腿肉
-    amount: 77
+    name: 鸡蛋
+    amount: 60
     unit: g
   - time: 20231117212500
     name: 九转涎酱香猪肝
@@ -120,11 +124,11 @@ food:
 
   - time: 20231117220000
     name: 舒特全脂奶粉
-    amount: 15.0
+    amount: 20.0
     unit: g
   - time: 20231117220000
     name: 凯兰牧场脱脂奶粉
-    amount: 5.0
+    amount: 0
     unit: g
 
   - time: 20231117211700
@@ -175,7 +179,7 @@ food:
     unit: g
   - time: 20231117021400
     name: 可可粉
-    amount: 3.0
+    amount: 4.0
     unit: g
 water:
   - time: 20231117153900
