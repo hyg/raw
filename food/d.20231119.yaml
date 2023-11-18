@@ -1,140 +1,144 @@
-date: 20231118
+date: 20231119
 food:
-  - time: 20231118181100
+  - time: 20231119181100
     name: 百香果
-    amount: 54.5
+    amount: 55
     unit: g
-  - time: 20231118220000
-    name: 陕富哈萨克斯坦强筋雪花粉
-    amount: 50.0
+
+  - time: 20231119190000
+    name: 天里香双枣芸豆甑糕
+    amount: 115
     unit: g
-  - time: 20231118220000
-    name: 雁门清高苦荞粉
-    amount: 5.0
-    unit: g
-  - time: 20231118220000
-    name: 辣木叶粉
-    amount: 5.0
-    unit: g
-  - time: 20231118220000
+  - time: 20231119190000
     name: 香菇
     amount: 3.6
     unit: g
-  - time: 20231118220000
+  - time: 20231119190000
     name: 鸡肉
-    amount: 92.4
+    amount: 95
     unit: g
-  - time: 20231118220000
+  - time: 20231119190000
     name: 南瓜
-    amount: 88.0
+    amount: 60
     unit: g
-  - time: 20231118220000
+  - time: 20231119190000
     name: 秋葵
-    amount: 156.5
+    amount: 140
     unit: g
-  - time: 20231118220000
+  - time: 20231119190000
     name: 巧星厨黄焖酱汁
     amount: 7.7
     unit: g
-  - time: 20231118184400
+
+  - time: 20231119184400
     name: 香蕉
-    amount: 156.0
+    amount: 160
     unit: g
-  - time: 20231118184400
+  - time: 20231119184400
     name: 桑葚干
     amount: 10.0
     unit: g
-  - time: 20231118184400
+  - time: 20231119184400
     name: 亚麻籽
     amount: 5.0
     unit: g
-  - time: 20231118184400
+  - time: 20231119184400
     name: 麦胚芽
     amount: 10.0
     unit: g
-  - time: 20231118185300
+
+  - time: 20231119185300
     name: 舒特全脂奶粉
     amount: 20.0
     unit: g
-  - time: 20231118185300
+  - time: 20231119185300
     name: 小分子肽粉
     amount: 3.0
     unit: g
-  - time: 20231118215600
+
+  - time: 20231119215600
     name: 橙
-    amount: 114.0
+    amount: 120
     unit: g
-  - time: 20231118220000
-    name: 大米
-    amount: 30.0
+
+  - time: 20231119220000
+    name: 陕富哈萨克斯坦强筋雪花粉
+    amount: 50.0
     unit: g
-  - time: 20231118220000
-    name: 黑青稞
-    amount: 10.0
-    unit: g
-  - time: 20231118220000
-    name: 紫米
-    amount: 10.0
-    unit: g
-  - time: 20231118220000
-    name: 血麦片
-    amount: 10.0
-    unit: g
-  - time: 20231118220000
-    name: 花生
+  - time: 20231119220000
+    name: 雁门清高苦荞粉
     amount: 5.0
     unit: g
-  - time: 20231118220000
+  - time: 20231119220000
+    name: 辣木叶粉
+    amount: 5.0
+    unit: g
+  - time: 20231119220000
+    name: 猪肉
+    amount: 38.2
+    unit: g
+  - time: 20231119220000
     name: 鸡蛋
-    amount: 58.0
+    amount: 6.6
     unit: g
-  - time: 20231118220000
+  - time: 20231119220000
     name: 九转涎酱香猪肝
-    amount: 19.0
+    amount: 20
     unit: g
-  - time: 20231118220000
+  - time: 20231119220000
     name: 西兰花
-    amount: 99.5
+    amount: 100
     unit: g
-  - time: 20231118220000
+  - time: 20231119220000
     name: 小白菜
-    amount: 166.0
+    amount: 120
     unit: g
-  - time: 20231118220000
+  - time: 20231119220000
+    name: 豇豆
+    amount: 60
+    unit: g
+  - time: 20231119220000
     name: 巧星厨黄焖酱汁
-    amount: 7.8
+    amount: 7.7
     unit: g
-  - time: 20231118222700
+  - time: 20231119220000
+    name: 油
+    amount: 2
+    unit: g
+
+  - time: 20231119222700
     name: 晋文斋沙棘原浆
-    amount: 92.5
+    amount: 90
     unit: g
+
   - time: 20231119023100
     name: 苹果
-    amount: 133.0
+    amount: 150
     unit: g
+
   - time: 20231119024600
     name: 番茄酱
-    amount: 25.0
+    amount: 30
     unit: g
   - time: 20231119024600
     name: 胡萝卜
-    amount: 49.5
+    amount: 50
     unit: g
   - time: 20231119024600
     name: 洋葱
-    amount: 49.0
+    amount: 50
     unit: g
   - time: 20231119024600
     name: 圆白菜
-    amount: 50.5
+    amount: 50
     unit: g
   - time: 20231119024600
     name: 南瓜
-    amount: 62.0
+    amount: 65
     unit: g
   - time: 20231119024600
     name: 福正宫魔芋燕麦鸡胸肉蒸饺
-    amount: 98.0
+    amount: 100
     unit: g
   - time: 20231119024600
     name: 鲁晶低钠海盐
@@ -144,44 +148,45 @@ food:
     name: 油
     amount: 1.0
     unit: g
+
   - time: 20231119030000
     name: 舒特全脂奶粉
-    amount: 18.0
+    amount: 20.0
     unit: g
   - time: 20231119030000
     name: 可可粉
-    amount: 4.5
+    amount: 4.0
     unit: g
   - time: 20231119030000
     name: 伊卡浓72%臻黑巧克力
     amount: 5
     unit: g
 water:
-  - time: 20231118164600
+  - time: 20231119164600
     name: 开水
     amount: 100
     unit: ml
-  - time: 20231118173500
+  - time: 20231119173500
     name: 开水
     amount: 220
     unit: ml
-  - time: 20231118185300
+  - time: 20231119185300
     name: 咖啡
     amount: 81.0
     unit: ml
-  - time: 20231118190500
+  - time: 20231119190500
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231118194200
+  - time: 20231119194200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231118211000
+  - time: 20231119211000
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231118231300
+  - time: 20231119231300
     name: 开水
     amount: 250
     unit: ml
@@ -206,15 +211,11 @@ water:
     amount: 50
     unit: ml
 med:
-  - time: 20231118190500
-    name: 维生素D3
-    amount: 125
-    unit: µg
-  - time: 20231118190500
+  - time: 20231119190500
     name: selenium
     amount: 200
     unit: µg
-  - time: 20231118190500
+  - time: 20231119190500
     name: daily multi
     amount: 1
     unit: 片

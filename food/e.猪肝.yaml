@@ -1,0 +1,84 @@
+name: 猪肝
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 540
+    unit: kj
+    nrv: 8
+  蛋白质:
+    amount: 19.3
+    unit: g
+    nrv: 29.7
+  脂肪:
+    amount: 3.5
+    unit: g
+    nrv: 7.8
+  碳水化合物:
+    amount: 5
+    unit: g
+    nrv: 2
+  钠:
+    amount: 69
+    unit: mg
+    nrv: 4.6
+  VA(视黄醇等):
+    amount: 4972
+    unit: μg
+    nrv: 621.5
+  VE(生育酚):
+    amount: 0.86
+    unit: mg
+    nrv: 6.1
+  VB1(硫胺素):
+    amount: 0.21
+    unit: mg
+    nrv: 15
+  VB2(核黄素):
+    amount: 2.08
+    unit: mg
+    nrv: 148.6
+  VB3(烟酸):
+    amount: 15
+    unit: mg
+    nrv: 100
+  VC(抗坏血酸):
+    amount: 20
+    unit: mg
+    nrv: 20
+  磷:
+    amount: 310
+    unit: mg
+    nrv: 43
+  钾:
+    amount: 235
+    unit: mg
+    nrv: 11.75
+  镁:
+    amount: 24
+    unit: mg
+    nrv: 7.3
+  钙:
+    amount: 6
+    unit: mg
+    nrv: 0.6
+  铁:
+    amount: 22.6
+    unit: mg
+    nrv: 188.3
+  锌:
+    amount: 5.78
+    unit: mg
+    nrv: 46.2
+  硒:
+    amount: 19.2
+    unit: μg
+    nrv: 32
+  铜:
+    amount: 0.65
+    unit: mg
+    nrv: 81.3
+  锰:
+    amount: 0.26
+    unit: mg
+    nrv: 5.8
