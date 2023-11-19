@@ -1,0 +1,72 @@
+name: 山河全脂奶粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2077
+    unit: kj
+    nrv: 25
+  蛋白质:
+    amount: 24.0
+    unit: g
+    nrv: 40
+  脂肪:
+    amount: 26
+    unit: g
+    nrv: 43
+  碳水化合物:
+    amount: 41.6
+    unit: g
+    nrv: 14
+  钠:
+    amount: 500
+    unit: mg
+    nrv: 25
+  钙:
+    amount: 900
+    unit: mg
+    nrv: 90
+  铁:
+    amount: 0.4
+    unit: mg
+    nrv: 3
+  锌:
+    amount: 3.2
+    unit: mg
+    nrv: 32
+  VA(视黄醇等):
+    amount: 318
+    unit: µg
+    nrv: 35
+  VE(生育酚):
+    amount: 0.61
+    unit: mg
+    nrv: 4
+  VK(凝血维生素):
+    amount: 3.4
+    unit: µg
+    nrv: 3
+  VB1(硫胺素):
+    amount: 0.31
+    unit: mg
+    nrv: 22
+  VB2(核黄素):
+    amount: 1.8
+    unit: mg
+    nrv: 120
+  VB6(吡哆素):
+    amount: 0.5
+    unit: mg
+    nrv: 36
+  VB12(钴胺素):
+    amount: 2.2
+    unit: µg
+    nrv: 92
+  VB3(烟酸):
+    amount: 0.6
+    unit: mg
+    nrv: 4
+  VB9(叶酸):
+    amount: 46
+    unit: µg
+    nrv: 21
