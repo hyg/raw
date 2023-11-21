@@ -1,0 +1,213 @@
+date: 20231122
+food:
+  - time: 20231122163500
+    name: 百香果
+    amount: 25
+    unit: g
+
+  - time: 20231122163800
+    name: 陕富哈萨克斯坦强筋雪花粉
+    amount: 50.0
+    unit: g
+  - time: 20231122163800
+    name: 雁门清高苦荞粉
+    amount: 5.0
+    unit: g
+  - time: 20231122163800
+    name: 辣木叶粉
+    amount: 5.0
+    unit: g
+  - time: 20231122163800
+    name: 香菇
+    amount: 3.6
+    unit: g
+  - time: 20231122163800
+    name: 鸡肉
+    amount: 80
+    unit: g
+  - time: 20231122163800
+    name: 南瓜
+    amount: 60
+    unit: g
+  - time: 20231122163800
+    name: 西兰花
+    amount: 100
+    unit: g
+  - time: 20231122163800
+    name: 巧星厨黄焖酱汁
+    amount: 5
+    unit: g
+
+  - time: 20231122165800
+    name: 香蕉
+    amount: 120
+    unit: g
+  - time: 20231122165800
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20231122165800
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20231122165800
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+
+  - time: 20231122171700
+    name: 舒特全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20231122171700
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+
+  - time: 20231122204100
+    name: 百香果
+    amount: 30
+    unit: g
+
+  - time: 20231122204800
+    name: 大米
+    amount: 30.0
+    unit: g
+  - time: 20231122204800
+    name: 黑青稞
+    amount: 10.0
+    unit: g
+  - time: 20231122204800
+    name: 紫米
+    amount: 10.0
+    unit: g
+  - time: 20231122204800
+    name: 血麦片
+    amount: 10.0
+    unit: g
+  - time: 20231122204800
+    name: 花生
+    amount: 5.0
+    unit: g
+  - time: 20231122204800
+    name: 九转涎酱香猪肝
+    amount: 40
+    unit: g
+  - time: 20231122204800
+    name: 菜心
+    amount: 150
+    unit: g
+  - time: 20231122204800
+    name: 圆白菜
+    amount: 120
+    unit: g
+  - time: 20231122204800
+    name: 鲁晶低钠海盐
+    amount: 1.0
+    unit: g
+  - time: 20231122204800
+    name: 油
+    amount: 1.0
+    unit: g
+
+  - time: 20231122211400
+    name: 舒特全脂奶粉
+    amount: 20.0
+    unit: g
+
+  - time: 20231122232200
+    name: 柿子
+    amount: 180
+    unit: g
+
+  - time: 20231122232600
+    name: 螺不凡干米粉
+    amount: 55
+    unit: g
+  - time: 20231122232600
+    name: 绿豆芽
+    amount: 150
+    unit: g
+  - time: 20231122232600
+    name: 油菜
+    amount: 120
+    unit: g
+  - time: 20231122232600
+    name: 鸡蛋
+    amount: 45
+    unit: g
+  - time: 20231122232600
+    name: 豆瓣酱
+    amount: 10
+    unit: g
+  - time: 20231122232600
+    name: 油
+    amount: 1
+    unit: g
+
+  - time: 20231122234000
+    name: 舒特全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20231122234000
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20231122154000
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20231122162500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231122171700
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20231122172800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231122175600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231122182600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231122195500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231122211400
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20231122220800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231122234000
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20231122004800
+    name: 开水
+    amount: 200
+    unit: ml
+med:
+  - time: 20231122172800
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20231122172800
+    name: mature multi
+    amount: 1
+    unit: 片
+comment: |+
+  秋葵渣0.5克。
+  黄焖鸡块折算比例：一个香菇=1.8g香菇生重；熟鸡块33克=生鸡块50g；汤汁56克=巧星厨黄焖酱汁7.7g。
+  早餐鸡块熟重32.0克，骨重0.5克，鸡肉生重47.7克；早餐汤汁56.5克，黄焖酱汁7.8克。
