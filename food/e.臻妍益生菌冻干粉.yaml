@@ -1,0 +1,24 @@
+name: 臻妍益生菌冻干粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1612
+    unit: kj
+    nrv: 19
+  蛋白质:
+    amount: 6.3
+    unit: g
+    nrv: 11
+  脂肪:
+    amount: 6.3
+    unit: g
+    nrv: 11
+  碳水化合物:
+    amount: 74.8
+    unit: g
+    nrv: 25
+  钠:
+    amount: 155
+    unit: mg
+    nrv: 8
