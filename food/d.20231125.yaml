@@ -1,199 +1,208 @@
-date: 20231124
+date: 20231125
 food:
-  - time: 20231124181900
+  - time: 20231125181900
     name: 百香果
-    amount: 22.5
+    amount: 50
     unit: g
-  - time: 20231124182400
+
+  - time: 20231125182400
     name: 陕富哈萨克斯坦强筋雪花粉
     amount: 50.0
     unit: g
-  - time: 20231124182400
+  - time: 20231125182400
     name: 雁门清高苦荞粉
     amount: 5.0
     unit: g
-  - time: 20231124182400
+  - time: 20231125182400
     name: 辣木叶粉
     amount: 5.0
     unit: g
-  - time: 20231124182400
+  - time: 20231125182400
     name: 鮰鱼腩
-    amount: 53.9
+    amount: 55
     unit: g
-  - time: 20231124182400
+  - time: 20231125182400
     name: 南瓜
-    amount: 69.5
+    amount: 70
     unit: g
-  - time: 20231124182400
+  - time: 20231125182400
     name: 秋葵
-    amount: 90.0
+    amount: 100
     unit: g
-  - time: 20231124182400
+  - time: 20231125182400
     name: 豆瓣酱
-    amount: 7.0
+    amount: 6.0
     unit: g
-  - time: 20231124184100
+
+  - time: 20231125184100
     name: 香蕉
-    amount: 99.5
+    amount: 55
     unit: g
-  - time: 20231124184100
+  - time: 20231125184100
     name: 桑葚干
     amount: 10.0
     unit: g
-  - time: 20231124184100
+  - time: 20231125184100
     name: 亚麻籽
     amount: 5.0
     unit: g
-  - time: 20231124184100
+  - time: 20231125184100
     name: 麦胚芽
     amount: 10.0
     unit: g
-  - time: 20231124184100
+  - time: 20231125184100
     name: 臻妍益生菌冻干粉
-    amount: 2.5
+    amount: 3
     unit: g
-  - time: 20231124185000
+
+  - time: 20231125185000
     name: 舒特全脂奶粉
     amount: 15.0
     unit: g
-  - time: 20231124185000
+  - time: 20231125185000
     name: 凯兰牧场脱脂奶粉
     amount: 5.0
     unit: g
-  - time: 20231124185000
+  - time: 20231125185000
     name: 小分子肽粉
     amount: 3.0
     unit: g
-  - time: 20231124223300
+
+  - time: 20231125223300
     name: 苹果
-    amount: 98.0
+    amount: 60
     unit: g
-  - time: 20231124224200
+
+  - time: 20231125224200
     name: 大米
-    amount: 30.0
+    amount: 35
     unit: g
-  - time: 20231124224200
+  - time: 20231125224200
     name: 黑青稞
-    amount: 10.0
+    amount: 10
     unit: g
-  - time: 20231124224200
+  - time: 20231125224200
     name: 紫米
-    amount: 10.0
+    amount: 10
     unit: g
-  - time: 20231124224200
+  - time: 20231125224200
     name: 血麦片
-    amount: 10.0
+    amount: 10
     unit: g
-  - time: 20231124224200
+  - time: 20231125224200
     name: 花生
-    amount: 4.0
+    amount: 5
     unit: g
-  - time: 20231124224200
+  - time: 20231125224200
     name: 梅花肉
-    amount: 25.4
+    amount: 25
     unit: g
-  - time: 20231124224200
-    name: 鸡蛋
-    amount: 29.5
-    unit: g
-  - time: 20231124224200
-    name: 西兰花
-    amount: 68.5
-    unit: g
-  - time: 20231124224200
-    name: 小白菜
-    amount: 181.5
-    unit: g
-  - time: 20231124224200
-    name: 鲁晶低钠海盐
-    amount: 1.0
-    unit: g
-  - time: 20231124224200
-    name: 油
-    amount: 1.0
-    unit: g
-  - time: 20231124231100
-    name: 舒特全脂奶粉
-    amount: 15.0
-    unit: g
-  - time: 20231124231100
-    name: 凯兰牧场脱脂奶粉
-    amount: 5.0
-    unit: g
-  - time: 20231125012400
-    name: 柿子
-    amount: 98.0
-    unit: g
-  - time: 20231125013000
-    name: 螺不凡干米粉
-    amount: 62.5
-    unit: g
-  - time: 20231125013000
-    name: 绿豆芽
-    amount: 61.5
-    unit: g
-  - time: 20231125013000
-    name: 油菜
-    amount: 98.5
-    unit: g
-  - time: 20231125013000
+  - time: 20231125224200
     name: 猪肝
     amount: 20
     unit: g
-  - time: 20231125013000
-    name: 鲁晶低钠海盐
-    amount: 1.0
+  - time: 20231125224200
+    name: 西兰花
+    amount: 100
     unit: g
-  - time: 20231125013000
+  - time: 20231125224200
+    name: 油菜
+    amount: 160
+    unit: g
+  - time: 20231125224200
+    name: 鲁晶低钠海盐
+    amount: 1.5
+    unit: g
+  - time: 20231125224200
     name: 油
     amount: 1.0
     unit: g
+
+  - time: 20231125231100
+    name: 舒特全脂奶粉
+    amount: 15.0
+    unit: g
+  - time: 20231125231100
+    name: 凯兰牧场脱脂奶粉
+    amount: 5.0
+    unit: g
+
+  - time: 20231125012400
+    name: 橙
+    amount: 130
+    unit: g
+
+  - time: 20231125013000
+    name: 红薯
+    amount: 140
+    unit: g
+  - time: 20231125013000
+    name: 山药豆
+    amount: 50
+    unit: g
+  - time: 20231125013000
+    name: 速冻荠菜
+    amount: 50
+    unit: g
+  - time: 20231125013000
+    name: 鸡蛋
+    amount: 35
+    unit: g
+  - time: 20231125013000
+    name: 萨宝多马苏里拉芝士
+    amount: 10
+    unit: g
+  - time: 20231125013000
+    name: 鲁晶低钠海盐
+    amount: 0.5
+    unit: g
+
   - time: 20231125014500
     name: 舒特全脂奶粉
-    amount: 10.0
+    amount: 15.0
     unit: g
   - time: 20231125014500
     name: 凯兰牧场脱脂奶粉
-    amount: 9.0
+    amount: 5.0
     unit: g
   - time: 20231125014500
-    name: 菊粉
-    amount: 10.0
+    name: 可可粉
+    amount: 4.0
     unit: g
 water:
-  - time: 20231124172000
+  - time: 20231125172000
     name: 开水
     amount: 100
     unit: ml
-  - time: 20231124180600
+  - time: 20231125180600
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231124185000
+  - time: 20231125185000
     name: 咖啡
     amount: 80.0
     unit: ml
-  - time: 20231124192600
+  - time: 20231125192600
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231124195100
+  - time: 20231125195100
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231124200700
+  - time: 20231125200700
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231124214900
+  - time: 20231125214900
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231124231100
+  - time: 20231125231100
     name: 咖啡
     amount: 80.0
     unit: ml
-  - time: 20231124235700
+  - time: 20231125235700
     name: 开水
     amount: 250
     unit: ml
@@ -210,11 +219,11 @@ water:
     amount: 100
     unit: ml
 med:
-  - time: 20231124195100
+  - time: 20231125195100
     name: selenium
     amount: 200
     unit: µg
-  - time: 20231124195100
+  - time: 20231125195100
     name: mature multi
     amount: 1
     unit: 片

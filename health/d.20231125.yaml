@@ -1,14 +1,14 @@
-date: 20231123
+date: 20231125
 sleep: 
-  time: 20231123083100
-  weight: 51.3
+  time: 20231125082400
+  weight: 50.9
 wake:
-  time: 20231123184500
-  weight: 50.1
+  time: 20231125171000
+  weight: 50.2
   SpO2: 95
-  PRbpm: 55
+  PRbpm: 57
 exercise: 
-- time: 20231123192100
+- time: 20231125174000
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -23,25 +23,25 @@ exercise:
     amount: 5
     unit: set
   SpO2: 99
-  PRbpm: 73
-  endheartrate: 76
-- time: 20231123220500
+  PRbpm: 71
+  endheartrate: 75
+- time: 20231125210400
   item:
   - type: walk
-    amount: 27
+    amount: 28
     unit: minute
-  SpO2: 95
-  PRbpm: 116
+  SpO2: 96
+  PRbpm: 112
 stool:
-- time: 20231123205200
-  amount:   3   #	1:多; 2:适中;	3:少
+- time: 20231125193300
+  amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
-  diffcult: 2   #	1:不困难;	2:困难
+  diffcult: 1   #	1:不困难;	2:困难
 comment: |+
   睡觉中间起来小便1次，没有补水，醒来时感到轻微口干。
   起床后穿抓绒秋裤、厚长裤、短袖polo、单外套、高帮靴。
   运动后把脉：关脉中偏浅、尺脉寸脉深度中；寸脉中偏外、关脉尺脉居中；关脉清晰有力、尺脉寸脉清晰。
   室内运动后换薄外套、戴帽、穿高帮靴。
-  室外运动穿运动护膝、厚长裤、薄外套、厚帽、厚手套。
+  室外运动穿运动护膝、厚长裤、薄外套、厚帽、厚手套、发热鞋垫、发热膝垫。
   运动后换穿P300抓绒长裤、厚外套。
   

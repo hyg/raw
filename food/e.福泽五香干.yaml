@@ -1,0 +1,24 @@
+name: 福泽五香干
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 535
+    unit: kj
+    nrv: 6
+  蛋白质:
+    amount: 17.0
+    unit: g
+    nrv: 28
+  脂肪:
+    amount: 1.6
+    unit: g
+    nrv: 3
+  碳水化合物:
+    amount: 11.0
+    unit: g
+    nrv: 4
+  钠:
+    amount: 5
+    unit: mg
+    nrv: 0
