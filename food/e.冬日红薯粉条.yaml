@@ -6,10 +6,6 @@ element:
     amount: 1458
     unit: kj
     nrv: 17
-  碳水化合物:
-    amount: 85.2
-    unit: g
-    nrv: 28
   蛋白质:
     amount: 0
     unit: g
@@ -18,6 +14,10 @@ element:
     amount: 0
     unit: g
     nrv: 0
+  碳水化合物:
+    amount: 85.2
+    unit: g
+    nrv: 28
   钠:
     amount: 12
     unit: mg

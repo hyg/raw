@@ -1,0 +1,24 @@
+name: 康丰可颂牛角
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1375
+    unit: kj
+    nrv: 16
+  蛋白质:
+    amount: 10.0
+    unit: g
+    nrv: 17
+  脂肪:
+    amount: 9.5
+    unit: g
+    nrv: 16
+  碳水化合物:
+    amount: 50.2
+    unit: g
+    nrv: 17
+  钠:
+    amount: 237
+    unit: mg
+    nrv: 12
