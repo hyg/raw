@@ -1,0 +1,32 @@
+name: 鱼籽
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 140
+    unit: kcal
+    nrv: 8
+  蛋白质:
+    amount: 22.32
+    unit: g
+    nrv: 34
+  脂肪:
+    amount: 6.42
+    unit: g
+    nrv: 14
+  胆固醇:
+    amount: 374
+    unit: mg
+    nrv: 125
+  碳水化合物:
+    amount: 1.5
+    unit: g
+    nrv: 0.6
+  钠:
+    amount: 91
+    unit: mg
+    nrv: 6
+  钾:
+    amount: 221
+    unit: mg
+    nrv: 11

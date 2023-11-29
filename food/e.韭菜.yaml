@@ -1,0 +1,88 @@
+name: 韭菜
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 120
+    unit: kj
+    nrv: 1.5
+  蛋白质:
+    amount: 2.4
+    unit: g
+    nrv: 3.7
+  脂肪:
+    amount: 0.4
+    unit: g
+    nrv: 0.8
+  碳水化合物:
+    amount: 4.6
+    unit: g
+    nrv: 1.9
+  膳食纤维:
+    amount: 1.4
+    unit: g
+    nrv: 4.7
+  钠:
+    amount: 8
+    unit: mg
+    nrv: 0.5
+  VA(视黄醇等):
+    amount: 235
+    unit: μg
+    nrv: 29.4
+  VE(生育酚):
+    amount: 960
+    unit: μg
+    nrv: 6.9
+  VB1(硫胺素):
+    amount: 20
+    unit: μg
+    nrv: 1.4
+  VB2(核黄素):
+    amount: 90
+    unit: μg
+    nrv: 6.4
+  VC(抗坏血酸):
+    amount: 24
+    unit: mg
+    nrv: 24
+  VB3(烟酸):
+    amount: 0.8
+    unit: mg
+    nrv: 5.7
+  磷:
+    amount: 38
+    unit: mg
+    nrv: 5.3
+  钾:
+    amount: 247
+    unit: mg
+    nrv: 12.4
+  镁:
+    amount: 25
+    unit: mg
+    nrv: 7.6
+  钙:
+    amount: 42
+    unit: mg
+    nrv: 4.2
+  铁:
+    amount: 1.6
+    unit: mg
+    nrv: 13.3
+  锌:
+    amount: 0.43
+    unit: mg
+    nrv: 3.4
+  硒:
+    amount: 1.4
+    unit: μg
+    nrv: 2.3
+  铜:
+    amount: 0.08
+    unit: mg
+    nrv: 10
+  锰:
+    amount: 0.43
+    unit: mg
+    nrv: 9.6
