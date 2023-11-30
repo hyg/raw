@@ -1,140 +1,165 @@
-date: 20231130
+date: 20231201
 food:
-  - time: 20231130191700
+  - time: 20231201191700
     name: 百香果
-    amount: 64.0
+    amount: 65
     unit: g
-  - time: 20231130192000
+
+  - time: 20231201192000
     name: 陕富哈萨克斯坦强筋雪花粉
     amount: 50.0
     unit: g
-  - time: 20231130192000
+  - time: 20231201192000
     name: 雁门清高苦荞粉
     amount: 5.0
     unit: g
-  - time: 20231130192000
+  - time: 20231201192000
     name: 辣木叶粉
     amount: 5.0
     unit: g
-  - time: 20231130192000
-    name: 鮰鱼腩
-    amount: 49.6
+  - time: 20231201192000
+    name: 崔嬷兰州糟肉
+    amount: 20.0
     unit: g
-  - time: 20231130192000
+  - time: 20231201192000
+    name: 鱼籽
+    amount: 20.0
+    unit: g
+  - time: 20231201192000
+    name: 猪肝
+    amount: 9.5
+    unit: g
+  - time: 20231201192000
     name: 南瓜
-    amount: 81.0
+    amount: 80
     unit: g
-  - time: 20231130192000
+  - time: 20231201192000
     name: 秋葵
-    amount: 110.0
+    amount: 100
     unit: g
-  - time: 20231130192000
+  - time: 20231201192000
     name: 豆瓣酱
     amount: 3.5
     unit: g
-  - time: 20231130192000
+  - time: 20231201192000
     name: 姜
     amount: 3.0
     unit: g
-  - time: 20231130194000
+
+  - time: 20231201194000
     name: 桑葚干
     amount: 10.0
     unit: g
-  - time: 20231130194000
+  - time: 20231201194000
     name: 亚麻籽
     amount: 5.0
     unit: g
-  - time: 20231130194000
+  - time: 20231201194000
     name: 麦胚芽
     amount: 10.0
     unit: g
-  - time: 20231130194000
+  - time: 20231201194000
     name: 臻妍益生菌冻干粉
     amount: 3.0
     unit: g
-  - time: 20231130194900
+
+  - time: 20231201194900
     name: 舒特全脂奶粉
-    amount: 15.0
+    amount: 20.0
     unit: g
-  - time: 20231130194900
+  - time: 20231201194900
     name: 凯兰牧场脱脂奶粉
-    amount: 5.0
+    amount: 0
     unit: g
-  - time: 20231130194900
+  - time: 20231201194900
     name: 小分子肽粉
     amount: 3.0
     unit: g
-  - time: 20231130234400
-    name: 柿子
-    amount: 126.0
+
+  - time: 20231201234400
+    name: 橙
+    amount: 120
     unit: g
-  - time: 20231130234600
-    name: 山药豆
-    amount: 60.5
+
+  - time: 20231201234600
+    name: 大米
+    amount: 40
     unit: g
-  - time: 20231130234600
-    name: 红薯
-    amount: 167.0
+  - time: 20231201234600
+    name: 黑青稞
+    amount: 10
     unit: g
-  - time: 20231130234600
+  - time: 20231201234600
+    name: 紫米
+    amount: 10
+    unit: g
+  - time: 20231201234600
+    name: 血麦片
+    amount: 10
+    unit: g
+  - time: 20231201234600
+    name: 花生
+    amount: 5
+    unit: g
+
+  - time: 20231201234600
     name: 梅花肉
-    amount: 27.5
+    amount: 35
     unit: g
-  - time: 20231130234600
-    name: 西兰花
-    amount: 147
+  - time: 20231201234600
+    name: 苦瓜
+    amount: 190
     unit: g
-  - time: 20231130234600
-    name: 小白菜
-    amount: 147.5
-    unit: g
-  - time: 20231130234600
+  - time: 20231201234600
     name: 鲁晶低钠海盐
     amount: 1.0
     unit: g
-  - time: 20231130234600
+  - time: 20231201234600
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20231201234600
     name: 油
     amount: 1.0
     unit: g
+
   - time: 20231201000900
     name: 舒特全脂奶粉
-    amount: 15.0
+    amount: 20.0
     unit: g
   - time: 20231201000900
     name: 凯兰牧场脱脂奶粉
-    amount: 5.0
+    amount: 0
     unit: g
+
   - time: 20231201030100
-    name: 橙
-    amount: 90.0
+    name: 苹果
+    amount: 200
+    unit: g
+
+  - time: 20231201030400
+    name: 山药豆
+    amount: 60
     unit: g
   - time: 20231201030400
-    name: 番茄酱
-    amount: 31.0
-    unit: g
-  - time: 20231201030400
-    name: 康丰可颂牛角
-    amount: 96.5
-    unit: g
-  - time: 20231201030400
-    name: 萨宝多马苏里拉芝士
-    amount: 7.5
-    unit: g
-  - time: 20231201030400
-    name: 知小理腐乳条
-    amount: 16.0
+    name: 红薯
+    amount: 180
     unit: g
   - time: 20231201030400
     name: 韭菜
-    amount: 121.0
+    amount: 4.0
     unit: g
   - time: 20231201030400
-    name: 猪肝
-    amount: 8.75
+    name: 生菜
+    amount: 100
+    unit: g
+  - time: 20231201030400
+    name: 崔嬷兰州糟肉
+    amount: 30.0
     unit: g
   - time: 20231201030400
     name: 福泽五香干
-    amount: 58.5
+    amount: 58
     unit: g
   - time: 20231201030400
     name: 鲁晶低钠海盐
@@ -146,34 +171,47 @@ food:
     unit: g
   - time: 20231201030400
     name: 香油
-    amount: 0.5
+    amount: 1.0
+    unit: g
+
+  - time: 20231201090000
+    name: 舒特全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20231201090000
+    name: 凯兰牧场脱脂奶粉
+    amount: 0
+    unit: g
+  - time: 20231201090000
+    name: 可可粉
+    amount: 4.0
     unit: g
 water:
-  - time: 20231130181000
+  - time: 20231201181000
     name: 开水
     amount: 100
     unit: ml
-  - time: 20231130190000
+  - time: 20231201190000
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231130194900
+  - time: 20231201194900
     name: 咖啡
     amount: 80.0
     unit: ml
-  - time: 20231130200600
+  - time: 20231201200600
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231130203400
+  - time: 20231201203400
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231130205400
+  - time: 20231201205400
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231130221900
+  - time: 20231201221900
     name: 开水
     amount: 250
     unit: ml
@@ -202,18 +240,16 @@ water:
     amount: 50
     unit: ml
 med:
-  - time: 20231130200600
+  - time: 20231201200600
     name: selenium
     amount: 200
     unit: µg
-  - time: 20231130200600
+  - time: 20231201200600
     name: mature multi
     amount: 1
     unit: 片
 comment: |+
   水煮梅花肉：生重392.0克，熟重277.5克，折算比例35.4克熟重对应50克生重。
   水煮猪肝：生重175.0克，熟重110.0克，折算比例12.5克熟重对应20克生重。
-  水煮鱼腩：生重497.0克，熟重461.0克。
-  今天早餐鱼腩熟重46.0克，生重49.6克。午餐梅花肉熟重19.5克，生重27.5克。猪肝熟重5.5克，生重8.75克。
-
   水煮黄鱼籽：生重243.0克，熟重230.0克。折算比例是熟重19克对应20克生重。
+  今天早餐鱼籽熟重19.0克，生重20.0克；猪肝熟重6.0克，生重9.5克。午餐梅花肉熟重25克，生重35.3克。
