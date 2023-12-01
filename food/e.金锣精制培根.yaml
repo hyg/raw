@@ -1,0 +1,24 @@
+name: 金锣精制培根
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1399
+    unit: kj
+    nrv: 17
+  蛋白质:
+    amount: 9.0
+    unit: g
+    nrv: 15
+  脂肪:
+    amount: 30.0
+    unit: g
+    nrv: 50
+  碳水化合物:
+    amount: 8.0
+    unit: g
+    nrv: 3
+  钠:
+    amount: 780
+    unit: mg
+    nrv: 39
