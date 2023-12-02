@@ -10,6 +10,7 @@
 1. 木耳：
   * https://13936608722.taobao.com
   * https://shop34396683.taobao.com 偶尔会有
+1. 益生菌： https://detail.1688.com/offer/727862457068.html
 
 
 #### 钙
@@ -36,6 +37,7 @@
    * 中粮安至选
 1. 兔肉：https://pengdashipin.tmall.com
 1. 鸡蛋：https://xdxfnc.tmall.com
+1. 小分子肽粉：https://detail.1688.com/offer/682986272737.html
 
 #### 抗氧化
 
