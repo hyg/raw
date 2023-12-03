@@ -72,111 +72,97 @@ food:
     name: 小分子肽粉
     amount: 3.0
     unit: g
-
-  - time: 20231202235900
+  - time: 20231203004300
     name: 橙
-    amount: 115
+    amount: 113.5
     unit: g
-
-  - time: 202312022000000
+  - time: 20231203004600
     name: 大米
     amount: 60.0
     unit: g
-  - time: 202312022000000
+  - time: 20231203004600
     name: 洋葱
     amount: 55.0
     unit: g
-  - time: 202312022000000
+  - time: 20231203004600
     name: 金锣精制培根
     amount: 47.0
     unit: g
-  - time: 202312022000000
+  - time: 20231203004600
     name: 番茄酱
     amount: 30.5
     unit: g
-  - time: 202312022000000
+  - time: 20231203004600
     name: 豆瓣酱
     amount: 6.0
     unit: g
-  - time: 202312022000000
+  - time: 20231203004600
     name: 木耳
     amount: 10.0
     unit: g
-  - time: 202312022000000
+  - time: 20231203004600
     name: 胡萝卜
-    amount: 120
+    amount: 121.5
     unit: g
-  - time: 202312022000000
+  - time: 20231203004600
     name: 小白菜
-    amount: 130
+    amount: 102.5
     unit: g
-  - time: 202312022000000
+  - time: 20231203004600
     name: 鲁晶低钠海盐
     amount: 1.0
     unit: g
-  - time: 202312022000000
-    name: 油
-    amount: 1.0
-    unit: g
-
-  - time: 20231202002700
-    name: 山河全脂奶粉
-    amount: 20.0
-    unit: g
-  - time: 20231202002700
-    name: 凯兰牧场脱脂奶粉
-    amount: 0
-    unit: g
-
-  - time: 20231202033700
-    name: 柿子
-    amount: 210
-    unit: g
-
-  - time: 20231202034100
-    name: 山药豆
-    amount: 15
-    unit: g
-  - time: 20231202034100
-    name: 红薯
-    amount: 180
-    unit: g
-  - time: 20231202034100
-    name: 生菜
-    amount: 150
-    unit: g
-  - time: 20231202034100
-    name: 福泽五香干
-    amount: 58
-    unit: g
-  - time: 20231202034100
-    name: 崔嬷兰州糟肉
-    amount: 45
-    unit: g
-  - time: 20231202034100
-    name: 鲁晶低钠海盐
-    amount: 1.5
-    unit: g
-  - time: 20231202034100
+  - time: 20231203004600
     name: 鲜味王
     amount: 0.5
     unit: g
-  - time: 20231202034100
-    name: 香油
-    amount: 0.5
+  - time: 20231203004600
+    name: 油
+    amount: 1.0
     unit: g
-
-  - time: 20231203040000
+  - time: 20231203010300
     name: 山河全脂奶粉
     amount: 20.0
     unit: g
-  - time: 20231203040000
+  - time: 20231203043600
+    name: 柿子
+    amount: 201.0
+    unit: g
+  - time: 20231203044000
+    name: 红薯
+    amount: 211.0
+    unit: g
+  - time: 20231203044000
+    name: 生菜
+    amount: 90.0
+    unit: g
+  - time: 20231203044000
+    name: 福泽五香干
+    amount: 86.0
+    unit: g
+  - time: 20231203044000
+    name: 崔嬷兰州糟肉
+    amount: 38.0
+    unit: g
+  - time: 20231203044000
+    name: 鲁晶低钠海盐
+    amount: 1.0
+    unit: g
+  - time: 20231203044000
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20231203044000
+    name: 香油
+    amount: 1.0
+    unit: g
+  - time: 20231203050000
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20231203050000
     name: 可可粉
     amount: 4.0
-    unit: g
-  - time: 20231203040000
-    name: 伊卡浓72%臻黑巧克力
-    amount: 5
     unit: g
 water:
   - time: 20231202191000
@@ -195,40 +181,39 @@ water:
     name: 开水
     amount: 250
     unit: ml
-
-  - time: 20231202205900
+  - time: 20231202213500
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231202211900
+  - time: 20231202220000
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231202225700
+  - time: 20231202232300
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231202002700
+  - time: 20231203010300
     name: 咖啡
-    amount: 83.5
+    amount: 80.0
     unit: ml
-  - time: 20231202014000
+  - time: 20231203020100
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231202034100
+  - time: 20231203044000
     name: 汤水
-    amount: 150
+    amount: 100
     unit: ml
-  - time: 20231203040000
+  - time: 20231203050000
     name: 可可奶
-    amount: 80.5
+    amount: 91.0
     unit: ml
-  - time: 20231202043100
+  - time: 20231203052500
     name: 开水
-    amount: 50
+    amount: 100
     unit: ml
-  - time: 20231202063000
+  - time: 20231203073000
     name: 开水
     amount: 50
     unit: ml

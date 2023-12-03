@@ -5,55 +5,55 @@
 #### 膳食纤维
 
 菊粉、百香果、番石榴、香蕉、秋葵、木耳。
-1. 菊粉：https://shop245269337.taobao.com
-1. 麦片：http://shop33278606.taobao.com
-1. 木耳：
+* 菊粉：https://shop245269337.taobao.com
+* 麦片：http://shop33278606.taobao.com
+* 木耳：
   * https://13936608722.taobao.com
   * https://shop34396683.taobao.com 偶尔会有
-1. 益生菌： https://detail.1688.com/offer/727862457068.html
+* 益生菌： https://detail.1688.com/offer/727862457068.html
 
 
 #### 钙
 
 奶制品、使用硫酸钙的豆制品、黑芝麻。
 
-1. 奶制品：
+* 奶制品：
   * 海乳
   * https://shop553138580.taobao.com
   * 酸奶菌种: https://shop110908838.taobao.com
   * 酸奶菌种: https://shop583274885.taobao.com
-1. 豆制品：
+* 豆制品：
   * https://xiangdongqing.tmall.com
-1. 黑芝麻: https://baiyouli.taobao.com
-1. 小磨香油：崔字牌
+* 黑芝麻: https://baiyouli.taobao.com
+* 小磨香油：崔字牌
 
 #### 蛋白质
 
 鸡蛋、肉类、奶制品、豆制品。
 
-1. 猪肉：
+* 猪肉：
    * https://laojuantou.taobao.com
-1. 牛肉：
+* 牛肉：
    * 中粮安至选
-1. 兔肉：https://pengdashipin.tmall.com
-1. 鸡蛋：https://xdxfnc.tmall.com
-1. 小分子肽粉：https://detail.1688.com/offer/682986272737.html
+* 兔肉：https://pengdashipin.tmall.com
+* 鸡蛋：https://xdxfnc.tmall.com
+* 小分子肽粉：https://detail.1688.com/offer/682986272737.html
 
 #### 抗氧化
 
 番茄酱、辣木叶、麦胚芽、绞股蓝。
 
-1. 麦胚芽：https://fuzhiyuansp.tmall.com/category-1153328603.htm
-1. 番茄酱：
+* 麦胚芽：https://fuzhiyuansp.tmall.com/category-1153328603.htm
+* 番茄酱：
   * https://xiaochu.tmall.com
   * https://tunhe.tmall.com
   * https://guannonggufen.tmall.com
-1. 绞股蓝：https://yigengtang.taobao.com
+* 绞股蓝：https://yigengtang.taobao.com
 
 #### 蔬菜
 
-1. https://mnrj365.taobao.com
-1. 紫菜\海带：https://shop73332289.taobao.com
+* https://mnrj365.taobao.com
+* 紫菜\海带：https://shop73332289.taobao.com
 
 #### 主食
 
