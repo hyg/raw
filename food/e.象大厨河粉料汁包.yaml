@@ -1,0 +1,24 @@
+name: 象大厨河粉料汁包
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 27
+    unit: kj
+    nrv: 0
+  蛋白质:
+    amount: 0.8
+    unit: g
+    nrv: 1
+  脂肪:
+    amount: 0
+    unit: g
+    nrv: 0
+  碳水化合物:
+    amount: 0.8
+    unit: g
+    nrv: 0
+  钠:
+    amount: 1134
+    unit: mg
+    nrv: 57

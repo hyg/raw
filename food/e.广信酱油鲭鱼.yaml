@@ -1,0 +1,24 @@
+name: 广信酱油鲭鱼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 899
+    unit: kj
+    nrv: 11
+  蛋白质:
+    amount: 21.4
+    unit: g
+    nrv: 36
+  脂肪:
+    amount: 12.6
+    unit: g
+    nrv: 21
+  碳水化合物:
+    amount: 4
+    unit: g
+    nrv: 1
+  钠:
+    amount: 530
+    unit: mg
+    nrv: 27

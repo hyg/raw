@@ -1,0 +1,24 @@
+name: 象大厨河粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 485
+    unit: kj
+    nrv: 6
+  蛋白质:
+    amount: 3.7
+    unit: g
+    nrv: 6
+  脂肪:
+    amount: 5.8
+    unit: g
+    nrv: 10
+  碳水化合物:
+    amount: 12.2
+    unit: g
+    nrv: 4
+  钠:
+    amount: 476
+    unit: mg
+    nrv: 24

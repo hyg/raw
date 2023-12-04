@@ -1,0 +1,88 @@
+name: 尖椒
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 114
+    unit: kj
+    nrv: 1.6
+  蛋白质:
+    amount: 1.4
+    unit: g
+    nrv: 2.1
+  脂肪:
+    amount: 0.3
+    unit: g
+    nrv: 0.7
+  碳水化合物:
+    amount: 5.8
+    unit: g
+    nrv: 2.4
+  钠:
+    amount: 2
+    unit: mg
+    nrv: 0.1
+  膳食纤维:
+    amount: 2.1
+    unit: g
+    nrv: 7
+  VA(视黄醇等):
+    amount: 57
+    unit: μg
+    nrv: 7.1
+  VE(生育酚):
+    amount: 0.88
+    unit: mg
+    nrv: 6.3
+  VB1(硫胺素):
+    amount: 0.03
+    unit: mg
+    nrv: 2.1
+  VB2(核黄素):
+    amount: 0.04
+    unit: mg
+    nrv: 2.9
+  VB3(烟酸):
+    amount: 0.5
+    unit: mg
+    nrv: 3.6
+  VC(抗坏血酸):
+    amount: 62
+    unit: mg
+    nrv: 62
+  磷:
+    amount: 33
+    unit: mg
+    nrv: 4.6
+  钾:
+    amount: 209
+    unit: mg
+    nrv: 10.5
+  镁:
+    amount: 15
+    unit: mg
+    nrv: 4.5
+  钙:
+    amount: 15
+    unit: mg
+    nrv: 1.5
+  铁:
+    amount: 0.7
+    unit: mg
+    nrv: 5.8
+  锌:
+    amount: 0.22
+    unit: mg
+    nrv: 1.8
+  硒:
+    amount: 0.6
+    unit: μg
+    nrv: 1
+  铜:
+    amount: 0.11
+    unit: mg
+    nrv: 13.8
+  锰:
+    amount: 0.14
+    unit: mg
+    nrv: 3.1
