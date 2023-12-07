@@ -1,0 +1,224 @@
+date: 20231206
+food:
+  - time: 2023120604230
+    name: 香蕉
+    amount: 107.5
+    unit: g
+  - time: 20231206042500
+    name: 百香果
+    amount: 31.5
+    unit: g
+  - time: 20231206042700
+    name: 象大厨河粉
+    amount: 177.5
+    unit: g
+  - time: 20231206042700
+    name: 鱼籽
+    amount: 27.5
+    unit: g
+  - time: 20231206042700
+    name: 猪肝
+    amount: 5.6
+    unit: g
+  - time: 20231206042700
+    name: 绿豆芽
+    amount: 174.5
+    unit: g
+  - time: 20231206042700
+    name: 金锣精制培根
+    amount: 46.5
+    unit: g
+  - time: 20231206042700
+    name: 鲁晶低钠海盐
+    amount: 1.0
+    unit: g
+  - time: 20231206042700
+    name: 象大厨河粉料汁包
+    amount: 4.0
+    unit: g
+  - time: 20231206043600
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20231206043600
+    name: 杞里香头茬枸杞
+    amount: 5.0
+    unit: g
+  - time: 20231206043600
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20231206043600
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20231206044500
+    name: 山河全脂奶粉
+    amount: 15.0
+    unit: g
+  - time: 20231206044500
+    name: 凯兰牧场脱脂奶粉
+    amount: 5.0
+    unit: g
+  - time: 20231206044500
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20231206100000
+    name: 橙
+    amount: 126.0
+    unit: g
+  - time: 20231206100200
+    name: 陕富哈萨克斯坦强筋雪花粉
+    amount: 50.0
+    unit: g
+  - time: 20231206100200
+    name: 雁门清高苦荞粉
+    amount: 5.0
+    unit: g
+  - time: 20231206100200
+    name: 辣木叶粉
+    amount: 5.0
+    unit: g
+  - time: 20231206100200
+    name: 鸡腿肉
+    amount: 77
+    unit: g  
+  - time: 20231206100200
+    name: 阑绪新奥尔良烤翅腌料
+    amount: 1
+    unit: g
+  - time: 20231206100200
+    name: 西兰花
+    amount: 141.0
+    unit: g
+  - time: 20231206100200
+    name: 小白菜
+    amount: 164.0
+    unit: g
+  - time: 20231206100200
+    name: 鲁晶低钠海盐
+    amount: 1.0
+    unit: g
+  - time: 20231206100200
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20231206102100
+    name: 山河全脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231206102100
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231206154600
+    name: 柿子
+    amount: 146.5
+    unit: g  
+  - time: 20231206154900
+    name: 红薯
+    amount: 308.5
+    unit: g
+  - time: 20231206154900
+    name: 鸡蛋
+    amount: 41.0
+    unit: g  
+  - time: 20231206154900
+    name: 灰枣
+    amount: 31.0
+    unit: g
+  - time: 20231206154900
+    name: 大白菜
+    amount: 128.0
+    unit: g
+  - time: 20231206154900
+    name: 鲁晶低钠海盐
+    amount: 1.0
+    unit: g
+  - time: 20231206154900
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20231206154900
+    name: 香油
+    amount: 0.5
+    unit: g
+  - time: 20231206161400
+    name: 山河全脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231206161400
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231206161400
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20231206031300
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20231206040500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231206044500
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20231206045800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231206054000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231206063100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231206074800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231206083900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231206102100
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20231206121200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231206161400
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20231206173100
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20231206191000
+    name: 开水
+    amount: 50
+    unit: ml
+med:
+  - time: 20231206045800
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20231206045800
+    name: mature multi
+    amount: 1
+    unit: 片
+comment: |+
+  水煮猪肝：生重175.0克，熟重110.0克，折算比例12.5克熟重对应20克生重。
+  水煮黄鱼籽：生重243.0克，熟重230.0克。折算比例是熟重19克对应20克生重。
+  今天早餐鱼籽熟重26.0克，生重27.5克；猪肝熟重3.5克，生重5.6克。

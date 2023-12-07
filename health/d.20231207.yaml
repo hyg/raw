@@ -1,0 +1,48 @@
+date: 20231207
+sleep: 
+  time: 20231207194000
+  weight: 51.9
+wake:
+  time: 20231207034500
+  weight: 51.1
+  SpO2: 94
+  PRbpm: 60
+exercise: 
+- time: 20231207042000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 99
+  PRbpm: 84
+  endheartrate: 79
+- time: 20231207091300
+  item:
+  - type: walk
+    amount: 28
+    unit: minute
+  SpO2: 98
+  PRbpm: 112
+stool:
+- time: 20231207081200
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 2   #	1:不困难;	2:困难
+comment: |+
+  很快睡着，睡觉中间起来小便1次，补水1次，上颚后端发干发疼。醒来时体温较高、轻微出汗，心率略有提高，眼球发热发胀。
+  左上侧补牙处轻微发疼，牙龈也有些发炎，舌尖似乎溃疡，下巴的淋巴结仍然增大。
+  昨天开始左膝转动不顺，但还能走动。
+  起床后穿caxa运动长裤、厚长裤、短袖T恤、P棉背心、单外套、高帮靴、戴帽。
+  运动后把脉：关脉中偏浅、寸脉尺脉深度中；三处侧向居中；三处清晰有力。运动前心背吃力，运动后肩颈部发酸、头晕，左膝不能跪到脚跟。
+  室外运动穿羽绒裤、厚长裤、P棉背心、薄外套、棒球帽、薄手套。
+  运动后换穿P300抓绒长裤、厚外套。
+  

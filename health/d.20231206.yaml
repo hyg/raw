@@ -1,0 +1,47 @@
+date: 20231206
+sleep: 
+  time: 20231206174400
+  weight: 51.7
+wake:
+  time: 20231206030300
+  weight: 50.6
+  SpO2: 95
+  PRbpm: 64
+exercise: 
+- time: 20231206034000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 98
+  PRbpm: 78
+  endheartrate: 85
+- time: 20231206075900
+  item:
+  - type: walk
+    amount: 28
+    unit: minute
+  SpO2: 97
+  PRbpm: 109
+stool:
+- time: 20231206073000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 2   #	1:不困难;	2:困难
+comment: |+
+  很快睡着，睡觉中间起来小便1次，补水1次。醒来时体温较高、轻微出汗，心率略有提高。
+  这两天右下侧后牙和左下侧第二后牙的蛀点发疼，加上牙线刮到牙龈有些发炎，尤其左下巴的淋巴结增大。
+  起床后穿caxa运动长裤、厚长裤、短袖T恤、P棉背心、单外套、高帮靴、戴帽。
+  运动后把脉：寸脉浅、关脉中偏浅、尺脉深度中；寸脉中偏外、关脉尺脉侧向居中；寸脉关脉清晰有力、尺脉清晰。
+  室外运动穿运动护膝、厚长裤、薄外套、棒球帽、手套。
+  运动后换穿P300抓绒长裤、厚外套。
+  
