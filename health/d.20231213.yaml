@@ -1,0 +1,48 @@
+date: 20231213
+sleep: 
+  time: 20231212203600
+  weight: 52.2
+wake:
+  time: 20231213043500
+  weight: 51.3
+  SpO2: 96
+  PRbpm: 59
+exercise: 
+- time: 20231213051000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 99
+  PRbpm: 75
+  endheartrate: 79
+- time: 20231213141600
+  item:
+  - type: walk
+    amount: 34
+    unit: minute
+  SpO2: 94
+  PRbpm: 111
+stool:
+- time: 20231213102000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 2   #	1:不困难;	2:困难
+comment: |+
+  很快睡着，睡觉中间起来小便1次，补水1次。上颚左后端到鼻腔一线发干发疼，比昨天重。
+  起床后穿caxa运动长裤、厚长裤、短袖T恤、P棉背心、单外套、高帮靴、戴帽。
+  运动后把脉：寸脉关脉中偏浅、尺脉深度中；寸脉中偏外、关脉冲中偏外到中分布、尺脉侧向居中；三处都清晰有力。左膝发紧，半分钟后可以坐到脚后跟。
+  室内运动后加穿羽绒裤，把P棉背心和单外套换成厚外套，与室外运动后一样。
+  
+  今天暴雪橙色预警，没有出门。
+  早起只有上颚左侧后端发干，补水后正常，上午发干范围慢慢扩展到右侧和右鼻孔，有清鼻涕，口渴。
+  判断是干冷空气损害黏膜。
