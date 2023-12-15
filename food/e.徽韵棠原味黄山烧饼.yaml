@@ -1,0 +1,24 @@
+name: 徽韵棠原味黄山烧饼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2319
+    unit: kj
+    nrv: 28
+  蛋白质:
+    amount: 8.4
+    unit: g
+    nrv: 14
+  脂肪:
+    amount: 33.6
+    unit: g
+    nrv: 56
+  碳水化合物:
+    amount: 54.9
+    unit: g
+    nrv: 18
+  钠:
+    amount: 623
+    unit: mg
+    nrv: 31

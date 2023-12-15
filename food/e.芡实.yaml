@@ -24,7 +24,7 @@ element:
     nrv: 3
   钠:
     amount: 28
-    unit: g
+    unit: mg
     nrv: 1.9
   VB1(硫胺素):
     amount: 0.3
