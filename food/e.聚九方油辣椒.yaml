@@ -1,0 +1,24 @@
+name: 聚九方油辣椒
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 3113
+    unit: kj
+    nrv: 37
+  蛋白质:
+    amount: 5.4
+    unit: g
+    nrv: 9
+  脂肪:
+    amount: 73.7
+    unit: g
+    nrv: 123
+  碳水化合物:
+    amount: 17.3
+    unit: g
+    nrv: 6
+  钠:
+    amount: 518
+    unit: mg
+    nrv: 26

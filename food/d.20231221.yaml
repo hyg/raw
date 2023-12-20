@@ -1,0 +1,258 @@
+date: 20231221
+food:
+  - time: 20231221051700
+    name: 番石榴
+    amount: 248.0
+    unit: g
+  - time: 20231221051800
+    name: 陕富哈萨克斯坦强筋雪花粉
+    amount: 50.0
+    unit: g
+  - time: 20231221051800
+    name: 雁门清高苦荞粉
+    amount: 5.0
+    unit: g
+  - time: 20231221051800
+    name: 辣木叶粉
+    amount: 5.0
+    unit: g
+  - time: 20231221051800
+    name: 晟世孚众红烧肉
+    amount: 43.5
+    unit: g
+  - time: 20231221051800
+    name: 南瓜
+    amount: 63.0
+    unit: g
+  - time: 20231221051800
+    name: 西梅干
+    amount: 16.5
+    unit: g
+  - time: 20231221051800
+    name: 西兰花
+    amount: 168.0
+    unit: g
+  - time: 20231221051800
+    name: 鲁晶低钠海盐
+    amount: 0.5
+    unit: g
+  - time: 20231221053200
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20231221053200
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20231221053200
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20231221054400
+    name: 山河全脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231221054400
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+
+  - time: 20231221114900
+    name: 晋文斋沙棘原浆
+    amount: 45
+    unit: g
+  - time: 20231221114900
+    name: 番茄酱
+    amount: 30
+    unit: g
+  - time: 20231221114900
+    name: 胶原蛋白肽粉
+    amount: 3.0
+    unit: g
+
+  - time: 20231221062000
+    name: 猕猴桃
+    amount: 63
+    unit: g
+
+  - time: 20231221115500
+    name: 大米
+    amount: 40
+    unit: g
+  - time: 20231221115500
+    name: 黑青稞
+    amount: 10
+    unit: g
+  - time: 20231221115500
+    name: 紫米
+    amount: 10
+    unit: g
+  - time: 20231221115500
+    name: 血麦片
+    amount: 10
+    unit: g
+  - time: 20231221115500
+    name: 花生
+    amount: 5
+    unit: g
+  - time: 20231221115500
+    name: 枸杞
+    amount: 5
+    unit: g
+  - time: 20231221115500
+    name: 油菜
+    amount: 160
+    unit: g
+  - time: 20231221115500
+    name: 尖椒
+    amount: 80
+    unit: g
+  - time: 20231221115500
+    name: 鸡腿肉
+    amount: 72
+    unit: g
+  - time: 20231221115500
+    name: 阑绪新奥尔良烤翅腌料
+    amount: 1
+    unit: g
+  - time: 20231221115500
+    name: 鲁晶低钠海盐
+    amount: 1.0
+    unit: g
+  - time: 20231221115500
+    name: 油
+    amount: 1.0
+    unit: g
+
+  - time: 20231221121400
+    name: 山河全脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231221121400
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+
+  - time: 20231221164700
+    name: 柿子
+    amount: 145
+    unit: g
+
+  - time: 20231221165000
+    name: 土豆
+    amount: 160
+    unit: g
+  - time: 20231221165000
+    name: 山药豆
+    amount: 70
+    unit: g
+  - time: 20231221165000
+    name: 鸡蛋
+    amount: 31.5
+    unit: g
+  - time: 20231221165000
+    name: 南太湖鱼面筋
+    amount: 45
+    unit: g
+  - time: 20231221165000
+    name: 大白菜
+    amount: 150
+    unit: g
+  - time: 20231221165000
+    name: 鲁晶低钠海盐
+    amount: 1.0
+    unit: g
+  - time: 20231221165000
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20231221165000
+    name: 香油
+    amount: 1.0
+    unit: g
+
+  - time: 20231221171300
+    name: 山河全脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231221171300
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231221171300
+    name: 可可粉
+    amount: 4
+    unit: g
+water:
+  - time: 20231221041100
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20231221045800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231221054400
+    name: 咖啡
+    amount: 90.0
+    unit: ml
+  - time: 20231221070200
+    name: 开水
+    amount: 250
+    unit: ml
+
+  - time: 20231221072600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231221080000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231221090500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231221092900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231221103000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231221121400
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20231221123500
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20231221135300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231221165000
+    name: 汤水
+    amount: 400
+    unit: ml
+  - time: 20231221171300
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20231221175500
+    name: 开水
+    amount: 120
+    unit: ml
+med:
+  - time: 20231221070200
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20231221070200
+    name: mature multi
+    amount: 1
+    unit: 片
+comment: |+
+  南瓜先蒸五分钟，加入西兰花之后再蒸两分钟。

@@ -1,0 +1,245 @@
+date: 20231218
+food:
+  - time: 20231218062300
+    name: 香蕉
+    amount: 35.5
+    unit: g
+  - time: 20231218062400
+    name: 百香果
+    amount: 50.5
+    unit: g
+  - time: 20231218062900
+    name: 陕富哈萨克斯坦强筋雪花粉
+    amount: 50.0
+    unit: g
+  - time: 20231218062900
+    name: 雁门清高苦荞粉
+    amount: 5.0
+    unit: g
+  - time: 20231218062900
+    name: 辣木叶粉
+    amount: 5.0
+    unit: g
+  - time: 20231218062900
+    name: 鱼籽
+    amount: 30.0
+    unit: g
+  - time: 20231218062900
+    name: 猪肝
+    amount: 16.1
+    unit: g
+  - time: 20231218062900
+    name: 南瓜
+    amount: 83.0
+    unit: g
+  - time: 20231218062900
+    name: 西兰花
+    amount: 108.0
+    unit: g
+  - time: 20231218062900
+    name: 洋葱
+    amount: 76.5
+    unit: g
+  - time: 20231218062900
+    name: 豆瓣酱
+    amount: 3.0
+    unit: g
+  - time: 20231218064400
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20231218064400
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20231218064400
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20231218065300
+    name: 山河全脂奶粉
+    amount: 15.0
+    unit: g
+  - time: 20231218065300
+    name: 凯兰牧场脱脂奶粉
+    amount: 5.0
+    unit: g
+  - time: 20231218113700
+    name: 晋文斋沙棘原浆
+    amount: 36.5
+    unit: g
+  - time: 20231218113700
+    name: 臻妍益生菌冻干粉
+    amount: 3.0
+    unit: g
+  - time: 20231218113700
+    name: 胶原蛋白肽粉
+    amount: 3.0
+    unit: g
+  - time: 20231218113900
+    name: 金桔
+    amount: 93.5
+    unit: g
+  - time: 20231218114300
+    name: 大米
+    amount: 60.0
+    unit: g
+  - time: 20231218114300
+    name: 胡萝卜
+    amount: 156.5
+    unit: g
+  - time: 20231218114300
+    name: 鸡腿肉
+    amount: 72
+    unit: g
+  - time: 20231218114300
+    name: 阑绪新奥尔良烤翅腌料
+    amount: 1
+    unit: g
+  - time: 20231218114300
+    name: 韩三顺辣白菜
+    amount: 30.0
+    unit: g
+  - time: 20231218114300
+    name: 枸杞
+    amount: 5.0
+    unit: g
+  - time: 20231218114300
+    name: 番茄酱
+    amount: 31.0
+    unit: g
+  - time: 20231218114300
+    name: 豆瓣酱
+    amount: 5.0
+    unit: g
+  - time: 20231218114300
+    name: 姜
+    amount: 6.0
+    unit: g
+  - time: 20231218114300
+    name: 木耳
+    amount: 10.0
+    unit: g
+  - time: 20231218114300
+    name: 油菜
+    amount: 201.0
+    unit: g
+  - time: 20231218114300
+    name: 鲁晶低钠海盐
+    amount: 0.5
+    unit: g
+  - time: 20231218114300
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20231218120200
+    name: 山河全脂奶粉
+    amount: 15.0
+    unit: g
+  - time: 20231218120200
+    name: 凯兰牧场脱脂奶粉
+    amount: 5.0
+    unit: g
+  - time: 20231218173300
+    name: 冬日红薯粉条
+    amount: 69.0
+    unit: g
+  - time: 20231218173300
+    name: 聚九方特鲜酱油
+    amount: 13.0
+    unit: g
+  - time: 20231218173300
+    name: 聚九方油辣椒
+    amount: 26.0
+    unit: g
+  - time: 20231218173300
+    name: 聚九方花生碎
+    amount: 21.0
+    unit: g
+  - time: 20231218173300
+    name: 聚九方炒芽菜
+    amount: 18.5
+    unit: g
+  - time: 20231218173300
+    name: 大白菜
+    amount: 72.0
+    unit: g
+  - time: 20231218175300
+    name: 伊卡浓72%臻黑巧克力
+    amount: 5
+    unit: g
+water:
+  - time: 20231218045700
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20231218060100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231218065300
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20231218071400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231218073800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231218083800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231218084900
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20231218093900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231218102600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231218120200
+    name: 咖啡
+    amount: 81.0
+    unit: ml
+  - time: 20231218133700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231218145600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231218155600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231218175000
+    name: 汤水
+    amount: 150
+    unit: ml
+  - time: 20231218182300
+    name: 开水
+    amount: 100
+    unit: ml
+med:
+  - time: 20231218071400
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20231218071400
+    name: mature multi
+    amount: 1
+    unit: 片
+comment: |+
+  水煮猪肝：生重154.5克，熟重100.5克。
+  水煮黄鱼籽：生重246.0克，熟重233.5克。
+  今天晚餐猪肝熟重10.5克，生重16.1克。
+  今天早餐鱼籽熟重28.5克，生重30.0克。

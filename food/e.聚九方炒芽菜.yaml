@@ -1,0 +1,24 @@
+name: 聚九方炒芽菜
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 712
+    unit: kj
+    nrv: 8
+  蛋白质:
+    amount: 4.9
+    unit: g
+    nrv: 8
+  脂肪:
+    amount: 7.1
+    unit: g
+    nrv: 12
+  碳水化合物:
+    amount: 21.6
+    unit: g
+    nrv: 7
+  钠:
+    amount: 3788
+    unit: mg
+    nrv: 189
