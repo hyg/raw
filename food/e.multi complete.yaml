@@ -1,0 +1,100 @@
+name: multi complete
+amount: 1
+unit: 片
+element:
+  VA(视黄醇等):
+    amount: 400
+    unit: µg
+    nrv: 50
+  VB1(硫胺素):
+    amount: 4.2
+    unit: mg
+    nrv: 350
+  VB2(核黄素):
+    amount: 4.6
+    unit: mg
+    nrv: 354
+  VB3(烟酸):
+    amount: 16
+    unit: mg
+    nrv: 100
+  VB5(泛酸):
+    amount: 12.5
+    unit: mg
+    nrv: 250
+  VB6(吡哆素):
+    amount: 5.5
+    unit: mg
+    nrv: 423
+  VB9(叶酸):
+    amount: 400
+    unit: µg
+    nrv: 100
+  VB12(钴胺素):
+    amount: 12
+    unit: µg
+    nrv: 500
+  VC(抗坏血酸):
+    amount: 180
+    unit: mg
+    nrv: 200
+  VD3(胆钙化醇):
+    amount: 20
+    unit: µg
+    nrv: 400
+  VE(生育酚):
+    amount: 26.8
+    unit: mg
+    nrv: 179
+  VK(凝血维生素):
+    amount: 120
+    unit: µg
+    nrv: 100
+  生物素:
+    amount: 54
+    unit: µg
+    nrv: 180
+  钙:
+    amount: 200
+    unit: mg
+    nrv: 20
+  铬:
+    amount: 35
+    unit: μg
+    nrv: 117
+  铜:
+    amount: 0.9
+    unit: mg
+    nrv: 113
+  碘:
+    amount: 150
+    unit: µg
+    nrv: 125
+  铁:
+    amount: 6
+    unit: mg
+    nrv: 50
+  镁:
+    amount: 84
+    unit: mg
+    nrv: 25
+  锰:
+    amount: 5.5
+    unit: mg
+    nrv: 122
+  硒:
+    amount: 55
+    unit: µg
+    nrv: 92
+  锌:
+    amount: 11
+    unit: mg
+    nrv: 88
+  番茄红素:
+    amount: 600
+    unit: µg
+    nrv: 0
+  叶黄素:
+    amount: 1000
+    unit: µg
+    nrv: 0

@@ -1,0 +1,49 @@
+date: 20231222
+sleep: 
+  time: 20231221184600
+  weight: 53.1
+wake:
+  time: 20231222040000
+  weight: 51.6
+  SpO2: 96
+  PRbpm: 61
+exercise: 
+- time: 20231222043500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 99
+  PRbpm: 80
+  endheartrate: 82
+- time: 20231222150500
+  item:
+  - type: walk
+    amount: 32
+    unit: minute
+  SpO2: 98
+  PRbpm: 111
+stool:
+- time: 20231222064500
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  昨天18:46上床很快睡着，今早3点多自然醒，4:00起床。睡觉中间起来小便2次，没有补水。
+  醒来后喉头和气管、左肺略发痒、有痰咳不出来、也咽不下去，偶尔有咳嗽冲动。鼻腔和上颚发干不明显、鼻孔干燥通畅。起床前有饥饿感，但肠胃蠕动不明显。
+  运动后把脉：关脉中偏浅、尺脉寸脉深度中；三处侧向居中；关脉清晰有力、尺脉清晰、寸脉模糊。
+  室内运动后在左云门加了一块取暖贴，早餐后喉头有痰发痒，鼻腔干燥通畅。拉紧背心和厚外套的衣领，保持温度。
+  午饭时喉头和气管、肺都没有明显感觉，甚至比起床前还好。
+  
+  起床后穿caxa运动长裤、厚长裤、短袖T恤、厚外套、高帮靴、戴帽。
+  室内运动后加穿羽绒裤、P棉背心。
+  室外运动把厚外套换成薄外套，回到室内再换回。

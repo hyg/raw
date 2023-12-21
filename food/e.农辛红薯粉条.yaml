@@ -1,0 +1,24 @@
+name: 农辛红薯粉条
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1458
+    unit: kj
+    nrv: 17
+  蛋白质:
+    amount: 0
+    unit: g
+    nrv: 0
+  脂肪:
+    amount: 0
+    unit: g
+    nrv: 0
+  碳水化合物:
+    amount: 85.2
+    unit: g
+    nrv: 28
+  钠:
+    amount: 12
+    unit: mg
+    nrv: 1

@@ -56,132 +56,125 @@ food:
     name: 凯兰牧场脱脂奶粉
     amount: 10.0
     unit: g
-
-  - time: 20231221114900
+  - time: 20231221114000
     name: 晋文斋沙棘原浆
-    amount: 45
+    amount: 38.0
     unit: g
-  - time: 20231221114900
+  - time: 20231221114000
     name: 番茄酱
-    amount: 30
+    amount: 31.0
     unit: g
-  - time: 20231221114900
+  - time: 20231221114000
     name: 胶原蛋白肽粉
     amount: 3.0
     unit: g
-
-  - time: 20231221062000
+  - time: 20231221114300
     name: 猕猴桃
-    amount: 63
+    amount: 75.0
     unit: g
-
-  - time: 20231221115500
+  - time: 20231221114500
     name: 大米
-    amount: 40
+    amount: 40.0
     unit: g
-  - time: 20231221115500
+  - time: 20231221114500
     name: 黑青稞
-    amount: 10
+    amount: 10.0
     unit: g
-  - time: 20231221115500
+  - time: 20231221114500
     name: 紫米
-    amount: 10
+    amount: 10.0
     unit: g
-  - time: 20231221115500
+  - time: 20231221114500
     name: 血麦片
-    amount: 10
+    amount: 10.0
     unit: g
-  - time: 20231221115500
+  - time: 20231221114500
     name: 花生
-    amount: 5
+    amount: 5.0
     unit: g
-  - time: 20231221115500
+  - time: 20231221114500
     name: 枸杞
-    amount: 5
+    amount: 5.0
     unit: g
-  - time: 20231221115500
+  - time: 20231221114500
     name: 油菜
-    amount: 160
+    amount: 170.5
     unit: g
-  - time: 20231221115500
-    name: 尖椒
-    amount: 80
+  - time: 20231221114500
+    name: 小白菜
+    amount: 76.5
     unit: g
-  - time: 20231221115500
+  - time: 20231221114500
     name: 鸡腿肉
     amount: 72
     unit: g
-  - time: 20231221115500
+  - time: 20231221114500
     name: 阑绪新奥尔良烤翅腌料
     amount: 1
     unit: g
-  - time: 20231221115500
+  - time: 20231221114500
     name: 鲁晶低钠海盐
-    amount: 1.0
+    amount: 0.5
     unit: g
-  - time: 20231221115500
+  - time: 20231221114500
     name: 油
-    amount: 1.0
+    amount: 0.5
     unit: g
-
-  - time: 20231221121400
+  - time: 20231221121200
     name: 山河全脂奶粉
     amount: 10.0
     unit: g
-  - time: 20231221121400
+  - time: 20231221121200
     name: 凯兰牧场脱脂奶粉
     amount: 10.0
     unit: g
-
-  - time: 20231221164700
+  - time: 20231221174800
     name: 柿子
-    amount: 145
+    amount: 148.5
     unit: g
-
-  - time: 20231221165000
+  - time: 20231221175200
     name: 土豆
-    amount: 160
+    amount: 158.5
     unit: g
-  - time: 20231221165000
+  - time: 20231221175200
     name: 山药豆
-    amount: 70
+    amount: 70.5
     unit: g
-  - time: 20231221165000
+  - time: 20231221175200
     name: 鸡蛋
-    amount: 31.5
+    amount: 32.0
     unit: g
-  - time: 20231221165000
+  - time: 20231221175200
     name: 南太湖鱼面筋
-    amount: 45
+    amount: 41.0
     unit: g
-  - time: 20231221165000
+  - time: 20231221175200
     name: 大白菜
-    amount: 150
+    amount: 128.5
     unit: g
-  - time: 20231221165000
+  - time: 20231221175200
     name: 鲁晶低钠海盐
-    amount: 1.0
+    amount: 2.0
     unit: g
-  - time: 20231221165000
+  - time: 20231221175200
     name: 鲜味王
     amount: 0.5
     unit: g
-  - time: 20231221165000
+  - time: 20231221175200
     name: 香油
-    amount: 1.0
+    amount: 0.5
     unit: g
-
-  - time: 20231221171300
+  - time: 20231221181500
     name: 山河全脂奶粉
     amount: 10.0
     unit: g
-  - time: 20231221171300
+  - time: 20231221181500
     name: 凯兰牧场脱脂奶粉
     amount: 10.0
     unit: g
-  - time: 20231221171300
+  - time: 20231221181500
     name: 可可粉
-    amount: 4
+    amount: 4.0
     unit: g
 water:
   - time: 20231221041100
@@ -196,61 +189,68 @@ water:
     name: 咖啡
     amount: 90.0
     unit: ml
-  - time: 20231221070200
+  - time: 20231221061300
     name: 开水
     amount: 250
     unit: ml
-
-  - time: 20231221072600
+  - time: 20231221063800
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231221080000
+  - time: 20231221075900
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231221090500
+  - time: 20231221084800
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231221092900
+  - time: 20231221092000
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231221103000
+  - time: 20231221104200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231221121400
+  - time: 20231221121200
     name: 咖啡
     amount: 80.0
     unit: ml
-  - time: 20231221123500
-    name: 开水
-    amount: 200
-    unit: ml
-  - time: 20231221135300
+  - time: 20231221132400
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231221165000
-    name: 汤水
-    amount: 400
-    unit: ml
-  - time: 20231221171300
-    name: 可可奶
-    amount: 80.0
-    unit: ml
-  - time: 20231221175500
+  - time: 20231221141800
     name: 开水
-    amount: 120
+    amount: 250
+    unit: ml
+  - time: 20231221154600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231221175200
+    name: 汤水
+    amount: 200
+    unit: ml
+  - time: 20231221181500
+    name: 可可奶
+    amount: 80.5
+    unit: ml
+  - time: 20231221190400
+    name: 开水
+    amount: 50
+    unit: ml
+  - time: 20231221193500
+    name: 开水
+    amount: 100
     unit: ml
 med:
-  - time: 20231221070200
+  - time: 20231221061300
     name: selenium
     amount: 200
     unit: µg
-  - time: 20231221070200
+  - time: 20231221061300
     name: mature multi
     amount: 1
     unit: 片
