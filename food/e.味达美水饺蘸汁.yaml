@@ -1,0 +1,24 @@
+name: 味达美水饺蘸汁
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 230
+    unit: kj
+    nrv: 3
+  碳水化合物:
+    amount: 10.3
+    unit: g
+    nrv: 3
+  蛋白质:
+    amount: 3.2
+    unit: g
+    nrv: 5
+  脂肪:
+    amount: 0
+    unit: g
+    nrv: 0
+  钠:
+    amount: 2360
+    unit: mg
+    nrv: 118

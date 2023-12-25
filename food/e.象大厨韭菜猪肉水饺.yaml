@@ -1,0 +1,24 @@
+name: 象大厨韭菜猪肉水饺
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 848
+    unit: kj
+    nrv: 10
+  蛋白质:
+    amount: 7.7
+    unit: g
+    nrv: 13
+  脂肪:
+    amount: 8.3
+    unit: g
+    nrv: 14
+  碳水化合物:
+    amount: 24.1
+    unit: g
+    nrv: 8
+  钠:
+    amount: 454
+    unit: mg
+    nrv: 23
