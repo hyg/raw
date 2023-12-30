@@ -1,0 +1,12 @@
+name: 中盐低钠盐
+amount: 100
+unit: g
+element:
+  钠:
+    amount: 29488
+    unit: mg
+    nrv: 1474
+  钾:
+    amount: 6556
+    unit: mg
+    nrv: 328

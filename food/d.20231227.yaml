@@ -1,51 +1,49 @@
 date: 20231227
 food:
-  - time: 20231227065500
+  - time: 20231227065200
     name: 番石榴
-    amount: 340
+    amount: 246.0
     unit: g
-
-  - time: 20231227065800
+  - time: 20231227065500
     name: 陕富哈萨克斯坦强筋雪花粉
     amount: 50.0
     unit: g
-  - time: 20231227065800
+  - time: 20231227065500
     name: 雁门清高苦荞粉
     amount: 5.0
     unit: g
-  - time: 20231227065800
+  - time: 20231227065500
     name: 辣木叶粉
     amount: 5.0
     unit: g
-  - time: 20231227065800
-    name: seacoo海参
-    amount: 10.9
+  - time: 20231227065500
+    name: 鸡蛋
+    amount: 48.0
     unit: g
-  - time: 20231227065800
-    name: 晟世孚众红烧肉
-    amount: 20
-    unit: g
-  - time: 20231227065800
+  - time: 20231227065500
     name: 猪肝
-    amount: 20
+    amount: 19.2
     unit: g
-  - time: 20231227065800
+  - time: 20231227065500
     name: 南瓜
-    amount: 100
+    amount: 128.5
     unit: g
-  - time: 20231227065800
+  - time: 20231227065500
     name: 西梅干
-    amount: 20
+    amount: 17.0
     unit: g
-  - time: 20231227065800
+  - time: 20231227065500
     name: 西兰花
-    amount: 80
+    amount: 90.0
     unit: g
-  - time: 20231227065800
+  - time: 20231227065500
+    name: 豆瓣酱
+    amount: 3.0
+    unit: g
+  - time: 20231227065500
     name: 姜
-    amount: 3
+    amount: 3.0
     unit: g
-
   - time: 20231227071400
     name: 桑葚干
     amount: 10.0
@@ -58,176 +56,168 @@ food:
     name: 麦胚芽
     amount: 10.0
     unit: g
-
-  - time: 20231227072800
+  - time: 20231227072300
     name: 山河全脂奶粉
     amount: 10.0
     unit: g
-  - time: 20231227072800
+  - time: 20231227072300
     name: 凯兰牧场脱脂奶粉
     amount: 10.0
     unit: g
-
-  - time: 20231227120300
+  - time: 20231227121700
     name: 番茄酱
     amount: 31.0
     unit: g
-  - time: 20231227120300
+  - time: 20231227121700
     name: 胶原蛋白肽粉
-    amount: 3.0
+    amount: 2.5
     unit: g
-  - time: 20231227120300
+  - time: 20231227121700
     name: 臻妍益生菌冻干粉
-    amount: 3.0
+    amount: 2.5
     unit: g
-
-  - time: 20231227120500
+  - time: 20231227122000
     name: 香蕉
-    amount: 120
+    amount: 126.5
     unit: g
-
-  - time: 20231227120800
+  - time: 20231227122200
     name: 大米
-    amount: 35
+    amount: 30.0
     unit: g
-  - time: 20231227120800
+  - time: 20231227122200
     name: 黑青稞
-    amount: 10
+    amount: 10.0
     unit: g
-  - time: 20231227120800
+  - time: 20231227122200
     name: 紫米
-    amount: 10
+    amount: 10.0
     unit: g
-  - time: 20231227120800
+  - time: 20231227122200
     name: 血麦片
-    amount: 10
+    amount: 10.0
     unit: g
-  - time: 20231227120800
+  - time: 20231227122200
     name: 花生
-    amount: 5
+    amount: 5.0
     unit: g
-  - time: 20231227120800
+  - time: 20231227122200
     name: 芹菜
-    amount: 360
+    amount: 342.5
     unit: g
-  - time: 20231227120800
-    name: 鸡蛋
-    amount: 0
-    unit: g
-  - time: 20231227120800
+  - time: 20231227122200
     name: 松板肉
-    amount: 30
+    amount: 51.0
     unit: g
-  - time: 20231227120800
+  - time: 20231227122200
     name: 鲁晶低钠海盐
     amount: 0.5
     unit: g
-  - time: 20231227120800
-    name: 油
-    amount: 0
-    unit: g
-
-  - time: 20231227123600
+  - time: 20231227125500
     name: 山河全脂奶粉
     amount: 10.0
     unit: g
-  - time: 20231227123600
+  - time: 20231227125500
     name: 凯兰牧场脱脂奶粉
     amount: 10.0
     unit: g
-
-  - time: 20231227174700
+  - time: 20231227173700
     name: 金桔
-    amount: 105
+    amount: 98.0
     unit: g
-
-
-  - time: 20231227175300
+  - time: 20231227174300
     name: 农辛红薯粉条
-    amount: 60
+    amount: 56.0
     unit: g
-  - time: 20231227175300
+  - time: 20231227174300
     name: 邕味佳红油酸笋
-    amount: 50
+    amount: 53.5
     unit: g
-  - time: 20231227175300
+  - time: 20231227174300
     name: 邕味佳酸豆角
-    amount: 50
+    amount: 50.0
     unit: g
-  - time: 20231227175300
+  - time: 20231227174300
     name: 南太湖鱼面筋
-    amount: 80
+    amount: 61
     unit: g
-  - time: 20231227175300
-    name: 鸡蛋
-    amount: 50
+  - time: 20231227174300
+    name: seacoo海参
+    amount: 10.9
     unit: g
-  - time: 20231227175300
+  - time: 20231227174300
     name: 油菜
-    amount: 100
+    amount: 90.5
+    unit: g
+  - time: 20231227185500
+    name: 山河全脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231227185500
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231227185500
+    name: 可可粉
+    amount: 4.5
     unit: g
 water:
-  - time: 20231227055400
+  - time: 20231227055000
     name: 开水
     amount: 100
     unit: ml
-  - time: 20231227064400
+  - time: 20231227063600
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231227072800
+  - time: 20231227072300
     name: 咖啡
-    amount: 97.0
+    amount: 81.5
     unit: ml
   - time: 20231227074200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231227082900
+  - time: 20231227082400
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231227095600
+  - time: 20231227104000
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231227102400
+  - time: 20231227112200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231227123600
+  - time: 20231227125500
     name: 咖啡
-    amount: 83.0
+    amount: 80.5
     unit: ml
-  - time: 20231227143300
+  - time: 20231227141500
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231227151800
+  - time: 20231227151600
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231227170700
+  - time: 20231227165900
     name: 开水
     amount: 250
     unit: ml
-  - time: 20231227175300
+  - time: 20231227174300
     name: 汤水
-    amount: 200
+    amount: 500
     unit: ml
-  - time: 20231227181000
+  - time: 20231227185500
     name: 可可奶
-    amount: 80.0
+    amount: 80.5
     unit: ml
-  - time: 20231227183700
+  - time: 20231227202900
     name: 开水
-    amount: 100
+    amount: 160
     unit: ml
 med:
-  - time: 20231227074200
-    name: 维生素D3
-    amount: 125
-    unit: µg
   - time: 20231227074200
     name: selenium
     amount: 200
@@ -238,6 +228,6 @@ med:
     unit: 片
 comment: |+
   水煮猪肝沿用上一锅比例：生重154.5克，熟重100.5克。
-  今天晚餐猪肝熟重13.0克，生重20克。
+  今天晚餐猪肝熟重12.5克，生重19.2克。
 
   海参7根生重152.0克，泡发后每次半根，折算为生重10.9克。
