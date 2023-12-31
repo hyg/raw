@@ -1,0 +1,242 @@
+date: 20231231
+food:
+  - time: 20231231101200
+    name: 百香果
+    amount: 36.0
+    unit: g
+  - time: 20231231101500
+    name: 陕富哈萨克斯坦强筋雪花粉
+    amount: 50.0
+    unit: g
+  - time: 20231231101500
+    name: 雁门清高苦荞粉
+    amount: 5.0
+    unit: g
+  - time: 20231231101500
+    name: 辣木叶粉
+    amount: 5.0
+    unit: g
+  - time: 20231231101500
+    name: seacoo海参
+    amount: 10.9
+    unit: g
+  - time: 20231231101500
+    name: 晟世孚众红烧肉
+    amount: 30.0
+    unit: g
+  - time: 20231231101500
+    name: 南瓜
+    amount: 131.0
+    unit: g
+  - time: 20231231101500
+    name: 西兰花
+    amount: 86.5
+    unit: g
+  - time: 20231231101500
+    name: 姜
+    amount: 3.5
+    unit: g
+  - time: 20231231103300
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20231231103300
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20231231103300
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20231231104500
+    name: 山河全脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231231104500
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231231135100
+    name: 晋文斋沙棘原浆
+    amount: 24.0
+    unit: g
+  - time: 20231231135100
+    name: 番茄酱
+    amount: 30.0
+    unit: g
+  - time: 20231231135100
+    name: 胶原蛋白肽粉
+    amount: 3.0
+    unit: g
+  - time: 20231231135100
+    name: 菊粉
+    amount: 5.0
+    unit: g
+  - time: 20231231135400
+    name: 金桔
+    amount: 98.0
+    unit: g
+  - time: 20231231135900
+    name: 大米
+    amount: 40.0
+    unit: g
+  - time: 20231231135900
+    name: 黑青稞
+    amount: 10.0
+    unit: g
+  - time: 20231231135900
+    name: 紫米
+    amount: 10.0
+    unit: g
+  - time: 20231231135900
+    name: 血麦片
+    amount: 10.0
+    unit: g
+  - time: 20231231135900
+    name: 花生
+    amount: 3.0
+    unit: g
+  - time: 20231231135900
+    name: 芹菜
+    amount: 162.5
+    unit: g
+  - time: 20231231135900
+    name: 尖椒
+    amount: 134.5
+    unit: g
+  - time: 20231231135900
+    name: 鸡蛋
+    amount: 46.0
+    unit: g
+  - time: 20231231135900
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20231231135900
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20231231135900
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20231231142800
+    name: 山河全脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231231142800
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231231180500
+    name: 猕猴桃
+    amount: 79.0
+    unit: g
+  - time: 20231231180900
+    name: 象大厨生鲜细面
+    amount: 101.0
+    unit: g
+  - time: 20231231180900
+    name: 油菜
+    amount: 120.5
+    unit: g
+  - time: 20231231180900
+    name: 南太湖鱼面筋
+    amount: 59.5
+    unit: g
+  - time: 20231231180900
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20231231180900
+    name: 鲜味王
+    amount: 1.0
+    unit: g
+  - time: 20231231180900
+    name: 香油
+    amount: 1.0
+    unit: g
+  - time: 20231231182500
+    name: 伊卡浓72%臻黑巧克力
+    amount: 4.5
+    unit: g
+  - time: 20231231182500
+    name: 梅园居拖罗饼
+    amount: 42.0
+    unit: g
+  - time: 20231231183500
+    name: 山河全脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231231183500
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20231231183500
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20231231094100
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20231231095100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231231104500
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20231231105900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231231115000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231231123400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231231132300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231231142800
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20231231155300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231231172400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20231231180900
+    name: 汤水
+    amount: 200
+    unit: ml
+  - time: 20231231183500
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20231231194500
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20231231105900
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20231231105900
+    name: multi complete
+    amount: 1
+    unit: 片
+comment: |+
+  海参7根生重152.0克，泡发后每次半根，折算为生重10.9克。
