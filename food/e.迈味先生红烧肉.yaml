@@ -1,0 +1,24 @@
+name: 迈味先生红烧肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1070
+    unit: kj
+    nrv: 13
+  蛋白质:
+    amount: 22.3
+    unit: g
+    nrv: 37
+  脂肪:
+    amount: 18.2
+    unit: g
+    nrv: 30
+  碳水化合物:
+    amount: 1.0
+    unit: g
+    nrv: 0
+  钠:
+    amount: 790
+    unit: mg
+    nrv: 40

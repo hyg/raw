@@ -17,8 +17,8 @@ var etable = new Object();  // element data
 var ftable = new Object();  // food data
 // element detail tables
 //const Keyelement = "热量";
-//const Keyelement = "蛋白质";
-const Keyelement = "脂肪";
+const Keyelement = "蛋白质";
+//const Keyelement = "脂肪";
 //const Keyelement = "碳水化合物";
 //const Keyelement = "钠";
 //const Keyelement = "膳食纤维";
