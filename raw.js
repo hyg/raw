@@ -192,7 +192,6 @@ function showtables(){
         console.table(Detailtable);
     }
     
-
     console.log(">> 脂肪供能%d%%  碳水供能%d%%  蛋白质供能%d%% <<",(etable["脂肪"].amount*9.0*100/etable["热量"].amount).toFixed(2),(etable["碳水化合物"].amount*4*100/etable["热量"].amount).toFixed(2),(etable["蛋白质"].amount*4*100/etable["热量"].amount).toFixed(2));
     console.log("名称\t\t总数量\t\t日均\t单位\tNRV(%)");
     let keysSorted = Object.keys(etable).sort(function (a, b) { return etable[a].nrv - etable[b].nrv })
