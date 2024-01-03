@@ -1,0 +1,24 @@
+name: 象优选玉米猪肉水饺
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 960
+    unit: kj
+    nrv: 11
+  蛋白质:
+    amount: 8.7
+    unit: g
+    nrv: 15
+  脂肪:
+    amount: 7.3
+    unit: g
+    nrv: 12
+  碳水化合物:
+    amount: 31.9
+    unit: g
+    nrv: 11
+  钠:
+    amount: 288
+    unit: mg
+    nrv: 14
