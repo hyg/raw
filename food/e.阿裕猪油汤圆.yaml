@@ -1,0 +1,24 @@
+name: 阿裕猪油汤圆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1056
+    unit: kj
+    nrv: 13
+  蛋白质:
+    amount: 3.7
+    unit: g
+    nrv: 6
+  脂肪:
+    amount: 7.5
+    unit: g
+    nrv: 13
+  碳水化合物:
+    amount: 42.1
+    unit: g
+    nrv: 14
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0

@@ -1,0 +1,24 @@
+name: 呆呆菇娘红小豆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1313
+    unit: kj
+    nrv: 16
+  蛋白质:
+    amount: 20.2
+    unit: g
+    nrv: 34
+  脂肪:
+    amount: 0.6
+    unit: g
+    nrv: 1
+  碳水化合物:
+    amount: 55.7
+    unit: g
+    nrv: 19
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0

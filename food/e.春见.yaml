@@ -1,0 +1,93 @@
+name: 春见
+nickname: 柑橘
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 43
+    unit: kcal
+    nrv: 2
+  碳水化合物:
+    amount: 9.4
+    unit: g
+    nrv: 3
+  蛋白质:
+    amount: 0.9
+    unit: g
+    nrv: 2
+  脂肪:
+    amount: 0.3
+    unit: g
+    nrv: 0
+  钠:
+    amount: 1
+    unit: mg
+    nrv: 0
+  膳食纤维:
+    amount: 1.7
+    unit: g
+    nrv: 7
+  钙:
+    amount: 36
+    unit: mg
+    nrv: 4
+  铁:
+    amount: 0.4
+    unit: mg
+    nrv: 3
+  锌:
+    amount: 0.1
+    unit: mg
+    nrv: 1
+  VA(视黄醇等):
+    amount: 4
+    unit: µg
+    nrv: 0
+  胡萝卜素:
+    amount: 23
+    unit: µg
+    nrv: 0
+  β-胡萝卜素:
+    amount: 114
+    unit: µg
+    nrv: 0
+  VE(生育酚):
+    amount: 0.3
+    unit: mg
+    nrv: 2
+  VK(凝血维生素):
+    amount: 0
+    unit: µg
+    nrv: 0
+  VB1(硫胺素):
+    amount: 0.03
+    unit: mg
+    nrv: 2
+  VB2(核黄素):
+    amount: 0.04
+    unit: mg
+    nrv: 3
+  VB6(吡哆素):
+    amount: 0.06
+    unit: mg
+    nrv: 4
+  VB12(钴胺素):
+    amount: 0
+    unit: µg
+    nrv: 0
+  VB3(烟酸):
+    amount: 0.3
+    unit: mg
+    nrv: 2
+  VB9(叶酸):
+    amount: 30
+    unit: µg
+    nrv: 8
+  VB5(泛酸):
+    amount: 0.3
+    unit: mg
+    nrv: 4
+  VC(抗坏血酸):
+    amount: 28
+    unit: mg
+    nrv: 31
