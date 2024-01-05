@@ -169,7 +169,7 @@ water:
     name: 开水
     amount: 100
     unit: ml
-  - time: 2024010100400
+  - time: 20240104094000
     name: 开水
     amount: 250
     unit: ml
