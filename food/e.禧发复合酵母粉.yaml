@@ -1,0 +1,24 @@
+name: 禧发复合酵母粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1561
+    unit: kj
+    nrv: 19
+  蛋白质:
+    amount: 37.7
+    unit: g
+    nrv: 63
+  脂肪:
+    amount: 1.4
+    unit: g
+    nrv: 2
+  碳水化合物:
+    amount: 51.1
+    unit: g
+    nrv: 17
+  钠:
+    amount: 87
+    unit: mg
+    nrv: 4

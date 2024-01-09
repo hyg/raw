@@ -1,0 +1,24 @@
+name: 犇野馆陶黑小麦全麦粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1518
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 13.5
+    unit: g
+    nrv: 20
+  脂肪:
+    amount: 1.0
+    unit: g
+    nrv: 2
+  碳水化合物:
+    amount: 75.4
+    unit: g
+    nrv: 25
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0

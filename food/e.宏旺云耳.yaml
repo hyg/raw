@@ -1,0 +1,28 @@
+name: 宏旺云耳
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1380
+    unit: kj
+    nrv: 13
+  蛋白质:
+    amount: 12.2
+    unit: g
+    nrv: 20
+  脂肪:
+    amount: 1.6
+    unit: g
+    nrv: 3
+  碳水化合物:
+    amount: 65.6
+    unit: g
+    nrv: 21
+  钠:
+    amount: 48.5
+    unit: mg
+    nrv: 2
+  硒:
+    amount: 17
+    unit: μg
+    nrv: 28.3

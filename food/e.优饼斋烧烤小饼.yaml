@@ -15,9 +15,9 @@ element:
     unit: g
     nrv: 0
   碳水化合物:
-    amount: 58.4.8
+    amount: 58.4
     unit: g
-    nrv: 198
+    nrv: 19
   钠:
     amount: 596
     unit: mg
