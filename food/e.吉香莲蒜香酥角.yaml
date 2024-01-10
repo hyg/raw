@@ -1,0 +1,24 @@
+name: 吉香莲蒜香酥角
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2454
+    unit: kj
+    nrv: 29
+  蛋白质:
+    amount: 6.7
+    unit: g
+    nrv: 11
+  脂肪:
+    amount: 39.5
+    unit: g
+    nrv: 66
+  碳水化合物:
+    amount: 51.7
+    unit: g
+    nrv: 17
+  钠:
+    amount: 142
+    unit: mg
+    nrv: 7

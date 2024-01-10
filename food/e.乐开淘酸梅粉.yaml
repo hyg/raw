@@ -1,0 +1,24 @@
+name: 乐开淘酸梅粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1183
+    unit: kj
+    nrv: 14
+  蛋白质:
+    amount: 1.1
+    unit: g
+    nrv: 2
+  脂肪:
+    amount: 0
+    unit: g
+    nrv: 0
+  碳水化合物:
+    amount: 68.5
+    unit: g
+    nrv: 23
+  钠:
+    amount: 6250
+    unit: mg
+    nrv: 313
