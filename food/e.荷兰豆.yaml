@@ -1,0 +1,88 @@
+name: 荷兰豆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 123
+    unit: kj
+    nrv: 1.5
+  蛋白质:
+    amount: 2.5
+    unit: g
+    nrv: 3.8
+  脂肪:
+    amount: 0.3
+    unit: g
+    nrv: 0.7
+  碳水化合物:
+    amount: 4.9
+    unit: g
+    nrv: 2
+  膳食纤维:
+    amount: 1.4
+    unit: g
+    nrv: 4.7
+  钠:
+    amount: 9
+    unit: mg
+    nrv: 0.6
+  VA(视黄醇等):
+    amount: 80
+    unit: μg
+    nrv: 10
+  VE(生育酚):
+    amount: 0.3
+    unit: mg
+    nrv: 0.2
+  VB1(硫胺素):
+    amount: 0.09
+    unit: mg
+    nrv: 6.4
+  VB2(核黄素):
+    amount: 0.04
+    unit: mg
+    nrv: 2.9
+  VC(抗坏血酸):
+    amount: 16
+    unit: mg
+    nrv: 16
+  VB3(烟酸):
+    amount: 0.7
+    unit: mg
+    nrv: 4.7
+  磷:
+    amount: 19
+    unit: mg
+    nrv: 2.6
+  钾:
+    amount: 116
+    unit: mg
+    nrv: 5.8
+  镁:
+    amount: 16
+    unit: mg
+    nrv: 4.8
+  钙:
+    amount: 51
+    unit: mg
+    nrv: 5.1
+  铁:
+    amount: 0.9
+    unit: mg
+    nrv: 7.5
+  锌:
+    amount: 0.5
+    unit: mg
+    nrv: 4
+  硒:
+    amount: 0.4
+    unit: μg
+    nrv: 0.7
+  铜:
+    amount: 0.06
+    unit: mg
+    nrv: 7.5
+  锰:
+    amount: 0.48
+    unit: mg
+    nrv: 13.7

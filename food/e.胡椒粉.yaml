@@ -1,0 +1,80 @@
+name: 胡椒粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1511
+    unit: kj
+    nrv: 20
+  蛋白质:
+    amount: 9.6
+    unit: g
+    nrv: 14.8
+  脂肪:
+    amount: 2.2
+    unit: g
+    nrv: 4.9
+  碳水化合物:
+    amount: 76.9
+    unit: g
+    nrv: 31.5
+  膳食纤维:
+    amount: 2.3
+    unit: g
+    nrv: 7.7
+  钠:
+    amount: 5
+    unit: mg
+    nrv: 0.3
+  VA(视黄醇等):
+    amount: 10
+    unit: μg
+    nrv: 1.25
+  VB1(硫胺素):
+    amount: 0.09
+    unit: mg
+    nrv: 6.4
+  VB2(核黄素):
+    amount: 0.06
+    unit: mg
+    nrv: 4.3
+  VB3(烟酸):
+    amount: 1.8
+    unit: mg
+    nrv: 12.9
+  磷:
+    amount: 172
+    unit: mg
+    nrv: 23.9
+  钾:
+    amount: 154
+    unit: mg
+    nrv: 7.7
+  镁:
+    amount: 128
+    unit: mg
+    nrv: 38.8
+  钙:
+    amount: 2
+    unit: mg
+    nrv: 0.2
+  铁:
+    amount: 9.1
+    unit: mg
+    nrv: 75.8
+  锌:
+    amount: 1.23
+    unit: mg
+    nrv: 9.8
+  硒:
+    amount: 7.6
+    unit: μg
+    nrv: 12.7
+  铜:
+    amount: 0.32
+    unit: mg
+    nrv: 40
+  锰:
+    amount: 0.79
+    unit: mg
+    nrv: 22.6
