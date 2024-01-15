@@ -66,8 +66,8 @@ food:
     unit: g
   - time: 20240113161000
     name: 维生素C
-    amount: 0.5
-    unit: g
+    amount: 500
+    unit: mg
   - time: 20240113161000
     name: 小分子肽粉
     amount: 3

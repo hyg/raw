@@ -1,0 +1,195 @@
+date: 20240115
+food:
+  - time: 20240115121600
+    name: 番茄酱
+    amount: 31.0
+    unit: g
+  - time: 20240115121600
+    name: 小分子肽粉
+    amount: 3.0
+    unit: g
+  - time: 20240115122000
+    name: 番石榴
+    amount: 155.0
+    unit: g
+  - time: 20240115122200
+    name: 农辛红薯粉条
+    amount: 59.5
+    unit: g
+  - time: 20240115122200
+    name: seacoo海参
+    amount: 10.9
+    unit: g
+  - time: 20240115122200
+    name: 迈味先生红烧肉
+    amount: 41.0
+    unit: g
+  - time: 20240115122200
+    name: 南瓜
+    amount: 90.0
+    unit: g
+  - time: 20240115122200
+    name: 荷兰豆
+    amount: 109.0
+    unit: g
+  - time: 20240115123400
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240115123400
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240115123400
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20240115124500
+    name: 山河全脂奶粉
+    amount: 15.0
+    unit: g
+  - time: 20240115124500
+    name: 凯兰牧场脱脂奶粉
+    amount: 5.0
+    unit: g
+  - time: 20240115174000
+    name: 番茄酱
+    amount: 30.5
+    unit: g
+  - time: 20240115174000
+    name: 菊粉
+    amount: 10.0
+    unit: g
+  - time: 20240115174500
+    name: 香蕉
+    amount: 189.5
+    unit: g
+  - time: 20240115174800
+    name: 陕富哈萨克斯坦强筋雪花粉
+    amount: 25.0
+    unit: g
+  - time: 20240115174800
+    name: 犇野馆陶黑小麦全麦粉
+    amount: 25.0
+    unit: g
+  - time: 20240115174800
+    name: 雁门清高苦荞粉
+    amount: 5.0
+    unit: g
+  - time: 20240115174800
+    name: 辣木叶粉
+    amount: 5.0
+    unit: g
+  - time: 20240115174800
+    name: 大白菜
+    amount: 206.5
+    unit: g
+  - time: 20240115174800
+    name: 荷兰豆
+    amount: 128.0
+    unit: g
+  - time: 20240115174800
+    name: 鸡腿肉
+    amount: 71
+    unit: g
+  - time: 20240115174800
+    name: 阑绪新奥尔良烤翅腌料
+    amount: 1
+    unit: g
+  - time: 20240115174800
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240115181000
+    name: 山河全脂奶粉
+    amount: 15.0
+    unit: g
+  - time: 20240115181000
+    name: 凯兰牧场脱脂奶粉
+    amount: 5.0
+    unit: g
+water:
+  - time: 20240115110900
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20240115115700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240115124500
+    name: 咖啡
+    amount: 81.0
+    unit: ml
+  - time: 20240115130800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240115134100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240115143800
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20240115145500
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20240115154800
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20240115164700
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20240115181000
+    name: 咖啡
+    amount: 84.5
+    unit: ml
+  - time: 20240115185000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240115192000
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20240115194000
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20240115201300
+    name: 开水
+    amount: 100
+    unit: ml
+med:
+  - time: 20240115121600  
+    name: 蜜炼川贝枇杷膏
+    amount: 6.5
+    unit: mg
+  - time: 20240115130800
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20240115130800
+    name: multi complete
+    amount: 1
+    unit: 片
+  - time: 20240115130800
+    name: 银黄颗粒
+    amount: 4
+    unit: g
+  - time: 20240115174000  
+    name: 蜜炼川贝枇杷膏
+    amount: 8.5
+    unit: mg
+  - time: 20240115185000
+    name: 银黄颗粒
+    amount: 4
+    unit: g
+comment: |+
+  海参7根生重152.0克，泡发后每次半根，折算为生重10.9克。
+  鸡腿肉生重1kg有14块，折算每块71克。

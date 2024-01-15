@@ -1,0 +1,43 @@
+date: 20240115
+sleep: 
+  time: 20240115022200
+  weight: 52.9
+wake:
+  time: 20240115110000
+  weight: 51.5
+  SpO2: 95
+  PRbpm: 60
+exercise: 
+- time: 20240115124200
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 99
+  PRbpm: 79
+  endheartrate: 91
+stool:
+- time: 20240115195000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间起来小便1次、补水1次。有很轻微的咳嗽冲动。上颚和气管上端发干、吞咽发疼、醒来后有浓厚黏液脱落。起床体温36.1°C。
+  早起仗着手暖没戴手套备餐，结束时嗓子发痒有咳嗽冲动。
+  室内运动后把脉：关脉中偏浅、尺脉寸脉深度中；三处侧向居中；三处清晰有力。
+  早餐后右鼻孔发干，干燥无黏液覆盖。上颚右侧中后段发干。眼发干、眼球略发胀。左肺偶尔感到发闷，气管偶尔感到发痒、咳嗽，咳嗽时太阳穴轻微发胀，比昨天更明显。
+  大便用力时鼻腔黏液渗出加速。
+  
+  今天不安排室外运动。
+
+  起床后穿抓绒长裤、厚长裤、短袖polo、厚外套、高帮靴、戴帽。
+  室内运动后穿羽绒裤、P棉背心。加取暖鞋垫、左云门加大去暖贴。
