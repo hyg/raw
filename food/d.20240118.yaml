@@ -1,255 +1,264 @@
-date: 20240116
+date: 20240118
 food:
-  - time: 20240116140000
-    name: 番茄酱
-    amount: 31.0
-    unit: g
-  - time: 20240116140000
-    name: 小分子肽粉
-    amount: 3.0
-    unit: g
-  - time: 20240116140200
-    name: 番石榴
-    amount: 174.5
-    unit: g
-  - time: 20240116140700
-    name: 陕富哈萨克斯坦强筋雪花粉
-    amount: 25.0
-    unit: g
-  - time: 20240116140700
-    name: 犇野馆陶黑小麦全麦粉
-    amount: 25.0
-    unit: g
-  - time: 20240116140700
-    name: 雁门清高苦荞粉
-    amount: 5.0
-    unit: g
-  - time: 20240116140700
-    name: 辣木叶粉
-    amount: 5.0
-    unit: g
-  - time: 20240116140700
-    name: seacoo海参
-    amount: 10.9
-    unit: g
-  - time: 20240116140700
-    name: 迈味先生红烧肉
-    amount: 77.0
-    unit: g
-  - time: 20240116140700
-    name: 心果白果仁
-    amount: 9.5
-    unit: g
-  - time: 20240116140700
-    name: 南瓜
-    amount: 71.5
-    unit: g
-  - time: 20240116140700
-    name: 荷兰豆
-    amount: 127.5
-    unit: g
-  - time: 20240116142700
-    name: 桑葚干
-    amount: 10.0
-    unit: g
-  - time: 20240116142700
-    name: 亚麻籽
-    amount: 5.0
-    unit: g
-  - time: 20240116142700
-    name: 麦胚芽
-    amount: 10.0
-    unit: g
-  - time: 20240116150000
-    name: 山河全脂奶粉
-    amount: 10.0
-    unit: g
-  - time: 20240116150000
-    name: 凯兰牧场脱脂奶粉
-    amount: 10.0
-    unit: g
-  - time: 20240116175700
+  - time: 20240118150800
     name: 香蕉
-    amount: 129.5
+    amount: 263.5
     unit: g
-  - time: 20240116181100
+  - time: 20240118151500
     name: 番茄酱
-    amount: 30.5
+    amount: 31
     unit: g
-  - time: 20240116181100
-    name: 臻妍益生菌冻干粉
-    amount: 3.0
+  - time: 20240118151500
+    name: 小分子肽粉
+    amount: 3
     unit: g
-  - time: 20240116181400
-    name: 大米
-    amount: 40.0
-    unit: g
-  - time: 20240116181400
-    name: 紫米
-    amount: 10.0
-    unit: g
-  - time: 20240116181400
-    name: 旷野金农有机燕麦米
-    amount: 10.0
-    unit: g
-  - time: 20240116181400
-    name: 旷野金农有机玉米碴
-    amount: 10.0
-    unit: g
-  - time: 20240116181400
-    name: 绿豆
-    amount: 10.0
-    unit: g
-  - time: 20240116181400
-    name: 大白菜
-    amount: 199.5
-    unit: g
-  - time: 20240116181400
-    name: 荷兰豆
-    amount: 112.5
-    unit: g
-  - time: 20240116181400
-    name: 鸡蛋
-    amount: 53.0
-    unit: g
-  - time: 20240116181400
-    name: 中盐低钠盐
-    amount: 1.0
-    unit: g
-  - time: 20240116181400
-    name: 鲜味王
-    amount: 0.5
-    unit: g
-  - time: 20240116181400
-    name: 油
-    amount: 1.0
-    unit: g
-  - time: 20240116181000
-    name: 山河全脂奶粉
-    amount: 10.0
-    unit: g
-  - time: 20240116181000
-    name: 凯兰牧场脱脂奶粉
-    amount: 10.0
-    unit: g
-  - time: 20240116222200
-    name: 番茄酱
-    amount: 31.0
-    unit: g
-  - time: 20240116222200
+  - time: 20240118151500
     name: 维生素C
     amount: 500
     unit: mg
-  - time: 20240116222200
-    name: 菊粉
+  - time: 20240118151800
+    name: 陕富哈萨克斯坦强筋雪花粉
+    amount: 25.0
+    unit: 
+  - time: 20240118151800
+    name: 犇野馆陶黑小麦全麦粉
+    amount: 25.0
+    unit: 
+  - time: 20240118151800
+    name: 雁门清高苦荞粉
+    amount: 5.0
+    unit: 
+  - time: 20240118151800
+    name: 辣木叶粉
+    amount: 5.0
+    unit: 
+  - time: 20240118151800
+    name: 淮河红烧扣肉罐头
+    amount: 60.5
+    unit: 
+  - time: 20240118151800
+    name: 南瓜
+    amount: 50.5
+    unit: 
+  - time: 20240118151800
+    name: 西兰花
+    amount: 92.0
+    unit: g
+  - time: 20240118153000
+    name: 桑葚干
     amount: 10.0
     unit: g
-  - time: 20240116222500
-    name: 春见
-    amount: 110.5
+  - time: 20240118153000
+    name: 亚麻籽
+    amount: 5.0
     unit: g
-  - time: 20240116223000
-    name: 必品阁白菜猪肉王水饺
-    amount: 155.0
+  - time: 20240118153000
+    name: 麦胚芽
+    amount: 10.0
     unit: g
-  - time: 20240116223000
-    name: 大白菜
-    amount: 119.0
-    unit: g
-  - time: 20240116223000
-    name: 中盐低钠盐
-    amount: 1.0
-    unit: g
-  - time: 20240116223000
-    name: 鲜味王
-    amount: 0.5
-    unit: g
-  - time: 20240116223000
-    name: 香油
-    amount: 0.5
-    unit: g
-  - time: 20240116235500
+  - time: 20240118154500
     name: 山河全脂奶粉
     amount: 10.0
     unit: g
-  - time: 20240116235500
+  - time: 20240118154500
     name: 凯兰牧场脱脂奶粉
     amount: 10.0
     unit: g
-  - time: 20240116235500
+
+  - time: 20240118120800
+    name: 番石榴
+    amount: 130
+    unit: g
+
+  - time: 20240118172000
+    name: 番茄酱
+    amount: 30.0
+    unit: g
+  - time: 20240118172000
+    name: 臻妍益生菌冻干粉
+    amount: 3.0
+    unit: g
+
+  - time: 20240118172300
+    name: 大米
+    amount: 40.0
+    unit: g
+  - time: 20240118172300
+    name: 紫米
+    amount: 10.0
+    unit: g
+  - time: 20240118172300
+    name: 旷野金农有机燕麦米
+    amount: 10.0
+    unit: g
+  - time: 20240118172300
+    name: 旷野金农有机玉米碴
+    amount: 10.0
+    unit: g
+  - time: 20240118172300
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20240118172300
+    name: 胡萝卜
+    amount: 0
+    unit: g
+  - time: 20240118172300
+    name: 芹菜
+    amount: 180
+    unit: g
+  - time: 20240118172300
+    name: 荷兰豆
+    amount: 100
+    unit: g
+  - time: 20240118172300
+    name: 鸡蛋
+    amount: 95
+    unit: g
+  - time: 20240118172300
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240118172300
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20240118172300
+    name: 油
+    amount: 1.0
+    unit: g
+
+  - time: 20240118175300
+    name: 山河全脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240118175300
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+
+  - time: 20240118211700
+    name: 番茄酱
+    amount: 31.0
+    unit: g
+  - time: 20240118211700
+    name: 维生素C
+    amount: 500
+    unit: mg
+  - time: 20240118211700
+    name: 菊粉
+    amount: 10.0
+    unit: g
+
+  - time: 20240118211800
+    name: 春见
+    amount: 100
+    unit: g
+
+  - time: 20240118212200
+    name: 必品阁白菜猪肉王水饺
+    amount: 150
+    unit: g
+  - time: 20240118212200
+    name: 芥菜
+    amount: 150
+    unit: g
+  - time: 20240118212200
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240118212200
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20240118212200
+    name: 香油
+    amount: 0.5
+    unit: g
+  - time: 20240118212200
+    name: 姜
+    amount: 5.0
+    unit: g
+  - time: 20240118212200
+    name: 依恋油醋汁
+    amount: 6.0
+    unit: g
+
+  - time: 20240118222400
+    name: 山河全脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240118222400
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240118222400
     name: 可可粉
     amount: 4.0
     unit: g
 water:
-  - time: 20240116124100
+  - time: 20240118140700
     name: 开水
     amount: 100
     unit: ml
-  - time: 20240116134400
+  - time: 20240118145400
     name: 开水
-    amount: 300
+    amount: 250
     unit: ml
-  - time: 20240116150000
+  - time: 20240118154500
     name: 咖啡
-    amount: 80.5
+    amount: 81.5
     unit: ml
-  - time: 20240116151400
+  - time: 20240118160200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240116160100
-    name: 开水
-    amount: 200
-    unit: ml
-  - time: 20240116163200
+  - time: 20240118164600
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240116181000
+
+  - time: 20240118144000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240118161400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240118175300
     name: 咖啡
-    amount: 105.5
+    amount: 80.0
     unit: ml
-  - time: 20240116201100
+  - time: 20240118183300
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240116212000
+  - time: 20240118200900
     name: 开水
-    amount: 150
+    amount: 250
     unit: ml
-  - time: 20240116223000
+  - time: 20240118212200
     name: 汤水
-    amount: 350
+    amount: 600
     unit: ml
-  - time: 20240116235500
+  - time: 20240118222400
     name: 可可奶
     amount: 80.0
     unit: ml
-  - time: 20240117003200
+  - time: 20240118000600
     name: 开水
     amount: 150
     unit: ml
 med:
-  - time: 20240116140000  
-    name: 蜜炼川贝枇杷膏
-    amount: 8.0
-    unit: mg
-  - time: 20240116151400
-    name: 维生素D3
-    amount: 125
-    unit: µg
-  - time: 20240116151400
+  - time: 20240118160200
     name: selenium
     amount: 200
     unit: µg
-  - time: 20240116151400
+  - time: 20240118160200
     name: multi complete
     amount: 1
     unit: 片
-  - time: 20240116181000  
-    name: 蜜炼川贝枇杷膏
-    amount: 8.5
-    unit: mg
 comment: |+
   海参7根生重152.0克，泡发后每次半根，折算为生重10.9克。
   鸡腿肉生重1kg有14块，折算每块71克。
