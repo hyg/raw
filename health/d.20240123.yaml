@@ -1,0 +1,48 @@
+date: 20240123
+sleep: 
+  time: 20240123025300
+  weight: 52.5
+wake:
+  time: 20240123140000
+  weight: 51.3
+  SpO2: 96
+  PRbpm: 59
+exercise: 
+- time: 20240123143400
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 99
+  PRbpm: 80
+  endheartrate: 82
+- time: 20240123162600
+  item:
+  - type: walk
+    amount: 22
+    unit: minute
+  SpO2: 96
+  PRbpm: 127
+stool:
+- time: 20240123175000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间起来小便1次、没有补水。不再特意垫高，在普通仰卧哈气，气管近喉咙有点稀痰。
+  右侧下巴淋巴中心硬块仍然明显。扭颈、吞咽影响不明显，张嘴有轻微感觉扯动。
+  室内运动时，右下巴淋巴对重力感觉不明显，颈部动作范围基本恢复。
+  室内运动后把脉：关脉中偏浅、尺脉寸脉中等深度；三处侧向居中；关脉清晰有力、尺脉寸脉清晰。
+  今天低温大风，不安排室外运动。
+
+  起床后穿caxa运动长裤、厚长裤、短袖T恤、厚外套、高帮靴、戴帽。
+  室内运动后穿羽绒裤、P棉背心。左云门加大去暖贴。使用电热鞋套。
