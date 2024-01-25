@@ -1,0 +1,48 @@
+date: 20240124
+sleep: 
+  time: 20240124045500
+  weight: 52.7
+wake:
+  time: 20240124143200
+  weight: 51.7
+  SpO2: 95
+  PRbpm: 58
+exercise: 
+- time: 20240124150100
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 99
+  PRbpm: 78
+  endheartrate: 79
+- time: 20240124175700
+  item:
+  - type: walk
+    amount: 23
+    unit: minute
+  SpO2: 99
+  PRbpm: 113
+stool:
+- time: 20240124173500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间起来小便3次、没有补水。
+  右侧下巴淋巴仍然明显，肉眼看两侧已经接近对称。扭颈、吞咽、张嘴影响不明显，直接触碰也没有疼痛。
+  室内运动后把脉：关脉深度浅、尺脉中等深度、寸脉中偏深；三处侧向居中；关脉尺脉清晰有力、寸脉清晰。
+  室外运动擤鼻涕1次，温度正常、呼吸通畅。易暖堂发热鞋垫有硬纸衬，但还是从后跟位置向上翘出，磨脚，但比核信的相对硬一些。
+
+  起床后穿caxa运动长裤、厚长裤、长袖秋衣、厚外套、高帮靴、戴帽。
+  室内运动后穿羽绒裤、P棉背心。左云门加大取暖贴，双脚加发热鞋垫。
+  室外运动穿caxa运动长裤、空气层长裤、长袖秋衣、P棉背心、薄外套。
