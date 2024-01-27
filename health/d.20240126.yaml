@@ -1,0 +1,48 @@
+date: 20240126
+sleep: 
+  time: 20240126053400
+  weight: 52.8
+wake:
+  time: 20240126150000
+  weight: 51.6
+  SpO2: 96
+  PRbpm: 60
+exercise: 
+- time: 20240126153500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 99
+  PRbpm: 74
+  endheartrate: 79
+- time: 20240126185200
+  item:
+  - type: walk
+    amount: 28
+    unit: minute
+  SpO2: 99
+  PRbpm: 115
+stool:
+- time: 20240126181000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间起来小便2次、没有补水。
+  右侧下巴淋巴稍微涨大，周边肿胀基本消退。昨晚含服一片盐酸氨溴索之后，当时喉头还是有黏液覆盖，今早醒来时没有了，口鼻干燥通畅。
+  室内运动后把脉：关脉深度浅、尺脉寸脉中等深度；关脉中偏外、尺脉寸脉侧向居中；关脉尺脉清晰有力、寸脉清晰。
+  室外运动擤鼻涕2次，都是清鼻涕（疑似冷凝水）。到楼下血氧96、心率112，上楼到门口血氧99、心率115.
+
+  起床后穿德绒长裤、厚长裤、短袖polo、厚外套、高帮靴、戴帽。
+  室内运动后穿羽绒裤、P棉背心。左云门、气管中央各加小取暖贴，双脚用电热鞋套。
+  室外运动穿德绒长裤、空气层长裤、短袖polo、P棉背心、薄外套。

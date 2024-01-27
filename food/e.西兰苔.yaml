@@ -1,0 +1,24 @@
+name: 西兰苔
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 22
+    unit: kcal
+    nrv: 1.2
+  碳水化合物:
+    amount: 2.85
+    unit: g
+    nrv: 1.2
+  蛋白质:
+    amount: 3.17
+    unit: g
+    nrv: 4.9
+  脂肪:
+    amount: 0.49
+    unit: g
+    nrv: 1
+  膳食纤维:
+    amount: 2.7
+    unit: g
+    nrv: 9
