@@ -1,0 +1,24 @@
+name: 老安铺椰子味年糕
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1345
+    unit: kj
+    nrv: 16
+  蛋白质:
+    amount: 6.0
+    unit: g
+    nrv: 10
+  脂肪:
+    amount: 0.7
+    unit: g
+    nrv: 1
+  碳水化合物:
+    amount: 70.3
+    unit: g
+    nrv: 23
+  钠:
+    amount: 7
+    unit: mg
+    nrv: 0

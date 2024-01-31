@@ -1,0 +1,171 @@
+date: 20240129
+food:
+  - time: 20240129144000
+    name: 番石榴
+    amount: 141.0
+    unit: g
+  - time: 20240129144200
+    name: 犇野馆陶黑小麦全麦粉
+    amount: 50.0
+    unit: g
+  - time: 20240129144200
+    name: 雁门清高苦荞粉
+    amount: 5.0
+    unit: g
+  - time: 20240129144200
+    name: 辣木叶粉
+    amount: 5.0
+    unit: g
+  - time: 20240129144200
+    name: 晟世孚众红烧肉
+    amount: 39.0
+    unit: g
+  - time: 20240129144200
+    name: 韩三顺辣白菜
+    amount: 21.0
+    unit: g
+  - time: 20240129144200
+    name: 心果白果仁
+    amount: 10.5
+    unit: g
+  - time: 20240129144200
+    name: 南瓜
+    amount: 105.0
+    unit: g
+  - time: 20240129144200
+    name: 西兰苔
+    amount: 87.5
+    unit: g
+  - time: 20240129145400
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240129145400
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240129145400
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20240129080300
+    name: 山河全脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240129080300
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240129152000
+    name: 维生素C
+    amount: 500
+    unit: mg
+  - time: 20240129195300
+    name: 番茄酱
+    amount: 28.5
+    unit: g
+  - time: 20240129195300
+    name: 臻妍益生菌冻干粉
+    amount: 3.0
+    unit: g
+  - time: 20240129195300
+    name: 菊粉
+    amount: 10.0
+    unit: mg
+  - time: 20240129195500
+    name: 春见
+    amount: 89.5
+    unit: g
+  - time: 20240129200000
+    name: 红薯
+    amount: 463.14
+    unit: g
+  - time: 20240129200000
+    name: 菠菜
+    amount: 201.5
+    unit: g
+  - time: 20240129200000
+    name: 鸡蛋
+    amount: 45.0
+    unit: g
+  - time: 20240129193400
+    name: 白玉北豆腐
+    amount: 203.0
+    unit: g
+  - time: 20240129200000
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240129200000
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20240129200000
+    name: 香油
+    amount: 0.5
+    unit: g
+  - time: 20240129210000
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240129211300
+    name: 吉香莲蒜香酥角
+    amount: 17.5
+    unit: g
+water:
+  - time: 20240129133900
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20240129142500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240129080300
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20240129152000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240129160500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240129164500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240129180000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240129200000
+    name: 汤水
+    amount: 500
+    unit: ml
+  - time: 20240129210000
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240129212200
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20240130014100
+    name: 开水
+    amount: 100
+    unit: ml
+med:
+  - time: 20240129152000
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20240129152000
+    name: multi complete
+    amount: 1
+    unit: 片
+comment: |+
+  鸡腿肉生重1kg有14块，折算每块71克。
+  烤红薯生重868.0克，熟重700.0克。今天吃熟重373.5克，折算生重463.14克。

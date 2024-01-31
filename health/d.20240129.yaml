@@ -1,0 +1,47 @@
+date: 20240129
+sleep: 
+  time: 20240129000200
+  weight: 52.9
+wake:
+  time: 20240129132500
+  weight: 51.4
+  SpO2: 96
+  PRbpm: 57
+exercise: 
+- time: 20240129140000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: pilates.p55 
+    amount: 20 
+    unit: turn
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 98
+  PRbpm: 73
+  endheartrate: 79
+- time: 20240129182500
+  item:
+  - type: 胸肌训练入门L1
+    amount: 11
+    unit: minute
+  SpO2: 99
+  PRbpm: 110
+stool:
+- time: 20240129172500
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  一直到3点多才睡着，睡着前小便3次，喉咙略微发干但是没有补水。昨天室外运动遇到咳嗽的人，虽然尽量从非机动车道绕过，回来后还是觉得气管、做肺发痒，睡下后有轻微干嗽。
+  睡觉中间没有起来小便、没有补水。醒来时喉咙不觉得干，气管干燥通畅，不发痒。今天增加取暖贴，戴手套备餐洗碗。
+  室内运动后把脉：关脉深度浅、尺脉寸脉中等深度；三处侧向居中；关脉尺脉清晰有力、寸脉清晰。
+  因为昨天轻微咳嗽，今天不安排室外运动，改为胸肌训练入门L1。
+
+  起床后穿抓绒长裤、厚长裤、短袖T恤、厚外套、高帮靴、戴帽。
+  室内运动后穿羽绒裤、P棉背心。气管左侧加大取暖贴、双脚背放小取暖贴，饭后使用电热护脚。
