@@ -1,0 +1,234 @@
+date: 20240201
+food:
+  - time: 20240201144900
+    name: 番石榴
+    amount: 158.5
+    unit: g
+  - time: 20240201145200
+    name: 老安铺椰子味年糕
+    amount: 44.5
+    unit: g
+  - time: 20240201145200
+    name: 犇野馆陶黑小麦全麦粉
+    amount: 50.0
+    unit: g
+  - time: 20240201145200
+    name: 雁门清高苦荞粉
+    amount: 5.0
+    unit: g
+  - time: 20240201145200
+    name: 辣木叶粉
+    amount: 5.0
+    unit: g
+  - time: 20240201145200
+    name: 晟世孚众红烧肉
+    amount: 37.5
+    unit: g
+  - time: 20240201145200
+    name: 韩三顺辣白菜
+    amount: 19.0
+    unit: g
+  - time: 20240201145200
+    name: 心果白果仁
+    amount: 9.5
+    unit: g
+  - time: 20240201145200
+    name: 南瓜
+    amount: 100.0
+    unit: g
+  - time: 20240201145200
+    name: 西兰苔
+    amount: 127.0
+    unit: g
+  - time: 20240201151000
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240201151000
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240201151000
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20240201123900
+    name: 山河全脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240201123900
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240201123900
+    name: 小分子肽粉
+    amount: 2.5
+    unit: g
+  - time: 20240201201300
+    name: 番茄酱
+    amount: 29.0
+    unit: g
+  - time: 20240201201500
+    name: 春见
+    amount: 125.0
+    unit: g
+  - time: 20240201201800
+    name: 大米
+    amount: 40.0
+    unit: g
+  - time: 20240201201800
+    name: 紫米
+    amount: 10.0
+    unit: g
+  - time: 20240201201800
+    name: 旷野金农有机燕麦米
+    amount: 10.0
+    unit: g
+  - time: 20240201201800
+    name: 旷野金农有机玉米碴
+    amount: 10.0
+    unit: g
+  - time: 20240201201800
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20240201201800
+    name: 菠菜
+    amount: 173.5
+    unit: g
+  - time: 20240201201800
+    name: 胡萝卜
+    amount: 128.5
+    unit: g
+  - time: 20240201201800
+    name: 鸡蛋
+    amount: 96.0
+    unit: g
+  - time: 20240201201800
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240201201800
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20240201201800
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20240201180300
+    name: 山河全脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240201180300
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240202004900
+    name: 柚子
+    amount: 209.0
+    unit: g
+  - time: 20240202005300
+    name: 山药豆
+    amount: 109.5
+    unit: g
+  - time: 20240202010100
+    name: 大白菜
+    amount: 186.0
+    unit: g
+  - time: 20240202010100
+    name: 鸡蛋
+    amount: 50.0
+    unit: g
+  - time: 20240202010100
+    name: 枸杞
+    amount: 5.0
+    unit: g
+  - time: 20240202010100
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240202010100
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20240202010100
+    name: 香油
+    amount: 1.0
+    unit: g
+  - time: 20240202022000
+    name: 山河全脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240202022000
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240202022000
+    name: 可可粉
+    amount: 2.5
+    unit: g
+water:
+  - time: 20240201133400
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20240201142800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240201123900
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20240201153400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240201161600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240201165600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240201184300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240201204500
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20240201222700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240201225300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240202010100
+    name: 汤水
+    amount: 500
+    unit: ml
+  - time: 20240202022000
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20240202031300
+    name: 开水
+    amount: 150
+    unit: ml
+med:
+  - time: 20240201153400
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20240201153400
+    name: multi complete
+    amount: 1
+    unit: 片
+comment: |+
+  鸡腿肉生重1kg有14块，折算每块71克。

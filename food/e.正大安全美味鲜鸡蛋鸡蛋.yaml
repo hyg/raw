@@ -1,0 +1,76 @@
+name: 正大安全美味鲜鸡蛋
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 566
+    unit: kj
+    nrv: 7
+  蛋白质:
+    amount: 12.1
+    unit: g
+    nrv: 20
+  脂肪:
+    amount: 8.4
+    unit: g
+    nrv: 14
+  碳水化合物:
+    amount: 2.9
+    unit: g
+    nrv: 1
+  钠:
+    amount: 130
+    unit: mg
+    nrv: 6
+  胆固醇:
+    amount: 585
+    unit: mg
+    nrv: 195
+  VB1(硫胺素):
+    amount: 500
+    unit: mg
+    nrv: 3.57
+  VB2(核黄素):
+    amount: 110
+    unit: µg
+    nrv: 7.86
+  VB6(吡哆素):
+    amount: 29.999999999999996
+    unit: µg
+    nrv: 2.14
+  VE(生育酚):
+    amount: 4.98
+    unit: mg
+    nrv: 35.57
+  VB9(叶酸):
+    amount: 70.7
+    unit: µg
+    nrv: 17.68
+  钙:
+    amount: 44
+    unit: mg
+    nrv: 5.5
+  磷:
+    amount: 182
+    unit: mg
+    nrv: 26
+  钾:
+    amount: 121
+    unit: mg
+    nrv: 6.05
+  锌:
+    amount: 380
+    unit: µg
+    nrv: 2.53
+  铁:
+    amount: 1
+    unit: mg
+    nrv: 6.67
+  镁:
+    amount: 11
+    unit: mg
+    nrv: 3.67
+  硒:
+    amount: 13.83
+    unit: µg
+    nrv: 27.66

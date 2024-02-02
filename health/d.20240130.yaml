@@ -25,13 +25,6 @@ exercise:
   SpO2: 99
   PRbpm: 77
   endheartrate: 87
-- time: 20240130182500
-  item:
-  - type: 胸肌训练入门L1
-    amount: 11
-    unit: minute
-  SpO2: 99
-  PRbpm: 110
 stool:
 - time: 20240130180000
   amount:   2   #	1:多; 2:适中;	3:少

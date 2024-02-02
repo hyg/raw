@@ -1,0 +1,171 @@
+date: 20240202
+food:
+  - time: 20240202161100
+    name: 番石榴
+    amount: 124.0
+    unit: g
+  - time: 20240202161300
+    name: 老安铺椰子味年糕
+    amount: 28.0
+    unit: g
+  - time: 20240202161300
+    name: 犇野馆陶黑小麦全麦粉
+    amount: 50.0
+    unit: g
+  - time: 20240202161300
+    name: 雁门清高苦荞粉
+    amount: 5.0
+    unit: g
+  - time: 20240202161300
+    name: 辣木叶粉
+    amount: 5.0
+    unit: g
+  - time: 20240202161300
+    name: 晟世孚众红烧肉
+    amount: 40.0
+    unit: g
+  - time: 20240202161300
+    name: 韩三顺辣白菜
+    amount: 20.5
+    unit: g
+  - time: 20240202161300
+    name: 心果白果仁
+    amount: 9.5
+    unit: g
+  - time: 20240202161300
+    name: 南瓜
+    amount: 108.0
+    unit: g
+  - time: 20240202161300
+    name: 西兰苔
+    amount: 116.0
+    unit: g
+  - time: 20240202162900
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240202162900
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240202162900
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20240202170100
+    name: 山河全脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240202170100
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240202170100
+    name: 小分子肽粉
+    amount: 2.5
+    unit: g
+  - time: 20240202220200
+    name: 番茄酱
+    amount: 29.5
+    unit: g
+  - time: 20240202220200
+    name: 菊粉
+    amount: 10.0
+    unit: g
+  - time: 20240202220400
+    name: 春见
+    amount: 121.5
+    unit: g
+  - time: 20240202220700
+    name: 红薯
+    amount: 435.1
+    unit: g
+  - time: 20240202220700
+    name: 菠菜
+    amount: 161.0
+    unit: g
+  - time: 20240202220700
+    name: 胡萝卜
+    amount: 142.5
+    unit: g
+  - time: 20240202220700
+    name: 鸡蛋
+    amount: 107.0
+    unit: g
+  - time: 20240202220700
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240202220700
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20240202220700
+    name: 吉香莲蒜香酥角
+    amount: 18.5
+    unit: g
+  - time: 20240202220700
+    name: 吉香莲椰香酥角
+    amount: 8.0
+    unit: g
+  - time: 20240202224000
+    name: 山河全脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240202224000
+    name: 凯兰牧场脱脂奶粉
+    amount: 10.0
+    unit: g
+water:
+  - time: 20240202151100
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20240202155700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240202170100
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240202172800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240202175200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240202185500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240202194500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240202224000
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20240202234000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240203013400
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20240202172800
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20240202172800
+    name: multi complete
+    amount: 1
+    unit: 片
+comment: |+
+  红瑶蜜薯生重199.5克，熟重163.0克。
+  红天使蜜薯生重515.0克，熟重370.5克。今天吃熟重169.5克，折算生重235.6克。

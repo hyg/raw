@@ -1,0 +1,24 @@
+name: 脆兴隆花生碎
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2464
+    unit: kj
+    nrv: 29
+  蛋白质:
+    amount: 16.0
+    unit: g
+    nrv: 43
+  脂肪:
+    amount: 47
+    unit: g
+    nrv: 78
+  碳水化合物:
+    amount: 16.6
+    unit: g
+    nrv: 6
+  钠:
+    amount: 13
+    unit: mg
+    nrv: 1
