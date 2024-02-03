@@ -1,0 +1,28 @@
+name: 纯芝麻酱
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2530
+    unit: kj
+    nrv: 30
+  蛋白质:
+    amount: 21.8
+    unit: g
+    nrv: 36
+  脂肪:
+    amount: 51.6
+    unit: g
+    nrv: 86
+  碳水化合物:
+    amount: 14.7
+    unit: g
+    nrv: 5
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0
+  钙:
+    amount: 1170
+    unit: mg
+    nrv: 117

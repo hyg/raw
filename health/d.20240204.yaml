@@ -1,14 +1,14 @@
-date: 20240203
+date: 20240204
 sleep: 
-  time: 20240203045500
+  time: 20240204045500
   weight: 52.1
 wake:
-  time: 20240203160000
+  time: 20240204160000
   weight: 51.1
   SpO2: 95
   PRbpm: 56
 exercise: 
-- time: 20240203140500
+- time: 20240204140500
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -25,6 +25,13 @@ exercise:
   SpO2: 99
   PRbpm: 81
   endheartrate: 84
+- time: 20240204182500
+  item:
+  - type: 胸肌训练入门L1
+    amount: 11
+    unit: minute
+  SpO2: 99
+  PRbpm: 110
 stool:
 - time: 2024020401500
   amount:   2   #	1:多; 2:适中;	3:少

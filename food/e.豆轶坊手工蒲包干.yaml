@@ -1,0 +1,24 @@
+name: 豆轶坊手工蒲包干
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 659
+    unit: kj
+    nrv: 8
+  蛋白质:
+    amount: 18.3
+    unit: g
+    nrv: 30
+  脂肪:
+    amount: 6.1
+    unit: g
+    nrv: 10
+  碳水化合物:
+    amount: 7.2
+    unit: g
+    nrv: 2
+  钠:
+    amount: 423
+    unit: mg
+    nrv: 21
