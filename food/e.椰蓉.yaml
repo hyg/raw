@@ -1,0 +1,28 @@
+name: 椰蓉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2658
+    unit: kj
+    nrv: 32
+  蛋白质:
+    amount: 3.5
+    unit: g
+    nrv: 6
+  脂肪:
+    amount: 51.4
+    unit: g
+    nrv: 86
+  碳水化合物:
+    amount: 41.0
+    unit: g
+    nrv: 5
+  钠:
+    amount: 21
+    unit: mg
+    nrv: 1
+  钙:
+    amount: 1170
+    unit: mg
+    nrv: 117

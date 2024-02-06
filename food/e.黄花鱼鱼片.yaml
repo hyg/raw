@@ -1,0 +1,24 @@
+name: 黄花鱼鱼片
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 491
+    unit: kj
+    nrv: 6
+  蛋白质:
+    amount: 15.4
+    unit: g
+    nrv: 26
+  脂肪:
+    amount: 6.2
+    unit: g
+    nrv: 10
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  钠:
+    amount: 103
+    unit: mg
+    nrv: 5
