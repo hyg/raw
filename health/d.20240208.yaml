@@ -1,0 +1,54 @@
+date: 20240208
+sleep: 
+  time: 20240208100100
+  weight: 52.0
+wake:
+  time: 20240208173000
+  weight: 51.4
+  SpO2: 95
+  PRbpm: 62
+exercise: 
+- time: 20240208180000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: 超人敬礼*5 + 俯卧两头起(Superman exercise)*5 + 跪姿俯卧撑(kneeling push-ups)*5
+    amount: 2 
+    unit: set
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 99
+  PRbpm: 86
+  endheartrate: 84
+- time: 20240208233000
+  item:
+  - type:  跪姿俯卧撑(kneeling push-ups)*5
+    amount: 5
+    unit: set
+  SpO2: 96
+  PRbpm: 103
+- time: 20240209075500
+  item:
+  - type:  跪姿俯卧撑(kneeling push-ups)*5
+    amount: 5
+    unit: set
+  SpO2: 99
+  PRbpm: 110
+stool:
+- time: 20240208200500
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡着前、睡觉中间都没有起来小便，都没有补水。醒来时胸肌、手臂都没有感到发酸。
+  室内运动后把脉：关脉中偏浅、尺脉寸脉深度中；关脉中偏内、尺脉寸脉侧向居中；关脉尺脉清晰有力、寸脉清晰。
+  第一轮俯卧撑：各组结束心率是95、96、99、98、103次，恢复时间是：67、50、115、130、108秒。
+  第二轮俯卧撑：各组结束心率是97、86、95、100、110次，恢复时间是：98、34、43、34、58秒。
+
+  起床后穿caxa运动长裤、厚长裤、厚外套、高帮靴、戴帽。备餐时戴手套。
+  室内运动后穿羽绒裤、P棉背心，双脚踩大取暖贴。

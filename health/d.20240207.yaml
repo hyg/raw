@@ -1,46 +1,53 @@
 date: 20240207
 sleep: 
-  time: 20240207084300
-  weight: 52.3
+  time: 20240207105000
+  weight: 52.9
 wake:
-  time: 20240207194100
-  weight: 50.7
-  SpO2: 96
+  time: 20240207171000
+  weight: 51.8
+  SpO2: 95
   PRbpm: 60
 exercise: 
-- time: 20240207201000
+- time: 20240207173500
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
     unit: turn
-  - type: pilates.p55 
-    amount: 20 
-    unit: turn
+  - type: 超人敬礼*5 + 俯卧两头起(Superman exercise)*5 + 跪姿俯卧撑(kneeling push-ups)*5
+    amount: 2 
+    unit: set
   - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
     amount: 5
     unit: set
   - type: pilates.p79
     amount: 5
     unit: set
-  SpO2: 99
-  PRbpm: 83
-  endheartrate: 86
-- time: 20240207182500
+  SpO2: 97
+  PRbpm: 81
+  endheartrate: 83
+- time: 20240207210000
   item:
-  - type: 胸肌训练入门L1
-    amount: 11
-    unit: minute
+  - type:  跪姿俯卧撑(kneeling push-ups)*5
+    amount: 5
+    unit: set
+  SpO2: 97
+  PRbpm: 102
+- time: 20240208013000
+  item:
+  - type:  跪姿俯卧撑(kneeling push-ups)*5
+    amount: 3
+    unit: set
   SpO2: 99
-  PRbpm: 110
+  PRbpm: 96
 stool:
-- time: 20240207185900
+- time: 20240207195000
   amount:   1   #	1:多; 2:适中;	3:少
   type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 comment: |+
   睡着前起来小便1次，睡觉中间起来小便2次，都没有补水。
-  室内运动后把脉：关脉中偏浅、尺脉寸脉深度中；三处侧向居中；关脉尺脉清晰有力、寸脉清晰。
-  因为胸肌训练后肌肉还没有恢复，今天不安排室外运动。
+  室内运动后把脉：关脉中偏浅、尺脉深度中、寸脉中偏深；关脉中偏内、尺脉寸脉侧向居中；三处清晰有力。
+  因为胸肌训练后肌肉还没有恢复，今天不安排室外运动：每组5次跪姿俯卧撑，休息到心率80以下做下一组。前三组结束心率90+恢复比较快，第四组结束心率100+恢复较慢，第五组结束心率102但恢复较快。
 
-  起床后穿抓绒长裤、厚长裤、短袖T恤、厚外套、高帮靴、戴帽。备餐时戴手套。
-  室内运动后穿羽绒裤、P棉背心，加发热鞋垫。
+  起床后穿caxa运动长裤、厚长裤、厚外套、高帮靴、戴帽。备餐时戴手套。
+  室内运动后穿羽绒裤、P棉背心。饭后用电热鞋垫。

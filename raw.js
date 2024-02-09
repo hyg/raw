@@ -6,6 +6,7 @@ var child = require('child_process');
 
 // log and basic data
 var fmap = new Object();    // food log
+var rmap = new Object();    // recipe data
 var emap = new Object();    // element data
 var hmap = new Object();    // health log
 
@@ -85,6 +86,10 @@ function loadmap(){
     var startfilename = "d."+startdate+".yaml";
     var endfilename = "d."+enddate+".yaml";
 
+    // d.file is daily log.
+    // e.file is food data.
+            // food -> element
+            // food -> food
     try {
         fs.readdirSync("food").forEach(file => {
             if (file.substr(0, 2) == "d.") {
@@ -92,6 +97,11 @@ function loadmap(){
                     f = yaml.load(fs.readFileSync("food/" + file, 'utf8'));
                     fmap[f.date] = f;
                 }
+            }
+            if (file.substr(0, 2) == "r.") {
+                r = yaml.load(fs.readFileSync("food/" + file, 'utf8'));
+                rmap[r.name] = r;
+                recipe2element(r);
             }
             if (file.substr(0, 2) == "e.") {
                 e = yaml.load(fs.readFileSync("food/" + file, 'utf8'));

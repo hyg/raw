@@ -1,0 +1,234 @@
+date: 20240210
+food:
+  - time: 20240210180400
+    name: 龙丰果
+    amount: 75
+    unit: g
+
+  - time: 20240210180800
+    name: 犇野馆陶黑小麦全麦粉
+    amount: 50.0
+    unit: g
+  - time: 20240210180800
+    name: 雁门清高苦荞粉
+    amount: 5.0
+    unit: g
+  - time: 20240210180800
+    name: 辣木叶粉
+    amount: 5.0
+    unit: g
+  - time: 20240210180800
+    name: 脱骨肘子肉
+    amount: 40
+    unit: g
+  - time: 20240210180800
+    name: 邕味佳红油酸笋
+    amount: 15.0
+    unit: g
+  - time: 20240210180800
+    name: 心果白果仁
+    amount: 10
+    unit: g
+  - time: 20240210180800
+    name: 南瓜
+    amount: 100
+    unit: g
+  - time: 20240210180800
+    name: 西兰苔
+    amount: 85
+    unit: g
+
+  - time: 20240210182100
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240210182100
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240210182100
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+
+  - time: 20240210183300
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+
+  - time: 20240210224700
+    name: 番茄酱
+    amount: 29.5
+    unit: g
+  - time: 20240210224700
+    name: 菊粉
+    amount: 18.0
+    unit: g
+
+  - time: 20240210224900
+    name: 柿子
+    amount: 120
+    unit: g
+
+  - time: 20240210225200
+    name: 大米
+    amount: 30.0
+    unit: g
+  - time: 20240210225200
+    name: 紫米
+    amount: 10.0
+    unit: g
+  - time: 20240210225200
+    name: 旷野金农有机燕麦米
+    amount: 10.0
+    unit: g
+  - time: 20240210225200
+    name: 旷野金农有机玉米碴
+    amount: 10.0
+    unit: g
+  - time: 20240210225200
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20240210225200
+    name: 油菜
+    amount: 180
+    unit: g
+  - time: 20240210225200
+    name: 胡萝卜
+    amount: 120
+    unit: g
+  - time: 20240210225200
+    name: 黄花鱼鱼片
+    amount: 100
+    unit: g
+  - time: 20240210225200
+    name: 炸鸡裹粉
+    amount: 8
+    unit: g
+  - time: 20240210225200
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240210225200
+    name: 油
+    amount: 1.0
+    unit: g
+
+  - time: 20240210232900
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+
+  - time: 20240210030300
+    name: 胡柚
+    amount: 120
+    unit: g
+
+  - time: 20240210030700
+    name: 农辛红薯粉条
+    amount: 60
+    unit: g
+  - time: 20240210030700
+    name: 萝卜
+    amount: 200
+    unit: g
+  - time: 20240210030700
+    name: 腐竹
+    amount: 15
+    unit: g
+  - time: 20240210030700
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240210030700
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20240210030700
+    name: 香油
+    amount: 0.5
+    unit: g
+  - time: 20240210030700
+    name: 纯芝麻酱
+    amount: 10
+    unit: g
+  - time: 20240210030700
+    name: 邕味佳酸豆角
+    amount: 0
+    unit: g
+  - time: 20240210030700
+    name: 邕味佳红油酸笋
+    amount: 0
+    unit: g
+
+  - time: 20240210233000
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240210233000
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20240210170000
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20240210174800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240210183300
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20240210184600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240210193100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240210200900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240210211800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240210232900
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240210003800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240210021200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240210030700
+    name: 汤水
+    amount: 500
+    unit: ml
+  - time: 20240210044400
+    name: 开水
+    amount: 200
+    unit: ml
+med:
+  - time: 20240210184600
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20240210184600
+    name: multi complete
+    amount: 1
+    unit: 片
+comment: |+
+  老一批红薯是红天使和红瑶生重757.5克，熟重540.5克。
+  新一批红天使生重191.0克、熟重139.5克；哈密生重640.0克、熟重467.5克。今天吃红天使生重150.44克、熟重102克、哈密生重208.77克、熟重152.5克
+  今天烤鱼230°C+15分钟；烤红薯230°C+50分钟。
