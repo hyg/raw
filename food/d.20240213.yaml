@@ -1,132 +1,153 @@
-date: 20240212
+date: 20240213
 food:
-  - time: 20240212182000
+  - time: 20240213182000
     name: 龙丰果
-    amount: 67.5
+    amount: 70
     unit: g
-  - time: 20240212182500
+
+  - time: 20240213182500
     name: 犇野馆陶黑小麦全麦粉
     amount: 50.0
     unit: g
-  - time: 20240212182500
+  - time: 20240213182500
     name: 雁门清高苦荞粉
     amount: 5.0
     unit: g
-  - time: 20240212182500
+  - time: 20240213182500
     name: 辣木叶粉
     amount: 5.0
     unit: g
-  - time: 20240212182500
+  - time: 20240213182500
     name: 脱骨肘子肉
-    amount: 41.0
+    amount: 40
     unit: g
-  - time: 20240212182500
+  - time: 20240213182500
     name: 韩三顺辣白菜
-    amount: 21.5
+    amount: 20
     unit: g
-  - time: 20240212182500
+  - time: 20240213182500
     name: 心果白果仁
-    amount: 11.0
+    amount: 10
     unit: g
-  - time: 20240212182500
+  - time: 20240213182500
     name: 南瓜
-    amount: 92.5
+    amount: 95
     unit: g
-  - time: 20240212182500
+  - time: 20240213182500
     name: 西兰苔
-    amount: 77.5
+    amount: 80
     unit: g
-  - time: 20240212183900
+
+  - time: 20240213183900
     name: 桑葚干
     amount: 10.0
     unit: g
-  - time: 20240212183900
+  - time: 20240213183900
     name: 亚麻籽
     amount: 5.0
     unit: g
-  - time: 20240212183900
+  - time: 20240213183900
     name: 麦胚芽
     amount: 10.0
     unit: g
-  - time: 20240212185200
+
+  - time: 20240213185200
     name: 山河全脂奶粉
     amount: 20.0
     unit: g
-  - time: 20240212234000
+
+  - time: 20240213234000
     name: 番茄酱
-    amount: 29.5
+    amount: 30
     unit: g
-  - time: 20240212234000
+  - time: 20240213234000
     name: 菊粉
-    amount: 15.5
+    amount: 15
     unit: g
-  - time: 20240212234300
+
+  - time: 20240213234300
     name: 柿子
-    amount: 116.5
+    amount: 115
     unit: g
-  - time: 20240212234600
+
+  - time: 20240213234600
     name: 大米
     amount: 30.0
     unit: g
-  - time: 20240212234600
+  - time: 20240213234600
     name: 紫米
     amount: 10.0
     unit: g
-  - time: 20240212234600
+  - time: 20240213234600
     name: 旷野金农有机燕麦米
     amount: 10.0
     unit: g
-  - time: 20240212234600
+  - time: 20240213234600
     name: 旷野金农有机玉米碴
     amount: 10.0
     unit: g
-  - time: 20240212234600
+  - time: 20240213234600
     name: 绿豆
     amount: 10.0
     unit: g
-  - time: 20240212234600
+  - time: 20240213234600
     name: 芹菜
-    amount: 181.5
+    amount: 200
     unit: g
-  - time: 20240212234600
+  - time: 20240213234600
     name: 杏鲍菇
-    amount: 162.0
+    amount: 100
     unit: g
-  - time: 20240212234600
+  - time: 20240213234600
     name: 鸡腿肉
     amount: 71
     unit: g
-  - time: 20240212234600
+  - time: 20240213234600
+    name: 奶酪
+    amount: 10
+    unit: g
+  - time: 20240213234600
     name: 炸鸡裹粉
     amount: 4.5
     unit: g
-  - time: 20240212234600
+  - time: 20240213234600
     name: 阑绪新奥尔良烤翅腌料
     amount: 1
     unit: g
-  - time: 20240212234600
+  - time: 20240213234600
     name: 中盐低钠盐
     amount: 1.0
     unit: g
-  - time: 20240212234600
+  - time: 20240213234600
     name: 油
     amount: 1.0
     unit: g
+
   - time: 20240213001600
     name: 山河全脂奶粉
     amount: 20.0
     unit: g
+
+  - time: 20240213033000
+    name: 胡柚
+    amount: 0
+    unit: g
+  - time: 20240213033000
+    name: 吉香莲蒜香酥角
+    amount: 9
+    unit: g
+
   - time: 20240213035500
     name: 红薯
-    amount: 302.7
+    amount: 250
     unit: g
   - time: 20240213035500
     name: 娃娃菜
-    amount: 168.5
+    amount: 150
     unit: g
   - time: 20240213035500
     name: 鸡蛋
-    amount: 55.0
+    amount: 55
     unit: g
   - time: 20240213035500
     name: 中盐低钠盐
@@ -138,8 +159,9 @@ food:
     unit: g
   - time: 20240213035500
     name: 香油
-    amount: 1.0
+    amount: 0.5
     unit: g
+
   - time: 20240213044400
     name: 山河全脂奶粉
     amount: 20.0
@@ -149,31 +171,31 @@ food:
     amount: 4.0
     unit: g
 water:
-  - time: 20240212172500
+  - time: 20240213172500
     name: 开水
     amount: 100
     unit: ml
-  - time: 20240212180700
+  - time: 20240213180700
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240212185200
+  - time: 20240213185200
     name: 咖啡
     amount: 80.0
     unit: ml
-  - time: 20240212190600
+  - time: 20240213190600
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240212194200
+  - time: 20240213194200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240212201800
+  - time: 20240213201800
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240212223400
+  - time: 20240213223400
     name: 开水
     amount: 250
     unit: ml
@@ -202,15 +224,14 @@ water:
     amount: 200
     unit: ml
 med:
-  - time: 20240212190600
+  - time: 20240213190600
     name: selenium
     amount: 200
     unit: µg
-  - time: 20240212190600
+  - time: 20240213190600
     name: multi complete
     amount: 1
     unit: 片
 comment: |+
-  老一批红薯是红天使和红瑶生重757.5克，熟重540.5克。今天吃红天使生重169.6克、熟重121.0克。
-  新一批红天使生重191.0克、熟重139.5克；哈密生重640.0克、熟重467.5克。今天吃哈密生重132.1克、熟重96.5克。
+  老一批红薯是红天使和红瑶生重757.5克，熟重540.5克。今天吃红天使生重克、熟重克。
   两块鸡腿肉（加腌料、料酒）生重156.0克，裹粉后165.0克，每块按4.5克裹粉折算。鸡腿肉仍按71克折算。
