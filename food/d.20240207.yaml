@@ -148,11 +148,11 @@ food:
     name: 山河全脂奶粉
     amount: 20.0
     unit: g
-  - time: 2024208042500
-    nam 可0可09
+  - time: 20240208042500
+    name: 可可粉
     amount: 4.0
     unit: g
-water
+water:
   - time: 20240207171900
     name: 开水
     amount: 100
