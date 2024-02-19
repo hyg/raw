@@ -1,0 +1,219 @@
+date: 20240217
+food:
+  - time: 20240217204500
+    name: 龙丰果
+    amount: 65.0
+    unit: g
+  - time: 20240217204700
+    name: 犇野馆陶黑小麦全麦粉
+    amount: 50.0
+    unit: g
+  - time: 20240217204700
+    name: 雁门清高苦荞粉
+    amount: 5.0
+    unit: g
+  - time: 20240217204700
+    name: 辣木叶粉
+    amount: 5.0
+    unit: g
+  - time: 20240217204700
+    name: 脱骨肘子肉
+    amount: 22.5
+    unit: g
+  - time: 20240217204700
+    name: 晟世孚众红烧肉
+    amount: 28.0
+    unit: g
+  - time: 20240217204700
+    name: 韩三顺辣白菜
+    amount: 21.0
+    unit: g
+  - time: 20240217204700
+    name: 心果白果仁
+    amount: 10.0
+    unit: g
+  - time: 20240217204700
+    name: 南瓜
+    amount: 78.0
+    unit: g
+  - time: 20240217204700
+    name: 西兰苔
+    amount: 21.0
+    unit: g
+  - time: 20240217204700
+    name: 芦笋
+    amount: 78.0
+    unit: g
+  - time: 20240217210500
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240217210500
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240217210500
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20240217211700
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240218004100
+    name: 番茄酱
+    amount: 30.0
+    unit: g
+  - time: 20240218004100
+    name: 菊粉
+    amount: 10.0
+    unit: g
+  - time: 20240218004500
+    name: 柿子
+    amount: 101.0
+    unit: g
+  - time: 20240218004700
+    name: 红薯
+    amount: 279.2
+    unit: g
+  - time: 20240218004700
+    name: 芹菜
+    amount: 239.0
+    unit: g
+  - time: 20240218004700
+    name: 杏鲍菇
+    amount: 117.5
+    unit: g
+  - time: 20240218004700
+    name: 豆轶坊手工蒲包干
+    amount: 60.5
+    unit: g
+  - time: 20240218004700
+    name: 中盐低钠盐
+    amount: 1.5
+    unit: g
+  - time: 20240218004700
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20240218011800
+    name: 山河全脂奶粉
+    amount: 20.5
+    unit: g
+  - time: 20240218062800
+    name: 梨
+    amount: 208.0
+    unit: g
+  - time: 20240218063300
+    name: 农辛红薯粉条
+    amount: 59.5
+    unit: g
+  - time: 20240218063300
+    name: 纯芝麻酱
+    amount: 1.0
+    unit: g
+  - time: 20240218063300
+    name: 螺不凡78号汤底
+    amount: 4.5
+    unit: g
+  - time: 20240218063300
+    name: 邕味佳酸豆角
+    amount: 10.0
+    unit: g
+  - time: 20240218063300
+    name: 邕味佳红油酸笋
+    amount: 11.5
+    unit: g
+  - time: 20240218063300
+    name: 娃娃菜
+    amount: 136.5
+    unit: g
+  - time: 20240218063300
+    name: 鸡蛋
+    amount: 57.0
+    unit: g
+  - time: 20240218063300
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240218063300
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20240218063300
+    name: 香油
+    amount: 1.5
+    unit: g
+  - time: 20240218070500
+    name: 山河全脂奶粉
+    amount: 20
+    unit: g
+  - time: 20240218070500
+    name: 可可粉
+    amount: 4.5
+    unit: g
+water:
+  - time: 20240217193900
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20240217203300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240217211700
+    name: 咖啡
+    amount: 77.0
+    unit: ml
+  - time: 20240217212800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240217223000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240217225600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240218011800
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20240218020800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240218041600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240218063300
+    name: 汤水
+    amount: 600
+    unit: ml
+  - time: 20240218070500
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20240218121200
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20240217212800
+    name: 维生素D3
+    amount: 125
+    unit: µg
+  - time: 20240217212800
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20240217212800
+    name: multi complete
+    amount: 1
+    unit: 片
+comment: |+
+  烤红薯230°C+50分钟：红天使生重348.5克、熟重286.0克；哈密生重507.5克、熟重422.0克。
+  今天吃红天使生重84.4克、熟重69.0克；哈密生重194.8克、熟重162.0克。

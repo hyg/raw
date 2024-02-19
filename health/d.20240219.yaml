@@ -1,0 +1,46 @@
+date: 20240219
+sleep: 
+  time: 20240219132300
+  weight: 52.5
+wake:
+  time: 20240219200000
+  weight: 51.7
+  SpO2: 96
+  PRbpm: 60
+exercise: 
+- time: 20240219203000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: 超人敬礼*5 + 俯卧两头起(Superman exercise)*5 + 跪姿俯卧撑(kneeling push-ups)*5
+    amount: 2 
+    unit: set
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 99
+  PRbpm: 75
+  endheartrate: 84
+- time: 20240219235800
+  item:
+  - type:  跪姿俯卧撑(kneeling push-ups)*5
+    amount: 5
+    unit: set
+  SpO2: 98
+  PRbpm: 95
+stool:
+- time: 20240219231800
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间起来小便1次，没有补水。
+  室内运动后把脉：关脉中偏浅、尺脉寸脉深度中；三处侧向居中；三处清晰有力。
+  23:58第一轮俯卧撑：各组结束血氧是97、98、97、97、98，心率是92、91、89、97、95次，恢复时间是：42、39、29、46、55秒。
+
+  起床后穿抓绒长裤、厚长裤、短袖polo、厚外套、高帮靴、戴帽。备餐时戒除冷冻食材戴手套、其余不再戴手套。
+  室内运动后穿羽绒裤、P棉背心，双脚踩发热鞋垫。

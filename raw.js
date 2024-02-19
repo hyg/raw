@@ -57,6 +57,17 @@ if (arguments.length > 0) {
         fooddaylog(arguments[0]);
         showtables();
         //makeRfile();
+    }else if ((arguments.length == 1)&(arguments[0].length != 8)&(!isNaN(arguments[0]))) {
+        // diff day mode:"node raw -1"
+        var diff = parseInt(arguments[0]);
+        //console.log("diff day mode. diff="+diff);
+
+        startdate = datestr(diff);
+        enddate = datestr(diff);
+        loadmap();
+        fooddaylog(datestr(diff));
+        showtables();
+        //makeRfile();
     }else if (arguments.length == 2){
         // period mode:"node raw 20230101 20230331"
         startdate = arguments[0];
@@ -66,7 +77,7 @@ if (arguments.length > 0) {
         showtables();
         makeRfile();
     }else{
-        console.log("unkonw mode...\n\nyear mode:\t\"node raw 2023\"\nday mode:\t\"node raw 20230410\"\nperiod mode:\t\"node raw 20230101 20230331\"\ntoday mode:\t\"node raw\"");
+        console.log("unkonw mode...\n\nyear mode:\t\"node raw 2023\"\nday mode:\t\"node raw 20230410\"\ndiff day mode:\t\"node raw -1\"\nperiod mode:\t\"node raw 20230101 20230331\"\ntoday mode:\t\"node raw\"");
         process.exit();
     }
 } else {
@@ -566,16 +577,17 @@ function makeRfile() {
 
 
 // utils
-function datestr() {
+function datestr(diff=0) {
     var theDate = new Date();
     //theDate.setDate(theDate.getDate() - 1);
-    theDate.setDate(theDate.getDate());
+    theDate.setDate(theDate.getDate()+diff);
 
     var year = theDate.getFullYear();
     var month = theDate.getMonth() + 1 < 10 ? "0" + (theDate.getMonth() + 1) : theDate.getMonth() + 1;
     var day = theDate.getDate() < 10 ? "0" + theDate.getDate() : theDate.getDate();
     var dateStr = year + "" + month + "" + day;
 
+    //console.log("datestr retrun:"+dateStr);
     return dateStr;
 }
 
