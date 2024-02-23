@@ -1,0 +1,46 @@
+date: 20240222
+sleep: 
+  time: 20240222120500
+  weight: 52.1
+wake:
+  time: 20240222203000
+  weight: 51.3
+  SpO2: 95
+  PRbpm: 61
+exercise: 
+- time: 20240222210000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: 超人敬礼*5 + 俯卧两头起(Superman exercise)*5 + 跪姿俯卧撑(kneeling push-ups)*5
+    amount: 2 
+    unit: set
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 99
+  PRbpm: 86
+  endheartrate: 91
+- time: 20240223062300
+  item:
+  - type:  跪姿俯卧撑(kneeling push-ups)*5
+    amount: 5
+    unit: set
+  SpO2: 99
+  PRbpm: 102
+stool:
+- time: 20240222232000
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间起来小便1次，补水1次。上颚后端至咽喉发干，吞咽时有压迫感，不过还没有破皮的疼痛。喝温水流过时感到发肿。昨天去门卫室充值天然气时，被二手烟熏伤，今天吃银黄颗粒和维生素C。
+  室内运动后把脉：关脉中偏浅、尺脉深度中、寸脉中偏深；三处侧向居中；关脉清晰有力、尺脉清晰、寸脉模糊。
+  01:20第一轮俯卧撑：各组结束血氧是99、99、99、99、99，心率是95、95、96、100、102次，恢复时间是：63、54、82、92、118秒。
+
+  起床后穿抓绒长裤、厚长裤、短袖T恤、厚外套、高帮靴、戴帽。备餐时戴手套。
+  室内运动后穿羽绒裤、P棉背心，饭后双脚、左云门用大取暖贴。
