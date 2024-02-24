@@ -1,0 +1,36 @@
+name: 穆芝堂沙棘原浆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 348
+    unit: kj
+    nrv: 4
+  蛋白质:
+    amount: 1.0
+    unit: g
+    nrv: 2
+  脂肪:
+    amount: 1.3
+    unit: g
+    nrv: 2
+  碳水化合物:
+    amount: 16.6
+    unit: g
+    nrv: 6
+  钠:
+    amount: 18
+    unit: mg
+    nrv: 1
+  VE(生育酚):
+    amount: 3.25
+    unit: mg
+    nrv: 23
+  VC(抗坏血酸):
+    amount: 641.0
+    unit: mg
+    nrv: 641
+  钙:
+    amount: 15
+    unit: mg
+    nrv: 2

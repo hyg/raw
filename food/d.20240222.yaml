@@ -109,7 +109,7 @@ food:
     amount: 76.0
     unit: g
   - time: 20240223071500
-    name: 圆白菜
+    name: 大白菜
     amount: 150.0
     unit: g
   - time: 20240223071500
@@ -145,7 +145,7 @@ water:
     name: 开水
     amount: 120
     unit: ml
-  - time: 2024022213000
+  - time: 20240222213000
     name: 开水
     amount: 250
     unit: ml
