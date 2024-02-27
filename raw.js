@@ -279,10 +279,16 @@ function showtables(){
 // Statistics of the food,water,med and their element in the given day
 function fooddaysum(date,etable,ftable){
     d = fmap[date];
-    var name, amount, unit, nrv;
+    var name, amount, unit, nrv, oldenergy;
 
     amount = 0;
     nrv = 0;
+    if("热量" in etable){
+        oldenergy = etable["热量"].amount ;
+    }else{
+        oldenergy = 0 ;
+    }
+    
 
     for (var id in d.water) {
         let item = d.water[id];
@@ -435,6 +441,7 @@ function fooddaysum(date,etable,ftable){
         }
     }
 
+    fmap[date]["热量"] = etable["热量"].amount.toFixed(3) - oldenergy;
 }
 
 // make then R files
@@ -442,6 +449,7 @@ function makeRfile() {
     var d = "date <- c(";
     var w1 = "weight1 <- c(";
     var w2 = "weight2 <- c(";
+    var energy = "energy <- c("
     var sleep = "sleep <- c(";
     var wake = "wake <- c(";
     var sleeplong = "sleeplong <- c(";
@@ -456,6 +464,8 @@ function makeRfile() {
     var bFirst = true;
     var BPMcnt = 0;
     var bBPMFirst = true;
+    var lastPRbpm2 = 90;
+    var lastastendheartrate =90;
 
     try {
         for (var day in fmap) {
@@ -487,6 +497,7 @@ function makeRfile() {
                     d = d + "\"" + day + "\"";
                     w1 = w1 + hmap[day].sleep.weight;
                     w2 = w2 + hmap[day].wake.weight;
+                    energy = energy + fmap[day]["热量"];
 
                     sleep = sleep + sleeptime;
                     wake = wake + waketime;
@@ -499,6 +510,7 @@ function makeRfile() {
                     d = d + ',\"' + day + "\"";
                     w1 = w1 + "," + hmap[day].sleep.weight;
                     w2 = w2 + "," + hmap[day].wake.weight;
+                    energy = energy + "," + fmap[day]["热量"];
 
                     //if(!hmap[day].wake.weight) {console.log("can find wake weight:"+day);}
 
@@ -516,11 +528,13 @@ function makeRfile() {
                         dBPM = dBPM + "\"" + day + "\"";
                         PRbpm1 = PRbpm1 + hmap[day].wake.PRbpm;
                         if(hmap[day].exercise == undefined){
-                            PRbpm2 = PRbpm2 + "0";
-                            endheartrate = endheartrate + "0";
+                            PRbpm2 = PRbpm2 + lastPRbpm2;
+                            endheartrate = endheartrate + lastendheartrate;
                         }else{
                             PRbpm2 = PRbpm2 + hmap[day].exercise[0].PRbpm;
                             endheartrate = endheartrate + hmap[day].exercise[0].endheartrate;
+                            lastPRbpm2 = hmap[day].exercise[0].PRbpm;
+                            lastendheartrate = hmap[day].exercise[0].endheartrate;
                         }
                         BPMcnt++;
                         bBPMFirst = false;
@@ -530,11 +544,13 @@ function makeRfile() {
                     dBPM = dBPM + ',\"' + day + "\"";
                     PRbpm1 = PRbpm1 + "," + hmap[day].wake.PRbpm;
                     if(hmap[day].exercise == undefined){
-                        PRbpm2 = PRbpm2 + ",0";
-                        endheartrate = endheartrate + ",0";
+                        PRbpm2 = PRbpm2 + "," + lastendheartrate;
+                        endheartrate = endheartrate + "," + lastendheartrate;
                     }else{
                         PRbpm2 = PRbpm2 +  "," + hmap[day].exercise[0].PRbpm;
                         endheartrate = endheartrate +  "," + hmap[day].exercise[0].endheartrate;
+                        lastPRbpm2 = hmap[day].exercise[0].PRbpm;
+                        lastendheartrate = hmap[day].exercise[0].endheartrate;
                     }
                     BPMcnt++;
                 }
@@ -548,6 +564,7 @@ function makeRfile() {
     d = d + ")";
     w1 = w1 + ")";
     w2 = w2 + ")";
+    energy = energy + ")";
     sleep = sleep + ")";
     wake = wake + ")";
     sleeplong = sleeplong + ")";
@@ -556,19 +573,19 @@ function makeRfile() {
     PRbpm2 = PRbpm2 + ")";
     endheartrate = endheartrate + ")";
 
-    var wstr = d + "\r\n" + w1 + "\r\n" + w2 + "\r\nplot(c(1:" + cnt + "),weight1,type=\"b\",pch=15,lty=1,col=\"red\",xaxt=\"n\",xlab = \"date\",ylim=range(" + wmin + ":" + wmax + "))\r\nlines(c(1:" + cnt + "),weight2,type=\"b\",pch=17,lty=2,col=\"blue\")\r\nlegend(\"topright\",inset=.05,title=\"体重曲线\",c(\"睡前\",\"醒后(辅助线:50.5~51.5)\"),lty=c(1,2),pch=c(15,17),col=c(\"red\",\"blue\"))\r\nabline(h = 51.5)\r\nabline(h = 50.5)\r\naxis(1, c(1:" + cnt + "),date)\r\n";
+    var wstr = d + "\r\n" + w1 + "\r\n" + w2 + "\r\n"+ energy + "\r\nopar <- par(mar = c(5,4,4,5))\r\nplot(c(1:" + cnt + "),weight1,type=\"s\",col=\"red\",xaxt=\"n\",xlab = \"date\",ylab = \"weight(kg)\",ylim=range(" + wmin + ":" + wmax + "))\r\nlines(c(1:" + cnt + "),weight2,type=\"s\",col=\"blue\")\r\nlegend(\"topright\",inset=.05,title=\"体重曲线\",c(\"睡前\",\"醒后(辅助线:50.5~51.5)\",\"热量\"),lty=c(1,1,1),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 51.5,col=\"blue\")\r\nabline(h = 50.5,col=\"blue\")\r\naxis(1, c(1:" + cnt + "),date)\r\npar(new = TRUE)\r\nplot(c(1:" + cnt + "), energy,type=\"s\", pch = \"+\", col = \"green\", axes = FALSE, xlab = \"\", ylab = \"\")\r\naxis(side = 4, at = pretty(range(energy)))\r\nmtext(\"energy(kcal)\", side = 4, line = 3)";
     fs.writeFile("health/weight.R", wstr, (err) => {
         if (err) throw err;
         console.log('health/weight.R文件已被保存。在R环境运行 source(\"D:/huangyg/git/raw/health/weight.R\",encoding = \"UTF-8\")');
       });
     
-    var sleepstr = d + "\r\n" + sleep + "\r\n" + wake + "\r\n" + sleeplong + "\r\nplot(c(1:" + cnt + "),sleep,type=\"b\",pch=15,lty=1,col=\"red\",xaxt=\"n\",xlab = \"date\")\r\nlines(c(1:" + cnt + "),wake,type=\"b\",pch=17,lty=2,col=\"blue\")\r\nlines(c(1:" + cnt + "),sleeplong,type=\"b\",pch=21,lty=2,col=\"green\")\r\nlegend(\"topleft\",inset=.05,title=\"睡眠曲线\",c(\"睡\",\"醒\",\"时长(辅助线:480)\"),lty=c(1,2,2),pch=c(15,17,21),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 480)\r\naxis(1, c(1:" + cnt + "),date)\r\n";
+    var sleepstr = d + "\r\n" + sleep + "\r\n" + wake + "\r\n" + sleeplong + "\r\nplot(c(1:" + cnt + "),sleep,type=\"s\",col=\"red\",xaxt=\"n\",xlab = \"date\")\r\nlines(c(1:" + cnt + "),wake,type=\"s\",col=\"blue\")\r\nlines(c(1:" + cnt + "),sleeplong,type=\"s\",col=\"green\")\r\nlegend(\"topleft\",inset=.05,title=\"睡眠曲线\",c(\"睡\",\"醒\",\"时长(辅助线:480)\"),lty=c(1,1,1),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 480,col=\"green\")\r\naxis(1, c(1:" + cnt + "),date)\r\n";
     fs.writeFile("health/sleep.R", sleepstr, (err) => {
         if (err) throw err;
         console.log('health/sleep.R文件已被保存。在R环境运行 source(\"D:/huangyg/git/raw/health/sleep.R\",encoding = \"UTF-8\")');
       });
 
-    var PRbpmstr = dBPM + "\r\n" + PRbpm1 + "\r\n" + PRbpm2 + "\r\n" + endheartrate + "\r\nplot(c(1:" + BPMcnt + "),PRbpm1,type=\"b\",pch=15,lty=1,col=\"red\",xaxt=\"n\",xlab = \"date\",ylim=range(50:160))\r\nlines(c(1:" + BPMcnt + "),PRbpm2,type=\"b\",pch=17,lty=2,col=\"blue\")\r\nlines(c(1:" + BPMcnt + "),endheartrate,type=\"b\",pch=21,lty=2,col=\"green\")\r\nlegend(\"topleft\",inset=.05,title=\"心率曲线\",c(\"起床血氧仪(辅助线:50~65)\",\"运动后血氧仪\",\"运动后把脉\"),lty=c(1,2,2),pch=c(15,17,21),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 65)\r\nabline(h = 50)\r\naxis(1, c(1:" + BPMcnt + "),date)\r\n";
+    var PRbpmstr = dBPM + "\r\n" + PRbpm1 + "\r\n" + PRbpm2 + "\r\n" + endheartrate + "\r\nplot(c(1:" + BPMcnt + "),PRbpm1,type=\"s\",col=\"red\",xaxt=\"n\",xlab = \"date\",ylim=range(50:160))\r\nlines(c(1:" + BPMcnt + "),PRbpm2,type=\"s\",col=\"blue\")\r\nlines(c(1:" + BPMcnt + "),endheartrate,type=\"s\",col=\"green\")\r\nlegend(\"topleft\",inset=.05,title=\"心率曲线\",c(\"起床血氧仪(辅助线:50~65)\",\"运动后血氧仪\",\"运动后把脉\"),lty=c(1,1,1),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 65,col=\"red\")\r\nabline(h = 50,col=\"red\")\r\naxis(1, c(1:" + BPMcnt + "),date)\r\n";
     fs.writeFile("health/heartrate.R", PRbpmstr, (err) => {
         if (err) throw err;
         console.log('health/heartrate.R文件已被保存。在R环境运行 source(\"D:/huangyg/git/raw/health/heartrate.R\",encoding = \"UTF-8\")');

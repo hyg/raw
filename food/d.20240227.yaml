@@ -1,57 +1,61 @@
-date: 20240226
+date: 20240227
 food:
-  - time: 20240226232500
+  - time: 20240227232500
     name: 龙丰果
-    amount: 58.0
+    amount: 60
     unit: g
-  - time: 20240226232700
+
+  - time: 20240227232700
     name: 犇野馆陶黑小麦全麦粉
     amount: 50.0
     unit: g
-  - time: 20240226232700
+  - time: 20240227232700
     name: 雁门清高苦荞粉
     amount: 4.125
     unit: g
-  - time: 20240226232700
+  - time: 20240227232700
     name: 辣木叶粉
     amount: 5.875
     unit: g
-  - time: 20240226232700
+  - time: 20240227232700
     name: 晟世孚众红烧肉
     amount: 40.0
     unit: g
-  - time: 20240226232700
+  - time: 20240227232700
     name: 韩三顺辣白菜
-    amount: 21.5
+    amount: 20
     unit: g
-  - time: 20240226232700
+  - time: 20240227232700
     name: 心果白果仁
-    amount: 10.5
+    amount: 10
     unit: g
-  - time: 20240226232700
+  - time: 20240227232700
     name: 南瓜
-    amount: 106.0
+    amount: 105
     unit: g
-  - time: 20240226232700
-    name: 芦笋
-    amount: 116.5
+  - time: 20240227232700
+    name: 西兰苔
+    amount: 100
     unit: g
-  - time: 20240226234600
+
+  - time: 20240227234600
     name: 桑葚干
     amount: 10.0
     unit: g
-  - time: 20240226234600
+  - time: 20240227234600
     name: 亚麻籽
     amount: 5.0
     unit: g
-  - time: 20240226234600
+  - time: 20240227234600
     name: 麦胚芽
     amount: 10.0
     unit: g
+
   - time: 20240227000400
     name: 山河全脂奶粉
     amount: 20.0
     unit: g
+
   - time: 20240227044400
     name: 番茄酱
     amount: 29.0
@@ -64,25 +68,27 @@ food:
     name: 菊粉
     amount: 10.0
     unit: g
+
   - time: 20240227044700
     name: 柿子
-    amount: 119.0
+    amount: 125
     unit: g
+
   - time: 20240227045000
     name: 红薯
-    amount: 202.5
+    amount: 200
     unit: g
   - time: 20240227045000
     name: 圆白菜
-    amount: 190.5
+    amount: 190
     unit: g
   - time: 20240227045000
     name: 胡萝卜
-    amount: 78.0
+    amount: 80
     unit: g
   - time: 20240227045000
     name: 鸡蛋
-    amount: 55.0
+    amount: 55
     unit: g
   - time: 20240227045000
     name: 中盐低钠盐
@@ -92,33 +98,37 @@ food:
     name: 油
     amount: 1.0
     unit: g
+
   - time: 20240227051700
     name: 山河全脂奶粉
     amount: 20.0
     unit: g
+
   - time: 20240227095900
     name: 穆芝堂沙棘原浆
-    amount: 14.0
+    amount: 20
     unit: g
   - time: 20240227095900
     name: 菊粉
-    amount: 14.0
+    amount: 11
     unit: g
+
   - time: 20240227100000
     name: 柚子
-    amount: 209.5
+    amount: 200
     unit: g
+
   - time: 20240227100500
-    name: 太平米饼
-    amount: 98.0
+    name: 阿裕猪油汤圆
+    amount: 100
     unit: g
   - time: 20240227100500
     name: 大白菜
-    amount: 162.5
+    amount: 150
     unit: g
   - time: 20240227100500
     name: 白玉卤水北豆腐
-    amount: 93.0
+    amount: 160
     unit: g
   - time: 20240227100500
     name: 中盐低钠盐
@@ -132,12 +142,21 @@ food:
     name: 香油
     amount: 0.5
     unit: g
+
+  - time: 20240227103000
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240227103000
+    name: 可可粉
+    amount: 4.0
+    unit: g
 water:
-  - time: 20240226222400
+  - time: 20240227222400
     name: 开水
     amount: 100
     unit: ml
-  - time: 20240226231300
+  - time: 20240227231300
     name: 开水
     amount: 250
     unit: ml

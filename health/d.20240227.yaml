@@ -1,14 +1,14 @@
-date: 20240226
+date: 20240227
 sleep: 
-  time: 20240226124200
+  time: 20240227124200
   weight: 52.3
 wake:
-  time: 20240226221500
+  time: 20240227221500
   weight: 51.3
   SpO2: 95
   PRbpm: 57
 exercise: 
-- time: 20240226224900
+- time: 20240227224900
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20

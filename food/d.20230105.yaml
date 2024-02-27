@@ -42,12 +42,12 @@ food:
   unit: g
 - time: 202301051151500  
   name: 益生菌压片糖果
-  amount: 500
-  unit: mg
+  amount: 0.5
+  unit: g
 - time: 202301051152700  
   name: 益生菌压片糖果
-  amount: 500
-  unit: mg
+  amount: 0.5
+  unit: g
 - time: 20230105181500
   name: 金桔
   amount: 112.5
