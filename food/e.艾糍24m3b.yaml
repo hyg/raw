@@ -1,0 +1,13 @@
+name: 艾糍24m3b
+amount: 8
+unit: 个
+food:
+  - name: 犇野馆陶黑小麦全麦粉
+    amount: 400.0
+    unit: g 
+  - name: 雁门清高苦荞粉
+    amount: 40
+    unit: g
+  - name: 辣木叶粉
+    amount: 40
+    unit: g

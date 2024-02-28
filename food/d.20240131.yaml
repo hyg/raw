@@ -107,6 +107,7 @@ food:
   - time: 20240131213000
     name: 柿子
     amount: 139.0
+    unit: g
   - time: 20240131213300
     name: 老安铺椰子味年糕
     amount: 92.5

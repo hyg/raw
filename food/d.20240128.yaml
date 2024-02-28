@@ -131,7 +131,7 @@ food:
   - time: 20240128192800
     name: 柚子
     amount: 336.5
-    unit: 
+    unit: g
   - time: 20240128193400
     name: 山药豆
     amount: 189.0
@@ -159,6 +159,7 @@ food:
   - time: 20240128193400
     name: 姜
     amount: 7
+    unit: g
   - time: 20240128202500
     name: 山河全脂奶粉
     amount: 10.0

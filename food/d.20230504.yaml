@@ -27,7 +27,7 @@ food:
   - time: 20230504150100
     name: 枸杞
     amount: 5.0
-    unit:
+    unit: g
   - time: 20230504150100
     name: 亚麻籽
     amount: 5.0

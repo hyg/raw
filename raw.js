@@ -38,6 +38,18 @@ var Detailtable = new Object();
 //var CalciumTable = new Object();
 
 
+var fRate = {//换算率
+    ng: { ng:1, μg: 0.001, mg: 0.001 * 0.001, g: 0.001 * 0.001 * 0.001, kg: 0.001 * 0.001 * 0.001 * 0.001, t: 0.001 * 0.001 * 0.001 * 0.001 * 0.001, ul: 0.001 * 0.001, ml: 0.001 * 0.001 * 0.001, L: 0.001 * 0.001 * 0.001 * 0.001 },
+    μg: { ng: 1000, μg:1, mg: 0.001, g: 0.001 * 0.001, kg: 0.001 * 0.001 * 0.001, t: 0.001 * 0.001 * 0.001 * 0.001, ul:0.001, ml:0.001 * 0.001, L:0.001 * 0.001 * 0.001 },
+    mg: { ng: 1000 * 1000, μg: 1000, mg:1, g: 0.001, kg: 0.001 * 0.001, t:0.001 * 0.001 * 0.001, ul:1, ml: 0.001, L: 0.001 * 0.001 },
+    g: { ng: 1000 * 1000*1000, μg: 1000*1000, mg:1000, g:1, kg: 0.001, t: 0.001 * 0.001, ul: 1000 , ml: 1, L: 0.001 },
+    kg: { ng: 1000 * 1000 * 1000 * 1000, μg: 1000 * 1000, mg: 1000, g: 1000, kg:1, t: 0.001 , ul: 1000 * 1000 , ml: 1000, L: 1 },
+    t: { ng: 1000 * 1000 * 1000 * 1000 * 1000, μg: 1000 * 1000 * 1000, mg: 1000 * 1000, g: 1000 * 1000, kg: 1000, t:1, ul: 1000 * 1000 * 1000, ml: 1000 * 1000, L: 1000 },
+    ml: { ng: 1000 * 1000 * 1000, μg: 1000 * 1000, mg: 1000, g: 1, kg: 0.001, t: 0.001 * 0.001, ul: 1000 , ml:1, L: 0.001 },
+    ul: { ng: 1000 * 1000, μg: 1000, ml: 1, g: 0.001, kg: 0.001 * 0.001, t: 0.001 * 0.001 * 0.001, ul:1, ml: 0.001, L: 0.001 * 0.001 },
+    L: { ng: 1000 * 1000 * 1000 * 1000, μg: 1000 * 1000, mg: 1000, g: 1000,kg:1, t: 0.001, ul: 1000 * 1000, ml: 1000,L:1 },
+    };
+
 // read the arguments
 var arguments = process.argv.splice(2);
 if (arguments.length > 0) {
@@ -307,67 +319,11 @@ function fooddaysum(date,etable,ftable){
 
     var food = d.food;
     for (var id in food) {
-        if (food[id].name in emap) {
-            let fooddata = emap[food[id].name];
-            let r = food[id].amount / fooddata.amount;
-            for (var e in fooddata.element) {
-                let item = new Object();
-                item.amount = parseFloat(fooddata.element[e].amount) * r;
-                //console.log(fooddata.element[e].unit);
-                item.unit = fooddata.element[e].unit.toLowerCase();
-                item.nrv = parseFloat(fooddata.element[e].nrv) * r;
-
-                if (item.unit == "mg") {
-                    item.unit = "g";
-                    item.amount = item.amount / 1000;
-                }
-                if ((item.unit == "µg") || (item.unit == "μg")) {
-                    item.unit = "g";
-                    item.amount = item.amount / 1000000;
-                }
-                if (item.unit == "kj") {
-                    item.unit = "kcal";
-                    item.amount = item.amount * 0.239;
-                }
-
-                if (e in etable) {
-                    // element already in table
-                    etable[e].amount += item.amount;
-                    etable[e].nrv += item.nrv;
-                } else {
-                    // new element
-                    etable[e] = item;
-                }
-                
-                // detail data
-                if(typeof Keyelement !== "undefined" && Keyelement !== null)
-                {
-                    if(e==Keyelement){
-                        var data = new Object();
-                        data["名称"] = food[id].name ;
-                        data["摄入数量"] = food[id].amount+food[id].unit ;
-                        data["含有"+Keyelement] = item.amount.toFixed(3)+item.unit ;
-                        data["累计摄入"] = etable[e].amount.toFixed(3)+item.unit ;
-                        data["累计nrv"] = etable[e].nrv.toFixed(2)+"%" ;
-    
-                        Detailtable[keycnt++] = data ;
-                    };
-                };
-
-                // testlog: element detail
-                /*var nametab = "\t\t\t"
-                if (food[id].name.replace(/[^\x00-\xff]/g, '**').length >= 8) {
-                    nametab = "\t\t";
-                }
-                if (food[id].name.replace(/[^\x00-\xff]/g, '**').length >= 16) {
-                    nametab = "\t";
-                } */
-                //if(e=="膳食纤维") console.log(food[id].amount+food[id].unit+"\t"+food[id].name+nametab+"含有"+item.amount.toFixed(2)+item.unit+"\t累计摄入："+etable[e].amount.toFixed(2)+item.unit+"\t累计nrv:"+etable[e].nrv.toFixed(2)+"%");
+            if(foodsum(food[id].name,food[id].amount,food[id].unit,etable,ftable)){
+                delete food[id];
+            }else{
+                //newfood.push(item);
             }
-            delete food[id];
-        } else {
-            //newfood.push(item);
-        }
     }
 
     for (var id in food) {
@@ -441,8 +397,84 @@ function fooddaysum(date,etable,ftable){
         }
     }
 
-    fmap[date]["热量"] = etable["热量"].amount.toFixed(3) - oldenergy;
+    fmap[date]["热量"] = (etable["热量"].amount - oldenergy).toFixed(3);
 }
+
+function foodsum(foodname,foodamount,foodunit,etable,ftable){
+    //console.log("foodunit's type:"+typeof(foodunit));
+    //console.log("foodsum:\t"+foodname+"\t"+foodamount+"\t"+foodunit);
+    if (foodname in emap) {
+        let fooddata = emap[foodname];
+
+        // todo:check the unit (g,mg,kg,...) and change amount
+        //console.log("fooddata.unit's type:"+typeof(fooddata.unit));
+        let r = 1;
+        if(foodunit == fooddata.unit){
+            r = foodamount / fooddata.amount;
+        }else if((fRate[foodunit] !== undefined) && (fRate[foodunit][fooddata.unit] !== undefined)){
+            r = foodamount * fRate[foodunit][fooddata.unit] / fooddata.amount;
+        }else{
+            console.log("unknow unit:\t"+foodunit+"\t"+fooddata.unit);
+        }
+        
+
+        for (var id in fooddata.food) {
+            foodsum(fooddata.food[id].name,fooddata.food[id].amount*r,fooddata.food[id].unit,etable,ftable);
+        }
+
+        for (var e in fooddata.element) {
+            let item = new Object();
+            item.amount = parseFloat(fooddata.element[e].amount) * r;
+            //console.log(fooddata.element[e].unit);
+            item.unit = fooddata.element[e].unit.toLowerCase();
+            item.nrv = parseFloat(fooddata.element[e].nrv) * r;
+
+            if (item.unit == "mg") {
+                item.unit = "g";
+                item.amount = item.amount / 1000;
+            }
+            if ((item.unit == "µg") || (item.unit == "μg")) {
+                item.unit = "g";
+                item.amount = item.amount / 1000000;
+            }
+            if (item.unit == "kj") {
+                item.unit = "kcal";
+                item.amount = item.amount * 0.239;
+            }
+
+            if (e in etable) {
+                // element already in table
+                etable[e].amount += item.amount;
+                etable[e].nrv += item.nrv;
+            } else {
+                // new element
+                etable[e] = item;
+            }
+            
+            // detail data
+            if(typeof Keyelement !== "undefined" && Keyelement !== null)
+            {
+                if(e==Keyelement){
+                    var data = new Object();
+                    data["名称"] = foodname ;
+                    data["摄入数量"] = foodamount+food[id].unit ;
+                    data["含有"+Keyelement] = item.amount.toFixed(3)+item.unit ;
+                    data["累计摄入"] = etable[e].amount.toFixed(3)+item.unit ;
+                    data["累计nrv"] = etable[e].nrv.toFixed(2)+"%" ;
+
+                    Detailtable[keycnt++] = data ;
+                };
+            };
+        }
+        //delete food[id];
+        return true;
+    } else {
+        //newfood.push(item);
+        console.log("debug: call daysum() with a food doesn't exist in emap:\t"+foodname);
+        return false;
+    }
+}
+
 
 // make then R files
 function makeRfile() {
@@ -573,19 +605,19 @@ function makeRfile() {
     PRbpm2 = PRbpm2 + ")";
     endheartrate = endheartrate + ")";
 
-    var wstr = d + "\r\n" + w1 + "\r\n" + w2 + "\r\n"+ energy + "\r\nopar <- par(mar = c(5,4,4,5))\r\nplot(c(1:" + cnt + "),weight1,type=\"s\",col=\"red\",xaxt=\"n\",xlab = \"date\",ylab = \"weight(kg)\",ylim=range(" + wmin + ":" + wmax + "))\r\nlines(c(1:" + cnt + "),weight2,type=\"s\",col=\"blue\")\r\nlegend(\"topright\",inset=.05,title=\"体重曲线\",c(\"睡前\",\"醒后(辅助线:50.5~51.5)\",\"热量\"),lty=c(1,1,1),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 51.5,col=\"blue\")\r\nabline(h = 50.5,col=\"blue\")\r\naxis(1, c(1:" + cnt + "),date)\r\npar(new = TRUE)\r\nplot(c(1:" + cnt + "), energy,type=\"s\", pch = \"+\", col = \"green\", axes = FALSE, xlab = \"\", ylab = \"\")\r\naxis(side = 4, at = pretty(range(energy)))\r\nmtext(\"energy(kcal)\", side = 4, line = 3)";
+    var wstr = d + "\r\n" + w1 + "\r\n" + w2 + "\r\n"+ energy + "\r\nopar <- par(mar = c(5,4,4,5))\r\nplot(c(1:" + cnt + "),weight1,type=\"s\",col=\"red\",xaxt=\"n\",xlab = \"date\",ylab = \"weight(kg)\",ylim=range(" + wmin + ":" + wmax + "))\r\nlines(c(1:" + cnt + "),weight2,type=\"s\",col=\"blue\")\r\nlegend(\"topright\",inset=.05,title=\"体重曲线\",c(\"睡前\",\"醒后(辅助线:50.5~51.5)\",\"热量\"),lty=c(1,1,1),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 51.5,col=\"blue\",lty = 3)\r\nabline(h = 50.5,col=\"blue\",lty = 3)\r\naxis(1, c(1:" + cnt + "),date)\r\npar(new = TRUE)\r\nplot(c(1:" + cnt + "), energy,type=\"s\", pch = \"+\", col = \"green\", axes = FALSE, xlab = \"\", ylab = \"\")\r\naxis(side = 4, at = pretty(range(energy)))\r\nmtext(\"energy(kcal)\", side = 4, line = 3)";
     fs.writeFile("health/weight.R", wstr, (err) => {
         if (err) throw err;
         console.log('health/weight.R文件已被保存。在R环境运行 source(\"D:/huangyg/git/raw/health/weight.R\",encoding = \"UTF-8\")');
       });
     
-    var sleepstr = d + "\r\n" + sleep + "\r\n" + wake + "\r\n" + sleeplong + "\r\nplot(c(1:" + cnt + "),sleep,type=\"s\",col=\"red\",xaxt=\"n\",xlab = \"date\")\r\nlines(c(1:" + cnt + "),wake,type=\"s\",col=\"blue\")\r\nlines(c(1:" + cnt + "),sleeplong,type=\"s\",col=\"green\")\r\nlegend(\"topleft\",inset=.05,title=\"睡眠曲线\",c(\"睡\",\"醒\",\"时长(辅助线:480)\"),lty=c(1,1,1),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 480,col=\"green\")\r\naxis(1, c(1:" + cnt + "),date)\r\n";
+    var sleepstr = d + "\r\n" + sleep + "\r\n" + wake + "\r\n" + sleeplong + "\r\nplot(c(1:" + cnt + "),sleep,type=\"s\",col=\"red\",xaxt=\"n\",xlab = \"date\",ylab=\"time(minute)\")\r\nlines(c(1:" + cnt + "),wake,type=\"s\",col=\"blue\")\r\nlines(c(1:" + cnt + "),sleeplong,type=\"s\",col=\"green\")\r\nlegend(\"topleft\",inset=.05,title=\"睡眠曲线\",c(\"睡\",\"醒\",\"时长(辅助线:480)\"),lty=c(1,1,1),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 480,col=\"green\",lty = 3)\r\naxis(1, c(1:" + cnt + "),date)\r\n";
     fs.writeFile("health/sleep.R", sleepstr, (err) => {
         if (err) throw err;
         console.log('health/sleep.R文件已被保存。在R环境运行 source(\"D:/huangyg/git/raw/health/sleep.R\",encoding = \"UTF-8\")');
       });
 
-    var PRbpmstr = dBPM + "\r\n" + PRbpm1 + "\r\n" + PRbpm2 + "\r\n" + endheartrate + "\r\nplot(c(1:" + BPMcnt + "),PRbpm1,type=\"s\",col=\"red\",xaxt=\"n\",xlab = \"date\",ylim=range(50:160))\r\nlines(c(1:" + BPMcnt + "),PRbpm2,type=\"s\",col=\"blue\")\r\nlines(c(1:" + BPMcnt + "),endheartrate,type=\"s\",col=\"green\")\r\nlegend(\"topleft\",inset=.05,title=\"心率曲线\",c(\"起床血氧仪(辅助线:50~65)\",\"运动后血氧仪\",\"运动后把脉\"),lty=c(1,1,1),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 65,col=\"red\")\r\nabline(h = 50,col=\"red\")\r\naxis(1, c(1:" + BPMcnt + "),date)\r\n";
+    var PRbpmstr = dBPM + "\r\n" + PRbpm1 + "\r\n" + PRbpm2 + "\r\n" + endheartrate + "\r\nplot(c(1:" + BPMcnt + "),PRbpm1,type=\"s\",col=\"red\",xaxt=\"n\",xlab = \"date\",ylab=\"heart rate\",ylim=range(50:160))\r\nlines(c(1:" + BPMcnt + "),PRbpm2,type=\"s\",col=\"blue\")\r\nlines(c(1:" + BPMcnt + "),endheartrate,type=\"s\",col=\"green\")\r\nlegend(\"topleft\",inset=.05,title=\"心率曲线\",c(\"起床血氧仪(辅助线:50~65)\",\"运动后血氧仪\",\"运动后把脉\"),lty=c(1,1,1),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 65,col=\"red\",lty = 3)\r\nabline(h = 50,col=\"red\",lty = 3)\r\naxis(1, c(1:" + BPMcnt + "),date)\r\n";
     fs.writeFile("health/heartrate.R", PRbpmstr, (err) => {
         if (err) throw err;
         console.log('health/heartrate.R文件已被保存。在R环境运行 source(\"D:/huangyg/git/raw/health/heartrate.R\",encoding = \"UTF-8\")');
@@ -594,6 +626,11 @@ function makeRfile() {
 
 
 // utils
+function GetNumByUnit(num, unitname,outunitname) {
+    var tnum = (num * fRate[unitname][outunitname]).toFixed(4);
+    return tnum;
+}
+
 function datestr(diff=0) {
     var theDate = new Date();
     //theDate.setDate(theDate.getDate() - 1);
