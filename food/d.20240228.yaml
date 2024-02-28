@@ -96,59 +96,55 @@ food:
     name: 山河全脂奶粉
     amount: 20.0
     unit: g
-
-  - time: 20240228095900
+  - time: 20240228135500
     name: 穆芝堂沙棘原浆
-    amount: 25
+    amount: 30.0
     unit: g
-  - time: 20240228095900
+  - time: 20240228135500
     name: 菊粉
-    amount: 10
+    amount: 10.0
     unit: g
-
-  - time: 20240228100000
+  - time: 20240228135600
     name: 柚子
-    amount: 200
+    amount: 190.0
     unit: g
-
-  - time: 20240228100500
+  - time: 20240228140000
     name: 阿裕猪油汤圆
-    amount: 100
+    amount: 100.0
     unit: g
-  - time: 20240228100500
+  - time: 20240228140000
     name: 大白菜
-    amount: 150
+    amount: 130.5
     unit: g
-  - time: 20240228100500
+  - time: 20240228140000
     name: 白玉卤水北豆腐
-    amount: 115
+    amount: 94.5
     unit: g
-  - time: 20240228100500
+  - time: 20240228140000
     name: 中盐低钠盐
     amount: 1.0
     unit: g
-  - time: 20240228100500
+  - time: 20240228140000
     name: 枸杞
-    amount: 3
+    amount: 3.5
     unit: g
-  - time: 20240228100500
+  - time: 20240228140000
     name: 姜
-    amount: 2
+    amount: 3.5
     unit: g
-  - time: 20240228100500
+  - time: 20240228140000
     name: 鲜味王
-    amount: 0.5
+    amount: 1.0
     unit: g
-  - time: 20240228100500
+  - time: 20240228140000
     name: 香油
     amount: 0.5
     unit: g
-
-  - time: 20240228103000
+  - time: 20240228143000
     name: 山河全脂奶粉
     amount: 20.0
     unit: g
-  - time: 20240228103000
+  - time: 20240228143000
     name: 可可粉
     amount: 4.0
     unit: g
@@ -193,12 +189,15 @@ water:
     name: 开水
     amount: 250
     unit: ml
-
-  - time: 20240228100500
+  - time: 20240228140000
     name: 汤水
-    amount: 440
+    amount: 550
     unit: ml
-  - time: 20240228105500
+  - time: 20240228143000
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20240228152200
     name: 开水
     amount: 150
     unit: ml
