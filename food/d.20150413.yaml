@@ -38,8 +38,8 @@ food:
   unit: g
 - time: 20150413195000
   name: 馒头
-  amount: 1
-  unit: 个
+  amount: 60
+  unit: g
 - time: 20150413195000
   name: 海带
   amount: 15

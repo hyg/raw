@@ -3,7 +3,7 @@ sleep:
   time: 20210225122000
   weight: 60.8
 wake:
-  time: 202102251943000
+  time: 20210225194300
   weight: 60.2
 
 stool:

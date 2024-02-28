@@ -10,8 +10,8 @@ food:
   unit: g
 - time: 20150411084500
   name: 包子
-  amount: 2
-  unit: 个
+  amount: 100
+  unit: g
 - time: 20150411084500
   name: 酸奶
   amount: 250

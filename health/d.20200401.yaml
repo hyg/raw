@@ -3,7 +3,7 @@ sleep:
   time: 20200401131100
   weight: 56.2
 wake:
-  time: 2020040185500
+  time: 20200401185500
   weight: 55.8
 
 comment: |+

@@ -10,8 +10,8 @@ food:
   unit: g
 - time: 20150401062500
   name: 海鸭蛋
-  amount: 1
-  unit: 个
+  amount: 60
+  unit: g
 - time: 20150401113000
   name: 麦菜
   amount: 400

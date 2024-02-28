@@ -2,12 +2,12 @@ date: 20150408
 food:
 - time: 20150408062500
   name: 梨
-  amount: 1
-  unit: 个
+  amount: 150
+  unit: g
 - time: 20150408072000
   name: 海鸭蛋
-  amount: 1
-  unit: 个
+  amount: 60
+  unit: g
 - time: 20150408072000
   name: 杂粮粥
   amount: 40
@@ -18,8 +18,8 @@ food:
   unit: g
 - time: 20150408072000
   name: 包子
-  amount: 2
-  unit: 个
+  amount: 100
+  unit: g
 - time: 20150408124000
   name: 海带
   amount: 10
@@ -42,16 +42,16 @@ food:
   unit: g
 - time: 20150408171500
   name: 梨
-  amount: 1
-  unit: 个
+  amount: 150
+  unit: g
 - time: 20150408173500
   name: 菠萝
   amount: 600
   unit: g
 - time: 20150408180000
   name: 馒头
-  amount: 1
-  unit: 个
+  amount: 60
+  unit: g
 - time: 20150408180000
   name: 胡萝卜
   amount: 200

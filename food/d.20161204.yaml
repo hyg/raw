@@ -11,6 +11,7 @@ food:
 - time: 20161204163000
   name: 玉米
   amount: 120
+  unit: g 
 - time: 20161204164000
   name: 杂粮粥+黑芝麻
   amount: 120

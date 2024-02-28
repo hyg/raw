@@ -19,9 +19,11 @@ food:
 - time: 20190130225000
   name: 芦笋
   amount: 150
+  unit: g
 - time: 20190130225000
   name: 虫草花
   amount: 200
+  unit: g
 - time: 20190130230500
   name: 葛根粉
   amount: 20

@@ -6,8 +6,8 @@ food:
   unit: g
 - time: 20150405064500
   name: 包子
-  amount: 3
-  unit: 个
+  amount: 150
+  unit: g
 - time: 20150405113000
   name: 鸭肉
   amount: 300
@@ -22,8 +22,8 @@ food:
   unit: g
 - time: 20150405113000
   name: 海鸭蛋
-  amount: 1
-  unit: 个
+  amount: 60
+  unit: g
 - time: 20150405181000
   name: 雪花面
   amount: 50
@@ -34,8 +34,8 @@ food:
   unit: g
 - time: 20150405063500
   name: 梨
-  amount: 1
-  unit: 个
+  amount: 150
+  unit: g
 - time: 20150405161500
   name: 菠萝
   amount: 400

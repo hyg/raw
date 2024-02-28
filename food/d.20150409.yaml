@@ -2,12 +2,12 @@ date: 20150409
 food:
 - time: 20150409060000
   name: 梨
-  amount: 1
-  unit: 个
+  amount: 150
+  unit: g
 - time: 20150409063500
   name: 海鸭蛋
-  amount: 1
-  unit: 个
+  amount: 60
+  unit: g
 - time: 20150409063500
   name: 杂粮粥
   amount: 40
@@ -18,8 +18,8 @@ food:
   unit: g
 - time: 20150409063500
   name: 包子
-  amount: 2
-  unit: 个
+  amount: 100
+  unit: g
 - time: 20150409123500
   name: 苦荞面
   amount: 67

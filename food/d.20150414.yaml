@@ -14,8 +14,8 @@ food:
   unit: g
 - time: 20150414074000
   name: 馒头
-  amount: 1
-  unit: 个
+  amount: 60
+  unit: g
 - time: 20150414122500
   name: 西葫芦
   amount: 500

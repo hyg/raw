@@ -10,12 +10,12 @@ food:
   unit: g
 - time: 20150403063500
   name: 海鸭蛋
-  amount: 1
-  unit: 个
+  amount: 60
+  unit: g
 - time: 20150403063500
   name: 肉包
-  amount: 1
-  unit: 个
+  amount: 50
+  unit: g
 - time: 20150403114300
   name: 海带
   amount: 5
@@ -42,8 +42,8 @@ food:
   unit: g 
 - time: 20150403061500
   name: 苹果
-  amount: 1
-  unit: 个
+  amount: 150
+  unit: g
 water: 
 - time: 20150403061500
   type: 开水

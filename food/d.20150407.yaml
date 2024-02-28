@@ -2,8 +2,8 @@ date: 20150407
 food:
 - time: 20150407072000
   name: 海鸭蛋
-  amount: 1
-  unit: 个
+  amount: 60
+  unit: g
 - time: 20150407072000
   name: 紫薯
   amount: 400
@@ -42,8 +42,8 @@ food:
   unit: g
 - time: 20150407174000
   name: 元宵
-  amount: 3
-  unit: 个
+  amount: 60
+  unit: g
 - time: 20150407203000
   name: 杂粮粥
   amount: 50

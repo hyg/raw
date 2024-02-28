@@ -317,8 +317,13 @@ function fooddaysum(date,etable,ftable){
         etable["水"] = { "amount": amount, "unit": "ml", "nrv": nrv };
     }
 
+    // food字段的格式于element字段不同。
+    // 原因是同一种食材可能在food重复出现，以备将来表达烹饪步骤分次加入。
     var food = d.food;
     for (var id in food) {
+            if(food[id].unit == undefined){
+                console.log("undefined unit. date:"+date+"\tfoodname:"+food[id].name)
+            }
             if(foodsum(food[id].name,food[id].amount,food[id].unit,etable,ftable)){
                 delete food[id];
             }else{
@@ -414,7 +419,7 @@ function foodsum(foodname,foodamount,foodunit,etable,ftable){
         }else if((fRate[foodunit] !== undefined) && (fRate[foodunit][fooddata.unit] !== undefined)){
             r = foodamount * fRate[foodunit][fooddata.unit] / fooddata.amount;
         }else{
-            console.log("unknow unit:\t"+foodunit+"\t"+fooddata.unit);
+            console.log("unknow unit:\t"+foodunit+"\t"+fooddata.unit+"\tfoodname:"+foodname+"\tfoodamount:"+foodamount);
         }
         
 
@@ -470,7 +475,7 @@ function foodsum(foodname,foodamount,foodunit,etable,ftable){
         return true;
     } else {
         //newfood.push(item);
-        console.log("debug: call daysum() with a food doesn't exist in emap:\t"+foodname);
+        //console.log("debug: call daysum() with a food doesn't exist in emap:\t"+foodname);
         return false;
     }
 }
@@ -507,6 +512,10 @@ function makeRfile() {
             sleepminute = Math.floor(hmap[day].sleep.time % 10000 / 100);
             sleeptime = sleephour * 60 + sleepminute;
 
+            if(sleeptime>1440){
+                console.log("debug: sleeptime>1440\t"+ sleeptime + "\tday:\t"+ day);
+            }
+
             //console.log("\n================="+day+"=================\nhmap[day].sleep.time:"+hmap[day].sleep.time+"\nsleephour:\t"+sleephour+"\nsleepminute:\t"+sleepminute);
 
             if (sleepday < day) { sleeptime -= 24 * 60 };
@@ -515,8 +524,22 @@ function makeRfile() {
             wakehour = Math.floor(hmap[day].wake.time % 1000000 / 10000);
             wakeminute = Math.floor(hmap[day].wake.time % 10000 / 100);
             waketime = wakehour * 60 + wakeminute;
+            if (wakeday < day) { waketime -= 24 * 60 };
+            if (wakeday > day) { waketime += 24 * 60 };
+
+            if((wakeday <= day) && (waketime>1440)){
+                console.log("debug: waketime>1440\t"+ waketime + "\tday:\t"+ day);
+            }
 
             sleeplongtime = waketime - sleeptime;
+
+            
+            if(sleeplongtime>1100){
+                console.log("debug: sleeplongtime>1100\t"+ sleeplongtime + "\tday:\t"+ day +"\tsleeptime:"+ sleeptime + "\twaketime:"+ waketime );
+            }
+            if(sleeplongtime<0){
+                console.log("debug: sleeplongtime<0\t"+ sleeplongtime + "\tday:\t"+ day +"\tsleeptime:"+ sleeptime + "\twaketime:"+ waketime );
+            }
 
             //if(waketime > 1000) {console.log(day)}
 
@@ -611,7 +634,7 @@ function makeRfile() {
         console.log('health/weight.R文件已被保存。在R环境运行 source(\"D:/huangyg/git/raw/health/weight.R\",encoding = \"UTF-8\")');
       });
     
-    var sleepstr = d + "\r\n" + sleep + "\r\n" + wake + "\r\n" + sleeplong + "\r\nplot(c(1:" + cnt + "),sleep,type=\"s\",col=\"red\",xaxt=\"n\",xlab = \"date\",ylab=\"time(minute)\")\r\nlines(c(1:" + cnt + "),wake,type=\"s\",col=\"blue\")\r\nlines(c(1:" + cnt + "),sleeplong,type=\"s\",col=\"green\")\r\nlegend(\"topleft\",inset=.05,title=\"睡眠曲线\",c(\"睡\",\"醒\",\"时长(辅助线:480)\"),lty=c(1,1,1),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 480,col=\"green\",lty = 3)\r\naxis(1, c(1:" + cnt + "),date)\r\n";
+    var sleepstr = d + "\r\n" + sleep + "\r\n" + wake + "\r\n" + sleeplong + "\r\nplot(c(1:" + cnt + "),sleep,type=\"s\",col=\"red\",xaxt=\"n\",xlab = \"date\",ylab=\"time(minute)\",ylim=range(-1000,2000))\r\nlines(c(1:" + cnt + "),wake,type=\"s\",col=\"blue\")\r\nlines(c(1:" + cnt + "),sleeplong,type=\"s\",col=\"green\")\r\nlegend(\"topleft\",inset=.05,title=\"睡眠曲线\",c(\"睡(辅助线:凌晨)\",\"醒\",\"时长(辅助线:480)\"),lty=c(1,1,1),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 0,col=\"red\",lty = 3)\r\nabline(h = 1440,col=\"red\",lty = 3)\r\nabline(h = 480,col=\"green\",lty = 3)\r\naxis(1, c(1:" + cnt + "),date)\r\n";
     fs.writeFile("health/sleep.R", sleepstr, (err) => {
         if (err) throw err;
         console.log('health/sleep.R文件已被保存。在R环境运行 source(\"D:/huangyg/git/raw/health/sleep.R\",encoding = \"UTF-8\")');
@@ -624,6 +647,9 @@ function makeRfile() {
       });
 }
 
+//health/weight.R文件已被保存。在R环境运行 source("D:/huangyg/git/raw/health/weight.R",encoding = "UTF-8")
+//health/sleep.R文件已被保存。在R环境运行 source("D:/huangyg/git/raw/health/sleep.R",encoding = "UTF-8")
+//health/heartrate.R文件已被保存。在R环境运行 source("D:/huangyg/git/raw/health/heartrate.R",encoding = "UTF-8")
 
 // utils
 function GetNumByUnit(num, unitname,outunitname) {

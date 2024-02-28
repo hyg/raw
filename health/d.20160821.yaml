@@ -3,7 +3,7 @@ sleep:
   time: 20160821050100
   weight: 56.2
 wake: 
-  time: 2016082135000
+  time: 20160821135000
   weight: 55.5
 stool: 
 - time: 20160821040000

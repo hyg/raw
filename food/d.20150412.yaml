@@ -14,8 +14,8 @@ food:
   unit: g
 - time: 20150412055000
   name: 包子
-  amount: 2
-  unit: 个
+  amount: 100
+  unit: g
 - time: 20150412120000
   name: 麦片
   amount: 30

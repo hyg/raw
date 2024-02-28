@@ -1,11 +1,10 @@
 date: 20171229
 sleep: 
-  time: 20171228005600
+  time: 20171229005600
   weight: 63.5
 wake:
   time: 20171229081300
   weight: 63.0
-
 stool: 
 - time: 20171229102000
   amount: 2 # 				1:多;		2:适中;		3:少;

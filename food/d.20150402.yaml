@@ -10,20 +10,20 @@ food:
   unit: g
 - time: 20150402064500
   name: 海鸭蛋
-  amount: 1
-  unit: 个
+  amount: 60
+  unit: g
 - time: 20150402113000
   name: 麦片
   amount: 60
   unit: g
 - time: 20150402181000
   name: 肉包
-  amount: 2
-  unit: 个
+  amount: 100
+  unit: g
 - time: 20150402181000
   name: 菜包
-  amount: 2
-  unit: 个
+  amount: 100
+  unit: g
 - time: 20150402181000
   name: 胡萝卜
   amount: 250
