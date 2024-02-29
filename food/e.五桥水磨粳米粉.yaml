@@ -1,0 +1,24 @@
+name: 五桥水磨粳米粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1558
+    unit: kj
+    nrv: 19
+  蛋白质:
+    amount: 7
+    unit: g
+    nrv: 12
+  脂肪:
+    amount: 1.2
+    unit: g
+    nrv: 2
+  碳水化合物:
+    amount: 82
+    unit: g
+    nrv: 27
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0

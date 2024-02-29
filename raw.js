@@ -6,7 +6,6 @@ var child = require('child_process');
 
 // log and basic data
 var fmap = new Object();    // food log
-var rmap = new Object();    // recipe data
 var emap = new Object();    // element data
 var hmap = new Object();    // health log
 
@@ -120,11 +119,6 @@ function loadmap(){
                     f = yaml.load(fs.readFileSync("food/" + file, 'utf8'));
                     fmap[f.date] = f;
                 }
-            }
-            if (file.substr(0, 2) == "r.") {
-                r = yaml.load(fs.readFileSync("food/" + file, 'utf8'));
-                rmap[r.name] = r;
-                recipe2element(r);
             }
             if (file.substr(0, 2) == "e.") {
                 e = yaml.load(fs.readFileSync("food/" + file, 'utf8'));
@@ -634,7 +628,7 @@ function makeRfile() {
         console.log('health/weight.R文件已被保存。在R环境运行 source(\"D:/huangyg/git/raw/health/weight.R\",encoding = \"UTF-8\")');
       });
     
-    var sleepstr = d + "\r\n" + sleep + "\r\n" + wake + "\r\n" + sleeplong + "\r\nplot(c(1:" + cnt + "),sleep,type=\"s\",col=\"red\",xaxt=\"n\",xlab = \"date\",ylab=\"time(minute)\",ylim=range(-1000,2000))\r\nlines(c(1:" + cnt + "),wake,type=\"s\",col=\"blue\")\r\nlines(c(1:" + cnt + "),sleeplong,type=\"s\",col=\"green\")\r\nlegend(\"topleft\",inset=.05,title=\"睡眠曲线\",c(\"睡(辅助线:凌晨)\",\"醒\",\"时长(辅助线:480)\"),lty=c(1,1,1),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 0,col=\"red\",lty = 3)\r\nabline(h = 1440,col=\"red\",lty = 3)\r\nabline(h = 480,col=\"green\",lty = 3)\r\naxis(1, c(1:" + cnt + "),date)\r\n";
+    var sleepstr = d + "\r\n" + sleep + "\r\n" + wake + "\r\n" + sleeplong + "\r\nplot(c(1:" + cnt + "),sleep,type=\"s\",col=\"red\",xaxt=\"n\",xlab = \"date\",ylab=\"time(minute)\",ylim=range(-1000,2200))\r\nlines(c(1:" + cnt + "),wake,type=\"s\",col=\"blue\")\r\nlines(c(1:" + cnt + "),sleeplong,type=\"s\",col=\"green\")\r\nlegend(\"topleft\",inset=.05,title=\"睡眠曲线\",c(\"睡(辅助线:凌晨)\",\"醒\",\"时长(辅助线:480)\"),lty=c(1,1,1),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 0,col=\"red\",lty = 3)\r\nabline(h = 1440,col=\"red\",lty = 3)\r\nabline(h = 480,col=\"green\",lty = 3)\r\naxis(1, c(1:" + cnt + "),date)\r\n";
     fs.writeFile("health/sleep.R", sleepstr, (err) => {
         if (err) throw err;
         console.log('health/sleep.R文件已被保存。在R环境运行 source(\"D:/huangyg/git/raw/health/sleep.R\",encoding = \"UTF-8\")');

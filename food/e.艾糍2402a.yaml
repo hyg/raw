@@ -1,0 +1,28 @@
+name: 艾糍2402a
+amount: 16
+unit: 个
+food:
+  - name: 五桥水磨粳米粉
+    amount: 760
+    unit: g 
+  - name: 五桥艾草粉
+    amount: 15
+    unit: g 
+  - name: 蜜蜂牌红糖
+    amount: 90
+    unit: g 
+  - name: 蜜蜂牌红糖
+    amount: 90
+    unit: g 
+  - name: 椰蓉
+    amount: 90
+    unit: g
+  - name: 奇连黑芝麻
+    amount: 90
+    unit: g
+  - name: 脆兴隆花生碎
+    amount: 100
+    unit: g
+  - name: 水
+    amount: 720
+    unit: g

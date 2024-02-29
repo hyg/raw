@@ -1,0 +1,60 @@
+name: 奇连黑芝麻
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2217
+    unit: kj
+    nrv: 26
+  蛋白质:
+    amount: 16.4
+    unit: g
+    nrv: 27
+  脂肪:
+    amount: 38.0
+    unit: g
+    nrv: 63
+  碳水化合物:
+    amount: 31.3
+    unit: g
+    nrv: 10
+  钠:
+    amount: 303
+    unit: mg
+    nrv: 15
+  膳食纤维:
+    amount: 11.8
+    unit: g
+    nrv: 47.2
+  VA(视黄醇等):
+    amount: 9.0
+    unit: µg
+    nrv: 1.0
+  VB1(硫胺素):
+    amount: 0.54
+    unit: mg
+    nrv: 36.0
+  VB2(核黄素):
+    amount: 0.38
+    unit: mg
+    nrv: 22.4
+  VE(生育酚):
+    amount: 0.3
+    unit: mg
+    nrv: 3.0
+  钙:
+    amount: 970.0
+    unit: mg
+    nrv: 97.0
+  镁:
+    amount: 346.0
+    unit: mg
+    nrv: 86.5
+  铜:
+    amount: 1.7
+    unit: mg
+    nrv: 170
+  锌:
+    amount: 7.7
+    unit: mg
+    nrv: 70.0

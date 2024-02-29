@@ -1,0 +1,28 @@
+name: 五桥艾草粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1152
+    unit: kj
+    nrv: 14
+  蛋白质:
+    amount: 27.1
+    unit: g
+    nrv: 45
+  脂肪:
+    amount: 3.2
+    unit: g
+    nrv: 5
+  碳水化合物:
+    amount: 55.3
+    unit: g
+    nrv: 18
+  钠:
+    amount: 163
+    unit: mg
+    nrv: 8
+  膳食纤维:
+    amount: 40.8
+    unit: g
+    nrv: 163

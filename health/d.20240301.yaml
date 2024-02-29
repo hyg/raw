@@ -1,14 +1,14 @@
-date: 20240229
+date: 20240301
 sleep: 
-  time: 20240228170400
+  time: 20240229170400
   weight: 52.6
 wake:
-  time: 20240229002000
+  time: 20240301002000
   weight: 51.6
   SpO2: 95
   PRbpm: 62
 exercise: 
-- time: 2024022905200
+- time: 2024030105200
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -25,7 +25,7 @@ exercise:
   SpO2: 99
   PRbpm: 81
   endheartrate: 87
-- time: 20240229044000
+- time: 20240301044000
   item:
   - type:  跪姿俯卧撑(kneeling push-ups)*5
     amount: 5
@@ -33,7 +33,7 @@ exercise:
   SpO2: 98
   PRbpm: 100
 stool:
-- time: 20240229021500
+- time: 20240301021500
   amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
