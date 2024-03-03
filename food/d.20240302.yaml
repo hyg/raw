@@ -1,0 +1,211 @@
+date: 20240302
+food:
+  - time: 20240302054800
+    name: 龙丰果
+    amount: 62.5
+    unit: g
+  - time: 20240302055000
+    name: 犇野馆陶黑小麦全麦粉
+    amount: 50.0
+    unit: g
+  - time: 20240302055000
+    name: 雁门清高苦荞粉
+    amount: 4.125
+    unit: g
+  - time: 20240302055000
+    name: 辣木叶粉
+    amount: 5.875
+    unit: g
+  - time: 20240302055000
+    name: 晟世孚众红烧肉
+    amount: 40.5
+    unit: g
+  - time: 20240302055000
+    name: 韩三顺辣白菜
+    amount: 20.0
+    unit: g
+  - time: 20240302055000
+    name: 心果白果仁
+    amount: 10.5
+    unit: g
+  - time: 20240302055000
+    name: 南瓜
+    amount: 61.0
+    unit: g
+  - time: 20240302055000
+    name: 西兰苔
+    amount: 113.0
+    unit: g
+  - time: 20240302060700
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240302060700
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240302060700
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20240302062000
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240302110000
+    name: 番茄酱
+    amount: 29.5
+    unit: g
+  - time: 20240302110000
+    name: 菊粉
+    amount: 5.0
+    unit: g
+  - time: 20240302110200
+    name: 柿子
+    amount: 149.0
+    unit: g
+  - time: 20240302110700
+    name: 红薯
+    amount: 163.0
+    unit: g
+  - time: 20240302110700
+    name: 圆白菜
+    amount: 190.5
+    unit: g
+  - time: 20240302110700
+    name: 胡萝卜
+    amount: 127.0
+    unit: g
+  - time: 20240302110700
+    name: 金锣精制培根
+    amount: 45
+    unit: g
+  - time: 20240302110700
+    name: 中盐低钠盐
+    amount: 1.5
+    unit: g
+  - time: 20240302113000
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240302163800
+    name: 柚子
+    amount: 187.0
+    unit: g
+  - time: 20240302164200
+    name: 象大厨手擀式面
+    amount: 102.5
+    unit: g
+  - time: 20240302164200
+    name: 大白菜
+    amount: 90.0
+    unit: g
+  - time: 20240302164200
+    name: 鸡蛋
+    amount: 49.5
+    unit: g
+  - time: 20240302164200
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240302164200
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20240302164200
+    name: 香油
+    amount: 0.5
+    unit: g
+  - time: 20240302164200
+    name: 螺不凡78号汤底
+    amount: 1.0
+    unit: g
+  - time: 20240302164200
+    name: 邕味佳酸豆角
+    amount: 10.0
+    unit: g
+  - time: 20240302164200
+    name: 邕味佳红油酸笋
+    amount: 10.5
+    unit: g
+  - time: 20240302164800
+    name: 山河全脂奶粉
+    amount: 13.0
+    unit: g
+  - time: 20240302164800
+    name: 可可粉
+    amount: 3.0
+    unit: g
+  - time: 20240302164800
+    name: 菊粉
+    amount: 7.0
+    unit: g
+water:
+  - time: 20240302045500
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20240302053800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240302062000
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240302064300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240302070800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240302075400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240302090900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240302113000
+    name: 咖啡
+    amount: 83.5
+    unit: ml
+  - time: 20240302124100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240302145800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240302164200
+    name: 汤水
+    amount: 540
+    unit: ml
+  - time: 20240302164800
+    name: 可可奶
+    amount: 60.0
+    unit: ml
+  - time: 20240302205200
+    name: 开水
+    amount: 150
+    unit: ml
+med:
+  - time: 20240302064300
+    name: 维生素D3
+    amount: 125
+    unit: µg
+  - time: 20240302064300
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20240302064300
+    name: multi complete
+    amount: 1
+    unit: 片
+comment: |+
+  新一屉馒头用面粉400.0克、苦荞粉33.0克、辣木叶粉47.0克。8个馒头每个折算：面粉50.0克、苦荞粉4.125克、辣木叶粉5.875克。
+  两屉艾糍共使用760克粳米粉、15克艾草粉、100克花生碎、90克黑芝麻、90克椰蓉、90克红糖和720克水。

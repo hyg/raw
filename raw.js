@@ -456,7 +456,7 @@ function foodsum(foodname,foodamount,foodunit,etable,ftable){
                 if(e==Keyelement){
                     var data = new Object();
                     data["名称"] = foodname ;
-                    data["摄入数量"] = foodamount+food[id].unit ;
+                    data["摄入数量"] = foodamount+foodunit ;
                     data["含有"+Keyelement] = item.amount.toFixed(3)+item.unit ;
                     data["累计摄入"] = etable[e].amount.toFixed(3)+item.unit ;
                     data["累计nrv"] = etable[e].nrv.toFixed(2)+"%" ;
