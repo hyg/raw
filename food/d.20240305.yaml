@@ -1,0 +1,212 @@
+date: 20240305
+food:
+  - time: 20240305074000
+    name: 番石榴
+    amount: 146.0
+    unit: g
+  - time: 20240305074300
+    name: 艾糍2402a
+    amount: 1
+    unit: 个
+  - time: 20240305074300
+    name: 晟世孚众红烧肉
+    amount: 40.0
+    unit: g
+  - time: 20240305074300
+    name: 韩三顺辣白菜
+    amount: 20.5
+    unit: g
+  - time: 20240305074300
+    name: 心果白果仁
+    amount: 10.0
+    unit: g
+  - time: 20240305074300
+    name: 南瓜
+    amount: 72.5
+    unit: g
+  - time: 20240305074300
+    name: 西兰苔
+    amount: 70.0
+    unit: g
+  - time: 20240305080100
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240305080100
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240305080100
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20240305053800
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+
+  - time: 20240305104200
+    name: 番茄酱
+    amount: 30.0
+    unit: g
+  - time: 20240305104200
+    name: 菊粉
+    amount: 3.0
+    unit: g
+
+  - time: 20240305104500
+    name: 柿子
+    amount: 175
+    unit: g
+
+  - time: 20240305105000
+    name: 红薯
+    amount: 160
+    unit: g
+  - time: 20240305105000
+    name: 山药豆
+    amount: 40.0
+    unit: g
+  - time: 20240305105000
+    name: 圆白菜
+    amount: 180
+    unit: g
+  - time: 20240305105000
+    name: 胡萝卜
+    amount: 120
+    unit: g
+  - time: 20240305105000
+    name: 鸡蛋
+    amount: 50
+    unit: g
+  - time: 20240305105000
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+
+  - time: 20240305110900
+    name: 山河全脂奶粉
+    amount: 10
+    unit: g
+  - time: 20240305110900
+    name: 河套脱脂奶粉
+    amount: 10
+    unit: g
+
+  - time: 20240305160000
+    name: 穆芝堂沙棘原浆
+    amount: 25
+    unit: g
+  - time: 20240305160000
+    name: 菊粉
+    amount: 3
+    unit: g
+
+  - time: 20240305162300
+    name: 胡柚
+    amount: 120
+    unit: g
+
+  - time: 20240305162500
+    name: 太平米饼
+    amount: 50
+    unit: g
+  - time: 20240305162500
+    name: 圆白菜
+    amount: 150
+    unit: g
+  - time: 20240305162500
+    name: 白玉卤水北豆腐
+    amount: 100
+    unit: g
+  - time: 20240305162500
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240305162500
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20240305162500
+    name: 香油
+    amount: 0.5
+    unit: g
+
+  - time: 20240305164300
+    name: 山河全脂奶粉
+    amount: 0
+    unit: g
+  - time: 20240305164300
+    name: 河套脱脂奶粉
+    amount: 20
+    unit: g
+water:
+  - time: 20240305064800
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20240305072700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240305053800
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240305083300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240305093400
+    name: 开水
+    amount: 250
+    unit: ml
+
+  - time: 20240305072300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240305095200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240305110900
+    name: 咖啡
+    amount: 82.0
+    unit: ml
+  - time: 20240305123800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240305134700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240305162500
+    name: 汤水
+    amount: 750
+    unit: ml
+  - time: 20240305164300
+    name: 可可奶
+    amount: 70.0
+    unit: ml
+  - time: 20240305182600
+    name: 开水
+    amount: 200
+    unit: ml
+med:
+  - time: 20240305083300
+    name: 维生素D3
+    amount: 125
+    unit: µg
+  - time: 20240305083300
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20240305083300
+    name: multi complete
+    amount: 1
+    unit: 片
+comment: |+
+  新一屉馒头用面粉400.0克、苦荞粉33.0克、辣木叶粉47.0克。8个馒头每个折算：面粉50.0克、苦荞粉4.125克、辣木叶粉5.875克。
+  两屉艾糍共使用760克粳米粉、15克艾草粉、100克花生碎、90克黑芝麻、90克椰蓉、90克红糖和720克水。
