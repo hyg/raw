@@ -11,9 +11,6 @@ food:
   - name: 蜜蜂牌红糖
     amount: 90
     unit: g 
-  - name: 蜜蜂牌红糖
-    amount: 90
-    unit: g 
   - name: 椰蓉
     amount: 90
     unit: g
