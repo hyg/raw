@@ -1,174 +1,151 @@
 date: 20240312
 food:
-  - time: 20240312034000
+  - time: 20240312045600
     name: 番石榴
-    amount: 114
+    amount: 110.0
     unit: g
-
-  - time: 20240312034300
+  - time: 20240312045900
     name: 艾糍2402a
     amount: 1
     unit: 个
-  - time: 20240312034300
+  - time: 20240312045900
     name: 晟世孚众红烧肉
     amount: 30.0
     unit: g
-  - time: 20240312034300
+  - time: 20240312045900
     name: 灰枣
-    amount: 20
+    amount: 20.5
     unit: g
-  - time: 20240312034300
+  - time: 20240312045900
     name: 心果白果仁
-    amount: 10.0
+    amount: 11.5
     unit: g
-  - time: 20240312034300
+  - time: 20240312045900
     name: 南瓜
-    amount: 70
+    amount: 58.0
     unit: g
-  - time: 20240312034300
+  - time: 20240312045900
     name: 秋葵
-    amount: 105
+    amount: 105.0
     unit: g
-
-  - time: 20240312040400
+  - time: 20240312052200
     name: 桑葚干
     amount: 10.0
     unit: g
-  - time: 20240312040400
+  - time: 20240312052200
     name: 亚麻籽
     amount: 5.0
     unit: g
-  - time: 20240312040400
+  - time: 20240312052200
     name: 麦胚芽
     amount: 10.0
     unit: g
-
-  - time: 20240312041200
+  - time: 20240312053000
     name: 山河全脂奶粉
     amount: 20.0
     unit: g
-
-  - time: 20240312094900
+  - time: 20240312103100
     name: 番茄酱
     amount: 29.0
     unit: g
-
-  - time: 20240312095300
-    name: 柿子
-    amount: 155
+  - time: 20240312103100
+    name: 穆芝堂沙棘原浆
+    amount: 7.0
     unit: g
-
-  - time: 20240312095600
+  - time: 20240312103500
+    name: 柿子
+    amount: 152.0
+    unit: g
+  - time: 20240312103900
     name: 大米
     amount: 30.0
     unit: g
-  - time: 20240312095600
+  - time: 20240312103900
     name: 紫米
     amount: 10.0
     unit: g
-  - time: 20240312095600
+  - time: 20240312103900
     name: 旷野金农有机燕麦米
     amount: 10.0
     unit: g
-  - time: 20240312095600
+  - time: 20240312103900
     name: 旷野金农有机玉米碴
     amount: 10.0
     unit: g
-  - time: 20240312095600
-    name: 绿豆
-    amount: 0
-    unit: g
-  - time: 20240312095600
+  - time: 20240312103900
     name: 菠菜
-    amount: 150
+    amount: 150.0
     unit: g
-  - time: 20240312095600
+  - time: 20240312103900
     name: 杏鲍菇
-    amount: 101
+    amount: 108.5
     unit: g
-  - time: 20240312095600
+  - time: 20240312103900
     name: 金锣精制培根
     amount: 45
     unit: g
-  - time: 20240312095600
+  - time: 20240312103900
     name: 中盐低钠盐
     amount: 1.0
     unit: g
-  - time: 20240312095600
-    name: 油
-    amount: 1.0
-    unit: g
-
-  - time: 20240312101600
+  - time: 20240312111300
     name: 山河全脂奶粉
     amount: 10.0
     unit: g
-  - time: 20240312101600
+  - time: 20240312111300
     name: 河套脱脂奶粉
     amount: 10.0
     unit: g
-
-  - time: 20240312145500
-    name: 穆芝堂沙棘原浆
-    amount: 20
-    unit: g
-
-  - time: 20240312145700
+  - time: 20240312145400
     name: 胡柚
-    amount: 135
+    amount: 123.0
     unit: g
-
-  - time: 20240312150000
-    name: 红薯
-    amount: 120
+  - time: 20240312145700
+    name: 烤红薯240311
+    amount: 98.5
     unit: g
-  - time: 20240312150000
-    name: 山药豆
-    amount: 50
-    unit: g
-  - time: 20240312150000
+  - time: 20240312145700
     name: 大白菜
-    amount: 150
+    amount: 170.0
     unit: g
-  - time: 20240312150000
+  - time: 20240312145700
     name: 香香唯北豆腐
-    amount: 100
+    amount: 79.0
     unit: g
-  - time: 20240312150000
+  - time: 20240312145700
+    name: 鸡蛋
+    amount: 45.5
+    unit: g
+  - time: 20240312145700
     name: 中盐低钠盐
-    amount: 1.0
+    amount: 1.5
     unit: g
-  - time: 20240312150000
+  - time: 20240312145700
     name: 鲜味王
     amount: 0.5
     unit: g
-  - time: 20240312150000
+  - time: 20240312145700
     name: 香油
     amount: 0.5
     unit: g
-
-  - time: 20240312153000
+  - time: 20240312154600
     name: 河套脱脂奶粉
-    amount: 20
+    amount: 21.0
     unit: g
 water:
-  - time: 20240312024200
+  - time: 20240312040200
     name: 开水
-    amount: 100
+    amount: 120
     unit: ml
-  - time: 20240312032500
+  - time: 20240312044500
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240312041200
+  - time: 20240312053000
     name: 咖啡
     amount: 81.0
     unit: ml
-  - time: 20240312044300
-    name: 开水
-    amount: 250
-    unit: ml
-  - time: 20240312053500
+  - time: 20240312060100
     name: 开水
     amount: 250
     unit: ml
@@ -180,44 +157,44 @@ water:
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240312101600
-    name: 咖啡
-    amount: 80.0
-    unit: ml
-  - time: 20240312113500
-    name: 开水
-    amount: 230
-    unit: ml
-  - time: 20240312135500
+  - time: 20240312093800
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240312150000
-    name: 汤水
-    amount: 500
+  - time: 20240312111300
+    name: 咖啡
+    amount: 80.5
     unit: ml
-  - time: 20240312153000
-    name: 牛奶
-    amount: 83.0
-    unit: ml
-  - time: 20240312164800
+  - time: 20240312123300
     name: 开水
-    amount: 150
+    amount: 230
+    unit: ml
+  - time: 20240312145700
+    name: 汤水
+    amount: 430
+    unit: ml
+  - time: 20240312154600
+    name: 牛奶
+    amount: 81.5
+    unit: ml
+  - time: 20240312163400
+    name: 开水
+    amount: 200
     unit: ml
 med:
-  - time: 20240312044300
+  - time: 20240312060100
     name: 维生素D3
     amount: 125
     unit: µg
-  - time: 20240312044300
+  - time: 20240312060100
     name: selenium
     amount: 200
     unit: µg
-  - time: 20240312044300
+  - time: 20240312060100
     name: multi complete
     amount: 1
     unit: 片
 comment: |+
   两屉艾糍共使用760克粳米粉、15克艾草粉、100克花生碎、90克黑芝麻、90克椰蓉、90克红糖和720克水。
-  烤红天使蜜薯：生重1073.5克，熟重787.0克。230°C、30+30分钟。今天吃熟重160.5克、生重218.9克。
+  烤红天使蜜薯：生重1073.5克，熟重787.0克。230°C、30+30分钟。今天吃熟重98.5克、生重134.36克。
   烤山药豆：生重601.0克，熟重526.5克。230°C、30分钟。

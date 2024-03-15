@@ -1,0 +1,39 @@
+name: 艾糍2403a
+amount: 16
+unit: 个
+food:
+  - name: 五桥水磨粳米粉
+    amount: 377.75
+    unit: g 
+  - name: 糯米粉
+    amount: 85.0
+    unit: g 
+  - name: 艾草
+    amount: 75.0
+    unit: g 
+  - name: 蜜蜂牌红糖
+    amount: 65
+    unit: g 
+  - name: 椰蓉
+    amount: 30
+    unit: g
+  - name: 奇连黑芝麻
+    amount: 41
+    unit: g
+  - name: 脆兴隆花生碎
+    amount: 124
+    unit: g
+  - name: 水
+    amount: 350
+    unit: g
+direction: |
+  1. 艾草150.0g在80°C焯水5分钟，挑出败叶，滤出艾草搅拌成浆。
+  1. 艾草浆+水400.0g，煮沸。
+  1. 面团1=粳米粉400.5g+沸艾草浆g
+  1. 面团2=面团1+粳米粉355.0g+糯米粉170.0g+凉水300.0g
+  1. 取面团2的一半，静置20分钟。
+  1. 馅料=黑芝麻41.0g+花生碎124.0g+椰蓉30.0g+红糖65.0g
+  1. 包成16个艾糍，100°C蒸汽30分钟。
+comment: |+
+  - 按比例应该加571.42g水，面团2加水171.42g即可。
+  - 可以适当要一些嫩梗。

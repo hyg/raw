@@ -1,0 +1,39 @@
+date: 20240315
+sleep: 
+  time: 20240314225600
+  weight: 52.2
+wake:
+  time: 20240315062900
+  weight: 51.4
+  SpO2: 96
+  PRbpm: 63
+exercise: 
+- time: 20240315032500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: 超人敬礼*5 + 俯卧两头起(Superman exercise)*5 + 跪姿俯卧撑(kneeling push-ups)*5
+    amount: 2 
+    unit: set
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 99
+  PRbpm: 87
+  endheartrate: 86
+stool:
+- time: 20240315093000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间起来小便1次，不需要补水。昨晚用半满热水袋和热水杯。睡下时烫的舒服，早上热出汗。
+  室内运动后把脉：关脉深度浅、寸脉中偏浅、尺脉深度中；三处侧向居中；三处清晰有力。
+
+  起床后穿caxa运动长裤、厚长裤、短袖T恤、P棉背心、高帮靴、戴帽。
+  室内运动后穿护膝、在P棉背心外穿上小泰坦，鞋里用大取暖贴。
+

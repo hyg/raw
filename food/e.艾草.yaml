@@ -1,0 +1,76 @@
+name: 艾草
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 19
+    unit: kcal
+    nrv: 1
+  蛋白质:
+    amount: 0.7
+    unit: g
+    nrv: 1
+  脂肪:
+    amount: 0.6
+    unit: g
+    nrv: 1.3
+  碳水化合物:
+    amount: 3.7
+    unit: g
+    nrv: 1.5
+  钠:
+    amount: 1.9
+    unit: mg
+    nrv: 0.1
+  膳食纤维:
+    amount: 0.9
+    unit: g
+    nrv: 3
+  VC(抗坏血酸):
+    amount: 2
+    unit: mg
+    nrv: 2
+  VB2(核黄素):
+    amount: 0.01
+    unit: mg
+    nrv: 0.7
+  VB3(烟酸):
+    amount: 0.3
+    unit: mg
+    nrv: 2.1
+  镁:
+    amount: 24
+    unit: mg
+    nrv: 7.3
+  钙:
+    amount: 9
+    unit: mg
+    nrv: 1.1
+  铁:
+    amount: 0.8
+    unit: mg
+    nrv: 6.7
+  锌:
+    amount: 0.17
+    unit: mg
+    nrv: 1.4
+  铜:
+    amount: 0.03
+    unit: mg
+    nrv: 3.75
+  锰:
+    amount: 3.38
+    unit: mg
+    nrv: 75
+  钾:
+    amount: 160
+    unit: mg
+    nrv: 8
+  磷:
+    amount: 11
+    unit: mg
+    nrv: 1.5
+  硒:
+    amount: 0.1
+    unit: μg
+    nrv: 0.17

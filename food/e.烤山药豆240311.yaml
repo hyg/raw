@@ -1,0 +1,10 @@
+name: 烤山药豆240311
+amount: 526.5
+unit: g
+food:
+  - name: 山药豆
+    amount: 601.0
+    unit: g
+direction: |
+  230°C、30分钟。
+comment: |+
