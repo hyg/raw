@@ -1,0 +1,19 @@
+name: 叉烧鸡腿肉240318
+amount: 244.5
+unit: g
+food:
+  - name: 鸡腿肉
+    amount: 692.3
+    unit: g
+  - name: 东古叉烧酱
+    amount: 101.5
+    unit: g
+  - name: 姜
+    amount: 16.0
+    unit: g
+direction: |
+  1. 加适量料酒拌匀，冷藏隔夜。
+  1. 电高压锅15分钟。
+  1. 翻面。
+  1. 电高压锅10分钟。
+comment: |+
