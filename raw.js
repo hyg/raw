@@ -16,7 +16,7 @@ var startdate,enddate ;
 var etable = new Object();  // element data
 var ftable = new Object();  // food data
 // element detail tables
-//const Keyelement = "热量";
+const Keyelement = "热量";
 //const Keyelement = "蛋白质";
 //const Keyelement = "脂肪";
 //const Keyelement = "碳水化合物";
@@ -311,7 +311,7 @@ function fooddaysum(date,etable,ftable){
         etable["水"] = { "amount": amount, "unit": "ml", "nrv": nrv };
     }
 
-    // food字段的格式于element字段不同。
+    // food字段的格式与element字段不同。
     // 原因是同一种食材可能在food重复出现，以备将来表达烹饪步骤分次加入。
     var food = d.food;
     for (var id in food) {
@@ -373,7 +373,7 @@ function fooddaysum(date,etable,ftable){
                     if(e==Keyelement){
                         var data = new Object();
                         data["名称"] = med[id].name ;
-                        data["摄入数量"] = med[id].amount+med[id].unit ;
+                        data["摄入数量"] = med[id].amount.toFixed(2)+med[id].unit ;
                         data["含有"+Keyelement] = item.amount.toFixed(3)+item.unit ;
                         data["累计摄入"] = etable[e].amount.toFixed(3)+item.unit ;
                         data["累计nrv"] = etable[e].nrv.toFixed(2)+"%" ;
@@ -456,7 +456,7 @@ function foodsum(foodname,foodamount,foodunit,etable,ftable){
                 if(e==Keyelement){
                     var data = new Object();
                     data["名称"] = foodname ;
-                    data["摄入数量"] = foodamount+foodunit ;
+                    data["摄入数量"] = foodamount.toFixed(2)+foodunit ;
                     data["含有"+Keyelement] = item.amount.toFixed(3)+item.unit ;
                     data["累计摄入"] = etable[e].amount.toFixed(3)+item.unit ;
                     data["累计nrv"] = etable[e].nrv.toFixed(2)+"%" ;

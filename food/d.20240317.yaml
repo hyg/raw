@@ -100,6 +100,34 @@ food:
     name: 香油
     amount: 0.5
     unit: g
+  - time: 20240317184500
+    name: 蛋挞
+    amount: 20
+    unit: g
+  - time: 20240317184500
+    name: 鸡腿肉
+    amount: 150
+    unit: g
+    comment: 所有肉类折算合计
+  - time: 20240317184500
+    name: 山药豆
+    amount: 100
+    unit: g
+    comment: 山药
+  - time: 20240317184500
+    name: 生菜
+    amount: 20
+    unit: g
+  - time: 20240317184500
+    name: 鸡蛋
+    amount: 5
+    unit: g
+    comment: 沙拉酱
+  - time: 20240317184500
+    name: 白象菌菇三鲜蒸煎饺
+    amount: 40
+    unit: g
+    comment: 三鲜饺子两个
 water:
   - time: 20240317041200
     name: 开水
@@ -144,6 +172,14 @@ water:
   - time: 20240317152900
     name: 开水
     amount: 150
+    unit: ml
+  - time: 20240317182500
+    name: 菊花茶
+    amount: 200
+    unit: ml
+  - time: 20240317211000
+    name: 开水
+    amount: 250
     unit: ml
 med:
   - time: 20240317055500

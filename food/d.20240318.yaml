@@ -1,0 +1,191 @@
+date: 20240318
+food:
+  - time: 20240318051000
+    name: 番石榴
+    amount: 115.0
+    unit: g
+
+  - time: 20240318051400
+    name: 艾糍2402a
+    amount: 1
+    unit: 个
+  - time: 20240318051400
+    name: 捷百味毛氏红烧肉
+    amount: 70
+    unit: g
+  - time: 20240318051400
+    name: 心果白果仁
+    amount: 10.0
+    unit: g
+  - time: 20240318051400
+    name: 南瓜
+    amount: 60.0
+    unit: g
+  - time: 20240318051400
+    name: 秋葵
+    amount: 100
+    unit: g
+
+  - time: 20240318053400
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240318053400
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240318053400
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+
+  - time: 20240318054200
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+
+  - time: 20240318103900
+    name: 番茄酱
+    amount: 29.0
+    unit: g
+
+  - time: 20240318104100
+    name: 柿子
+    amount: 166
+    unit: g
+
+  - time: 20240318104400
+    name: 大米
+    amount: 30.0
+    unit: g
+  - time: 20240318104400
+    name: 紫米
+    amount: 10.0
+    unit: g
+  - time: 20240318104400
+    name: 旷野金农有机燕麦米
+    amount: 10.0
+    unit: g
+  - time: 20240318104400
+    name: 旷野金农有机玉米碴
+    amount: 10.0
+    unit: g
+  - time: 20240318104400
+    name: 菜心
+    amount: 180
+    unit: g
+  - time: 20240318104400
+    name: 叉烧鸡腿肉240318
+    amount: 60
+    unit: g
+  - time: 20240318104400
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+
+  - time: 20240318105600
+    name: 山河全脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240318105600
+    name: 河套脱脂奶粉
+    amount: 10.0
+    unit: g
+
+  - time: 20240318144100
+    name: 胡柚
+    amount: 104.0
+    unit: g
+
+  - time: 20240318152100
+    name: 五桥宁波水磨年糕
+    amount: 135
+    unit: g
+  - time: 20240318152100
+    name: 大白菜
+    amount: 150
+    unit: g
+  - time: 20240318152100
+    name: 鸡蛋
+    amount: 50
+    unit: g
+  - time: 20240318152100
+    name: 中盐低钠盐
+    amount: 1.0 
+    unit: g
+  - time: 20240318152100
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20240318152100
+    name: 香油
+    amount: 0.5
+    unit: g
+
+  - time: 20240318155600
+    name: 河套脱脂奶粉
+    amount: 20.0
+    unit: g
+water:
+  - time: 20240318041200
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20240318050000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240318054200
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240318055500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240318063340
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240318085600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240318095600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240318083800
+    name: 牛奶
+    amount: 80.0
+    unit: ml
+  - time: 20240318131500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240318152100
+    name: 汤水
+    amount: 420
+    unit: ml
+  - time: 20240318152900
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20240318182500
+    name: 菊花茶
+    amount: 200
+    unit: ml
+  - time: 20240318211000
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20240318055500
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20240318055500
+    name: multi complete
+    amount: 1
+    unit: 片
+comment: |+
