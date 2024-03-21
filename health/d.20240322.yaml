@@ -1,0 +1,55 @@
+date: 20240322
+sleep: 
+  time: 20240321194600
+  weight: 52.3
+wake:
+  time: 20240322050600
+  weight: 50.9
+  SpO2: 95
+  PRbpm: 60
+exercise: 
+- time: 20240322053500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: 超人敬礼*5 + 俯卧两头起(Superman exercise)*5 + 跪姿俯卧撑(kneeling push-ups)*5
+    amount: 2 
+    unit: set
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 99
+  PRbpm: 87
+  endheartrate: 83
+- time: 20240322060200
+  item:
+  - type: walk
+    amount: 27
+    unit: minute
+  SpO2: 96
+  PRbpm: 131
+- time: 20240322153000
+  item:
+  - type:  跪姿俯卧撑(kneeling push-ups)*5
+    amount: 5
+    unit: set
+  SpO2: 97
+  PRbpm: 92
+stool:
+- time: 20240322073100
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间起来小便1次，不需要补水。前天喝了咖啡，左脸长了个痘痘，高度大概在人中中线，距离人中大概两节食指。
+  室内运动后把脉：关脉深度浅、寸脉中偏浅、尺脉深度中；三处侧向居中；三处清晰有力。
+  室外运动时擤鼻涕一次，清鼻涕。
+  第一轮俯卧撑：各组结束血氧是97、97、98、97、97，心率是89、95、87、94、92次，恢复时间是：35、55、55、51、164秒。
+
+  起床后穿抓绒长裤、厚长裤、短袖T恤、P棉背心、高帮靴、戴帽。
+  室内运动后穿护膝、在P棉背心外穿上小泰坦，鞋里用发热鞋垫。
+  室外运动把厚长裤换成空气层长裤，P棉背心和小泰坦换成薄外套，室外运动后换回室内穿着。

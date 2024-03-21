@@ -1,0 +1,178 @@
+date: 20240320
+food:
+  - time: 20240320063800
+    name: 番石榴
+    amount: 173.5
+    unit: g
+  - time: 20240320064000
+    name: 艾糍2403a
+    amount: 1
+    unit: 个
+  - time: 20240320064000
+    name: 捷百味毛氏红烧肉
+    amount: 67.5
+    unit: g
+  - time: 20240320064000
+    name: 心果白果仁
+    amount: 10.0
+    unit: g
+  - time: 20240320064000
+    name: 南瓜
+    amount: 54.5
+    unit: g
+  - time: 20240320064000
+    name: 大白菜
+    amount: 98.5
+    unit: g
+  - time: 20240320065000
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240320065000
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240320065000
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20240320065800
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240320115200
+    name: 番茄酱
+    amount: 36.5
+    unit: g
+  - time: 20240320115800
+    name: 柿子
+    amount: 194.0
+    unit: g
+  - time: 20240320120000
+    name: 五桥宁波水磨年糕
+    amount: 119.5
+    unit: g
+  - time: 20240320120000
+    name: 杏鲍菇
+    amount: 98.5
+    unit: g
+  - time: 20240320120000
+    name: 菜心
+    amount: 131.5
+    unit: g
+  - time: 20240320120000
+    name: 叉烧鸡腿肉240318
+    amount: 1
+    unit: 块
+  - time: 20240320120000
+    name: 中盐低钠盐
+    amount: 2.5
+    unit: g
+  - time: 20240320123000
+    name: 河套脱脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240320171300
+    name: 胡柚
+    amount: 103.5
+    unit: g
+  - time: 20240320171500
+    name: 太平米饼
+    amount: 51.5
+    unit: g
+  - time: 20240320171500
+    name: 芹菜
+    amount: 83.0
+    unit: g
+  - time: 20240320171500
+    name: 香香唯北豆腐
+    amount: 97.5
+    unit: g
+  - time: 20240320171500
+    name: 鸡蛋
+    amount: 49.5
+    unit: g
+  - time: 20240320171500
+    name: 中盐低钠盐
+    amount: 1.0 
+    unit: g
+  - time: 20240320171500
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20240320171500
+    name: 香油
+    amount: 0.5
+    unit: g
+  - time: 20240320175000
+    name: 山河全脂奶粉
+    amount: 11.0
+    unit: g
+  - time: 20240320175000
+    name: 河套脱脂奶粉
+    amount: 9.5
+    unit: g
+water:
+  - time: 20240320053500
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20240320062000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240320065800
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240320071500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240320080400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240320084000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240320104800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240320123000
+    name: 牛奶
+    amount: 81.0
+    unit: ml
+  - time: 20240320140400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240320160100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240320171500
+    name: 汤水
+    amount: 266
+    unit: ml
+  - time: 20240320175000
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20240320184700
+    name: 开水
+    amount: 150
+    unit: ml
+med:
+  - time: 20240320071500
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20240320071500
+    name: multi complete
+    amount: 1
+    unit: 片
+comment: |+
+  摘洗艾草46.0克，做成艾草浆冷冻备用。

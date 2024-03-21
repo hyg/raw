@@ -106,7 +106,7 @@ food:
     unit: g
   - time: 20240317184500
     name: 鸡腿肉
-    amount: 150
+    amount: 200
     unit: g
     comment: 所有肉类折算合计
   - time: 20240317184500
@@ -128,6 +128,18 @@ food:
     amount: 40
     unit: g
     comment: 三鲜饺子两个
+  - time: 20240317184500
+    name: 低钠盐
+    amount: 5
+    unit: g
+  - time: 20240317184500
+    name: 油
+    amount: 5
+    unit: g
+  - time: 20240317184500
+    name: 橙
+    amount: 400
+    unit: g
 water:
   - time: 20240317041200
     name: 开水

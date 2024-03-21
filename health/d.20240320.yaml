@@ -1,0 +1,38 @@
+date: 20240320
+sleep: 
+  time: 20240319233900
+  weight: 51.2
+wake:
+  time: 20240320052600
+  weight: 50.8
+  SpO2: 96
+  PRbpm: 66
+exercise: 
+- time: 20240320055500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: 超人敬礼*5 + 俯卧两头起(Superman exercise)*5 + 跪姿俯卧撑(kneeling push-ups)*5
+    amount: 2 
+    unit: set
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 99
+  PRbpm: 82
+  endheartrate: 91
+stool:
+- time: 20240320073100
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+comment: |+
+  睡觉中间没有起来小便，不需要补水。昨晚喝了咖啡心率有点高。
+  室内运动后把脉：关脉深度浅、尺脉中偏浅、寸脉深度中；三处侧向居中；三处清晰有力。
+  
+  起床后穿抓绒长裤、厚长裤、短袖T恤、P棉背心、高帮靴、戴帽。
+  室内运动后穿护膝、在P棉背心外穿上小泰坦，鞋里用发热鞋垫。

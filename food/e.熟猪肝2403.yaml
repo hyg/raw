@@ -1,0 +1,10 @@
+name: 熟猪肝2403
+amount: 152.0
+unit: g
+food:
+  - name: 猪肝
+    amount: 211.5
+    unit: g
+direction: |
+  猪肝用清水煮熟，切片冷冻。
+comment: |+
