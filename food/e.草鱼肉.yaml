@@ -1,0 +1,80 @@
+name: 草鱼肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 493
+    unit: kj
+    nrv: 6
+  蛋白质:
+    amount: 16.6
+    unit: g
+    nrv: 26
+  脂肪:
+    amount: 5.2
+    unit: g
+    nrv: 11
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  钠:
+    amount: 46
+    unit: mg
+    nrv: 3
+  VA(视黄醇等):
+    amount: 11
+    unit: μg
+    nrv: 1.4
+  VE(生育酚):
+    amount: 2.03
+    unit: mg
+    nrv: 1.45
+  VB1(硫胺素):
+    amount: 0.04
+    unit: mg
+    nrv: 2.9
+  VB2(核黄素):
+    amount: 0.11
+    unit: mg
+    nrv: 7.9
+  VB3(烟酸):
+    amount: 2.8
+    unit: mg
+    nrv: 18.7
+  磷:
+    amount: 203
+    unit: mg
+    nrv: 28.2
+  钾:
+    amount: 312
+    unit: mg
+    nrv: 15.6
+  镁:
+    amount: 31
+    unit: mg
+    nrv: 9.4
+  钙:
+    amount: 38
+    unit: mg
+    nrv: 4.75
+  铁:
+    amount: 0.8
+    unit: mg
+    nrv: 6.7
+  锌:
+    amount: 0.87
+    unit: mg
+    nrv: 7
+  硒:
+    amount: 6.7
+    unit: μg
+    nrv: 11.2
+  铜:
+    amount: 0.05
+    unit: mg
+    nrv: 6.25
+  锰:
+    amount: 0.05
+    unit: mg
+    nrv: 1.1
