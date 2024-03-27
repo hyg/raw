@@ -5,6 +5,6 @@ food:
   - name: 山药豆
     amount: 601.0
     unit: g
-direction: |
+log: |
   230°C、30分钟。
 comment: |+

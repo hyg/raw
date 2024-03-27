@@ -5,6 +5,6 @@ food:
   - name: 红薯
     amount: 1073.5
     unit: g
-direction: |
+log: |
   230°C、30+30分钟。
 comment: |+

@@ -8,7 +8,7 @@ food:
   - name: 东古叉烧酱
     amount: 60.0
     unit: g
-direction: |
+log: |
   1. 加适量料酒拌匀，冷藏隔夜。
   1. 电高压锅20分钟。
   1. 翻面。
