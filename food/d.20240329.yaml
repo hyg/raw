@@ -1,0 +1,186 @@
+date: 20240329
+food:
+  - time: 20240329071200
+    name: 番石榴
+    amount: 203.0
+    unit: g
+  - time: 20240329071500
+    name: 艾糍2403a
+    amount: 1
+    unit: 个
+  - time: 20240329071500
+    name: 佬兵回锅肉
+    amount: 62.5
+    unit: g
+  - time: 20240329071500
+    name: 心果白果仁
+    amount: 10.0
+    unit: g
+  - time: 20240329071500
+    name: 南瓜
+    amount: 67.0
+    unit: g
+  - time: 20240329071500
+    name: 芦笋
+    amount: 162.0
+    unit: g
+  - time: 20240329073300
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240329073300
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240329073300
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20240329074300
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240329074300
+    name: 瑞幸冷萃咖啡液
+    amount: 0.5
+    unit: 份
+  - time: 202403291113800
+    name: 番茄酱
+    amount: 25.0
+    unit: g
+  - time: 202403291113800
+    name: 菊粉
+    amount: 6.5
+    unit: g
+  - time: 202403291114100
+    name: 橙
+    amount: 87.5
+    unit: g
+  - time: 20240329114400
+    name: 黑米饭2403
+    amount: 1
+    unit: 份
+  - time: 20240329114400
+    name: 菜心
+    amount: 53.0
+    unit: g
+  - time: 20240329114400
+    name: 大白菜
+    amount: 138.0
+    unit: g
+  - time: 20240329114400
+    name: 胡萝卜
+    amount: 95.5
+    unit: g
+  - time: 20240329114400
+    name: 猪肉
+    amount: 54.5
+    unit: g
+  - time: 20240329114400
+    name: 中盐低钠盐
+    amount: 1.5
+    unit: g
+  - time: 20240329120100
+    name: 山河全脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240329120100
+    name: 河套脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240329120100
+    name: 瑞幸冷萃咖啡液
+    amount: 0.5
+    unit: 份
+  - time: 20240329173800
+    name: 胡柚
+    amount: 96.5
+    unit: g
+  - time: 20240329174200
+    name: 肉包子2403
+    amount: 1
+    unit: 个
+  - time: 20240329174200
+    name: 水焯春笋2403
+    amount: 137.0
+    unit: g
+  - time: 20240329174200
+    name: 烤鱼头2403
+    amount: 76.5
+    unit: g
+  - time: 20240329174200
+    name: 灰枣
+    amount: 22.0
+    unit: g
+  - time: 20240329174200
+    name: 芡实
+    amount: 33.5
+    unit: g
+  - time: 20240329174200
+    name: 中盐低钠盐
+    amount: 1.5
+    unit: g
+  - time: 20240329181800
+    name: 河套脱脂奶粉
+    amount: 18.5
+    unit: g
+water:
+  - time: 20240329061600
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20240329070100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240329074300
+    name: 咖啡
+    amount: 81.0
+    unit: ml
+  - time: 20240329082900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240329085900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240329102900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240329120100
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240329132400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240329151900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240329174200
+    name: 汤水
+    amount: 200
+    unit: ml
+  - time: 20240329181800
+    name: 牛奶
+    amount: 80.0
+    unit: ml
+  - time: 20240329192200
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20240329082900
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20240329082900
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |+

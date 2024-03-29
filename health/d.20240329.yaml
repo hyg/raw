@@ -1,14 +1,14 @@
-date: 20240327
+date: 20240329
 sleep: 
-  time: 20240326220700
-  weight: 51.8
+  time: 20240328222900
+  weight: 52.1
 wake:
-  time: 20240327060000
-  weight: 51.1
-  SpO2: 96
-  PRbpm: 59
+  time: 20240329060600
+  weight: 51.3
+  SpO2: 95
+  PRbpm: 57
 exercise: 
-- time: 20240327063000
+- time: 20240329063500
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -23,15 +23,30 @@ exercise:
     amount: 5
     unit: set
   SpO2: 99
-  PRbpm: 79
+  PRbpm: 84
   endheartrate: 87
+- time: 20240329060200
+  item:
+  - type: walk
+    amount: 27
+    unit: minute
+  SpO2: 96
+  PRbpm: 131
+- time: 20240329140000
+  item:
+  - type:  跪姿俯卧撑(kneeling push-ups)*5
+    amount: 5
+    unit: set
+  SpO2: 99
+  PRbpm: 95
 stool:
-- time: 20240327080000
-  amount:   2   #	1:多; 2:适中;	3:少
+- time: 20240329081500
+  amount:   1   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 comment: |+
   睡觉中间起来小便1次，不需要补水。
+  室内运动后把脉：关脉中偏浅、寸脉开始中偏浅后来深度中、尺脉深度中；三处侧向居中；三处清晰有力。
 
-  起床后穿德绒长裤、厚长裤、短袖polo、P棉背心、高帮靴、戴帽。
+  起床后穿德绒长裤、厚长裤、长袖秋衣、P棉背心、高帮靴、戴帽。
   室内运动后穿护膝、在P棉背心外穿上小泰坦，鞋里用小取暖贴。

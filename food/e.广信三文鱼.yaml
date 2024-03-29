@@ -1,0 +1,24 @@
+name: 广信三文鱼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 520
+    unit: kj
+    nrv: 6
+  蛋白质:
+    amount: 18.2
+    unit: g
+    nrv: 30
+  脂肪:
+    amount: 5.8
+    unit: g
+    nrv: 10
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  钠:
+    amount: 498
+    unit: mg
+    nrv: 25

@@ -1,0 +1,84 @@
+name: 春笋
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 106
+    unit: kj
+    nrv: 1.4
+  蛋白质:
+    amount: 2.4
+    unit: g
+    nrv: 2.7
+  脂肪:
+    amount: 0.1
+    unit: g
+    nrv: 0.2
+  碳水化合物:
+    amount: 5.1
+    unit: g
+    nrv: 2.1
+  钠:
+    amount: 6
+    unit: mg
+    nrv: 0.4
+  膳食纤维:
+    amount: 2.8
+    unit: g
+    nrv: 11.2
+  VA(视黄醇等):
+    amount: 5
+    unit: μg
+    nrv: 0.6
+  VB1(硫胺素):
+    amount: 0.05
+    unit: mg
+    nrv: 3.6
+  VB2(核黄素):
+    amount: 0.04
+    unit: mg
+    nrv: 2.9
+  VB3(烟酸):
+    amount: 0.4
+    unit: mg
+    nrv: 2.9
+  VC(抗坏血酸):
+    amount: 5
+    unit: mg
+    nrv: 5
+  磷:
+    amount: 36
+    unit: mg
+    nrv: 5
+  钾:
+    amount: 300
+    unit: mg
+    nrv: 15
+  镁:
+    amount: 8
+    unit: mg
+    nrv: 2.4
+  钙:
+    amount: 8
+    unit: mg
+    nrv: 1
+  铁:
+    amount: 2.4
+    unit: mg
+    nrv: 20
+  锌:
+    amount: 0.43
+    unit: mg
+    nrv: 3.4
+  硒:
+    amount: 0.7
+    unit: μg
+    nrv: 1.2
+  铜:
+    amount: 0.15
+    unit: mg
+    nrv: 18.8
+  锰:
+    amount: 0.78
+    unit: mg
+    nrv: 17.3

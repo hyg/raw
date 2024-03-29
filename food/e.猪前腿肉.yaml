@@ -1,0 +1,104 @@
+name: 猪前腿肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 904
+    unit: kj
+    nrv: 11.6
+  蛋白质:
+    amount: 18.5
+    unit: g
+    nrv: 28.5
+  脂肪:
+    amount: 14.6
+    unit: g
+    nrv: 32.4
+  碳水化合物:
+    amount: 0.2
+    unit: g
+    nrv: 0.08
+  钠:
+    amount: 53
+    unit: mg
+    nrv: 3.5
+  VA(视黄醇等):
+    amount: 5
+    unit: µg
+    nrv: 0.6
+  VD3(胆钙化醇):
+    amount: 0.2
+    unit: μg
+    nrv: 2
+  VE(生育酚):
+    amount: 0.3
+    unit: mg
+    nrv: 2
+  VK(凝血维生素):
+    amount: 1
+    unit: μg
+    nrv: 1.25
+  VB1(硫胺素):
+    amount: 0.66
+    unit: mg
+    nrv: 47
+  VB2(核黄素):
+    amount: 0.23
+    unit: mg
+    nrv: 16
+  VB3(烟酸):
+    amount: 4.9
+    unit: mg
+    nrv: 35
+  VB5(泛酸):
+    amount: 1.16
+    unit: mg
+    nrv: 23.2
+  VB6(吡哆素):
+    amount: 0.32
+    unit: mg
+    nrv: 2
+  VB9(叶酸):
+    amount: 2
+    unit: μg
+    nrv: 0.5
+  VB12(钴胺素):
+    amount: 0.4
+    unit: μg
+    nrv: 16.7
+  VC(抗坏血酸):
+    amount: 2
+    unit: mg
+    nrv: 2
+  磷:
+    amount: 180
+    unit: mg
+    nrv: 25
+  钾:
+    amount: 320
+    unit: mg
+    nrv: 16
+  镁:
+    amount: 21
+    unit: mg
+    nrv: 6.4
+  钙:
+    amount: 4
+    unit: mg
+    nrv: 0.4
+  铁:
+    amount: 0.5
+    unit: mg
+    nrv: 4.2
+  锌:
+    amount: 2.7
+    unit: mg
+    nrv: 21.6
+  铜:
+    amount: 0.09
+    unit: mg
+    nrv: 11.25
+  锰:
+    amount: 0.01
+    unit: mg
+    nrv: 0.2

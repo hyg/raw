@@ -1,0 +1,10 @@
+name: 水焯春笋2403
+amount: 700.0
+unit: g
+food:
+  - name: 春笋
+    amount: 745.0
+    unit: g
+log: |
+  - 春笋去壳后生重745.0克。焯水后净重700.0克。
+comment: |+
