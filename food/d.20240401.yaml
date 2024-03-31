@@ -1,0 +1,196 @@
+date: 20240401
+food:
+  - time: 20240401061100
+    name: 橙
+    amount: 100
+    unit: g
+
+  - time: 20240401061500
+    name: 艾糍2403a
+    amount: 1
+    unit: 个
+  - time: 20240401061500
+    name: 肉包子2403
+    amount: 1
+    unit: 个
+  - time: 20240401061500
+    name: 心果白果仁
+    amount: 10.0
+    unit: g
+  - time: 20240401061500
+    name: 南瓜
+    amount: 80
+    unit: g
+  - time: 20240401061500
+    name: 秋葵
+    amount: 110
+    unit: g
+
+  - time: 20240401063700
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240401063700
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240401063700
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+
+  - time: 20240401064600
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240401064600
+    name: 瑞幸冷萃咖啡液
+    amount: 0.5
+    unit: 份
+
+  - time: 202404011115600
+    name: 番茄酱
+    amount: 20
+    unit: g
+  - time: 202404011115600
+    name: 菊粉
+    amount: 6.0
+    unit: g
+
+  - time: 202404011120000
+    name: 木瓜
+    amount: 300
+    unit: g
+
+  - time: 20240401120200
+    name: 黑米饭2403
+    amount: 1
+    unit: 份
+  - time: 20240401120200
+    name: 菜心
+    amount: 200
+    unit: g
+  - time: 20240401120200
+    name: 胡萝卜
+    amount: 90
+    unit: g
+  - time: 20240401120200
+    name: 广信三文鱼
+    amount: 105
+    unit: g
+  - time: 20240401120200
+    name: 油
+    amount: 1.0
+    unit: g
+
+  - time: 20240401122200
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240401122200
+    name: 瑞幸冷萃咖啡液
+    amount: 0.5
+    unit: 份
+
+  - time: 20240401171200
+    name: 胡柚
+    amount: 120
+    unit: g
+
+  - time: 20240401171500
+    name: 烤山药豆240311
+    amount: 100
+    unit: g
+  - time: 20240401171500
+    name: 红薯
+    amount: 100
+    unit: g
+  - time: 20240401171500
+    name: 水焯春笋2403
+    amount: 100
+    unit: g
+  - time: 20240401171500
+    name: 烤鱼头2403
+    amount: 85
+    unit: g
+  - time: 20240401171500
+    name: 中盐低钠盐
+    amount: 1.5
+    unit: g
+  - time: 20240401171500
+    name: 油
+    amount: 1.0
+    unit: g
+
+  - time: 20240401175700
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240401175700
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20240401051500
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20240401055800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240401064600
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20240401070000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240401080400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240401084700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240401101500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240401122200
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20240401133800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240401171500
+    name: 汤水
+    amount: 360
+    unit: ml
+  - time: 20240401175700
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20240401184500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240401200000
+    name: 开水
+    amount: 100
+    unit: ml
+med:
+  - time: 20240401070000
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20240401070000
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |+
