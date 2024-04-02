@@ -1,186 +1,183 @@
-date: 20240401
+date: 20240402
 food:
-  - time: 20240401070300
-    name: 橙
-    amount: 100.0
-    unit: g
-  - time: 20240401070500
+  - time: 20240402083400
     name: 艾糍2403a
     amount: 1
     unit: 个
-  - time: 20240401070500
+  - time: 20240402083400
     name: 肉包子2403
     amount: 1
     unit: 个
-  - time: 20240401070500
+  - time: 20240402083400
     name: 心果白果仁
     amount: 10.0
     unit: g
-  - time: 20240401070500
+  - time: 20240402083400
     name: 南瓜
-    amount: 81.0
+    amount: 61.0
     unit: g
-  - time: 20240401070500
+  - time: 20240402083400
     name: 秋葵
-    amount: 104.0
+    amount: 122.5
     unit: g
-  - time: 20240401072400
+  - time: 20240402085100
     name: 桑葚干
     amount: 10.0
     unit: g
-  - time: 20240401072400
+  - time: 20240402085100
     name: 亚麻籽
     amount: 5.0
     unit: g
-  - time: 20240401072400
+  - time: 20240402085100
     name: 麦胚芽
     amount: 10.0
     unit: g
-  - time: 20240401073200
+  - time: 20240402085800
+    name: 木瓜
+    amount: 310.0
+    unit: g
+  - time: 20240402085800
     name: 山河全脂奶粉
     amount: 20.0
     unit: g
-  - time: 20240401073200
-    name: 瑞幸冷萃咖啡液
-    amount: 0.5
-    unit: 份
-  - time: 202404011113800
-    name: 番茄酱
-    amount: 34.0
+  - time: 202404021125600
+    name: 橙
+    amount: 94.5
     unit: g
-  - time: 202404011113800
-    name: 菊粉
-    amount: 6.0
-    unit: g
-  - time: 202404011124100
-    name: 胡柚
-    amount: 78.5
-    unit: g
-  - time: 20240401124400
+  - time: 20240402125800
     name: 黑米饭2403
     amount: 1
     unit: 份
-  - time: 20240401124400
+  - time: 20240402125800
     name: 菜心
-    amount: 196.0
+    amount: 211.0
     unit: g
-  - time: 20240401124400
+  - time: 20240402125800
     name: 胡萝卜
-    amount: 83.5
+    amount: 103.5
     unit: g
-  - time: 20240401124400
+  - time: 20240402125800
     name: 广信三文鱼
-    amount: 104.0
+    amount: 110.5
     unit: g
-  - time: 20240401124400
+  - time: 20240402125800
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240402125800
     name: 油
     amount: 1.0
     unit: g
-  - time: 20240401122200
+  - time: 20240402133000
     name: 山河全脂奶粉
     amount: 20.0
     unit: g
-  - time: 20240401122200
+  - time: 20240402133000
     name: 瑞幸冷萃咖啡液
-    amount: 0.5
+    amount: 1
     unit: 份
-  - time: 20240401172000
-    name: 木瓜
-    amount: 290.0
+  - time: 20240402173600
+    name: 胡柚
+    amount: 98.0
     unit: g
-  - time: 20240401172500
+  - time: 20240402174000
     name: 烤山药豆240311
-    amount: 101.0
+    amount: 93.5
     unit: g
-  - time: 20240401172500
+  - time: 20240402174000
     name: 吉香莲蒜香酥角
     amount: 8.5
     unit: g
-  - time: 20240401172500
-    name: 香香唯北豆腐
-    amount: 16.5
-    unit: g
-  - time: 20240401172500
+  - time: 20240402174000
     name: 烤鱼头2403
-    amount: 93.0
+    amount: 93.5
     unit: g
-  - time: 20240401172500
+  - time: 20240402174000
+    name: 枸杞
+    amount: 3
+    unit: g
+  - time: 20240402174000
     name: 灰枣
-    amount: 27.0
+    amount: 34.5
     unit: g
-  - time: 20240401172500
+  - time: 20240402174000
     name: 中盐低钠盐
     amount: 1.5
     unit: g
-  - time: 20240401175300
+  - time: 20240402181200
     name: 山河全脂奶粉
     amount: 20.0
     unit: g
-  - time: 20240401175300
+  - time: 20240402181200
     name: 可可粉
     amount: 4.0
     unit: g
 water:
-  - time: 20240401060900
+  - time: 20240402073400
     name: 开水
-    amount: 100
+    amount: 70
     unit: ml
-  - time: 20240401064900
+  - time: 20240402082300
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240401073200
+  - time: 20240402085800
+    name: 牛奶
+    amount: 120
+    unit: ml
+  - time: 20240402090900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240402100500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240402110000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240402115000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240402133000
     name: 咖啡
     amount: 80.5
     unit: ml
-  - time: 20240401075100
+  - time: 20240402142700
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240401083400
+  - time: 20240402161800
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240401093900
-    name: 开水
-    amount: 250
-    unit: ml
-  - time: 20240401111200
-    name: 开水
-    amount: 250
-    unit: ml
-  - time: 20240401122200
-    name: 咖啡
-    amount: 80.5
-    unit: ml
-  - time: 20240401142800
-    name: 开水
-    amount: 250
-    unit: ml
-  - time: 20240401155800
-    name: 开水
-    amount: 250
-    unit: ml
-  - time: 20240401172500
+  - time: 20240402174000
     name: 汤水
-    amount: 340
+    amount: 350
     unit: ml
-  - time: 20240401175300
+  - time: 20240402181200
     name: 可可奶
-    amount: 80.5
+    amount: 80.0
     unit: ml
-  - time: 20240401192000
+  - time: 20240402200300
     name: 开水
     amount: 250
     unit: ml
 med:
-  - time: 20240401075100
+  - time: 20240402090900
+    name: 维生素D3
+    amount: 125
+    unit: µg
+  - time: 20240402090900
     name: selenium
     amount: 200
     unit: µg
-  - time: 20240401075100
+  - time: 20240402090900
     name: mature multi
     amount: 1
     unit: 片
 log: |
 comment: |+
+  怀疑春笋和鱼头之一引起发痒，先停掉春笋观察一阵。

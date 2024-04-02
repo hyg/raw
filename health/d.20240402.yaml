@@ -1,14 +1,14 @@
-date: 20240331
+date: 20240402
 sleep: 
-  time: 20240330205600
-  weight: 52.3
+  time: 20240401214600
+  weight: 52.1
 wake:
-  time: 20240331051500
-  weight: 51.4
-  SpO2: 95
-  PRbpm: 56
+  time: 20240402072600
+  weight: 51.0
+  SpO2: 94
+  PRbpm: 62
 exercise: 
-- time: 20240331053500
+- time: 20240402075500
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -23,16 +23,16 @@ exercise:
     amount: 5
     unit: set
   SpO2: 99
-  PRbpm: 75
-  endheartrate: 86
-- time: 20240331060200
+  PRbpm: 80
+  endheartrate: 87
+- time: 20240402060200
   item:
   - type: walk
     amount: 27
     unit: minute
   SpO2: 96
   PRbpm: 131
-- time: 20240331140000
+- time: 20240402140000
   item:
   - type:  跪姿俯卧撑(kneeling push-ups)*5
     amount: 5
@@ -40,13 +40,13 @@ exercise:
   SpO2: 99
   PRbpm: 95
 stool:
-- time: 20240331075500
-  amount:   1   #	1:多; 2:适中;	3:少
+- time: 20240402100600
+  amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 comment: |+
-  睡觉中间起来小便1次，不需要补水。
-  室内运动后把脉：关脉中偏浅、寸脉尺脉深度中；三处侧向居中；三处清晰有力。
+  睡觉中间起来小便1次，不需要补水。睡觉中间胃搅动，可能木瓜还不够熟，削皮没有弄干净。
+  室内运动后把脉：关脉中偏浅、寸脉尺脉深度中；三处侧向居中；关脉寸脉清晰有力、尺脉清晰。
 
-  起床后穿抓绒长裤、厚长裤、短袖T恤、P棉背心、高帮靴、戴帽。
-  室内运动后穿护膝、在P棉背心外穿上小泰坦，左云门用小取暖贴。久坐时用电热护脚。
+  起床后穿抓绒长裤、厚长裤、长袖秋衣、P棉背心、高帮靴、戴帽。
+  室内运动后脱P棉背心穿上小泰坦。久坐时用电热护脚。
