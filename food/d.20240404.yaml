@@ -14,31 +14,29 @@ food:
     unit: g
   - time: 20240404071900
     name: 南瓜
-    amount: 60
+    amount: 66.5
     unit: g
   - time: 20240404071900
     name: 秋葵
-    amount: 110
+    amount: 133.0
     unit: g
-
-  - time: 20240404073700
+  - time: 20240404074900
     name: 桑葚干
     amount: 10.0
     unit: g
-  - time: 20240404073700
+  - time: 20240404074900
     name: 亚麻籽
     amount: 5.0
     unit: g
-  - time: 20240404073700
+  - time: 20240404074900
     name: 麦胚芽
     amount: 10.0
     unit: g
-
-  - time: 20240404074600
+  - time: 20240404075700
     name: 木瓜
-    amount: 241.0
+    amount: 242.0
     unit: g
-  - time: 20240404074600
+  - time: 20240404075700
     name: 山河全脂奶粉
     amount: 20.0
     unit: g
@@ -52,9 +50,9 @@ food:
     amount: 15.0
     unit: g
 
-  - time: 202404041120600
-    name: 橙
-    amount: 115
+  - time: 20240404172500
+    name: 百香果
+    amount: 50
     unit: g
 
   - time: 20240404120800
@@ -95,9 +93,10 @@ food:
     amount: 1
     unit: 份
 
-  - time: 20240404172500
-    name: 胡柚
-    amount: 95
+
+  - time: 202404041120600
+    name: 橙
+    amount: 115
     unit: g
 
   - time: 20240404172800
@@ -138,30 +137,31 @@ food:
     amount: 4.0
     unit: g
 water:
-  - time: 20240404061700
+  - time: 20240404063700
     name: 开水
     amount: 100
     unit: ml
-  - time: 20240404070800
+  - time: 20240404072000
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240404074600
+  - time: 20240404075700
     name: 牛奶
-    amount: 179
+    amount: 173
     unit: ml
-  - time: 20240404081000
+  - time: 20240404082700
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240404083800
+  - time: 20240404090300
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240404101600
+  - time: 20240404094000
     name: 开水
     amount: 250
     unit: ml
+
   - time: 20240404105000
     name: 开水
     amount: 250
@@ -191,11 +191,11 @@ water:
     amount: 100
     unit: ml
 med:
-  - time: 20240404081000
+  - time: 20240404082700
     name: selenium
     amount: 200
     unit: µg
-  - time: 20240404081000
+  - time: 20240404082700
     name: mature multi
     amount: 1
     unit: 片

@@ -1,14 +1,14 @@
 date: 20240404
 sleep: 
-  time: 20240403214600
+  time: 20240403213100
   weight: 52.2
 wake:
-  time: 20240404060700
+  time: 20240404062700
   weight: 51.3
   SpO2: 95
-  PRbpm: 58
+  PRbpm: 60
 exercise: 
-- time: 20240404064500
+- time: 20240404065500
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -22,9 +22,9 @@ exercise:
   - type: pilates.p79
     amount: 5
     unit: set
-  SpO2: 98
+  SpO2: 99
   PRbpm: 80
-  endheartrate: 90
+  endheartrate: 86
 - time: 20240404060200
   item:
   - type: walk
@@ -40,13 +40,13 @@ exercise:
   SpO2: 98
   PRbpm: 100
 stool:
-- time: 20240404081500
+- time: 20240404084500
   amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 comment: |+
   睡觉中间起来小便1次，不需要补水。
-  室内运动后把脉：关脉中偏浅、寸脉尺脉深度中；三处侧向居中；三处清晰有力。
+  室内运动后把脉：关脉中偏浅、寸脉开始中偏浅半分钟后深度中、尺脉深度中；三处侧向居中；三处清晰有力。
   室外运动时擤鼻涕一次，清鼻涕。
   第一轮俯卧撑：各组结束血氧是98、98、98、97、98，心率是94、96、94、96、100次，恢复时间是：34、54、69、84、78秒。
 
