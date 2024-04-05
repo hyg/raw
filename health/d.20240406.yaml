@@ -1,14 +1,14 @@
-date: 20240404
+date: 20240406
 sleep: 
-  time: 20240403213100
-  weight: 52.2
+  time: 20240405225900
+  weight: 52.1
 wake:
-  time: 20240404062700
-  weight: 51.3
+  time: 20240406081100
+  weight: 51.4
   SpO2: 95
-  PRbpm: 60
+  PRbpm: 62
 exercise: 
-- time: 20240404065500
+- time: 20240406084100
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -22,17 +22,35 @@ exercise:
   - type: pilates.p79
     amount: 5
     unit: set
-  SpO2: 99
-  PRbpm: 80
-  endheartrate: 86
+  SpO2: 98
+  PRbpm: 88
+  endheartrate: 88
+- time: 20240406060200
+  item:
+  - type: walk
+    amount: 27
+    unit: minute
+  SpO2: 96
+  PRbpm: 131
+- time: 20240406153000
+  item:
+  - type:  跪姿俯卧撑(kneeling push-ups)*5
+    amount: 5
+    unit: set
+  SpO2: 98
+  PRbpm: 100
 stool:
-- time: 20240404084500
+- time: 20240406104500
   amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 comment: |+
   睡觉中间起来小便1次，不需要补水。
   室内运动后把脉：关脉中偏浅、寸脉开始中偏浅半分钟后深度中、尺脉深度中；三处侧向居中；三处清晰有力。
-  
+  室外运动时擤鼻涕一次，清鼻涕。
+  第一轮俯卧撑：各组结束血氧是98、98、98、97、98，心率是94、96、94、96、100次，恢复时间是：34、54、69、84、78秒。
+
   起床后穿抓绒长裤、厚长裤、长袖秋衣、P棉背心、高帮靴、戴帽。
   室内运动后脱P棉背心穿上小泰坦。久坐时用电热护脚。
+  午饭后加回P棉背心。
+  室外运动把厚长裤换成空气层长裤，小泰坦换成薄外套，室外运动后换回室内穿着。

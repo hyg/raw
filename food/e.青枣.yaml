@@ -1,0 +1,24 @@
+name: 青枣
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 43
+    unit: kcal
+    nrv: 2.3
+  蛋白质:
+    amount: 1.2
+    unit: g
+    nrv: 1.8
+  脂肪:
+    amount: 0.3
+    unit: g
+    nrv: 0.7
+  碳水化合物:
+    amount: 10.7
+    unit: g
+    nrv: 4.4
+  VC(抗坏血酸):
+    amount: 50
+    unit: mg
+    nrv: 50
