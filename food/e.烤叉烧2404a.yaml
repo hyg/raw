@@ -1,0 +1,15 @@
+name: 烤叉烧2404a
+amount: 687
+unit: g
+food:
+  - name: 松板肉
+    amount: 687.0
+    unit: g
+  - name: 东古叉烧酱
+    amount: 74
+    unit: g
+log: |  
+  1. 松板肉687.0g加叉烧酱约74g，冷藏腌一晚。
+  1. 另有松板肉152.5g切条冷冻备用，松板肉126.5g水煮备用。
+comment: |+
+  

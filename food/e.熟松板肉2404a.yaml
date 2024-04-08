@@ -1,0 +1,11 @@
+name: 熟松板肉2404a
+amount: 84.5
+unit: g
+food:
+  - name: 松板肉
+    amount: 126.5
+    unit: g
+log: |  
+  1. 松板肉126.5g水煮备用，熟重84.5g。
+comment: |+
+  
