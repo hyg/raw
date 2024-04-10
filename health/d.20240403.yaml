@@ -25,13 +25,6 @@ exercise:
   SpO2: 98
   PRbpm: 80
   endheartrate: 90
-- time: 20240403060200
-  item:
-  - type: walk
-    amount: 27
-    unit: minute
-  SpO2: 96
-  PRbpm: 131
 - time: 20240403153000
   item:
   - type:  跪姿俯卧撑(kneeling push-ups)*5
