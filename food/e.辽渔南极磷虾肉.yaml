@@ -1,0 +1,24 @@
+name: 辽渔南极磷虾肉
+amount: 100
+unit: g
+element:
+  能量:
+    amount: 281
+    unit: kJ
+    nrv: 3
+  蛋白质:
+    amount: 15.3
+    unit: g
+    nrv: 26
+  脂肪:
+    amount: 0
+    unit: g
+    nrv: 0
+  碳水化合物:
+    amount: 1.2
+    unit: g
+    nrv: 0
+  钠:
+    amount: 568
+    unit: mg
+    nrv: 28
