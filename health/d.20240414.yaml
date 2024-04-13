@@ -1,14 +1,14 @@
-date: 20240413
+date: 20240414
 sleep: 
-  time: 20240412211900
+  time: 20240413211900
   weight: 52.2
 wake:
-  time: 20240413090800
+  time: 20240414090800
   weight: 50.9
   SpO2: 94
   PRbpm: 58
 exercise: 
-- time: 20240413093500
+- time: 20240414093500
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -25,8 +25,22 @@ exercise:
   SpO2: 97
   PRbpm: 87
   endheartrate: 89
+- time: 20240414060200
+  item:
+  - type: walk
+    amount: 27
+    unit: minute
+  SpO2: 96
+  PRbpm: 131
+- time: 20240414153000
+  item:
+  - type:  跪姿俯卧撑(kneeling push-ups)*5
+    amount: 5
+    unit: set
+  SpO2: 98
+  PRbpm: 100
 stool:
-- time: 20240413113900
+- time: 20240414113900
   amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
@@ -36,3 +50,5 @@ comment: |+
   久坐时用电热护脚。
 
   室内运动后把脉：关脉中偏浅、尺脉寸脉深度中；三处侧向居中；关脉清晰有力、尺脉寸脉开始清晰有力半分钟后只是清晰。
+  第一轮俯卧撑：各组结束血氧是98、98、98、97、98，心率是94、96、94、96、100次，恢复时间是：34、54、69、84、78秒。
+  室外运动把厚长裤换成空气层长裤，小泰坦换成薄外套，室外运动后换回室内穿着。
