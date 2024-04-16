@@ -1,0 +1,26 @@
+name: 一品寒香大米
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1477
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 7.8
+    unit: g
+    nrv: 12
+  脂肪:
+    amount: 0
+    unit: g
+    nrv: 0
+  碳水化合物:
+    amount: 80.4
+    unit: g
+    nrv: 27
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0
+comment: |
+  一品寒香品牌下的龙稻香米、稻花香米、长粒香米、寒稻香米、宝宝粥米，营养成分表相同。

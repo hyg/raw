@@ -1,0 +1,186 @@
+date: 20240417
+food:
+  - time: 20240417063600
+    name: 香蕉
+    amount: 150
+    unit: g
+
+  - time: 20240417064000
+    name: 艾糍2404a
+    amount: 1
+    unit: 个
+  - time: 20240417064000
+    name: 肉包子2404
+    amount: 1
+    unit: 个
+  - time: 20240417064000
+    name: 心果白果仁
+    amount: 10.0
+    unit: g
+  - time: 20240417064000
+    name: 红薯
+    amount: 75
+    unit: g
+  - time: 20240417064000
+    name: 芦笋
+    amount: 150
+    unit: g
+
+  - time: 20240417065700
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240417065700
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240417065700
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+
+  - time: 20240417070700
+    name: 山河全脂奶粉
+    amount: 20
+    unit: g
+  - time: 20240417070700
+    name: 瑞幸冷萃咖啡液
+    amount: 0.5
+    unit: 份
+
+  - time: 20240417123700
+    name: 香蕉
+    amount: 150
+    unit: g
+  - time: 20240417191600
+    name: 人参果
+    amount: 85
+    unit: g
+
+  - time: 20240417124100
+    name: 大米
+    amount: 50
+    unit: g
+  - time: 20240417124100
+    name: 番茄酱
+    amount: 30
+    unit: g
+  - time: 20240417124100
+    name: 豆瓣酱
+    amount: 10
+    unit: g
+  - time: 20240417124100
+    name: 韩三顺辣白菜
+    amount: 40
+    unit: g
+  - time: 20240417124100
+    name: 烤叉烧2404a
+    amount: 40
+    unit: g
+  - time: 20240417124100
+    name: 胡萝卜
+    amount: 100
+    unit: g
+  - time: 20240417124100
+    name: 油菜
+    amount: 200
+    unit: g
+  - time: 20240417124100
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240417124100
+    name: 油
+    amount: 0.5
+    unit: g
+
+  - time: 20240417130500
+    name: 山河全脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240417130500
+    name: 河套脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240417130500
+    name: 瑞幸冷萃咖啡液
+    amount: 0.5
+    unit: 份
+
+  - time: 20240417191500
+    name: 胡柚
+    amount: 100
+    unit: g
+
+  - time: 20240417191900
+    name: 山药豆
+    amount: 70
+    unit: g
+  - time: 20240417191900
+    name: 水焯春笋2403
+    amount: 100
+    unit: g
+  - time: 20240417191900
+    name: 松板肉
+    amount: 20
+    unit: g
+  - time: 20240417191900
+    name: 中盐低钠盐
+    amount: 1.5
+    unit: g
+water:
+  - time: 20240417054100
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20240417061600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240417070700
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240417072300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240417075300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240417101600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240417130500
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240417160700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240417164200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240417191900
+    name: 汤水
+    amount: 420
+    unit: ml
+  - time: 20240417201500
+    name: 开水
+    amount: 150
+    unit: ml
+med:
+  - time: 20240417072300
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20240417072300
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
