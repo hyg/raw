@@ -1,0 +1,203 @@
+date: 20240421
+food:
+  - time: 20240421082800
+    name: 香蕉
+    amount: 102.0
+    unit: g
+  - time: 20240421083000
+    name: 艾糍2404a
+    amount: 1
+    unit: 个
+  - time: 20240421083000
+    name: 肉包子2404
+    amount: 1
+    unit: 个
+  - time: 20240421083000
+    name: 心果白果仁
+    amount: 10.0
+    unit: g
+  - time: 20240421083000
+    name: 红薯
+    amount: 75.5
+    unit: g
+  - time: 20240421083000
+    name: 秋葵
+    amount: 133.5
+    unit: g
+  - time: 20240421084800
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240421084800
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240421084800
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20240421085800
+    name: 山河全脂奶粉
+    amount: 20
+    unit: g
+  - time: 20240421085800
+    name: 瑞幸冷萃咖啡液
+    amount: 0.5
+    unit: 份
+  - time: 20240421131800
+    name: 番茄酱
+    amount: 26.5
+    unit: g
+  - time: 20240421131800
+    name: 菊粉
+    amount: 5.0
+    unit: g
+  - time: 20240421131800
+    name: 臻妍益生菌冻干粉
+    amount: 3.0
+    unit: g
+  - time: 20240421132000
+    name: 人参果
+    amount: 84.0
+    unit: g
+  - time: 20240421132500
+    name: 一品寒香大米
+    amount: 30
+    unit: g
+  - time: 20240421132500
+    name: 紫米
+    amount: 30
+    unit: g
+  - time: 20240421132500
+    name: 旷野金农有机燕麦米
+    amount: 10.0
+    unit: g
+  - time: 20240421132500
+    name: 旷野金农有机玉米碴
+    amount: 10.0
+    unit: g
+  - time: 20240421132500
+    name: 胡萝卜
+    amount: 56.0
+    unit: g
+  - time: 20240421132500
+    name: 三都港黄鱼鯗
+    amount: 43.0
+    unit: g
+  - time: 20240421132500
+    name: 猪前腿肉
+    amount: 26.0
+    unit: g
+  - time: 20240421132500
+    name: 芹菜
+    amount: 243.5
+    unit: g
+  - time: 20240421132500
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240421132500
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20240421135600
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240421135600
+    name: 瑞幸冷萃咖啡液
+    amount: 0.5
+    unit: 份
+  - time: 20240421183400
+    name: 木瓜
+    amount: 282.5
+    unit: g
+  - time: 20240421183400
+    name: 丝瓜
+    amount: 171.5
+    unit: g
+  - time: 20240421183400
+    name: 三都港黄鱼鯗
+    amount: 36.5
+    unit: g
+  - time: 20240421183400
+    name: 香香唯北豆腐
+    amount: 41.5
+    unit: g
+  - time: 20240421183400
+    name: 枸杞
+    amount: 0.5
+    unit: g
+  - time: 20240421183400
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240421190200
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+water:
+  - time: 20240421073000
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20240421081650
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240421085800
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240421092000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240421105900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240421114900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240421122200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240421135600
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240421150000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240421174100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240421183400
+    name: 汤水
+    amount: 240
+    unit: ml
+  - time: 20240421190200
+    name: 牛奶
+    amount: 180
+    unit: ml
+  - time: 20240421191800
+    name: 开水
+    amount: 200
+    unit: ml
+med:
+  - time: 20240421092000
+    name: selenium
+    amount: 200
+    unit: µg
+  - time: 20240421092000
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+  午餐一段黄鱼鯗含有鱼刺2.0g、晚餐含鱼骨5.5g，营养成分表应该是带骨生重，所以不减。
+comment: |

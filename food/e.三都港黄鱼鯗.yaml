@@ -1,0 +1,24 @@
+name: 三都港黄鱼鯗
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 892
+    unit: kj
+    nrv: 11
+  蛋白质:
+    amount: 15.9
+    unit: g
+    nrv: 26
+  脂肪:
+    amount: 16.8
+    unit: g
+    nrv: 28
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  钠:
+    amount: 669
+    unit: mg
+    nrv: 33

@@ -1,0 +1,24 @@
+name: 香香唯柴锅豆腐
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 351
+    unit: kj
+    nrv: 4
+  蛋白质:
+    amount: 8.2
+    unit: g
+    nrv: 14
+  脂肪:
+    amount: 4.2
+    unit: g
+    nrv: 7
+  碳水化合物:
+    amount: 3.3
+    unit: g
+    nrv: 1
+  钠:
+    amount: 16
+    unit: mg
+    nrv: 1
