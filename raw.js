@@ -2,6 +2,7 @@ var fs = require('fs');
 var yaml = require('js-yaml');
 var os = require('os');
 var child = require('child_process');
+const { report } = require('process');
 //const { markAsUntransferable } = require('worker_threads');
 
 // log and basic data
@@ -11,7 +12,7 @@ var hmap = new Object();    // health log
 
 // Statistics period
 var daycnt = 0;
-var startdate,enddate ;
+var startdate, enddate;
 // Statistics report
 var etable = new Object();  // element data
 var ftable = new Object();  // food data
@@ -27,7 +28,7 @@ var ftable = new Object();  // food data
 //const Keyelement = "VA(视黄醇等)";
 //const Keyelement = "VD3(胆钙化醇)";
 
-var keycnt = 1 ;
+var keycnt = 1;
 var Detailtable = new Object();
 //var caloriesTable = new Object(); 
 //var ProteinTable = new Object(); 
@@ -39,29 +40,41 @@ var Detailtable = new Object();
 
 
 var fRate = {//换算率
-    ng: { ng:1, μg: 0.001, mg: 0.001 * 0.001, g: 0.001 * 0.001 * 0.001, kg: 0.001 * 0.001 * 0.001 * 0.001, t: 0.001 * 0.001 * 0.001 * 0.001 * 0.001, ul: 0.001 * 0.001, ml: 0.001 * 0.001 * 0.001, L: 0.001 * 0.001 * 0.001 * 0.001 },
-    μg: { ng: 1000, μg:1, mg: 0.001, g: 0.001 * 0.001, kg: 0.001 * 0.001 * 0.001, t: 0.001 * 0.001 * 0.001 * 0.001, ul:0.001, ml:0.001 * 0.001, L:0.001 * 0.001 * 0.001 },
-    mg: { ng: 1000 * 1000, μg: 1000, mg:1, g: 0.001, kg: 0.001 * 0.001, t:0.001 * 0.001 * 0.001, ul:1, ml: 0.001, L: 0.001 * 0.001 },
-    g: { ng: 1000 * 1000*1000, μg: 1000*1000, mg:1000, g:1, kg: 0.001, t: 0.001 * 0.001, ul: 1000 , ml: 1, L: 0.001 },
-    kg: { ng: 1000 * 1000 * 1000 * 1000, μg: 1000 * 1000, mg: 1000, g: 1000, kg:1, t: 0.001 , ul: 1000 * 1000 , ml: 1000, L: 1 },
-    t: { ng: 1000 * 1000 * 1000 * 1000 * 1000, μg: 1000 * 1000 * 1000, mg: 1000 * 1000, g: 1000 * 1000, kg: 1000, t:1, ul: 1000 * 1000 * 1000, ml: 1000 * 1000, L: 1000 },
-    ml: { ng: 1000 * 1000 * 1000, μg: 1000 * 1000, mg: 1000, g: 1, kg: 0.001, t: 0.001 * 0.001, ul: 1000 , ml:1, L: 0.001 },
-    ul: { ng: 1000 * 1000, μg: 1000, ml: 1, g: 0.001, kg: 0.001 * 0.001, t: 0.001 * 0.001 * 0.001, ul:1, ml: 0.001, L: 0.001 * 0.001 },
-    L: { ng: 1000 * 1000 * 1000 * 1000, μg: 1000 * 1000, mg: 1000, g: 1000,kg:1, t: 0.001, ul: 1000 * 1000, ml: 1000,L:1 },
-    };
+    ng: { ng: 1, μg: 0.001, mg: 0.001 * 0.001, g: 0.001 * 0.001 * 0.001, kg: 0.001 * 0.001 * 0.001 * 0.001, t: 0.001 * 0.001 * 0.001 * 0.001 * 0.001, ul: 0.001 * 0.001, ml: 0.001 * 0.001 * 0.001, L: 0.001 * 0.001 * 0.001 * 0.001 },
+    μg: { ng: 1000, μg: 1, mg: 0.001, g: 0.001 * 0.001, kg: 0.001 * 0.001 * 0.001, t: 0.001 * 0.001 * 0.001 * 0.001, ul: 0.001, ml: 0.001 * 0.001, L: 0.001 * 0.001 * 0.001 },
+    mg: { ng: 1000 * 1000, μg: 1000, mg: 1, g: 0.001, kg: 0.001 * 0.001, t: 0.001 * 0.001 * 0.001, ul: 1, ml: 0.001, L: 0.001 * 0.001 },
+    g: { ng: 1000 * 1000 * 1000, μg: 1000 * 1000, mg: 1000, g: 1, kg: 0.001, t: 0.001 * 0.001, ul: 1000, ml: 1, L: 0.001 },
+    kg: { ng: 1000 * 1000 * 1000 * 1000, μg: 1000 * 1000, mg: 1000, g: 1000, kg: 1, t: 0.001, ul: 1000 * 1000, ml: 1000, L: 1 },
+    t: { ng: 1000 * 1000 * 1000 * 1000 * 1000, μg: 1000 * 1000 * 1000, mg: 1000 * 1000, g: 1000 * 1000, kg: 1000, t: 1, ul: 1000 * 1000 * 1000, ml: 1000 * 1000, L: 1000 },
+    ml: { ng: 1000 * 1000 * 1000, μg: 1000 * 1000, mg: 1000, g: 1, kg: 0.001, t: 0.001 * 0.001, ul: 1000, ml: 1, L: 0.001 },
+    ul: { ng: 1000 * 1000, μg: 1000, ml: 1, g: 0.001, kg: 0.001 * 0.001, t: 0.001 * 0.001 * 0.001, ul: 1, ml: 0.001, L: 0.001 * 0.001 },
+    L: { ng: 1000 * 1000 * 1000 * 1000, μg: 1000 * 1000, mg: 1000, g: 1000, kg: 1, t: 0.001, ul: 1000 * 1000, ml: 1000, L: 1 },
+};
 
+const helpstr = `unkonw mode...
+year mode: "node raw 2023"
+month mode: "node raw 202304"
+day mode: "node raw 20230410"
+diff day mode:  "node raw -1"
+period mode: "node raw 20230101 20230331"
+today mode: "node raw"`;
 // read the arguments
 var arguments = process.argv.splice(2);
 if (arguments.length > 0) {
-    if ((arguments.length == 1)&(arguments[0].length == 4)) {
+    if ((arguments.length == 1) & (arguments[0].length == 4)) {
         // year mode: "node raw 2023"
-        startdate = arguments[0]+"0101";
-        enddate = arguments[0]+"1231";
+        startdate = arguments[0] + "0101";
+        enddate = arguments[0] + "1231";
         loadmap();
         foodyearlog(arguments[0]);
         showtables();
         makeRfile();
-    } else if ((arguments.length == 1)&(arguments[0].length == 8)) {
+    } else if ((arguments.length == 1) & (arguments[0].length == 6)) {
+        // month mode: "node raw 202304"
+        //startdate = arguments[0]+"01";
+        foodmonthreport(arguments[0]);
+
+    } else if ((arguments.length == 1) & (arguments[0].length == 8)) {
         // day mode:"node raw 20230410"
         startdate = arguments[0];
         enddate = arguments[0];
@@ -69,7 +82,7 @@ if (arguments.length > 0) {
         fooddaylog(arguments[0]);
         showtables();
         //makeRfile();
-    }else if ((arguments.length == 1)&(arguments[0].length != 8)&(!isNaN(arguments[0]))) {
+    } else if ((arguments.length == 1) & (arguments[0].length != 8) & (!isNaN(arguments[0]))) {
         // diff day mode:"node raw -1"
         var diff = parseInt(arguments[0]);
         //console.log("diff day mode. diff="+diff);
@@ -80,16 +93,16 @@ if (arguments.length > 0) {
         fooddaylog(datestr(diff));
         showtables();
         //makeRfile();
-    }else if (arguments.length == 2){
+    } else if (arguments.length == 2) {
         // period mode:"node raw 20230101 20230331"
         startdate = arguments[0];
         enddate = arguments[1];
         loadmap();
-        foodperiodlog(startdate,enddate);
+        foodperiodlog(startdate, enddate);
         showtables();
         makeRfile();
-    }else{
-        console.log("unkonw mode...\n\nyear mode:\t\"node raw 2023\"\nday mode:\t\"node raw 20230410\"\ndiff day mode:\t\"node raw -1\"\nperiod mode:\t\"node raw 20230101 20230331\"\ntoday mode:\t\"node raw\"");
+    } else {
+        console.log(helpstr);
         process.exit();
     }
 } else {
@@ -105,18 +118,18 @@ if (arguments.length > 0) {
 
 // loaf element data
 // load log between given period
-function loadmap(){
-    var startfilename = "d."+startdate+".yaml";
-    var endfilename = "d."+enddate+".yaml";
+function loadmap() {
+    var startfilename = "d." + startdate + ".yaml";
+    var endfilename = "d." + enddate + ".yaml";
 
     // d.file is daily log.
     // e.file is food data.
-            // food -> element
-            // food -> food
+    // food -> element
+    // food -> food
     try {
         fs.readdirSync("food").forEach(file => {
             if (file.substr(0, 2) == "d.") {
-                if((file >= startfilename) & (file <= endfilename)){
+                if ((file >= startfilename) & (file <= endfilename)) {
                     f = yaml.load(fs.readFileSync("food/" + file, 'utf8'));
                     fmap[f.date] = f;
                 }
@@ -129,7 +142,7 @@ function loadmap(){
 
         fs.readdirSync("health").forEach(file => {
             if (file.substr(0, 2) == "d.") {
-                if((file >= startfilename) & (file <= endfilename)){
+                if ((file >= startfilename) & (file <= endfilename)) {
                     h = yaml.load(fs.readFileSync("health/" + file, 'utf8'));
                     //if(!h.wake.weight) {console.log("can find wake data"+h.date);}
                     hmap[h.date] = h;
@@ -188,15 +201,15 @@ function fooddaylog(date) {
     if (fmap[date] === undefined)
         return; // have not record of today or yestoday yet
 
-    fooddaysum(date,etable,ftable);
+    fooddaysum(date, etable, ftable);
     daycnt++;
 }
 
 // period mode
-function foodperiodlog(startdate,enddate) {
-    for(var date in fmap){
-        if((date >= startdate) && (date <= enddate)){
-            fooddaysum(date,etable,ftable);
+function foodperiodlog(startdate, enddate) {
+    for (var date in fmap) {
+        if ((date >= startdate) && (date <= enddate)) {
+            fooddaysum(date, etable, ftable);
             daycnt++;
         }
     }
@@ -204,28 +217,230 @@ function foodperiodlog(startdate,enddate) {
 
 // year mode
 function foodyearlog(year) {
-    for(var date in fmap){
-        if(date.slice(0,4) == year){
-            fooddaysum(date,etable,ftable);
+    for (var date in fmap) {
+        if (date.slice(0, 4) == year) {
+            fooddaysum(date, etable, ftable);
             daycnt++;
         }
     }
 }
 
+// season mode, or month mode in the last month of a season
+function foodseasonreport(argument) {
+    console.log("enter food season log:",argument);
+    var theyear = parseInt(argument.slice(0, 4));
+    var themonth = parseInt(argument.slice(4, 6));
+    var theseason = themonth / 3;
+
+    var thelastseason = (theseason == 1) ? 4:theseason-1;
+    var theyearoflastseason = (theseason == 1) ? theyear-1:theyear;
+    
+    var lastyear = theyear-1;
+
+    var yearoflastmonth = (themonth == 1) ? theyear - 1 : theyear;
+    var lastmonth = (themonth == 1) ? 12 : themonth - 1;
+    var yearofnextmonth = (themonth == 12) ? theyear + 1 : theyear;
+    var nextmonth = (themonth == 12) ? 1 : themonth + 1;
+    var firstmonthofseason = themonth -2;
+
+    // this season
+    startdate = theyear.toString() + (theseason*3-2).toString().padStart(2,'0') + "01";
+    enddate = argument + "31";
+    console.log("this season:",startdate,enddate);
+    etable = new Object();  // element data
+    ftable = new Object(); 
+    daycnt = 0;
+    loadmap();
+    for (var date in fmap) {
+        if ((date>= startdate)&(date<=enddate)) {
+            fooddaysum(date, etable, ftable);
+            daycnt++;
+        }
+    }
+    showtables();
+    makeRfile();
+
+    // the last season
+    startdate = theyearoflastseason.toString()+(thelastseason*3-2).toString().padStart(2,'0') + "01";
+    enddate = theyearoflastseason.toString()+(thelastseason*3).toString().padStart(2,'0') + "31";
+    console.log("last season:",startdate,enddate);
+    var daycntoflastseason = 0;
+    var etableoflastseason = new Object();  // element data
+    var ftableoflastseason = new Object();  // food data
+    loadmap();
+    for (var date in fmap) {
+        if ((date>= startdate)&(date<enddate)) {
+            fooddaysum(date, etableoflastseason, ftableoflastseason);
+            daycntoflastseason++;
+        }
+    }
+
+
+    // the same season in the last year
+    startdate = lastyear.toString()+(theseason*3-2).toString().padStart(2,'0') + "01";
+    enddate = lastyear.toString()+(theseason*3).toString().padStart(2,'0') + "31";
+    console.log("the same season in the last year:",startdate,enddate);
+    var daycntoflastsameseason = 0;
+    var etableoflastsameseason = new Object();  // element data
+    var ftableoflastsameseason = new Object();  // food data
+    //console.log("the same season of last year:",startdate,enddate);
+    loadmap();
+    for (var date in fmap) {
+        if ((date>= startdate)&(date<enddate)) {
+            fooddaysum(date, etableoflastsameseason, ftableoflastsameseason);
+            daycntoflastsameseason++;
+        }
+    }
+    //console.log("the same season of last year:",yaml.dump(etableoflastsameseason));
+
+    // compare report
+    var deltaonprev = new Object();
+    var deltaonyear = new Object();
+    
+    for(var e in etable){
+        //console.log("for the etable. e=",e);
+        if(etableoflastseason[e] != null){
+            deltaonprev[e] = (etable[e].amount/daycnt - etableoflastseason[e].amount/daycntoflastseason).toFixed(2);
+        }
+        else{
+            deltaonprev[e] = (etable[e].amount/daycnt).toFixed(2);
+        }
+        
+        if(etableoflastsameseason[e] != null){
+            deltaonyear[e] = (etable[e].amount/daycnt - etableoflastsameseason[e].amount/daycntoflastsameseason).toFixed(2);
+        }else{
+            deltaonyear[e] = (etable[e].amount/daycnt).toFixed(2);
+        }
+        
+    }
+
+    var reportstr = "\n---\n季度报告\n"+convertToChinaNum(theseason)+"季度\n\n日平均值，和"+convertToChinaNum(thelastseason)+"季度、去年"+convertToChinaNum(theseason)+"季度对比:\n";
+    
+    earray = ["热量","蛋白质","脂肪","碳水化合物","钠","膳食纤维","钙","水"] ;
+    earray.forEach(function(e,i){reportstr = reportstr + e + (etable[e].amount/daycnt).toFixed(2) + etable[e].unit + "， " + signformat(deltaonprev[e]) + "、" + signformat(deltaonyear[e]) + etable[e].unit  +"；\n";});
+
+    reportstr = reportstr + "\n" ;
+    var esupply = new Object();
+    var eobj = {"脂肪":{energy:9,amdr:"（AMDR：20~30%）"},"碳水化合物":{energy:4,amdr:"（AMDR：50~65%）"},"蛋白质":{energy:4,amdr:"（AMDR：10~15%）"},"膳食纤维":{energy:2,amdr:""}} ;
+    for(var e in eobj){
+        esupply[e]=(etable[e].amount*eobj[e].energy/etable["热量"].amount*100).toFixed(2);
+        reportstr = reportstr + e + "供能" + esupply[e] + "% " + eobj[e].amdr + "\n";
+    }
+
+    console.log(reportstr);
+}
+
+// month mode
+function foodmonthreport(argument) {
+    var theyear = parseInt(argument.slice(0, 4));
+    var themonth = parseInt(argument.slice(4, 6));
+    var lastyear = theyear-1;
+    var yearoflastmonth = (themonth == 1) ? theyear - 1 : theyear;
+    var lastmonth = (themonth == 1) ? 12 : themonth - 1;
+    var yearofnextmonth = (themonth == 12) ? theyear + 1 : theyear;
+    var nextmonth = (themonth == 12) ? 1 : themonth + 1;
+    var firstmonthofseason = themonth -2;
+
+    // this month
+    startdate = argument + "01";
+    enddate = yearofnextmonth.toString()+nextmonth.toString().padStart(2,'0') + "00";
+    daycnt = 0;
+    loadmap();
+    for (var date in fmap) {
+        if (date.slice(0, 6) == argument) {
+            fooddaysum(date, etable, ftable);
+            daycnt++;
+        }
+    }
+    showtables();
+    makeRfile();
+
+    // the last month
+    startdate = yearoflastmonth.toString()+lastmonth.toString().padStart(2,'0') + "01";
+    enddate = argument+ "00";
+    var daycntoflastmonth = 0;
+    var etableoflastmonth = new Object();  // element data
+    var ftableoflastmonth = new Object();  // food data
+    loadmap();
+    for (var date in fmap) {
+        if ((date>= startdate)&(date<enddate)) {
+            fooddaysum(date, etableoflastmonth, ftableoflastmonth);
+            daycntoflastmonth++;
+        }
+    }
+
+
+    // the same month in the last year
+    startdate = lastyear.toString()+themonth.toString().padStart(2,'0') + "01";
+    enddate = (yearofnextmonth-1).toString()+nextmonth.toString().padStart(2,'0') + "00";
+    var daycntoflastsamemonth = 0;
+    var etableoflastsamemonth = new Object();  // element data
+    var ftableoflastsamemonth = new Object();  // food data
+    //console.log("the same month of last year:",startdate,enddate);
+    loadmap();
+    for (var date in fmap) {
+        if ((date>= startdate)&(date<enddate)) {
+            fooddaysum(date, etableoflastsamemonth, ftableoflastsamemonth);
+            daycntoflastsamemonth++;
+        }
+    }
+    //console.log("the same month of last year:",yaml.dump(etableoflastsamemonth));
+
+    // compare report
+    var deltaonprev = new Object();
+    var deltaonyear = new Object();
+    
+    for(var e in etable){
+        //console.log("for the etable. e=",e);
+        if(etableoflastmonth[e] != null){
+            deltaonprev[e] = (etable[e].amount/daycnt - etableoflastmonth[e].amount/daycntoflastmonth).toFixed(2);
+        }
+        else{
+            deltaonprev[e] = (etable[e].amount/daycnt).toFixed(2);
+        }
+        
+        if(etableoflastsamemonth[e] != null){
+            deltaonyear[e] = (etable[e].amount/daycnt - etableoflastsamemonth[e].amount/daycntoflastsamemonth).toFixed(2);
+        }else{
+            deltaonyear[e] = (etable[e].amount/daycnt).toFixed(2);
+        }
+        
+    }
+
+    var reportstr = "\n---\n月度报告\n"+convertToChinaNum(themonth)+"月份\n\n日平均值，和"+convertToChinaNum(lastmonth)+"月份、去年"+convertToChinaNum(themonth)+"月份对比:\n";
+    
+    earray = ["热量","蛋白质","脂肪","碳水化合物","钠","膳食纤维","钙","水"] ;
+    earray.forEach(function(e,i){reportstr = reportstr + e + (etable[e].amount/daycnt).toFixed(2) + etable[e].unit + "， " + signformat(deltaonprev[e]) + "、" + signformat(deltaonyear[e]) + etable[e].unit  +"；\n";});
+
+    reportstr = reportstr + "\n" ;
+    var esupply = new Object();
+    var eobj = {"脂肪":{energy:9,amdr:"（AMDR：20~30%）"},"碳水化合物":{energy:4,amdr:"（AMDR：50~65%）"},"蛋白质":{energy:4,amdr:"（AMDR：10~15%）"},"膳食纤维":{energy:2,amdr:""}} ;
+    for(var e in eobj){
+        esupply[e]=(etable[e].amount*eobj[e].energy/etable["热量"].amount*100).toFixed(2);
+        reportstr = reportstr + e + "供能" + esupply[e] + "% " + eobj[e].amdr + "\n";
+    }
+
+    console.log(reportstr);
+    // season report?
+    if ((themonth % 3) == 0) {
+        foodseasonreport(argument);
+    }
+    
+}
+
 // display the tables
-function showtables(){
-    if(typeof Keyelement !== "undefined" && Keyelement !== null)
-    {
-        console.log(Keyelement+"明细表");
+function showtables() {
+    if (typeof Keyelement !== "undefined" && Keyelement !== null) {
+        console.log(Keyelement + "明细表");
         console.table(Detailtable);
     }
 
-    if(JSON.stringify(etable) === "{}"){
+    if (JSON.stringify(etable) === "{}") {
         console.log("empty data.")
         return;
     }
 
-    console.log(">> 脂肪供能%d%%  碳水供能%d%%  蛋白质供能%d%% <<",(etable["脂肪"].amount*9.0*100/etable["热量"].amount).toFixed(2),(etable["碳水化合物"].amount*4*100/etable["热量"].amount).toFixed(2),(etable["蛋白质"].amount*4*100/etable["热量"].amount).toFixed(2));
+    console.log(">> 脂肪供能%d%%  碳水供能%d%%  蛋白质供能%d%% <<", (etable["脂肪"].amount * 9.0 * 100 / etable["热量"].amount).toFixed(2), (etable["碳水化合物"].amount * 4 * 100 / etable["热量"].amount).toFixed(2), (etable["蛋白质"].amount * 4 * 100 / etable["热量"].amount).toFixed(2));
     console.log("名称\t\t总数量\t\t日均\t单位\tNRV(%)");
     let keysSorted = Object.keys(etable).sort(function (a, b) { return etable[a].nrv - etable[b].nrv })
 
@@ -240,10 +455,10 @@ function showtables(){
                 etable[name].amount = etable[name].amount * 1000;
             }
         }
-        var dayamount = etable[name].amount/daycnt ;
-        var daynrv = etable[name].nrv/daycnt ;
+        var dayamount = etable[name].amount / daycnt;
+        var daynrv = etable[name].nrv / daycnt;
         var amounttab = "\t\t";
-        if(etable[name].amount > 10000){
+        if (etable[name].amount > 10000) {
             amounttab = "\t";
         }
 
@@ -255,47 +470,47 @@ function showtables(){
     }
 
     //console.log("typeof ftable"+typeof(ftable));
-    if(Object.keys(ftable).length>0){
+    if (Object.keys(ftable).length > 0) {
         console.log("\n\t\t未算入成份表的食物\n名称\t\t\t总数量\t\t日均\t单位");
         let foodSorted = Object.keys(ftable).sort(function (a, b) { return ftable[a].amount - ftable[b].amount })
-    
+
         for (var i in foodSorted) {
             var name = foodSorted[i];
-            var dayamount = ftable[name].amount/daycnt ;
-    
+            var dayamount = ftable[name].amount / daycnt;
+
             var nametab = "\t\t\t"
-            if(name.replace(/[^\x00-\xff]/g, '**').length >= 8){
+            if (name.replace(/[^\x00-\xff]/g, '**').length >= 8) {
                 nametab = "\t\t";
             }
-            if(name.replace(/[^\x00-\xff]/g, '**').length >= 16){
+            if (name.replace(/[^\x00-\xff]/g, '**').length >= 16) {
                 nametab = "\t";
             }
-    
+
             var amounttab = "\t\t";
-            if(ftable[name].amount > 10000){
+            if (ftable[name].amount > 10000) {
                 amounttab = "\t";
             }
             console.log(name + nametab + ftable[name].amount.toFixed(2) + amounttab + dayamount.toFixed(2) + "\t" + ftable[name].unit);
         }
     }
-    if(daycnt > 1){
-        console.log("\n%s ~ %s : %d days.",startdate,enddate,daycnt);
+    if (daycnt > 1) {
+        console.log("\n%s ~ %s : %d days.", startdate, enddate, daycnt);
     }
 }
 
 // Statistics of the food,water,med and their element in the given day
-function fooddaysum(date,etable,ftable){
+function fooddaysum(date, etable, ftable) {
     d = fmap[date];
     var name, amount, unit, nrv, oldenergy;
 
     amount = 0;
     nrv = 0;
-    if("热量" in etable){
-        oldenergy = etable["热量"].amount ;
-    }else{
-        oldenergy = 0 ;
+    if ("热量" in etable) {
+        oldenergy = etable["热量"].amount;
+    } else {
+        oldenergy = 0;
     }
-    
+
 
     for (var id in d.water) {
         let item = d.water[id];
@@ -316,27 +531,27 @@ function fooddaysum(date,etable,ftable){
     // 原因是同一种食材可能在food重复出现，以备将来表达烹饪步骤分次加入。
     var food = d.food;
     for (var id in food) {
-            if(food[id].unit == undefined){
-                console.log("undefined unit. date:"+date+"\tfoodname:"+food[id].name)
-            }
-            if(foodsum(food[id].name,food[id].amount,food[id].unit,etable,ftable)){
-                delete food[id];
-            }else{
-                //newfood.push(item);
-            }
+        if (food[id].unit == undefined) {
+            console.log("undefined unit. date:" + date + "\tfoodname:" + food[id].name)
+        }
+        if (foodsum(food[id].name, food[id].amount, food[id].unit, etable, ftable)) {
+            delete food[id];
+        } else {
+            //newfood.push(item);
+        }
     }
 
     for (var id in food) {
-        if(food[id].name in ftable){
+        if (food[id].name in ftable) {
             ftable[food[id].name].amount += food[id].amount;
-        }else{
+        } else {
             ftable[food[id].name] = food[id];
         }
     }
 
     var med = d.med;
 
-    for(var id in med){
+    for (var id in med) {
         if (med[id].name in emap) {//known med
             let meddata = emap[med[id].name];
             let r = med[id].amount / meddata.amount;  // 此处单位不能换算，无比人工写成相同。
@@ -369,28 +584,27 @@ function fooddaysum(date,etable,ftable){
                     etable[e] = item;
                 }
                 // detail data
-                if(typeof Keyelement !== "undefined" && Keyelement !== null)
-                {
-                    if(e==Keyelement){
+                if (typeof Keyelement !== "undefined" && Keyelement !== null) {
+                    if (e == Keyelement) {
                         var data = new Object();
-                        data["名称"] = med[id].name ;
-                        data["摄入数量"] = med[id].amount.toFixed(2)+med[id].unit ;
-                        data["含有"+Keyelement] = item.amount.toFixed(3)+item.unit ;
-                        data["累计摄入"] = etable[e].amount.toFixed(3)+item.unit ;
-                        data["累计nrv"] = etable[e].nrv.toFixed(2)+"%" ;
+                        data["名称"] = med[id].name;
+                        data["摄入数量"] = med[id].amount.toFixed(2) + med[id].unit;
+                        data["含有" + Keyelement] = item.amount.toFixed(3) + item.unit;
+                        data["累计摄入"] = etable[e].amount.toFixed(3) + item.unit;
+                        data["累计nrv"] = etable[e].nrv.toFixed(2) + "%";
 
-                        Detailtable[keycnt++] = data ;
+                        Detailtable[keycnt++] = data;
                     };
                 };
                 //if(e=="VC(抗坏血酸)") console.log(med[id].amount+med[id].unit+"的"+med[id].name+"\t含有"+item.amount.toFixed(10)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(10)+"\t累计nrv:"+etable[e].nrv.toFixed(2));
             }
-            
+
             delete med[id];
-        }else{//unknown med
+        } else {//unknown med
             //console.log("unknown med:"+med[id].name+"\t"+med[id].amount+"\t"+med[id].unit);
-            if(med[id].name in ftable){
+            if (med[id].name in ftable) {
                 ftable[med[id].name].amount += med[id].amount;
-            }else{
+            } else {
                 ftable[med[id].name] = med[id];
             }
             //console.log("ftable:"+ftable[med[id].name].name+"\t"+ftable[med[id].name].amount+"\t"+ftable[med[id].name].unit);
@@ -400,7 +614,7 @@ function fooddaysum(date,etable,ftable){
     fmap[date]["热量"] = (etable["热量"].amount - oldenergy).toFixed(3);
 }
 
-function foodsum(foodname,foodamount,foodunit,etable,ftable){
+function foodsum(foodname, foodamount, foodunit, etable, ftable) {
     //console.log("foodunit's type:"+typeof(foodunit));
     //console.log("foodsum:\t"+foodname+"\t"+foodamount+"\t"+foodunit);
     if (foodname in emap) {
@@ -409,17 +623,17 @@ function foodsum(foodname,foodamount,foodunit,etable,ftable){
         // todo:check the unit (g,mg,kg,...) and change amount
         //console.log("fooddata.unit's type:"+typeof(fooddata.unit));
         let r = 1;
-        if(foodunit == fooddata.unit){
+        if (foodunit == fooddata.unit) {
             r = foodamount / fooddata.amount;
-        }else if((fRate[foodunit] !== undefined) && (fRate[foodunit][fooddata.unit] !== undefined)){
+        } else if ((fRate[foodunit] !== undefined) && (fRate[foodunit][fooddata.unit] !== undefined)) {
             r = foodamount * fRate[foodunit][fooddata.unit] / fooddata.amount;
-        }else{
-            console.log("unknow unit:\t"+foodunit+"\t"+fooddata.unit+"\tfoodname:"+foodname+"\tfoodamount:"+foodamount);
+        } else {
+            console.log("unknow unit:\t" + foodunit + "\t" + fooddata.unit + "\tfoodname:" + foodname + "\tfoodamount:" + foodamount);
         }
-        
+
 
         for (var id in fooddata.food) {
-            foodsum(fooddata.food[id].name,fooddata.food[id].amount*r,fooddata.food[id].unit,etable,ftable);
+            foodsum(fooddata.food[id].name, fooddata.food[id].amount * r, fooddata.food[id].unit, etable, ftable);
         }
 
         for (var e in fooddata.element) {
@@ -450,19 +664,18 @@ function foodsum(foodname,foodamount,foodunit,etable,ftable){
                 // new element
                 etable[e] = item;
             }
-            
-            // detail data
-            if(typeof Keyelement !== "undefined" && Keyelement !== null)
-            {
-                if(e==Keyelement){
-                    var data = new Object();
-                    data["名称"] = foodname ;
-                    data["摄入数量"] = foodamount.toFixed(2)+foodunit ;
-                    data["含有"+Keyelement] = item.amount.toFixed(3)+item.unit ;
-                    data["累计摄入"] = etable[e].amount.toFixed(3)+item.unit ;
-                    data["累计nrv"] = etable[e].nrv.toFixed(2)+"%" ;
 
-                    Detailtable[keycnt++] = data ;
+            // detail data
+            if (typeof Keyelement !== "undefined" && Keyelement !== null) {
+                if (e == Keyelement) {
+                    var data = new Object();
+                    data["名称"] = foodname;
+                    data["摄入数量"] = foodamount.toFixed(2) + foodunit;
+                    data["含有" + Keyelement] = item.amount.toFixed(3) + item.unit;
+                    data["累计摄入"] = etable[e].amount.toFixed(3) + item.unit;
+                    data["累计nrv"] = etable[e].nrv.toFixed(2) + "%";
+
+                    Detailtable[keycnt++] = data;
                 };
             };
         }
@@ -488,16 +701,16 @@ function makeRfile() {
     var wmax, wmin;
 
     var dBPM = "date <- c(";
-    var PRbpm1= "PRbpm1 <- c(";  // PRbpm in wake up
-    var PRbpm2= "PRbpm2 <- c(";  // PRbpm after exercise
-    var endheartrate= "endheartrate <- c(";  // heartrate after exercise
+    var PRbpm1 = "PRbpm1 <- c(";  // PRbpm in wake up
+    var PRbpm2 = "PRbpm2 <- c(";  // PRbpm after exercise
+    var endheartrate = "endheartrate <- c(";  // heartrate after exercise
 
     var cnt = 0;
     var bFirst = true;
     var BPMcnt = 0;
     var bBPMFirst = true;
     var lastPRbpm2 = 90;
-    var lastastendheartrate =90;
+    var lastendheartrate = 90;
 
     try {
         for (var day in fmap) {
@@ -507,8 +720,8 @@ function makeRfile() {
             sleepminute = Math.floor(hmap[day].sleep.time % 10000 / 100);
             sleeptime = sleephour * 60 + sleepminute;
 
-            if(sleeptime>1440){
-                console.log("debug: sleeptime>1440\t"+ sleeptime + "\tday:\t"+ day);
+            if (sleeptime > 1440) {
+                console.log("debug: sleeptime>1440\t" + sleeptime + "\tday:\t" + day);
             }
 
             //console.log("\n================="+day+"=================\nhmap[day].sleep.time:"+hmap[day].sleep.time+"\nsleephour:\t"+sleephour+"\nsleepminute:\t"+sleepminute);
@@ -522,18 +735,18 @@ function makeRfile() {
             if (wakeday < day) { waketime -= 24 * 60 };
             if (wakeday > day) { waketime += 24 * 60 };
 
-            if((wakeday <= day) && (waketime>1440)){
-                console.log("debug: waketime>1440\t"+ waketime + "\tday:\t"+ day);
+            if ((wakeday <= day) && (waketime > 1440)) {
+                console.log("debug: waketime>1440\t" + waketime + "\tday:\t" + day);
             }
 
             sleeplongtime = waketime - sleeptime;
 
-            
-            if(sleeplongtime>1100){
-                console.log("debug: sleeplongtime>1100\t"+ sleeplongtime + "\tday:\t"+ day +"\tsleeptime:"+ sleeptime + "\twaketime:"+ waketime );
+
+            if (sleeplongtime > 1100) {
+                console.log("debug: sleeplongtime>1100\t" + sleeplongtime + "\tday:\t" + day + "\tsleeptime:" + sleeptime + "\twaketime:" + waketime);
             }
-            if(sleeplongtime<0){
-                console.log("debug: sleeplongtime<0\t"+ sleeplongtime + "\tday:\t"+ day +"\tsleeptime:"+ sleeptime + "\twaketime:"+ waketime );
+            if (sleeplongtime < 0) {
+                console.log("debug: sleeplongtime<0\t" + sleeplongtime + "\tday:\t" + day + "\tsleeptime:" + sleeptime + "\twaketime:" + waketime);
             }
 
             //if(waketime > 1000) {console.log(day)}
@@ -573,14 +786,14 @@ function makeRfile() {
 
                 }
 
-                if(bBPMFirst){
-                    if(hmap[day].wake.PRbpm != undefined){
+                if (bBPMFirst) {
+                    if (hmap[day].wake.PRbpm != undefined) {
                         dBPM = dBPM + "\"" + day + "\"";
                         PRbpm1 = PRbpm1 + hmap[day].wake.PRbpm;
-                        if(hmap[day].exercise == undefined){
+                        if (hmap[day].exercise == undefined) {
                             PRbpm2 = PRbpm2 + lastPRbpm2;
                             endheartrate = endheartrate + lastendheartrate;
-                        }else{
+                        } else {
                             PRbpm2 = PRbpm2 + hmap[day].exercise[0].PRbpm;
                             endheartrate = endheartrate + hmap[day].exercise[0].endheartrate;
                             lastPRbpm2 = hmap[day].exercise[0].PRbpm;
@@ -589,16 +802,16 @@ function makeRfile() {
                         BPMcnt++;
                         bBPMFirst = false;
                     }
-                    
-                }else{
+
+                } else {
                     dBPM = dBPM + ',\"' + day + "\"";
                     PRbpm1 = PRbpm1 + "," + hmap[day].wake.PRbpm;
-                    if(hmap[day].exercise == undefined){
-                        PRbpm2 = PRbpm2 + "," + lastendheartrate;
+                    if (hmap[day].exercise == undefined) {
+                        PRbpm2 = PRbpm2 + "," + lastPRbpm2;
                         endheartrate = endheartrate + "," + lastendheartrate;
-                    }else{
-                        PRbpm2 = PRbpm2 +  "," + hmap[day].exercise[0].PRbpm;
-                        endheartrate = endheartrate +  "," + hmap[day].exercise[0].endheartrate;
+                    } else {
+                        PRbpm2 = PRbpm2 + "," + hmap[day].exercise[0].PRbpm;
+                        endheartrate = endheartrate + "," + hmap[day].exercise[0].endheartrate;
                         lastPRbpm2 = hmap[day].exercise[0].PRbpm;
                         lastendheartrate = hmap[day].exercise[0].endheartrate;
                     }
@@ -623,23 +836,23 @@ function makeRfile() {
     PRbpm2 = PRbpm2 + ")";
     endheartrate = endheartrate + ")";
 
-    var wstr = d + "\r\n" + w1 + "\r\n" + w2 + "\r\n"+ energy + "\r\nopar <- par(mar = c(5,4,4,5))\r\nplot(c(1:" + cnt + "),weight1,type=\"s\",col=\"red\",xaxt=\"n\",xlab = \"date\",ylab = \"weight(kg)\",ylim=range(" + wmin + ":" + wmax + "))\r\nlines(c(1:" + cnt + "),weight2,type=\"s\",col=\"blue\")\r\nlegend(\"topright\",inset=.05,title=\"体重曲线\",c(\"睡前\",\"醒后(辅助线:50.5~51.5)\",\"热量\"),lty=c(1,1,1),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 51.5,col=\"blue\",lty = 3)\r\nabline(h = 50.5,col=\"blue\",lty = 3)\r\naxis(1, c(1:" + cnt + "),date)\r\npar(new = TRUE)\r\nplot(c(1:" + cnt + "), energy,type=\"s\", pch = \"+\", col = \"green\", axes = FALSE, xlab = \"\", ylab = \"\")\r\naxis(side = 4, at = pretty(range(energy)))\r\nmtext(\"energy(kcal)\", side = 4, line = 3)";
+    var wstr = d + "\r\n" + w1 + "\r\n" + w2 + "\r\n" + energy + "\r\nopar <- par(mar = c(5,4,4,5))\r\nplot(c(1:" + cnt + "),weight1,type=\"s\",col=\"red\",xaxt=\"n\",xlab = \"date\",ylab = \"weight(kg)\",ylim=range(" + wmin + ":" + wmax + "))\r\nlines(c(1:" + cnt + "),weight2,type=\"s\",col=\"blue\")\r\nlegend(\"topright\",inset=.05,title=\"体重曲线\",c(\"睡前\",\"醒后(辅助线:50.5~51.5)\",\"热量\"),lty=c(1,1,1),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 51.5,col=\"blue\",lty = 3)\r\nabline(h = 50.5,col=\"blue\",lty = 3)\r\naxis(1, c(1:" + cnt + "),date)\r\npar(new = TRUE)\r\nplot(c(1:" + cnt + "), energy,type=\"s\", pch = \"+\", col = \"green\", axes = FALSE, xlab = \"\", ylab = \"\")\r\naxis(side = 4, at = pretty(range(energy)))\r\nmtext(\"energy(kcal)\", side = 4, line = 3)";
     fs.writeFile("health/weight.R", wstr, (err) => {
         if (err) throw err;
         console.log('health/weight.R文件已被保存。在R环境运行 source(\"D:/huangyg/git/raw/health/weight.R\",encoding = \"UTF-8\")');
-      });
-    
+    });
+
     var sleepstr = d + "\r\n" + sleep + "\r\n" + wake + "\r\n" + sleeplong + "\r\nplot(c(1:" + cnt + "),sleep,type=\"s\",col=\"red\",xaxt=\"n\",xlab = \"date\",ylab=\"time(minute)\",ylim=range(-1000,2200))\r\nlines(c(1:" + cnt + "),wake,type=\"s\",col=\"blue\")\r\nlines(c(1:" + cnt + "),sleeplong,type=\"s\",col=\"green\")\r\nlegend(\"topleft\",inset=.05,title=\"睡眠曲线\",c(\"睡(辅助线:凌晨)\",\"醒\",\"时长(辅助线:480)\"),lty=c(1,1,1),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 0,col=\"red\",lty = 3)\r\nabline(h = 1440,col=\"red\",lty = 3)\r\nabline(h = 480,col=\"green\",lty = 3)\r\naxis(1, c(1:" + cnt + "),date)\r\n";
     fs.writeFile("health/sleep.R", sleepstr, (err) => {
         if (err) throw err;
         console.log('health/sleep.R文件已被保存。在R环境运行 source(\"D:/huangyg/git/raw/health/sleep.R\",encoding = \"UTF-8\")');
-      });
+    });
 
     var PRbpmstr = dBPM + "\r\n" + PRbpm1 + "\r\n" + PRbpm2 + "\r\n" + endheartrate + "\r\nplot(c(1:" + BPMcnt + "),PRbpm1,type=\"s\",col=\"red\",xaxt=\"n\",xlab = \"date\",ylab=\"heart rate\",ylim=range(50:160))\r\nlines(c(1:" + BPMcnt + "),PRbpm2,type=\"s\",col=\"blue\")\r\nlines(c(1:" + BPMcnt + "),endheartrate,type=\"s\",col=\"green\")\r\nlegend(\"topleft\",inset=.05,title=\"心率曲线\",c(\"起床血氧仪(辅助线:50~65)\",\"运动后血氧仪\",\"运动后把脉\"),lty=c(1,1,1),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 65,col=\"red\",lty = 3)\r\nabline(h = 50,col=\"red\",lty = 3)\r\naxis(1, c(1:" + BPMcnt + "),date)\r\n";
     fs.writeFile("health/heartrate.R", PRbpmstr, (err) => {
         if (err) throw err;
         console.log('health/heartrate.R文件已被保存。在R环境运行 source(\"D:/huangyg/git/raw/health/heartrate.R\",encoding = \"UTF-8\")');
-      });
+    });
 }
 
 //health/weight.R文件已被保存。在R环境运行 source("D:/huangyg/git/raw/health/weight.R",encoding = "UTF-8")
@@ -647,15 +860,15 @@ function makeRfile() {
 //health/heartrate.R文件已被保存。在R环境运行 source("D:/huangyg/git/raw/health/heartrate.R",encoding = "UTF-8")
 
 // utils
-function GetNumByUnit(num, unitname,outunitname) {
+function GetNumByUnit(num, unitname, outunitname) {
     var tnum = (num * fRate[unitname][outunitname]).toFixed(4);
     return tnum;
 }
 
-function datestr(diff=0) {
+function datestr(diff = 0) {
     var theDate = new Date();
     //theDate.setDate(theDate.getDate() - 1);
-    theDate.setDate(theDate.getDate()+diff);
+    theDate.setDate(theDate.getDate() + diff);
 
     var year = theDate.getFullYear();
     var month = theDate.getMonth() + 1 < 10 ? "0" + (theDate.getMonth() + 1) : theDate.getMonth() + 1;
@@ -748,6 +961,41 @@ function E_merge() {
         console.log(newfood);
         fs.writeFileSync("food/e." + name + ".yaml", yaml.safeDump(newfood));
     }
+}
+
+function convertToChinaNum(num) {
+    var arr1 = ['零', '一', '二', '三', '四', '五', '六', '七', '八', '九'];
+    var arr2 = ['', '十', '百', '千', '万', '十', '百', '千', '亿', '十', '百', '千','万', '十', '百', '千','亿'];//可继续追加更高位转换值
+    if(!num || isNaN(num)){
+        return "零";
+    }
+    var english = num.toString().split("")
+    var result = "";
+    for (var i = 0; i < english.length; i++) {
+        var des_i = english.length - 1 - i;//倒序排列设值
+        result = arr2[i] + result;
+        var arr1_index = english[des_i];
+        result = arr1[arr1_index] + result;
+    }
+    //将【零千、零百】换成【零】 【十零】换成【十】
+    result = result.replace(/零(千|百|十)/g, '零').replace(/十零/g, '十');
+    //合并中间多个零为一个零
+    result = result.replace(/零+/g, '零');
+    //将【零亿】换成【亿】【零万】换成【万】
+    result = result.replace(/零亿/g, '亿').replace(/零万/g, '万');
+    //将【亿万】换成【亿】
+    result = result.replace(/亿万/g, '亿');
+    //移除末尾的零
+    result = result.replace(/零+$/, '')
+    //将【零一十】换成【零十】
+    //result = result.replace(/零一十/g, '零十');//貌似正规读法是零一十
+    //将【一十】换成【十】
+    result = result.replace(/^一十/g, '十');
+    return result;
+}
+
+function signformat(num) { 
+    return num > 0 ? '+' + num.toString() : num.toString();
 }
 
 //openbrowser("http://www.xuemen.com")

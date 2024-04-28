@@ -8,7 +8,7 @@ food:
     name: 肉包子2404
     amount: 1
     unit: 个
-  - time: 20240423182300
+  - time: 20240423082800
     name: 南瓜
     amount: 45.5
     unit: g
@@ -32,19 +32,17 @@ food:
     name: 麦胚芽
     amount: 10.0
     unit: g
-
   - time: 20240423085300
     name: 木瓜
-    amount: 140
+    amount: 136.0
     unit: g
   - time: 20240423085300
     name: 山河全脂奶粉
-    amount: 20
+    amount: 20.0
     unit: g
-
   - time: 20240423121400
     name: 番茄酱
-    amount: 30
+    amount: 30.5
     unit: g
   - time: 20240423121400
     name: 菊粉
@@ -54,12 +52,10 @@ food:
     name: 臻妍益生菌冻干粉
     amount: 3.0
     unit: g
-
   - time: 20240423121600
     name: 香蕉
-    amount: 130
+    amount: 127.0
     unit: g
-
   - time: 20240423121900
     name: 一品寒香大米
     amount: 30.0
@@ -78,25 +74,20 @@ food:
     unit: g
   - time: 20240423121900
     name: 胡萝卜
-    amount: 50
+    amount: 38.5
     unit: g
   - time: 20240423121900
-    name: 草鱼肉
-    amount: 150
+    name: 猪前腿肉
+    amount: 114.0 
     unit: g
   - time: 20240423121900
-    name: 菠菜
-    amount: 200
+    name: 油菜
+    amount: 218.5
     unit: g
   - time: 20240423121900
     name: 中盐低钠盐
     amount: 1.0
     unit: g
-  - time: 20240423121900
-    name: 油
-    amount: 0.5
-    unit: g
-
   - time: 20240423124300
     name: 山河全脂奶粉
     amount: 20.0
@@ -105,27 +96,25 @@ food:
     name: 瑞幸冷萃咖啡液
     amount: 1
     unit: 份
-
   - time: 20240423181600
-    name: 人参果
-    amount: 100
+    name: 香蕉
+    amount: 123.5
     unit: g
-
   - time: 20240423182300
     name: 山药豆
     amount: 100.0
     unit: g
   - time: 20240423182300
     name: 丝瓜
-    amount: 175
+    amount: 174.5
     unit: g
   - time: 20240423182300
     name: 鸡蛋
-    amount: 40
+    amount: 38.0
     unit: g
   - time: 20240423182300
     name: 枸杞
-    amount: 0
+    amount: 1.0
     unit: g
   - time: 20240423182300
     name: 中盐低钠盐
@@ -135,14 +124,9 @@ food:
     name: 香油
     amount: 0.5
     unit: g
-
   - time: 20240423184100
     name: 山河全脂奶粉
     amount: 20.0
-    unit: g
-  - time: 20240423184100
-    name: 可可粉
-    amount: 4.0
     unit: g
 water:
   - time: 20240423072500
