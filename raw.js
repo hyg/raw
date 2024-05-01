@@ -17,7 +17,7 @@ var startdate, enddate;
 var etable = new Object();  // element data
 var ftable = new Object();  // food data
 // element detail tables
-const Keyelement = "热量";
+//const Keyelement = "热量";
 //const Keyelement = "蛋白质";
 //const Keyelement = "脂肪";
 //const Keyelement = "碳水化合物";
@@ -321,7 +321,7 @@ function foodseasonreport(argument) {
 
     reportstr = reportstr + "\n" ;
     var esupply = new Object();
-    var eobj = {"脂肪":{energy:9,amdr:"（AMDR：20~30%）"},"碳水化合物":{energy:4,amdr:"（AMDR：50~65%）"},"蛋白质":{energy:4,amdr:"（AMDR：10~15%）"},"膳食纤维":{energy:2,amdr:""}} ;
+    var eobj = {"脂肪":{energy:9,amdr:"（AMDR：20~30%）"},"碳水化合物":{energy:4,amdr:"（AMDR：50~65%）"},"蛋白质":{energy:4,amdr:"（AMDR：10~20%）"},"膳食纤维":{energy:2,amdr:""}} ;
     for(var e in eobj){
         esupply[e]=(etable[e].amount*eobj[e].energy/etable["热量"].amount*100).toFixed(2);
         reportstr = reportstr + e + "供能" + esupply[e] + "% " + eobj[e].amdr + "\n";
@@ -414,7 +414,7 @@ function foodmonthreport(argument) {
 
     reportstr = reportstr + "\n" ;
     var esupply = new Object();
-    var eobj = {"脂肪":{energy:9,amdr:"（AMDR：20~30%）"},"碳水化合物":{energy:4,amdr:"（AMDR：50~65%）"},"蛋白质":{energy:4,amdr:"（AMDR：10~15%）"},"膳食纤维":{energy:2,amdr:""}} ;
+    var eobj = {"脂肪":{energy:9,amdr:"（AMDR：20~30%）"},"碳水化合物":{energy:4,amdr:"（AMDR：50~65%）"},"蛋白质":{energy:4,amdr:"（AMDR：10~20%）"},"膳食纤维":{energy:2,amdr:""}} ;
     for(var e in eobj){
         esupply[e]=(etable[e].amount*eobj[e].energy/etable["热量"].amount*100).toFixed(2);
         reportstr = reportstr + e + "供能" + esupply[e] + "% " + eobj[e].amdr + "\n";
