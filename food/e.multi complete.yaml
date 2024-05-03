@@ -93,8 +93,8 @@ element:
   番茄红素:
     amount: 600
     unit: µg
-    nrv: 0
+    nrv: 3.3
   叶黄素:
     amount: 1000
     unit: µg
-    nrv: 0
+    nrv: 10

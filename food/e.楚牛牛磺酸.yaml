@@ -1,0 +1,8 @@
+name: 楚牛牛磺酸
+amount: 100
+unit: g
+element:
+  牛磺酸:
+    amount: 99.6
+    unit: g
+    nrv: 16600

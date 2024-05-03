@@ -109,11 +109,11 @@ element:
   番茄红素:
     amount: 300
     unit: µg
-    nrv: 0
+    nrv: 0.17
   叶黄素:
     amount: 250
     unit: µg
-    nrv: 0
+    nrv: 2.5
   硼:
     amount: 150
     unit: µg

@@ -1,0 +1,88 @@
+name: 鸡胸肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 106
+    unit: kcal
+    nrv: 6
+  蛋白质:
+    amount: 24
+    unit: g
+    nrv: 29
+  脂肪:
+    amount: 1.1
+    unit: g
+    nrv: 2
+  钠:
+    amount: 60
+    unit: mg
+    nrv: 4
+  VE(生育酚):
+    amount: 0.13
+    unit: mg
+    nrv: 1
+  VB1(硫胺素):
+    amount: 0.14
+    unit: mg
+    nrv: 1
+  VB2(核黄素):
+    amount: 0.14
+    unit: mg
+    nrv: 1
+  VB6(吡哆素):
+    amount: 0.51
+    unit: mg
+    nrv: 3
+  VB3(烟酸):
+    amount: 10.7
+    unit: mg
+    nrv: 54
+  VB9(叶酸):
+    amount: 14
+    unit: μg
+    nrv: 3
+  生物素:
+    amount: 2
+    unit: μg
+    nrv: 1
+  磷:
+    amount: 220
+    unit: mg
+    nrv: 31
+  钾:
+    amount: 370
+    unit: mg
+    nrv: 18
+  镁:
+    amount: 29
+    unit: mg
+    nrv: 7
+  钙:
+    amount: 5
+    unit: mg
+    nrv: 1
+  铁:
+    amount: 0.5
+    unit: mg
+    nrv: 3
+  锌:
+    amount: 0.7
+    unit: mg
+    nrv: 5
+  碘:
+    amount: 6
+    unit: μg
+    nrv: 4
+  硒:
+    amount: 12
+    unit: μg
+    nrv: 24
+  铜:
+    amount: 0.05
+    unit: mg
+    nrv: 3
+  锰:
+    amount: 0.01
+    unit: mg
+    nrv: 0
