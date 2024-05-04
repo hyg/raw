@@ -1,9 +1,9 @@
-date: 20240504
+date: 20240505
 sleep: 
-  time: 20240503215800
+  time: 20240504215800
   weight: 52.2
 wake:
-  time: 20240504072600
+  time: 20240505072600
   weight: 51.3
   SpO2: 93
   PRbpm: 59
@@ -25,15 +25,22 @@ exercise:
   SpO2: 99
   PRbpm: 82
   endheartrate: 84
-- time: 20240504152500
+- time: 20240505152500
   item:
   - type: walk
     amount: 28
     unit: minute
   SpO2: 95
   PRbpm: 134
+- time: 20240505154200
+  item:
+  - type:  跪姿俯卧撑(kneeling push-ups)*5
+    amount: 5
+    unit: set
+  SpO2: 97
+  PRbpm: 89
 stool:
-- time: 20240504101600
+- time: 20240505101600
   amount:   1   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
@@ -43,5 +50,6 @@ log: |
   久坐时加穿单外套、用电热护脚。
 
   室内运动后把脉:关脉中偏浅、寸脉尺脉深度中；三处侧向居中；三处清晰有力。
+  第一轮俯卧撑:各组结束血氧、心率、恢复时间(秒)分别是:98 95 53;97 89 30;97 95 55;98 95 50;97 89 99.
   室外运动把空气层长裤换成薄长裤，P棉背心换成防晒衣，室外运动后换回室内穿着。
 comment: |

@@ -1,143 +1,160 @@
-date: 20240504
+date: 20240505
 food:
-  - time: 20240504083300
+  - time: 20240505083300
     name: 香蕉
     amount: 100.0
     unit: g
-  - time: 20240504084000
+
+  - time: 20240505084000
     name: 艾糍2404b
     amount: 1
     unit: 个
-  - time: 20240504084000
+  - time: 20240505084000
     name: 肉包子2405a
     amount: 1
     unit: 个
-  - time: 20240504084000
+  - time: 20240505084000
     name: 南瓜
-    amount: 43.0
+    amount: 45
     unit: g
-  - time: 20240504084000
+  - time: 20240505084000
     name: 心果白果仁
     amount: 10.0
     unit: g
-  - time: 20240504084000
-    name: 芦笋
-    amount: 138.0
+  - time: 20240505084000
+    name: 秋葵
+    amount: 110
     unit: g
-  - time: 20240504085600
+
+  - time: 20240505085600
     name: 桑葚干
     amount: 10.0
     unit: g
-  - time: 20240504085600
+  - time: 20240505085600
     name: 亚麻籽
     amount: 5.0
     unit: g
-  - time: 20240504085600
+  - time: 20240505085600
     name: 麦胚芽
     amount: 10.0
     unit: g
-  - time: 20240504090500
+
+  - time: 20240505090500
     name: 山河全脂奶粉
     amount: 20.0
     unit: g
-  - time: 20240504125700
+
+  - time: 20240505125700
     name: 番茄酱
-    amount: 29.0
+    amount: 30
     unit: g
-  - time: 20240504125700
+  - time: 20240505125700
     name: 百香果
-    amount: 46.0
+    amount: 50
     unit: g
-  - time: 20240504125700
+  - time: 20240505125700
     name: 菊粉
     amount: 8.0
     unit: g
-  - time: 20240504130000
+
+  - time: 20240505130000
     name: 一品寒香大米
     amount: 30.0
     unit: g
-  - time: 20240504130000
+  - time: 20240505130000
     name: 紫米
     amount: 10.0
     unit: g
-  - time: 20240504130000
+  - time: 20240505130000
     name: 旷野金农有机燕麦米
     amount: 10.0
     unit: g
-  - time: 20240504130000
+  - time: 20240505130000
     name: 旷野金农有机玉米碴
     amount: 10.0
     unit: g
-  - time: 20240504130000
-    name: 绿豆
-    amount: 10.0
+  - time: 20240505130000
+    name: 烤叉烧2405a
+    amount: 50
     unit: g
-  - time: 20240504130000
-    name: 三都港黄鱼鯗
-    amount: 76.0
-    unit: g
-  - time: 20240504130000
+  - time: 20240505130000
     name: 胡萝卜
-    amount: 56.5
+    amount: 100
     unit: g
-  - time: 20240504130000
+  - time: 20240505130000
     name: 芹菜
-    amount: 227.0
+    amount: 100
     unit: g
-  - time: 20240504130000
+  - time: 20240505130000
+    name: 油菜
+    amount: 150
+    unit: g
+  - time: 20240505130000
     name: 中盐低钠盐
     amount: 1.0
     unit: g
-  - time: 20240504130000
+  - time: 20240505130000
     name: 油
     amount: 0.5
     unit: g
-  - time: 20240504134500
+
+  - time: 20240505134500
     name: 山河全脂奶粉
-    amount: 20.0
+    amount: 10.0
     unit: g
-  - time: 20240504184100
+  - time: 20240505134500
+    name: 河套脱脂奶粉
+    amount: 10.0
+    unit: g
+
+  - time: 20240505184100
     name: 胡柚
-    amount: 112.0
+    amount: 130
     unit: g
-  - time: 20240504184300
+
+  - time: 20240505184300
     name: 灰枣
-    amount: 33.0
+    amount: 20
     unit: g
-  - time: 20240504184300
+  - time: 20240505184300
     name: 意面
-    amount: 72.0
+    amount: 61
     unit: g
-  - time: 20240504184300
+  - time: 20240505184300
     name: 生菜
-    amount: 96.0
+    amount: 100
     unit: g
-  - time: 20240504184300
+  - time: 20240505184300
     name: 鸡蛋
-    amount: 78.0
+    amount: 40
     unit: g
-  - time: 20240504184300
+  - time: 20240505184300
     name: 中盐低钠盐
-    amount: 1.5
+    amount: 1.0
     unit: g
-  - time: 20240504184300
+  - time: 20240505184300
     name: 鲜味王
     amount: 1.0
     unit: g
-  - time: 20240504184300
+  - time: 20240505184300
     name: 香油
     amount: 0.5
     unit: g
-  - time: 20240504190700
+
+  - time: 20240505190700
     name: 山河全脂奶粉
-    amount: 20.0
+    amount: 10.0
     unit: g
-  - time: 20240504190700
+  - time: 20240505190700
+    name: 河套脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240505190700
     name: 可可粉
-    amount: 4.0
+    amount: 0
     unit: g
 water:
-  - time: 20240504073500
+  - time: 20240505073500
     name: 开水
     amount: 100
     unit: ml
@@ -145,65 +162,58 @@ water:
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240504090500
+  - time: 20240505090500
     name: 咖啡
     amount: 80.0
     unit: ml
-  - time: 20240504093700
+  - time: 20240505093700
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240504103200
+  - time: 20240505103200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240504122700
+  - time: 20240505122700
     name: 开水
     amount: 220
     unit: ml
-  - time: 20240504134500
+  - time: 20240505134500
     name: 咖啡
     amount: 80.5
     unit: ml
-  - time: 20240504144100
+  - time: 20240505144100
     name: 开水
     amount: 250
     unit: ml
-  - time: 2024050460400
+  - time: 2024050560400
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240504184300
+  - time: 20240505184300
     name: 汤水
     amount: 450
     unit: ml
-  - time: 20240504190700
+  - time: 20240505190700
     name: 可可奶
     amount: 80.0
     unit: ml
-  - time: 20240504194800
+  - time: 20240505194800
     name: 开水
     amount: 150
     unit: ml
 med:
-  - time: 20240504090500
+  - time: 20240505090500
     name: 楚牛牛磺酸
-    amount: 1.0
+    amount: 0.5
     unit: g
-  - time: 20240504093700
-    name: 维生素D3
-    amount: 125
-    unit: µg
-  - time: 20240504093700
+  - time: 20240505093700
     name: selenium
     amount: 200
     unit: µg
-  - time: 20240504093700
+  - time: 20240505093700
     name: mature multi
     amount: 1
     unit: 片
 log: |
-  - 午餐烤黄鱼鯗：洗净用厨房用纸吸干，用芦笋段30.0g垫底，鱼皮向上摆放：上下火180°C+15分钟，翻面后鱼皮向下摆放：上下火200°C+15分钟。
-  - 黄鱼鯗大部分鱼骨都嚼了，有1.0g嚼不动。
 comment: |
-  黄鱼鯗的鱼皮、鱼鳍酥脆，火候正好。鱼肉这面的鱼刺还不脆。没有主刺的合适，有主刺的半边试试：......翻面后鱼皮向下摆放：上下火210°C+15分钟。

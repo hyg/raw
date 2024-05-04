@@ -227,32 +227,32 @@ function foodyearlog(year) {
 
 // season mode, or month mode in the last month of a season
 function foodseasonreport(argument) {
-    console.log("enter food season log:",argument);
+    console.log("enter food season log:", argument);
     var theyear = parseInt(argument.slice(0, 4));
     var themonth = parseInt(argument.slice(4, 6));
     var theseason = themonth / 3;
 
-    var thelastseason = (theseason == 1) ? 4:theseason-1;
-    var theyearoflastseason = (theseason == 1) ? theyear-1:theyear;
-    
-    var lastyear = theyear-1;
+    var thelastseason = (theseason == 1) ? 4 : theseason - 1;
+    var theyearoflastseason = (theseason == 1) ? theyear - 1 : theyear;
+
+    var lastyear = theyear - 1;
 
     var yearoflastmonth = (themonth == 1) ? theyear - 1 : theyear;
     var lastmonth = (themonth == 1) ? 12 : themonth - 1;
     var yearofnextmonth = (themonth == 12) ? theyear + 1 : theyear;
     var nextmonth = (themonth == 12) ? 1 : themonth + 1;
-    var firstmonthofseason = themonth -2;
+    var firstmonthofseason = themonth - 2;
 
     // this season
-    startdate = theyear.toString() + (theseason*3-2).toString().padStart(2,'0') + "01";
+    startdate = theyear.toString() + (theseason * 3 - 2).toString().padStart(2, '0') + "01";
     enddate = argument + "31";
-    console.log("this season:",startdate,enddate);
+    console.log("this season:", startdate, enddate);
     etable = new Object();  // element data
-    ftable = new Object(); 
+    ftable = new Object();
     daycnt = 0;
     loadmap();
     for (var date in fmap) {
-        if ((date>= startdate)&(date<=enddate)) {
+        if ((date >= startdate) & (date <= enddate)) {
             fooddaysum(date, etable, ftable);
             daycnt++;
         }
@@ -261,15 +261,15 @@ function foodseasonreport(argument) {
     makeRfile();
 
     // the last season
-    startdate = theyearoflastseason.toString()+(thelastseason*3-2).toString().padStart(2,'0') + "01";
-    enddate = theyearoflastseason.toString()+(thelastseason*3).toString().padStart(2,'0') + "31";
-    console.log("last season:",startdate,enddate);
+    startdate = theyearoflastseason.toString() + (thelastseason * 3 - 2).toString().padStart(2, '0') + "01";
+    enddate = theyearoflastseason.toString() + (thelastseason * 3).toString().padStart(2, '0') + "31";
+    console.log("last season:", startdate, enddate);
     var daycntoflastseason = 0;
     var etableoflastseason = new Object();  // element data
     var ftableoflastseason = new Object();  // food data
     loadmap();
     for (var date in fmap) {
-        if ((date>= startdate)&(date<enddate)) {
+        if ((date >= startdate) & (date < enddate)) {
             fooddaysum(date, etableoflastseason, ftableoflastseason);
             daycntoflastseason++;
         }
@@ -277,16 +277,16 @@ function foodseasonreport(argument) {
 
 
     // the same season in the last year
-    startdate = lastyear.toString()+(theseason*3-2).toString().padStart(2,'0') + "01";
-    enddate = lastyear.toString()+(theseason*3).toString().padStart(2,'0') + "31";
-    console.log("the same season in the last year:",startdate,enddate);
+    startdate = lastyear.toString() + (theseason * 3 - 2).toString().padStart(2, '0') + "01";
+    enddate = lastyear.toString() + (theseason * 3).toString().padStart(2, '0') + "31";
+    console.log("the same season in the last year:", startdate, enddate);
     var daycntoflastsameseason = 0;
     var etableoflastsameseason = new Object();  // element data
     var ftableoflastsameseason = new Object();  // food data
     //console.log("the same season of last year:",startdate,enddate);
     loadmap();
     for (var date in fmap) {
-        if ((date>= startdate)&(date<enddate)) {
+        if ((date >= startdate) & (date < enddate)) {
             fooddaysum(date, etableoflastsameseason, ftableoflastsameseason);
             daycntoflastsameseason++;
         }
@@ -296,34 +296,34 @@ function foodseasonreport(argument) {
     // compare report
     var deltaonprev = new Object();
     var deltaonyear = new Object();
-    
-    for(var e in etable){
+
+    for (var e in etable) {
         //console.log("for the etable. e=",e);
-        if(etableoflastseason[e] != null){
-            deltaonprev[e] = (etable[e].amount/daycnt - etableoflastseason[e].amount/daycntoflastseason).toFixed(2);
+        if (etableoflastseason[e] != null) {
+            deltaonprev[e] = (etable[e].amount / daycnt - etableoflastseason[e].amount / daycntoflastseason).toFixed(2);
         }
-        else{
-            deltaonprev[e] = (etable[e].amount/daycnt).toFixed(2);
+        else {
+            deltaonprev[e] = (etable[e].amount / daycnt).toFixed(2);
         }
-        
-        if(etableoflastsameseason[e] != null){
-            deltaonyear[e] = (etable[e].amount/daycnt - etableoflastsameseason[e].amount/daycntoflastsameseason).toFixed(2);
-        }else{
-            deltaonyear[e] = (etable[e].amount/daycnt).toFixed(2);
+
+        if (etableoflastsameseason[e] != null) {
+            deltaonyear[e] = (etable[e].amount / daycnt - etableoflastsameseason[e].amount / daycntoflastsameseason).toFixed(2);
+        } else {
+            deltaonyear[e] = (etable[e].amount / daycnt).toFixed(2);
         }
-        
+
     }
 
-    var reportstr = "\n---\n季度报告\n"+convertToChinaNum(theseason)+"季度\n\n日平均值，和"+convertToChinaNum(thelastseason)+"季度、去年"+convertToChinaNum(theseason)+"季度对比:\n";
-    
-    earray = ["热量","蛋白质","脂肪","碳水化合物","钠","膳食纤维","钙","水"] ;
-    earray.forEach(function(e,i){reportstr = reportstr + e + (etable[e].amount/daycnt).toFixed(2) + etable[e].unit + "， " + signformat(deltaonprev[e]) + "、" + signformat(deltaonyear[e]) + etable[e].unit  +"；\n";});
+    var reportstr = "\n---\n季度报告\n" + convertToChinaNum(theseason) + "季度\n\n日平均值，和" + convertToChinaNum(thelastseason) + "季度、去年" + convertToChinaNum(theseason) + "季度对比:\n";
 
-    reportstr = reportstr + "\n" ;
+    earray = ["热量", "蛋白质", "脂肪", "碳水化合物", "钠", "膳食纤维", "钙", "水"];
+    earray.forEach(function (e, i) { reportstr = reportstr + e + (etable[e].amount / daycnt).toFixed(2) + etable[e].unit + "， " + signformat(deltaonprev[e]) + "、" + signformat(deltaonyear[e]) + etable[e].unit + "；\n"; });
+
+    reportstr = reportstr + "\n";
     var esupply = new Object();
-    var eobj = {"脂肪":{energy:9,amdr:"（AMDR：20~30%）"},"碳水化合物":{energy:4,amdr:"（AMDR：50~65%）"},"蛋白质":{energy:4,amdr:"（AMDR：10~20%）"},"膳食纤维":{energy:2,amdr:""}} ;
-    for(var e in eobj){
-        esupply[e]=(etable[e].amount*eobj[e].energy/etable["热量"].amount*100).toFixed(2);
+    var eobj = { "脂肪": { energy: 9, amdr: "（AMDR：20~30%）" }, "碳水化合物": { energy: 4, amdr: "（AMDR：50~65%）" }, "蛋白质": { energy: 4, amdr: "（AMDR：10~20%）" }, "膳食纤维": { energy: 2, amdr: "" } };
+    for (var e in eobj) {
+        esupply[e] = (etable[e].amount * eobj[e].energy / etable["热量"].amount * 100).toFixed(2);
         reportstr = reportstr + e + "供能" + esupply[e] + "% " + eobj[e].amdr + "\n";
     }
 
@@ -334,16 +334,16 @@ function foodseasonreport(argument) {
 function foodmonthreport(argument) {
     var theyear = parseInt(argument.slice(0, 4));
     var themonth = parseInt(argument.slice(4, 6));
-    var lastyear = theyear-1;
+    var lastyear = theyear - 1;
     var yearoflastmonth = (themonth == 1) ? theyear - 1 : theyear;
     var lastmonth = (themonth == 1) ? 12 : themonth - 1;
     var yearofnextmonth = (themonth == 12) ? theyear + 1 : theyear;
     var nextmonth = (themonth == 12) ? 1 : themonth + 1;
-    var firstmonthofseason = themonth -2;
+    var firstmonthofseason = themonth - 2;
 
     // this month
     startdate = argument + "01";
-    enddate = yearofnextmonth.toString()+nextmonth.toString().padStart(2,'0') + "00";
+    enddate = yearofnextmonth.toString() + nextmonth.toString().padStart(2, '0') + "00";
     daycnt = 0;
     loadmap();
     for (var date in fmap) {
@@ -356,14 +356,14 @@ function foodmonthreport(argument) {
     makeRfile();
 
     // the last month
-    startdate = yearoflastmonth.toString()+lastmonth.toString().padStart(2,'0') + "01";
-    enddate = argument+ "00";
+    startdate = yearoflastmonth.toString() + lastmonth.toString().padStart(2, '0') + "01";
+    enddate = argument + "00";
     var daycntoflastmonth = 0;
     var etableoflastmonth = new Object();  // element data
     var ftableoflastmonth = new Object();  // food data
     loadmap();
     for (var date in fmap) {
-        if ((date>= startdate)&(date<enddate)) {
+        if ((date >= startdate) & (date < enddate)) {
             fooddaysum(date, etableoflastmonth, ftableoflastmonth);
             daycntoflastmonth++;
         }
@@ -371,15 +371,15 @@ function foodmonthreport(argument) {
 
 
     // the same month in the last year
-    startdate = lastyear.toString()+themonth.toString().padStart(2,'0') + "01";
-    enddate = (yearofnextmonth-1).toString()+nextmonth.toString().padStart(2,'0') + "00";
+    startdate = lastyear.toString() + themonth.toString().padStart(2, '0') + "01";
+    enddate = (yearofnextmonth - 1).toString() + nextmonth.toString().padStart(2, '0') + "00";
     var daycntoflastsamemonth = 0;
     var etableoflastsamemonth = new Object();  // element data
     var ftableoflastsamemonth = new Object();  // food data
     //console.log("the same month of last year:",startdate,enddate);
     loadmap();
     for (var date in fmap) {
-        if ((date>= startdate)&(date<enddate)) {
+        if ((date >= startdate) & (date < enddate)) {
             fooddaysum(date, etableoflastsamemonth, ftableoflastsamemonth);
             daycntoflastsamemonth++;
         }
@@ -389,34 +389,34 @@ function foodmonthreport(argument) {
     // compare report
     var deltaonprev = new Object();
     var deltaonyear = new Object();
-    
-    for(var e in etable){
+
+    for (var e in etable) {
         //console.log("for the etable. e=",e);
-        if(etableoflastmonth[e] != null){
-            deltaonprev[e] = (etable[e].amount/daycnt - etableoflastmonth[e].amount/daycntoflastmonth).toFixed(2);
+        if (etableoflastmonth[e] != null) {
+            deltaonprev[e] = (etable[e].amount / daycnt - etableoflastmonth[e].amount / daycntoflastmonth).toFixed(2);
         }
-        else{
-            deltaonprev[e] = (etable[e].amount/daycnt).toFixed(2);
+        else {
+            deltaonprev[e] = (etable[e].amount / daycnt).toFixed(2);
         }
-        
-        if(etableoflastsamemonth[e] != null){
-            deltaonyear[e] = (etable[e].amount/daycnt - etableoflastsamemonth[e].amount/daycntoflastsamemonth).toFixed(2);
-        }else{
-            deltaonyear[e] = (etable[e].amount/daycnt).toFixed(2);
+
+        if (etableoflastsamemonth[e] != null) {
+            deltaonyear[e] = (etable[e].amount / daycnt - etableoflastsamemonth[e].amount / daycntoflastsamemonth).toFixed(2);
+        } else {
+            deltaonyear[e] = (etable[e].amount / daycnt).toFixed(2);
         }
-        
+
     }
 
-    var reportstr = "\n---\n月度报告\n"+convertToChinaNum(themonth)+"月份\n\n日平均值，和"+convertToChinaNum(lastmonth)+"月份、去年"+convertToChinaNum(themonth)+"月份对比:\n";
-    
-    earray = ["热量","蛋白质","脂肪","碳水化合物","钠","膳食纤维","钙","水"] ;
-    earray.forEach(function(e,i){reportstr = reportstr + e + (etable[e].amount/daycnt).toFixed(2) + etable[e].unit + "， " + signformat(deltaonprev[e]) + "、" + signformat(deltaonyear[e]) + etable[e].unit  +"；\n";});
+    var reportstr = "\n---\n月度报告\n" + convertToChinaNum(themonth) + "月份\n\n日平均值，和" + convertToChinaNum(lastmonth) + "月份、去年" + convertToChinaNum(themonth) + "月份对比:\n";
 
-    reportstr = reportstr + "\n" ;
+    earray = ["热量", "蛋白质", "脂肪", "碳水化合物", "钠", "膳食纤维", "钙", "水"];
+    earray.forEach(function (e, i) { reportstr = reportstr + e + (etable[e].amount / daycnt).toFixed(2) + etable[e].unit + "， " + signformat(deltaonprev[e]) + "、" + signformat(deltaonyear[e]) + etable[e].unit + "；\n"; });
+
+    reportstr = reportstr + "\n";
     var esupply = new Object();
-    var eobj = {"脂肪":{energy:9,amdr:"（AMDR：20~30%）"},"碳水化合物":{energy:4,amdr:"（AMDR：50~65%）"},"蛋白质":{energy:4,amdr:"（AMDR：10~20%）"},"膳食纤维":{energy:2,amdr:""}} ;
-    for(var e in eobj){
-        esupply[e]=(etable[e].amount*eobj[e].energy/etable["热量"].amount*100).toFixed(2);
+    var eobj = { "脂肪": { energy: 9, amdr: "（AMDR：20~30%）" }, "碳水化合物": { energy: 4, amdr: "（AMDR：50~65%）" }, "蛋白质": { energy: 4, amdr: "（AMDR：10~20%）" }, "膳食纤维": { energy: 2, amdr: "" } };
+    for (var e in eobj) {
+        esupply[e] = (etable[e].amount * eobj[e].energy / etable["热量"].amount * 100).toFixed(2);
         reportstr = reportstr + e + "供能" + esupply[e] + "% " + eobj[e].amdr + "\n";
     }
 
@@ -425,7 +425,7 @@ function foodmonthreport(argument) {
     if ((themonth % 3) == 0) {
         foodseasonreport(argument);
     }
-    
+
 }
 
 // display the tables
@@ -439,36 +439,38 @@ function showtables() {
         console.log("empty data.")
         return;
     }
+    if (etable["热量"] != null) {
+        console.log(">> 脂肪供能%d%%  碳水供能%d%%  蛋白质供能%d%% <<", (etable["脂肪"].amount * 9.0 * 100 / etable["热量"].amount).toFixed(2), (etable["碳水化合物"].amount * 4 * 100 / etable["热量"].amount).toFixed(2), (etable["蛋白质"].amount * 4 * 100 / etable["热量"].amount).toFixed(2));
+        console.log("名称\t\t总数量\t\t日均\t单位\tNRV(%)");
+        let keysSorted = Object.keys(etable).sort(function (a, b) { return etable[a].nrv - etable[b].nrv })
 
-    console.log(">> 脂肪供能%d%%  碳水供能%d%%  蛋白质供能%d%% <<", (etable["脂肪"].amount * 9.0 * 100 / etable["热量"].amount).toFixed(2), (etable["碳水化合物"].amount * 4 * 100 / etable["热量"].amount).toFixed(2), (etable["蛋白质"].amount * 4 * 100 / etable["热量"].amount).toFixed(2));
-    console.log("名称\t\t总数量\t\t日均\t单位\tNRV(%)");
-    let keysSorted = Object.keys(etable).sort(function (a, b) { return etable[a].nrv - etable[b].nrv })
+        for (var i in keysSorted) {
+            var name = keysSorted[i];
+            if ((etable[name].unit == "g") && (etable[name].amount < 1)) {
+                if (etable[name].amount < 0.001) {
+                    etable[name].unit = "μg";
+                    etable[name].amount = etable[name].amount * 1000000;
+                } else {
+                    etable[name].unit = "mg";
+                    etable[name].amount = etable[name].amount * 1000;
+                }
+            }
+            var dayamount = etable[name].amount / daycnt;
+            var daynrv = etable[name].nrv / daycnt;
+            var amounttab = "\t\t";
+            if (etable[name].amount > 10000) {
+                amounttab = "\t";
+            }
 
-    for (var i in keysSorted) {
-        var name = keysSorted[i];
-        if ((etable[name].unit == "g") && (etable[name].amount < 1)) {
-            if (etable[name].amount < 0.001) {
-                etable[name].unit = "μg";
-                etable[name].amount = etable[name].amount * 1000000;
+            if (name.replace(/[^\x00-\xff]/g, '**').length < 8) {
+                console.log(name + "\t\t" + etable[name].amount.toFixed(2) + amounttab + dayamount.toFixed(2) + "\t" + etable[name].unit + "\t" + daynrv.toFixed(2));
             } else {
-                etable[name].unit = "mg";
-                etable[name].amount = etable[name].amount * 1000;
+                console.log(name + "\t" + etable[name].amount.toFixed(2) + amounttab + dayamount.toFixed(2) + "\t" + etable[name].unit + "\t" + daynrv.toFixed(2));
             }
         }
-        var dayamount = etable[name].amount / daycnt;
-        var daynrv = etable[name].nrv / daycnt;
-        var amounttab = "\t\t";
-        if (etable[name].amount > 10000) {
-            amounttab = "\t";
-        }
-
-        if (name.replace(/[^\x00-\xff]/g, '**').length < 8) {
-            console.log(name + "\t\t" + etable[name].amount.toFixed(2) + amounttab + dayamount.toFixed(2) + "\t" + etable[name].unit + "\t" + daynrv.toFixed(2));
-        } else {
-            console.log(name + "\t" + etable[name].amount.toFixed(2) + amounttab + dayamount.toFixed(2) + "\t" + etable[name].unit + "\t" + daynrv.toFixed(2));
-        }
+    } else {
+        console.log("all food have not element data...");
     }
-
     //console.log("typeof ftable"+typeof(ftable));
     if (Object.keys(ftable).length > 0) {
         console.log("\n\t\t未算入成份表的食物\n名称\t\t\t总数量\t\t日均\t单位");
@@ -611,7 +613,13 @@ function fooddaysum(date, etable, ftable) {
         }
     }
 
-    fmap[date]["热量"] = (etable["热量"].amount - oldenergy).toFixed(3);
+    // all food have not element data
+    if (etable["热量"] != null) {
+        fmap[date]["热量"] = (etable["热量"].amount - oldenergy).toFixed(3);
+    } else {
+        fmap[date]["热量"] = (0 - oldenergy).toFixed(3);
+    }
+
 }
 
 function foodsum(foodname, foodamount, foodunit, etable, ftable) {
@@ -629,13 +637,15 @@ function foodsum(foodname, foodamount, foodunit, etable, ftable) {
             r = foodamount * fRate[foodunit][fooddata.unit] / fooddata.amount;
         } else {
             console.log("unknow unit:\t" + foodunit + "\t" + fooddata.unit + "\tfoodname:" + foodname + "\tfoodamount:" + foodamount);
+            return false;
         }
 
-
+        // 递归结构的食材，food中有food。
         for (var id in fooddata.food) {
             foodsum(fooddata.food[id].name, fooddata.food[id].amount * r, fooddata.food[id].unit, etable, ftable);
         }
 
+        // 基础食材，food中只有element.
         for (var e in fooddata.element) {
             let item = new Object();
             item.amount = parseFloat(fooddata.element[e].amount) * r;
@@ -965,8 +975,8 @@ function E_merge() {
 
 function convertToChinaNum(num) {
     var arr1 = ['零', '一', '二', '三', '四', '五', '六', '七', '八', '九'];
-    var arr2 = ['', '十', '百', '千', '万', '十', '百', '千', '亿', '十', '百', '千','万', '十', '百', '千','亿'];//可继续追加更高位转换值
-    if(!num || isNaN(num)){
+    var arr2 = ['', '十', '百', '千', '万', '十', '百', '千', '亿', '十', '百', '千', '万', '十', '百', '千', '亿'];//可继续追加更高位转换值
+    if (!num || isNaN(num)) {
         return "零";
     }
     var english = num.toString().split("")
@@ -994,7 +1004,7 @@ function convertToChinaNum(num) {
     return result;
 }
 
-function signformat(num) { 
+function signformat(num) {
     return num > 0 ? '+' + num.toString() : num.toString();
 }
 
