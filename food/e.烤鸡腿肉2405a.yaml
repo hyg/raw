@@ -1,0 +1,15 @@
+name: 烤鸡腿肉2405a
+amount: 117.5
+unit: g
+food:
+  - name: 腌鸡腿肉2405a
+    amount: 157.0
+    unit: g
+  - name: 炸鸡裹粉
+    amount: 6.0
+    unit: g
+log: |  
+  1. 腌鸡腿肉2405a中取两块，裹粉。
+  1. 230°C+15分钟，200°C+10分钟。
+comment: |+
+  忘记垫芦笋了，下次用芦笋或者杏鲍菇垫上。

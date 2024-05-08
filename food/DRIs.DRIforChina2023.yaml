@@ -1,0 +1,16 @@
+name: DRIforChina2023
+gender: male
+age: 49
+weight: 51
+element:
+  热量:
+    RNI:
+    EAR:
+    AI:
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit:
+  蛋白质:

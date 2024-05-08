@@ -1,12 +1,12 @@
 name: 烤叉烧2405a
-amount: 105
+amount: 124.5
 unit: g
 food:
   - name: 腌松板肉2404
-    amount: 160
+    amount: 178.5
     unit: g
 log: |
   1. 腌松板肉2404中取一块。
   1. 烤箱210°C+20分钟，翻面再烤170°C+15分钟，。
 comment: |
-  
+  合适。

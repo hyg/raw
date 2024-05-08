@@ -1,0 +1,55 @@
+date: 20240509
+sleep: 
+  time: 20240509001900
+  weight: 51.7
+wake:
+  time: 20240509060500
+  weight: 51.2
+  SpO2: 94
+  PRbpm: 57
+exercise: 
+- time: 20240509052000
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: 超人敬礼*5 + 俯卧两头起(Superman exercise)*5 + 俯卧撑(push-ups)*5
+    amount: 2 
+    unit: set
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 98
+  PRbpm: 74
+  endheartrate: 81
+- time: 20240509092100
+  item:
+  - type: walk
+    amount: 27
+    unit: minute
+  SpO2: 96
+  PRbpm: 120
+- time: 20240509154200
+  item:
+  - type:  跪姿俯卧撑(kneeling push-ups)*5
+    amount: 5
+    unit: set
+  SpO2: 97
+  PRbpm: 89
+stool:
+- time: 20240509074000
+  amount:   3   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 2   #	1:不困难;	2:困难
+log: |
+  睡觉中间起来小便1次，不需要补水。
+  起床后穿caxa运动长裤、空气层长裤、短袖polo、P棉背心、高帮靴、戴帽。
+  久坐时用电热护脚。
+
+  室内运动后把脉:寸脉中偏浅、关脉尺脉深度中；三处侧向居中；寸脉关脉清晰有力、尺脉清晰。
+  第一轮俯卧撑:各组结束血氧、心率、恢复时间(秒)分别是:98 95 53;97 89 30;97 95 55;98 95 50;97 89 99.
+  室外运动把空气层长裤换成薄长裤，P棉背心换成防晒衣，室外运动后换回室内穿着。
+comment: |

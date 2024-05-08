@@ -27,6 +27,7 @@ var ftable = new Object();  // food data
 //const Keyelement = "VC(抗坏血酸)";
 //const Keyelement = "VA(视黄醇等)";
 //const Keyelement = "VD3(胆钙化醇)";
+//const Keyelement = "VB12(钴胺素)";
 
 var keycnt = 1;
 var Detailtable = new Object();

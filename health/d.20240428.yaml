@@ -8,7 +8,7 @@ wake:
   SpO2: 96
   PRbpm: 56
 exercise: 
-- time: 20240427062300
+- time: 20240428062300
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
