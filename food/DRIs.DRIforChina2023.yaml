@@ -2,8 +2,217 @@ name: DRIforChina2023
 gender: male
 age: 49
 weight: 51
+PAL: 1.4
 element:
   热量:
+    RNI: 1828.83
+    EAR:
+    AI:
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    EER: 1828.83
+    BMR: 1306.31
+    unit: kcal
+    readme: |
+      - BMR,基础代谢率 (kcal/d) = 14.52W-15.88S+565.79 = 1310.67 
+        - W体重，kg
+        - S性别，男=0，女=1
+      - PAL,身体活动水平。三级数值为1.4、1.7、2.0。
+      - EER字段：能量需要量 EER=BMR*PAL = 1828.83 
+  蛋白质:
+    RNI: 65
+    EAR: 60
+    AI:
+    UL:
+    AMDRmin: 10
+    AMDRmax: 20
+    PI_NCD:
+    SPL:
+    unit: g
+  脂肪:
+    RNI:
+    EAR:
+    AI:
+    UL:
+    AMDRmin: 20
+    AMDRmax: 30
+    PI_NCD:
+    SPL:
+    unit: g
+  碳水化合物:
+    RNI:
+    EAR: 120
+    AI:
+    UL:
+    AMDRmin: 50
+    AMDRmax: 65
+    PI_NCD:
+    SPL:
+    unit: g
+  钙:
+    RNI: 800
+    EAR: 650
+    AI: 800
+    UL: 2000
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: mg
+  磷:
+    RNI: 710
+    EAR: 590
+    AI: 710
+    UL: 3500
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: mg
+  钾:
+    RNI:
+    EAR: 
+    AI: 2000
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD: 3600
+    SPL:
+    unit: mg
+  钠:
+    RNI: 
+    EAR: 
+    AI: 1500
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD: 2000
+    SPL:
+    unit: mg
+  镁:
+    RNI: 320
+    EAR: 270
+    AI:
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: mg
+  氯:
+    RNI:
+    EAR:
+    AI: 2300
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: mg
+  硫:
+    RNI:
+    EAR:
+    AI: 1500
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: mg
+  铁:
+    RNI: 12
+    EAR: 9
+    AI:
+    UL: 42
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: mg
+  碘:
+    RNI: 120
+    EAR: 85
+    AI:
+    UL: 600
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: mg
+  锌:
+    RNI: 12.0
+    EAR: 10.1
+    AI:
+    UL: 40
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: mg
+  硒:
+    RNI: 60
+    EAR: 50
+    AI:
+    UL: 400
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: μg
+  铜:
+    RNI: 0.8
+    EAR: 0.60
+    AI:
+    UL: 8.0
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: mg
+  氟:
+    RNI:
+    EAR:
+    AI: 1.5
+    UL: 3.5
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: mg
+  铬:
+    RNI:
+    EAR:
+    AI: 35
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: μg
+  锰:
+    RNI:
+    EAR:
+    AI: 4.5
+    UL: 11.0
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: mg
+  钼:
+    RNI: 25
+    EAR: 20
+    AI:
+    UL: 900
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: μg
+  钴:
     RNI:
     EAR:
     AI:
@@ -12,5 +221,413 @@ element:
     AMDRmax:
     PI_NCD:
     SPL:
-    unit:
-  蛋白质:
+    RfD: 1.53
+    unit: mg
+    readme: 0.03mg/[kg(bw)*d]
+  硼:
+    RNI:
+    EAR:
+    AI:
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    NOAEL: 489.6
+    unit: mg
+    readme: 9.6mg/[kg(bw)*d] 
+  镍:
+    RNI:
+    EAR:
+    AI:
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    NOAEL: 255
+    unit: mg
+    readme: 5mg/[kg(bw)*d] 
+  钒:
+    RNI:
+    EAR:
+    AI:
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    LOAEL: 392.7
+    unit: mg
+    readme: 7.7mg/[kg(bw)*d]
+  硅:
+    RNI:
+    EAR:
+    AI:
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    试验性的可推荐摄入量: 25
+    unit: mg
+  砷:
+    RNI:
+    EAR:
+    AI:
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    NOAEL: 40.8
+    RfD: 15.3
+    unit: μg
+    readme: |
+      - NOAEL=0.8μg/[kg(bw)*d]
+      - RfD=0.3μg/[kg(bw)*d]
+  VA(视黄醇等):
+    RNI: 770
+    EAR: 550
+    AI:
+    UL: 3000
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: μg
+  VD3(胆钙化醇):
+    RNI: 10
+    EAR: 8
+    AI:
+    UL: 50
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: μg
+    readme: 是维生素D的数据
+  VE(生育酚):
+    RNI:
+    EAR:
+    AI: 14
+    UL: 700
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: mg
+  VK(凝血维生素):
+    RNI:
+    EAR:
+    AI: 80
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: μg
+  VB1(硫胺素):
+    RNI: 1.4
+    EAR: 1.2
+    AI:
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: mg
+  VB2(核黄素):
+    RNI: 1.4
+    EAR: 1.2
+    AI:
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: mg
+  VB3(烟酸):
+    RNI: 15
+    EAR: 12
+    AI:
+    UL: 35
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: mg
+  VB6(吡哆素):
+    RNI: 1.4
+    EAR: 1.2
+    AI:
+    UL: 60
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: mg
+  VB9(叶酸):
+    RNI: 400
+    EAR: 320
+    AI:
+    UL: 1000
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: mg
+  VB12(钴胺素):
+    RNI: 2.4
+    EAR: 2.0
+    AI:
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: μg
+  VB5(泛酸):
+    RNI:
+    EAR:
+    AI: 5.0
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: mg
+  生物素:
+    RNI:
+    EAR:
+    AI: 40
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: μg
+  胆碱:
+    RNI:
+    EAR:
+    AI: 450
+    UL: 3000
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: mg
+  VC(抗坏血酸):
+    RNI: 100
+    EAR: 85
+    AI:
+    UL: 2000
+    AMDRmin:
+    AMDRmax:
+    PI_NCD: 200
+    SPL:
+    unit: mg
+  水:
+    RNI:
+    EAR:
+    AI: 1700
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: ml
+    饮水量: 1700
+    总摄入量: 3000
+  膳食纤维:
+    RNI:
+    EAR:
+    AI: 30
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    unit: g
+  原花青素:
+    RNI:
+    EAR:
+    AI: 
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL: 200
+    unit: mg
+  花青苷:
+    RNI:
+    EAR:
+    AI: 
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL: 50
+    unit: mg
+  绿原酸:
+    RNI:
+    EAR:
+    AI: 
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL: 200
+    unit: mg
+  番茄红素:
+    RNI:
+    EAR:
+    AI: 
+    UL: 70
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL: 15
+    unit: mg
+  叶黄素:
+    RNI:
+    EAR:
+    AI: 
+    UL: 60
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL: 10
+    unit: mg
+  植物甾醇:
+    RNI:
+    EAR:
+    AI: 
+    UL: 2.4
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL: 0.8
+    unit: g
+  植物甾醇酯:
+    RNI:
+    EAR:
+    AI: 
+    UL: 3.9
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL: 1.3
+    unit: g
+  异硫氰酸酯:
+    RNI:
+    EAR:
+    AI: 
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL: 30
+    unit: mg
+  CoQ10:
+    RNI:
+    EAR:
+    AI: 
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL: 100
+    unit: mg
+  甜菜碱:
+    RNI:
+    EAR:
+    AI: 
+    UL: 4.0
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL: 1.5
+    unit: g
+  牛磺酸:
+    RNI:
+    EAR:
+    AI: 
+    UL: 4.0
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    OSL: 6
+    unit: g
+  菊粉:
+    RNI:
+    EAR:
+    AI: 
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL: 10
+    unit: g
+  低聚果糖:
+    RNI:
+    EAR:
+    AI: 
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL: 10
+    unit: g
+  β-葡聚糖:
+    RNI:
+    EAR:
+    AI: 
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL: 3.0
+    unit: g
+  硫酸氨基葡萄糖:
+    RNI:
+    EAR:
+    AI: 
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL: 1500
+    unit: mg
+  盐酸氨基葡萄糖:
+    RNI:
+    EAR:
+    AI: 
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL: 1500
+    unit: mg
+  氨基葡萄糖:
+    RNI:
+    EAR:
+    AI: 
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL: 1000
+    unit: mg
+  左旋肉碱:
+    RNI:
+    EAR:
+    AI: 
+    UL:
+    AMDRmin:
+    AMDRmax:
+    PI_NCD:
+    SPL:
+    OSL: 2
+    unit: g
