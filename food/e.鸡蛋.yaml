@@ -23,9 +23,9 @@ element:
     unit: g
     nrv: 1.03
   VB1(硫胺素):
-    amount: 500
-    unit: mg
-    nrv: 3.57
+    amount: 110
+    unit: μg
+    nrv: 7.9
   VB2(核黄素):
     amount: 110
     unit: µg

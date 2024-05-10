@@ -376,7 +376,7 @@ element:
     AMDRmax:
     PI_NCD:
     SPL:
-    unit: mg
+    unit: μg
   VB12(钴胺素):
     RNI: 2.4
     EAR: 2.0

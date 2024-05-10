@@ -10,6 +10,9 @@ var fmap = new Object();    // food log
 var emap = new Object();    // element data
 var hmap = new Object();    // health log
 
+// NRV and DRIs dataset
+var NRVfilename = "food/NRV.202405a.yaml";
+
 // Statistics period
 var daycnt = 0;
 var startdate, enddate;
@@ -28,6 +31,7 @@ var ftable = new Object();  // food data
 //const Keyelement = "VA(视黄醇等)";
 //const Keyelement = "VD3(胆钙化醇)";
 //const Keyelement = "VB12(钴胺素)";
+//const Keyelement = "VB1(硫胺素)";
 
 var keycnt = 1;
 var Detailtable = new Object();
@@ -50,6 +54,8 @@ var fRate = {//换算率
     ml: { ng: 1000 * 1000 * 1000, μg: 1000 * 1000, mg: 1000, g: 1, kg: 0.001, t: 0.001 * 0.001, ul: 1000, ml: 1, L: 0.001 },
     ul: { ng: 1000 * 1000, μg: 1000, ml: 1, g: 0.001, kg: 0.001 * 0.001, t: 0.001 * 0.001 * 0.001, ul: 1, ml: 0.001, L: 0.001 * 0.001 },
     L: { ng: 1000 * 1000 * 1000 * 1000, μg: 1000 * 1000, mg: 1000, g: 1000, kg: 1, t: 0.001, ul: 1000 * 1000, ml: 1000, L: 1 },
+    kcal: {cal: 1000, kcal: 1, kj: 4.18},
+    kj: {cal: 238.9, kcal: 0.2389,kj: 1}
 };
 
 const helpstr = `unkonw mode...
@@ -112,7 +118,8 @@ if (arguments.length > 0) {
     enddate = datestr();
     loadmap();
     fooddaylog(datestr());
-    showtables();
+    //showtables();
+    maketable();
     //makeRfile();
 }
 
@@ -427,6 +434,109 @@ function foodmonthreport(argument) {
         foodseasonreport(argument);
     }
 
+}
+
+function maketable() {
+    var NRV = yaml.load(fs.readFileSync(NRVfilename));
+    var DRIsfilename = "food/DRIs." + NRV.DRIs + ".yaml";
+    var DRIs = yaml.load(fs.readFileSync(DRIsfilename));
+
+    // put NRV data into DRIs
+    for (var element in NRV.element) {
+        if (DRIs.element[element].unit == NRV.element[element].unit) {
+            DRIs.element[element].RNI = NRV.element[element].amount;
+        } else {
+            console.log("maketalbe() > unit different between NRV and DRIs: " + element);
+        }
+    }
+
+    //console.log("maketable()> DRIs:\n"+yaml.dump(DRIs));
+    //console.log("maketable()> etable:\n"+yaml.dump(etable));
+    //return;
+
+    if (JSON.stringify(etable) === "{}") {
+        console.log("empty data.")
+        return;
+    }
+
+    var elementtable = new Object();
+    
+
+    if (etable["热量"] != null) {
+        console.log(">> 脂肪供能%d%%  碳水供能%d%%  蛋白质供能%d%% <<", (etable["脂肪"].amount * 9.0 * 100 / etable["热量"].amount).toFixed(2), (etable["碳水化合物"].amount * 4 * 100 / etable["热量"].amount).toFixed(2), (etable["蛋白质"].amount * 4 * 100 / etable["热量"].amount).toFixed(2));
+        //console.log("名称\t\t总数量\t\t日均\t单位\tNRV(%)");
+        let keysSorted = Object.keys(etable).sort(function (a, b) { return etable[a].nrv - etable[b].nrv })
+
+        for (var i in keysSorted) {
+            var name = keysSorted[i];
+            var item = new Object() ;
+            item["营养成分"] = name ;
+            //console.log("maketable()> name:"+name);
+            if ((etable[name].unit == "g") && (etable[name].amount < 1)) {
+                if (etable[name].amount < 0.001) {
+                    etable[name].unit = "μg";
+                    etable[name].amount = etable[name].amount * 1000000;
+                } else {
+                    etable[name].unit = "mg";
+                    etable[name].amount = etable[name].amount * 1000;
+                }
+            }
+            item["单位"] = etable[name].unit;
+            item["总量"] = etable[name].amount.toFixed(2);
+            item["日均"] = (etable[name].amount / daycnt).toFixed(2);
+            item["NRV(%)"] = (etable[name].nrv / daycnt).toFixed(2);
+            //console.log("maketable()> unit: "+ etable[name].unit);
+
+            if(DRIs.element[name] != null){
+                var r;
+                if ((fRate[DRIs.element[name].unit] !== undefined) && (fRate[DRIs.element[name].unit][etable[name].unit] !== undefined)) {
+                    r = fRate[DRIs.element[name].unit][etable[name].unit];
+                } else {
+                    console.log("maketalbe() > unit different between etable and DRIs: " + name + " " + etable[name].unit + " " + DRIs.element[name].unit);
+                }
+                
+                for (var param in DRIs.element[name]) {
+                    if ((param != "unit") && (DRIs.element[name][param] != null) && (DRIs.element[name][param] != "")) {
+                        item[param] = DRIs.element[name][param] * r;
+                        item[param+"(%)"] = (100*item["日均"]/item[param]).toFixed(2);
+                    }
+                }
+            }else{
+                //console.log("maketable()> can't find it in DRIs: "+name);
+            }
+            elementtable[name] = item ;
+        }
+        console.table(elementtable,["总量","日均","单位","NRV(%)","RNI","RNI(%)","AI","AI(%)","UL","UL(%)","PI_NCD","SPL"]);
+    } else {
+        console.log("all food have not element data...");
+    }
+    //console.log("typeof ftable"+typeof(ftable));
+    if (Object.keys(ftable).length > 0) {
+        console.log("\n\t\t未算入成份表的食物\n名称\t\t\t总数量\t\t日均\t单位");
+        let foodSorted = Object.keys(ftable).sort(function (a, b) { return ftable[a].amount - ftable[b].amount })
+
+        for (var i in foodSorted) {
+            var name = foodSorted[i];
+            var dayamount = ftable[name].amount / daycnt;
+
+            var nametab = "\t\t\t"
+            if (name.replace(/[^\x00-\xff]/g, '**').length >= 8) {
+                nametab = "\t\t";
+            }
+            if (name.replace(/[^\x00-\xff]/g, '**').length >= 16) {
+                nametab = "\t";
+            }
+
+            var amounttab = "\t\t";
+            if (ftable[name].amount > 10000) {
+                amounttab = "\t";
+            }
+            console.log(name + nametab + ftable[name].amount.toFixed(2) + amounttab + dayamount.toFixed(2) + "\t" + ftable[name].unit);
+        }
+    }
+    if (daycnt > 1) {
+        console.log("\n%s ~ %s : %d days.", startdate, enddate, daycnt);
+    }
 }
 
 // display the tables

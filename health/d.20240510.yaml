@@ -25,13 +25,13 @@ exercise:
   SpO2: 98
   PRbpm: 78
   endheartrate: 81
-- time: 20240510085600
+- time: 20240510085200
   item:
   - type: walk
-    amount: 28
+    amount: 26
     unit: minute
   SpO2: 96
-  PRbpm: 119
+  PRbpm: 124
 - time: 20240510154200
   item:
   - type:  跪姿俯卧撑(kneeling push-ups)*5
@@ -40,10 +40,10 @@ exercise:
   SpO2: 97
   PRbpm: 89
 stool:
-- time: 20240510074900
+- time: 20240510075500
   amount:   1   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
-  diffcult: 2   #	1:不困难;	2:困难
+  diffcult: 1   #	1:不困难;	2:困难
 log: |
   睡觉中间起来小便1次，不需要补水。
   起床后穿德绒长裤、空气层长裤、短袖T恤、P棉背心、高帮靴、戴帽。

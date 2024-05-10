@@ -40,59 +40,55 @@ food:
     name: 山河全脂奶粉
     amount: 20.0
     unit: g
-
-  - time: 20240510114900
+  - time: 20240510114100
     name: 香蕉
-    amount: 90
+    amount: 80.5
     unit: g
-
-  - time: 20240510115400
+  - time: 20240510124900
     name: 番茄酱
-    amount: 30
+    amount: 26.5
     unit: g
-  - time: 20240510115400
+  - time: 20240510124900
     name: 百香果
-    amount: 50
+    amount: 80.5
     unit: g
-
-  - time: 20240510115700
+  - time: 20240510125200
     name: 一品寒香大米
     amount: 30.0
     unit: g
-  - time: 20240510115700
+  - time: 20240510125200
     name: 紫米
     amount: 10.0
     unit: g
-  - time: 20240510115700
+  - time: 20240510125200
     name: 旷野金农有机燕麦米
     amount: 10.0
     unit: g
-  - time: 20240510115700
+  - time: 20240510125200
     name: 旷野金农有机玉米碴
     amount: 10.0
     unit: g
-  - time: 20240510115700
+  - time: 20240510125200
     name: 三都港黄鱼鯗
-    amount: 75
+    amount: 76.0
     unit: g
-  - time: 20240510115700
+  - time: 20240510125200
     name: 胡萝卜
-    amount: 90
+    amount: 86.0
     unit: g
-  - time: 20240510115700
+  - time: 20240510125200
     name: 油菜
-    amount: 200
+    amount: 210.5
     unit: g
-  - time: 20240510115700
+  - time: 20240510125200
     name: 中盐低钠盐
     amount: 1.0
     unit: g
-  - time: 20240510115700
+  - time: 20240510125200
     name: 油
     amount: 0.5
     unit: g
-
-  - time: 20240510122500
+  - time: 20240510132100
     name: 山河全脂奶粉
     amount: 20.0
     unit: g
@@ -116,7 +112,7 @@ food:
     unit: g
   - time: 20240510185700
     name: 香香唯北豆腐
-    amount: 90
+    amount: 80
     unit: g
   - time: 20240510185700
     name: 依恋油醋汁
@@ -156,31 +152,31 @@ water:
     name: 咖啡
     amount: 80.0
     unit: ml
-  - time: 20240510074600
+  - time: 20240510073700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240510084100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240510092600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240510113100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240510132100
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240510145300
     name: 开水
     amount: 250
     unit: ml
 
-  - time: 20240510085000
-    name: 开水
-    amount: 250
-    unit: ml
-  - time: 20240510093000
-    name: 开水
-    amount: 250
-    unit: ml
-  - time: 20240510103100
-    name: 开水
-    amount: 250
-    unit: ml
-  - time: 20240510122500
-    name: 咖啡
-    amount: 81.0
-    unit: ml
-  - time: 20240510134300
-    name: 开水
-    amount: 250
-    unit: ml
   - time: 20240510160000
     name: 开水
     amount: 250
@@ -202,13 +198,15 @@ med:
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
-  - time: 20240510074600
+  - time: 20240510073700
     name: selenium
     amount: 200
     unit: µg
-  - time: 20240510074600
+  - time: 20240510073700
     name: mature multi
     amount: 1
     unit: 片
 log: |
+  - 午餐烤黄鱼鯗：洗净用厨房用纸吸干，用芦笋段垫底，鱼皮向上摆放：上下火180°C+15分钟，翻面后鱼皮向下摆放：上下火210°C+15分钟。
 comment: |
+  翻面的时候没有放稳在芦笋上，最后沾纸损失了三分之一鱼皮。
