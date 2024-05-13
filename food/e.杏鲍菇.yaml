@@ -68,7 +68,7 @@ element:
     nrv: 2.6
   硒:
     amount: 1.8
-    unit: µg
+    unit: μg
     nrv: 3.6
   铜:
     amount: 0.06
@@ -80,9 +80,9 @@ element:
     nrv: 1.33
   VB9(叶酸):
     amount: 42.8
-    unit: µg
+    unit: μg
     nrv: 10.7
   VB3(烟酸):
     amount: 3.68
-    unit: µg
+    unit: μg
     nrv: 26.29

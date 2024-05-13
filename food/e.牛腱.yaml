@@ -24,11 +24,11 @@ element:
     nrv: 18
   VA(视黄醇等):
     amount: 3
-    unit: µg
+    unit: μg
     nrv: 0.375
   VE(生育酚):
     amount: 780
-    unit: µg
+    unit: μg
     nrv: 5.57
   钙:
     amount: 5
@@ -40,7 +40,7 @@ element:
     nrv: 26.2
   锰:
     amount: 40
-    unit: µg
+    unit: μg
     nrv: 1.33
   磷:
     amount: 195
@@ -48,7 +48,7 @@ element:
     nrv: 27.86
   硒:
     amount: 3.82
-    unit: µg
+    unit: μg
     nrv: 7.64
   镁:
     amount: 20

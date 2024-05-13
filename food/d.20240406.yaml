@@ -165,11 +165,11 @@ med:
   - time: 20240406103700
     name: 维生素D3
     amount: 125
-    unit: µg
+    unit: μg
   - time: 20240406103700
     name: selenium
     amount: 200
-    unit: µg
+    unit: μg
   - time: 20240406103700
     name: mature multi
     amount: 1

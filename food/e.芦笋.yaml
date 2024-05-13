@@ -28,7 +28,7 @@ element:
     nrv: 8.3
   VK(凝血维生素):
     amount: 60
-    unit: "µg"
+    unit: "μg"
     nrv: 75
   钾:
     amount: 202

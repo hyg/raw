@@ -24,7 +24,7 @@ element:
     nrv: 0
   VA(视黄醇等):
     amount: 21
-    unit: µg
+    unit: μg
     nrv: 3
   VB1(硫胺素):
     amount: 0.24

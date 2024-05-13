@@ -141,7 +141,7 @@ element:
     AMDRmax:
     PI_NCD:
     SPL:
-    unit: mg
+    unit: μg
   锌:
     RNI: 12.0
     EAR: 10.1
@@ -286,6 +286,8 @@ element:
     readme: |
       - NOAEL=0.8μg/[kg(bw)*d]
       - RfD=0.3μg/[kg(bw)*d]
+      - MRL=0.3μg/[kg(bw)*d] 基于对皮肤慢性毒性影响
+      - MRL=0.5μg/[kg(bw)*d] 基于对肠胃道急性毒性影响
   VA(视黄醇等):
     RNI: 770
     EAR: 550
@@ -305,6 +307,7 @@ element:
     AMDRmax:
     PI_NCD:
     SPL:
+    NOAEL: 100
     unit: μg
     readme: 是维生素D的数据
   VE(生育酚):

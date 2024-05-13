@@ -81,7 +81,7 @@ med:
 - time: 20170916092000
   name: selenium
   amount: 100
-  unit: µg
+  unit: μg
 - time: 20170916092000
   name: daily multi
   amount: 1

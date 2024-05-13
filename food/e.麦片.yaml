@@ -24,11 +24,11 @@ element:
     nrv: 21
   VB1(硫胺素):
     amount: 400
-    unit: µg
+    unit: μg
     nrv: 28.6
   VB2(核黄素):
     amount: 140
-    unit: µg
+    unit: μg
     nrv: 10
   VE(生育酚):
     amount: 6.6

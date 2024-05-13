@@ -20,7 +20,7 @@ element:
     nrv: 2.6
   VA(视黄醇等):
     amount: 47
-    unit: µg
+    unit: μg
     nrv: 5.88
   膳食纤维:
     amount: 1.2
@@ -72,5 +72,5 @@ element:
     nrv: 0.67
   VB3(烟酸):
     amount: 0.2
-    unit: µg
+    unit: μg
     nrv: 1.43

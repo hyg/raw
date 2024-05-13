@@ -36,7 +36,7 @@ element:
     nrv: 36
   VA(视黄醇等):
     amount: 32
-    unit: μg RE
+    unit: μg
     nrv: 4
   VE(生育酚):
     amount: 0.34

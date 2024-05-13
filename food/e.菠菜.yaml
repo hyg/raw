@@ -28,19 +28,19 @@ element:
     nrv: 365
   VA(视黄醇等):
     amount: 487
-    unit: µg
+    unit: μg
     nrv: 61
   VB1(硫胺素):
     amount: 40
-    unit: µg
+    unit: μg
     nrv: 3
   VB2(核黄素):
     amount: 110
-    unit: µg
+    unit: μg
     nrv: 8
   VB3(烟酸):
     amount: 600
-    unit: µg
+    unit: μg
     nrv: 4
   VC(抗坏血酸):
     amount: 32
@@ -52,7 +52,7 @@ element:
     nrv: 12
   VK(凝血维生素):
     amount: 380
-    unit: µg
+    unit: μg
     nrv: 475
   钾:
     amount: 311
@@ -76,11 +76,11 @@ element:
     nrv: 19
   锌:
     amount: 850
-    unit: µg
+    unit: μg
     nrv: 6
   锰:
     amount: 660
-    unit: µg
+    unit: μg
     nrv: 22
   磷:
     amount: 47
@@ -88,10 +88,10 @@ element:
     nrv: 7
   硒:
     amount: 0.97
-    unit: µg
+    unit: μg
     nrv: 2
   铜:
     amount: 100
-    unit: µg
+    unit: μg
     nrv: 7
 

@@ -1,0 +1,46 @@
+date: 20240511
+sleep: 
+  time: 20240510233400
+  weight: 51.9
+wake:
+  time: 20240511070300
+  weight: 51.4
+  SpO2: 90
+  PRbpm: 60
+exercise: 
+- time: 20240511073500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: 超人敬礼*5 + 俯卧两头起(Superman exercise)*5 + 俯卧撑(push-ups)*5
+    amount: 2 
+    unit: set
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 97
+  PRbpm: 77
+  endheartrate: 86
+- time: 20240511103400
+  item:
+  - type: walk
+    amount: 26
+    unit: minute
+  SpO2: 93
+  PRbpm: 121
+stool:
+- time: 20240511091500
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+log: |
+  睡觉中间起来小便1次，不需要补水。
+  起床后穿德绒长裤、空气层长裤、短袖T恤、P棉背心、高帮靴、戴帽。
+
+  室内运动后把脉:关脉中偏浅、寸脉尺脉深度中；三处侧向居中；关脉寸脉清晰有力、尺脉清晰。
+  室外运动把空气层长裤换成薄长裤，P棉背心换成防晒衣，室外运动后换回室内穿着。
+comment: |

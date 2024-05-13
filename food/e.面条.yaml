@@ -24,7 +24,7 @@ element:
     nrv: 14.0
   钼:
     amount: 20
-    unit: "µg"
+    unit: "μg"
     nrv: 40.0
   钙:
     amount: 50

@@ -41,15 +41,15 @@ element:
     nrv: 1
   VA(视黄醇等):
     amount: 4
-    unit: µg
+    unit: μg
     nrv: 0
   胡萝卜素:
     amount: 23
-    unit: µg
+    unit: μg
     nrv: 0
   β-胡萝卜素:
     amount: 114
-    unit: µg
+    unit: μg
     nrv: 0
   VE(生育酚):
     amount: 0.3
@@ -57,7 +57,7 @@ element:
     nrv: 2
   VK(凝血维生素):
     amount: 0
-    unit: µg
+    unit: μg
     nrv: 0
   VB1(硫胺素):
     amount: 0.03
@@ -73,7 +73,7 @@ element:
     nrv: 4
   VB12(钴胺素):
     amount: 0
-    unit: µg
+    unit: μg
     nrv: 0
   VB3(烟酸):
     amount: 0.3
@@ -81,7 +81,7 @@ element:
     nrv: 2
   VB9(叶酸):
     amount: 30
-    unit: µg
+    unit: μg
     nrv: 8
   VB5(泛酸):
     amount: 0.3

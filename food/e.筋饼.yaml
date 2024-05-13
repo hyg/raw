@@ -24,7 +24,7 @@ element:
     nrv: 3.6
   VA(视黄醇等):
     amount: 0
-    unit: µg
+    unit: μg
     nrv: 0
   VC(抗坏血酸):
     amount: 0

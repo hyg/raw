@@ -77,7 +77,7 @@ med:
 - time: 20210621222500
   name: selenium
   amount: 200
-  unit: µg
+  unit: μg
 comment: |+
   ...
  

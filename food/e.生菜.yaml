@@ -28,7 +28,7 @@ element:
     nrv: 25 
   VK(凝血维生素): 
     amount: 315 
-    unit: µg 
+    unit: μg 
     nrv: 393.7
   钙: 
     amount: 36 

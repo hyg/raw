@@ -32,7 +32,7 @@ element:
     nrv: 2.14
   VB3(烟酸):
     amount: 0.22
-    unit: µg
+    unit: μg
     nrv: 1.47
   VB6(吡哆素):
     amount: 0.06

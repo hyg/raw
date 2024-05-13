@@ -24,19 +24,19 @@ element:
     nrv: 5.6
   VB1(硫胺素):
     amount: 20
-    unit: µg
+    unit: μg
     nrv: 1.43
   VB2(核黄素):
     amount: 20
-    unit: µg
+    unit: μg
     nrv: 1.43
   VB3(烟酸):
     amount: 300
-    unit: µg
+    unit: μg
     nrv: 2.14
   VA(视黄醇等):
     amount: 20
-    unit: µg
+    unit: μg
     nrv: 2.5
   VC(抗坏血酸):
     amount: 30

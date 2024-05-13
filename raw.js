@@ -32,6 +32,7 @@ var ftable = new Object();  // food data
 //const Keyelement = "VD3(胆钙化醇)";
 //const Keyelement = "VB12(钴胺素)";
 //const Keyelement = "VB1(硫胺素)";
+//const Keyelement = "胆固醇";
 
 var keycnt = 1;
 var Detailtable = new Object();
@@ -43,19 +44,19 @@ var Detailtable = new Object();
 //var DietaryFiberTable = new Object();
 //var CalciumTable = new Object();
 
-
-var fRate = {//换算率
+//换算率
+var fRate = {
     ng: { ng: 1, μg: 0.001, mg: 0.001 * 0.001, g: 0.001 * 0.001 * 0.001, kg: 0.001 * 0.001 * 0.001 * 0.001, t: 0.001 * 0.001 * 0.001 * 0.001 * 0.001, ul: 0.001 * 0.001, ml: 0.001 * 0.001 * 0.001, L: 0.001 * 0.001 * 0.001 * 0.001 },
     μg: { ng: 1000, μg: 1, mg: 0.001, g: 0.001 * 0.001, kg: 0.001 * 0.001 * 0.001, t: 0.001 * 0.001 * 0.001 * 0.001, ul: 0.001, ml: 0.001 * 0.001, L: 0.001 * 0.001 * 0.001 },
-    mg: { ng: 1000 * 1000, μg: 1000, mg: 1, g: 0.001, kg: 0.001 * 0.001, t: 0.001 * 0.001 * 0.001, ul: 1, ml: 0.001, L: 0.001 * 0.001 },
+    mg: { ng: 1000 * 1000, 'μg': 1000, mg: 1, g: 0.001, kg: 0.001 * 0.001, t: 0.001 * 0.001 * 0.001, ul: 1, ml: 0.001, L: 0.001 * 0.001 },
     g: { ng: 1000 * 1000 * 1000, μg: 1000 * 1000, mg: 1000, g: 1, kg: 0.001, t: 0.001 * 0.001, ul: 1000, ml: 1, L: 0.001 },
     kg: { ng: 1000 * 1000 * 1000 * 1000, μg: 1000 * 1000, mg: 1000, g: 1000, kg: 1, t: 0.001, ul: 1000 * 1000, ml: 1000, L: 1 },
     t: { ng: 1000 * 1000 * 1000 * 1000 * 1000, μg: 1000 * 1000 * 1000, mg: 1000 * 1000, g: 1000 * 1000, kg: 1000, t: 1, ul: 1000 * 1000 * 1000, ml: 1000 * 1000, L: 1000 },
     ml: { ng: 1000 * 1000 * 1000, μg: 1000 * 1000, mg: 1000, g: 1, kg: 0.001, t: 0.001 * 0.001, ul: 1000, ml: 1, L: 0.001 },
     ul: { ng: 1000 * 1000, μg: 1000, ml: 1, g: 0.001, kg: 0.001 * 0.001, t: 0.001 * 0.001 * 0.001, ul: 1, ml: 0.001, L: 0.001 * 0.001 },
     L: { ng: 1000 * 1000 * 1000 * 1000, μg: 1000 * 1000, mg: 1000, g: 1000, kg: 1, t: 0.001, ul: 1000 * 1000, ml: 1000, L: 1 },
-    kcal: {cal: 1000, kcal: 1, kj: 4.18},
-    kj: {cal: 238.9, kcal: 0.2389,kj: 1}
+    kcal: { cal: 1000, kcal: 1, kj: 4.18 },
+    kj: { cal: 238.9, kcal: 0.2389, kj: 1 }
 };
 
 const helpstr = `unkonw mode...
@@ -74,7 +75,8 @@ if (arguments.length > 0) {
         enddate = arguments[0] + "1231";
         loadmap();
         foodyearlog(arguments[0]);
-        showtables();
+        //showtables();
+        maketable();
         makeRfile();
     } else if ((arguments.length == 1) & (arguments[0].length == 6)) {
         // month mode: "node raw 202304"
@@ -87,7 +89,8 @@ if (arguments.length > 0) {
         enddate = arguments[0];
         loadmap();
         fooddaylog(arguments[0]);
-        showtables();
+        //showtables();
+        maketable();
         //makeRfile();
     } else if ((arguments.length == 1) & (arguments[0].length != 8) & (!isNaN(arguments[0]))) {
         // diff day mode:"node raw -1"
@@ -98,7 +101,8 @@ if (arguments.length > 0) {
         enddate = datestr(diff);
         loadmap();
         fooddaylog(datestr(diff));
-        showtables();
+        //showtables();
+        maketable();
         //makeRfile();
     } else if (arguments.length == 2) {
         // period mode:"node raw 20230101 20230331"
@@ -106,7 +110,8 @@ if (arguments.length > 0) {
         enddate = arguments[1];
         loadmap();
         foodperiodlog(startdate, enddate);
-        showtables();
+        //showtables();
+        maketable();
         makeRfile();
     } else {
         console.log(helpstr);
@@ -360,7 +365,8 @@ function foodmonthreport(argument) {
             daycnt++;
         }
     }
-    showtables();
+    //showtables();
+    maketable();
     makeRfile();
 
     // the last month
@@ -437,6 +443,11 @@ function foodmonthreport(argument) {
 }
 
 function maketable() {
+    if (typeof Keyelement !== "undefined" && Keyelement !== null) {
+        console.log(Keyelement + "明细表");
+        console.table(Detailtable);
+    }
+
     var NRV = yaml.load(fs.readFileSync(NRVfilename));
     var DRIsfilename = "food/DRIs." + NRV.DRIs + ".yaml";
     var DRIs = yaml.load(fs.readFileSync(DRIsfilename));
@@ -460,7 +471,7 @@ function maketable() {
     }
 
     var elementtable = new Object();
-    
+
 
     if (etable["热量"] != null) {
         console.log(">> 脂肪供能%d%%  碳水供能%d%%  蛋白质供能%d%% <<", (etable["脂肪"].amount * 9.0 * 100 / etable["热量"].amount).toFixed(2), (etable["碳水化合物"].amount * 4 * 100 / etable["热量"].amount).toFixed(2), (etable["蛋白质"].amount * 4 * 100 / etable["热量"].amount).toFixed(2));
@@ -469,8 +480,8 @@ function maketable() {
 
         for (var i in keysSorted) {
             var name = keysSorted[i];
-            var item = new Object() ;
-            item["营养成分"] = name ;
+            var item = new Object();
+            item["营养成分"] = name;
             //console.log("maketable()> name:"+name);
             if ((etable[name].unit == "g") && (etable[name].amount < 1)) {
                 if (etable[name].amount < 0.001) {
@@ -483,30 +494,32 @@ function maketable() {
             }
             item["单位"] = etable[name].unit;
             item["总量"] = etable[name].amount.toFixed(2);
-            item["日均"] = (etable[name].amount / daycnt).toFixed(2);
-            item["NRV(%)"] = (etable[name].nrv / daycnt).toFixed(2);
+            item["日均"] = parseFloat((etable[name].amount / daycnt).toFixed(2));
+            item["NRV(%)"] = parseFloat((etable[name].nrv / daycnt).toFixed(2));
             //console.log("maketable()> unit: "+ etable[name].unit);
 
-            if(DRIs.element[name] != null){
+            if (DRIs.element[name] != null) {
                 var r;
                 if ((fRate[DRIs.element[name].unit] !== undefined) && (fRate[DRIs.element[name].unit][etable[name].unit] !== undefined)) {
                     r = fRate[DRIs.element[name].unit][etable[name].unit];
                 } else {
-                    console.log("maketalbe() > unit different between etable and DRIs: " + name + " " + etable[name].unit + " " + DRIs.element[name].unit);
+                    console.log("maketalbe() > unit different between etable and DRIs: " + name + " [" + DRIs.element[name].unit + "] [" + etable[name].unit + "] " + fRate[DRIs.element[name].unit] + " " + fRate[DRIs.element[name].unit][etable[name].unit]);
                 }
-                
+
                 for (var param in DRIs.element[name]) {
                     if ((param != "unit") && (DRIs.element[name][param] != null) && (DRIs.element[name][param] != "")) {
-                        item[param] = DRIs.element[name][param] * r;
-                        item[param+"(%)"] = (100*item["日均"]/item[param]).toFixed(2);
+                        item[param] = (DRIs.element[name][param] * r).toFixed(2);
+                        //item[param] = parseFloat((DRIs.element[name][param] * r).toFixed(2));
+                        item[param + "(%)"] = parseFloat((100 * item["日均"] / item[param]).toFixed(2));
                     }
                 }
-            }else{
+            } else {
                 //console.log("maketable()> can't find it in DRIs: "+name);
             }
-            elementtable[name] = item ;
+            elementtable[name] = item;
         }
-        console.table(elementtable,["总量","日均","单位","NRV(%)","RNI","RNI(%)","AI","AI(%)","UL","UL(%)","PI_NCD","SPL"]);
+        //console.table(elementtable, ["总量", "日均", "单位", "NRV(%)", "RNI", "RNI(%)", "AI", "AI(%)", "UL", "UL(%)", "PI_NCD", "SPL"]);
+        console.table(elementtable, ["日均", "单位", "NRV(%)", "RNI", "RNI(%)", "AI", "AI(%)", "UL", "UL(%)", "PI_NCD", "SPL"]);
     } else {
         console.log("all food have not element data...");
     }
@@ -667,7 +680,7 @@ function fooddaysum(date, etable, ftable) {
     for (var id in med) {
         if (med[id].name in emap) {//known med
             let meddata = emap[med[id].name];
-            let r = med[id].amount / meddata.amount;  // 此处单位不能换算，无比人工写成相同。
+            let r = med[id].amount / meddata.amount;  // 此处单位不能换算，务必人工写成相同。
             for (var e in meddata.element) {
                 let item = new Object();
                 item.amount = parseFloat(meddata.element[e].amount) * r;
@@ -675,22 +688,27 @@ function fooddaysum(date, etable, ftable) {
                 item.unit = meddata.element[e].unit.toLowerCase();
                 item.nrv = parseFloat(meddata.element[e].nrv) * r;
 
-                if (item.unit == "mg") {
+                /* if (item.unit == "mg") {
                     item.unit = "g";
                     item.amount = item.amount / 1000;
                 }
-                if ((item.unit == "µg") || (item.unit == "μg")) {
+                if ((item.unit == "μg") || (item.unit == "μg")) {
                     item.unit = "g";
                     item.amount = item.amount / 1000000;
-                }
+                }*/
                 if (item.unit == "kj") {
                     item.unit = "kcal";
                     item.amount = item.amount * 0.239;
-                }
+                } 
+
 
                 if (e in etable) {
+                    /* if (item.unit != etable[e].unit) {
+                        console.log("fooddaysum()> different unit:", item.unit, etable[e].unit,fRate[item.unit][etable[e].unit]);
+                    } */
+                    var rate = fRate[item.unit][etable[e].unit];
                     // element already in table
-                    etable[e].amount += item.amount;
+                    etable[e].amount += item.amount * rate;
                     etable[e].nrv += item.nrv;
                 } else {
                     // new element
@@ -764,22 +782,27 @@ function foodsum(foodname, foodamount, foodunit, etable, ftable) {
             item.unit = fooddata.element[e].unit.toLowerCase();
             item.nrv = parseFloat(fooddata.element[e].nrv) * r;
 
-            if (item.unit == "mg") {
+            /* if (item.unit == "mg") {
                 item.unit = "g";
                 item.amount = item.amount / 1000;
             }
-            if ((item.unit == "µg") || (item.unit == "μg")) {
+            if ((item.unit == "μg") || (item.unit == "μg")) {
                 item.unit = "g";
                 item.amount = item.amount / 1000000;
-            }
+            }*/
             if (item.unit == "kj") {
                 item.unit = "kcal";
                 item.amount = item.amount * 0.239;
-            }
+            } 
 
             if (e in etable) {
+                /* console.log("foodsum()> e:",foodname,e);
+                if (item.unit != etable[e].unit) {
+                    console.log("foodsum()> different unit:", item.unit, etable[e].unit,fRate[item.unit][etable[e].unit]);
+                }  */
+                var rate = fRate[item.unit][etable[e].unit];
                 // element already in table
-                etable[e].amount += item.amount;
+                etable[e].amount += item.amount*rate;
                 etable[e].nrv += item.nrv;
             } else {
                 // new element
@@ -1015,7 +1038,7 @@ function E_fix() {
                 item.unit = "g";
                 item.amount = item.amount / 1000;
             }
-            if ((item.unit == "µg") || (item.unit == "μg")) {
+            if ((item.unit == "μg") || (item.unit == "μg")) {
                 item.unit = "g";
                 item.amount = item.amount / 1000000;
             }
@@ -1026,7 +1049,7 @@ function E_fix() {
 
             if ((item.unit == "g") && (item.amount < 1)) {
                 if (item.amount < 0.001) {
-                    item.unit = "µg";
+                    item.unit = "μg";
                     item.amount = item.amount * 1000000;
                 } else {
                     item.unit = "mg";

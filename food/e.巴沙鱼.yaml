@@ -16,10 +16,10 @@ element:
     nrv: 24.15
   锌:
     amount: 200
-    unit: µg
+    unit: μg
     nrv: 1.4
   铜:
     amount: 8
-    unit: µg
+    unit: μg
     nrv: 0.56
 

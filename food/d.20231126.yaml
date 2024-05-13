@@ -197,7 +197,7 @@ med:
   - time: 20231126191300
     name: selenium
     amount: 200
-    unit: µg
+    unit: μg
   - time: 20231126191300
     name: mature multi
     amount: 1

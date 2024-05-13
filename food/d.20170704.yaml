@@ -61,7 +61,7 @@ med:
 - time: 20170704122900
   name: selenium
   amount: 100
-  unit: µg
+  unit: μg
 comment: |+
   ...
  

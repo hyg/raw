@@ -32,11 +32,11 @@ element:
     nrv: 3.57
   VB2(核黄素):
     amount: 110
-    unit: µg
+    unit: μg
     nrv: 7.86
   VB6(吡哆素):
     amount: 29.999999999999996
-    unit: µg
+    unit: μg
     nrv: 2.14
   VE(生育酚):
     amount: 4.98
@@ -44,7 +44,7 @@ element:
     nrv: 35.57
   VB9(叶酸):
     amount: 70.7
-    unit: µg
+    unit: μg
     nrv: 17.68
   钙:
     amount: 44
@@ -60,7 +60,7 @@ element:
     nrv: 6.05
   锌:
     amount: 380
-    unit: µg
+    unit: μg
     nrv: 2.53
   铁:
     amount: 1
@@ -72,5 +72,5 @@ element:
     nrv: 3.67
   硒:
     amount: 13.83
-    unit: µg
+    unit: μg
     nrv: 27.66

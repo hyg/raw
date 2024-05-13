@@ -23,9 +23,9 @@ element:
     unit: g
     nrv: 4.8
   VA(视黄醇等):
-    amount: 536.33
-    unit: "µg"
-    nrv: 59.6
+    amount: 103
+    unit: "μg"
+    nrv: 13.4
   VC(抗坏血酸):
     amount: 56.2
     unit: "mg"

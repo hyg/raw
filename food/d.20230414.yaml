@@ -133,7 +133,7 @@ med:
   - time: 20230414213000
     name: selenium
     amount: 200
-    unit: µg
+    unit: μg
   - time: 20230414213000
     name: daily multi
     amount: 1

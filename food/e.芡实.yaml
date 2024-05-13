@@ -32,7 +32,7 @@ element:
     nrv: 25
   VB2(核黄素):
     amount: 90
-    unit: µg
+    unit: μg
     nrv: 7.5
   VB3(烟酸):
     amount: 0.4
@@ -64,7 +64,7 @@ element:
     nrv: 9.9
   硒:
     amount: 6.0
-    unit: µg
+    unit: μg
     nrv: 10
   铜:
     amount: 0.63

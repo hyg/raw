@@ -24,7 +24,7 @@ element:
     nrv: 3.6
   VA(视黄醇等):
     amount: 3
-    unit: µg
+    unit: μg
     nrv: 0.375
   VC(抗坏血酸):
     amount: 8
@@ -32,7 +32,7 @@ element:
     nrv: 8
   VE(生育酚):
     amount: 140
-    unit: µg
+    unit: μg
     nrv: 1
   钾:
     amount: 147

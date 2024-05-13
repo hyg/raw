@@ -24,7 +24,7 @@ element:
     nrv: 3.5
   VA(视黄醇等):
     amount: 5
-    unit: µg
+    unit: μg
     nrv: 0.6
   VD3(胆钙化醇):
     amount: 0.2

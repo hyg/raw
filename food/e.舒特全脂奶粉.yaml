@@ -36,7 +36,7 @@ element:
     nrv: 32
   VA(视黄醇等):
     amount: 318
-    unit: µg
+    unit: μg
     nrv: 35
   VE(生育酚):
     amount: 0.61
@@ -44,7 +44,7 @@ element:
     nrv: 4
   VK(凝血维生素):
     amount: 3.4
-    unit: µg
+    unit: μg
     nrv: 3
   VB1(硫胺素):
     amount: 0.31
@@ -60,7 +60,7 @@ element:
     nrv: 36
   VB12(钴胺素):
     amount: 2.2
-    unit: µg
+    unit: μg
     nrv: 92
   VB3(烟酸):
     amount: 0.6
@@ -68,5 +68,5 @@ element:
     nrv: 4
   VB9(叶酸):
     amount: 46
-    unit: µg
+    unit: μg
     nrv: 21

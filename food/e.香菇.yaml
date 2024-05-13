@@ -44,7 +44,7 @@ element:
     nrv: 105
   VD2(麦角钙化醇):
     amount: 3.9
-    unit: µg
+    unit: μg
     nrv: 39
   VB3(烟酸):
     amount: 20.5

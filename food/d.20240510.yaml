@@ -92,52 +92,49 @@ food:
     name: 山河全脂奶粉
     amount: 20.0
     unit: g
-
-  - time: 20240510185400
+  - time: 20240510182800
     name: 胡柚
-    amount: 125
+    amount: 121.5
     unit: g
-
-  - time: 20240510185700
+  - time: 20240510183200
     name: 意面
-    amount: 70  
+    amount: 67.0
     unit: g
-  - time: 20240510185700
+  - time: 20240510183200
     name: 生菜
-    amount: 100.0
+    amount: 105.5
     unit: g
-  - time: 20240510185700
+  - time: 20240510183200
     name: 鸡蛋
-    amount: 40
+    amount: 37.0
     unit: g
-  - time: 20240510185700
+  - time: 20240510183200
     name: 香香唯北豆腐
-    amount: 80
+    amount: 103.5
     unit: g
-  - time: 20240510185700
+  - time: 20240510183200
     name: 依恋油醋汁
     amount: 10
     unit: g
-  - time: 20240510185700
+  - time: 20240510183200
     name: 螺不凡辣椒红油
-    amount: 0.5
+    amount: 1.0
     unit: g
-  - time: 20240510185700
+  - time: 20240510183200
     name: 中盐低钠盐
     amount: 1.0
     unit: g
-  - time: 20240510185700
+  - time: 20240510183200
     name: 鲜味王
     amount: 1.0
     unit: g
-  
-  - time: 20240510191400
+  - time: 20240510184700
     name: 山河全脂奶粉
     amount: 20.0
     unit: g
-  - time: 20240510191400
+  - time: 20240510184700
     name: 可可粉
-    amount: 4.0
+    amount: 4.5
     unit: g
 water:
   - time: 20240510053000
@@ -176,20 +173,19 @@ water:
     name: 开水
     amount: 250
     unit: ml
-
-  - time: 20240510160000
+  - time: 20240510153800
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240510185700
+  - time: 20240510183200
     name: 汤水
     amount: 260
     unit: ml
-  - time: 20240510191400
+  - time: 20240510184700
     name: 可可奶
     amount: 80.0
     unit: ml
-  - time: 20240510201900
+  - time: 20240510200900
     name: 开水
     amount: 200
     unit: ml
@@ -201,7 +197,7 @@ med:
   - time: 20240510073700
     name: selenium
     amount: 200
-    unit: µg
+    unit: μg
   - time: 20240510073700
     name: mature multi
     amount: 1

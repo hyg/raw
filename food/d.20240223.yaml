@@ -213,7 +213,7 @@ med:
   - time: 20240223235200
     name: selenium
     amount: 200
-    unit: µg
+    unit: μg
   - time: 20240223235200
     name: multi complete
     amount: 1
