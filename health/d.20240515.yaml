@@ -1,14 +1,14 @@
-date: 20240514
+date: 20240515
 sleep: 
-  time: 20240513221400
+  time: 20240514230000
   weight: 52.1
 wake:
-  time: 20240514064500
-  weight: 51.4
-  SpO2: 97
-  PRbpm: 56
+  time: 20240515061800
+  weight: 51.6
+  SpO2: 96
+  PRbpm: 55
 exercise: 
-- time: 20240514071600
+- time: 20240515065500
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -22,25 +22,25 @@ exercise:
   - type: pilates.p79
     amount: 5
     unit: set
-  SpO2: 97
-  PRbpm: 79
-  endheartrate: 86
-- time: 20240514101200
+  SpO2: 98
+  PRbpm: 74
+  endheartrate: 78
+- time: 20240515093100
   item:
   - type: walk
-    amount: 26
+    amount: 27
     unit: minute
-  SpO2: 95
-  PRbpm: 133
+  SpO2: 96
+  PRbpm: 129
 stool:
-- time: 20240514085000
+- time: 20240515082800
   amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log: |
-  睡觉中间起来小便2次，不需要补水。
-  起床后穿德绒长裤、空气层长裤、短袖T恤、浩沙长袖polo、高帮靴、戴帽。
+  睡觉中间没有起来小便，不需要补水。这几天蛋白质摄入高，没有加热脚，脚趾有些疼。
+  起床后穿德绒长裤、空气层长裤、短袖polo、P棉背心、高帮靴、戴帽。
 
-  室内运动后把脉:寸脉中偏浅、关脉尺脉深度中；三处侧向居中，寸脉关脉对出外侧的细脉清晰有力；寸脉关脉清晰有力、尺脉清晰。
+  室内运动后把脉:关脉中偏浅、尺脉寸脉深度中；三处侧向居中；关脉尺脉清晰有力、寸脉清晰。
   室外运动把空气层长裤换成薄长裤，P棉背心换成防晒衣，室外运动后换回室内穿着。
 comment: |

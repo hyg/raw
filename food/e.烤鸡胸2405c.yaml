@@ -1,0 +1,15 @@
+name: 烤鸡胸2405c
+amount: 128.5
+unit: g
+food:
+  - name: 腌鸡大胸2405a
+    amount: 132.0
+    unit: g
+  - name: 炸鸡裹粉
+    amount: 5.0
+    unit: g
+log: |
+  1. 腌鸡大胸2405a中取一块。
+  1. 边角往下往内卷，烤箱210°C+20分钟，翻面再烤170°C+15分钟，。
+comment: |
+  合适，切成三块用。

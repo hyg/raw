@@ -1,0 +1,218 @@
+date: 20240515
+food:
+  - time: 20240515072800
+    name: 香蕉
+    amount: 90.5
+    unit: g
+  - time: 20240515073400
+    name: 灰枣
+    amount: 10.0
+    unit: g
+  - time: 20240515073400
+    name: 肉包子2405a
+    amount: 1
+    unit: 个
+  - time: 20240515073400
+    name: 南瓜
+    amount: 73.5
+    unit: g
+  - time: 20240515073400
+    name: 芦笋
+    amount: 175.0
+    unit: g
+  - time: 20240515075000
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240515075000
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240515075000
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20240515080000
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240515135800
+    name: 番茄酱
+    amount: 34.0
+    unit: g
+  - time: 20240515135800
+    name: 百香果
+    amount: 35.5
+    unit: g
+  - time: 20240515140000
+    name: 一品寒香大米
+    amount: 30.0
+    unit: g
+  - time: 20240515140000
+    name: 紫米
+    amount: 10.0
+    unit: g
+  - time: 20240515140000
+    name: 旷野金农有机燕麦米
+    amount: 10.0
+    unit: g
+  - time: 20240515140000
+    name: 旷野金农有机玉米碴
+    amount: 10.0
+    unit: g
+  - time: 20240515140000
+    name: 芡实
+    amount: 10.0
+    unit: g
+  - time: 20240515140000
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20240515140000
+    name: 花生
+    amount: 5.0
+    unit: g
+  - time: 20240515140000
+    name: 烤叉烧2405c
+    amount: 37.0
+    unit: g
+  - time: 20240515140000
+    name: 杏鲍菇
+    amount: 139.0
+    unit: g
+  - time: 20240515140000
+    name: 芹菜
+    amount: 248.5
+    unit: g
+  - time: 20240515140000
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240515143000
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240515181400
+    name: 橙
+    amount: 147.0
+    unit: g
+  - time: 20240515181600
+    name: 一品寒香大米
+    amount: 15.0
+    unit: g
+  - time: 20240515181600
+    name: 紫米
+    amount: 10.0
+    unit: g
+  - time: 20240515181600
+    name: 旷野金农有机燕麦米
+    amount: 10.0
+    unit: g
+  - time: 20240515181600
+    name: 旷野金农有机玉米碴
+    amount: 10.0
+    unit: g
+  - time: 20240515181600
+    name: 芡实
+    amount: 10.0
+    unit: g
+  - time: 20240515181600
+    name: 花生
+    amount: 15.0
+    unit: g
+  - time: 20240515181600
+    name: 灰枣
+    amount: 31.5
+    unit: g
+  - time: 20240515181600
+    name: 生菜
+    amount: 151.5
+    unit: g
+  - time: 20240515181600
+    name: 烤鸡胸2405c
+    amount: 37.5
+    unit: g
+  - time: 20240515181600
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240515181600
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20240515184600
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240515184600
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20240515062700
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20240515072000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240515080000
+    name: 咖啡
+    amount: 81.0
+    unit: ml
+  - time: 20240515083700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240515090400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240515100900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240515122400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240515143000
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240515155400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240515171700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240515181600
+    name: 粥水
+    amount: 510
+    unit: ml
+  - time: 20240515184600
+    name: 可可奶
+    amount: 80.5
+    unit: ml
+  - time: 20240515192600
+    name: 开水
+    amount: 100
+    unit: ml
+med:
+  - time: 20240515080000
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20240515083700
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20240515083700
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |

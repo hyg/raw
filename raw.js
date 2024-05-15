@@ -20,7 +20,7 @@ var startdate, enddate;
 var etable = new Object();  // element data
 var ftable = new Object();  // food data
 // element detail tables
-//const Keyelement = "热量";
+const Keyelement = "热量";
 //const Keyelement = "蛋白质";
 //const Keyelement = "脂肪";
 //const Keyelement = "碳水化合物";
@@ -95,10 +95,10 @@ if (arguments.length > 0) {
     } else if ((arguments.length == 1) & (arguments[0].length != 8) & (!isNaN(arguments[0]))) {
         // diff day mode:"node raw -1"
         var diff = parseInt(arguments[0]);
-        //console.log("diff day mode. diff="+diff);
 
         startdate = datestr(diff);
         enddate = datestr(diff);
+        //console.log("diff day mode. diff="+diff,startdate,enddate);
         loadmap();
         fooddaylog(datestr(diff));
         //showtables();

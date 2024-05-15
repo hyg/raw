@@ -1,0 +1,100 @@
+name: 菠萝
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 41
+    unit: kcal
+    nrv: 2
+  蛋白质:
+    amount: 0.4
+    unit: g
+    nrv: 0
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0
+  碳水化合物:
+    amount: 10.1
+    unit: g
+    nrv: 3
+  膳食纤维:
+    amount: 1.2
+    unit: g
+    nrv: 4
+  钠:
+    amount: 2
+    unit: mg
+    nrv: 0
+  VA(视黄醇等):
+    amount: 3
+    unit: μg
+    nrv: 0
+  VE(生育酚):
+    amount: 0.1
+    unit: mg
+    nrv: 0
+  VB1(硫胺素):
+    amount: 0.08
+    unit: mg
+    nrv: 0
+  VB2(核黄素):
+    amount: 0.03
+    unit: mg
+    nrv: 0
+  VB6(吡哆素):
+    amount: 0.09
+    unit: mg
+    nrv: 0
+  VC(抗坏血酸):
+    amount: 12.0
+    unit: mg
+    nrv: 0
+  VB3(烟酸):
+    amount: 0.3
+    unit: mg
+    nrv: 0
+  VB9(叶酸):
+    amount: 5
+    unit: μg
+    nrv: 0
+  生物素:
+    amount: 0.3
+    unit: μg
+    nrv: 0
+  磷:
+    amount: 10
+    unit: mg
+    nrv: 1
+  钾:
+    amount: 160
+    unit: mg
+    nrv: 6
+  镁:
+    amount: 16
+    unit: mg
+    nrv: 4
+  钙:
+    amount: 18
+    unit: mg
+    nrv: 2
+  铁:
+    amount: 0.2
+    unit: mg
+    nrv: 0
+  锌:
+    amount: 0.1
+    unit: mg
+    nrv: 0
+  铜:
+    amount: 0.11
+    unit: mg
+    nrv: 0
+  锰:
+    amount: 0.5
+    unit: mg
+    nrv: 0
+  胡萝卜素:
+    amount: 18
+    unit: μg
+    nrv: 0
