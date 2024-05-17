@@ -1,0 +1,26 @@
+name: 美式花生重磅双层牛堡
+amount: 1
+unit: 个
+element:
+  热量:
+    amount: 1085.3
+    unit: kcal
+    nrv: 59.5
+  蛋白质:
+    amount: 59.0
+    unit: g
+    nrv: 73.9
+  脂肪:
+    amount: 66.9
+    unit: g
+    nrv: 132
+  碳水化合物:
+    amount: 62.4
+    unit: g
+    nrv: 23.8
+  钠:
+    amount: 1567
+    unit: mg
+    nrv: 104.5
+comment: |
+  https://www.burgerking.com.tw/nutrition

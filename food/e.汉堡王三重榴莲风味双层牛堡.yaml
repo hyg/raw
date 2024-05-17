@@ -1,0 +1,29 @@
+name: 汉堡王三重榴莲风味双层牛堡
+amount: 1
+unit: 个
+element:
+  热量:
+    amount: 388
+    unit: kcal
+    nrv: 21.3
+  蛋白质:
+    amount: 23
+    unit: g
+    nrv: 28.8
+  脂肪:
+    amount: 21
+    unit: g
+    nrv: 41.4
+  碳水化合物:
+    amount: 27
+    unit: g
+    nrv: 10.3
+  钠:
+    amount: 750
+    unit: mg
+    nrv: 50
+comment: |
+  采用2层芝士牛肉堡的数据：
+  https://www.burgerking.com.tw/nutrition
+  钠参考其它数据估算：
+  https://www.burgerking.com.tw/nutrition
