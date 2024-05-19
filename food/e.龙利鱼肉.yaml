@@ -1,0 +1,84 @@
+name: 龙利鱼肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 83
+    unit: kcal
+    nrv: 4.5
+  蛋白质:
+    amount: 17.7
+    unit: g
+    nrv: 22
+  脂肪:
+    amount: 1.4
+    unit: g
+    nrv: 2.8
+  碳水化合物:
+    amount: 0.1
+    unit: g
+    nrv: 0
+  VA(视黄醇等):
+    amount: 6
+    unit: μg
+    nrv: 0.6
+  VB1(硫胺素):
+    amount: 0.03
+    unit: mg
+    nrv: 2.3
+  VB2(核黄素):
+    amount: 0.05
+    unit: mg
+    nrv: 3.3
+  VB3(烟酸):
+    amount: 2.1
+    unit: mg
+    nrv: 10.5
+  VE(生育酚):
+    amount: 0.64
+    unit: mg
+    nrv: 4.27
+  钾:
+    amount: 309
+    unit: mg
+    nrv: 15.45
+  钠:
+    amount: 138.8
+    unit: mg
+    nrv: 9.25
+  钙:
+    amount: 57
+    unit: mg
+    nrv: 5.7
+  镁:
+    amount: 27
+    unit: mg
+    nrv: 6.75
+  铁:
+    amount: 1.5
+    unit: mg
+    nrv: 10
+  锰:
+    amount: 0.04
+    unit: mg
+    nrv: 0
+  锌:
+    amount: 0.05
+    unit: mg
+    nrv: 0.33
+  铜:
+    amount: 0.04
+    unit: mg
+    nrv: 2
+  磷:
+    amount: 168
+    unit: mg
+    nrv: 23.5
+  硒:
+    amount: 34.63
+    unit: μg
+    nrv: 49.54
+  胆固醇:
+    amount: 82
+    unit: mg
+    nrv: 27.33

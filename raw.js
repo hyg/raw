@@ -65,7 +65,8 @@ month mode: "node raw 202304"
 day mode: "node raw 20230410"
 diff day mode:  "node raw -1"
 period mode: "node raw 20230101 20230331"
-today mode: "node raw"`;
+today mode: "node raw"
+plan mode: "node raw plan 15"`;
 // read the arguments
 var arguments = process.argv.splice(2);
 if (arguments.length > 0) {
@@ -104,7 +105,15 @@ if (arguments.length > 0) {
         //showtables();
         maketable();
         //makeRfile();
-    } else if (arguments.length == 2) {
+    } else if ((arguments.length == 2) && (arguments[0] == "plan")) {
+        // plan mode: "node raw plan 15"
+        var long = parseInt(arguments[1]);
+        startdate = "20150401";
+        enddate = datestr(-364+long);
+        loadmap();
+        makeplan(long);
+
+    }else if ((arguments.length == 2) && (arguments[0].length == 8) && (arguments[1].length == 8)) {
         // period mode:"node raw 20230101 20230331"
         startdate = arguments[0];
         enddate = arguments[1];
@@ -207,6 +216,57 @@ function loadmap() {
     }
     console.log("\n\n%s\n\n",yaml.dump(z));
     */
+}
+
+// plan mode: "node raw plan 15"
+function makeplan(long){
+    //console.log("makeplan() > long =",long);
+    var diff = 0;
+    var hasdata = true ;
+
+    while(hasdata){
+        diff = diff-365.25 ;
+        var foodstat = new Object() ;
+        var begindate = datestr(parseInt(diff));
+        var lastdate = datestr(parseInt(diff+long));
+        //console.log("makeplan() > %s ~ %s ",begindate,lastdate);
+        //console.log("makeplan() > fmap:",fmap[begindate],fmap[lastdate]);
+        if((fmap[begindate] != null) || (fmap[lastdate] != null)){
+            for (var date in fmap) {
+                if ((date >= begindate) && (date <= lastdate)) {
+                    //console.log("makeplan() > date: ",date);
+                    for(var i in fmap[date].food){
+                        var item = fmap[date].food[i];
+                        if(foodstat[item.name] == null){
+                            foodstat[item.name] = new Object();
+                            foodstat[item.name].amount = item.amount ;
+                            foodstat[item.name].unit = item.unit;
+                            foodstat[item.name].cnt = 1;
+                        }else{
+                            if(foodstat[item.name].unit == item.unit){
+                                foodstat[item.name].amount = foodstat[item.name].amount + item.amount ;
+                                foodstat[item.name].cnt = foodstat[item.name].cnt + 1;
+                            }else{
+                                //console.log("makeplan() > unit different:\n"+yaml.dump(item));
+                                console.log("makeplan() > unit different: %s vs %s\n%s\n%s",foodstat[item.name].unit,item.unit,yaml.dump(foodstat[item.name]),yaml.dump(item));
+                            }
+                        }
+                    }
+                }
+            }
+            let keysSorted = Object.keys(foodstat).sort(function (a, b) { return foodstat[b].cnt - foodstat[a].cnt });
+            console.log("makeplan() > history: %s ~ %s",begindate,lastdate);
+            //console.log("makeplan() > foodstat:\n"+yaml.dump(foodstat));
+            //console.log("makeplan() > keysSorted:\n"+yaml.dump(keysSorted));
+            for(var j=0;j<keysSorted.length;j++){
+                //console.log("makeplan() > keysSorted[%d]: %s",j,keysSorted[j]);
+                var food = foodstat[keysSorted[j]];
+                console.log("%s %f %d",keysSorted[j],(food.amount/food.cnt).toFixed(2),food.cnt);
+            }
+        }else{
+            hasdata = false ;
+        }
+    }
 }
 
 // day mode and today mode

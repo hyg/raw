@@ -11,7 +11,7 @@ food:
 - time: 20160516120000
   name: 海鸭蛋
   amount: 60
-  unit: ml
+  unit: g
 - time: 20160516134000
   name: 番石榴
   amount: 130

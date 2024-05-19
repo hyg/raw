@@ -11,7 +11,7 @@ food:
 - time: 20160513111000
   name: 海鸭蛋
   amount: 60
-  unit: ml
+  unit: g
 - time: 20160513173000
   name: 青见
   amount: 160

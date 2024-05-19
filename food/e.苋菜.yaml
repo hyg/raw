@@ -1,0 +1,88 @@
+name: 苋菜
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 35
+    unit: kcal
+    nrv: 2
+  蛋白质:
+    amount: 2.8
+    unit: g
+    nrv: 5
+  脂肪:
+    amount: 0.4
+    unit: g
+    nrv: 1
+  碳水化合物:
+    amount: 5.9
+    unit: g
+    nrv: 2
+  膳食纤维:
+    amount: 1.8
+    unit: g
+    nrv: 7
+  钠:
+    amount: 42
+    unit: mg
+    nrv: 3
+  VA(视黄醇等):
+    amount: 248
+    unit: μg
+    nrv: 41
+  VE(生育酚):
+    amount: 1.54
+    unit: mg
+    nrv: 11
+  VB1(硫胺素):
+    amount: 0.03
+    unit: mg
+    nrv: 2
+  VB2(核黄素):
+    amount: 0.10
+    unit: mg
+    nrv: 7
+  VC(抗坏血酸):
+    amount: 30.0
+    unit: mg
+    nrv: 50
+  VB3(烟酸):
+    amount: 0.60
+    unit: mg
+    nrv: 3
+  磷:
+    amount: 63
+    unit: mg
+    nrv: 9
+  钾:
+    amount: 340
+    unit: mg
+    nrv: 48
+  镁:
+    amount: 38
+    unit: mg
+    nrv: 9
+  钙:
+    amount: 178
+    unit: mg
+    nrv: 18
+  铁:
+    amount: 2.9
+    unit: mg
+    nrv: 19
+  锌:
+    amount: 0.70
+    unit: mg
+    nrv: 5
+  硒:
+    amount: 0.1
+    unit: μg
+    nrv: 15
+  铜:
+    amount: 0.07
+    unit: mg
+    nrv: 7
+  锰:
+    amount: 0.35
+    unit: mg
+    nrv: 18

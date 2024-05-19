@@ -7,7 +7,7 @@ food:
 - time: 20160512111000
   name: 海鸭蛋
   amount: 60
-  unit: ml
+  unit: g
 - time: 20160512130000
   name: 奶酪
   amount: 18

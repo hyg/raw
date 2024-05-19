@@ -11,11 +11,11 @@ food:
 - time: 20160520115500
   name: 海鸭蛋
   amount: 60
-  unit: ml
+  unit: g
 - time: 20160520144500
   name: 夏橙
   amount: 120
-  unit: ml
+  unit: g
 - time: 20160520164000
   name: 五香牛肉
   amount: 120
@@ -27,7 +27,7 @@ food:
 - time: 20160520183500
   name: 夏橙
   amount: 120
-  unit: ml
+  unit: g
 - time: 20160520201000
   name: 苹果
   amount: 120
