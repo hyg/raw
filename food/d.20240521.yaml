@@ -1,208 +1,219 @@
-date: 20240520
+date: 20240521
 food:
-  - time: 20240520061000
+  - time: 20240521061000
+    name: 菠萝
+    amount: 100
+    unit: g
+  - time: 20240521061000
     name: 肉包子2405b
     amount: 1
     unit: 个
-  - time: 20240520061000
+  - time: 20240521061000
     name: 吉香莲蒜香酥角
-    amount: 16.5
+    amount: 18
     unit: g
-  - time: 20240520061000
+  - time: 20240521061000
     name: 灰枣
-    amount: 22.0
+    amount: 20
     unit: g
-  - time: 20240520061000
+  - time: 20240521061000
     name: 南瓜
-    amount: 62.5
+    amount: 70
     unit: g
-  - time: 20240520061000
+  - time: 20240521061000
     name: 芦笋
-    amount: 103.5
+    amount: 100
     unit: g
-  - time: 20240520064600
+
+  - time: 20240521064600
     name: 桑葚干
     amount: 10.0
     unit: g
-  - time: 20240520064600
+  - time: 20240521064600
     name: 亚麻籽
     amount: 5.0
     unit: g
-  - time: 20240520064600
+  - time: 20240521064600
     name: 麦胚芽
     amount: 10.0
     unit: g
-  - time: 20240520065700
+
+  - time: 20240521065700
     name: 山河全脂奶粉
     amount: 20.0
     unit: g
-  - time: 20240520122500
+
+  - time: 20240521122500
     name: 番茄酱
-    amount: 33.0
+    amount: 30
     unit: g
-  - time: 20240520122500
+  - time: 20240521122500
     name: 百香果
-    amount: 36.0
+    amount: 45
     unit: g
-  - time: 20240520122800
+
+  - time: 20240521122800
     name: 一品寒香大米
     amount: 40.0
     unit: g
-  - time: 20240520122800
+  - time: 20240521122800
     name: 紫米
     amount: 10.0
     unit: g
-  - time: 20240520122800
+  - time: 20240521122800
     name: 旷野金农有机燕麦米
     amount: 10.0
     unit: g
-  - time: 20240520122800
+  - time: 20240521122800
     name: 旷野金农有机玉米碴
     amount: 10.0
     unit: g
-  - time: 20240520122800
+  - time: 20240521122800
     name: 芡实
     amount: 10.0
     unit: g
-  - time: 20240520122800
+  - time: 20240521122800
     name: 绿豆
     amount: 10.0
     unit: g
-  - time: 20240520122800
+  - time: 20240521122800
     name: 花生
-    amount: 5.0
+    amount: 0
     unit: g
-  - time: 20240520122800
+  - time: 20240521122800
     name: 龙利鱼肉
-    amount: 87.5
+    amount: 50
     unit: g
-  - time: 20240520122800
+  - time: 20240521122800
+    name: 香香唯北豆腐
+    amount: 50
+    unit: g
+  - time: 20240521122800
     name: 胡萝卜
-    amount: 116.0
+    amount: 115
     unit: g
-  - time: 20240520122800
-    name: 芹菜
-    amount: 209.0
+  - time: 20240521122800
+    name: 油菜
+    amount: 150
     unit: g
-  - time: 20240520122800
+  - time: 20240521122800
     name: 中盐低钠盐
-    amount: 1.5
+    amount: 1.0
     unit: g
-  - time: 20240520122800
+  - time: 20240521122800
     name: 油
     amount: 1.0
     unit: g
-  - time: 20240520132000
+
+  - time: 20240521132000
     name: 山河全脂奶粉
     amount: 20.0
     unit: g
-  - time: 20240520175800
-    name: 菠萝
-    amount: 102.5
-    unit: g
-  - time: 20240520175800
+
+  - time: 20240521175800
     name: 意面
     amount: 80.0
     unit: g
-  - time: 20240520175800
+  - time: 20240521175800
     name: 苋菜
-    amount: 111.0
+    amount: 100
     unit: g
-  - time: 20240520175800
+  - time: 20240521175800
     name: 鸡蛋
-    amount: 34.5
+    amount: 40
     unit: g
-  - time: 20240520175800
+  - time: 20240521175800
     name: 中盐低钠盐
     amount: 1.0
     unit: g
-  - time: 20240520175800
+  - time: 20240521175800
     name: 鲜味王
     amount: 1.0
     unit: g
-  - time: 20240520175800
+  - time: 20240521175800
     name: 依恋油醋汁
     amount: 9.0
     unit: g
-  - time: 20240520175800
+  - time: 20240521175800
     name: 纯芝麻酱
     amount: 9.0
     unit: g
-  - time: 20240520181400
+
+  - time: 20240521181400
     name: 山河全脂奶粉
     amount: 20.0
     unit: g
-  - time: 20240520181400
+  - time: 20240521181400
     name: 可可粉
     amount: 4.0
     unit: g
 water:
-  - time: 20240520053200
+  - time: 20240521053200
     name: 开水
     amount: 150
     unit: ml
-  - time: 20240520061500
+  - time: 20240521061500
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240520065700
+  - time: 20240521065700
     name: 咖啡
     amount: 80.0
     unit: ml
-  - time: 20240520070700
+  - time: 20240521070700
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240520074600
+  - time: 20240521074600
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240520090300
+  - time: 20240521090300
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240520100000
+  - time: 20240521100000
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240520132000
+  - time: 20240521132000
     name: 咖啡
     amount: 80.5
     unit: ml
-  - time: 20240520135900
+  - time: 20240521135900
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240520145300
+  - time: 20240521145300
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240520163300
+  - time: 20240521163300
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240520175800
+  - time: 20240521175800
     name: 汤水
     amount: 320
     unit: ml
-  - time: 20240520181400
+  - time: 20240521181400
     name: 可可奶
     amount: 81.5
     unit: ml
-  - time: 20240520185100
+  - time: 20240521185100
     name: 开水
     amount: 150
     unit: ml
 med:
-  - time: 20240520065700
+  - time: 20240521065700
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
-  - time: 20240520070700
+  - time: 20240521070700
     name: selenium
     amount: 200
     unit: μg
-  - time: 20240520070700
+  - time: 20240521070700
     name: mature multi
     amount: 1
     unit: 片
