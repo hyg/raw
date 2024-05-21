@@ -193,6 +193,10 @@ water:
     name: 开水
     amount: 150
     unit: ml
+  - time: 20240520220500
+    name: 开水
+    amount: 50
+    unit: ml
 med:
   - time: 20240520065700
     name: 楚牛牛磺酸

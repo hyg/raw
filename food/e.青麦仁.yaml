@@ -1,0 +1,20 @@
+name: 青麦仁
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 343
+    unit: kcal
+    nrv: 18.8
+  脂肪:
+    amount: 1.5
+    unit: g
+    nrv: 3
+  蛋白质:
+    amount: 11
+    unit: g
+    nrv: 13.8
+  碳水化合物:
+    amount: 73.6
+    unit: g
+    nrv: 28
