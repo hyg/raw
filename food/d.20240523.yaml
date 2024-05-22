@@ -1,0 +1,239 @@
+date: 20240523
+food:
+  - time: 20240523062200
+    name: 香蕉
+    amount: 121.0
+    unit: g
+  - time: 20240523062400
+    name: 肉包子2405b
+    amount: 1
+    unit: 个
+  - time: 20240523062400
+    name: 灰枣
+    amount: 11.5
+    unit: g
+  - time: 20240523062400
+    name: 南瓜
+    amount: 83.5
+    unit: g
+  - time: 20240523062400
+    name: 芦笋
+    amount: 72.0
+    unit: g
+  - time: 20240523063600
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240523063600
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240523063600
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20240523063600
+    name: 吉香莲蒜香酥角
+    amount: 17.0
+    unit: g
+  - time: 20240523064700
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+
+
+  - time: 20240523114000
+    name: 香蕉
+    amount: 55
+    unit: g
+
+  - time: 20240523115400
+    name: 番茄酱
+    amount: 40
+    unit: g
+  - time: 20240523115400
+    name: 百香果
+    amount: 60
+    unit: g
+
+  - time: 20240523115600
+    name: 一品寒香大米
+    amount: 30.0
+    unit: g
+  - time: 20240523115600
+    name: 紫米
+    amount: 10.0
+    unit: g
+  - time: 20240523115600
+    name: 旷野金农有机燕麦米
+    amount: 10.0
+    unit: g
+  - time: 20240523115600
+    name: 旷野金农有机玉米碴
+    amount: 10.0
+    unit: g
+  - time: 20240523115600
+    name: 芡实
+    amount: 10.0
+    unit: g
+  - time: 20240523115600
+    name: 绿豆
+    amount: 0
+    unit: g
+  - time: 20240523115600
+    name: 烤鸡腿肉2405b
+    amount: 50
+    unit: g
+  - time: 20240523115600
+    name: 香香唯北豆腐
+    amount: 50
+    unit: g
+  - time: 20240523115600
+    name: 胡萝卜
+    amount: 110
+    unit: g
+  - time: 20240523115600
+    name: 小白菜
+    amount: 200
+    unit: g
+  - time: 20240523115600
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240523115600
+    name: 油
+    amount: 0.5
+    unit: g
+
+  - time: 20240523122700
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+
+  - time: 20240523175600
+    name: 菠萝
+    amount: 80
+    unit: g
+
+  - time: 20240523175600
+    name: 大米
+    amount: 30
+    unit: g
+  - time: 20240523175600
+    name: 紫米
+    amount: 10
+    unit: g
+  - time: 20240523175600
+    name: 芡实
+    amount: 10.0
+    unit: g
+  - time: 20240523175600
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20240523175600
+    name: 灰枣
+    amount: 12
+    unit: g
+  - time: 20240523175600
+    name: 油菜
+    amount: 50
+    unit: g
+  - time: 20240523175600
+    name: 小白菜
+    amount: 50
+    unit: g
+  - time: 20240523175600
+    name: 鸡蛋
+    amount: 40
+    unit: g
+  - time: 20240523175600
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240523175600
+    name: 油
+    amount: 0.5
+    unit: g
+    
+  - time: 20240523183000
+    name: 山河全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240523183000
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20240523052700
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20240523060900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240523064700
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240523072300
+    name: 开水
+    amount: 250
+    unit: ml
+
+  - time: 20240523080000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240523090500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240523100100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240523122700
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240523131300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240523152100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240523172200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240523175600
+    name: 汤水
+    amount: 310
+    unit: ml
+  - time: 20240523183000
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20240523184800
+    name: 开水
+    amount: 150
+    unit: ml
+med:
+  - time: 20240523064700
+    name: 楚牛牛磺酸
+    amount: 1.0
+    unit: g
+  - time: 20240523072300
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20240523072300
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
