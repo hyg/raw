@@ -1,0 +1,10 @@
+name: 十倍零卡糖
+amount: 100
+unit: g
+food:
+  - name: 福田赤藓糖醇
+    amount: 97
+    unit: g
+  - name: 香州甜菊甜菊糖苷
+    amount: 3
+    unit: g 

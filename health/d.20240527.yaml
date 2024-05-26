@@ -1,14 +1,14 @@
-date: 20240526
+date: 20240527
 sleep: 
-  time: 20240525224700
-  weight: 52.2
+  time: 20240526214400
+  weight: 52.7
 wake:
-  time: 20240526064300
-  weight: 51.3
+  time: 20240527061800
+  weight: 51.6
   SpO2: 95
-  PRbpm: 54
+  PRbpm: 53
 exercise: 
-- time: 20240526071000
+- time: 20240527064500
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -23,17 +23,24 @@ exercise:
     amount: 5
     unit: set
   SpO2: 97
-  PRbpm: 78
-  endheartrate: 76
-- time: 20240526100200
+  PRbpm: 75
+  endheartrate: 81
+- time: 20240527100200
   item:
   - type: walk
     amount: 25
     unit: minute
   SpO2: 95
   PRbpm: 127
+- time: 20240527154800
+  item:
+  - type:  俯卧撑(push-ups)*5
+    amount: 5
+    unit: set
+  SpO2: 97
+  PRbpm: 103
 stool:
-- time: 20240526083100
+- time: 20240527083100
   amount:   2   #	1:多; 2:适中;	3:少
   type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
@@ -42,6 +49,7 @@ log: |
   起床后德绒长裤、短袖polo、戴帽。
   早餐前运动后穿黑冰背心、高帮靴。
 
-  室内运动后把脉:三处深度中;三处侧向居中;关脉清晰有力、尺脉寸脉清晰。
+  室内运动后把脉:关脉中偏浅、尺脉寸脉深度中;三处侧向居中;关脉尺脉清晰有力、寸脉清晰。
+  第一轮俯卧撑:各组结束血氧、心率、恢复时间(秒)分别是:98 86 20;97 90 30;97 94 22;98 95 61;97 103 66。
   室外运动时穿防晒衣、薄运动长裤，回到室内脱掉。
 comment: |
