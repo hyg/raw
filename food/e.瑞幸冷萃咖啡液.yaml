@@ -10,6 +10,10 @@ element:
     amount: 0.4
     unit: g
     nrv: 1
+  碳水化合物:
+    amount: 1.0
+    unit: g
+    nrv: 0
   钠:
     amount: 2
     unit: mg

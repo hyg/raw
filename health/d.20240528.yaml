@@ -8,7 +8,7 @@ wake:
   SpO2: 95
   PRbpm: 54
 exercise: 
-- time: 20240528064500
+- time: 20240528072500
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -22,23 +22,9 @@ exercise:
   - type: pilates.p79
     amount: 5
     unit: set
-  SpO2: 97
-  PRbpm: 75
-  endheartrate: 81
-- time: 20240528093500
-  item:
-  - type: walk
-    amount: 27
-    unit: minute
-  SpO2: 95
-  PRbpm: 118
-- time: 20240528154800
-  item:
-  - type:  俯卧撑(push-ups)*5
-    amount: 5
-    unit: set
-  SpO2: 97
-  PRbpm: 103
+  SpO2: 98
+  PRbpm: 74
+  endheartrate: 89
 stool:
 - time: 20240528081300
   amount:   1   #	1:多; 2:适中;	3:少
@@ -49,7 +35,5 @@ log: |
   起床后德绒长裤、短袖polo、戴帽。
   早餐前运动后穿黑冰背心、高帮靴。
 
-  室内运动后把脉:关脉中偏浅、尺脉寸脉深度中;三处侧向居中;关脉尺脉清晰有力、寸脉清晰。
-  第一轮俯卧撑:各组结束血氧、心率、恢复时间(秒)分别是:98 86 20;97 90 30;97 94 22;98 95 61;97 103 66。
-  室外运动时德绒长裤换薄运动长裤，浩沙短袖polo换龙牙防晒短袖polo，回到室内恢复。
+  室内运动后把脉:三处深度中;三处侧向居中;关脉尺脉清晰有力、寸脉清晰。
 comment: |
