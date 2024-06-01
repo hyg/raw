@@ -1,12 +1,12 @@
 name: 烤鸡腿肉2405d
-amount: 120
+amount: 112.0
 unit: g
 food:
   - name: 腌鸡腿肉2405a
-    amount: 150.0
+    amount: 156.5
     unit: g
   - name: 炸鸡裹粉
-    amount: 6.0
+    amount: 5.5
     unit: g
 log: |  
   1. 腌鸡腿肉2405a中取两块，裹粉，穿不锈钢签。
