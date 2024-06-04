@@ -1,0 +1,24 @@
+name: 国芳肥肉粽
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1434
+    unit: kj
+    nrv: 17
+  蛋白质:
+    amount: 4.1
+    unit: g
+    nrv: 7
+  脂肪:
+    amount: 15.4
+    unit: g
+    nrv: 26
+  碳水化合物:
+    amount: 46.8
+    unit: g
+    nrv: 16
+  钠:
+    amount: 307
+    unit: mg
+    nrv: 19

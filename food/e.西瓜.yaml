@@ -6,10 +6,6 @@ element:
     amount: 113
     unit: kJ
     nrv: 0
-  水分:
-    amount: 93.3
-    unit: g
-    nrv: 0
   蛋白质:
     amount: 0.6
     unit: g

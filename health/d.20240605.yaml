@@ -1,14 +1,14 @@
-date: 20240602
+date: 20240605
 sleep: 
-  time: 20240601214400
-  weight: 51.5
+  time: 20240604212600
+  weight: 51.8
 wake:
-  time: 20240602045700
-  weight: 50.8
-  SpO2: 96
-  PRbpm: 54
+  time: 20240605045000
+  weight: 51.0
+  SpO2: 95
+  PRbpm: 55
 exercise: 
-- time: 20240602052500
+- time: 20240605051500
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -22,25 +22,33 @@ exercise:
   - type: pilates.p79
     amount: 5
     unit: set
-  SpO2: 98
+  SpO2: 97
   PRbpm: 78
-  endheartrate: 77
-- time: 20240602071300
+  endheartrate: 81
+- time: 20240605071300
   item:
   - type: walk
     amount: 27
     unit: minute
   SpO2: 95
   PRbpm: 123
+- time: 20240605154800
+  item:
+  - type:  俯卧撑(push-ups)*5
+    amount: 5
+    unit: set
+  SpO2: 97
+  PRbpm: 103
 stool:
-- time: 20240602064500
-  amount:   1   #	1:多; 2:适中;	3:少
+- time: 20240605083000
+  amount:   2   #	1:多; 2:适中;	3:少
   type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log: |
   睡觉中间没有起来小便，不需要补水。
-  起床后caxa长裤、长袖polo、戴帽。
+  起床后德绒长裤、短袖polo、戴帽。
 
-  室内运动后把脉:关脉寸脉中偏浅、尺脉深度中;三处侧向居中;关脉寸脉清晰有力、尺脉清晰。
+  室内运动后把脉:关脉中偏浅、尺脉寸脉深度中;三处侧向居中;三处清晰有力。
+  第一轮俯卧撑:各组结束血氧、心率、恢复时间(秒)分别是:98 86 20;97 90 30;97 94 22;98 95 61;97 103 66。
   室外运动时caxa长裤换薄运动长裤，浩沙长袖polo换龙牙防晒短袖polo，回到室内恢复。
 comment: |

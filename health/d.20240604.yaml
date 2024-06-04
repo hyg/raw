@@ -1,14 +1,14 @@
-date: 20240603
+date: 20240604
 sleep: 
-  time: 20240602220200
-  weight: 51.7
+  time: 20240603225600
+  weight: 51.4
 wake:
-  time: 20240603071000
+  time: 20240604062700
   weight: 50.8
   SpO2: 95
-  PRbpm: 54
+  PRbpm: 53
 exercise: 
-- time: 20240603074200
+- time: 20240604070200
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -23,16 +23,16 @@ exercise:
     amount: 5
     unit: set
   SpO2: 97
-  PRbpm: 79
-  endheartrate: 89
+  PRbpm: 78
+  endheartrate: 81
 stool:
-- time: 20240603091900
+- time: 20240604083000
   amount:   2   #	1:多; 2:适中;	3:少
   type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log: |
-  睡觉中间起来小便1次，不需要补水。
-  起床后caxa长裤、防晒短袖polo、戴帽。
+  睡觉中间没有起来小便，不需要补水。
+  起床后德绒长裤、短袖polo、戴帽。
 
-  室内运动后把脉:三处深度中;三处侧向居中;关脉尺脉清晰有力、寸脉清晰。
+  室内运动后把脉:关脉中偏浅、尺脉寸脉深度中;三处侧向居中;三处清晰有力。
 comment: |
