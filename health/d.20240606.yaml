@@ -1,14 +1,14 @@
-date: 20240605
+date: 20240606
 sleep: 
-  time: 20240604212600
-  weight: 51.8
+  time: 20240605220000
+  weight: 51.7
 wake:
-  time: 20240605045000
-  weight: 51.0
-  SpO2: 95
+  time: 20240606053000
+  weight: 51.2
+  SpO2: 94
   PRbpm: 55
 exercise: 
-- time: 20240605051500
+- time: 20240606051500
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -25,15 +25,22 @@ exercise:
   SpO2: 98
   PRbpm: 78
   endheartrate: 83
-- time: 20240605071300
+- time: 20240606071300
   item:
   - type: walk
     amount: 27
     unit: minute
   SpO2: 95
   PRbpm: 125
+- time: 20240606154800
+  item:
+  - type:  俯卧撑(push-ups)*5
+    amount: 5
+    unit: set
+  SpO2: 97
+  PRbpm: 103
 stool:
-- time: 20240605064600
+- time: 20240606064600
   amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
@@ -42,5 +49,6 @@ log: |
   起床后德绒长裤、短袖polo、戴帽。
 
   室内运动后把脉:关脉中偏浅、尺脉寸脉深度中;三处侧向居中;三处清晰有力。
-  室外运动时德绒长裤换薄运动长裤，浩沙短袖polo换龙牙防晒短袖polo，回到室内恢复。
+  第一轮俯卧撑:各组结束血氧、心率、恢复时间(秒)分别是:98 86 20;97 90 30;97 94 22;98 95 61;97 103 66。
+  室外运动时德绒长裤换薄运动长裤，浩沙长袖polo换龙牙防晒短袖polo，回到室内恢复。
 comment: |
