@@ -1,0 +1,210 @@
+date: 20240608
+food:
+  - time: 20240608060300
+    name: 杏
+    amount: 136.0
+    unit: g
+  - time: 20240608060700
+    name: 国芳鲜肉粽
+    amount: 175
+    unit: g
+  - time: 20240608060700
+    name: 南瓜
+    amount: 47.0
+    unit: g
+  - time: 20240608060700
+    name: 黄瓜
+    amount: 122.0
+    unit: g
+  - time: 20240608061900
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240608061900
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240608061900
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20240608062700
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240608062700
+    name: 瑞幸冷萃咖啡液
+    amount: 0.5
+    unit: 份
+
+  - time: 20240608125000
+    name: 番茄酱
+    amount: 20
+    unit: g
+  - time: 20240608125000
+    name: 百香果
+    amount: 35
+    unit: g
+
+  - time: 20240608125300
+    name: 一品寒香大米
+    amount: 60.0
+    unit: g
+  - time: 20240608125300
+    name: 番茄酱
+    amount: 10.0
+    unit: g
+  - time: 20240608125300
+    name: 豆瓣酱
+    amount: 6.0
+    unit: g
+  - time: 20240608125300
+    name: 韩三顺辣白菜
+    amount: 20.0
+    unit: g
+  - time: 20240608125300
+    name: 晟世孚众红烧肉
+    amount: 40
+    unit: g
+  - time: 20240608125300
+    name: 枸杞
+    amount: 5
+    unit: g
+  - time: 20240608125300
+    name: 胡萝卜
+    amount: 100
+    unit: g
+  - time: 20240608125300
+    name: 芹菜
+    amount: 205.5
+    unit: g
+  - time: 20240608125300
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240608125300
+    name: 油
+    amount: 0.5
+    unit: g
+
+  - time: 20240608133600
+    name: 奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240608133600
+    name: 河套脱脂奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240608133600
+    name: 瑞幸冷萃咖啡液
+    amount: 0.5
+    unit: 份
+
+  - time: 20240608181900
+    name: 香蕉
+    amount: 60
+    unit: g
+
+  - time: 20240608182200
+    name: 红薯
+    amount: 120
+    unit: g
+  - time: 20240608182200
+    name: 山药豆
+    amount: 80
+    unit: g
+  - time: 20240608182200
+    name: 鸡蛋
+    amount: 40
+    unit: g
+  - time: 20240608182200
+    name: 香香唯北豆腐
+    amount: 90
+    unit: g
+  - time: 20240608182200
+    name: 油菜
+    amount: 200
+    unit: g
+  - time: 20240608182200
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240608182200
+    name: 油
+    amount: 0.5
+    unit: g
+
+  - time: 20240608183800
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240608183800
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20240608050900
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20240608054600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240608062700
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240608063800
+    name: 开水
+    amount: 250
+    unit: ml
+
+  - time: 20240608104400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240608113900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240608133600
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240608142800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240608155100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240608171100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240608183800
+    name: 牛奶
+    amount: 75.5
+    unit: ml
+  - time: 20240608193600
+    name: 开水
+    amount: 150
+    unit: ml
+med:
+  - time: 20240608062700
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20240608063800
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20240608063800
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+  - 午餐烤龙利鱼：滚上炸鸡裹粉，插上不锈钢签、牙签支撑：上下火230°C+15分钟，上下火220°C+10分钟。
+comment: |
