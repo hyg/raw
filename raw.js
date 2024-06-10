@@ -109,11 +109,11 @@ if (arguments.length > 0) {
         // plan mode: "node raw plan 15"
         var long = parseInt(arguments[1]);
         startdate = "20150401";
-        enddate = datestr(-364+long);
+        enddate = datestr(-364 + long);
         loadmap();
         makeplan(long);
 
-    }else if ((arguments.length == 2) && (arguments[0].length == 8) && (arguments[1].length == 8)) {
+    } else if ((arguments.length == 2) && (arguments[0].length == 8) && (arguments[1].length == 8)) {
         // period mode:"node raw 20230101 20230331"
         startdate = arguments[0];
         enddate = arguments[1];
@@ -175,7 +175,15 @@ function loadmap() {
         // failure
         console.log("yaml read error！" + e);
     }
+/* 
+    let keysSorted = Object.keys(emap).sort(function (a, b) { return ((emap[b].element== null)?0:((emap[b].element["热量"]== null)?0:emap[b].element["热量"].amount)) - ((emap[a].element==null)?0:((emap[a].element["热量"]== null)?0:emap[a].element["热量"].amount))});
 
+    for (var j = 0; j < keysSorted.length; j++) {
+        //console.log("makeplan() > keysSorted[%d]: %s",j,keysSorted[j]);
+        var food = emap[keysSorted[j]];
+        console.log("%d:%s\t%d%s/%f%s",j,keysSorted[j],((emap[keysSorted[j]].element== null)?0:((emap[keysSorted[j]].element["热量"]== null)?0:emap[keysSorted[j]].element["热量"].amount)),((emap[keysSorted[j]].element==null)?"kcal":((emap[keysSorted[j]].element["热量"]== null)?"kcal":emap[keysSorted[j]].element["热量"].unit)),emap[keysSorted[j]].amount,emap[keysSorted[j]].unit);
+    }
+ */
     /*
     // make the Nutritional composition table of mixtures
     var z = new Object();
@@ -219,52 +227,52 @@ function loadmap() {
 }
 
 // plan mode: "node raw plan 15"
-function makeplan(long){
+function makeplan(long) {
     //console.log("makeplan() > long =",long);
     var diff = 0;
-    var hasdata = true ;
+    var hasdata = true;
 
-    while(hasdata){
-        diff = diff-365.25 ;
-        var foodstat = new Object() ;
+    while (hasdata) {
+        diff = diff - 365.25;
+        var foodstat = new Object();
         var begindate = datestr(parseInt(diff));
-        var lastdate = datestr(parseInt(diff+long));
+        var lastdate = datestr(parseInt(diff + long));
         //console.log("makeplan() > %s ~ %s ",begindate,lastdate);
         //console.log("makeplan() > fmap:",fmap[begindate],fmap[lastdate]);
-        if((fmap[begindate] != null) || (fmap[lastdate] != null)){
+        if ((fmap[begindate] != null) || (fmap[lastdate] != null)) {
             for (var date in fmap) {
                 if ((date >= begindate) && (date <= lastdate)) {
                     //console.log("makeplan() > date: ",date);
-                    for(var i in fmap[date].food){
+                    for (var i in fmap[date].food) {
                         var item = fmap[date].food[i];
-                        if(foodstat[item.name] == null){
+                        if (foodstat[item.name] == null) {
                             foodstat[item.name] = new Object();
-                            foodstat[item.name].amount = item.amount ;
+                            foodstat[item.name].amount = item.amount;
                             foodstat[item.name].unit = item.unit;
                             foodstat[item.name].cnt = 1;
-                        }else{
-                            if(foodstat[item.name].unit == item.unit){
-                                foodstat[item.name].amount = foodstat[item.name].amount + item.amount ;
+                        } else {
+                            if (foodstat[item.name].unit == item.unit) {
+                                foodstat[item.name].amount = foodstat[item.name].amount + item.amount;
                                 foodstat[item.name].cnt = foodstat[item.name].cnt + 1;
-                            }else{
+                            } else {
                                 //console.log("makeplan() > unit different:\n"+yaml.dump(item));
-                                console.log("makeplan() > unit different: %s vs %s\n%s\n%s",foodstat[item.name].unit,item.unit,yaml.dump(foodstat[item.name]),yaml.dump(item));
+                                console.log("makeplan() > unit different: %s vs %s\n%s\n%s", foodstat[item.name].unit, item.unit, yaml.dump(foodstat[item.name]), yaml.dump(item));
                             }
                         }
                     }
                 }
             }
             let keysSorted = Object.keys(foodstat).sort(function (a, b) { return foodstat[b].cnt - foodstat[a].cnt });
-            console.log("makeplan() > history: %s ~ %s",begindate,lastdate);
+            console.log("makeplan() > history: %s ~ %s", begindate, lastdate);
             //console.log("makeplan() > foodstat:\n"+yaml.dump(foodstat));
             //console.log("makeplan() > keysSorted:\n"+yaml.dump(keysSorted));
-            for(var j=0;j<keysSorted.length;j++){
+            for (var j = 0; j < keysSorted.length; j++) {
                 //console.log("makeplan() > keysSorted[%d]: %s",j,keysSorted[j]);
                 var food = foodstat[keysSorted[j]];
-                console.log("%s %f %d",keysSorted[j],(food.amount/food.cnt).toFixed(2),food.cnt);
+                console.log("%s %f %d", keysSorted[j], (food.amount / food.cnt).toFixed(2), food.cnt);
             }
-        }else{
-            hasdata = false ;
+        } else {
+            hasdata = false;
         }
     }
 }
@@ -759,7 +767,7 @@ function fooddaysum(date, etable, ftable) {
                 if (item.unit == "kj") {
                     item.unit = "kcal";
                     item.amount = item.amount * 0.239;
-                } 
+                }
 
 
                 if (e in etable) {
@@ -853,7 +861,7 @@ function foodsum(foodname, foodamount, foodunit, etable, ftable) {
             if (item.unit == "kj") {
                 item.unit = "kcal";
                 item.amount = item.amount * 0.239;
-            } 
+            }
 
             if (e in etable) {
                 /* console.log("foodsum()> e:",foodname,e);
@@ -862,7 +870,7 @@ function foodsum(foodname, foodamount, foodunit, etable, ftable) {
                 }  */
                 var rate = fRate[item.unit][etable[e].unit];
                 // element already in table
-                etable[e].amount += item.amount*rate;
+                etable[e].amount += item.amount * rate;
                 etable[e].nrv += item.nrv;
             } else {
                 // new element
