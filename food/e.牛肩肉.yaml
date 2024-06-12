@@ -1,0 +1,70 @@
+name: 牛肩肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 342
+    unit: kcal
+    nrv: 18  # 342kcal占1825kcal的18.71%
+  蛋白质:
+    amount: 14.1
+    unit: g
+    nrv: 28  # 假设蛋白质占总热量的17.5%，14.1g占1825kcal的3.2%，约为每日摄入量的28%
+  脂肪:
+    amount: 31.7
+    unit: g
+    nrv: 33  # 脂肪占总热量的25%，31.7g脂肪提供的热量约为273kcal，占1825kcal的15%
+  胆固醇:
+    amount: 51
+    unit: mg
+    nrv: 17  # 假设每日推荐摄入量为300mg，51mg占17%
+  VA(视黄醇等):
+    amount: 1
+    unit: μg
+    nrv: 0.14 # 假设每日推荐摄入量为700μg，1μg占0.14%
+  VE(生育酚):
+    amount: 0.19
+    unit: mg
+    nrv: 1.3  # 假设每日推荐摄入量为15mg，0.19mg占1.3%
+  VB1(硫胺素):
+    amount: 0.02
+    unit: mg
+    nrv: 1.4  # 假设每日推荐摄入量为14mg，0.02mg占1.4%
+  VB2(核黄素):
+    amount: 0.06
+    unit: mg
+    nrv: 3.0  # 假设每日推荐摄入量为20mg，0.06mg占3.0%
+  VB3(烟酸):
+    amount: 1.66
+    unit: mg
+    nrv: 8.3  # 假设每日推荐摄入量为20mg，1.66mg占8.3%
+  VB9(叶酸):
+    amount: 4
+    unit: μg
+    nrv: 1.0  # 假设每日推荐摄入量为400μg，4μg占1.0%
+  生物素:
+    amount: 0.7
+    unit: μg
+    nrv: 7.0  # 假设每日推荐摄入量为10μg，0.7μg占7.0%
+  胆碱:
+    amount: 26.2
+    unit: mg
+    nrv: 26  # 假设每日推荐摄入量为100mg，26.2mg占26%
+  铁:
+    amount: 0.5
+    unit: mg
+    nrv: 3.3  # 假设每日推荐摄入量为15mg，0.5mg占3.3%
+  锌:
+    amount: 2.59
+    unit: mg
+    nrv: 17  # 假设每日推荐摄入量为15mg，2.59mg占17%
+  硒:
+    amount: 2.3
+    unit: μg
+    nrv: 33  # 假设每日推荐摄入量为7μg，2.3μg占33%
+  铜:
+    amount: 0.01
+    unit: mg
+    nrv: 1.7  # 假设每日推荐摄入量为0.6mg，0.01mg占1.7%
+comment: |
+  http://www.eshian.com/yyss/702.html
