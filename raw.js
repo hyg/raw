@@ -33,6 +33,7 @@ var ftable = new Object();  // food data
 //const Keyelement = "VB12(钴胺素)";
 //const Keyelement = "VB1(硫胺素)";
 //const Keyelement = "胆固醇";
+//const Keyelement = "钒";
 
 var keycnt = 1;
 var Detailtable = new Object();

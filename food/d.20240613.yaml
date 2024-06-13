@@ -40,95 +40,85 @@ food:
     name: 瑞幸冷萃咖啡液
     amount: 0.5
     unit: 份
-
-  - time: 20240613115500
+  - time: 20240613122500
     name: 番茄酱
+    amount: 27.5
+    unit: g
+  - time: 20240613122500
+    name: 百香果
+    amount: 69.0
+    unit: g
+  - time: 20240613122500
+    name: 臻妍益生菌冻干粉
+    amount: 3.5
+    unit: g
+  - time: 20240613122800
+    name: 一品寒香大米
     amount: 30.0
     unit: g
-  - time: 20240613115500
-    name: 百香果
-    amount: 75
+  - time: 20240613122800
+    name: 紫米
+    amount: 20.0
     unit: g
-  - time: 20240613115500
-    name: 臻妍益生菌冻干粉
-    amount: 3.0
+  - time: 20240613122800
+    name: 青麦仁
+    amount: 30
     unit: g
-
-  - time: 20240613120000
-    name: 象大厨生鲜细面
-    amount: 125
+  - time: 20240613122800
+    name: 卤牛肉2406a
+    amount: 22.5
     unit: g
-  - time: 20240613120000
-    name: 牛肩肉
-    amount: 60
+  - time: 20240613122800
+    name: 香香唯北豆腐
+    amount: 98.0
     unit: g
-  - time: 20240613120000
+  - time: 20240613122800
     name: 胡萝卜
-    amount: 140
+    amount: 133.5
     unit: g
-  - time: 20240613120000
-    name: 芹菜
-    amount: 200
+  - time: 20240613122800
+    name: 油菜
+    amount: 71.5
     unit: g
-  - time: 20240613120000
-    name: 中盐低钠盐
-    amount: 0.5
+  - time: 20240613122800
+    name: 苋菜
+    amount: 114.0
     unit: g
-  - time: 20240613120000
-    name: 油
-    amount: 0.5
-    unit: g
-
-  - time: 20240613124500
+  - time: 20240613125800
     name: 奶粉
     amount: 20.0
     unit: g
-  - time: 20240613124500
+  - time: 20240613125800
     name: 瑞幸冷萃咖啡液
     amount: 0.5
     unit: 份
-
-  - time: 20240613180000
-    name: 山药豆
-    amount: 80
+  - time: 20240613181800
+    name: 肉包子2406a
+    amount: 1
+    unit: 个
+  - time: 20240613181800
+    name: 苋菜
+    amount: 120.0
     unit: g
-  - time: 20240613180000
-    name: 鸡蛋
-    amount: 40
-    unit: g
-  - time: 20240613180000
-    name: 香香唯北豆腐
-    amount: 60
-    unit: g
-  - time: 20240613180000
-    name: 丝瓜
-    amount: 240
-    unit: g
-  - time: 20240613180000
+  - time: 20240613181800
     name: 中盐低钠盐
     amount: 1.0
     unit: g
-  - time: 20240613180000
-    name: 鲜味王
+  - time: 20240613181800
+    name: 油
     amount: 0.5
     unit: g
-  - time: 20240613180000
-    name: 依恋油醋汁
-    amount: 10
-    unit: g
-  - time: 20240613180000
-    name: 香油
-    amount: 0.5
-    unit: g
-
-  - time: 20240613181300
+  - time: 20240613182700
     name: 圣女果
-    amount: 240
+    amount: 161.0
     unit: g
-
-  - time: 20240613183000
-    name: 河套脱脂奶粉
-    amount: 20.0
+  - time: 20240613183300
+    name: 奶粉
+    amount: 15.0
+    unit: g
+  - time: 20240613183300
+    name: 可可粉
+    amount: 3.0
     unit: g
 water:
   - time: 20240613053700
@@ -139,57 +129,56 @@ water:
     name: 开水
     amount: 250
     unit: ml
-
   - time: 20240613065800
-    name: 牛奶
+    name: 咖啡
     amount: 80.5
     unit: ml
-  - time: 20240613080100
+  - time: 20240613071000
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240613090800
+  - time: 20240613083500
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240613100900
+  - time: 20240613105200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240613105800
+  - time: 20240613125800
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20240613115400
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240613124500
-    name: 牛奶
-    amount: 60.5
-    unit: ml
-  - time: 20240613141100
+  - time: 20240613165900
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240613164800
-    name: 开水
-    amount: 250
-    unit: ml
-  - time: 20240613183000
-    name: 牛奶
+  - time: 20240613183300
+    name: 可可奶
     amount: 60.0
     unit: ml
-  - time: 20240613184800
+  - time: 20240613185800
     name: 开水
-    amount: 180
+    amount: 150
+    unit: ml
+  - time: 20240613195000
+    name: 开水
+    amount: 80
     unit: ml
 med:
   - time: 20240613065800
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
-  - time: 20240613090800
+  - time: 20240613071000
     name: selenium
     amount: 200
     unit: μg
-  - time: 20240613090800
+  - time: 20240613071000
     name: mature multi
     amount: 1
     unit: 片
