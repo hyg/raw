@@ -1,0 +1,24 @@
+name: 卢老五辣椒油包
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2626
+    unit: kj
+    nrv: 31
+  蛋白质:
+    amount: 7.2
+    unit: g
+    nrv: 12
+  脂肪:
+    amount: 64.3
+    unit: g
+    nrv: 107
+  碳水化合物:
+    amount: 7.3
+    unit: g
+    nrv: 2
+  钠:
+    amount: 30
+    unit: mg
+    nrv: 2

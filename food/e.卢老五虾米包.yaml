@@ -1,0 +1,24 @@
+name: 卢老五虾米包
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 839
+    unit: kj
+    nrv: 10
+  蛋白质:
+    amount: 43.7
+    unit: g
+    nrv: 73
+  脂肪:
+    amount: 2.6
+    unit: g
+    nrv: 4
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  钠:
+    amount: 4900
+    unit: mg
+    nrv: 245

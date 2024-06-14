@@ -1,0 +1,24 @@
+name: 卢老五辣椒面包
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1759
+    unit: kj
+    nrv: 21
+  蛋白质:
+    amount: 17.0
+    unit: g
+    nrv: 28
+  脂肪:
+    amount: 19.2
+    unit: g
+    nrv: 32
+  碳水化合物:
+    amount: 44.7
+    unit: g
+    nrv: 15
+  钠:
+    amount: 753
+    unit: mg
+    nrv: 38

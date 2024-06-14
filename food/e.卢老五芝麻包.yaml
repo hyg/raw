@@ -1,0 +1,24 @@
+name: 卢老五芝麻包
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2314
+    unit: kj
+    nrv: 28
+  蛋白质:
+    amount: 18.4
+    unit: g
+    nrv: 31
+  脂肪:
+    amount: 39.6
+    unit: g
+    nrv: 66
+  碳水化合物:
+    amount: 31.5
+    unit: g
+    nrv: 11
+  钠:
+    amount: 32
+    unit: mg
+    nrv: 2

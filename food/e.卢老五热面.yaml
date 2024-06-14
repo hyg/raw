@@ -1,0 +1,24 @@
+name: 卢老五热面
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1151
+    unit: kj
+    nrv: 14
+  蛋白质:
+    amount: 9.5
+    unit: g
+    nrv: 16
+  脂肪:
+    amount: 0
+    unit: g
+    nrv: 0
+  碳水化合物:
+    amount: 58.2
+    unit: g
+    nrv: 19
+  钠:
+    amount: 732
+    unit: mg
+    nrv: 37
