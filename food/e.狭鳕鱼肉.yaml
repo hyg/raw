@@ -1,0 +1,20 @@
+name: 狭鳕鱼肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 292
+    unit: kj
+    nrv: 3
+  蛋白质:
+    amount: 15.0
+    unit: g
+    nrv: 25
+  脂肪:
+    amount: 1.0
+    unit: g
+    nrv: 2
+  钠:
+    amount: 217
+    unit: mg
+    nrv: 11

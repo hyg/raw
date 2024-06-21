@@ -1,0 +1,24 @@
+name: 会吃猪骨浓汤
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1104
+    unit: kj
+    nrv: 13
+  蛋白质:
+    amount: 27.5
+    unit: g
+    nrv: 46
+  脂肪:
+    amount: 6.5
+    unit: g
+    nrv: 11
+  碳水化合物:
+    amount: 23.3
+    unit: g
+    nrv: 8
+  钠:
+    amount: 6020
+    unit: mg
+    nrv: 301

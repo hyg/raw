@@ -1,0 +1,33 @@
+date: 20240620
+sleep: 
+  time: 20240619225600
+  weight: 51.6
+wake:
+  time: 20240620094700
+  weight: 50.2
+  SpO2: 93
+  PRbpm: 59
+exercise: 
+- time: 20240620104200
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: 超人敬礼*5 + 俯卧两头起(Superman exercise)*5 + 俯卧撑(push-ups)*5
+    amount: 2 
+    unit: set
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 97
+  PRbpm: 89
+  endheartrate: 89
+log: |
+  睡觉中间起来小便2次，不需要补水。
+  起床后运动短裤、短袖polo。
+
+  室内运动后把脉:关脉中偏浅、尺脉寸脉深度中;三处侧向居中;关脉尺脉清晰有力、寸脉清晰。
+comment: |

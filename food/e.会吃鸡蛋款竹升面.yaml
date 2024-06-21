@@ -1,0 +1,24 @@
+name: 会吃鸡蛋款竹升面
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1513
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 10.0
+    unit: g
+    nrv: 17
+  脂肪:
+    amount: 1.2
+    unit: g
+    nrv: 2
+  碳水化合物:
+    amount: 76.4
+    unit: g
+    nrv: 25
+  钠:
+    amount: 101
+    unit: mg
+    nrv: 5
