@@ -1,0 +1,179 @@
+date: 20240623
+food:
+  - time: 20240623091500
+    name: 香蕉
+    amount: 128.0
+    unit: g
+  - time: 20240623091700
+    name: 会吃鸡蛋款竹升面
+    amount: 63.5
+    unit: g
+  - time: 20240623091700
+    name: 捷百味什锦菌菇
+    amount: 200
+    unit: g
+  - time: 20240623091700
+    name: 西兰花
+    amount: 97.0
+    unit: g
+  - time: 20240623093300
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240623093300
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240623093300
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20240623094300
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240623131200
+    name: 番茄酱
+    amount: 31.5
+    unit: g
+  - time: 20240623131200
+    name: 百香果
+    amount: 79.0
+    unit: g
+  - time: 20240623131500
+    name: 一品寒香大米
+    amount: 40.0
+    unit: g
+  - time: 20240623131500
+    name: 狭鳕鱼肉
+    amount: 56.0
+    unit: g
+  - time: 20240623131500
+    name: 胡萝卜
+    amount: 114.0
+    unit: g
+  - time: 20240623131500
+    name: 菜心
+    amount: 233.5
+    unit: g
+  - time: 20240623131500
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240623131500
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20240623133900
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240623182600
+    name: 油桃
+    amount: 143.5
+    unit: g
+    log: 154.0g-10.5g
+  - time: 20240616182900
+    name: 鲜玉米
+    amount: 175.7
+    unit: g
+    log: |
+      - 生重284.5g
+      - 熟重321.5g
+      - 玉米芯熟重123.0g
+  - time: 20240616184000
+    name: 鸡蛋
+    amount: 35.5
+    unit: g
+  - time: 20240616184000
+    name: 苦瓜
+    amount: 178.0
+    unit: g
+  - time: 20240616184000
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240616184000
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20240616184000
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20240623185700
+    name: 伊卡浓72%臻黑巧克力
+    amount: 23.5
+    unit: g
+  - time: 20240623190200
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240623190200
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20240623081100
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20240623085500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240623094300
+    name: 咖啡
+    amount: 81.0
+    unit: ml
+  - time: 20240623100900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240623113600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240623121800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240623131500
+    name: 粥水
+    amount: 250
+    unit: ml
+  - time: 20240623133900
+    name: 咖啡
+    amount: 81.0
+    unit: ml
+  - time: 20240623144000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240623160200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240623190200
+    name: 可可奶
+    amount: 81.0
+    unit: ml
+  - time: 20240623194500
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20240623094300
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20240623100900
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20240623100900
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |

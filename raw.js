@@ -959,7 +959,7 @@ function makeRfile() {
                 console.log("debug: sleeplongtime>1100\t" + sleeplongtime + "\tday:\t" + day + "\tsleeptime:" + sleeptime + "\twaketime:" + waketime);
             }
             if (sleeplongtime < 0) {
-                console.log("debug: sleeplongtime<0\t" + sleeplongtime + "\tday:\t" + day + "\tsleeptime:" + sleeptime + "\twaketime:" + waketime);
+                console.log("debug: sleeplongtime<0\t" + sleeplongtime + "\tday:\t" + day + "\tsleepday:\t" + sleepday + "\tsleeptime:" + sleeptime + "\twaketime:" + waketime);
             }
 
             //if(waketime > 1000) {console.log(day)}

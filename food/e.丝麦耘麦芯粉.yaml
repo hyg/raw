@@ -1,0 +1,20 @@
+name: 丝麦耘麦芯粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1465
+    unit: kj
+    nrv: 17
+  蛋白质:
+    amount: 11.5
+    unit: g
+    nrv: 19
+  脂肪:
+    amount: 1.1
+    unit: g
+    nrv: 2
+  碳水化合物:
+    amount: 72.3
+    unit: g
+    nrv: 24

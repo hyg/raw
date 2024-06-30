@@ -1,14 +1,14 @@
-date: 20240620
+date: 20240630
 sleep: 
-  time: 20240619225600
-  weight: 51.6
+  time: 20240629222400
+  weight: 52.2
 wake:
-  time: 20240620094700
-  weight: 50.2
-  SpO2: 93
-  PRbpm: 59
+  time: 20240630044100
+  weight: 51.4
+  SpO2: 96
+  PRbpm: 52
 exercise: 
-- time: 20240620104200
+- time: 20240630051000
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -23,12 +23,24 @@ exercise:
     amount: 5
     unit: set
   SpO2: 97
-  PRbpm: 89
-  endheartrate: 89
+  PRbpm: 81
+  endheartrate: 79
+- time: 20240630065800
+  item:
+  - type: walk
+    amount: 27
+    unit: minute
+  SpO2: 97
+  PRbpm: 120
+stool:
+- time: 20240630064000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
 log: |
-  睡觉中间起来小便2次，不需要补水。
+  凌晨之后睡着，睡觉中间起来小便1次，不需要补水。
   起床后运动短裤、短袖polo。
 
   室内运动后把脉:关脉中偏浅、尺脉寸脉深度中;三处侧向居中;关脉尺脉清晰有力、寸脉清晰。
+  室外运动时换防晒短袖polo，回到室内恢复。
 comment: |
-  体重下降可能和六堡茶有关，包装上是“盛泰源”六堡茶。
