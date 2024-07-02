@@ -1,0 +1,12 @@
+name: 腌猪前腿肉2407a
+amount: 240
+unit: g
+food:
+  - name: 猪前腿肉
+    amount: 210.5
+    unit: g
+  - name: 东古叉烧酱
+    amount: 32.5
+    unit: g
+log: |
+comment: |  
