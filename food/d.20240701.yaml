@@ -148,7 +148,7 @@ water:
   - time: 20240701060300
     name: 开水
     amount: 250
-    unit: m
+    unit: ml
   - time: 20240701065200
     name: 咖啡
     amount: 80.0
