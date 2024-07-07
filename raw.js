@@ -339,7 +339,8 @@ function foodseasonreport(argument) {
             daycnt++;
         }
     }
-    showtables();
+    //showtables();
+    maketable();
     makeRfile();
 
     // the last season
