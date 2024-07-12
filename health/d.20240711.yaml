@@ -9,7 +9,7 @@ wake:
   PRbpm: 55
   log: |
     睡觉中间没有起来小便，不需要补水。
-    起床后运动短裤、短袖polo。
+    起床后运动短裤、防晒短袖polo。
 exercise: 
 - time: 20240711070800
   item:
@@ -30,27 +30,9 @@ exercise:
   endheartrate: 84
   log: |
     室内运动后把脉:关脉中偏浅、尺脉寸脉深度中;三处侧向居中;关脉尺脉清晰有力、寸脉清晰。
-- time: 20240711084500
-  item:
-  - type: walk
-    amount: 26
-    unit: minute
-  SpO2: 95
-  PRbpm: 125
-  log: |
-    室外运动时换防晒短袖polo，回到室内恢复。
-- time: 20240711154800
-  item:
-  - type:  俯卧撑(push-ups)*5
-    amount: 5
-    unit: set
-  SpO2: 97
-  PRbpm: 103
-  log: |
-    第一轮俯卧撑:各组结束血氧、心率、恢复时间(秒)分别是:98 86 20;97 90 30;97 94 22;98 95 61;97 103 66。
 stool:
-- time: 20240711094200
-  amount:   1   #	1:多; 2:适中;	3:少
+- time: 20240711084000
+  amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log: |
