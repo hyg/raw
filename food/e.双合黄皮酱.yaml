@@ -1,0 +1,24 @@
+name: 双合黄皮酱
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 380
+    unit: kj
+    nrv: 5
+  蛋白质:
+    amount: 3.3
+    unit: g
+    nrv: 6
+  脂肪:
+    amount: 0
+    unit: g
+    nrv: 0
+  碳水化合物:
+    amount: 18.4
+    unit: g
+    nrv: 6
+  钠:
+    amount: 2247
+    unit: mg
+    nrv: 112
