@@ -1,18 +1,18 @@
-date: 20240716
+date: 20240717
 sleep: 
-  time: 20240715211500
-  weight: 51.9
+  time: 20240716203300
+  weight: 52.1
 wake:
-  time: 20240716041200
-  weight: 50.7
-  SpO2: 96
-  PRbpm: 55
+  time: 20240717052900
+  weight: 50.6
+  SpO2: 95
+  PRbpm: 56
   log: |
     睡觉中间起来小便2次，不需要补水。
     前半夜抓绒毯，后半夜加盖薄羽绒被。
     起床后运动短裤、短袖polo。
 exercise: 
-- time: 20240716045500
+- time: 20240717060500
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -28,10 +28,10 @@ exercise:
     unit: set
   SpO2: 97
   PRbpm: 73
-  endheartrate: 78
+  endheartrate: 74
   log: |
-    室内运动后把脉:关脉中偏浅、尺脉寸脉深度中;三处侧向居中;关脉尺脉清晰有力、寸脉清晰。
-- time: 20240716071000
+    室内运动后把脉:三处深度中;三处侧向居中;关脉尺脉清晰有力、寸脉清晰。
+- time: 20240717071000
   item:
   - type: walk
     amount: 29
@@ -40,8 +40,17 @@ exercise:
   PRbpm: 123
   log: |
     室外运动时换防晒短袖polo，回到室内恢复。
+- time: 20240717154800
+  item:
+  - type:  俯卧撑(push-ups)*5
+    amount: 5
+    unit: set
+  SpO2: 97
+  PRbpm: 103
+  log: |
+    第一轮俯卧撑:各组结束血氧、心率、恢复时间(秒)分别是:98 86 20;97 90 30;97 94 22;98 95 61;97 103 66。
 stool:
-- time: 202407160864200
+- time: 202407170864200
   amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
