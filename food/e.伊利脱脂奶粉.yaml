@@ -2,18 +2,18 @@ name: 伊利脱脂奶粉
 amount: 100
 unit: g
 element:
-  脂肪:
-    amount: 1.5
-    unit: g
-    nrv: 3
-  蛋白质:
-    amount: 35.2
-    unit: g
-    nrv: 59
   热量:
     amount: 1592
     unit: kj
     nrv: 19
+  蛋白质:
+    amount: 35.2
+    unit: g
+    nrv: 59
+  脂肪:
+    amount: 1.5
+    unit: g
+    nrv: 3
   碳水化合物:
     amount: 55.2
     unit: g
