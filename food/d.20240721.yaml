@@ -1,226 +1,223 @@
-date: 20240720
+date: 20240721
 food:
-  - time: 20240720064300
+  - time: 20240721061400
     name: 芒果
-    amount: 200.0
+    amount: 178.0
     unit: g
-  - time: 20240720065600
+  - time: 20240721062500
     name: 肉包子2407c
     amount: 1
     unit: 个
-  - time: 20240720065600
+  - time: 20240721062500
     name: 南瓜
-    amount: 73.5
+    amount: 76.5
     unit: g
-  - time: 20240720065600
+  - time: 20240721062500
     name: 西兰花
-    amount: 105.0
+    amount: 97.5
     unit: g
-  - time: 20240720071000
+  - time: 20240721063500
     name: 桑葚干
     amount: 10.0
     unit: g
-  - time: 20240720071000
+  - time: 20240721063500
     name: 亚麻籽
     amount: 5.0
     unit: g
-  - time: 20240720071000
+  - time: 20240721063500
     name: 麦胚芽
     amount: 10.0
     unit: g
-  - time: 20240720072000
+
+  - time: 20240721072000
     name: 奶粉
     amount: 20.0
     unit: g
-  - time: 20240720115600
+
+  - time: 20240721115600
     name: 番茄酱
-    amount: 14.5
+    amount: 10
     unit: g
-  - time: 20240720115600
+  - time: 20240721115600
     name: 域上田园有机沙棘原浆
-    amount: 21.0
+    amount: 20
     unit: g
-  - time: 20240720115600
+  - time: 20240721115600
     name: 菊粉
     amount: 10.0
     unit: g
-  - time: 20240720115800
+
+  - time: 20240721115800
     name: 黄金贡柚
-    amount: 137.0
+    amount: 135
     unit: g
-  - time: 20240720120000
+
+  - time: 20240721120000
     name: 一品寒香大米
-    amount: 55.0
+    amount: 50
     unit: g
-  - time: 20240720120000
+  - time: 20240721120000
     name: 韩三顺辣白菜
-    amount: 55.0
+    amount: 40
     unit: g
-  - time: 20240720120000
+  - time: 20240721120000
     name: 豆瓣酱
-    amount: 6.0
+    amount: 0
     unit: g
-  - time: 20240720120000
+  - time: 20240721120000
+    name: 十三村原味腐乳
+    amount: 10
+    unit: g
+  - time: 20240721120000
     name: 番茄酱
     amount: 20.0
     unit: g
-  - time: 20240720120000
+  - time: 20240721120000
     name: 枸杞
     amount: 3.0
     unit: g
-  - time: 20240720120000
+  - time: 20240721120000
     name: 胡萝卜
     amount: 65.0
     unit: g
-  - time: 20240720120000
+  - time: 20240721120000
     name: 五花肉
-    amount: 42.0
+    amount: 45
     unit: g
-  - time: 20240720120000
+  - time: 20240721120000
     name: 苋菜
-    amount: 106.5
+    amount: 100
     unit: g
-  - time: 20240720182800
-    name: 香香唯北豆腐
-    amount: 48.0
+  - time: 20240721120000
+    name: 油菜
+    amount: 180
     unit: g
-  - time: 20240720120000
-    name: 中盐低钠盐
-    amount: 0.5
-    unit: g
-  - time: 20240720120000
-    name: 油
-    amount: 0.5
-    unit: g
-  - time: 20240720122200
-    name: 奶粉
-    amount: 20.0
-    unit: g
-  - time: 20240720181600
-    name: 李子
-    amount: 137.5
-    unit: g
-  - time: 20240720182800
-    name: 绿豆
-    amount: 10.0
-    unit: g
-  - time: 20240720182800
-    name: 海带
-    amount: 10.0
-    unit: g
-  - time: 20240720182800
-    name: 青麦仁
-    amount: 38.5
-    unit: g
-  - time: 20240720182800
-    name: 六旺果
-    amount: 21.5
-    unit: g
-  - time: 20240720182800
-    name: 鸡蛋
-    amount: 32.5
-    unit: g
-  - time: 20240720182800
-    name: 丝瓜
-    amount: 383.0
-    unit: g
-  - time: 20240720182800
+  - time: 20240721120000
     name: 中盐低钠盐
     amount: 1.0
     unit: g
-  - time: 20240720182800
-    name: 鲜味王
-    amount: 0.5
-    unit: g
-  - time: 20240720182800
+  - time: 20240721120000
     name: 油
     amount: 0.5
     unit: g
-  - time: 20240720185300
+
+  - time: 20240721122200
+    name: 伊利脱脂奶粉
+    amount: 20.0
+    unit: g
+
+  - time: 20240721181600
+    name: 李子
+    amount: 145
+    unit: g
+
+  - time: 20240721182800
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20240721182800
+    name: 海带
+    amount: 10.0
+    unit: g
+  - time: 20240721182800
+    name: 青麦仁
+    amount: 40
+    unit: g
+  - time: 20240721182800
+    name: 六旺果
+    amount: 20
+    unit: g
+  - time: 20240721182800
+    name: 鸡蛋
+    amount: 35
+    unit: g
+  - time: 20240721182800
+    name: 丝瓜
+    amount: 400
+    unit: g
+  - time: 20240721182800
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240721182800
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20240721182800
+    name: 油
+    amount: 0.5
+    unit: g
+
+  - time: 20240721185300
     name: 伊利脱脂奶粉
     amount: 20.0
     unit: g
 water:
-  - time: 20240720055100
+  - time: 20240721045700
     name: 开水
     amount: 150
     unit: ml
-  - time: 20240720063100
+  - time: 20240721055200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240720072000
+
+  - time: 20240721072000
     name: 咖啡
     amount: 80.0
     unit: ml
-  - time: 20240720073500
+  - time: 20240721073500
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240720081500
+  - time: 20240721081500
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240720092500
+  - time: 20240721092500
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240720101000
+  - time: 20240721101000
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240720122200
+  - time: 20240721122200
     name: 咖啡
     amount: 80.5
     unit: ml
-  - time: 20240720141200
+  - time: 20240721141200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240720150800
+  - time: 20240721150800
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240720182800
+  - time: 20240721182800
     name: 粥水
     amount: 280
     unit: ml
-  - time: 20240720185300
+  - time: 20240721185300
     name: 牛奶
     amount: 80.0
     unit: ml
-  - time: 20240720192500
+  - time: 20240721192500
     name: 开水
     amount: 100.0
     unit: ml
 med:
-  - time: 20240720072000
+  - time: 20240721072000
     name: 楚牛牛磺酸
     amount: 1.0
     unit: g
-  - time: 20240720073500
-    name: 维生素D3
-    amount: 125
-    unit: μg
-  - time: 20240720073500
+  - time: 20240721073500
     name: selenium
     amount: 200
     unit: μg
-  - time: 20240720073500
+  - time: 20240721073500
     name: mature multi
     amount: 1
     unit: 片
-  - time: 20240720073500
-    name: 银黄颗粒
-    amount: 4.0
-    unit: g
-  - time: 20240720115600
-    name: 维生素C
-    amount: 0.5
-    unit: g
-  - time: 20240720192500
-    name: 银黄颗粒
-    amount: 4.0
-    unit: g
 log: |
 comment: |
