@@ -1,0 +1,88 @@
+name: 桔柚
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 41
+    unit: kcal
+    nrv: 2.25
+  蛋白质:
+    amount: 0.6
+    unit: g
+    nrv: 0.75
+  脂肪:
+    amount: 0.1
+    unit: g
+    nrv: 0.2
+  碳水化合物:
+    amount: 7.8
+    unit: g
+    nrv: 2.97
+  膳食纤维:
+    amount: 2
+    unit: g
+    nrv: 6.67
+  VA(视黄醇等):
+    amount: 49
+    unit: μg
+    nrv: 6.36
+  VE(生育酚):
+    amount: 0.4
+    unit: mg
+    nrv: 2.86
+  VB1(硫胺素):
+    amount: 0.05
+    unit: mg
+    nrv: 3.57
+  VB2(核黄素):
+    amount: 0.03
+    unit: mg
+    nrv: 2.14
+  VB3(烟酸):
+    amount: 0.37
+    unit: mg
+    nrv: 2.47
+  VB9(叶酸):
+    amount: 10
+    unit: μg
+    nrv: 2.5
+  VC(抗坏血酸):
+    amount: 28
+    unit: mg
+    nrv: 28
+  VD3(胆钙化醇):
+    amount: 0
+    unit: μg
+    nrv: 0
+  磷:
+    amount: 18
+    unit: mg
+    nrv: 2.54
+  钙:
+    amount: 22
+    unit: mg
+    nrv: 2.75
+  铁:
+    amount: 0.3
+    unit: mg
+    nrv: 2.5
+  钠:
+    amount: 4
+    unit: mg
+    nrv: 0.27
+  钾:
+    amount: 140
+    unit: mg
+    nrv: 7
+  镁:
+    amount: 10
+    unit: mg
+    nrv: 3.13
+  锌:
+    amount: 0.3
+    unit: mg
+    nrv: 2.5
+  碘:
+    amount: 0.5
+    unit: μg
+    nrv: 0.42
