@@ -1,22 +1,22 @@
 date: 20240725
 food:
-  - time: 20240725055400
+  - time: 20240725065400
     name: 葡萄
     amount: 72.0
     unit: g
-  - time: 20240725055400
+  - time: 20240725065400
     name: 菇娘
     amount: 50.0
     unit: g
-  - time: 20240725055800
+  - time: 20240725065800
     name: 肉包子2407c
     amount: 1
     unit: 个
-  - time: 20240725055800
+  - time: 20240725065800
     name: 南瓜
     amount: 98.0
     unit: g
-  - time: 20240725055800
+  - time: 20240725065800
     name: 西兰花
     amount: 116.0
     unit: g
@@ -153,7 +153,7 @@ food:
     amount: 2.0
     unit: g
 water:
-  - time: 20240725055400
+  - time: 20240725065400
     name: 开水
     amount: 150
     unit: ml
@@ -184,6 +184,7 @@ water:
   - time: 20240725094800
     name: 开水
     amount: 250
+    unit: ml
   - time: 20240725121500
     name: 咖啡
     amount: 80.5
