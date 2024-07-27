@@ -1,0 +1,10 @@
+name: 熟五花肉2407
+amount: 522.5
+unit: g
+food:
+  - name: 五花肉
+    amount: 627.5
+    unit: g
+log: |
+  - 加清水，如高压锅煮120分钟。
+comment: |
