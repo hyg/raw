@@ -199,6 +199,10 @@ med:
     amount: 0.5
     unit: g
   - time: 20240731075500
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20240731075500
     name: selenium
     amount: 220
     unit: μg
