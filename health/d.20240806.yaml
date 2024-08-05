@@ -1,0 +1,59 @@
+date: 20240806
+sleep: 
+  time: 20240805214500
+  weight: 51.4
+wake:
+  time: 20240806051800
+  weight: 50.2
+  SpO2: 95
+  PRbpm: 58
+  log: |
+    睡觉中间起来小便1次，不需要补水。
+    前半觉全身盖抓绒毯、膝盖以下盖博羽绒被，第一次小便后全身盖抓绒毯，起床前加盖薄羽绒被。
+    起床后运动短裤、短袖polo。早餐后不久换长秋裤。
+exercise: 
+- time: 20240806055500
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: 超人敬礼*5 + 俯卧两头起(Superman exercise)*5 + 俯卧撑(push-ups)*5
+    amount: 2 
+    unit: set
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 96
+  PRbpm: 78
+  endheartrate: 83
+  log: |
+    室内运动后把脉:关脉中偏浅、尺脉寸脉深度中;三处侧向居中;三处清晰有力。
+- time: 20240806071900
+  item:
+  - type: walk
+    amount: 26
+    unit: minute
+  SpO2: 97
+  PRbpm: 123
+  log: |
+    室外运动时换防晒短袖polo，回到室内恢复。
+- time: 20240806154800
+  item:
+  - type:  俯卧撑(push-ups)*5
+    amount: 5
+    unit: set
+  SpO2: 97
+  PRbpm: 103
+  log: |
+    第一轮俯卧撑:各组结束血氧、心率、恢复时间(秒)分别是:98 86 20;97 90 30;97 94 22;98 95 61;97 103 66。
+stool:
+- time: 20240806090500
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+log: |
+  今天十点半开始有饥饿感，恢复正常。
+comment: |
