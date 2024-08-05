@@ -48,7 +48,7 @@ food:
     name: 缘聚菊粉
     amount: 10.0
     unit: g
-  - time: 202408041219800
+  - time: 20240804121900
     name: 杏梅
     amount: 238.0
     unit: g
@@ -104,7 +104,7 @@ food:
     name: 奶粉
     amount: 20.0
     unit: g
-  - time: 2024080484800
+  - time: 20240804184800
     name: 桔柚
     amount: 155.0
     unit: g
