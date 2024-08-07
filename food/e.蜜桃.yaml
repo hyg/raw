@@ -1,0 +1,84 @@
+name: 蜜桃
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 43
+    unit: kcal
+    nrv: 2.36
+  蛋白质:
+    amount: 0.9
+    unit: g
+    nrv: 1.13
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0.39
+  碳水化合物:
+    amount: 9.8
+    unit: g
+    nrv: 3.74
+  VA(视黄醇等):
+    amount: 2
+    unit: μg
+    nrv: 0.26
+  VE(生育酚):
+    amount: 1
+    unit: mg
+    nrv: 7.14
+  VB1(硫胺素):
+    amount: 0.02
+    unit: mg
+    nrv: 1.43
+  VB2(核黄素):
+    amount: 0.03
+    unit: mg
+    nrv: 2.14
+  VB3(烟酸):
+    amount: 1
+    unit: mg
+    nrv: 6.67
+  VC(抗坏血酸):
+    amount: 4
+    unit: mg
+    nrv: 4
+  磷:
+    amount: 21
+    unit: mg
+    nrv: 2.96
+  钙:
+    amount: 10
+    unit: mg
+    nrv: 1.25
+  铁:
+    amount: 0.5
+    unit: mg
+    nrv: 4.17
+  钠:
+    amount: 3
+    unit: mg
+    nrv: 0.2
+  钾:
+    amount: 169
+    unit: mg
+    nrv: 8.45
+  镁:
+    amount: 9
+    unit: mg
+    nrv: 2.81
+  锌:
+    amount: 0.06
+    unit: mg
+    nrv: 0.5
+  硒:
+    amount: 0.2
+    unit: μg
+    nrv: 0.33
+  铜:
+    amount: 0.08
+    unit: mg
+    nrv: 10
+  锰:
+    amount: 0.11
+    unit: mg
+    nrv: 2.44
