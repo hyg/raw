@@ -1,0 +1,24 @@
+name: 绿瑞源海鲈鱼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 449
+    unit: kj
+    nrv: 5
+  蛋白质:
+    amount: 18.6
+    unit: g
+    nrv: 31
+  脂肪:
+    amount: 3.6
+    unit: g
+    nrv: 6
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  钠:
+    amount: 392
+    unit: mg
+    nrv: 20
