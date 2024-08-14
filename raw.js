@@ -11,7 +11,7 @@ var emap = new Object();    // element data
 var hmap = new Object();    // health log
 
 // NRV and DRIs dataset
-var NRVfilename = "food/NRV.202408a.yaml";
+var NRVfilename = "food/NRV.202408b.yaml";
 
 // Statistics period
 var daycnt = 0;
