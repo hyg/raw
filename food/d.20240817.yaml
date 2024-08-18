@@ -1,0 +1,164 @@
+date: 20240817
+food:
+  - time: 20240817100900
+    name: 蜜桃
+    amount: 194.0
+    unit: g
+  - time: 20240817101500
+    name: 卢老五冷面
+    amount: 234.0
+    unit: g
+  - time: 20240817101500
+    name: 韩三顺辣白菜
+    amount: 50.5
+    unit: g
+  - time: 20240817101500
+    name: 卤猪大肠2408a
+    amount: 46.5
+    unit: g
+  - time: 20240817101500
+    name: 香香唯北豆腐
+    amount: 94.0
+    unit: g
+  - time: 20240817101500
+    name: 荷兰豆
+    amount: 72.0
+    unit: g
+  - time: 20240817104300
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240817104300
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240817104300
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20240817110000
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240817110000
+    name: 瑞幸冷萃咖啡液
+    amount: 0.5
+    unit: 份
+  - time: 20240817171300
+    name: 番茄酱
+    amount: 28.0
+    unit: g
+  - time: 20240817171300
+    name: 臻妍益生菌冻干粉
+    amount: 3.0
+    unit: g
+  - time: 20240817171300
+    name: 菊粉
+    amount: 10.5
+    unit: g
+  - time: 20240817171500
+    name: 冬枣
+    amount: 99.0
+    unit: g
+  - time: 20240817172500
+    name: 大米
+    amount: 40.0
+    unit: g
+  - time: 20240817172500
+    name: 紫米
+    amount: 10.0
+    unit: g
+  - time: 20240817172500
+    name: 芡实
+    amount: 10.0
+    unit: g
+  - time: 20240817172500
+    name: 六旺果
+    amount: 18.0
+    unit: g
+  - time: 20240817172500
+    name: 腌鸡腿2408a
+    amount: 104.5
+    unit: g
+    log: |
+      - 上下火220°C+15分钟，翻面，上下火220°C+10分钟。
+  - time: 20240817172500
+    name: 荷兰豆
+    amount: 158.0
+    unit: g
+  - time: 20240817172500
+    name: 胡萝卜
+    amount: 84.0
+    unit: g
+  - time: 20240817172500
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240817172500
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20240817175700
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240817175700
+    name: 瑞幸冷萃咖啡液
+    amount: 0.5
+    unit: 份
+water:
+  - time: 20240817084000
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20240817093500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240817110000
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240817114000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240817133000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240817143200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240817175700
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20240817191900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240817215500
+    name: 开水
+    amount: 150
+    unit: ml
+med:
+  - time: 20240817110000
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20240817114000
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20240817114000
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20240817114000
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
