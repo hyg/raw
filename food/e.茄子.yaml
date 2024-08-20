@@ -1,0 +1,88 @@
+name: 茄子
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 21
+    unit: kcal
+    nrv: 1.15
+  蛋白质:
+    amount: 1
+    unit: g
+    nrv: 1.25
+  脂肪:
+    amount: 0.3
+    unit: g
+    nrv: 0.59
+  碳水化合物:
+    amount: 2.4
+    unit: g
+    nrv: 0.91
+  膳食纤维:
+    amount: 2.5
+    unit: g
+    nrv: 8.33
+  VA(视黄醇等):
+    amount: 8
+    unit: μg
+    nrv: 1.04
+  VE(生育酚):
+    amount: 2.99
+    unit: mg
+    nrv: 21.36
+  VB1(硫胺素):
+    amount: 0.05
+    unit: mg
+    nrv: 3.57
+  VB2(核黄素):
+    amount: 0.04
+    unit: mg
+    nrv: 2.86
+  VB3(烟酸):
+    amount: 0.85
+    unit: mg
+    nrv: 5.67
+  VB9(叶酸):
+    amount: 13
+    unit: μg
+    nrv: 3.25
+  VC(抗坏血酸):
+    amount: 3
+    unit: mg
+    nrv: 3
+  VD3(胆钙化醇):
+    amount: 0
+    unit: μg
+    nrv: 0
+  磷:
+    amount: 28
+    unit: mg
+    nrv: 3.94
+  钙:
+    amount: 22
+    unit: mg
+    nrv: 2.75
+  铁:
+    amount: 0.2
+    unit: mg
+    nrv: 1.67
+  钠:
+    amount: 5
+    unit: mg
+    nrv: 0.33
+  钾:
+    amount: 160
+    unit: mg
+    nrv: 8
+  镁:
+    amount: 8
+    unit: mg
+    nrv: 2.5
+  锌:
+    amount: 0.09
+    unit: mg
+    nrv: 0.75
+  碘:
+    amount: 0.5
+    unit: μg
+    nrv: 0.42

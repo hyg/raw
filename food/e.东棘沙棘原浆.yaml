@@ -1,0 +1,28 @@
+name: 东棘沙棘原浆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 391
+    unit: kj
+    nrv: 5
+  蛋白质:
+    amount: 1.0
+    unit: g
+    nrv: 2
+  脂肪:
+    amount: 5.6
+    unit: g
+    nrv: 9
+  碳水化合物:
+    amount: 9.8
+    unit: g
+    nrv: 3
+  钠:
+    amount: 50
+    unit: mg
+    nrv: 3
+  VC(抗坏血酸):
+    amount: 40.6
+    unit: mg
+    nrv: 41

@@ -1,0 +1,12 @@
+name: 东棘黑蜂蜂蜜
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1366
+    unit: kj
+    nrv: 16
+  碳水化合物:
+    amount: 81.5
+    unit: g
+    nrv: 27
