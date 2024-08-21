@@ -1,0 +1,225 @@
+date: 20240821
+food:
+  - time: 20240821094500
+    name: 番石榴
+    amount: 208.5
+    unit: g
+  - time: 20240821094900
+    name: 馒头2408b
+    amount: 1
+    unit: 个
+  - time: 20240821094900
+    name: 南瓜
+    amount: 55.0
+    unit: g
+  - time: 20240821094900
+    name: 淮河红烧扣肉罐头
+    amount: 50.5
+    unit: g
+  - time: 20240821094900
+    name: 西兰花
+    amount: 64.5
+    unit: g
+  - time: 20240821100000
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240821100000
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240821100000
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+
+  - time: 20240821083100
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240821083100
+    name: 瑞幸冷萃咖啡液
+    amount: 0.5
+    unit: 份
+
+  - time: 20240821131100
+    name: 番茄酱
+    amount: 30
+    unit: g
+  - time: 20240821131100
+    name: 东棘沙棘原浆
+    amount: 15
+    unit: g
+
+  - time: 20240821131200
+    name: 冬枣
+    amount: 100
+    unit: g
+
+  - time: 20240821132700
+    name: 大米
+    amount: 40.0
+    unit: g
+  - time: 20240821132700
+    name: 紫米
+    amount: 10.0
+    unit: g
+  - time: 20240821132700
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20240821132700
+    name: 六旺果
+    amount: 20
+    unit: g
+  - time: 20240821132700
+    name: 茄子
+    amount: 200
+    unit: g
+  - time: 20240821132700
+    name: 绿瑞源海鲈鱼
+    amount: 100
+    unit: g
+    log: |
+      - 上下火220°C+20分钟。
+  - time: 20240821132700
+    name: 油菜
+    amount: 150
+    unit: g
+  - time: 20240821132700
+    name: 胡萝卜
+    amount: 100
+    unit: g
+  - time: 20240821132700
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240821132700
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20240821132700
+    name: 依恋油醋汁
+    amount: 20
+    unit: g
+
+  - time: 20240821140700
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240821140700
+    name: 瑞幸冷萃咖啡液
+    amount: 0.5
+    unit: 份
+
+  - time: 20240821185800
+    name: 黄金贡柚
+    amount: 125
+    unit: g
+
+  - time: 20240821190200
+    name: 海带
+    amount: 10.0
+    unit: g
+  - time: 20240821190200
+    name: 芡实
+    amount: 10.0
+    unit: g
+  - time: 20240821190200
+    name: 青麦仁
+    amount: 25.0
+    unit: g
+  - time: 20240821190200
+    name: 鸡蛋
+    amount: 40
+    unit: g
+  - time: 20240821190200
+    name: 苦瓜
+    amount: 150
+    unit: g
+  - time: 20240821190200
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240821190200
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20240821190200
+    name: 油
+    amount: 0.5
+    unit: g
+
+  - time: 20240821193600
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240821193600
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20240821080400
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20240821092300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240821083100
+    name: 咖啡
+    amount: 82.5
+    unit: ml
+  - time: 20240821085600
+    name: 开水
+    amount: 250
+    unit: ml
+
+  - time: 20240821095800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240821104000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240821140700
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240821145100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240821162900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240821190200
+    name: 粥水
+    amount: 400
+    unit: ml  
+  - time: 20240821193600
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20240821201100
+    name: 开水
+    amount: 175
+    unit: ml
+med:
+  - time: 20240821083100
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20240821085600
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20240821085600
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
