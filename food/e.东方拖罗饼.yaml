@@ -1,0 +1,24 @@
+name: 东方拖罗饼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1989
+    unit: kj
+    nrv: 24
+  蛋白质:
+    amount: 7.9
+    unit: g
+    nrv: 13
+  脂肪:
+    amount: 26.1
+    unit: g
+    nrv: 44
+  碳水化合物:
+    amount: 52.3
+    unit: g
+    nrv: 17
+  钠:
+    amount: 115
+    unit: mg
+    nrv: 6
