@@ -135,8 +135,7 @@ food:
     name: 油
     amount: 0.5
     unit: g
-
-  - time: 20240825182500
+  - time: 20240825185000
     name: 伊利脱脂奶粉
     amount: 20.0
     unit: g
@@ -181,13 +180,13 @@ water:
     name: 汤水
     amount: 310
     unit: ml
-  - time: 20240825182500
+  - time: 20240825185000
     name: 牛奶
     amount: 81.5
     unit: ml
-  - time: 20240825200500
+  - time: 20240825213500
     name: 开水
-    amount: 225
+    amount: 150
     unit: ml
 med:
   - time: 20240825095600
