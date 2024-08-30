@@ -18,7 +18,12 @@ program
 
 const foodcommand = program
     .command('food')
-    .description('饮食管理');
+    .description('饮食管理')
+    .action(() => {
+        console.log("default mode");
+    }
+
+    );
 
 foodcommand
     .command("init <mode>")

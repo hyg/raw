@@ -1,6 +1,6 @@
 
 module.exports = {
-    mode: today,
+    mode: "today",
     startdate: 0,
     enddate: 0,
     diff: 0,
