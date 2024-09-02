@@ -1,0 +1,185 @@
+date: 20240902
+food:
+  - time: 20240902070200
+    name: 番石榴
+    amount: 278.5
+    unit: g
+  - time: 20240902071000
+    name: 馒头2408c
+    amount: 1
+    unit: 个
+  - time: 20240902071000
+    name: 熟鱼腩2408a
+    amount: 59.0
+    unit: g
+  - time: 20240902071000
+    name: 南瓜
+    amount: 70.0
+    unit: g
+  - time: 20240902071000
+    name: 西兰花
+    amount: 128.0
+    unit: g    
+  - time: 20240902072400
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240902072400
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240902072400
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20240902073300
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240902122900
+    name: 东棘沙棘原浆
+    amount: 30.5
+    unit: g
+  - time: 20240902123000
+    name: 香蕉
+    amount: 124.5
+    unit: g
+  - time: 2024090223400
+    name: 大米
+    amount: 40.0
+    unit: g
+  - time: 2024090223400
+    name: 紫米
+    amount: 10.0
+    unit: g
+  - time: 2024090223400
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 2024090223400
+    name: 六旺果
+    amount: 22.5
+    unit: g
+  - time: 2024090223400
+    name: 鲜玉米
+    amount: 172.0
+    unit: g
+    log: 锡纸包裹和鸡腿一起烤。
+  - time: 2024090223400
+    name: 腌鸡腿2408c
+    amount: 126.5
+    unit: g
+    log: |
+      - 上下火220°C+15分钟，翻面，上下火220°C+10分钟。
+  - time: 2024090223400
+    name: 小白菜
+    amount: 137.0
+    unit: g
+  - time: 2024090223400
+    name: 胡萝卜
+    amount: 118.5
+    unit: g
+  - time: 2024090223400
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 2024090223400
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20240902131700
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240831174800
+    name: 苦瓜
+    amount: 182.5
+    unit: g
+  - time: 20240831174800
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240831174800
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20240831174800
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20240902175500
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240902175500
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20240902060300
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20240902064800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 2024090223300
+    name: 咖啡
+    amount: 81.0
+    unit: ml    
+  - time: 20240902080000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240902084900
+    name: 开水
+    amount: 50
+    unit: ml
+  - time: 20240902093000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240902105200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240902131700
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240902144500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240902160000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240902175500
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20240902184500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240902195300
+    name: 开水
+    amount: 160
+    unit: ml
+med:
+  - time: 2024090223300
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20240902080000
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20240902080000
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |

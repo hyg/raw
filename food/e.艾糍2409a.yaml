@@ -1,0 +1,33 @@
+name: 艾糍2409a
+amount: 8
+unit: 个
+food:
+  - name: 五桥水磨粳米粉
+    amount: 375
+    unit: g 
+  - name: 糯米粉
+    amount: 45
+    unit: g 
+  - name: 艾草
+    amount: 120
+    unit: g 
+  - name: 蜜蜂牌红糖
+    amount: 64
+    unit: g 
+  - name: 椰蓉
+    amount: 64
+    unit: g
+  - name: 脆兴隆花生碎
+    amount: 128
+    unit: g
+  - name: 水
+    amount: 310
+    unit: g
+log: |
+  1. 2404b留下的艾草浆184.0g +水155克进高压锅煮沸。
+  1. 面团1 = 粳米粉165.0g+糯米粉45.0g+沸艾草水
+  1. 面团2 = 面团1+粳米粉210.0g+凉水155.5g
+  1. 面团2揉匀,静置20分钟，共得853.0g。略粘手，下次减少5克水。
+  1. 馅料=花生碎128.0g+椰蓉64.0g+红糖64.0g,共256.0g。
+  1. 包成8个艾糍,100°C蒸汽30分钟。每个含106.5~107.0g面团和32.0g馅料。
+comment: |
