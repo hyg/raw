@@ -66,39 +66,39 @@ food:
     name: 冬枣
     amount: 84.0
     unit: g
-  - time: 20240831182500
+  - time: 20240931182500
     name: 海带
     amount: 10.0
     unit: g
-  - time: 20240831182500
+  - time: 20240931182500
     name: 芡实
     amount: 15.5
     unit: g
-  - time: 20240831182500
+  - time: 20240931182500
     name: 青麦仁
     amount: 40.5
     unit: g
-  - time: 20240831182500
+  - time: 20240931182500
     name: 灰枣
     amount: 30.0
     unit: g
-  - time: 20240831182500
+  - time: 20240931182500
     name: 鸡蛋
     amount: 67.0
     unit: g
-  - time: 20240831182500
+  - time: 20240931182500
     name: 苦瓜
     amount: 153.5
     unit: g
-  - time: 20240831182500
+  - time: 20240931182500
     name: 中盐低钠盐
     amount: 1.0
     unit: g
-  - time: 20240831182500
+  - time: 20240931182500
     name: 鲜味王
     amount: 0.5
     unit: g
-  - time: 20240831182500
+  - time: 20240931182500
     name: 油
     amount: 0.5
     unit: g
@@ -147,7 +147,7 @@ water:
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240831182500
+  - time: 20240931182500
     name: 粥水
     amount: 375
     unit: ml

@@ -44,46 +44,46 @@ food:
     name: 香蕉
     amount: 124.5
     unit: g
-  - time: 2024090223400
+  - time: 20240902123400
     name: 大米
     amount: 40.0
     unit: g
-  - time: 2024090223400
+  - time: 20240902123400
     name: 紫米
     amount: 10.0
     unit: g
-  - time: 2024090223400
+  - time: 20240902123400
     name: 绿豆
     amount: 10.0
     unit: g
-  - time: 2024090223400
+  - time: 20240902123400
     name: 六旺果
     amount: 22.5
     unit: g
-  - time: 2024090223400
+  - time: 20240902123400
     name: 鲜玉米
     amount: 172.0
     unit: g
     log: 锡纸包裹和鸡腿一起烤。
-  - time: 2024090223400
+  - time: 20240902123400
     name: 腌鸡腿2408c
     amount: 126.5
     unit: g
     log: |
       - 上下火220°C+15分钟，翻面，上下火220°C+10分钟。
-  - time: 2024090223400
+  - time: 20240902123400
     name: 小白菜
     amount: 137.0
     unit: g
-  - time: 2024090223400
+  - time: 20240902123400
     name: 胡萝卜
     amount: 118.5
     unit: g
-  - time: 2024090223400
+  - time: 20240902123400
     name: 中盐低钠盐
     amount: 1.0
     unit: g
-  - time: 2024090223400
+  - time: 20240902123400
     name: 油
     amount: 0.5
     unit: g
@@ -91,19 +91,19 @@ food:
     name: 奶粉
     amount: 20.0
     unit: g
-  - time: 20240831174800
+  - time: 20240931174800
     name: 苦瓜
     amount: 182.5
     unit: g
-  - time: 20240831174800
+  - time: 20240931174800
     name: 中盐低钠盐
     amount: 1.0
     unit: g
-  - time: 20240831174800
+  - time: 20240931174800
     name: 鲜味王
     amount: 0.5
     unit: g
-  - time: 20240831174800
+  - time: 20240931174800
     name: 油
     amount: 0.5
     unit: g

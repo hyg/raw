@@ -1,0 +1,24 @@
+name: 霜梅盐渍无骨青花鱼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 637
+    unit: kj
+    nrv: 8
+  蛋白质:
+    amount: 19.8
+    unit: g
+    nrv: 33
+  脂肪:
+    amount: 7.3
+    unit: g
+    nrv: 12
+  碳水化合物:
+    amount: 1.8
+    unit: g
+    nrv: 1
+  钠:
+    amount: 406
+    unit: mg
+    nrv: 20

@@ -1,0 +1,58 @@
+date: 20240904
+sleep: 
+  time: 20240903231100
+  weight: 52.0
+wake:
+  time: 20240904081700
+  weight: 50.9
+  SpO2: 93
+  PRbpm: 70
+  log: |
+    睡觉中间起来小便1次，不需要补水。
+    开始盖抓绒毯加薄羽绒被到胸部，中间偶尔醒来发现踢掉了羽绒被、受凉鼻子发酸，加盖后直到起床。
+    起床后运动长裤、短袖polo。早餐后不久换长秋裤。
+exercise: 
+- time: 20240904084800
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: 超人敬礼*5 + 俯卧两头起(Superman exercise)*5 + 俯卧撑(push-ups)*5
+    amount: 2 
+    unit: set
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 97
+  PRbpm: 96
+  endheartrate: 86
+  log: |
+    室内运动后把脉:关脉中偏浅、尺脉寸脉深度中;三处侧向居中;关脉尺脉清晰有力、寸脉清晰。
+- time: 20240904085300
+  item:
+  - type: walk
+    amount: 27
+    unit: minute
+  SpO2: 93
+  PRbpm: 133
+  log: |
+    室外运动时换防晒短袖polo，回到室内恢复短袖polo、抓绒长裤。
+- time: 20240904154800
+  item:
+  - type:  俯卧撑(push-ups)*5
+    amount: 5
+    unit: set
+  SpO2: 97
+  PRbpm: 103
+  log: |
+    第一轮俯卧撑:各组结束血氧、心率、恢复时间(秒)分别是:98 86 20;97 90 30;97 94 22;98 95 61;97 103 66。
+stool:
+- time: 20240904104200
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+log: |
+comment: |
