@@ -1,6 +1,6 @@
 date: 20240904
 food:
-  - time: 2024090409410
+  - time: 20240904094100
     name: 番石榴
     amount: 248.0
     unit: g
@@ -36,119 +36,67 @@ food:
     name: 奶粉
     amount: 20.0
     unit: g
-
-  - time: 20240904132000
-    name: 东棘沙棘原浆
-    amount: 30.0
-    unit: g
-
-  - time: 20240904132100
+  - time: 20240904145000
     name: 香蕉
-    amount: 160
+    amount: 113.5
     unit: g
-
-  - time: 20240904132500
+  - time: 20240904145300
     name: 大米
     amount: 40.0
     unit: g
-  - time: 20240904133200
+  - time: 20240904145300
     name: 胡萝卜
-    amount: 100
+    amount: 95.0
     unit: g
-  - time: 20240904133200
+  - time: 20240904145300
     name: 韩三顺辣白菜
-    amount: 30
+    amount: 51.0
     unit: g
-  - time: 20240904133200
+  - time: 20240904145300
     name: 番茄酱
-    amount: 50
+    amount: 51.0
     unit: g
-  - time: 20240904133200
+  - time: 20240904145300
     name: 枸杞
-    amount: 3
+    amount: 3.0
     unit: g
-  - time: 20240904133200
+  - time: 20240904145300
     name: 豆瓣酱
-    amount: 4
+    amount: 5.0
     unit: g
-  - time: 20240904133200
+  - time: 20240904145300
     name: 霜梅盐渍无骨青花鱼
-    amount: 70
+    amount: 73.0
     unit: g
     log: |
-      - 上下火220°C+15分钟，翻面，上下火220°C+15分钟。
-  - time: 20240904133200
-    name: 洋葱
-    amount: 150
-    unit: g
-    log: 和鸡腿一起烤。
-  - time: 20240904133200
+      - 上下火180°C+20分钟。
+  - time: 20240904145300
     name: 油菜
-    amount: 150
+    amount: 188.5
     unit: g
-  - time: 20240904133200
+  - time: 20240904145300
     name: 中盐低钠盐
     amount: 0.5
     unit: g
-  - time: 20240904133200
+  - time: 20240904145300
     name: 油
-    amount: 0.5
+    amount: 2.5
     unit: g
-
-  - time: 20240904135800
+  - time: 20240904151700
     name: 奶粉
     amount: 20.0
     unit: g
-
-  - time: 20240931182100
+  - time: 20240904173600
+    name: 东棘沙棘原浆
+    amount: 27.0
+    unit: g
+  - time: 20240931173700
     name: 冬枣
-    amount: 100
+    amount: 39.0
     unit: g
-
-  - time: 20240931183100
-    name: 海带
-    amount: 10.0
-    unit: g
-  - time: 20240931183100
-    name: 芡实
-    amount: 15.0
-    unit: g
-  - time: 20240931183100
-    name: 青麦仁
-    amount: 30
-    unit: g
-  - time: 20240931183100
-    name: 灰枣
-    amount: 15
-    unit: g
-  - time: 20240931183100
-    name: 鸡蛋
-    amount: 35
-    unit: g
-  - time: 20240931183100
-    name: 苦瓜
-    amount: 150
-    unit: g
-  - time: 20240931183100
-    name: 中盐低钠盐
-    amount: 1.0
-    unit: g
-  - time: 20240931183100
-    name: 鲜味王
-    amount: 0.5
-    unit: g
-  - time: 20240931183100
-    name: 油
-    amount: 0.5
-    unit: g
-
-  - time: 20240904190700
-    name: 奶粉
-    amount: 20.0
-    unit: g
-  - time: 20240904190700
-    name: 可可粉
-    amount: 4.0
+  - time: 20240931174200
+    name: 惠来甜绿豆饼
+    amount: 92.5
     unit: g
 water:
   - time: 20240904082500
@@ -161,58 +109,41 @@ water:
     unit: ml
   - time: 20240904102000
     name: 咖啡
-    amount: 80.5
+    amount: 80.0
     unit: ml    
   - time: 20240904103700
     name: 开水
     amount: 250
     unit: ml
-
-  - time: 20240904104400
+  - time: 20240904114500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240904124800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240904151700
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20240904161400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240904170700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240904175400
     name: 开水
     amount: 300
     unit: ml
-  - time: 20240904115200
-    name: 开水
-    amount: 250
-    unit: ml
-  - time: 20240904133200
-    name: 汤水
-    amount: 302
-    unit: ml
-  - time: 20240904135800
-    name: 咖啡
-    amount: 80.5
-    unit: ml
-  - time: 20240904151800
-    name: 开水
-    amount: 250
-    unit: ml
-  - time: 20240904174600
-    name: 开水
-    amount: 250
-    unit: ml
-  - time: 20240931183100
-    name: 粥水
-    amount: 380
-    unit: ml
-  - time: 20240904190700
-    name: 可可奶
-    amount: 80.5
-    unit: ml
-  - time: 20240904200800
-    name: 开水
-    amount: 100
-    unit: ml
 med:
-  - time: 2024090423300
+  - time: 20240904102000
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
-  - time: 20240904103700
-    name: 维生素D3
-    amount: 125
-    unit: μg
   - time: 20240904103700
     name: selenium
     amount: 200

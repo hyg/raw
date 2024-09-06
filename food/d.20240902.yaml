@@ -124,7 +124,7 @@ water:
     name: 开水
     amount: 250
     unit: ml
-  - time: 2024090223300
+  - time: 20240902073300
     name: 咖啡
     amount: 81.0
     unit: ml    
@@ -169,7 +169,7 @@ water:
     amount: 160
     unit: ml
 med:
-  - time: 2024090223300
+  - time: 20240902073300
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g

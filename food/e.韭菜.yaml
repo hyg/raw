@@ -86,3 +86,7 @@ element:
     amount: 0.43
     unit: mg
     nrv: 9.6
+  叶黄素:
+    amount: 18.2
+    unit: mg
+    nrv: 182

@@ -94,4 +94,7 @@ element:
     amount: 100
     unit: μg
     nrv: 7
-
+  叶黄素:
+    amount: 6.9
+    unit: mg
+    nrv: 69

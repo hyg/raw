@@ -169,7 +169,7 @@ water:
     amount: 100
     unit: ml
 med:
-  - time: 2024090323300
+  - time: 20240903091800
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
