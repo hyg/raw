@@ -1,0 +1,24 @@
+name: 泰森深海鳕鱼饼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 471
+    unit: kj
+    nrv: 6
+  蛋白质:
+    amount: 13.6
+    unit: g
+    nrv: 23
+  脂肪:
+    amount: 0.6
+    unit: g
+    nrv: 1
+  碳水化合物:
+    amount: 12.8
+    unit: g
+    nrv: 4
+  钠:
+    amount: 265
+    unit: mg
+    nrv: 13
