@@ -40,32 +40,32 @@ exercise:
   PRbpm: 129
   log: |
     室外运动时换防晒短袖polo，回到室内恢复短袖polo、抓绒长裤。
-- time: 20240909154800
+- time: 20240909154100
   item:
   - type:  俯卧撑(push-ups)
     amount: 5
     unit: turn
     SpO2: 97
+    PRbpm: 101
+    secto80: 46
+  - type:  俯卧撑(push-ups)
+    amount: 5
+    unit: turn
+    SpO2: 97
     PRbpm: 102
-    secto80: 55
+    secto80: 47
   - type:  俯卧撑(push-ups)
     amount: 5
     unit: turn
     SpO2: 97
-    PRbpm: 100
-    secto80: 59
-  - type:  俯卧撑(push-ups)
-    amount: 5
-    unit: turn
-    SpO2: 97
-    PRbpm: 103
-    secto80: 132
+    PRbpm: 102
+    secto80: 61
   log: |
-    三组俯卧撑结束血氧、心率、恢复时间(秒)分别是:97 102 55;97 100 59;97 103 132。恢复时间超过一分钟就停。
+    三组俯卧撑结束血氧、心率、恢复时间(秒)分别是:97 101 46,97 102 47,97 102 61.恢复时间超过一分钟就停。
 stool:
-- time: 20240909081500
+- time: 20240909081100
   amount:   1   #	1:多; 2:适中;	3:少
-  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log: |
 comment: |

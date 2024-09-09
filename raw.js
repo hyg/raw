@@ -918,6 +918,7 @@ function makeRfile() {
     var dBPM = "date <- c(";
     var PRbpm1 = "PRbpm1 <- c(";  // PRbpm in wake up
     var PRbpm2 = "PRbpm2 <- c(";  // PRbpm after exercise
+    var PRbpm3 = "PRbpm3 <- c(";  // PRbpm after walk
     var endheartrate = "endheartrate <- c(";  // heartrate after exercise
 
     var cnt = 0;
@@ -1001,7 +1002,60 @@ function makeRfile() {
 
                 }
 
+                dBPM = d ;
                 if (bBPMFirst) {
+                    if (hmap[day].wake.PRbpm != undefined) {
+                        PRbpm1 = PRbpm1 + hmap[day].wake.PRbpm;
+                    }else{
+                        PRbpm1 = PRbpm1 + "NA";
+                    }
+                    if ((hmap[day].exercise != undefined)&&(hmap[day].exercise[0].PRbpm != undefined)) {
+                        PRbpm2 = PRbpm2 + hmap[day].exercise[0].PRbpm;
+                    }else{
+                        PRbpm2 = PRbpm2 + "NA";
+                    }
+                    if ((hmap[day].exercise != undefined)&&(hmap[day].exercise[0].endheartrate != undefined)) {
+                        endheartrate = endheartrate + hmap[day].exercise[0].endheartrate;
+                    }else{
+                        endheartrate = endheartrate + "NA";
+                    }
+                    if ((hmap[day].exercise != undefined)&&(hmap[day].exercise[1] != undefined)&&(hmap[day].exercise[1].PRbpm != undefined)&&(hmap[day].exercise[1].item[0].type == "walk")) {
+                        PRbpm3 = PRbpm3 + hmap[day].exercise[1].PRbpm;
+                    }else if ((hmap[day].exercise != undefined)&&(hmap[day].exercise[2] != undefined)&&(hmap[day].exercise[2].PRbpm != undefined)&&(hmap[day].exercise[2].item[0].type == "walk")) {
+                        PRbpm3 = PRbpm3 + hmap[day].exercise[2].PRbpm;
+                    }else{
+                        PRbpm3 = PRbpm3 + "NA";
+                    }
+                    BPMcnt++;
+                    bBPMFirst = false;
+                }else{
+                    if (hmap[day].wake.PRbpm != undefined) {
+                        PRbpm1 = PRbpm1 + "," + hmap[day].wake.PRbpm;
+                    }else{
+                        PRbpm1 = PRbpm1 + ",NA";
+                    }
+                    if ((hmap[day].exercise != undefined)&&(hmap[day].exercise[0].PRbpm != undefined)) {
+                        PRbpm2 = PRbpm2 + "," + hmap[day].exercise[0].PRbpm;
+                    }else{
+                        PRbpm2 = PRbpm2 + ",NA";
+                    }
+                    if ((hmap[day].exercise != undefined)&&(hmap[day].exercise[0].endheartrate != undefined)) {
+                        endheartrate = endheartrate + "," + hmap[day].exercise[0].endheartrate;
+                    }else{
+                        endheartrate = endheartrate + ",NA";
+                    }
+                    if ((hmap[day].exercise != undefined)&&(hmap[day].exercise[1] != undefined)&&(hmap[day].exercise[1].PRbpm != undefined)&&(hmap[day].exercise[1].item[0].type == "walk")) {
+                        PRbpm3 = PRbpm3 + "," + hmap[day].exercise[1].PRbpm;
+                    }else if ((hmap[day].exercise != undefined)&&(hmap[day].exercise[2] != undefined)&&(hmap[day].exercise[2].PRbpm != undefined)&&(hmap[day].exercise[2].item[0].type == "walk")) {
+                        PRbpm3 = PRbpm3 + "," + hmap[day].exercise[2].PRbpm;
+                    }else{
+                        PRbpm3 = PRbpm3 + ",NA";
+                    }
+                    BPMcnt++;
+                }
+                
+
+                /* if (bBPMFirst) {
                     if (hmap[day].wake.PRbpm != undefined) {
                         dBPM = dBPM + "\"" + day + "\"";
                         PRbpm1 = PRbpm1 + hmap[day].wake.PRbpm;
@@ -1031,7 +1085,7 @@ function makeRfile() {
                         lastendheartrate = hmap[day].exercise[0].endheartrate;
                     }
                     BPMcnt++;
-                }
+                } */
             }
         }
     } catch (e) {
@@ -1049,6 +1103,7 @@ function makeRfile() {
     dBPM = dBPM + ")";
     PRbpm1 = PRbpm1 + ")";
     PRbpm2 = PRbpm2 + ")";
+    PRbpm3 = PRbpm3 + ")";
     endheartrate = endheartrate + ")";
 
     var wstr = d + "\r\n" + w1 + "\r\n" + w2 + "\r\n" + energy + "\r\nopar <- par(mar = c(5,4,4,5))\r\nplot(c(1:" + cnt + "),weight1,type=\"s\",col=\"red\",xaxt=\"n\",xlab = \"date\",ylab = \"weight(kg)\",ylim=range(" + wmin + ":" + wmax + "))\r\nlines(c(1:" + cnt + "),weight2,type=\"s\",col=\"blue\")\r\nlegend(\"topright\",inset=.05,title=\"体重曲线\",c(\"睡前\",\"醒后(辅助线:50.5~51.5)\",\"热量\"),lty=c(1,1,1),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 51.5,col=\"blue\",lty = 3)\r\nabline(h = 50.5,col=\"blue\",lty = 3)\r\naxis(1, c(1:" + cnt + "),date)\r\npar(new = TRUE)\r\nplot(c(1:" + cnt + "), energy,type=\"s\", pch = \"+\", col = \"green\", axes = FALSE, xlab = \"\", ylab = \"\")\r\naxis(side = 4, at = pretty(range(energy)))\r\nmtext(\"energy(kcal)\", side = 4, line = 3)";
@@ -1063,7 +1118,7 @@ function makeRfile() {
         console.log('health/sleep.R文件已被保存。在R环境运行 source(\"D:/huangyg/git/raw/health/sleep.R\",encoding = \"UTF-8\")');
     });
 
-    var PRbpmstr = dBPM + "\r\n" + PRbpm1 + "\r\n" + PRbpm2 + "\r\n" + endheartrate + "\r\nplot(c(1:" + BPMcnt + "),PRbpm1,type=\"s\",col=\"red\",xaxt=\"n\",xlab = \"date\",ylab=\"heart rate\",ylim=range(50:160))\r\nlines(c(1:" + BPMcnt + "),PRbpm2,type=\"s\",col=\"blue\")\r\nlines(c(1:" + BPMcnt + "),endheartrate,type=\"s\",col=\"green\")\r\nlegend(\"topleft\",inset=.05,title=\"心率曲线\",c(\"起床血氧仪(辅助线:50~65)\",\"运动后血氧仪\",\"运动后把脉\"),lty=c(1,1,1),col=c(\"red\",\"blue\",\"green\"))\r\nabline(h = 65,col=\"red\",lty = 3)\r\nabline(h = 50,col=\"red\",lty = 3)\r\naxis(1, c(1:" + BPMcnt + "),date)\r\n";
+    var PRbpmstr = dBPM + "\r\n" + PRbpm1 + "\r\n" + PRbpm2 + "\r\n" + PRbpm3 + "\r\n" + endheartrate + "\r\nplot(c(1:" + BPMcnt + "),PRbpm1,type=\"s\",col=\"red\",xaxt=\"n\",xlab = \"date\",ylab=\"heart rate\",ylim=range(50:160))\r\nlines(c(1:" + BPMcnt + "),PRbpm2,type=\"s\",col=\"blue\")\r\nlines(c(1:" + BPMcnt + "),PRbpm3,type=\"s\",col=\"gold\")\r\nlines(c(1:" + BPMcnt + "),endheartrate,type=\"s\",col=\"green\")\r\nlegend(\"topleft\",inset=.05,title=\"心率曲线\",c(\"起床血氧仪(辅助线:50~65)\",\"运动后血氧仪\",\"运动后把脉\",\"散步后血氧仪\"),lty=c(1,1,1,1),col=c(\"red\",\"blue\",\"green\",\"gold\"))\r\nabline(h = 65,col=\"red\",lty = 3)\r\nabline(h = 50,col=\"red\",lty = 3)\r\naxis(1, c(1:" + BPMcnt + "),date)\r\n";
     fs.writeFile("health/heartrate.R", PRbpmstr, (err) => {
         if (err) throw err;
         console.log('health/heartrate.R文件已被保存。在R环境运行 source(\"D:/huangyg/git/raw/health/heartrate.R\",encoding = \"UTF-8\")');

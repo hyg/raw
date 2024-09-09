@@ -31,15 +31,6 @@ exercise:
   endheartrate: 87
   log: |
     室内运动后把脉:关脉中偏浅、尺脉寸脉深度中;三处侧向居中;三处清晰有力。
-- time: 20240908091400
-  item:
-  - type: walk
-    amount: 27
-    unit: minute
-  SpO2: 94
-  PRbpm: 129
-  log: |
-    室外运动时换防晒短袖polo，回到室内恢复短袖polo、抓绒长裤。
 - time: 20240908154800
   item:
   - type:  俯卧撑(push-ups)
