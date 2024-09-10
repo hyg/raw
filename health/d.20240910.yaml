@@ -1,0 +1,40 @@
+date: 20240910
+sleep: 
+  time: 20240909220700
+  weight: 51.1
+wake:
+  time: 20240910074500
+  weight: 50.3
+  SpO2: 94
+  PRbpm: 57
+  log: |
+    睡觉中间起来小便2次，不需要补水。中间醒了一个小时。
+    开始盖抓绒毯加薄羽绒被，直到起床。
+    起床后薄运动长裤、短袖polo。早餐后换长秋裤，午饭前加薄羽绒背心。
+exercise: 
+- time: 20240910084200
+  item:
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: 超人敬礼*5 + 俯卧两头起(Superman exercise)*5 + 俯卧撑(push-ups)*5
+    amount: 2 
+    unit: set
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: pilates.p79
+    amount: 5
+    unit: set
+  SpO2: 97
+  PRbpm: 88
+  endheartrate: 93
+  log: |
+    室内运动后把脉:关脉中偏浅、尺脉寸脉深度中;三处侧向居中;三处清晰有力。
+stool:
+- time: 20240910102200
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+log: |
+comment: |

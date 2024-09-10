@@ -1,0 +1,14 @@
+name: 卤猪大肠2409a
+amount: 341.5
+unit: g
+food:
+  - name: 猪大肠
+    amount: 510.0
+    unit: g
+  - name: 豆瓣酱
+    amount: 30.0
+    unit: g
+log: |
+  1. 猪大肠切段加水、料酒33.0g、豆瓣酱，在高压锅煮。
+  1. 高压锅180分钟。卤大肠和卤汁移到密封罐冷却，浸泡着放到保鲜层待用。
+comment: |+

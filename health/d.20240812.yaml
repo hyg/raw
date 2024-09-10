@@ -42,7 +42,7 @@ exercise:
     室外运动时换防晒短袖polo，回到室内恢复。
 - time: 20240812154800
   item:
-  - type:  俯卧撑(push-ups)*5
+  - type: 俯卧撑(push-ups)*5
     amount: 5
     unit: set
   SpO2: 97

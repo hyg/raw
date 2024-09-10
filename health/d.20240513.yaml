@@ -34,7 +34,7 @@ exercise:
   PRbpm: 125
 - time: 20240513174500
   item:
-  - type:  俯卧撑(push-ups)*5
+  - type: 俯卧撑(push-ups)*5
     amount: 5
     unit: set
   SpO2: 98
