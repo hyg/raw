@@ -16,6 +16,10 @@ food:
     name: 秋葵
     amount: 132.5
     unit: g
+  - time: 20240909073100
+    name: 中盐低钠盐
+    amount: 0.5
+    unit: g
   - time: 20240909075100
     name: 惠来甜绿豆饼
     amount: 31.0
