@@ -1,61 +1,58 @@
 date: 20240916
 food:
-  - time: 20240916071700
+  - time: 20240916083400
     name: 桔柚
-    amount: 165
+    amount: 173.5
     unit: g
-
-  - time: 20240916071900
+  - time: 20240916083700
     name: 千海蓝有机干海带头
     amount: 10.0
     unit: g
-  - time: 20240916071900
+  - time: 20240916083700
     name: 芡实
     amount: 16.0
     unit: g
-  - time: 20240916071900
+  - time: 20240916083700
     name: 青麦仁
     amount: 25.0
     unit: g
-  - time: 20240916071900
+  - time: 20240916083700
     name: 灰枣
     amount: 12.0
     unit: g
-  - time: 20240916071900
+  - time: 20240916083700
     name: 南瓜
-    amount: 65
+    amount: 65.5
     unit: g
-  - time: 20240916071900
+  - time: 20240916083700
     name: 秋葵
-    amount: 150
+    amount: 151.0
     unit: g
-  - time: 20240916071900
+  - time: 20240916083700
     name: 中盐低钠盐
     amount: 0.5
     unit: g
-
-  - time: 20240916075050
+  - time: 20240916090800
     name: 惠来甜绿豆饼
-    amount: 32.0
+    amount: 78.5
     unit: g
-  - time: 20240916075050
+  - time: 20240916090800
     name: 桑葚干
     amount: 10.0
     unit: g
-  - time: 20240916075050
+  - time: 20240916090800
     name: 亚麻籽
     amount: 5.0
     unit: g
-  - time: 20240916075050
+  - time: 20240916090800
     name: 麦胚芽
     amount: 10.0
     unit: g
-
-  - time: 20240916080000
+  - time: 20240916092000
     name: 奶粉
     amount: 20.0
     unit: g
-  - time: 20240916080000
+  - time: 20240916092000
     name: 瑞幸冷萃咖啡液
     amount: 0.5
     unit: 份
@@ -173,26 +170,27 @@ food:
     amount: 4.0
     unit: g
 water:
-  - time: 20240916061500
+  - time: 20240916065500
     name: 开水
     amount: 150
     unit: ml
-  - time: 20240916070000
+  - time: 20240916081400
     name: 开水
     amount: 250
     unit: ml
-  - time: 20240916071900
+  - time: 20240916083700
     name: 粥水
-    amount: 400
+    amount: 300
     unit: ml
-  - time: 20240916080000
+  - time: 20240916092000
     name: 咖啡
-    amount: 80.5
+    amount: 83.0
     unit: ml    
   - time: 20240916083200
     name: 开水
     amount: 250
     unit: ml
+
   - time: 20240916085300
     name: 开水
     amount: 250
@@ -226,7 +224,7 @@ water:
     amount: 50
     unit: ml
 med:
-  - time: 20240916080000
+  - time: 20240916092000
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
