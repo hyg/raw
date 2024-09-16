@@ -73,7 +73,7 @@ food:
 
   - time: 20240916124900
     name: 大米
-    amount: 35
+    amount: 35.0
     unit: g
   - time: 20240916124900
     name: 紫米
@@ -85,7 +85,7 @@ food:
     unit: g
   - time: 20240916124900
     name: 六旺果
-    amount: 20
+    amount: 22.0
     unit: g
   - time: 20240916124900
     name: 塔拉额吉黄油
@@ -186,23 +186,23 @@ water:
     name: 咖啡
     amount: 83.0
     unit: ml    
-  - time: 20240916083200
+  - time: 20240916094300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240916101900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240916110600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240916113500
     name: 开水
     amount: 250
     unit: ml
 
-  - time: 20240916085300
-    name: 开水
-    amount: 250
-    unit: ml
-  - time: 20240916094800
-    name: 开水
-    amount: 250
-    unit: ml
-  - time: 20240916113200
-    name: 开水
-    amount: 250
-    unit: ml
   - time: 20240916131200
     name: 咖啡
     amount: 97.0
@@ -228,11 +228,11 @@ med:
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
-  - time: 20240916083200
+  - time: 20240916094300
     name: selenium
     amount: 200
     unit: μg
-  - time: 20240916083200
+  - time: 20240916094300
     name: mature multi
     amount: 1
     unit: 片
