@@ -1,40 +1,34 @@
 date: 20240918
 food:
-  - time: 20240918115600
+  - time: 20240918081000
     name: 桔柚
-    amount: 158.0
+    amount: 149.0
     unit: g
-
-  - time: 20240918073000
+  - time: 20240918081200
     name: 馒头2408d
     amount: 1
     unit: 个
-  - time: 20240918073000
+  - time: 20240918081200
     name: 南瓜
-    amount: 70
+    amount: 70.0
     unit: g
-  - time: 20240918073000
+  - time: 20240918081200
     name: 秋葵
-    amount: 150
+    amount: 182.0
     unit: g
-  - time: 20240918073000
+  - time: 20240918081200
     name: 卤猪大肠2409a
-    amount: 60
+    amount: 61.5
     unit: g
-  - time: 20240918073000
-    name: 中盐低钠盐
-    amount: 0.5
-    unit: g
-
-  - time: 20240918075000
+  - time: 20240918083000
     name: 桑葚干
     amount: 10.0
     unit: g
-  - time: 20240918075000
+  - time: 20240918083000
     name: 亚麻籽
     amount: 5.0
     unit: g
-  - time: 20240918075000
+  - time: 20240918083000
     name: 麦胚芽
     amount: 10.0
     unit: g
@@ -161,17 +155,26 @@ food:
     amount: 4.0
     unit: g
 water:
-  - time: 20240918093600
+  - time: 20240918063000
     name: 开水
     amount: 150
     unit: ml
-  - time: 20240918104700
+  - time: 20240918074600
+    name: 开水
+    amount: 250
+    unit: mlml
+  - time: 20240918075800
+    name: 咖啡
+    amount: 80.5
+    unit: ml    
+  - time: 20240918094300
     name: 开水
     amount: 250
     unit: ml
+
   - time: 20240918122500
     name: 咖啡
-    amount: 122.0
+    amount: 80.5
     unit: ml    
   - time: 20240918141400
     name: 开水
@@ -202,14 +205,10 @@ water:
     amount: 180
     unit: ml
 med:
-  - time: 20240918122500
+  - time: 20240918075800
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
-  - time: 20240918094300
-    name: 维生素D3
-    amount: 125
-    unit: μg
   - time: 20240918094300
     name: selenium
     amount: 200
