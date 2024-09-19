@@ -30,41 +30,19 @@ exercise:
   endheartrate: 81
   log: |
     室内运动后把脉:关脉中偏浅、尺脉深度中、寸脉中偏深；三处侧向居中;三处清晰有力。
-- time: 20240918091200
+- time: 20240918130000
   item:
   - type: walk
-    amount: 26
+    amount: 60
     unit: minute
-  SpO2: 95
-  PRbpm: 132
+  SpO2: 96
+  PRbpm: 130
   log: |
-    室外运动时加穿德绒秋裤、防晒衣，回到室内薄运动长裤换抓绒长裤、防晒衣换成羽绒背心。
-- time: 20240918154100
-  item:
-  - type: 俯卧撑(push-ups)
-    amount: 5
-    unit: turn
-    SpO2: 97
-    PRbpm: 101
-    secto80: 46
-  - type: 俯卧撑(push-ups)
-    amount: 5
-    unit: turn
-    SpO2: 97
-    PRbpm: 102
-    secto80: 47
-  - type: 俯卧撑(push-ups)
-    amount: 5
-    unit: turn
-    SpO2: 97
-    PRbpm: 102
-    secto80: 61
-  log: |
-    三组俯卧撑结束血氧、心率、恢复时间(秒)分别是:97 101 46,97 102 47,97 102 61.恢复时间超过一分钟就停。
+    室外运动时加穿防晒polo，回到室内薄运动长裤换抓绒长裤、防晒衣换成普通polo。
 stool:
-- time: 20240918125000
+- time: 20240918085500
   amount:   2   #	1:多; 2:适中;	3:少
-  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log: |
 comment: |
