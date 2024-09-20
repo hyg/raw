@@ -10,7 +10,7 @@ wake:
   log: |
     睡觉中间起来小便1次，不需要补水。
     起床后穿德绒秋裤、薄运动长裤、短袖polo。
-    昨天外勤去程车上就开始感到上腭后段咽喉发干，隐隐延续一天。
+    昨天外勤去程车上就开始感到上腭后端咽喉发干，隐隐延续一天。
     今早舌根后端咽喉发干，吞咽时扯动有轻微隐痛。
 exercise: 
 - time: 20240919084000
@@ -27,46 +27,15 @@ exercise:
   - type: pilates.p79
     amount: 5
     unit: set
-  SpO2: 98
-  PRbpm: 79
-  endheartrate: 81
+  SpO2: 97
+  PRbpm: 80
+  endheartrate: 84
   log: |
-    室内运动后把脉:关脉中偏浅、尺脉深度中、寸脉中偏深；三处侧向居中;三处清晰有力。
-- time: 20240919091200
-  item:
-  - type: walk
-    amount: 26
-    unit: minute
-  SpO2: 95
-  PRbpm: 132
-  log: |
-    室外运动时加穿德绒秋裤、防晒衣，回到室内薄运动长裤换抓绒长裤、防晒衣换成羽绒背心。
-- time: 20240919154100
-  item:
-  - type: 俯卧撑(push-ups)
-    amount: 5
-    unit: turn
-    SpO2: 97
-    PRbpm: 101
-    secto80: 46
-  - type: 俯卧撑(push-ups)
-    amount: 5
-    unit: turn
-    SpO2: 97
-    PRbpm: 102
-    secto80: 47
-  - type: 俯卧撑(push-ups)
-    amount: 5
-    unit: turn
-    SpO2: 97
-    PRbpm: 102
-    secto80: 61
-  log: |
-    三组俯卧撑结束血氧、心率、恢复时间(秒)分别是:97 101 46,97 102 47,97 102 61.恢复时间超过一分钟就停。
+    室内运动后把脉:关脉中偏浅、尺脉寸脉深度中；三处侧向居中;关脉寸脉清晰有力、尺脉混浊有力、尺脉混浊有力。
 stool:
-- time: 20240919085500
+- time: 20240919101900
   amount:   2   #	1:多; 2:适中;	3:少
-  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log: |
 comment: |
