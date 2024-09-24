@@ -1,0 +1,16 @@
+name: 熟鱼腩2409a
+amount: 323.5
+unit: g
+food:
+  - name: 鮰鱼腩
+    amount: 398.5
+    unit: g
+  - name: 豆瓣酱
+    amount: 26.0
+    unit: g
+  - name: 姜
+    amount: 17.0
+    unit: g
+log: |
+  1. 鱼腩、豆瓣酱、姜、料酒38克，高压锅半小时。
+comment: |+
