@@ -9,9 +9,10 @@ wake:
   PRbpm: 55
   log: |
     睡觉中间起来小便2次，不需要补水。
-    起床后穿抓绒秋裤、薄运动长裤、短袖polo。
+    起床后穿抓绒秋裤、薄运动长裤、短袖polo、羽绒背心。
+    运动时上身稍微有些热。
 exercise: 
-- time: 20240924092500
+- time: 20240924091400
   item:
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
@@ -25,46 +26,15 @@ exercise:
   - type: pilates.p79
     amount: 5
     unit: set
-  SpO2: 98
-  PRbpm: 79
-  endheartrate: 87
+  SpO2: 97
+  PRbpm: 77
+  endheartrate: 81
   log: |
-    室内运动后把脉:关脉尺脉深度中、寸脉中偏深；三处侧向居中;关脉尺脉清晰有力、寸脉模糊。
-- time: 20240924171800
-  item:
-  - type: walk
-    amount: 29
-    unit: minute
-  SpO2: 96
-  PRbpm: 118
-  log: |
-    室外运动时脱去抓绒秋裤、加穿防晒衣，回到室内薄运动长裤换抓绒长裤、防晒衣换成羽绒背心。
-- time: 20240924154100
-  item:
-  - type: 俯卧撑(push-ups)
-    amount: 5
-    unit: turn
-    SpO2: 97
-    PRbpm: 101
-    secto80: 46
-  - type: 俯卧撑(push-ups)
-    amount: 5
-    unit: turn
-    SpO2: 97
-    PRbpm: 102
-    secto80: 47
-  - type: 俯卧撑(push-ups)
-    amount: 5
-    unit: turn
-    SpO2: 97
-    PRbpm: 102
-    secto80: 61
-  log: |
-    三组俯卧撑结束血氧、心率、恢复时间(秒)分别是:97 101 46,97 102 47,97 102 61.恢复时间超过一分钟就停。
+    室内运动后把脉:关脉中偏浅、尺脉深度中、寸脉中偏深；三处侧向居中、关脉外侧另有细脉;关脉尺脉清晰有力、寸脉清晰。
 stool:
 - time: 202409241105000
-  amount:   2   #	1:多; 2:适中;	3:少
-  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log: |
 comment: |
