@@ -1,0 +1,73 @@
+date: 20241001
+sleep: 
+  time: 20240930222500
+  weight: 51.8
+wake:
+  time: 20241001075400
+  weight: 51.0
+  SpO2: 96
+  PRbpm: 56
+  log: |
+    睡觉中间起来小便2次，不需要补水。
+    起床后穿抓绒秋裤、厚抓绒长裤、短袖polo、羽绒背心。
+exercise: 
+- time: 20241001051800
+  item:
+  - type: 大拉伸(Greatest Stretch)
+    amount: 1
+    unit: turn
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: 超人敬礼*5 + 俯卧两头起(Superman exercise)*5 + 俯卧撑(push-ups)*5
+    amount: 2 
+    unit: set
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: 腹部拉伸(Cobra Pose) + 颈部拉伸*5
+    amount: 5
+    unit: set
+  SpO2: 98
+  PRbpm: 72
+  endheartrate: 77
+  log: |
+    室内运动后把脉:关脉中偏浅、尺脉寸脉深度中；三处侧向居中;三处清晰有力。
+- time: 20241001075100
+  item:
+  - type: walk
+    amount: 26
+    unit: minute
+  SpO2: 96
+  PRbpm: 124
+  log: |
+    室外运动时加穿防晒衣、换厚长裤，回到室内换抓绒长裤、脱防晒衣。
+- time: 20241001154100
+  item:
+  - type: 俯卧撑(push-ups)
+    amount: 5
+    unit: turn
+    SpO2: 97
+    PRbpm: 101
+    secto80: 46
+  - type: 俯卧撑(push-ups)
+    amount: 5
+    unit: turn
+    SpO2: 97
+    PRbpm: 102
+    secto80: 47
+  - type: 俯卧撑(push-ups)
+    amount: 5
+    unit: turn
+    SpO2: 97
+    PRbpm: 102
+    secto80: 61
+  log: |
+    三组俯卧撑结束血氧、心率、恢复时间(秒)分别是:97 101 46,97 102 47,97 102 61.恢复时间超过一分钟就停。
+stool:
+- time: 20241001064200
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+log: |
+comment: |

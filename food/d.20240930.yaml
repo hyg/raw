@@ -1,0 +1,196 @@
+date: 20240930
+food:
+  - time: 20240930055300
+    name: 番石榴
+    amount: 166.0
+    unit: g
+  - time: 20240930055700
+    name: 鲜玉米
+    amount: 181.5
+    unit: g
+  - time: 20240930055700
+    name: 南瓜
+    amount: 37.0
+    unit: g
+  - time: 20240930055700
+    name: 秋葵
+    amount: 142.0
+    unit: g
+  - time: 20240930055700
+    name: 熟鱼腩2409a
+    amount: 70.0
+    unit: g
+  - time: 20240930061000
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20240930061000
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20240930061000
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20240930062600
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240930115000
+    name: 京白梨
+    amount: 92.0
+    unit: g
+  - time: 20240930115300
+    name: 鲜玉米
+    amount: 362.5
+    unit: g
+  - time: 20240930115300
+    name: 萨宝多马苏里拉芝士
+    amount: 4.5
+    unit: g
+  - time: 20240930115300
+    name: 泰森深海鳕鱼饼
+    amount: 125.0
+    unit: g
+    log: |
+      -- 上下火210°C+17分钟，230°C+2分钟上色。
+  - time: 20240930115300
+    name: 胡萝卜
+    amount: 54.5
+    unit: g
+  - time: 20240930115300
+    name: 油菜
+    amount: 170.5
+    unit: g
+  - time: 20240930115300
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240930115300
+    name: 油
+    amount: 2.5
+    unit: g
+  - time: 20240930122800
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20240930173300
+    name: 猕猴桃
+    amount: 79.5
+    unit: g
+  - time: 20240930173500
+    name: 海带
+    amount: 11.0
+    unit: g
+  - time: 20240930173500
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20240930173500
+    name: 芡实
+    amount: 10.0
+    unit: g
+  - time: 20240930173500
+    name: 青麦仁
+    amount: 27.0
+    unit: g
+  - time: 20240930173500
+    name: 灰枣
+    amount: 11.0
+    unit: g
+  - time: 20240930173500
+    name: 鸡蛋
+    amount: 45.0
+    unit: g
+  - time: 20240930173500
+    name: 苦瓜
+    amount: 185.0
+    unit: g
+  - time: 20240930173500
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20240930173500
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20240930173500
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20240930180200
+    name: 奶粉
+    amount: 10.0
+    unit: g
+  - time: 20240930180200
+    name: 伊利脱脂奶粉
+    amount: 10.0
+    unit: g
+water:
+  - time: 20240930045000
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20240930054000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240930062600
+    name: 咖啡
+    amount: 82.5
+    unit: ml
+  - time: 20240930065700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240930072200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240930082900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240930091000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240930122800
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20240930124000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240930150900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20240930173500
+    name: 粥水
+    amount: 340
+    unit: ml
+  - time: 20240930180200
+    name: 可可奶
+    amount: 98.5
+    unit: ml
+  - time: 20240930211600
+    name: 开水
+    amount: 50
+    unit: ml
+med:
+  - time: 20240930062600
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20240930065700
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20240930065700
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |

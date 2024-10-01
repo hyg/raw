@@ -1,18 +1,21 @@
-date: 20240929
+date: 20240930
 sleep: 
-  time: 20240928220200
-  weight: 52.4
+  time: 20240929221200
+  weight: 52.0
 wake:
-  time: 20240929060200
+  time: 20240930044100
   weight: 51.2
   SpO2: 95
-  PRbpm: 56
+  PRbpm: 55
   log: |
     睡觉中间起来小便1次，不需要补水。
     起床后穿德绒秋裤、薄运动长裤、短袖polo、羽绒背心。
 exercise: 
-- time: 20240929063500
+- time: 20240930051800
   item:
+  - type: 大拉伸(Greatest Stretch)
+    amount: 1
+    unit: turn
   - type: 坐姿转体扭腰(Core Twist) 
     amount: 20
     unit: turn
@@ -22,17 +25,26 @@ exercise:
   - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
     amount: 5
     unit: set
-  - type: pilates.p79
+  - type: 腹部拉伸(Cobra Pose) + 颈部拉伸*5
     amount: 5
     unit: set
   SpO2: 98
-  PRbpm: 74
+  PRbpm: 72
   endheartrate: 77
   log: |
-    室内运动后把脉:关脉中偏浅、尺脉寸脉深度中；三处侧向居中;关脉尺脉清晰有力、寸脉清晰。
+    室内运动后把脉:关脉中偏浅、尺脉寸脉深度中；三处侧向居中;三处清晰有力。
+- time: 20240930075100
+  item:
+  - type: walk
+    amount: 26
+    unit: minute
+  SpO2: 96
+  PRbpm: 124
+  log: |
+    室外运动时加穿防晒衣、换厚长裤，回到室内换抓绒长裤、脱防晒衣。
 stool:
-- time: 20240929081300
-  amount:   1   #	1:多; 2:适中;	3:少
+- time: 20240930064200
+  amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log: |
