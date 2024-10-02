@@ -1,5 +1,5 @@
-name: 艾糍2409a
-amount: 8
+name: 艾糍2410a
+amount: 16
 unit: 个
 food:
   - name: 五桥水磨粳米粉
@@ -18,7 +18,7 @@ food:
     amount: 64
     unit: g
   - name: 脆兴隆花生碎
-    amount: 128
+    amount: 64
     unit: g
   - name: 水
     amount: 310

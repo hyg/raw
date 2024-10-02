@@ -11,7 +11,7 @@ wake:
     睡觉中间起来小便2次，不需要补水。
     起床后穿抓绒秋裤、厚抓绒长裤、短袖polo、羽绒背心。
 exercise: 
-- time: 20241001051800
+- time: 20241001083900
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -28,9 +28,9 @@ exercise:
   - type: 腹部拉伸(Cobra Pose) + 颈部拉伸*5
     amount: 5
     unit: set
-  SpO2: 98
-  PRbpm: 72
-  endheartrate: 77
+  SpO2: 97
+  PRbpm: 75
+  endheartrate: 83
   log: |
     室内运动后把脉:关脉中偏浅、尺脉寸脉深度中；三处侧向居中;三处清晰有力。
 - time: 20241001075100
@@ -65,7 +65,7 @@ exercise:
   log: |
     三组俯卧撑结束血氧、心率、恢复时间(秒)分别是:97 101 46,97 102 47,97 102 61.恢复时间超过一分钟就停。
 stool:
-- time: 20241001064200
+- time: 20241001101200
   amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
