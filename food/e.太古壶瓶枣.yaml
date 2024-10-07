@@ -1,0 +1,24 @@
+name: 太谷壶瓶枣
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1362
+    unit: kj
+    nrv: 16
+  蛋白质:
+    amount: 4.5
+    unit: g
+    nrv: 8
+  脂肪:
+    amount: 1.2
+    unit: g
+    nrv: 2
+  碳水化合物:
+    amount: 73.0
+    unit: g
+    nrv: 24
+  钠:
+    amount: 13
+    unit: mg
+    nrv: 1

@@ -1,0 +1,112 @@
+name: 紫甘蓝
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 21
+    unit: kcal
+    nrv: 1.02
+  蛋白质:
+    amount: 1.1
+    unit: g
+    nrv: 1.23
+  脂肪:
+    amount: 0.3
+    unit: g
+    nrv: 0.53
+  碳水化合物:
+    amount: 3.7
+    unit: g
+    nrv: 1.26
+  膳食纤维:
+    amount: 2.5
+    unit: g
+    nrv: 8.33
+  VA(视黄醇等):
+    amount: 3
+    unit: μg
+    nrv: 0.39
+  VE(生育酚):
+    amount: 0.2
+    unit: mg
+    nrv: 1.43
+  VB1(硫胺素):
+    amount: 0.02
+    unit: mg
+    nrv: 1.43
+  VB2(核黄素):
+    amount: 0.01
+    unit: mg
+    nrv: 0.71
+  VB3(烟酸):
+    amount: 0.4
+    unit: mg
+    nrv: 2.67
+  VB6(吡哆素):
+    amount: 0.09
+    unit: mg
+    nrv: 6.43
+  VB9(叶酸):
+    amount: 39
+    unit: μg
+    nrv: 9.75
+  VB12(钴胺素):
+    amount: 0
+    unit: μg
+    nrv: 0
+  VC(抗坏血酸):
+    amount: 55
+    unit: mg
+    nrv: 55
+  VD3(胆钙化醇):
+    amount: 0
+    unit: μg
+    nrv: 0
+  磷:
+    amount: 37
+    unit: mg
+    nrv: 5.21
+  钙:
+    amount: 60
+    unit: mg
+    nrv: 7.5
+  铁:
+    amount: 0.4
+    unit: mg
+    nrv: 3.33
+  钠:
+    amount: 8
+    unit: mg
+    nrv: 0.53
+  钾:
+    amount: 250
+    unit: mg
+    nrv: 12.5
+  镁:
+    amount: 9
+    unit: mg
+    nrv: 2.81
+  锌:
+    amount: 0.1
+    unit: mg
+    nrv: 0.83
+  碘:
+    amount: 2
+    unit: μg
+    nrv: 1.67
+  硒:
+    amount: 2
+    unit: μg
+    nrv: 3.33
+  铜:
+    amount: 0.01
+    unit: mg
+    nrv: 1.25
+  锰:
+    amount: 0.2
+    unit: mg
+    nrv: 4.44
+  生物素:
+    amount: 0.1
+    unit: μg
+    nrv: 0.25

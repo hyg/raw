@@ -1,0 +1,24 @@
+name: 立鹿红烧牛肉罐头
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 469
+    unit: kj
+    nrv: 6
+  蛋白质:
+    amount: 18.6
+    unit: g
+    nrv: 31
+  脂肪:
+    amount: 3.8
+    unit: g
+    nrv: 6
+  碳水化合物:
+    amount: 0.7
+    unit: g
+    nrv: 0
+  钠:
+    amount: 351
+    unit: mg
+    nrv: 18
