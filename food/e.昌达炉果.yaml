@@ -1,0 +1,24 @@
+name: 昌达炉果
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1707
+    unit: kj
+    nrv: 20
+  蛋白质:
+    amount: 8.4
+    unit: g
+    nrv: 14
+  脂肪:
+    amount: 11.4
+    unit: g
+    nrv: 19
+  碳水化合物:
+    amount: 67.2
+    unit: g
+    nrv: 22
+  钠:
+    amount: 37
+    unit: mg
+    nrv: 2

@@ -1,0 +1,12 @@
+name: 烤土豆2410a
+amount: 1104.5
+unit: g
+food:
+  - name: 土豆
+    amount: 1442.0
+    unit: g
+log: |
+  1. 230°C+30分钟，下层。
+  1. 230°C+30分钟，上层。
+comment: |+
+  1. 小号可以试试220°C。
