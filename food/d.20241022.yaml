@@ -1,0 +1,188 @@
+date: 20241022
+food:
+  - time: 20241022113200
+    name: 番石榴
+    amount: 204.0
+    unit: g
+  - time: 20241022113700
+    name: 馒头2410b
+    amount: 1
+    unit: 个
+  - time: 20241022113700
+    name: 卤羊腿肉2410b
+    amount: 41.5
+    unit: g
+  - time: 20241022113700
+    name: 香香唯北豆腐
+    amount: 58.0
+    unit: g
+  - time: 20241022113700
+    name: 南瓜
+    amount: 74.5
+    unit: g
+  - time: 20241022113700
+    name: 秋葵
+    amount: 144.5
+    unit: g
+  - time: 20241022115600
+    name: 昌达炉果
+    amount: 51.5
+    unit: g
+  - time: 20241022115600
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20241022115600
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20241022115600
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20241022120700
+    name: 奶粉
+    amount: 30.0
+    unit: g
+  - time: 20241022120700
+    name: 瑞幸冷萃咖啡液
+    amount: 1
+    unit: 份
+  - time: 20241022184900
+    name: 番茄酱
+    amount: 32.0
+    unit: g
+  - time: 20241022184900
+    name: 东棘沙棘原浆
+    amount: 25.0
+    unit: g
+  - time: 20241022185000
+    name: 香蕉
+    amount: 100.5
+    unit: g
+  - time: 20241022185200
+    name: 蜜桃
+    amount: 180.5
+    unit: g
+  - time: 20241022190000
+    name: 大米
+    amount: 40.0
+    unit: g
+  - time: 20241022190000
+    name: 紫米
+    amount: 15.0
+    unit: g
+  - time: 20241022190000
+    name: 青麦仁
+    amount: 15.0
+    unit: g
+  - time: 20241022190000
+    name: 花生
+    amount: 5.0
+    unit: g
+  - time: 20241022190000
+    name: 腌鸡腿2410a
+    amount: 86.5
+    unit: g
+    log: |
+      - 220°C+15分钟，翻面，210°C+5分钟。
+  - time: 20241022190000
+    name: 胡萝卜
+    amount: 75.0
+    unit: g
+  - time: 20241022190000
+    name: 油菜
+    amount: 125.5
+    unit: g
+  - time: 20241022190000
+    name: 大白菜
+    amount: 78.0
+    unit: g
+  - time: 20241022190000
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20241022190000
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20241022191900
+    name: 昌达炉果
+    amount: 51.0
+    unit: g
+  - time: 20241022191900
+    name: 伊卡浓72%臻黑巧克力
+    amount: 5.0
+    unit: g
+  - time: 20241022192500
+    name: 奶粉
+    amount: 30.0
+    unit: g
+  - time: 20241022192500
+    name: 可可粉
+    amount: 6.0
+    unit: g
+water:
+  - time: 20241022102400
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20241022111800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20241022120700
+    name: 咖啡
+    amount: 120.5
+    unit: ml
+  - time: 20241022123200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20241022131800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20241022135700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20241022151300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20241022154000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20241022192500
+    name: 可可奶
+    amount: 120.0
+    unit: ml
+  - time: 20241022192700
+    name: 开水
+    amount: 200
+    unit: ml
+med:
+  - time: 20241022120700
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20241022123200
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20241022123200
+    name: mature multi
+    amount: 1
+    unit: 片
+  - time: 20241022123200
+    name: 银黄颗粒
+    amount: 4.0
+    unit: g
+  - time: 20241022192700
+    name: 银黄颗粒
+    amount: 3.5
+    unit: g
+log: |
+comment: |

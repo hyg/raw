@@ -6,10 +6,6 @@ element:
     amount: 296
     unit: kcal
     nrv: 15
-  碳水化合物:
-    amount: 54.2
-    unit: g
-    nrv: 18
   蛋白质:
     amount: 21.1
     unit: g
@@ -18,6 +14,10 @@ element:
     amount: 6.1
     unit: g
     nrv: 10
+  碳水化合物:
+    amount: 54.2
+    unit: g
+    nrv: 18
   膳食纤维:
     amount: 29.3
     unit: g
@@ -25,7 +25,7 @@ element:
   钠:
     amount: 28
     unit: mg
-    nrv: 18
+    nrv: 1.9
   VE(生育酚):
     amount: 32.68
     unit: mg
