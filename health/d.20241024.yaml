@@ -1,18 +1,18 @@
-date: 20241022
+date: 20241024
 sleep: 
-  time: 20241022012000
-  weight: 52.2
+  time: 20241023231900
+  weight: 52.6
 wake:
-  time: 20241022101400
-  weight: 51.5
+  time: 20241024075300
+  weight: 51.8
   SpO2: 95
   PRbpm: 57
   log: |
-    睡觉中间起来小便2次，不需要补水。
+    睡觉中间没有起来小便，不需要补水。
     一直戴帽。起床后穿抓绒裤、空气层长裤、短袖T恤、秋衣、羽绒背心。
-    运动后加穿薄羽绒服、护膝。
+    运动后换穿薄羽绒服、加护膝。
 exercise: 
-- time: 20241022105600
+- time: 20241024110700
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -30,14 +30,23 @@ exercise:
     amount: 5
     unit: set
   SpO2: 99
-  PRbpm: 83
-  endheartrate: 87
+  PRbpm: 82
+  endheartrate: 88
   log: |
-    室内运动后把脉:关脉中偏浅、寸脉尺脉深度中；三处侧向居中;三处清晰有力。
+    室内运动后把脉:关脉寸脉深度中、尺脉中偏深；三处侧向居中;三处清晰有力。
+- time: 20241024110500
+  item:
+  - type: walk
+    amount: 60
+    unit: minute
+  SpO2: 98
+  PRbpm: 130
+  log: |
+    室外运动时换薄长裤、穿羽绒背心加防晒衣、换棒球帽，回到室内恢复。
 stool:
-- time: 20241022310000
-  amount:   1   #	1:多; 2:适中;	3:少
+- time: 20241024211000
+  amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
-  diffcult: 1   #	1:不困难;	2:困难
+  diffcult: 2   #	1:不困难;	2:困难
 log: |
 comment: |
