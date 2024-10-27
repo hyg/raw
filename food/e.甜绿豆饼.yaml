@@ -1,24 +1,24 @@
-name: 惠来甜绿豆饼
+name: 甜绿豆饼
 amount: 100
 unit: g
 element:
   热量:
-    amount: 2386
+    amount: 1386
     unit: kj
-    nrv: 26
+    nrv: 17
   蛋白质:
-    amount: 10.1
+    amount: 20.1
     unit: g
-    nrv: 13
+    nrv: 34
   脂肪:
-    amount: 39.4
+    amount: 2.4
     unit: g
-    nrv: 53
+    nrv: 4
   碳水化合物:
     amount: 44.5
     unit: g
     nrv: 15
   钠:
-    amount: 58
+    amount: 11
     unit: mg
-    nrv: 4
+    nrv: 1

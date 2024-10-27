@@ -1,0 +1,19 @@
+name: 五香黄豆2410a
+amount: 8
+unit: g
+food:
+  - name: 黄豆
+    amount: 101.0
+    unit: g
+  - name: 豆瓣酱
+    amount: 10.0
+    unit: g
+  - name: 蔗糖
+    amount: 10.0
+    unit: g
+  - name: 十三香
+    amount: 1.0
+    unit: g
+log: |
+  1. 黄豆提前泡一晚。
+  1. 泡开的黄豆和豆瓣酱、蔗糖、十三香、水、料酒混合，高压锅1小时。

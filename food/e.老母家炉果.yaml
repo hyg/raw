@@ -1,0 +1,24 @@
+name: 老母家炉果
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1983
+    unit: kj
+    nrv: 24
+  蛋白质:
+    amount: 8.1
+    unit: g
+    nrv: 14
+  脂肪:
+    amount: 19.6
+    unit: g
+    nrv: 33
+  碳水化合物:
+    amount: 65.9
+    unit: g
+    nrv: 22
+  钠:
+    amount: 10
+    unit: mg
+    nrv: 1
