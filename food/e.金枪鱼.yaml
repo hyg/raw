@@ -1,0 +1,96 @@
+name: 金枪鱼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 136
+    unit: kcal
+    nrv: 6.63
+  蛋白质:
+    amount: 23.7
+    unit: g
+    nrv: 26.42
+  脂肪:
+    amount: 4.6
+    unit: g
+    nrv: 8.08
+  VA(视黄醇等):
+    amount: 26
+    unit: μg
+    nrv: 3.38
+  VB1(硫胺素):
+    amount: 0.1
+    unit: mg
+    nrv: 7.14
+  VB2(核黄素):
+    amount: 0.13
+    unit: mg
+    nrv: 9.29
+  VB3(烟酸):
+    amount: 12.8
+    unit: mg
+    nrv: 85.33
+  VB5(泛酸):
+    amount: 0.66
+    unit: mg
+    nrv: 13.2
+  VB6(吡哆素):
+    amount: 0.38
+    unit: mg
+    nrv: 27.14
+  VB9(叶酸):
+    amount: 15
+    unit: μg
+    nrv: 3.75
+  VB12(钴胺素):
+    amount: 4
+    unit: μg
+    nrv: 166.67
+  VD3(胆钙化醇):
+    amount: 7.2
+    unit: μg
+    nrv: 72
+  磷:
+    amount: 220
+    unit: mg
+    nrv: 30.99
+  钙:
+    amount: 24
+    unit: mg
+    nrv: 3
+  铁:
+    amount: 1.5
+    unit: mg
+    nrv: 12.5
+  钠:
+    amount: 46
+    unit: mg
+    nrv: 3.07
+  钾:
+    amount: 400
+    unit: mg
+    nrv: 20
+  镁:
+    amount: 33
+    unit: mg
+    nrv: 10.31
+  锌:
+    amount: 0.72
+    unit: mg
+    nrv: 6
+  碘:
+    amount: 36.7
+    unit: μg
+    nrv: 30.58
+  硒:
+    amount: 99
+    unit: μg
+    nrv: 165
+  铜:
+    amount: 0.16
+    unit: mg
+    nrv: 20
+  锰:
+    amount: 0.02
+    unit: mg
+    nrv: 0.44

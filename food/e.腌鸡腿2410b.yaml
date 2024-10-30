@@ -1,0 +1,13 @@
+name: 腌鸡腿2410b
+amount: 548.5
+unit: g
+food:
+  - name: 鸡腿肉
+    amount: 463.0
+    unit: g
+  - name: 阑绪新奥尔良烤翅腌料
+    amount: 17.0
+    unit: g
+log: |
+  - 去皮去骨鸡腿肉和腌料、料酒68.5g混合揉匀。
+comment: |

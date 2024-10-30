@@ -1,0 +1,24 @@
+name: 海旺冻金枪鱼块
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 371
+    unit: kj
+    nrv: 4
+  蛋白质:
+    amount: 27.1
+    unit: g
+    nrv: 36
+  脂肪:
+    amount: 0
+    unit: g
+    nrv: 0
+  碳水化合物:
+    amount: 0.1
+    unit: g
+    nrv: 0
+  钠:
+    amount: 743
+    unit: mg
+    nrv: 37

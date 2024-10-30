@@ -1,19 +1,23 @@
 name: 五香黄豆2410a
-amount: 8
+amount: 248.0
 unit: g
 food:
   - name: 黄豆
     amount: 101.0
     unit: g
   - name: 豆瓣酱
-    amount: 10.0
+    amount: 10.5
     unit: g
   - name: 蔗糖
-    amount: 10.0
+    amount: 9.0
     unit: g
   - name: 十三香
     amount: 1.0
     unit: g
 log: |
   1. 黄豆提前泡一晚。
-  1. 泡开的黄豆和豆瓣酱、蔗糖、十三香、水、料酒混合，高压锅1小时。
+  1. 泡开的黄豆和豆瓣酱、蔗糖、十三香、水、料酒22.0g混合，高压锅2小时。19:50~21:50
+  1. 熟黄豆加汤汁共376.5g
+comment: |
+  - 口感还是偏脆，没有嚼劲。
+  - 下次试试：黄豆100g、豆瓣酱10g、糖15g、十三香0.5g。水少一点，收干。

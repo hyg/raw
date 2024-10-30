@@ -1,0 +1,217 @@
+date: 20241030
+food:
+  - time: 20241030095800
+    name: 蜜桃
+    amount: 180
+    unit: g
+
+  - time: 20241030100200
+    name: 馒头2410c
+    amount: 1
+    unit: 个
+  - time: 20241030100200
+    name: 卤牛肉2410a
+    amount: 40
+    unit: g
+  - time: 20241030100200
+    name: 五香黄豆2410a
+    amount: 45.0
+    unit: g
+  - time: 20241030100200
+    name: 南瓜
+    amount: 65
+    unit: g
+  - time: 20241030100200
+    name: 秋葵
+    amount: 150
+    unit: g
+
+  - time: 20241030102500
+    name: 老母家炉果
+    amount: 8
+    unit: g
+  - time: 20241030102500
+    name: 甜绿豆饼
+    amount: 22
+    unit: g
+  - time: 20241030102500
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20241030102500
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20241030102500
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+
+  - time: 20241030103300
+    name: 奶粉
+    amount: 20.0
+    unit: g
+
+  - time: 20241030142700
+    name: 番茄酱
+    amount: 30
+    unit: g
+  - time: 20241030142700
+    name: 东棘沙棘原浆
+    amount: 25
+    unit: g
+
+  - time: 20241030142900
+    name: 石榴
+    amount: 180.0
+    unit: g
+
+  - time: 20241030143500
+    name: 土豆
+    amount: 150
+    unit: g
+  - time: 20241030143500
+    name: 香菇
+    amount: 15
+    unit: g
+  - time: 20241030143500
+    name: 腌鸡腿2410b
+    amount: 120
+    unit: g
+  - time: 20241030143500
+    name: 胡萝卜
+    amount: 110
+    unit: g
+  - time: 20241030143500
+    name: 大白菜
+    amount: 250
+    unit: g
+  - time: 20241030143500
+    name: 中盐低钠盐
+    amount: 1.5
+    unit: g
+  - time: 20241030143500
+    name: 油
+    amount: 0.5
+    unit: g
+
+  - time: 20241030150600
+    name: 伊利脱脂奶粉
+    amount: 20.0
+    unit: g
+
+  - time: 20241030185300
+    name: 龙丰果
+    amount: 65
+    unit: g
+
+  - time: 20241030185500
+    name: 山药豆
+    amount: 60
+    unit: g
+  - time: 20241030185500
+    name: 太谷壶瓶枣
+    amount: 25
+    unit: g
+  - time: 20241030185500
+    name: 黄田农场无花果干
+    amount: 15
+    unit: g
+  - time: 20241030185500
+    name: 鸡蛋
+    amount: 55.0
+    unit: g
+  - time: 20241030185500
+    name: 萝卜
+    amount: 300
+    unit: g
+  - time: 20241030185500
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20241030185500
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20241030185500
+    name: 香油
+    amount: 0.5
+    unit: g
+
+  - time: 20241030192500
+    name: 伊利脱脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20241030192500
+    name: 可可粉
+    amount: 0
+    unit: g
+water:
+  - time: 20241030083700
+    name: 开水
+    amount: 150
+    unit: ml
+
+  - time: 20241030093400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20241030100200
+    name: 汤水
+    amount: 480
+    unit: ml
+  - time: 20241030103300
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20241030110600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20241030121200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20241030124700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20241030150600
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20241030173100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20241030185500
+    name: 汤水
+    amount: 352
+    unit: ml
+  - time: 20241030192500
+    name: 可可奶
+    amount: 80.5
+    unit: ml
+  - time: 20241030222100
+    name: 开水
+    amount: 100
+    unit: ml
+med:
+  - time: 20241030103300
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20241030110600
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20241030110600
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20241030110600
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
