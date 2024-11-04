@@ -3,7 +3,7 @@ amount: 100
 unit: g
 element:
   热量:
-    amount: 899
+    amount: 898
     unit: kj
     nrv: 11
   蛋白质:

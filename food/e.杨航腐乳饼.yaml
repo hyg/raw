@@ -1,0 +1,24 @@
+name: 杨航腐乳饼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2086
+    unit: kj
+    nrv: 25
+  蛋白质:
+    amount: 8.7
+    unit: g
+    nrv: 15
+  脂肪:
+    amount: 31.9
+    unit: g
+    nrv: 53
+  碳水化合物:
+    amount: 44.6
+    unit: g
+    nrv: 18
+  钠:
+    amount: 168
+    unit: mg
+    nrv: 8
