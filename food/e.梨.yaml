@@ -3,12 +3,12 @@ amount: 100
 unit: g
 element:
   脂肪:
-    amount: 200
-    unit: mg
+    amount: 0.2
+    unit: g
     nrv: 0.3
   蛋白质:
-    amount: 400
-    unit: mg
+    amount: 0.4
+    unit: g
     nrv: 0.7
   碳水化合物:
     amount: 10.2

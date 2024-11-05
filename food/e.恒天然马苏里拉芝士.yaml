@@ -1,0 +1,24 @@
+name: 恒天然马苏里拉芝士
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 291
+    unit: kcal
+    nrv: 15
+  蛋白质:
+    amount: 20.6
+    unit: g
+    nrv: 34
+  脂肪:
+    amount: 23
+    unit: g
+    nrv: 38
+  碳水化合物:
+    amount: 0.7
+    unit: g
+    nrv: 0
+  钠:
+    amount: 393
+    unit: mg
+    nrv: 20
