@@ -1,0 +1,12 @@
+name: 烤甘薯2411a
+amount: 584.5
+unit: g
+food:
+  - name: 甘薯
+    amount: 779.5
+    unit: g
+log: |
+  1. 220°C+40分钟，中层。16:39
+  1. 230°C+20分钟，下层。17:27
+comment: |+
+  1. 小号可以试试220°C。

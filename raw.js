@@ -3,6 +3,7 @@ var yaml = require('js-yaml');
 var os = require('os');
 var child = require('child_process');
 const { report } = require('process');
+var convert = require('convert-units');
 //const { markAsUntransferable } = require('worker_threads');
 
 // log and basic data
@@ -177,14 +178,14 @@ function loadmap() {
         console.log("yaml read error！" + e);
     }
 
-/*     var sortelement = "膳食纤维";
-    let keysSorted = Object.keys(emap).sort(function (a, b) { return ((emap[b].element== null)?0:((emap[b].element[sortelement]== null)?0:emap[b].element[sortelement].amount)) - ((emap[a].element==null)?0:((emap[a].element[sortelement]== null)?0:emap[a].element[sortelement].amount))});
-
-    for (var j = 0; j < keysSorted.length; j++) {
-        //console.log("makeplan() > keysSorted[%d]: %s",j,keysSorted[j]);
-        var food = emap[keysSorted[j]];
-        console.log("%d:%s\t%d%s/%f%s",j,keysSorted[j],((emap[keysSorted[j]].element== null)?0:((emap[keysSorted[j]].element[sortelement]== null)?0:emap[keysSorted[j]].element[sortelement].amount)),((emap[keysSorted[j]].element==null)?"kcal":((emap[keysSorted[j]].element[sortelement]== null)?"kcal":emap[keysSorted[j]].element[sortelement].unit)),emap[keysSorted[j]].amount,emap[keysSorted[j]].unit);
-    } */
+    /*     var sortelement = "膳食纤维";
+        let keysSorted = Object.keys(emap).sort(function (a, b) { return ((emap[b].element== null)?0:((emap[b].element[sortelement]== null)?0:emap[b].element[sortelement].amount)) - ((emap[a].element==null)?0:((emap[a].element[sortelement]== null)?0:emap[a].element[sortelement].amount))});
+    
+        for (var j = 0; j < keysSorted.length; j++) {
+            //console.log("makeplan() > keysSorted[%d]: %s",j,keysSorted[j]);
+            var food = emap[keysSorted[j]];
+            console.log("%d:%s\t%d%s/%f%s",j,keysSorted[j],((emap[keysSorted[j]].element== null)?0:((emap[keysSorted[j]].element[sortelement]== null)?0:emap[keysSorted[j]].element[sortelement].amount)),((emap[keysSorted[j]].element==null)?"kcal":((emap[keysSorted[j]].element[sortelement]== null)?"kcal":emap[keysSorted[j]].element[sortelement].unit)),emap[keysSorted[j]].amount,emap[keysSorted[j]].unit);
+        } */
 
     /*
     // make the Nutritional composition table of mixtures
@@ -545,6 +546,18 @@ function maketable() {
 
 
     if (etable["热量"] != null) {
+        if(etable["脂肪"].unit != "g"){
+            etable["脂肪"].amount = convert(etable["脂肪"].amount).from(etable["脂肪"].unit).to('g');
+            etable["脂肪"].unit = "g";
+        }
+        if(etable["蛋白质"].unit != "g"){
+            etable["蛋白质"].amount = convert(etable["蛋白质"].amount).from(etable["蛋白质"].unit).to('g');
+            etable["蛋白质"].unit = "g";
+        }
+        if(etable["碳水化合物"].unit != "g"){
+            etable["碳水化合物"].amount = convert(etable["碳水化合物"].amount).from(etable["碳水化合物"].unit).to('g');
+            etable["碳水化合物"].unit = "g";
+        }
         console.log(">> 脂肪供能%d%%  碳水供能%d%%  蛋白质供能%d%% <<", (etable["脂肪"].amount * 9.0 * 100 / etable["热量"].amount).toFixed(2), (etable["碳水化合物"].amount * 4 * 100 / etable["热量"].amount).toFixed(2), (etable["蛋白质"].amount * 4 * 100 / etable["热量"].amount).toFixed(2));
         //console.log("名称\t\t总数量\t\t日均\t单位\tNRV(%)");
         let keysSorted = Object.keys(etable).sort(function (a, b) { return etable[a].nrv - etable[b].nrv })
@@ -866,6 +879,13 @@ function foodsum(foodname, foodamount, foodunit, etable, ftable) {
                 item.amount = item.amount * 0.239;
             }
 
+            /* console.log("e:"+e);
+            if(etable[e]!= undefined){
+                console.log("etable[e] before:%s %s",etable[e].amount,etable[e].unit);
+            }else{
+                console.log("etable[e] before is undefined");
+            } */
+            
             if (e in etable) {
                 /* console.log("foodsum()> e:",foodname,e);
                 if (item.unit != etable[e].unit) {
@@ -879,6 +899,7 @@ function foodsum(foodname, foodamount, foodunit, etable, ftable) {
                 // new element
                 etable[e] = item;
             }
+            //console.log("etable[e] after:%s %s",etable[e].amount,etable[e].unit);
 
             // detail data
             if (typeof Keyelement !== "undefined" && Keyelement !== null) {
@@ -887,7 +908,7 @@ function foodsum(foodname, foodamount, foodunit, etable, ftable) {
                     data["名称"] = foodname;
                     data["摄入数量"] = foodamount.toFixed(2) + foodunit;
                     data["含有" + Keyelement] = item.amount.toFixed(3) + item.unit;
-                    data["累计摄入"] = etable[e].amount.toFixed(3) + item.unit;
+                    data["累计摄入"] = etable[e].amount.toFixed(3) + etable[e].unit;
                     data["累计nrv"] = etable[e].nrv.toFixed(2) + "%";
 
                     Detailtable[keycnt++] = data;
@@ -1002,58 +1023,58 @@ function makeRfile() {
 
                 }
 
-                dBPM = d ;
+                dBPM = d;
                 if (bBPMFirst) {
                     if (hmap[day].wake.PRbpm != undefined) {
                         PRbpm1 = PRbpm1 + hmap[day].wake.PRbpm;
-                    }else{
+                    } else {
                         PRbpm1 = PRbpm1 + "NA";
                     }
-                    if ((hmap[day].exercise != undefined)&&(hmap[day].exercise[0].PRbpm != undefined)) {
+                    if ((hmap[day].exercise != undefined) && (hmap[day].exercise[0].PRbpm != undefined)) {
                         PRbpm2 = PRbpm2 + hmap[day].exercise[0].PRbpm;
-                    }else{
+                    } else {
                         PRbpm2 = PRbpm2 + "NA";
                     }
-                    if ((hmap[day].exercise != undefined)&&(hmap[day].exercise[0].endheartrate != undefined)) {
+                    if ((hmap[day].exercise != undefined) && (hmap[day].exercise[0].endheartrate != undefined)) {
                         endheartrate = endheartrate + hmap[day].exercise[0].endheartrate;
-                    }else{
+                    } else {
                         endheartrate = endheartrate + "NA";
                     }
-                    if ((hmap[day].exercise != undefined)&&(hmap[day].exercise[1] != undefined)&&(hmap[day].exercise[1].PRbpm != undefined)&&(hmap[day].exercise[1].item[0].type == "walk")) {
+                    if ((hmap[day].exercise != undefined) && (hmap[day].exercise[1] != undefined) && (hmap[day].exercise[1].PRbpm != undefined) && (hmap[day].exercise[1].item[0].type == "walk")) {
                         PRbpm3 = PRbpm3 + hmap[day].exercise[1].PRbpm;
-                    }else if ((hmap[day].exercise != undefined)&&(hmap[day].exercise[2] != undefined)&&(hmap[day].exercise[2].PRbpm != undefined)&&(hmap[day].exercise[2].item[0].type == "walk")) {
+                    } else if ((hmap[day].exercise != undefined) && (hmap[day].exercise[2] != undefined) && (hmap[day].exercise[2].PRbpm != undefined) && (hmap[day].exercise[2].item[0].type == "walk")) {
                         PRbpm3 = PRbpm3 + hmap[day].exercise[2].PRbpm;
-                    }else{
+                    } else {
                         PRbpm3 = PRbpm3 + "NA";
                     }
                     BPMcnt++;
                     bBPMFirst = false;
-                }else{
+                } else {
                     if (hmap[day].wake.PRbpm != undefined) {
                         PRbpm1 = PRbpm1 + "," + hmap[day].wake.PRbpm;
-                    }else{
+                    } else {
                         PRbpm1 = PRbpm1 + ",NA";
                     }
-                    if ((hmap[day].exercise != undefined)&&(hmap[day].exercise[0].PRbpm != undefined)) {
+                    if ((hmap[day].exercise != undefined) && (hmap[day].exercise[0].PRbpm != undefined)) {
                         PRbpm2 = PRbpm2 + "," + hmap[day].exercise[0].PRbpm;
-                    }else{
+                    } else {
                         PRbpm2 = PRbpm2 + ",NA";
                     }
-                    if ((hmap[day].exercise != undefined)&&(hmap[day].exercise[0].endheartrate != undefined)) {
+                    if ((hmap[day].exercise != undefined) && (hmap[day].exercise[0].endheartrate != undefined)) {
                         endheartrate = endheartrate + "," + hmap[day].exercise[0].endheartrate;
-                    }else{
+                    } else {
                         endheartrate = endheartrate + ",NA";
                     }
-                    if ((hmap[day].exercise != undefined)&&(hmap[day].exercise[1] != undefined)&&(hmap[day].exercise[1].PRbpm != undefined)&&(hmap[day].exercise[1].item[0].type == "walk")) {
+                    if ((hmap[day].exercise != undefined) && (hmap[day].exercise[1] != undefined) && (hmap[day].exercise[1].PRbpm != undefined) && (hmap[day].exercise[1].item[0].type == "walk")) {
                         PRbpm3 = PRbpm3 + "," + hmap[day].exercise[1].PRbpm;
-                    }else if ((hmap[day].exercise != undefined)&&(hmap[day].exercise[2] != undefined)&&(hmap[day].exercise[2].PRbpm != undefined)&&(hmap[day].exercise[2].item[0].type == "walk")) {
+                    } else if ((hmap[day].exercise != undefined) && (hmap[day].exercise[2] != undefined) && (hmap[day].exercise[2].PRbpm != undefined) && (hmap[day].exercise[2].item[0].type == "walk")) {
                         PRbpm3 = PRbpm3 + "," + hmap[day].exercise[2].PRbpm;
-                    }else{
+                    } else {
                         PRbpm3 = PRbpm3 + ",NA";
                     }
                     BPMcnt++;
                 }
-                
+
 
                 /* if (bBPMFirst) {
                     if (hmap[day].wake.PRbpm != undefined) {
