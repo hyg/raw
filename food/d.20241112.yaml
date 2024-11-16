@@ -83,12 +83,11 @@ food:
     name: 油
     amount: 3.5
     unit: g
-
-  - time: 20241112182500
+  - time: 20241112191500
     name: 奶粉
     amount: 20.0
     unit: g
-  - time: 20241112182500
+  - time: 20241112191500
     name: 可可粉
     amount: 5.0
     unit: g
@@ -121,12 +120,11 @@ water:
     name: 开水
     amount: 250
     unit: ml
-
-  - time: 20241112182500
+  - time: 20241112191500
     name: 可可奶
     amount: 80.0
     unit: ml
-  - time: 20241112184400
+  - time: 20241112214300
     name: 开水
     amount: 200
     unit: ml
@@ -135,6 +133,10 @@ med:
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
+  - time: 20241112151500
+    name: 维生素D3
+    amount: 125
+    unit: μg
   - time: 20241112151500
     name: selenium
     amount: 200

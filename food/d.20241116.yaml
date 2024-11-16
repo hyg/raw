@@ -1,0 +1,207 @@
+date: 20241116
+food:
+  - time: 20241116093600
+    name: 橙
+    amount: 159.5
+    unit: g
+  - time: 20241116093800
+    name: 馒头2411a
+    amount: 1
+    unit: 个
+  - time: 20241116093800
+    name: 立鹿红烧牛肉罐头
+    amount: 99.0
+    unit: g
+  - time: 20241116093800
+    name: 南瓜
+    amount: 63.5
+    unit: g
+  - time: 20241116093800
+    name: 西兰苔
+    amount: 149.0
+    unit: g
+  - time: 20241116095200
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20241116095200
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20241116095200
+    name: 麦胚芽
+    amount: 10.0
+    unit: g
+  - time: 20241116100300
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20241116131400
+    name: 番茄酱
+    amount: 40.5
+    unit: g
+  - time: 20241116131400
+    name: 百香果
+    amount: 39.0
+    unit: g
+  - time: 20241116131400
+    name: 臻妍益生菌冻干粉
+    amount: 3.0
+    unit: g
+  - time: 20241116131600
+    name: 烤甘薯2411a
+    amount: 45.0
+    unit: g
+  - time: 20241116131800
+    name: 丝麦耘麦芯粉
+    amount: 28.5
+    unit: g
+  - time: 20241116131800
+    name: 面团2411b
+    amount: 129.5
+    unit: g
+    log: |
+      - 冰鲜格取出面团是半软半硬，垫28.5g干面粉进蒸烤箱，发酵档30分钟。11:11
+      - 菜肉裹粉上胚，空箱、空盘预热 上下火230°C+10分钟。11:55
+      - 上下火+230°C+10分钟。12:07
+      - 奶酪上胚，上下火+220°C+5分钟，尽快取出。12:22
+  - time: 20241116131800
+    name: 洋葱
+    amount: 110.0
+    unit: g
+  - time: 20241116131800
+    name: 鸡腿肉
+    amount: 47.5
+    unit: g
+  - time: 20241116131800
+    name: 炸鸡裹粉
+    amount: 3.0
+    unit: g
+  - time: 20241116131800
+    name: 恒天然马苏里拉芝士
+    amount: 26.5
+    unit: g
+  - time: 20241116131800
+    name: 胡萝卜
+    amount: 48.0
+    unit: g
+  - time: 20241116131800
+    name: 大白菜
+    amount: 210.5
+    unit: g
+  - time: 20241116131800
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20241116131800
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20241116135000
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20241116182200
+    name: 柿子
+    amount: 123.5
+    unit: g
+  - time: 20241116182500
+    name: 会吃鸡蛋款竹升面
+    amount: 73.0
+    unit: g
+  - time: 20241116182500
+    name: 鸡蛋
+    amount: 46.0
+    unit: g
+  - time: 20241116182500
+    name: 油菜
+    amount: 98.0
+    unit: g
+  - time: 20241116182500
+    name: 中盐低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20241116182500
+    name: 鲜味王
+    amount: 1.5
+    unit: g
+  - time: 20241116182500
+    name: 香油
+    amount: 2.0
+    unit: g
+  - time: 20241116190000
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20241116190000
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20241116070200
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20241116091600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20241116100300
+    name: 咖啡
+    amount: 84.0
+    unit: ml
+  - time: 20241116102100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20241116111600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20241116120400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20241116135000
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20241116145600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20241116155700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20241116182500
+    name: 汤水
+    amount: 550
+    unit: ml
+  - time: 20241116190000
+    name: 可可奶
+    amount: 81.0
+    unit: ml
+  - time: 20241116212100
+    name: 开水
+    amount: 50
+    unit: ml
+med:
+  - time: 20241116100300
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20241116102100
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20241116102100
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20241116102100
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |

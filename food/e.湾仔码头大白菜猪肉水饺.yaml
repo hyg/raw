@@ -1,0 +1,24 @@
+name: 湾仔码头大白菜猪肉水饺
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 730
+    unit: kj
+    nrv: 9
+  蛋白质:
+    amount: 6.2
+    unit: g
+    nrv: 10
+  脂肪:
+    amount: 6.0
+    unit: g
+    nrv: 10
+  碳水化合物:
+    amount: 23.7
+    unit: g
+    nrv: 8
+  钠:
+    amount: 626
+    unit: mg
+    nrv: 31
