@@ -1,0 +1,88 @@
+name: 卷心菜
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 24
+    unit: kcal
+    nrv: 1.17
+  蛋白质:
+    amount: 1.2
+    unit: g
+    nrv: 1.34
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0.35
+  碳水化合物:
+    amount: 5.4
+    unit: g
+    nrv: 1.83
+  膳食纤维:
+    amount: 2.3
+    unit: g
+    nrv: 7.67
+  VA(视黄醇等):
+    amount: 6
+    unit: μg
+    nrv: 0.78
+  VB1(硫胺素):
+    amount: 0.05
+    unit: mg
+    nrv: 3.57
+  VB2(核黄素):
+    amount: 0.03
+    unit: mg
+    nrv: 2.14
+  VB3(烟酸):
+    amount: 0.3
+    unit: mg
+    nrv: 2
+  VB6(吡哆素):
+    amount: 0.09
+    unit: mg
+    nrv: 6.43
+  VB9(叶酸):
+    amount: 57
+    unit: μg
+    nrv: 14.25
+  VB12(钴胺素):
+    amount: 0
+    unit: μg
+    nrv: 0
+  VC(抗坏血酸):
+    amount: 42
+    unit: mg
+    nrv: 42
+  VD3(胆钙化醇):
+    amount: 0
+    unit: μg
+    nrv: 0
+  磷:
+    amount: 23
+    unit: mg
+    nrv: 3.24
+  钙:
+    amount: 47
+    unit: mg
+    nrv: 5.88
+  铁:
+    amount: 0.6
+    unit: mg
+    nrv: 5
+  钠:
+    amount: 18
+    unit: mg
+    nrv: 1.2
+  钾:
+    amount: 246
+    unit: mg
+    nrv: 12.3
+  镁:
+    amount: 15
+    unit: mg
+    nrv: 4.69
+  锌:
+    amount: 0.18
+    unit: mg
+    nrv: 1.5

@@ -1,0 +1,84 @@
+name: 青椒
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 27
+    unit: kcal
+    nrv: 1.32
+  蛋白质:
+    amount: 1.4
+    unit: g
+    nrv: 1.56
+  脂肪:
+    amount: 0.3
+    unit: g
+    nrv: 0.53
+  碳水化合物:
+    amount: 5.8
+    unit: g
+    nrv: 1.97
+  VA(视黄醇等):
+    amount: 57
+    unit: μg
+    nrv: 7.4
+  VE(生育酚):
+    amount: 0.88
+    unit: mg
+    nrv: 6.29
+  VB1(硫胺素):
+    amount: 0.03
+    unit: mg
+    nrv: 2.14
+  VB2(核黄素):
+    amount: 0.04
+    unit: mg
+    nrv: 2.86
+  VB3(烟酸):
+    amount: 0.5
+    unit: mg
+    nrv: 3.33
+  VC(抗坏血酸):
+    amount: 62
+    unit: mg
+    nrv: 62
+  磷:
+    amount: 33
+    unit: mg
+    nrv: 4.65
+  钙:
+    amount: 15
+    unit: mg
+    nrv: 1.88
+  铁:
+    amount: 0.7
+    unit: mg
+    nrv: 5.83
+  钠:
+    amount: 2
+    unit: mg
+    nrv: 0.13
+  钾:
+    amount: 209
+    unit: mg
+    nrv: 10.45
+  镁:
+    amount: 15
+    unit: mg
+    nrv: 4.69
+  锌:
+    amount: 0.22
+    unit: mg
+    nrv: 1.83
+  硒:
+    amount: 0.6
+    unit: μg
+    nrv: 1
+  铜:
+    amount: 0.11
+    unit: mg
+    nrv: 13.75
+  锰:
+    amount: 0.14
+    unit: mg
+    nrv: 3.11

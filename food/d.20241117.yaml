@@ -1,207 +1,193 @@
 date: 20241117
 food:
-  - time: 20241117093600
-    name: 橙
-    amount: 155
+  - time: 20241117053100
+    name: 番石榴
+    amount: 195.0
     unit: g
-
-  - time: 20241117093800
+  - time: 20241117053500
     name: 会吃鸡蛋款竹升面
-    amount: 75
+    amount: 131.5
     unit: g
-  - time: 20241117093800
+  - time: 20241117053500
     name: 立鹿红烧牛肉罐头
-    amount: 100
+    amount: 92
     unit: g
-  - time: 20241117093800
+  - time: 20241117053500
     name: 西兰苔
-    amount: 150
+    amount: 96.0
     unit: g
-
-  - time: 20241117095200
+  - time: 20241117055100
     name: 桑葚干
     amount: 10.0
     unit: g
-  - time: 20241117095200
+  - time: 20241117055100
     name: 亚麻籽
     amount: 5.0
     unit: g
-  - time: 20241117095200
+  - time: 20241117055100
     name: 麦胚芽
     amount: 10.0
     unit: g
-
-  - time: 20241117100300
+  - time: 20241117060000
     name: 奶粉
     amount: 20.0
     unit: g
-
-  - time: 20241117131400
+  - time: 20241117125300
     name: 番茄酱
-    amount: 30
+    amount: 31.0
     unit: g
-  - time: 20241117131400
-    name: 百香果
-    amount: 45
+  - time: 20241117125300
+    name: 东棘沙棘原浆
+    amount: 15.5
     unit: g
-  - time: 20241117131400
+  - time: 20241117125300
     name: 臻妍益生菌冻干粉
     amount: 3.0
+    unit: g  
+  - time: 20241117125700
+    name: 橙
+    amount: 73.0
     unit: g
-
-  - time: 20241117131600
-    name: 烤甘薯2411a
-    amount: 75
-    unit: g
-  - time: 20241117131800
+  - time: 20241117125900
     name: 丝麦耘麦芯粉
-    amount: 10
+    amount: 9
     unit: g
-  - time: 20241117131800
+  - time: 20241117125900
     name: 面团2411b
-    amount: 130
+    amount: 135.5
     unit: g
     log: |
-      - 冰鲜格取出面团是半软半硬，垫28.5g干面粉进蒸烤箱，发酵档30分钟。11:11
-      - 菜肉裹粉上胚，空箱、空盘预热 上下火230°C+10分钟。11:55
-      - 上下火+230°C+10分钟。12:07
-      - 奶酪上胚，上下火+220°C+5分钟，尽快取出。12:22
-  - time: 20241117131800
+      - 冷冻格取出面团，垫28.5g干面粉常温放置。08:15
+      - 菜肉裹粉上胚，空箱、空盘预热 上下火230°C+10分钟。11:20
+      - 上下火+蒸汽+230°C+10分钟。11:32
+      - 奶酪上胚，上下火+蒸汽+230°C+5分钟，尽快取出。12:22
+  - time: 20241117125900
     name: 洋葱
-    amount: 110.0
+    amount: 143.0
     unit: g
-  - time: 20241117131800
+  - time: 20241117125900
     name: 鸡腿肉
-    amount: 50
+    amount: 62.0
     unit: g
-  - time: 20241117131800
+  - time: 20241117125900
     name: 炸鸡裹粉
     amount: 3.0
     unit: g
-  - time: 20241117131800
+  - time: 20241117125900
     name: 恒天然马苏里拉芝士
-    amount: 35
+    amount: 36.0
     unit: g
-  - time: 20241117131800
+  - time: 20241117125900
     name: 胡萝卜
-    amount: 50
+    amount: 76.0
     unit: g
-  - time: 20241117131800
+  - time: 20241117125900
     name: 大白菜
-    amount: 210
+    amount: 126.0
     unit: g
-  - time: 20241117131800
+  - time: 20241117125900
     name: 中盐低钠盐
     amount: 1.0
     unit: g
-  - time: 20241117131800
+  - time: 20241117125900
     name: 油
     amount: 0.5
     unit: g
-
-  - time: 20241117135000
+  - time: 20241117133400
     name: 奶粉
     amount: 20.0
     unit: g
-
-  - time: 20241117182200
+  - time: 20241117193900
     name: 柿子
-    amount: 120
+    amount: 114.0
     unit: g
-
-  - time: 20241117182500
+  - time: 20241117194200
     name: 馒头2411b
     amount: 1
     unit: 个
-  - time: 20241117182500
+  - time: 20241117194200
     name: 鸡蛋
-    amount: 46.0
+    amount: 42.0
     unit: g
-  - time: 20241117182500
+  - time: 20241117194200
     name: 萝卜
-    amount: 200
+    amount: 226.0
     unit: g
-  - time: 20241117182500
+  - time: 20241117194200
     name: 中盐低钠盐
     amount: 1.0
     unit: g
-  - time: 20241117182500
+  - time: 20241117194200
     name: 鲜味王
     amount: 0.5
     unit: g
-  - time: 20241117182500
+  - time: 20241117194200
     name: 香油
-    amount: 0.5
-    unit: g
-
-  - time: 20241117190000
-    name: 奶粉
-    amount: 20.0
-    unit: g
-  - time: 20241117190000
-    name: 可可粉
-    amount: 4.0
+    amount: 1.0
     unit: g
 water:
   - time: 20241117050200
     name: 开水
     amount: 150
     unit: ml
-
-  - time: 20241117091600
+  - time: 20241117050800
     name: 开水
     amount: 250
     unit: ml
-  - time: 20241117100300
+  - time: 20241117053500
+    name: 汤水
+    amount: 500
+    unit: ml
+  - time: 20241117060000
     name: 咖啡
-    amount: 84.0
+    amount: 80.5
     unit: ml
-  - time: 20241117102100
+  - time: 20241117062800
     name: 开水
     amount: 250
     unit: ml
-  - time: 20241117111600
+  - time: 20241117073800
     name: 开水
     amount: 250
     unit: ml
-  - time: 20241117120400
+  - time: 20241117084700
     name: 开水
     amount: 250
     unit: ml
-  - time: 20241117135000
+  - time: 20241117104000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20241117133400
     name: 咖啡
     amount: 80.0
     unit: ml
-  - time: 20241117145600
+  - time: 20241117143500
     name: 开水
     amount: 250
     unit: ml
-  - time: 20241117155700
+  - time: 20241117154000
     name: 开水
     amount: 250
     unit: ml
-  - time: 20241117182500
+  - time: 20241117194200
     name: 汤水
-    amount: 550
-    unit: ml
-  - time: 20241117190000
-    name: 可可奶
-    amount: 81.0
+    amount: 300
     unit: ml
   - time: 20241117212100
     name: 开水
     amount: 50
     unit: ml
 med:
-  - time: 20241117100300
+  - time: 20241117060000
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
-  - time: 20241117102100
+  - time: 20241117062800
     name: selenium
     amount: 200
     unit: μg
-  - time: 20241117102100
+  - time: 20241117062800
     name: mature multi
     amount: 1
     unit: 片

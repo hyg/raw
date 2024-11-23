@@ -593,6 +593,7 @@ function maketable() {
                 for (var param in DRIs.element[name]) {
                     if ((param != "unit") && (DRIs.element[name][param] != null) && (DRIs.element[name][param] != "")) {
                         item[param] = (DRIs.element[name][param] * r).toFixed(2);
+                        //item[param] = convert(DRIs.element[name][param]).from(DRIs.element[name].unit).to(etable[name].unit).toFixed(2);
                         //item[param] = parseFloat((DRIs.element[name][param] * r).toFixed(2));
                         item[param + "(%)"] = parseFloat((100 * item["日均"] / item[param]).toFixed(2));
                     }
