@@ -1,18 +1,18 @@
-date: 20241201
+date: 20241202
 sleep: 
-  time: 20241201001500
-  weight: 53.3
+  time: 20241201225400
+  weight: 53.0
 wake:
-  time: 20241201062500
-  weight: 52.4
+  time: 20241202085100
+  weight: 52.2
   SpO2: 95
-  PRbpm: 70
+  PRbpm: 62
   log: |
     睡觉中间没有起来小便，不需要补水。
-    一直戴帽。起床后穿抓绒秋裤、抓绒长裤、短袖polo、羽绒背心、薄运动服、夏袜。
-    运动后加羽绒裤，薄运动服换薄羽绒服。
+    一直戴帽。起床后穿抓绒秋裤、羽绒裤、抓绒长裤、长袖秋衣、薄运动服、夏袜。
+    运动后薄运动服换薄羽绒服。
 exercise: 
-- time: 20241201065500
+- time: 20241202092100
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -29,15 +29,16 @@ exercise:
   - type: 腹部拉伸(Cobra Pose) + 颈部拉伸*5
     amount: 5
     unit: set
-  SpO2: 97
-  PRbpm: 88
-  endheartrate: 93
+  SpO2: 99
+  PRbpm: 94
+  endheartrate: 94
   log: |
-    室内运动后把脉:关脉中偏浅、尺脉寸脉深度中；侧向居中；三处清晰有力。
+    室内运动后把脉:关脉中偏浅、尺脉寸脉深度中；侧向居中；寸脉关脉清晰有力、尺脉清晰。
 stool:
-- time: 20241201091000
+- time: 20241202091000
   amount:   2   #	1:多; 2:适中;	3:少
   type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log: |
+  - 睡觉时鼻塞。
 comment: |

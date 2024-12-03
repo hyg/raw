@@ -1,0 +1,20 @@
+name: 景兰冻干黑咖啡
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1590
+    unit: kj
+    nrv: 19
+  蛋白质:
+    amount: 19.3
+    unit: g
+    nrv: 32
+  碳水化合物:
+    amount: 74.2
+    unit: g
+    nrv: 25
+  钠:
+    amount: 189
+    unit: mg
+    nrv: 9

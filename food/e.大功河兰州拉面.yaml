@@ -1,0 +1,20 @@
+name: 大功河兰州拉面
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1534
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 11.7
+    unit: g
+    nrv: 19
+  脂肪:
+    amount: 0.8
+    unit: g
+    nrv: 1
+  碳水化合物:
+    amount: 76.8
+    unit: g
+    nrv: 26
