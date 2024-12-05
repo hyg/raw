@@ -1,0 +1,24 @@
+name: 康大熏香兔前腿
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 646
+    unit: kj
+    nrv: 8
+  蛋白质:
+    amount: 20.3
+    unit: g
+    nrv: 34.0
+  脂肪:
+    amount: 7.8
+    unit: g
+    nrv: 13
+  碳水化合物:
+    amount: 0.7
+    unit: g
+    nrv: 0
+  钠:
+    amount: 1050
+    unit: mg
+    nrv: 53

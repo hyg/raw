@@ -1,0 +1,53 @@
+date: 20241205
+sleep: 
+  time: 20241204215600
+  weight: 52.9
+wake:
+  time: 20241205121600
+  weight: 51.5
+  SpO2: 95
+  PRbpm: 63
+  log: |
+    湿度下降没有加湿措施，睡下后上颚后端发干，有浓痰覆盖。一点后才睡着，睡着前小便2次，睡觉中间没有起来小便，需要补水2次。
+    一直戴帽。起床后穿抓绒秋裤、抓绒长裤、长袖秋衣、羽绒背心、薄运动服、冬袜。
+    运动后加羽绒裤，薄运动服换薄羽绒服。
+exercise: 
+- time: 20241205103000
+  item:
+  - type: 大拉伸(Greatest Stretch)
+    amount: 1
+    unit: turn
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: 超人敬礼*5 + 鸟狗式(birddog)*10 + 俯卧撑(push-ups)*5
+    amount: 2 
+    unit: set
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: 腹部拉伸(Cobra Pose) + 颈部拉伸*5
+    amount: 5
+    unit: set
+  SpO2: 98
+  PRbpm: 88
+  endheartrate: 93
+  log: |
+    室内运动后把脉:关脉中偏浅、尺脉寸脉深度中；侧向居中；尺脉清晰有力、关脉寸脉清晰。
+- time: 20241205093700
+  item:
+  - type: walk
+    amount: 26
+    unit: minute
+  SpO2: 95
+  PRbpm: 127
+  log: |
+    室外运动时换羽绒背心、单外套、棒球帽，回到室内恢复。
+stool:
+- time: 20241205150000
+  amount:   1   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+log: |
+  - 睡觉时鼻塞。
+comment: |
