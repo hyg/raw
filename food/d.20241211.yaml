@@ -2,32 +2,26 @@ date: 20241211
 food:
   - time: 20241211115200
     name: 苹果
-    amount: 169.0
+    amount: 170
     unit: g
+
   - time: 20241211115800
     name: 予锦黄金糕
-    amount: 104.5
+    amount: 105
     unit: g
   - time: 20241211115800
     name: 南瓜
-    amount: 74.0
+    amount: 75
     unit: g
   - time: 20241211115800
     name: 秋葵
-    amount: 132.0
+    amount: 120
     unit: g
-  - time: 20241211121200
-    name: 鸡腿肉
-    amount: 80.0
+  - time: 20241211115800
+    name: 海旺冻金枪鱼块
+    amount: 90
     unit: g
-  - time: 20241211121200
-    name: 香菇
-    amount: 10.0
-    unit: g
-  - time: 20241211121200
-    name: 枸杞
-    amount: 5.0
-    unit: g
+
   - time: 20241211121700
     name: 桑葚干
     amount: 10.0
@@ -40,22 +34,19 @@ food:
     name: 麦胚芽
     amount: 10.0
     unit: g
+
   - time: 20241211122400
     name: 奶粉
     amount: 20.0
     unit: g
   - time: 20241211122400
-    name: 景兰冻干黑咖啡
-    amount: 1.0
-    unit: g
+    name: 瑞幸冷萃咖啡液
+    amount: 0.5
+    unit: 份
 
   - time: 20241211172500
     name: 番茄酱
     amount: 30
-    unit: g
-  - time: 20241211172500
-    name: 东棘沙棘原浆
-    amount: 25.0
     unit: g
   - time: 20241211172500
     name: 百香果
@@ -75,8 +66,8 @@ food:
     amount: 30
     unit: g
   - time: 20241211172700
-    name: 松板肉
-    amount: 50
+    name: 腌松板肉2412a
+    amount: 90
     unit: g
   - time: 20241211172700
     name: 大白菜
@@ -100,9 +91,9 @@ food:
     amount: 20.0
     unit: g
   - time: 20241211175300
-    name: 景兰冻干黑咖啡
-    amount: 1.0
-    unit: g
+    name: 瑞幸冷萃咖啡液
+    amount: 0.5
+    unit: 份
 
   - time: 20241211190000
     name: 橙
@@ -120,6 +111,10 @@ food:
   - time: 20241211193000
     name: 红豆
     amount: 30
+    unit: g
+  - time: 20241211193000
+    name: 太谷壶瓶枣
+    amount: 10
     unit: g
   - time: 20241211193000
     name: 鸡蛋
@@ -140,16 +135,16 @@ food:
     
   - time: 20241211200000
     name: 奶粉
-    amount: 20
+    amount: 20.0
     unit: g
   - time: 20241211200000
     name: 可可粉
-    amount: 4
+    amount: 4.0
     unit: g
 water:
-  - time: 20241211154000
+  - time: 20241211101700
     name: 开水
-    amount: 160
+    amount: 150
     unit: ml
 
   - time: 20241211113600
@@ -172,7 +167,6 @@ water:
     name: 开水
     amount: 250
     unit: ml
-
   - time: 20241211143900
     name: 开水
     amount: 250
@@ -193,9 +187,9 @@ water:
     name: 开水
     amount: 250
     unit: ml
-  - time: 20241211201900
-    name: 开水
-    amount: 250
+  - time: 20241211200000
+    name: 可可奶
+    amount: 80.0
     unit: ml
   - time: 20241211205900
     name: 开水
