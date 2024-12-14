@@ -1,0 +1,64 @@
+name: 羊蹄筋
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 159
+    unit: kcal
+    nrv: 7.76
+  蛋白质:
+    amount: 34.3
+    unit: g
+    nrv: 38.24
+  脂肪:
+    amount: 2.4
+    unit: g
+    nrv: 4.21
+  VB2(核黄素):
+    amount: 0.1
+    unit: mg
+    nrv: 7.14
+  VB3(烟酸):
+    amount: 1.2
+    unit: mg
+    nrv: 8
+  磷:
+    amount: 39
+    unit: mg
+    nrv: 5.49
+  钙:
+    amount: 16
+    unit: mg
+    nrv: 2
+  铁:
+    amount: 3.1
+    unit: mg
+    nrv: 25.83
+  钠:
+    amount: 150
+    unit: mg
+    nrv: 10
+  钾:
+    amount: 74
+    unit: mg
+    nrv: 3.7
+  镁:
+    amount: 5
+    unit: mg
+    nrv: 1.56
+  锌:
+    amount: 1.64
+    unit: mg
+    nrv: 13.67
+  硒:
+    amount: 3.6
+    unit: μg
+    nrv: 6
+  铜:
+    amount: 0.1
+    unit: mg
+    nrv: 12.5
+  锰:
+    amount: 0.12
+    unit: mg
+    nrv: 2.67

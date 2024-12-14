@@ -1,0 +1,24 @@
+name: 源口黄金糕
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1210
+    unit: kj
+    nrv: 14
+  蛋白质:
+    amount: 2.1
+    unit: g
+    nrv: 4
+  脂肪:
+    amount: 3.4
+    unit: g
+    nrv: 6
+  碳水化合物:
+    amount: 61.7
+    unit: g
+    nrv: 21
+  钠:
+    amount: 19
+    unit: mg
+    nrv: 1

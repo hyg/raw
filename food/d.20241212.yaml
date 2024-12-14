@@ -87,11 +87,11 @@ food:
     name: 油
     amount: 1.0
     unit: g
-  - time: 2024121213500
+  - time: 20241212135000
     name: 奶粉
     amount: 20.0
     unit: g
-  - time: 2024121213500
+  - time: 20241212135000
     name: 瑞幸冷萃咖啡液
     amount: 0.5
     unit: 份
@@ -168,11 +168,11 @@ water:
     name: 开水
     amount: 250
     unit: ml
-  - time: 2024121213500
+  - time: 20241212135000
     name: 咖啡
     amount: 80.5
     unit: ml
-  - time: 2024121214700
+  - time: 20241212145700
     name: 开水
     amount: 250
     unit: ml

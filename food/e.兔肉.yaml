@@ -1,0 +1,74 @@
+name: 兔肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 136
+    unit: kcal
+    nrv: 6.63
+  蛋白质:
+    amount: 20
+    unit: g
+    nrv: 22.3
+  脂肪:
+    amount: 5.6
+    unit: g
+    nrv: 9.83
+  VB1(硫胺素):
+    amount: 0.1
+    unit: mg
+    nrv: 7.14
+  VB2(核黄素):
+    amount: 0.15
+    unit: mg
+    nrv: 10.71
+  VB3(烟酸):
+    amount: 7.27
+    unit: mg
+    nrv: 48.47
+  VB6(吡哆素):
+    amount: 0.5
+    unit: mg
+    nrv: 35.71
+  VB9(叶酸):
+    amount: 8
+    unit: μg
+    nrv: 2
+  VB12(钴胺素):
+    amount: 7.16
+    unit: μg
+    nrv: 298.33
+  磷:
+    amount: 213
+    unit: mg
+    nrv: 30
+  钙:
+    amount: 13
+    unit: mg
+    nrv: 1.63
+  铁:
+    amount: 1.6
+    unit: mg
+    nrv: 13.33
+  钠:
+    amount: 41
+    unit: mg
+    nrv: 2.73
+  钾:
+    amount: 330
+    unit: mg
+    nrv: 16.5
+  镁:
+    amount: 19
+    unit: mg
+    nrv: 5.94
+  锌:
+    amount: 1.57
+    unit: mg
+    nrv: 13.08
+comment: |
+  - 综合考虑后，选用美国数据。
+  - 美国：http://www.eshian.com/yyss/3990.html
+  - 日本：http://www.eshian.com/yyss/18301.html
+  - 瑞典：http://www.eshian.com/yyss/19223.html
+  - 中国：http://www.eshian.com/yyss/465.html
