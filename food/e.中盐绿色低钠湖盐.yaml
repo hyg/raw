@@ -1,0 +1,12 @@
+name: 中盐绿色低钠湖盐
+amount: 100
+unit: g
+element:
+  钠:
+    amount: 26356
+    unit: mg
+    nrv: 1318
+  钾:
+    amount: 13111
+    unit: mg
+    nrv: 656

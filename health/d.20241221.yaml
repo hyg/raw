@@ -1,18 +1,19 @@
-date: 20241217
+date: 20241221
 sleep: 
-  time: 20241217014400
-  weight: 52.5
+  time: 20241221015800
+  weight: 52.6
 wake:
-  time: 20241217124400
-  weight: 51.5
-  SpO2: 94
+  time: 20241221153200
+  weight: 51.6
+  SpO2: 95
   PRbpm: 64
   log: |
-    大约3点睡着，睡觉中间起来小便2次，不需要补水。
+    睡觉中间起来小便3次，不需要补水。
     一直戴帽。起床后穿抓绒秋裤、抓绒长裤、短袖polo、羽绒背心、薄运动服、冬袜。
     运动后加羽绒裤，薄运动服换T300。
+    第二餐之前加上长袖秋衣，因为T300袖子太宽。戴薄棉手套，沾水时在外面再套橡胶手套。
 exercise: 
-- time: 20241217132000
+- time: 20241221160100
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -29,15 +30,16 @@ exercise:
   - type: 腹部拉伸(Cobra Pose) + 颈部拉伸*5
     amount: 5
     unit: set
-  SpO2: 98
-  PRbpm: 110
-  endheartrate: 107
+  SpO2: 99
+  PRbpm: 93
+  endheartrate: 89
   log: |
     室内运动后把脉:寸脉关脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
 stool:
-- time: 20241217143800
+- time: 20241221175000
   amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log: |
+  - 戴手套备餐。
 comment: |

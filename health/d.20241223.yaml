@@ -1,0 +1,54 @@
+date: 20241223
+sleep: 
+  time: 20241222234200
+  weight: 53.8
+wake:
+  time: 20241223151400
+  weight: 51.8
+  SpO2: 94
+  PRbpm: 59
+  log: |
+    1点多到7点多是醒着的，睡觉中间起来小便4次，不需要补水。
+    起床后穿抓绒秋裤、抓绒长裤、长袖polo、羽绒背心、薄运动服、夏袜。
+    运动前加穿厚袜，运动后加羽绒裤，薄运动服换T300。
+    备餐时处理生鲜食材戴手套。增加一副手套戴着处理熟食水果餐具。
+exercise: 
+- time: 20241223143000
+  item:
+  - type: 大拉伸(Greatest Stretch)
+    amount: 1
+    unit: turn
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: 超人敬礼*5 + 鸟狗式(birddog)*10 + 俯卧撑(push-ups)*5
+    amount: 2 
+    unit: set
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: 腹部拉伸(Cobra Pose) + 颈部拉伸*5
+    amount: 5
+    unit: set
+  SpO2: 98
+  PRbpm: 83
+  endheartrate: 89
+  log: |
+    室内运动后把脉:关脉中偏浅、尺脉深度中、寸脉开始中偏浅后来深度中；侧向居中；三处清晰有力。
+- time: 20241223093700
+  item:
+  - type: walk
+    amount: 26
+    unit: minute
+  SpO2: 95
+  PRbpm: 127
+  log: |
+    室外运动时换羽绒背心、单外套、棒球帽，回到室内恢复。
+stool:
+- time: 20241223175000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
+log: |
+  - 昨晚手沾冷水后，低温血液流入头脑，前额、太阳穴跳动，鼻尖和后脑勺发僵。
+comment: |
