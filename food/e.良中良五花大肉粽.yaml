@@ -1,0 +1,24 @@
+name: 良中良五花大肉粽
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1107
+    unit: kj
+    nrv: 13
+  蛋白质:
+    amount: 5.6
+    unit: g
+    nrv: 9
+  脂肪:
+    amount: 8.5
+    unit: g
+    nrv: 14
+  碳水化合物:
+    amount: 41.0
+    unit: g
+    nrv: 14
+  钠:
+    amount: 319
+    unit: mg
+    nrv: 16
