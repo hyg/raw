@@ -1,0 +1,24 @@
+name: 老母家江米条
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2149
+    unit: kj
+    nrv: 26
+  蛋白质:
+    amount: 4.3
+    unit: g
+    nrv: 7
+  脂肪:
+    amount: 27.8
+    unit: g
+    nrv: 46
+  碳水化合物:
+    amount: 61.6
+    unit: g
+    nrv: 21
+  钠:
+    amount: 10
+    unit: mg
+    nrv: 1

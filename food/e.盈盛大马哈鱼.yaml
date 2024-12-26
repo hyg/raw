@@ -1,0 +1,16 @@
+name: 盈盛大马哈鱼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 242
+    unit: kj
+    nrv: 2.8
+  蛋白质:
+    amount: 12
+    unit: g
+    nrv: 13.4
+  脂肪:
+    amount: 1.0
+    unit: g
+    nrv: 1.8
