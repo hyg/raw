@@ -22,10 +22,6 @@ element:
     amount: 3
     unit: mg
     nrv: 0
-  灰分:
-    amount: 1.2
-    unit: g
-    nrv: 0
   膳食纤维:
     amount: 4.2
     unit: g

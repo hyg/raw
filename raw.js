@@ -523,6 +523,7 @@ function maketable() {
     var NRV = yaml.load(fs.readFileSync(NRVfilename));
     var DRIsfilename = "food/DRIs." + NRV.DRIs + ".yaml";
     var DRIs = yaml.load(fs.readFileSync(DRIsfilename));
+    //console.log("DRIsfilename:",DRIsfilename);
 
     // put NRV data into DRIs
     for (var element in NRV.element) {
@@ -532,6 +533,7 @@ function maketable() {
             console.log("maketalbe() > unit different between NRV and DRIs: " + element);
         }
     }
+    //console.log("DRIs.element[\"VB12(钴胺素)\"].RNI:",DRIs.element["VB12(钴胺素)"].RNI);
 
     //console.log("maketable()> DRIs:\n"+yaml.dump(DRIs));
     //console.log("maketable()> etable:\n"+yaml.dump(etable));
@@ -575,10 +577,11 @@ function maketable() {
                     etable[name].unit = "mg";
                     etable[name].amount = etable[name].amount * 1000;
                 }
+                //console.log("etable[name].amount:",etable[name].amount)
             }
             item["单位"] = etable[name].unit;
             item["总量"] = etable[name].amount.toFixed(2);
-            item["日均"] = parseFloat((etable[name].amount / daycnt).toFixed(2));
+            item["日均"] = parseFloat((etable[name].amount / daycnt).toFixed(3));
             item["NRV(%)"] = parseFloat((etable[name].nrv / daycnt).toFixed(2));
             //console.log("maketable()> unit: "+ etable[name].unit);
 
@@ -586,25 +589,29 @@ function maketable() {
                 var r;
                 if ((fRate[DRIs.element[name].unit] !== undefined) && (fRate[DRIs.element[name].unit][etable[name].unit] !== undefined)) {
                     r = fRate[DRIs.element[name].unit][etable[name].unit];
+                    //console.log("DRIs.element[name].unit:",DRIs.element[name].unit);
+                    //console.log("etable[name].unit:",etable[name].unit);
                 } else {
                     console.log("maketalbe() > unit different between etable and DRIs: " + name + " [" + DRIs.element[name].unit + "] [" + etable[name].unit + "] " + fRate[DRIs.element[name].unit] + " " + fRate[DRIs.element[name].unit][etable[name].unit]);
                 }
 
                 for (var param in DRIs.element[name]) {
                     if ((param != "unit") && (DRIs.element[name][param] != null) && (DRIs.element[name][param] != "")) {
-                        item[param] = (DRIs.element[name][param] * r).toFixed(2);
+                        item[param] = (DRIs.element[name][param] * r).toFixed(3);
                         //item[param] = convert(DRIs.element[name][param]).from(DRIs.element[name].unit).to(etable[name].unit).toFixed(2);
                         //item[param] = parseFloat((DRIs.element[name][param] * r).toFixed(2));
                         item[param + "(%)"] = parseFloat((100 * item["日均"] / item[param]).toFixed(2));
                     }
                 }
+
+                //console.log(r,item);
             } else {
                 //console.log("maketable()> can't find it in DRIs: "+name);
             }
             elementtable[name] = item;
         }
         //console.table(elementtable, ["总量", "日均", "单位", "NRV(%)", "RNI", "RNI(%)", "AI", "AI(%)", "UL", "UL(%)", "PI_NCD", "SPL"]);
-        console.table(elementtable, ["日均", "单位", "NRV(%)", "RNI", "RNI(%)", "AI", "AI(%)", "UL", "UL(%)", "PI_NCD", "SPL"]);
+        console.table(elementtable, ["总量","日均", "单位", "NRV(%)", "RNI", "RNI(%)", "AI", "AI(%)", "UL", "UL(%)", "PI_NCD", "SPL"]);
     } else {
         console.log("all food have not element data...");
     }
