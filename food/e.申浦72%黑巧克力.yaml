@@ -1,0 +1,24 @@
+name: 申浦72%黑巧克力
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2425
+    unit: kj
+    nrv: 29
+  蛋白质:
+    amount: 9.5
+    unit: g
+    nrv: 16
+  脂肪:
+    amount: 42.8
+    unit: g
+    nrv: 71
+  碳水化合物:
+    amount: 40.0
+    unit: g
+    nrv: 13
+  钠:
+    amount: 52
+    unit: mg
+    nrv: 3

@@ -1,0 +1,24 @@
+name: 胶地人红豆饼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1756
+    unit: kj
+    nrv: 21
+  蛋白质:
+    amount: 6.8
+    unit: g
+    nrv: 11
+  脂肪:
+    amount: 19.8
+    unit: g
+    nrv: 33
+  碳水化合物:
+    amount: 53.4
+    unit: g
+    nrv: 18
+  钠:
+    amount: 19
+    unit: mg
+    nrv: 1

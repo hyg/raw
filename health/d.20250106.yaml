@@ -1,0 +1,37 @@
+date: 20250106
+sleep: 
+  time: 20250106115400
+  weight: 52.8
+wake:
+  time: 20250106180600
+  weight: 52.3
+  SpO2: 96
+  PRbpm: 65
+  log: |
+    不需要补水，睡觉中间没有起来小便。
+    备餐时处理生鲜食材戴手套。
+exercise: 
+- time: 20250106183600
+  item:
+  - type: 大拉伸(Greatest Stretch)
+    amount: 1
+    unit: turn
+  - type: 坐姿转体扭腰(Core Twist) 
+    amount: 20
+    unit: turn
+  - type: 超人敬礼*5 + 鸟狗式(birddog)*10 + 俯卧撑(push-ups)*5
+    amount: 2 
+    unit: set
+  - type: 仰卧直腿触足卷腹(straight leg toe touches)*10 + 坐位体前屈(Sit and Reach)*10
+    amount: 5
+    unit: set
+  - type: 腹部拉伸(Cobra Pose) + 颈部拉伸*5
+    amount: 5
+    unit: set
+  SpO2: 98
+  PRbpm: 88
+  endheartrate: 95
+  log: |
+    室内运动后把脉: 寸脉深度浅、关脉中偏浅、尺脉深度中；侧向居中；关脉尺脉清晰有力、寸脉清晰有力但是空洞、按下一点就消失。
+log: |
+comment: |

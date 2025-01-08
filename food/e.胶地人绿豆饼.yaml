@@ -1,0 +1,24 @@
+name: 胶地人绿豆饼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1859
+    unit: kj
+    nrv: 22
+  蛋白质:
+    amount: 7.8
+    unit: g
+    nrv: 13
+  脂肪:
+    amount: 22.3
+    unit: g
+    nrv: 37
+  碳水化合物:
+    amount: 53.0
+    unit: g
+    nrv: 18
+  钠:
+    amount: 13
+    unit: mg
+    nrv: 1
