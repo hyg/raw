@@ -54,10 +54,6 @@ element:
     amount: 9.4
     unit: μg
     nrv: 391.67
-  VC(抗坏血酸):
-    amount: .nan
-    unit: mg
-    nrv: .nan
   VD3(胆钙化醇):
     amount: 33
     unit: μg
