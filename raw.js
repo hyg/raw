@@ -568,7 +568,7 @@ function maketable() {
             var name = keysSorted[i];
             var item = new Object();
             item["营养成分"] = name;
-            //console.log("maketable()> name:"+name);
+            // console.log("maketable()> name:"+name);
             if ((etable[name].unit == "g") && (etable[name].amount < 1)) {
                 if (etable[name].amount < 0.001) {
                     etable[name].unit = "μg";

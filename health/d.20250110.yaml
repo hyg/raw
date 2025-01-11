@@ -11,7 +11,7 @@ wake:
     不需要补水，睡觉中间起来小便1次。
     备餐时处理生鲜食材戴手套。
 exercise: 
-- time: 2025011022300
+- time: 20250110022300
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -39,5 +39,4 @@ stool:
   type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log: |
-  - 天亮前后开始感到鼻酸、太阳穴和后脑勺发胀。吃一包银黄颗粒。
 comment: |
