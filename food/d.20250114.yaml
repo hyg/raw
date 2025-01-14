@@ -1,0 +1,190 @@
+date: 20250114
+food:
+  - time: 20250114063300
+    name: 猕猴桃
+    amount: 93.0
+    unit: g
+  - time: 20250114063500
+    name: 东昂玉米面条
+    amount: 60.0
+    unit: g
+  - time: 20250114063500
+    name: 黄心菜
+    amount: 118.0
+    unit: g
+  - time: 20250114063500
+    name: 卤羊腩筋2412b
+    amount: 37.0
+    unit: g
+  - time: 20250114063500
+    name: 油
+    amount: 5.0
+    unit: g
+  - time: 20250114065000
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20250114065000
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20250114065000
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20250114065700
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250114065700
+    name: 瑞幸冷萃咖啡液
+    amount: 0.5
+    unit: 份
+  - time: 20250114121500
+    name: 番茄酱
+    amount: 27.0
+    unit: g
+  - time: 20250114121500
+    name: 百香果
+    amount: 85.0
+    unit: g
+  - time: 20250114115200
+    name: 面团2412c
+    amount: 127.5
+    unit: g
+  - time: 20250114115200
+    name: 丝麦耘麦芯粉
+    amount: 8.0
+    unit: g
+  - time: 20250114115200
+    name: 腌猪肉2501a
+    amount: 53.0
+    unit: g
+  - time: 20250114115200
+    name: 恒天然马苏里拉芝士
+    amount: 30.0
+    unit: g
+    log: |
+      - 加肉，不预热、上层、上下火、140°C+30分钟；
+      - 加奶酪、上层、上下火、180°C+5分钟。
+      - 下次第二阶段可以试试160°C。
+  - time: 20250114115200
+    name: 黄心菜
+    amount: 308.0
+    unit: g
+  - time: 20250114115200
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250114115200
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20250114121500
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250114121500
+    name: 瑞幸冷萃咖啡液
+    amount: 0.5
+    unit: 份
+  - time: 20250114195700
+    name: 柿子
+    amount: 91.5
+    unit: g
+  - time: 20250114214800
+    name: 东昂玉米面条
+    amount: 96.0
+    unit: g
+  - time: 20250114214800
+    name: 卤牛窝骨2501a
+    amount: 65.0
+    unit: g
+  - time: 20250114214800
+    name: 黄心菜
+    amount: 135.0
+    unit: g
+  - time: 20250114220700
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250114220700
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20250114052600
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20250114061200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250114063500
+    name: 汤水
+    amount: 400
+    unit: ml
+  - time: 20250114065700
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20250114071300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250114075100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250114094100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250114104600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250114121500
+    name: 咖啡
+    amount: 81.5
+    unit: ml
+  - time: 20250114161000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250114183100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250114214800
+    name: 汤水
+    amount: 300
+    unit: ml
+  - time: 20250114220700
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20250114223800
+    name: 开水
+    amount: 150
+    unit: ml
+med:
+  - time: 20250114065700
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20250114071300
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20250114071300
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20250114071300
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
