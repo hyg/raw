@@ -1,0 +1,24 @@
+name: 牛佰仕马苏里拉奶酪
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1260
+    unit: kj
+    nrv: 15
+  蛋白质:
+    amount: 30.0
+    unit: g
+    nrv: 50
+  脂肪:
+    amount: 22
+    unit: g
+    nrv: 37
+  碳水化合物:
+    amount: 0.6
+    unit: g
+    nrv: 0
+  钠:
+    amount: 240
+    unit: mg
+    nrv: 12

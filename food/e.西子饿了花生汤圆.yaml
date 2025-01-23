@@ -1,0 +1,24 @@
+name: 西子饿了花生汤圆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1146
+    unit: kj
+    nrv: 14
+  蛋白质:
+    amount: 3.7
+    unit: g
+    nrv: 6
+  脂肪:
+    amount: 10.1
+    unit: g
+    nrv: 17
+  碳水化合物:
+    amount: 44.2
+    unit: g
+    nrv: 15
+  钠:
+    amount: 0
+    unit: "mg"
+    nrv: 0

@@ -1,0 +1,24 @@
+name: 西子饿了黑芝麻汤圆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1122
+    unit: kj
+    nrv: 13
+  蛋白质:
+    amount: 4.7
+    unit: g
+    nrv: 8
+  脂肪:
+    amount: 8.5
+    unit: g
+    nrv: 14
+  碳水化合物:
+    amount: 41.2
+    unit: g
+    nrv: 14
+  钠:
+    amount: 71
+    unit: "mg"
+    nrv: 4

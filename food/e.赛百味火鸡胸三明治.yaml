@@ -1,0 +1,24 @@
+name: 赛百味火鸡胸三明治
+amount: 1
+unit: 个
+element:
+  热量:
+    amount: 270
+    unit: kcal
+    nrv: 13.8
+  蛋白质:
+    amount: 22
+    unit: g
+    nrv: 25.8
+  脂肪:
+    amount: 4
+    unit: g
+    nrv: 7.4
+  碳水化合物:
+    amount: 40
+    unit: g
+    nrv: 14.3
+  钠:
+    amount: 840
+    unit: mg
+    nrv: 56

@@ -1,0 +1,134 @@
+date: 20250121
+food:
+  - time: 20250121074000
+    name: 苹果
+    amount: 120
+    unit: g
+  - time: 20250121085000
+    name: 鸡蛋
+    amount: 50
+    unit: g
+  - time: 20250121085000
+    name: 生菜
+    amount: 200
+    unit: g
+  - time: 20250121085000
+    name: 小米
+    amount: 30
+    unit: g
+  - time: 20250121085000
+    name: 腊肠
+    amount: 30
+    unit: g
+  - time: 20250121085000
+    name: 面团2412c
+    amount: 60
+    unit: g
+  - time: 20250121085000
+    name: 馒头2501a
+    amount: 0.5
+    unit: 个
+  - time: 20250121085000
+    name: 牛佰仕马苏里拉奶酪
+    amount: 20
+    unit: g
+  - time: 20250121090000
+    name: 奶粉
+    amount: 20
+    unit: g
+  - time: 202501211200000
+    name: 豆泡
+    amount: 60
+    unit: g
+  - time: 202501211200000
+    name: 鸡肉
+    amount: 100
+    unit: g
+  - time: 202501211200000
+    name: 猪肉
+    amount: 100
+    unit: g
+  - time: 202501211200000
+    name: 木薯
+    amount: 100
+    unit: g
+  - time: 202501211190000
+    name: 大米
+    amount: 50
+    unit: g
+  - time: 202501211190000
+    name: 胡萝卜
+    amount: 80
+    unit: g
+  - time: 202501211190000
+    name: 韩三顺辣白菜
+    amount: 50
+    unit: g
+  - time: 202501211190000
+    name: 五花肉
+    amount: 80
+    unit: g
+  - time: 202501211190000
+    name: 枸杞
+    amount: 4
+    unit: g
+  - time: 202501211190000
+    name: 番茄酱
+    amount: 40
+    unit: g
+  - time: 202501211190000
+    name: 百香果
+    amount: 40
+    unit: g
+water:
+  - time: 20250121070100
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20250121072700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250121053700
+    name: 粥水
+    amount: 50
+    unit: ml
+  - time: 20250121090000
+    name: 咖啡
+    amount: 90
+    unit: ml
+  - time: 20250121092000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250121095000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250121143600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250121160000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250121180000
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20250121092500
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20250121092500
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20250121092500
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |

@@ -1,0 +1,106 @@
+date: 20250120
+food:
+  - time: 20250120074000
+    name: 苹果
+    amount: 120
+    unit: g
+  - time: 20250120085000
+    name: 鸡蛋
+    amount: 50
+    unit: g
+  - time: 20250120085000
+    name: 生菜
+    amount: 200
+    unit: g
+  - time: 20250120085000
+    name: 小米
+    amount: 30
+    unit: g
+  - time: 20250120085000
+    name: 福正宫魔芋燕麦鸡胸肉蒸饺
+    amount: 120
+    unit: g
+  - time: 20250120095000
+    name: 奶粉
+    amount: 20
+    unit: g
+  - time: 20250120125000
+    name: 西子饿了花生汤圆
+    amount: 100
+    unit: g
+  - time: 20250120125000
+    name: 福正宫魔芋燕麦鸡胸肉蒸饺
+    amount: 150
+    unit: g
+  - time: 20250120125000
+    name: 奶粉
+    amount: 20
+    unit: g
+  - time: 20250120185000
+    name: 圆白菜
+    amount: 150
+    unit: g
+  - time: 20250120185000
+    name: 猪肉
+    amount: 150
+    unit: g
+  - time: 20250120185000
+    name: 腊肠
+    amount: 100
+    unit: g
+  - time: 20250120095000
+    name: 奶粉
+    amount: 20
+    unit: g
+water:
+  - time: 20250120070500
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20250120074000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250120053700
+    name: 粥水
+    amount: 50
+    unit: ml
+  - time: 20250120095000
+    name: 咖啡
+    amount: 100
+    unit: ml
+  - time: 20250120125000
+    name: 牛奶
+    amount: 100
+    unit: ml
+  - time: 20250120143000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250120152700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250120212800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250120225000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250120233000
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20250120092500
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20250120092500
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |

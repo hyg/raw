@@ -1,0 +1,80 @@
+name: 小米
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 361
+    unit: kcal
+    nrv: 17.61
+  蛋白质:
+    amount: 9
+    unit: g
+    nrv: 10.03
+  脂肪:
+    amount: 3.1
+    unit: g
+    nrv: 5.44
+  碳水化合物:
+    amount: 75.1
+    unit: g
+    nrv: 25.48
+  VA(视黄醇等):
+    amount: 17
+    unit: μg
+    nrv: 2.21
+  VE(生育酚):
+    amount: 3.63
+    unit: mg
+    nrv: 25.93
+  VB1(硫胺素):
+    amount: 0.33
+    unit: mg
+    nrv: 23.57
+  VB2(核黄素):
+    amount: 0.1
+    unit: mg
+    nrv: 7.14
+  VB3(烟酸):
+    amount: 1.5
+    unit: mg
+    nrv: 10
+  磷:
+    amount: 229
+    unit: mg
+    nrv: 32.25
+  钙:
+    amount: 41
+    unit: mg
+    nrv: 5.13
+  铁:
+    amount: 5.1
+    unit: mg
+    nrv: 42.5
+  钠:
+    amount: 4
+    unit: mg
+    nrv: 0.27
+  钾:
+    amount: 284
+    unit: mg
+    nrv: 14.2
+  镁:
+    amount: 107
+    unit: mg
+    nrv: 33.44
+  锌:
+    amount: 1.87
+    unit: mg
+    nrv: 15.58
+  硒:
+    amount: 4.7
+    unit: μg
+    nrv: 7.83
+  铜:
+    amount: 0.54
+    unit: mg
+    nrv: 67.5
+  锰:
+    amount: 0.89
+    unit: mg
+    nrv: 19.78

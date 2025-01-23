@@ -1,0 +1,24 @@
+name: 凤城鸡仔饼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2170
+    unit: kj
+    nrv: 26
+  蛋白质:
+    amount: 6.4
+    unit: g
+    nrv: 11
+  脂肪:
+    amount: 29.4
+    unit: g
+    nrv: 49
+  碳水化合物:
+    amount: 57.3
+    unit: g
+    nrv: 19
+  钠:
+    amount: 287
+    unit: mg
+    nrv: 14

@@ -1,0 +1,125 @@
+date: 20250117
+food:
+  - time: 20250117054200
+    name: 猕猴桃
+    amount: 73.5
+    unit: g
+  - time: 20250117054400
+    name: 艾糍2412a
+    amount: 2
+    unit: 个
+  - time: 20250117054400
+    name: 南瓜
+    amount: 80.0
+    unit: g
+  - time: 20250117054400
+    name: 西兰苔
+    amount: 115.0
+    unit: g
+  - time: 20250117054400
+    name: 黄田农场无花果干
+    amount: 13.5
+    unit: g
+  - time: 20250117054400
+    name: 腌猪肉2501a
+    amount: 46.0
+    unit: g
+    log: |
+      - 不预热、上下火、上层、160°C+15分钟；
+      - 翻面、上下火、上层、160°C+5分钟。
+  - time: 20250117054400
+    name: 中盐绿色低钠湖盐
+    amount: 0.5
+    unit: g
+  - time: 20250117054400
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20250117060400
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20250117060400
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20250117060400
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20250117061300
+    name: 奶粉
+    amount: 20.5
+    unit: g
+  - time: 20250117061300
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+  - time: 20250117125500
+    name: 赛百味火鸡胸三明治
+    amount: 1
+    unit: 个
+  - time: 20250117125500
+    name: 面团2412c
+    amount: 200
+    unit: g
+  - time: 20250117125500
+    name: 鸡腿肉
+    amount: 80
+    unit: g
+water:
+  - time: 20250117044200
+    name: 开水
+    amount: 222
+    unit: ml
+  - time: 20250117052900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250117061300
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20250117062400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250117113200
+    name: 茶水
+    amount: 500
+    unit: ml
+  - time: 20250117135000
+    name: 茶水
+    amount: 250
+    unit: ml
+  - time: 20250117143500
+    name: 茶水
+    amount: 250
+    unit: ml
+  - time: 20250117160900
+    name: 茶水
+    amount: 250
+    unit: ml
+  - time: 20250117113200
+    name: 矿泉水
+    amount: 513
+    unit: ml
+  - time: 20250117113200
+    name: 矿泉水
+    amount: 513
+    unit: ml
+med:
+  - time: 20250117061300
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20250117062400
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20250117062400
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
