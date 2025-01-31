@@ -1,0 +1,17 @@
+name: 腌猪肉2501b
+amount: 322.5
+unit: g
+food:
+  - name: 猪前腿肉
+    amount: 271.5
+    unit: g
+  - name: 豆瓣酱
+    amount: 20.0
+    unit: g
+  - name: 蜂蜜
+    amount: 10.0
+    unit: g
+log: |
+  - 料酒21.0g
+comment: |
+  
