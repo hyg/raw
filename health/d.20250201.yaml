@@ -1,16 +1,16 @@
-date: 20250131
+date: 20250201
 sleep: 
-  time: 20250130225400
-  weight: 53.8
+  time: 20250201010200
+  weight: 53.9
 wake:
-  time: 20250131110100
-  weight: 52.7
+  time: 20250201110400
+  weight: 53.0
   SpO2: 94
-  PRbpm: 70
+  PRbpm: 72
   log: |
-    不需要补水，睡觉中间起来小便2次。
+    不需要补水，睡觉中间没有起来小便。
 exercise: 
-- time: 20250131113700
+- time: 20250201113700
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -32,9 +32,20 @@ exercise:
   endheartrate: 94
   log: |
     室内运动后把脉: 关脉中偏浅、寸脉尺脉深度中；侧向居中；三处清晰有力。
+- time: 20250201110000
+  item:
+  - type: walk
+    amount: 60
+    unit: minute
+  SpO2: 96
+  PRbpm: 110
+stool:
+- time: 202502011114000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
 log: |
   - 昨天下午开始身上发冷，鼻腔发干。
   - 睡觉时右鼻孔偶尔堵塞，起床后擤出黄鼻涕，伴有少量干鼻屎。
   - 早餐前运动是右鼻孔有鼻涕，擤出来后通畅。
-  - 白天一直流清鼻涕，cpr检测阴性。
 comment: |
