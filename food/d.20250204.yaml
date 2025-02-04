@@ -2,28 +2,30 @@ date: 20250204
 food:
   - time: 20250204120700
     name: 南果梨
-    amount: 79.0
+    amount: 80
+    unit: g
+
+  - time: 20250204120900
+    name: 大功河兰州拉面
+    amount: 80
     unit: g
   - time: 20250204120900
-    name: 馒头2501b
+    name: 黄心菜
+    amount: 150
+    unit: g
+  - time: 20250204120900
+    name: 卤牛窝骨2501b
+    amount: 40
+    unit: g
+  - time: 20250204120900
+    name: 中盐绿色低钠湖盐
     amount: 1
-    unit: 个
-  - time: 20250204120900
-    name: 南瓜
-    amount: 62.0
     unit: g
   - time: 20250204120900
-    name: 腌猪肉2501b
-    amount: 61.0
+    name: 鲜味王
+    amount: 1
     unit: g
-  - time: 20250204120900
-    name: 西兰花
-    amount: 102.5
-    unit: g
-  - time: 20250204122000
-    name: 益品香陈皮鸡仔饼
-    amount: 21.5
-    unit: g
+
   - time: 20250204122000
     name: 桑葚干
     amount: 10.0
@@ -36,6 +38,7 @@ food:
     name: 亚麻籽
     amount: 5.0
     unit: g
+
   - time: 20250204123300
     name: 奶粉
     amount: 20.0
@@ -60,32 +63,20 @@ food:
     unit: g
 
   - time: 20250204161200
-    name: 大米
-    amount: 70.0
-    unit: g
-  - time: 20250204161200
-    name: 胡萝卜
-    amount: 50
+    name: 面团2502a
+    amount: 145
     unit: g
   - time: 20250204161200
     name: 番茄酱
-    amount: 10
+    amount: 5
     unit: g
   - time: 20250204161200
-    name: 韩三顺辣白菜
-    amount: 10
+    name: 牛佰仕马苏里拉奶酪
+    amount: 20
     unit: g
   - time: 20250204161200
-    name: 十三村干酵腐乳
-    amount: 3
-    unit: g
-  - time: 20250204161200
-    name: 枸杞
-    amount: 5.0
-    unit: g
-  - time: 20250204161200
-    name: 卤牛窝骨2501b
-    amount: 45
+    name: 腌猪肉2501b
+    amount: 40
     unit: g
   - time: 20250204161200
     name: 乌塌菜
@@ -152,10 +143,6 @@ food:
     unit: g
 
   - time: 20250204193200
-    name: 申浦72%黑巧克力
-    amount: 0
-    unit: g
-  - time: 20250204193200
     name: 奶粉
     amount: 20.0
     unit: g
@@ -164,7 +151,7 @@ food:
     amount: 4.0
     unit: g
 water:
-  - time: 20250204105700
+  - time: 20250204105800
     name: 开水
     amount: 150
     unit: ml
@@ -199,6 +186,10 @@ water:
     name: 开水
     amount: 250
     unit: ml
+  - time: 20250204191200
+    name: 粥水
+    amount: 400
+    unit: ml
   - time: 20250204193200
     name: 可可奶
     amount: 80.0
@@ -216,13 +207,9 @@ med:
     name: selenium
     amount: 200
     unit: μg
-
-
   - time: 20250204132900
     name: mature multi
     amount: 1
     unit: 片
-
-
 log: |
 comment: |
