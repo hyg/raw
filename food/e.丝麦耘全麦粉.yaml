@@ -1,0 +1,24 @@
+name: 丝麦耘全麦粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1432
+    unit: kj
+    nrv: 17
+  蛋白质:
+    amount: 16.5
+    unit: g
+    nrv: 28
+  脂肪:
+    amount: 2.2
+    unit: g
+    nrv: 4
+  碳水化合物:
+    amount: 60.0
+    unit: g
+    nrv: 20
+  膳食纤维:
+    amount: 6.3
+    unit: g
+    nrv: 25

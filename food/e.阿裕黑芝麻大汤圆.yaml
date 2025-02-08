@@ -1,0 +1,24 @@
+name: 阿裕黑芝麻大汤圆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1024
+    unit: kj
+    nrv: 12
+  蛋白质:
+    amount: 3.0
+    unit: g
+    nrv: 5
+  脂肪:
+    amount: 7.1
+    unit: g
+    nrv: 12
+  碳水化合物:
+    amount: 41.8
+    unit: g
+    nrv: 14
+  钠:
+    amount: 12
+    unit: mg
+    nrv: 1

@@ -1,0 +1,150 @@
+date: 20250207
+food:
+  - time: 20250207154500
+    name: 南果梨
+    amount: 70.5
+    unit: g
+  - time: 20250207154800
+    name: 阿婆阿嬷大肉粽
+    amount: 181.0
+    unit: g
+  - time: 20250207154800
+    name: 南瓜
+    amount: 74.5
+    unit: g
+  - time: 20250207154800
+    name: 西兰苔
+    amount: 183.5
+    unit: g
+  - time: 20250207155800
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20250207155800
+    name: 麦胚芽
+    amount: 15
+    unit: g
+  - time: 20250207155800
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20250207161600
+    name: 奶粉
+    amount: 40.0
+    unit: g
+  - time: 20250207161600
+    name: 瑞幸冷萃咖啡液
+    amount: 1
+    unit: 份
+  - time: 20250207231400
+    name: 番茄酱
+    amount: 24.0
+    unit: g
+  - time: 20250207231400
+    name: 柿子
+    amount: 97.0
+    unit: g
+  - time: 20250207231800
+    name: 番石榴
+    amount: 145.5
+    unit: g
+  - time: 20250207232000
+    name: 大米
+    amount: 60.0
+    unit: g
+  - time: 20250207232000
+    name: 胡萝卜
+    amount: 46.0
+    unit: g
+  - time: 20250207232000
+    name: 韩三顺辣白菜
+    amount: 11.0
+    unit: g
+  - time: 20250207232000
+    name: 枸杞
+    amount: 5.0
+    unit: g
+  - time: 20250207232000
+    name: 番茄酱
+    amount: 12.0
+    unit: g
+  - time: 20250207232000
+    name: 卤牛窝骨2501b
+    amount: 47.0
+    unit: g
+  - time: 20250207232000
+    name: 乌塌菜
+    amount: 274.0
+    unit: g
+  - time: 20250207232000
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250207232000
+    name: 油
+    amount: 1.0
+    unit: g
+  - time: 20250207234000
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250207234000
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20250207134100
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20250207153300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250207161600
+    name: 咖啡
+    amount: 160.0
+    unit: ml
+  - time: 20250207165100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250207175200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250207191800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250207205700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250207234000
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20250208004600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250208015700
+    name: 开水
+    amount: 200
+    unit: ml
+med:
+  - time: 20250207161600
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20250207165100
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20250207165100
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |

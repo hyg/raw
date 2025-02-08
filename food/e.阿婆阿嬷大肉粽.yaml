@@ -1,0 +1,24 @@
+name: 阿婆阿嬷大肉粽
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1002
+    unit: kj
+    nrv: 12
+  蛋白质:
+    amount: 6.8
+    unit: g
+    nrv: 11
+  脂肪:
+    amount: 4.9
+    unit: g
+    nrv: 8
+  碳水化合物:
+    amount: 41.5
+    unit: g
+    nrv: 14
+  钠:
+    amount: 498
+    unit: mg
+    nrv: 25

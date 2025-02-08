@@ -1,16 +1,16 @@
-date: 20250205
+date: 20250208
 sleep: 
-  time: 20250205030700
-  weight: 53.5
+  time: 20250208034300
+  weight: 53.4
 wake:
-  time: 20250205125600
-  weight: 52.9
-  SpO2: 94
-  PRbpm: 66
+  time: 20250208143300
+  weight: 52.4
+  SpO2: 95
+  PRbpm: 73
   log: |
     不需要补水，睡觉中间没有起来小便。
 exercise: 
-- time: 20250205132500
+- time: 20250208150200
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -27,12 +27,12 @@ exercise:
   - type: 腹部拉伸(Cobra Pose) + 颈部拉伸*5
     amount: 5
     unit: set
-  SpO2: 99
-  PRbpm: 106
-  endheartrate: 88
+  SpO2: 98
+  PRbpm: 110
+  endheartrate: 98
   log: |
-    室内运动后把脉: 关脉寸脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
-- time: 20250205110000
+    室内运动后把脉: 关脉寸脉中偏浅、尺脉深度中；侧向居中；关脉寸脉清晰有力、尺脉清晰。
+- time: 20250208110000
   item:
   - type: walk
     amount: 60
@@ -40,10 +40,9 @@ exercise:
   SpO2: 96
   PRbpm: 110
 stool:
-- time: 202502051555000
-  amount:   1   #	1:多; 2:适中;	3:少
+- time: 202502081640000
+  amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log: |
-  - 起床刷牙后用温水洗脸，左鼻孔继续擤出褐色凝胶状鼻涕。
 comment: |
