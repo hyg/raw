@@ -1,0 +1,24 @@
+name: 莲香楼鸡仔饼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2141
+    unit: kj
+    nrv: 25
+  蛋白质:
+    amount: 6.0
+    unit: g
+    nrv: 10
+  脂肪:
+    amount: 29.1
+    unit: g
+    nrv: 48
+  碳水化合物:
+    amount: 56.6
+    unit: g
+    nrv: 19
+  钠:
+    amount: 462
+    unit: mg
+    nrv: 23
