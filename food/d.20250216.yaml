@@ -11,7 +11,7 @@ food:
     unit: 个
   - time: 20250216110500
     name: 腌松板肉2502a
-    amount: 50
+    amount: 60
     unit: g
   - time: 20250216110500
     name: 西兰苔
@@ -59,7 +59,7 @@ food:
 
   - time: 20250216154600
     name: 大米
-    amount: 70.0
+    amount: 80.0
     unit: g
   - time: 20250216154600
     name: 胡萝卜
@@ -70,8 +70,8 @@ food:
     amount: 5.0
     unit: g
   - time: 20250216154600
-    name: 腌松板肉2502a
-    amount: 50
+    name: 卤牛窝骨2502a
+    amount: 65
     unit: g
   - time: 20250216154600
     name: 十三村干酵腐乳

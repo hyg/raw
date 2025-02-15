@@ -10,7 +10,7 @@ wake:
   log: |
     不需要补水，睡觉中间起来小便2次。
 exercise: 
-- time: 20250215103000
+- time: 20250215113300
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -27,11 +27,11 @@ exercise:
   - type: 腹部拉伸(Cobra Pose) + 颈部拉伸*5
     amount: 5
     unit: set
-  SpO2: 99
-  PRbpm: 93
-  endheartrate: 90
+  SpO2: 97
+  PRbpm: 90
+  endheartrate: 97
   log: |
-    室内运动后把脉: 寸脉关脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
+    室内运动后把脉: 寸脉关脉中偏浅、尺脉深度中；侧向居中；寸脉关脉清晰有力、尺脉清晰。
 - time: 20250215110000
   item:
   - type: walk
@@ -40,8 +40,8 @@ exercise:
   SpO2: 96
   PRbpm: 110
 stool:
-- time: 20250215122700
-  amount:   2   #	1:多; 2:适中;	3:少
+- time: 20250215205000
+  amount:   1   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log: |
