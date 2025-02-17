@@ -100,54 +100,19 @@ food:
     name: 可可粉
     amount: 4.0
     unit: g
-
-  - time: 20250217191300
+  - time: 20250217211800
     name: 香蕉
-    amount: 75.5
+    amount: 80.0
     unit: g
-
-  - time: 20250217191500
-    name: 大米
-    amount: 30.0
+  - time: 20250217213300
+    name: 阿裕猪油汤圆
+    amount: 162.5
     unit: g
-  - time: 20250217191500
-    name: 红豆
-    amount: 10.0
-    unit: g
-  - time: 20250217191500
-    name: 黑青稞
-    amount: 30.0
-    unit: g
-  - time: 20250217191500
-    name: 太谷壶瓶枣
-    amount: 20.0
-    unit: g
-  - time: 20250217191500
-    name: 鸡蛋
-    amount: 47.0
-    unit: g
-  - time: 20250217191500
-    name: 大白菜
-    amount: 150
-    unit: g
-  - time: 20250217191500
-    name: 中盐绿色低钠湖盐
-    amount: 1.5
-    unit: g
-  - time: 20250217191500
-    name: 鲜味王
-    amount: 0.5
-    unit: g
-  - time: 20250217191500
-    name: 油
-    amount: 0.5
-    unit: g 
-
-  - time: 20250217194500
+  - time: 20250217215500
     name: 奶粉
     amount: 20.0
     unit: g
-  - time: 20250217194500
+  - time: 20250217215500
     name: 可可粉
     amount: 4.0
     unit: g
@@ -184,18 +149,17 @@ water:
     name: 茶水
     amount: 250
     unit: ml
-
-  - time: 20250217191500
-    name: 粥水
-    amount: 400
+  - time: 20250217213300
+    name: 汤水
+    amount: 510
     unit: ml
-  - time: 20250217194500
+  - time: 20250217215500
     name: 可可奶
-    amount: 80.0
+    amount: 81.5
     unit: ml
-  - time: 20250217201500
+  - time: 20250217234000
     name: 开水
-    amount: 50
+    amount: 250
     unit: ml
 med:
   - time: 20250217150100
