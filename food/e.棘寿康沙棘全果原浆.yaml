@@ -1,0 +1,36 @@
+name: 棘寿康沙棘全果原浆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 364
+    unit: kj
+    nrv: 5
+  蛋白质:
+    amount: 1.2
+    unit: g
+    nrv: 2
+  脂肪:
+    amount: 2.4
+    unit: g
+    nrv: 4
+  碳水化合物:
+    amount: 15.0
+    unit: g
+    nrv: 5
+  钠:
+    amount: 14
+    unit: mg
+    nrv: 1
+  VC(抗坏血酸):
+    amount: 388
+    unit: mg
+    nrv: 388
+  VE(生育酚):
+    amount: 3.28
+    unit: mg
+    nrv: 23
+  胡萝卜素:
+    amount: 0.81
+    unit: mg
+    nrv: 0

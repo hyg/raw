@@ -1,0 +1,234 @@
+date: 20250220
+food:
+  - time: 20250220091300
+    name: 番石榴
+    amount: 156.0
+    unit: g
+  - time: 20250220091500
+    name: 馒头2502b
+    amount: 1
+    unit: 个
+  - time: 20250220091500
+    name: 腌松板肉2502a
+    amount: 38.5
+    unit: g
+  - time: 20250220091500
+    name: 大白菜
+    amount: 135.0
+    unit: g
+  - time: 20250220091500
+    name: 南瓜
+    amount: 82.5
+    unit: g
+  - time: 20250220091500
+    name: 中盐绿色低钠湖盐
+    amount: 0.5
+    unit: g
+  - time: 20250220093000
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20250220093000
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20250220093000
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20250220093900
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250220093900
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+  - time: 20250220150500
+    name: 番茄酱
+    amount: 24.0
+    unit: g
+  - time: 20250220150500
+    name: 东棘沙棘原浆
+    amount: 15.0
+    unit: g
+  - time: 20250220150600
+    name: 香蕉
+    amount: 66.5
+    unit: g
+  - time: 20250220150900
+    name: 大米
+    amount: 70.0
+    unit: g
+  - time: 20250220150900
+    name: 胡萝卜
+    amount: 102.0
+    unit: g
+  - time: 20250220150900
+    name: 枸杞
+    amount: 3.0
+    unit: g
+  - time: 20250220150900
+    name: 卤牛窝骨2502a
+    amount: 19.5
+    unit: g
+  - time: 20250220150900
+    name: 腌松板肉2502a
+    amount: 26.0
+    unit: g
+  - time: 20250220150900
+    name: 十三村干酵腐乳
+    amount: 3.0
+    unit: g
+  - time: 20250220150900
+    name: 番茄酱
+    amount: 10.5
+    unit: g
+  - time: 20250220150900
+    name: 大白菜
+    amount: 281.0
+    unit: g
+  - time: 20250220150900
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250220150900
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20250220150900
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20250220152200
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250220152200
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+  - time: 20250220191200
+    name: 桔柚
+    amount: 91.5
+    unit: g
+  - time: 20250220191500
+    name: 大米
+    amount: 30.0
+    unit: g
+  - time: 20250220191500
+    name: 黑青稞
+    amount: 30.0
+    unit: g
+  - time: 20250220191500
+    name: 太谷壶瓶枣
+    amount: 29.5
+    unit: g
+  - time: 20250220191500
+    name: 鸡蛋
+    amount: 41.5
+    unit: g
+  - time: 20250220191500
+    name: 大白菜
+    amount: 145.0
+    unit: g
+  - time: 20250220191500
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250220191500
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20250220191500
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20250220193600
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250220193600
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20250220081100
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20250220090100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250220093900
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20250220101800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250220120300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250220131200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250220152200
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20250220153800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250220170200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250220191500
+    name: 粥水
+    amount: 400
+    unit: ml
+  - time: 20250220193600
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20250220195100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250220231900
+    name: 开水
+    amount: 200
+    unit: ml
+med:
+  - time: 20250220093900
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20250220101800
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20250220101800
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20250220101800
+    name: mature multi
+    amount: 1
+    unit: 片
+  - time: 20250220153800
+    name: 银黄颗粒
+    amount: 7.5
+    unit: g
+  - time: 20250220195100
+    name: 银黄颗粒
+    amount: 7.5
+    unit: g
+log: |
+comment: |
