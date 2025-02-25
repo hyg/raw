@@ -1,0 +1,26 @@
+name: 瑞幸每日黑咖醇香中深烘焙
+amount: 1
+unit: 份
+element:
+  热量:
+    amount: 31
+    unit: kj
+    nrv: 0
+  蛋白质:
+    amount: 0.4
+    unit: g
+    nrv: 1
+  脂肪:
+    amount: 0.1
+    unit: g
+    nrv: 0
+  碳水化合物:
+    amount: 1.2
+    unit: g
+    nrv: 0
+  钠:
+    amount: 1
+    unit: g
+    nrv: 0
+comment: |+
+  每份约2.0g。

@@ -1,0 +1,107 @@
+date: 20250224
+food:
+  - time: 20250224161000
+    name: 番石榴
+    amount: 150.0
+    unit: g
+  - time: 20250224161300
+    name: 馒头2502b
+    amount: 1
+    unit: 个
+  - time: 20250224161300
+    name: 卤牛窝骨2502a
+    amount: 74.0
+    unit: g
+  - time: 20250224161300
+    name: 西兰苔
+    amount: 141.5
+    unit: g
+  - time: 20250224161300
+    name: 南瓜
+    amount: 68.0
+    unit: g
+  - time: 20250224161300
+    name: 黄田农场无花果干
+    amount: 13.0
+    unit: g
+  - time: 20250224162900
+    name: 锦文鸡仔饼
+    amount: 44.0
+    unit: g
+  - time: 20250224162900
+    name: 徽韵棠原味黄山烧饼
+    amount: 24.5
+    unit: g
+    comment: 实际是肉光饼，没有营养成分表。
+  - time: 20250224162900
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20250224162900
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20250224162900
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20250224164400
+    name: 奶粉
+    amount: 30.0
+    unit: g
+  - time: 20250224164400
+    name: 瑞幸每日黑咖浓郁深度烘焙
+    amount: 1
+    unit: 份
+water:
+  - time: 20250224142900
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20250224154000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250224164400
+    name: 咖啡
+    amount: 120.0
+    unit: ml
+  - time: 20250224170500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250224191100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250224200400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250224211100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250224224800
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20250224164400
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20250224165100
+    name: 盐酸氨溴索
+    amount: 60
+    unit: mg
+  - time: 20250224170500
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20250224170500
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
