@@ -1,0 +1,13 @@
+name: 炖鱼肉2503a
+amount: 388.0
+unit: g
+food:
+  - name: 红大马哈鱼
+    amount: 269.0
+    unit: g
+  - name: 邕味佳酸豆角
+    amount: 40.0
+    unit: g
+log: |
+  - 高压锅40分钟档。
+comment: |
