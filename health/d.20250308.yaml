@@ -1,10 +1,10 @@
 date: 20250308
 sleep: 
-  time: 20250306221600
-  weight: 54.9
+  time: 20250307224500
+  weight: 54.7
 wake:
-  time: 20250308114900
-  weight: 53.8
+  time: 20250308123000
+  weight: 53.5
   SpO2: 94
   PRbpm: 58
   log: |

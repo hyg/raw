@@ -32,15 +32,8 @@ exercise:
   endheartrate: 98
   log: |
     室内运动后把脉: 关脉寸脉中偏浅、尺脉深度中；侧向居中；寸、三处清晰有力。
-- time: 20250307110000
-  item:
-  - type: walk
-    amount: 60
-    unit: minute
-  SpO2: 98
-  PRbpm: 110
 stool:
-- time: 20250307103500
+- time: 20250307220000
   amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
