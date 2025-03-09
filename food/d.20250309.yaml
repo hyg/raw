@@ -1,0 +1,198 @@
+date: 20250309
+food:
+  - time: 20250309113900
+    name: 猕猴桃
+    amount: 98.5
+    unit: g
+  - time: 20250309114100
+    name: 艾糍2503a
+    amount: 1
+    unit: 个
+  - time: 20250309114100
+    name: 腌松板肉2502b
+    amount: 40.5
+    unit: g
+  - time: 20250309114100
+    name: 西兰苔
+    amount: 146.5
+    unit: g
+  - time: 20250309114100
+    name: 南瓜
+    amount: 63.5
+    unit: g
+  - time: 20250309120000
+    name: 桑葚干
+    amount: 10.0
+    unit: g
+  - time: 20250309120000
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20250309120000
+    name: 亚麻籽
+    amount: 5.0
+    unit: g
+  - time: 20250309121000
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250309121000
+    name: 瑞幸每日黑咖醇香中深烘焙
+    amount: 0.5
+    unit: 份
+
+  - time: 20250309165900
+    name: 番茄酱
+    amount: 30
+    unit: g
+  - time: 20250309165900
+    name: 东棘沙棘原浆
+    amount: 15
+    unit: g
+  - time: 20250309165900
+    name: 艾斯蔗菊粉  
+    amount: 5.0
+    unit: g
+
+  - time: 20250309170100
+    name: 苹果
+    amount: 180
+    unit: g
+
+  - time: 20250309170800
+    name: 大米
+    amount: 50.0
+    unit: g
+  - time: 20250309170800
+    name: 黑青稞
+    amount: 20.0
+    unit: g
+  - time: 20250309170800
+    name: 广信酱油鲭鱼
+    amount: 66.5
+    unit: g
+  - time: 20250309170800
+    name: 香香唯北豆腐
+    amount: 0
+    unit: g
+  - time: 20250309170800
+    name: 木耳
+    amount: 0
+    unit: g
+  - time: 20250309170800
+    name: 油菜
+    amount: 200
+    unit: g
+  - time: 20250309170800
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250309170800
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20250309170800
+    name: 油
+    amount: 0.5
+    unit: g
+
+  - time: 20250309143000
+    name: 奶粉
+    amount: 0
+    unit: g
+  - time: 20250309143000
+    name: 瑞幸每日黑咖醇香中深烘焙
+    amount: 0
+    unit: 份
+
+  - time: 20250309134200
+    name: 桔柚
+    amount: 80.5
+    unit: g
+
+  - time: 20250309180000
+    name: 大米
+    amount: 30
+    unit: g
+  - time: 20250309180000
+    name: 黑青稞
+    amount: 20
+    unit: g
+  - time: 20250309180000
+    name: 太谷壶瓶枣
+    amount: 15
+    unit: g
+  - time: 20250309180000
+    name: 鸡蛋
+    amount: 45
+    unit: g
+  - time: 20250309180000
+    name: 油菜
+    amount: 150
+    unit: g
+  - time: 20250309180000
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250309180000
+    name: 鲜味王
+    amount: 0.5
+    unit: g
+  - time: 20250309180000
+    name: 油
+    amount: 0.5
+    unit: g
+
+  - time: 20250309174500
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250309174500
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20250309103600
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20250309112800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250309121000
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20250309150200
+    name: 开水
+    amount: 250
+    unit: ml
+
+  - time: 20250309155200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250309174500
+    name: 可可奶
+    amount: 81.0
+    unit: ml
+  - time: 20250309201400
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20250309121000
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20250309150200
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20250309150200
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |

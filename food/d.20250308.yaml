@@ -1,113 +1,110 @@
 date: 20250308
 food:
-  - time: 20250308130300
+  - time: 20250308134100
     name: 猕猴桃
-    amount: 90
+    amount: 101.5
     unit: g
-
-  - time: 20250308130500
+  - time: 20250308134200
+    name: 桔柚
+    amount: 80.5
+    unit: g
+  - time: 20250308134400
     name: 艾糍2503a
     amount: 1
     unit: 个
-  - time: 20250308130500
+  - time: 20250308134400
     name: 腌松板肉2502b
-    amount: 100
+    amount: 138.5
     unit: g
-  - time: 20250308130500
+  - time: 20250308134400
     name: 西兰苔
-    amount: 170
+    amount: 119.5
     unit: g
-  - time: 20250308130500
+  - time: 20250308134400
     name: 南瓜
-    amount: 65
+    amount: 64.0
     unit: g
-  - time: 20250308130500
+  - time: 20250308134400
     name: 黄田农场无花果干
-    amount: 20
+    amount: 26.0
     unit: g
-
-  - time: 202503081133000
+  - time: 20250308141000
     name: 桑葚干
     amount: 10.0
     unit: g
-  - time: 202503081133000
+  - time: 20250308141000
     name: 麦胚芽
     amount: 15.0
     unit: g
-  - time: 202503081133000
+  - time: 20250308141000
     name: 亚麻籽
     amount: 5.0
     unit: g
-
-  - time: 20250308134000
+  - time: 20250308141700
     name: 奶粉
     amount: 20.0
     unit: g
-  - time: 20250308134000
+  - time: 20250308141700
     name: 瑞幸每日黑咖醇香中深烘焙
     amount: 0.5
     unit: 份
-
-  - time: 20250308174600
+  - time: 20250308165900
     name: 番茄酱
-    amount: 30
+    amount: 23.5
     unit: g
-  - time: 20250308174600
+  - time: 20250308165900
     name: 东棘沙棘原浆
-    amount: 15
+    amount: 16.5
     unit: g
-  - time: 20250308174600
-    name: 菊粉
-    amount: 10
+  - time: 20250308165900
+    name: 艾斯蔗菊粉  
+    amount: 5.0
     unit: g
-
-  - time: 20250308174800
-    name: 桔柚
-    amount: 95
+  - time: 20250308170100
+    name: 苹果
+    amount: 181.0
     unit: g
-
-  - time: 20250308175000
+  - time: 20250308170800
     name: 大米
     amount: 50.0
     unit: g
-  - time: 20250308175000
+  - time: 20250308170800
     name: 黑青稞
-    amount: 50.0
+    amount: 40.0
     unit: g
-  - time: 20250308175000
-    name: 塞北老马红烧牛肉罐头
-    amount: 0
-    unit: g
-  - time: 20250308175000
+  - time: 20250308170800
     name: 鸡蛋
-    amount: 45
+    amount: 43.0
     unit: g
-  - time: 20250308175000
+  - time: 20250308170800
     name: 香香唯北豆腐
-    amount: 100
+    amount: 104.5
     unit: g
-  - time: 20250308175000
+  - time: 20250308170800
     name: 木耳
     amount: 10.0
     unit: g
-  - time: 20250308175000
+  - time: 20250308170800
     name: 油菜
-    amount: 200
+    amount: 206.5
     unit: g
-  - time: 20250308175000
+  - time: 20250308170800
     name: 中盐绿色低钠湖盐
     amount: 2.0
     unit: g
-  - time: 20250308175000
+  - time: 20250308170800
     name: 鲜味王
     amount: 0.5
     unit: g
-
-  - time: 20250308184500
+  - time: 20250308170800
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20250308174500
     name: 奶粉
     amount: 20.0
     unit: g
-  - time: 20250308184500
+  - time: 20250308174500
     name: 可可粉
     amount: 4.0
     unit: g
@@ -116,53 +113,44 @@ water:
     name: 开水
     amount: 150
     unit: ml
-
-  - time: 20250308124700
+  - time: 20250308133000
     name: 开水
     amount: 250
     unit: ml
-  - time: 20250308134000
+  - time: 20250308141700
     name: 咖啡
-    amount: 83.5
+    amount: 81.0
     unit: ml
-  - time: 20250308142400
+  - time: 20250308150200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20250308155000
+  - time: 20250308155200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20250308164000
-    name: 开水
-    amount: 300
-    unit: ml
-  - time: 20250308175000
-    name: 汤水
-    amount: 582
-    unit: ml
-  - time: 20250308184500
+  - time: 20250308174500
     name: 可可奶
-    amount: 81.5
+    amount: 81.0
     unit: ml
-  - time: 20250308204800
+  - time: 20250308201400
     name: 开水
-    amount: 200
+    amount: 250
     unit: ml
 med:
-  - time: 20250308134000
+  - time: 20250308141700
     name: 楚牛牛磺酸
-    amount: 1.0
+    amount: 0.5
     unit: g
-  - time: 20250308142400
+  - time: 20250308150200
     name: 维生素D3
     amount: 125
     unit: μg
-  - time: 20250308142400
+  - time: 20250308150200
     name: selenium
     amount: 200
     unit: μg
-  - time: 20250308142400
+  - time: 20250308150200
     name: mature multi
     amount: 1
     unit: 片
