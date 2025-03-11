@@ -52,7 +52,7 @@ food:
     name: 艾斯蔗菊粉  
     amount: 2.0
     unit: g
-  - time: 202503101634500
+  - time: 20250310134500
     name: 苹果
     amount: 162.5
     unit: g
