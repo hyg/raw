@@ -1,0 +1,24 @@
+name: 今三麦猪肉荠菜蒸煎饺
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 820
+    unit: kj
+    nrv: 10
+  蛋白质:
+    amount: 6.8
+    unit: g
+    nrv: 11
+  脂肪:
+    amount: 7.7
+    unit: g
+    nrv: 13
+  碳水化合物:
+    amount: 24.0
+    unit: g
+    nrv: 8
+  钠:
+    amount: 442
+    unit: mg
+    nrv: 22
