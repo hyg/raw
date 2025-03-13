@@ -1,0 +1,60 @@
+name: 牛腩
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 332
+    unit: kcal
+    nrv: 16.2
+  蛋白质:
+    amount: 17.1
+    unit: g
+    nrv: 19.07
+  脂肪:
+    amount: 29.3
+    unit: g
+    nrv: 51.46
+  VB1(硫胺素):
+    amount: 0.02
+    unit: mg
+    nrv: 1.43
+  VB2(核黄素):
+    amount: 0.06
+    unit: mg
+    nrv: 4.29
+  VB3(烟酸):
+    amount: 2.2
+    unit: mg
+    nrv: 14.67
+  VB6(吡哆素):
+    amount: 0.1
+    unit: mg
+    nrv: 7.14
+  VB9(叶酸):
+    amount: 4
+    unit: μg
+    nrv: 1
+  铁:
+    amount: 0.6
+    unit: mg
+    nrv: 5
+  锌:
+    amount: 2.69
+    unit: mg
+    nrv: 22.42
+  硒:
+    amount: 3.2
+    unit: μg
+    nrv: 5.33
+  铜:
+    amount: 0.01
+    unit: mg
+    nrv: 1.25
+  生物素:
+    amount: 0.6
+    unit: μg
+    nrv: 1.5
+  胆碱:
+    amount: 30.6
+    unit: mg
+    nrv: 6.8

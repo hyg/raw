@@ -1,0 +1,24 @@
+name: 育青琵琶腿
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 655
+    unit: kj
+    nrv: 8
+  蛋白质:
+    amount: 22.1
+    unit: g
+    nrv: 37
+  脂肪:
+    amount: 7.6
+    unit: g
+    nrv: 13
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  钠:
+    amount: 755
+    unit: mg
+    nrv: 38

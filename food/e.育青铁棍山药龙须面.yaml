@@ -1,0 +1,24 @@
+name: 育青铁棍山药龙须面
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1474
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 11.0
+    unit: g
+    nrv: 18
+  脂肪:
+    amount: 1.2
+    unit: g
+    nrv: 2
+  碳水化合物:
+    amount: 73.1
+    unit: g
+    nrv: 24
+  钠:
+    amount: 375
+    unit: mg
+    nrv: 19

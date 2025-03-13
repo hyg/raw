@@ -6,8 +6,12 @@ food:
     unit: g
 
   - time: 20250314110600
-    name: 今三麦猪肉荠菜蒸煎饺
-    amount: 120.0
+    name: 馒头2503a
+    amount: 1
+    unit: 个
+  - time: 20250314110600
+    name: 育青琵琶腿
+    amount: 75
     unit: g
   - time: 20250314110600
     name: 芦笋
@@ -50,7 +54,7 @@ food:
     unit: g
   - time: 20250314160500
     name: 艾斯蔗菊粉
-    amount: 5
+    amount: 2
     unit: g
 
   - time: 20250314160700
@@ -60,18 +64,34 @@ food:
 
   - time: 20250314161400
     name: 大米
-    amount: 70.0
+    amount: 75.0
     unit: g
   - time: 20250314161400
-    name: 黑青稞
-    amount: 30.0
+    name: 胡萝卜
+    amount: 90
     unit: g
   - time: 20250314161400
-    name: 鸡蛋
-    amount: 45
+    name: 韩三顺辣白菜
+    amount: 30
     unit: g
   - time: 20250314161400
-    name: 油菜
+    name: 枸杞
+    amount: 5
+    unit: g
+  - time: 20250314161400
+    name: 姜
+    amount: 3
+    unit: g
+  - time: 20250314161400
+    name: 牛腩
+    amount: 40
+    unit: g
+  - time: 20250314161400
+    name: 杏鲍菇
+    amount: 120
+    unit: g
+  - time: 20250314161400
+    name: 小白菜
     amount: 200
     unit: g
   - time: 20250314161400
@@ -98,16 +118,20 @@ food:
     unit: g
 
   - time: 20250314204900
-    name: 馒头2503a
-    amount: 1
-    unit: 个
-  - time: 20250314204900
-    name: 香香唯北豆腐
-    amount: 100
+    name: 大米
+    amount: 30
     unit: g
   - time: 20250314204900
-    name: 广信酱油鲭鱼
-    amount: 60
+    name: 黑青稞
+    amount: 30
+    unit: g
+  - time: 20250314204900
+    name: 太谷壶瓶枣
+    amount: 0
+    unit: g
+  - time: 20250314204900
+    name: 鸡蛋
+    amount: 40
     unit: g
   - time: 20250314204900
     name: 油菜
@@ -135,7 +159,6 @@ water:
     name: 开水
     amount: 150
     unit: ml
-
   - time: 20250314104900
     name: 开水
     amount: 250
@@ -164,7 +187,10 @@ water:
     name: 开水
     amount: 250
     unit: ml
-
+  - time: 20250314204900
+    name: 粥水
+    amount: 450
+    unit: ml
   - time: 20250314210900
     name: 可可奶
     amount: 80.0

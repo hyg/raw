@@ -624,6 +624,7 @@ function maketable() {
         for (var i in foodSorted) {
             var name = foodSorted[i];
             var dayamount = ftable[name].amount / daycnt;
+            //console.log("name:",name);
 
             var nametab = "\t\t\t"
             if (name.replace(/[^\x00-\xff]/g, '**').length >= 8) {
