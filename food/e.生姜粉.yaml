@@ -1,0 +1,24 @@
+name: 生姜粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1449
+    unit: kj
+    nrv: 17
+  蛋白质:
+    amount: 9.4
+    unit: g
+    nrv: 16
+  脂肪:
+    amount: 3.3
+    unit: g
+    nrv: 6
+  碳水化合物:
+    amount: 61.2
+    unit: g
+    nrv: 20
+  钠:
+    amount: 31
+    unit: mg
+    nrv: 2

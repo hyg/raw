@@ -10,7 +10,7 @@ wake:
   log: |
     不需要补水，睡觉中间没有起来小便。
 exercise: 
-- time: 20250317082300
+- time: 20250317090600
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -28,10 +28,10 @@ exercise:
     amount: 5
     unit: set
   SpO2: 98
-  PRbpm: 81
-  endheartrate: 93
+  PRbpm: 73
+  endheartrate: 85
   log: |
-    室内运动后把脉: 寸脉关脉中偏浅、尺脉深度中；侧向居中；寸脉关脉清晰有力、尺脉清晰。
+    室内运动后把脉: 寸脉关脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
 - time: 20250317110000
   item:
   - type: walk
@@ -40,8 +40,8 @@ exercise:
   SpO2: 98
   PRbpm: 110
 stool:
-- time: 20250317103000
-  amount:   1   #	1:多; 2:适中;	3:少
+- time: 20250317123700
+  amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log: |
