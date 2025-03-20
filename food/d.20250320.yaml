@@ -11,7 +11,7 @@ food:
     unit: 个
   - time: 20250320100600
     name: 熟鱼腩2503a
-    amount: 60
+    amount: 65
     unit: g
   - time: 20250320100600
     name: 芦笋
@@ -55,7 +55,7 @@ food:
     unit: g
   - time: 20250320135300
     name: 胡萝卜
-    amount: 50
+    amount: 45
     unit: g
   - time: 20250320135300
     name: 番茄酱
@@ -71,7 +71,7 @@ food:
     unit: g
   - time: 20250320135300
     name: 豆瓣酱
-    amount: 3
+    amount: 4
     unit: g
   - time: 20250320135300
     name: 枸杞
@@ -79,15 +79,15 @@ food:
     unit: g
   - time: 20250320135300
     name: 姜
-    amount: 4
+    amount: 5
     unit: g
   - time: 20250320135300
     name: 牛腩
-    amount: 40
+    amount: 45
     unit: g
   - time: 20250320135300
     name: 芹菜
-    amount: 175
+    amount: 220
     unit: g
   - time: 20250320135300
     name: 木耳
@@ -108,7 +108,7 @@ food:
     unit: g
   - time: 20250320142300
     name: 小分子肽粉
-    amount: 3.0
+    amount: 0
     unit: g
   - time: 20250320142300
     name: 景兰冻干黑咖啡
@@ -158,15 +158,15 @@ food:
     unit: g
 
   - time: 20250320192000
-    name: 奶粉
+    name: 伊利脱脂奶粉
     amount: 20.0
     unit: g
   - time: 20250320192000
     name: 可可粉
-    amount: 4.0
+    amount: 0
     unit: g
 water:
-  - time: 20250320133500
+  - time: 20250320114300
     name: 开水
     amount: 150
     unit: ml
@@ -218,7 +218,7 @@ water:
 med:
   - time: 20250320102800
     name: 楚牛牛磺酸
-    amount: 1.0
+    amount: 0.5
     unit: g
   - time: 20250320112500
     name: selenium
