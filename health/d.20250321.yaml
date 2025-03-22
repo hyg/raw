@@ -27,7 +27,8 @@ exercise:
   - type: 腹部拉伸(Cobra Pose) + 颈部拉伸*5
     amount: 5
     unit: set
-  SpO2: 987
+  SpO2: 98
+  PRbpm: 80
   endheartrate: 88
   log: |
     室内运动后把脉: 寸脉深度浅、关脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。

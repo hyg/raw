@@ -182,7 +182,7 @@ function loadmap() {
         console.log("yaml read error！" + e);
     }
 
-    /*     var sortelement = "膳食纤维";
+/*         var sortelement = "蛋白质";
         let keysSorted = Object.keys(emap).sort(function (a, b) { return ((emap[b].element== null)?0:((emap[b].element[sortelement]== null)?0:emap[b].element[sortelement].amount)) - ((emap[a].element==null)?0:((emap[a].element[sortelement]== null)?0:emap[a].element[sortelement].amount))});
     
         for (var j = 0; j < keysSorted.length; j++) {
