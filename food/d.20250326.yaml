@@ -119,7 +119,11 @@ water:
     unit: ml
   - time: 20250326191900
     name: 开水
-    amount: 300
+    amount: 250
+    unit: ml
+  - time: 20250326210600
+    name: 开水
+    amount: 180
     unit: ml
 med:
   - time: 20250326133000
