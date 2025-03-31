@@ -1,0 +1,200 @@
+date: 20250401
+food:
+  - time: 20250401131100
+    name: 橙
+    amount: 120
+    unit: g
+
+  - time: 20250401131300
+    name: 海带
+    amount: 10
+    unit: g
+  - time: 20250401131300
+    name: 阿裕黑芝麻大汤圆
+    amount: 200
+    unit: g
+  - time: 20250401131300
+    name: 枸杞
+    amount: 3.0
+    unit: g
+  - time: 20250401131300
+    name: 太谷壶瓶枣
+    amount: 25
+    unit: g
+  - time: 20250401131300
+    name: 今三麦猪肉荠菜蒸煎饺
+    amount: 100
+    unit: g
+  - time: 20250401131300
+    name: 芦笋
+    amount: 100
+    unit: g
+
+  - time: 20250401133700
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20250401133700
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+
+  - time: 20250401104700
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250401104700
+    name: 瑞幸每日黑咖浓郁深度烘焙
+    amount: 0.5
+    unit: 份
+
+  - time: 20250401193000
+    name: 番茄酱
+    amount: 30
+    unit: g
+  - time: 20250401193000
+    name: 棘寿康沙棘全果原浆
+    amount: 15
+    unit: g
+  - time: 20250401193000
+    name: 艾斯蔗菊粉
+    amount: 10
+    unit: g
+
+  - time: 20250401193300
+    name: 南果梨
+    amount: 45
+    unit: g
+
+  - time: 20250401193800
+    name: 大米
+    amount: 60.0
+    unit: g
+  - time: 20250401193800
+    name: 红豆
+    amount: 10.0
+    unit: g
+  - time: 20250401193800
+    name: 黑青稞
+    amount: 20.0
+    unit: g
+  - time: 20250401193800
+    name: 淮河红烧扣肉罐头
+    amount: 120
+    unit: g
+  - time: 20250401193800
+    name: 五城五香茶干
+    amount: 50
+    unit: g
+  - time: 20250401193800
+    name: 胡萝卜
+    amount: 60
+    unit: g
+  - time: 20250401193800
+    name: 小白菜
+    amount: 250
+    unit: g
+  - time: 20250401193800
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250401193800
+    name: 油
+    amount: 0.5
+    unit: g
+
+  - time: 20250401134700
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250401134700
+    name: 瑞幸每日黑咖浓郁深度烘焙
+    amount: 0.5
+    unit: 份
+
+  - time: 20250401193500
+    name: 人参果
+    amount: 200
+    unit: g
+
+  - time: 20250401193800
+    name: 浔谷梧州切粉
+    amount: 70.0
+    unit: g
+  - time: 20250401193800
+    name: 广信烟熏牡蛎
+    amount: 83.0
+    unit: g
+  - time: 20250401193800
+    name: 油菜
+    amount: 80
+    unit: g
+  - time: 20250401193800
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+
+  - time: 20250401203300
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250401203300
+    name: 可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20250401114900
+    name: 开水
+    amount: 110
+    unit: ml
+  - time: 20250401131300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250401131300
+    name: 糖水
+    amount: 300
+    unit: ml
+  - time: 20250401134700
+    name: 咖啡
+    amount: 160.5
+    unit: ml
+  - time: 20250401145500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250401160100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250401172500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250401193800
+    name: 汤
+    amount: 520
+    unit: ml
+  - time: 20250401203300
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+med:
+  - time: 20250401134700
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20250401145500
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20250401145500
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20250401145500
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
