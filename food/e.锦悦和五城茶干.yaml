@@ -1,0 +1,24 @@
+name: 锦悦和五城茶干
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 858
+    unit: kj
+    nrv: 10
+  蛋白质:
+    amount: 24.9
+    unit: g
+    nrv: 42
+  脂肪:
+    amount: 6.2
+    unit: g
+    nrv: 10
+  碳水化合物:
+    amount: 12.1
+    unit: g
+    nrv: 4
+  钠:
+    amount: 762
+    unit: mg
+    nrv: 38
