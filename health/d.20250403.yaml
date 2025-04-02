@@ -1,12 +1,12 @@
 date: 20250403
 sleep: 
-  time: 20250402012400
-  weight: 53.8
+  time: 20250402221300
+  weight: 53.9
 wake:
-  time: 20250403073400
-  weight: 53.4
+  time: 20250403043800
+  weight: 53.3
   SpO2: 95
-  PRbpm: 69
+  PRbpm: 63
   log: |
     不需要补水，睡觉中间没有起来小便。
 exercise: 

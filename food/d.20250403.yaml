@@ -11,15 +11,15 @@ food:
     unit: 个
   - time: 20250403085200
     name: 南瓜
-    amount: 50
+    amount: 43.5
     unit: g
   - time: 20250403085200
     name: 熟鱼腩2503a
-    amount: 50
+    amount: 65.0
     unit: g
   - time: 20250403085200
     name: 芦笋
-    amount: 120
+    amount: 146.5
     unit: g
 
   - time: 20250403090800
@@ -144,13 +144,14 @@ food:
     unit: g
   - time: 20250403180000
     name: 可可粉
-    amount: 20
+    amount: 4
     unit: g
 water:
-  - time: 20250403074400
+  - time: 20250403044800
     name: 开水
     amount: 150
     unit: ml
+
   - time: 20250403083600
     name: 开水
     amount: 250
