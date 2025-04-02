@@ -1,172 +1,206 @@
-date: 20250402
+date: 20250403
 food:
-  - time: 20250402084800
+  - time: 20250403084800
     name: 人参果
-    amount: 286.0
+    amount: 260
     unit: g
-  - time: 20250402085200
+
+  - time: 20250403085200
     name: 馒头2503b
     amount: 1
     unit: 个
-  - time: 20250402085200
+  - time: 20250403085200
     name: 南瓜
-    amount: 49.5
+    amount: 50
     unit: g
-  - time: 20250402085200
+  - time: 20250403085200
     name: 熟鱼腩2503a
-    amount: 47.5
+    amount: 50
     unit: g
-  - time: 20250402085200
+  - time: 20250403085200
     name: 芦笋
-    amount: 158.5
+    amount: 120
     unit: g
-  - time: 20250402090800
+
+  - time: 20250403090800
     name: 麦胚芽
     amount: 15.0
     unit: g
-  - time: 20250402090800
+  - time: 20250403090800
     name: 亚麻籽粉
     amount: 10.0
     unit: g
-  - time: 20250402091500
+
+  - time: 20250403091500
     name: 奶粉
     amount: 20.0
     unit: g
-  - time: 20250402091500
+  - time: 20250403091500
     name: 瑞幸每日黑咖浓郁深度烘焙
     amount: 0.5
     unit: 份
-  - time: 20250402130600
+
+  - time: 20250403130600
     name: 番茄酱
-    amount: 29.5
+    amount: 30
     unit: g
-  - time: 20250402130600
+  - time: 20250403130600
     name: 棘寿康沙棘全果原浆
     amount: 15.0
     unit: g
-  - time: 20250402130600
+  - time: 20250403130600
     name: 艾斯蔗菊粉
-    amount: 6.0
+    amount: 5.0
     unit: g
-  - time: 20250402130900
+
+  - time: 20250403130900
     name: 南果梨
-    amount: 45.5
+    amount: 50
     unit: g
-  - time: 20250402175500
+
+  - time: 20250403175500
     name: 大米
     amount: 60.0
     unit: g
-  - time: 20250402175500
+  - time: 20250403175500
     name: 红豆
     amount: 10.0
     unit: g
-  - time: 20250402175500
+  - time: 20250403175500
     name: 黑青稞
     amount: 20.0
     unit: g
-  - time: 20250402175500
+  - time: 20250403175500
     name: 育青琵琶腿
-    amount: 83.5
+    amount: 0
     unit: g
-  - time: 20250402175500
-    name: 胡萝卜
-    amount: 47.5
+  - time: 20250403175500
+    name: 香香唯北豆腐
+    amount: 100
     unit: g
-  - time: 20250402175500
-    name: 油菜
-    amount: 183.0
-    unit: g
-  - time: 20250402175500
-    name: 中盐绿色低钠湖盐
-    amount: 1.0
-    unit: g
-  - time: 20250402134000
-    name: 奶粉
-    amount: 20.0
-    unit: g
-  - time: 20250402134000
-    name: 瑞幸每日黑咖浓郁深度烘焙
-    amount: 0.5
-    unit: 份
-  - time: 20250402175200
-    name: 橙
-    amount: 107.5
-    unit: g
-  - time: 20250402175500
-    name: 红薯
-    amount: 152.5
-    unit: g
-  - time: 20250402175500
-    name: 鸡蛋
-    amount: 50.5
-    unit: g
-  - time: 20250402175500
+  - time: 20250403175500
     name: 锦悦和五城茶干
-    amount: 20.0
+    amount: 0
     unit: g
-  - time: 20250402175500
-    name: 小白菜
-    amount: 56.5
+  - time: 20250403175500
+    name: 胡萝卜
+    amount: 60
     unit: g
-  - time: 20250402175500
+  - time: 20250403175500
+    name: 菠菜
+    amount: 230
+    unit: g
+  - time: 20250403175500
     name: 中盐绿色低钠湖盐
     amount: 1.0
     unit: g
-  - time: 20250402175500
+  - time: 20250403175500
     name: 油
     amount: 0.5
     unit: g
+
+  - time: 20250403134000
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250403134000
+    name: 瑞幸每日黑咖浓郁深度烘焙
+    amount: 0.5
+    unit: 份
+
+  - time: 20250403175200
+    name: 橙
+    amount: 110
+    unit: g
+
+  - time: 20250403175500
+    name: 红薯
+    amount: 100
+    unit: g
+  - time: 20250403175500
+    name: 山药豆
+    amount: 0
+    unit: g
+  - time: 20250403175500
+    name: 鸡蛋
+    amount: 50
+    unit: g
+  - time: 20250403175500
+    name: 菠菜
+    amount: 125
+    unit: g
+  - time: 20250403175500
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250403175500
+    name: 油
+    amount: 0.5
+    unit: g
+
+  - time: 20250403180000
+    name: 奶粉
+    amount: 20
+    unit: g
+  - time: 20250403180000
+    name: 可可粉
+    amount: 20
+    unit: g
 water:
-  - time: 20250402074400
+  - time: 20250403074400
     name: 开水
     amount: 150
     unit: ml
-  - time: 20250402083600
+  - time: 20250403083600
     name: 开水
     amount: 250
     unit: ml
-  - time: 20250402091500
+  - time: 20250403091500
     name: 咖啡
     amount: 80.0
     unit: ml
-  - time: 20250402095800
+  - time: 20250403095800
     name: 开水
     amount: 250
     unit: ml
-  - time: 20250402105000
+  - time: 20250403105000
     name: 开水
     amount: 250
     unit: ml
-  - time: 20250402114100
+  - time: 20250403114100
     name: 开水
     amount: 250
     unit: ml
-  - time: 20250402134000
+  - time: 20250403134000
     name: 咖啡
     amount: 80.0
     unit: ml
-  - time: 20250402161300
+  - time: 20250403161300
     name: 开水
     amount: 250
     unit: ml
-  - time: 20250402182600
+  - time: 20250403182600
     name: 开水
     amount: 250
     unit: ml
-  - time: 20250402194500
+  - time: 20250403180000
+    name: 可可奶
+    amount: 80
+    unit: ml
+  - time: 20250403194500
     name: 开水
     amount: 300
     unit: ml
 med:
-  - time: 20250402091500
+  - time: 20250403091500
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
-  - time: 20250402095800
+  - time: 20250403095800
     name: selenium
     amount: 200
     unit: μg
-  - time: 20250402095800
+  - time: 20250403095800
     name: mature multi
     amount: 1
     unit: 片
