@@ -1,0 +1,10 @@
+name: 烤红薯2504a
+amount: 787
+unit: g
+food:
+  - name: 红薯
+    amount: 1073.5
+    unit: g
+log: |
+  230°C、30+30分钟。
+comment: |+
