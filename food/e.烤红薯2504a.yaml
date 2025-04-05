@@ -1,10 +1,12 @@
 name: 烤红薯2504a
-amount: 787
+amount: 1430.0
 unit: g
 food:
   - name: 红薯
-    amount: 1073.5
+    amount: 1906.0
     unit: g
 log: |
-  230°C、30+30分钟。
-comment: |+
+  - 红天使929.5g，下层、上层。熟重688.0g。
+  - 紫薯976.5g，上层、下层。熟重742.0g。
+  - 不预热、上下火、230°C，35+30分钟。
+comment: |

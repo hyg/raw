@@ -1,0 +1,18 @@
+name: 202409a
+DRIs: DRIforChina2023
+element:
+  热量:
+    amount: 1950
+    unit: kcal
+  蛋白质: 
+    amount: 85.3125
+    unit: g
+  脂肪:
+    amount: 54.17
+    unit: g
+  碳水化合物:
+    amount: 280.3125
+    unit: g
+  水:
+    amount: 2000
+    unit: ml
