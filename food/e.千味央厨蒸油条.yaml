@@ -1,0 +1,28 @@
+name: 千味央厨蒸油条
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1267
+    unit: kj
+    nrv: 15
+  蛋白质:
+    amount: 5.9
+    unit: g
+    nrv: 10
+  脂肪:
+    amount: 9.6
+    unit: g
+    nrv: 16
+  碳水化合物:
+    amount: 46.3
+    unit: g
+    nrv: 15
+  钠:
+    amount: 508
+    unit: mg
+    nrv: 25
+  膳食纤维:
+    amount: 3.0
+    unit: g
+    nrv: 12
