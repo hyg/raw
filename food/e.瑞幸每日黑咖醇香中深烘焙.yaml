@@ -19,8 +19,8 @@ element:
     unit: g
     nrv: 0
   钠:
-    amount: 1
-    unit: g
+    amount: 0
+    unit: mg
     nrv: 0
 comment: |+
   每份约2.0g。
