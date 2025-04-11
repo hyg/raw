@@ -1,0 +1,73 @@
+name: 域尚楼兰沙棘全果原浆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 382
+    unit: kj
+    nrv: 4
+  蛋白质:
+    amount: 2.0
+    unit: g
+    nrv: 3
+  脂肪:
+    amount: 6.1
+    unit: g
+    nrv: 9
+  碳水化合物:
+    amount: 7.2
+    unit: g
+    nrv: 3
+  钠:
+    amount: 11
+    unit: mg
+    nrv: 1
+  VE(生育酚):
+    amount: 4.46
+    unit: mg
+    nrv: 232
+  VB6(吡哆素):
+    amount: 1.11
+    unit: mg
+    nrv: 79
+  VC(抗坏血酸):
+    amount: 99.7
+    unit: mg
+    nrv: 100
+  VB9(叶酸):
+    amount: 812
+    unit: μg
+    nrv: 205
+  磷:
+    amount: 33
+    unit: mg
+    nrv: 5
+  钙:
+    amount: 11
+    unit: mg
+    nrv: 1
+  铁:
+    amount: 0.9
+    unit: mg
+    nrv: 6
+comment:
+  总黄酮:
+    amount: 640
+    unit: mg
+    nrv: 0
+  α-亚麻酸:
+    amount: 26.5
+    unit: mg
+    nrv: 0
+  油酸:
+    amount: 92
+    unit: mg
+    nrv: 0
+  棕榈油酸:
+    amount: 201
+    unit: mg
+    nrv: 0
+  胡萝卜素:
+    amount: 1.49
+    unit: mg
+    nrv: 0
