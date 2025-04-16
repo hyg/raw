@@ -15,7 +15,7 @@ food:
     unit: g
   - time: 20250417073900
     name: 芦笋
-    amount: 110
+    amount: 150
     unit: g
 
   - time: 20250417075100
@@ -46,7 +46,7 @@ food:
     unit: g
   - time: 20250417114600
     name: 艾斯蔗菊粉
-    amount: 10.0
+    amount: 3.0
     unit: g
 
   - time: 20250417114700
@@ -98,12 +98,8 @@ food:
     unit: g
 
   - time: 20250417194200
-    name: 烤红薯2504a
-    amount: 50
-    unit: g
-  - time: 20250417194200
     name: 大功河兰州拉面
-    amount: 40
+    amount: 60
     unit: g
   - time: 20250417194200
     name: 鸡蛋
@@ -131,8 +127,8 @@ food:
     amount: 20.0
     unit: g
   - time: 20250417202000
-    name: 可可粉
-    amount: 4.0
+    name: 天然可可粉
+    amount: 3.0
     unit: g
 water:
   - time: 20250417063700

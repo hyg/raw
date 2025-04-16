@@ -88,6 +88,38 @@ food:
     name: 景兰冻干黑咖啡
     amount: 1.0
     unit: g
+  - time: 20250416165200
+    name: 芒果
+    amount: 103.5
+    unit: g
+  - time: 20250416164300
+    name: 烤红薯2504a
+    amount: 54.5
+    unit: g
+  - time: 20250416164300
+    name: 猪前腿肉
+    amount: 34.5
+    unit: g
+  - time: 20250416164300
+    name: 锦悦和五城茶干
+    amount: 38.0
+    unit: g
+  - time: 20250416164300
+    name: 芦笋
+    amount: 292.5
+    unit: g
+  - time: 20250416164300
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250416171500
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250416171500
+    name: 天然可可粉
+    amount: 4.5
+    unit: g
 water:
   - time: 20250416063700
     name: 开水
@@ -120,6 +152,18 @@ water:
   - time: 20250416143400
     name: 开水
     amount: 100
+    unit: ml
+  - time: 20250416154700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250416171500
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20250416185000
+    name: 开水
+    amount: 150
     unit: ml
 med:
   - time: 20250416075700

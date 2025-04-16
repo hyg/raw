@@ -1,0 +1,68 @@
+name: 天然可可粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1752
+    unit: kj
+    nrv: 21
+  蛋白质:
+    amount: 27.3
+    unit: g
+    nrv: 46
+  脂肪:
+    amount: 11.1
+    unit: g
+    nrv: 19
+  碳水化合物:
+    amount: 52.3
+    unit: g
+    nrv: 17
+  钠:
+    amount: 14
+    unit: mg
+    nrv: 1
+  膳食纤维:
+    amount: 33.2
+    unit: g
+    nrv: 132.8
+  VB1(硫胺素):
+    amount: 0.04
+    unit: "mg"
+    nrv: 3.3
+  VB2(核黄素):
+    amount: 0.09
+    unit: "mg"
+    nrv: 6.9
+  VB3(烟酸):
+    amount: 0.7
+    unit: "mg"
+    nrv: 4.4
+  VE(生育酚):
+    amount: 0.8
+    unit: "mg"
+    nrv: 5.3
+  钙:
+    amount: 134
+    unit: "mg"
+    nrv: 13.4
+  镁:
+    amount: 499
+    unit: "mg"
+    nrv: 124.8
+  磷:
+    amount: 734
+    unit: "mg"
+    nrv: 104.9
+  钾:
+    amount: 1524
+    unit: "mg"
+    nrv: 76.2
+  铜:
+    amount: 3.6
+    unit: "mg"
+    nrv: 400.0
+  锌:
+    amount: 3.5
+    unit: "mg"
+    nrv: 31.8

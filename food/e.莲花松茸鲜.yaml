@@ -1,0 +1,20 @@
+name: 莲花松茸鲜
+amount: 5
+unit: g
+element:
+  热量:
+    amount: 27
+    unit: kj
+    nrv: 0
+  蛋白质:
+    amount: 0.4
+    unit: g
+    nrv: 1
+  碳水化合物:
+    amount: 1.2
+    unit: g
+    nrv: 0
+  钠:
+    amount: 984
+    unit: mg
+    nrv: 49
