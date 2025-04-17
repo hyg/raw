@@ -1,8 +1,8 @@
 date: 20250418
 food:
   - time: 20250418052800
-    name: 芒果
-    amount: 130
+    name: 黄桃
+    amount: 90
     unit: g
 
   - time: 20250418053000
@@ -10,16 +10,20 @@ food:
     amount: 1
     unit: 个
   - time: 20250418053000
-    name: 锦悦和五城茶干
-    amount: 38.0
+    name: 黄田农场无花果干
+    amount: 21.5
+    unit: g
+  - time: 20250418053000
+    name: 太谷壶瓶枣
+    amount: 14.5
     unit: g
   - time: 20250418053000
     name: 南瓜
-    amount: 50
+    amount: 62.0
     unit: g
   - time: 20250418053000
     name: 芦笋
-    amount: 150
+    amount: 134.5
     unit: g
 
   - time: 20250418054500
@@ -97,8 +101,8 @@ food:
     unit: g
 
   - time: 20250418193700
-    name: 黄桃
-    amount: 140
+    name: 芒果
+    amount: 135
     unit: g
 
   - time: 20250418194200
@@ -135,10 +139,11 @@ food:
     amount: 3.0
     unit: g
 water:
-  - time: 20250418040800
+  - time: 20250418041600
     name: 开水
-    amount: 150
+    amount: 200
     unit: ml
+
   - time: 20250418051900
     name: 开水
     amount: 250
