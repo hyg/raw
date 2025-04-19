@@ -1,0 +1,42 @@
+name: 油莎豆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 338
+    unit: kcal
+    nrv: 18.5
+  蛋白质:
+    amount: 6.5
+    unit: g
+    nrv: 8.1
+  脂肪:
+    amount: 25
+    unit: g
+    nrv: 50
+  碳水化合物:
+    amount: 17.5
+    unit: g
+    nrv: 6.7
+  膳食纤维:
+    amount: 8.5
+    unit: g
+    nrv: 28.3
+  VE(生育酚):
+    amount: 51.53
+    unit: mg
+    nrv: 368
+  镁:
+    amount: 95
+    unit: mg
+    nrv: 29.7
+  钙:
+    amount: 60
+    unit: mg
+    nrv: 7.5
+comment: |
+  - https://www.hnagri.org.cn/mianhua/article-108505.html
+  - 其营养价值高，不同地方、不同品种的油莎豆营养成分存在明显差异，但通常均富含油脂(18%～32%)、淀粉(25%～40%)、可溶性糖含量(15%～20%)、蛋白质(5%～8%)、膳食纤维(6%～11%)等。
+  - VE含量较高，约51.53 mg/100g
+  - Mg和Ca的含量高达950mg/kg与600mg/kg
+  - 茎叶具有较高的饲用价值，其脂肪含量7. 6%～8.9%，蛋白含量9.8%，糖10.6%，粗纤维19.3%
