@@ -1,0 +1,14 @@
+name: 腌鸡腿肉2504a
+amount: 611.0
+unit: g
+food:
+  - name: 鸡腿肉
+    amount: 574.0
+    unit: g
+  - name: 极美滋水煎鸡排复合调味料
+    amount: 37.0
+    unit: g
+log: |
+  - 共8片
+comment: |
+  

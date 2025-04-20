@@ -1,0 +1,14 @@
+name: 腌鸡腿肉2504c
+amount: 675.5
+unit: g
+food:
+  - name: 鸡腿肉
+    amount: 639.5
+    unit: g
+  - name: 极美滋儿童系列新奥尔良腌料
+    amount: 36.0
+    unit: g
+log: |
+  - 共7片，加一小块。
+comment: |
+  

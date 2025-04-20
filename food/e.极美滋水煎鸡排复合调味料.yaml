@@ -1,0 +1,24 @@
+name: 极美滋水煎鸡排复合调味料
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1178
+    unit: kj
+    nrv: 14
+  蛋白质:
+    amount: 4.0
+    unit: g
+    nrv: 7
+  脂肪:
+    amount: 3.4
+    unit: g
+    nrv: 6
+  碳水化合物:
+    amount: 52.8
+    unit: g
+    nrv: 18
+  钠:
+    amount: 11338
+    unit: mg
+    nrv: 567

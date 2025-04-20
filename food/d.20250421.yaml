@@ -58,7 +58,7 @@ food:
     unit: g
   - time: 20250421115000
     name: 艾斯蔗菊粉
-    amount: 10
+    amount: 5
     unit: g
 
   - time: 20250421115200
@@ -67,16 +67,28 @@ food:
     unit: g
 
   - time: 20250421115600
-    name: 浔谷梧州切粉
-    amount: 72
+    name: 农家胚芽米
+    amount: 60
     unit: g
   - time: 20250421115600
-    name: 卤牛舌2504b
-    amount: 45
+    name: 黑青稞
+    amount: 20.0
     unit: g
   - time: 20250421115600
-    name: 油菜
-    amount: 100
+    name: 红豆
+    amount: 10.0
+    unit: g
+  - time: 20250421115600
+    name: 腌鸡腿肉2504a
+    amount: 76
+    unit: g
+  - time: 20250421115600
+    name: 胡萝卜
+    amount: 60
+    unit: g
+  - time: 20250421115600
+    name: 快菜
+    amount: 200
     unit: g
   - time: 20250421115600
     name: 中盐绿色低钠湖盐
@@ -103,10 +115,10 @@ food:
     unit: 个
   - time: 20250421182500
     name: 鸡蛋
-    amount: 45
+    amount: 50
     unit: g
   - time: 20250421182500
-    name: 快菜
+    name: 油菜
     amount: 100
     unit: g
   - time: 20250421182500
@@ -119,7 +131,7 @@ food:
     unit: g
   - time: 20250421182500
     name: 十三村干酵腐乳
-    amount: 10
+    amount: 0
     unit: g
   - time: 20250421182500
     name: 香油
