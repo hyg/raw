@@ -15,7 +15,7 @@ food:
     unit: g
   - time: 20250423100600
     name: 黄田农场无花果干
-    amount: 15
+    amount: 10
     unit: g
   - time: 20250423100600
     name: 太谷壶瓶枣
@@ -24,10 +24,6 @@ food:
   - time: 20250423100600
     name: 油莎豆
     amount: 5.0
-    unit: g
-  - time: 20250423100600
-    name: 南瓜
-    amount: 0
     unit: g
   - time: 20250423100600
     name: 芦笋
@@ -62,7 +58,7 @@ food:
     unit: g
   - time: 20250423132400
     name: 艾斯蔗菊粉
-    amount: 5.0
+    amount: 4.0
     unit: g
 
   - time: 20250423132600
