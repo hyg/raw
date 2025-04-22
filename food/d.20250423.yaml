@@ -27,7 +27,7 @@ food:
     unit: g
   - time: 20250423100600
     name: 南瓜
-    amount: 50
+    amount: 0
     unit: g
   - time: 20250423100600
     name: 芦笋
