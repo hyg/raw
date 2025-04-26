@@ -1,0 +1,17 @@
+name: 卤羊腿肉2504a
+amount: 248.0
+unit: g
+food:
+  - name: 羊后腿肉
+    amount: 424.5
+    unit: g
+  - name: 豆瓣酱
+    amount: 17.0
+    unit: g
+  - name: 姜
+    amount: 17.0
+    unit: g
+log: |
+  1. 羊后腿肉加豆瓣酱、姜汁、水，在高压锅煮。（这次不加料酒）
+  1. 高压锅30分钟，移到密封罐冷却，浸泡着放到保鲜层待用。
+comment: |+

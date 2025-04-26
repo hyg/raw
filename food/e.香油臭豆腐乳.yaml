@@ -1,0 +1,24 @@
+name: 香油臭豆腐乳
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 892
+    unit: kj
+    nrv: 11
+  蛋白质:
+    amount: 2.4
+    unit: g
+    nrv: 4
+  脂肪:
+    amount: 17.8
+    unit: g
+    nrv: 30
+  碳水化合物:
+    amount: 11.3
+    unit: g
+    nrv: 4
+  钠:
+    amount: 848
+    unit: mg
+    nrv: 42

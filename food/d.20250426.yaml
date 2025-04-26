@@ -1,0 +1,185 @@
+date: 20250426
+food:
+  - time: 20250426083300
+    name: 黄桃
+    amount: 62.0
+    unit: g
+  - time: 20250426083700
+    name: 阿婆阿嬷大肉粽
+    amount: 161.0
+    unit: g
+  - time: 20250426083700
+    name: 南瓜
+    amount: 45.5
+    unit: g
+  - time: 20250426083700
+    name: 黄田农场无花果干
+    amount: 13
+    unit: g
+  - time: 20250426083700
+    name: 太谷壶瓶枣
+    amount: 12
+    unit: g
+  - time: 20250426083700
+    name: 芦笋
+    amount: 131.0
+    unit: g
+  - time: 20250426085400
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20250426085400
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20250426090100
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250426090100
+    name: 瑞幸每日黑咖浓郁深度烘焙
+    amount: 0.5
+    unit: 份
+  - time: 20250426133600
+    name: 番茄酱
+    amount: 35.5
+    unit: g
+  - time: 20250426133600
+    name: 域尚楼兰沙棘全果原浆
+    amount: 22.0
+    unit: g
+  - time: 20250426133600
+    name: 艾斯蔗菊粉
+    amount: 8.0
+    unit: g
+  - time: 20250426133800
+    name: 桔柚
+    amount: 99.0
+    unit: g
+  - time: 20250426134000
+    name: 面团2503a
+    amount: 128.5
+    unit: g
+  - time: 20250426134000
+    name: 丝麦耘全麦粉
+    amount: 15.0
+    unit: g
+  - time: 20250426134000
+    name: 牛佰仕马苏里拉奶酪
+    amount: 44.0
+    unit: g
+  - time: 20250426134000
+    name: 猪前腿肉
+    amount: 38.5
+    unit: g
+    log: |
+      - 加奶酪、肉，不预热、上层、上下火、140°C+30分钟；
+      - 上层、上下火、160°C+4分钟。
+  - time: 20250426134000
+    name: 快菜
+    amount: 183.0
+    unit: g
+  - time: 20250426134000
+    name: 十三村干酵腐乳
+    amount: 4.0
+    unit: g
+  - time: 20250426140400
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250426140400
+    name: 瑞幸每日黑咖浓郁深度烘焙
+    amount: 0.5
+    unit: 份
+  - time: 20250426175200
+    name: 芒果
+    amount: 125.5
+    unit: g
+  - time: 20250426175600
+    name: 浔谷梧州切粉
+    amount: 70.0
+    unit: g
+  - time: 20250426175600
+    name: 卤羊腿肉2504a
+    amount: 50
+    unit: g
+  - time: 20250426175600
+    name: 快菜
+    amount: 48.0
+    unit: g
+  - time: 20250426175600
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250426185100
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250426185100
+    name: 天然可可粉
+    amount: 3.5
+    unit: g
+water:
+  - time: 20250426071800
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20250426082100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250426090100
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20250426100600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250426105600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250426123700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250426140400
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20250426153200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250426175600
+    name: 汤水
+    amount: 360
+    unit: ml
+  - time: 20250426185100
+    name: 可可奶
+    amount: 81.0
+    unit: ml
+  - time: 20250426202500
+    name: 开水
+    amount: 180
+    unit: ml
+med:
+  - time: 20250426090100
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20250426100600
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20250426100600
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20250426100600
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
