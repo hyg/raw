@@ -37,7 +37,7 @@ food:
     amount: 20.0
     unit: g
   - time: 20250426090100
-    name: 瑞幸每日黑咖浓郁深度烘焙
+    name: 瑞幸每日黑咖醇香中深烘焙
     amount: 0.5
     unit: 份
   - time: 20250426133600
@@ -88,7 +88,7 @@ food:
     amount: 20.0
     unit: g
   - time: 20250426140400
-    name: 瑞幸每日黑咖浓郁深度烘焙
+    name: 瑞幸每日黑咖醇香中深烘焙
     amount: 0.5
     unit: 份
   - time: 20250426175200
