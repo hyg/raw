@@ -1,0 +1,24 @@
+name: 盖亚农场爽滑劲道玉米面条
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1489
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 7.2
+    unit: g
+    nrv: 12
+  脂肪:
+    amount: 0
+    unit: g
+    nrv: 0
+  碳水化合物:
+    amount: 80.4
+    unit: g
+    nrv: 27
+  钠:
+    amount: 33
+    unit: mg
+    nrv: 2
