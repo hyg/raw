@@ -1,0 +1,24 @@
+name: 浙梅免洗桑葚
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1275
+    unit: kj
+    nrv: 15
+  蛋白质:
+    amount: 5.6
+    unit: g
+    nrv: 9
+  脂肪:
+    amount: 2.2
+    unit: g
+    nrv: 4
+  碳水化合物:
+    amount: 64.6
+    unit: g
+    nrv: 22
+  钠:
+    amount: 82
+    unit: mg
+    nrv: 4
