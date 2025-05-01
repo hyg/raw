@@ -1,11 +1,11 @@
 name: DRIforChina2023
 gender: male
-age: 49
-weight: 51
-PAL: 1.4
+age: 50
+weight: 53.5
+PAL: 1.3
 element:
   热量:
-    RNI: 1828.83
+    RNI: 1745.40
     EAR:
     AI:
     UL:
@@ -13,15 +13,15 @@ element:
     AMDRmax:
     PI_NCD:
     SPL:
-    EER: 1828.83
-    BMR: 1306.31
+    EER: 1745.40
+    BMR: 1342.61
     unit: kcal
     readme: |
-      - BMR,基础代谢率 (kcal/d) = 14.52W-155.88S+565.79 = 1310.67 
+      - BMR,基础代谢率 (kcal/d) = 14.52W-155.88S+565.79
         - W体重,kg
         - S性别,男=0,女=1
       - PAL,身体活动水平。三级数值为1.4、1.7、2.0。
-      - EER字段:能量需要量 EER=BMR*PAL = 1828.83 
+      - EER字段:能量需要量 EER=BMR*PAL
   蛋白质:
     RNI: 65
     EAR: 60
