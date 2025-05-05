@@ -1,16 +1,16 @@
-date: 20250505
+date: 20250506
 sleep: 
-  time: 20250504211100
+  time: 20250505211100
   weight: 55.1
 wake:
-  time: 20250505035800
+  time: 20250506035800
   weight: 54.0
   SpO2: 95
   PRbpm: 59
   log: |
     不需要补水，睡觉中间起来小便1次。
 exercise: 
-- time: 20250505043700
+- time: 20250506043700
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -32,7 +32,7 @@ exercise:
   endheartrate: 80
   log: |
     室内运动后把脉: 寸脉深度浅、关脉中偏浅、尺脉深度中；侧向居中；寸脉关脉清晰有力、尺脉清晰。
-- time: 20250505153400
+- time: 20250506153400
   item:
   - type: walk
     amount: 25
@@ -40,7 +40,7 @@ exercise:
   SpO2: 93
   PRbpm: 133
 stool:
-- time: 20250505054500
+- time: 20250506054500
   amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
