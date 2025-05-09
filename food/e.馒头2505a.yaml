@@ -5,7 +5,7 @@ food:
   - name: 丝麦耘全麦粉
     amount: 400.0
     unit: g
-  - name: 河套牌雪花粉
+  - name: 河套牌麦芯粉
     amount: 80.0
     unit: g
 log: |
