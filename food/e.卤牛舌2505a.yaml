@@ -1,0 +1,15 @@
+name: 卤牛舌2505a
+amount: 226.0
+unit: g
+food:
+  - name: 牛舌
+    amount: 431.0
+    unit: g
+  - name: 豆瓣酱
+    amount: 12.0
+    unit: g
+log:
+  - 牛舌没有灼水，直接加豆瓣酱、卤料包在高压锅煮。
+  - 高压锅30分钟。卤牛舌和卤汁移到密封罐冷却，浸泡着放到保鲜层待用。
+comment:
+  - 软烂合适，偏淡。
