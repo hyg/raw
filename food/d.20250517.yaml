@@ -4,43 +4,43 @@ food:
     name: 人参果
     amount: 62.0
     unit: g
-  - time: 202505170112000
+  - time: 20250517112000
     name: 馒头2505b
     amount: 1
     unit: 个
-  - time: 202505170112000
+  - time: 20250517112000
     name: 广信烟熏牡蛎
     amount: 70.5
     unit: g
-  - time: 202505170112000
+  - time: 20250517112000
     name: 枸杞
     amount: 3.0
     unit: g
-  - time: 202505170112000
+  - time: 20250517112000
     name: 油莎豆
     amount: 5.0
     unit: g
-  - time: 202505170112000
+  - time: 20250517112000
     name: 胡萝卜
     amount: 51.5
     unit: g
-  - time: 202505170112000
+  - time: 20250517112000
     name: 洋葱
     amount: 49.0
     unit: g
-  - time: 202505170112000
+  - time: 20250517112000
     name: 圆白菜
     amount: 49.0
     unit: g
-  - time: 202505170112000
+  - time: 20250517112000
     name: 南瓜
     amount: 40.5
     unit: g
-  - time: 202505170112000
+  - time: 20250517112000
     name: 姜
     amount: 8.5
     unit: g
-  - time: 202505170112000
+  - time: 20250517112000
     name: 莲花松茸鲜
     amount: 1.0
     unit: g
@@ -149,7 +149,7 @@ water:
     name: 开水
     amount: 250
     unit: ml
-  - time: 202505170112000
+  - time: 20250517112000
     name: 汤水
     amount: 295.5
     unit: ml
@@ -188,7 +188,7 @@ water:
     amount: 140
     unit: ml
 med:
-  - time: 202505170112000
+  - time: 20250517112000
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
