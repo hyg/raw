@@ -1,0 +1,20 @@
+name: 扬农沁香米
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1481
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 7.4
+    unit: g
+    nrv: 12
+  脂肪:
+    amount: 0.7
+    unit: g
+    nrv: 1
+  碳水化合物:
+    amount: 78.2
+    unit: g
+    nrv: 26

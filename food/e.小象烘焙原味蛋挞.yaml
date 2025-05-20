@@ -1,0 +1,24 @@
+name: 小象烘焙原味蛋挞
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 906
+    unit: kj
+    nrv: 11
+  蛋白质:
+    amount: 3.1
+    unit: g
+    nrv: 5
+  脂肪:
+    amount: 14.6
+    unit: g
+    nrv: 24
+  碳水化合物:
+    amount: 18.4
+    unit: g
+    nrv: 6
+  钠:
+    amount: 121
+    unit: mg
+    nrv: 6
