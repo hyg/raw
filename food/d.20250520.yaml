@@ -169,6 +169,10 @@ water:
     name: 可可奶
     amount: 80.0
     unit: ml
+  - time: 20250521005000
+    name: 开水
+    amount: 140
+    unit: ml
 med:
   - time: 20250520111100
     name: 楚牛牛磺酸

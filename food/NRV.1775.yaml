@@ -1,0 +1,18 @@
+name: 1775
+DRIs: DRIforChina2023
+element:
+  热量:
+    amount: 1775
+    unit: kcal
+  蛋白质: 
+    amount: 77.66
+    unit: g
+  脂肪:
+    amount: 44.38
+    unit: g
+  碳水化合物:
+    amount: 255.16
+    unit: g
+  水:
+    amount: 2000
+    unit: ml
