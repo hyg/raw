@@ -1,0 +1,28 @@
+name: 河套全脂奶粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2169
+    unit: kj
+    nrv: 26
+  蛋白质:
+    amount: 23.8
+    unit: g
+    nrv: 40
+  脂肪:
+    amount: 27.0
+    unit: g
+    nrv: 45
+  碳水化合物:
+    amount: 45.0
+    unit: g
+    nrv: 15
+  钠:
+    amount: 380
+    unit: mg
+    nrv: 15
+  钙:
+    amount: 1000
+    unit: mg
+    nrv: 125
