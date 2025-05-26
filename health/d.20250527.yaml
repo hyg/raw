@@ -1,6 +1,6 @@
 date: 20250526
 sleep: 
-  time: 20250525200600
+  time: 20250526200600
   weight: 53.9
 wake:
   time: 20250526085600
@@ -32,6 +32,13 @@ exercise:
   endheartrate: 98
   log: |
     室内运动后把脉: 寸脉关脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
+- time: 20250526153400
+  item:
+  - type: walk
+    amount: 25
+    unit: minute
+  SpO2: 93
+  PRbpm: 133
 stool:
 - time: 20250526115000
   amount:   2   #	1:多; 2:适中;	3:少
