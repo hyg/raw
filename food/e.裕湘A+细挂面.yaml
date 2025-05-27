@@ -1,0 +1,24 @@
+name: 裕湘A+细挂面
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1502
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 12.0
+    unit: g
+    nrv: 20
+  脂肪:
+    amount: 2.0
+    unit: g
+    nrv: 3
+  碳水化合物:
+    amount: 72.0
+    unit: g
+    nrv: 24
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0

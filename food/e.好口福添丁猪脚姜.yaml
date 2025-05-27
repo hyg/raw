@@ -1,0 +1,24 @@
+name: 好口福添丁猪脚姜
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 579
+    unit: kj
+    nrv: 7
+  蛋白质:
+    amount: 8.3
+    unit: g
+    nrv: 14
+  脂肪:
+    amount: 6.5
+    unit: g
+    nrv: 11
+  碳水化合物:
+    amount: 11.6
+    unit: g
+    nrv: 4
+  钠:
+    amount: 288
+    unit: mg
+    nrv: 14

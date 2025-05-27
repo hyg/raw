@@ -1,0 +1,24 @@
+name: 冠生园肉蓉压缩饼干
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1915
+    unit: kj
+    nrv: 23
+  蛋白质:
+    amount: 8.4
+    unit: g
+    nrv: 14
+  脂肪:
+    amount: 16.5
+    unit: g
+    nrv: 28
+  碳水化合物:
+    amount: 67.1
+    unit: g
+    nrv: 22
+  钠:
+    amount: 527
+    unit: mg
+    nrv: 26

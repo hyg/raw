@@ -1,0 +1,24 @@
+name: 阿拉里玉米面条
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1485
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 6.6
+    unit: g
+    nrv: 11
+  脂肪:
+    amount: 2.0
+    unit: g
+    nrv: 3
+  碳水化合物:
+    amount: 76.4
+    unit: g
+    nrv: 25
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0

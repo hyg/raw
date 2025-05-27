@@ -1,0 +1,24 @@
+name: 楚郡味豆瓣酱
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 353
+    unit: kj
+    nrv: 4
+  蛋白质:
+    amount: 3.7
+    unit: g
+    nrv: 6
+  脂肪:
+    amount: 2.5
+    unit: g
+    nrv: 4
+  碳水化合物:
+    amount: 11.6
+    unit: g
+    nrv: 4
+  钠:
+    amount: 3814
+    unit: mg
+    nrv: 191
