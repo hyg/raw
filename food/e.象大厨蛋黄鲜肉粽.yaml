@@ -1,0 +1,24 @@
+name: 象大厨蛋黄鲜肉粽
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 937
+    unit: kj
+    nrv: 11
+  蛋白质:
+    amount: 4.2
+    unit: g
+    nrv: 7
+  脂肪:
+    amount: 6.8
+    unit: g
+    nrv: 11
+  碳水化合物:
+    amount: 36.1
+    unit: g
+    nrv: 12
+  钠:
+    amount: 530
+    unit: mg
+    nrv: 27
