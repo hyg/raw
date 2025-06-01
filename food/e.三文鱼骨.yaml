@@ -1,0 +1,24 @@
+name: 三文鱼骨
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1066
+    unit: kj
+    nrv: 13
+  蛋白质:
+    amount: 12.9
+    unit: g
+    nrv: 22
+  脂肪:
+    amount: 22.7
+    unit: g
+    nrv: 38
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  钠:
+    amount: 122
+    unit: mg
+    nrv: 6

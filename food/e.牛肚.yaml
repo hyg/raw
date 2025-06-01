@@ -1,0 +1,76 @@
+name: 牛肚
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 72
+    unit: kcal
+    nrv: 3.51
+  蛋白质:
+    amount: 14.5
+    unit: g
+    nrv: 16.17
+  脂肪:
+    amount: 1.6
+    unit: g
+    nrv: 2.81
+  VA(视黄醇等):
+    amount: 2
+    unit: μg
+    nrv: 0.26
+  VE(生育酚):
+    amount: 0.51
+    unit: mg
+    nrv: 3.64
+  VB1(硫胺素):
+    amount: 0.03
+    unit: mg
+    nrv: 2.14
+  VB2(核黄素):
+    amount: 0.13
+    unit: mg
+    nrv: 9.29
+  VB3(烟酸):
+    amount: 2.5
+    unit: mg
+    nrv: 16.67
+  磷:
+    amount: 104
+    unit: mg
+    nrv: 14.65
+  钙:
+    amount: 40
+    unit: mg
+    nrv: 5
+  铁:
+    amount: 1.8
+    unit: mg
+    nrv: 15
+  钠:
+    amount: 61
+    unit: mg
+    nrv: 4.07
+  钾:
+    amount: 162
+    unit: mg
+    nrv: 8.1
+  镁:
+    amount: 17
+    unit: mg
+    nrv: 5.31
+  锌:
+    amount: 2.31
+    unit: mg
+    nrv: 19.25
+  硒:
+    amount: 9.1
+    unit: μg
+    nrv: 15.17
+  铜:
+    amount: 0.07
+    unit: mg
+    nrv: 8.75
+  锰:
+    amount: 0.21
+    unit: mg
+    nrv: 4.67

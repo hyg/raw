@@ -1,0 +1,24 @@
+name: 福润东方有机小米
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1520
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 8.2
+    unit: g
+    nrv: 14
+  脂肪:
+    amount: 2.5
+    unit: g
+    nrv: 4
+  碳水化合物:
+    amount: 75.8
+    unit: g
+    nrv: 25
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0

@@ -1,0 +1,15 @@
+name: 卤牛肚2506a
+amount: 230
+unit: g
+food:
+  - name: 牛肚
+    amount: 500
+    unit: g
+  - name: 豆瓣酱
+    amount: 12.0
+    unit: g
+log:
+  - 牛肚没有灼水，直接加豆瓣酱、卤料包在高压锅煮。
+  - 高压锅18分钟。卤牛舌和卤汁移到密封罐冷却，浸泡着放到保鲜层待用。
+comment:
+  - 软烂合适，偏淡。
