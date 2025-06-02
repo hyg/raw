@@ -22,8 +22,12 @@ food:
     amount: 100
     unit: g
   - time: 20250603115400
+    name: 卤牛肚2506a
+    amount: 50
+    unit: g
+  - time: 20250603115400
     name: 康大熏香兔前腿
-    amount: 65
+    amount: 0
     unit: g
   - time: 20250603115400
     name: 中盐绿色低钠湖盐
@@ -64,7 +68,6 @@ food:
     name: 百香果
     amount: 80
     unit: g
-
 
   - time: 20250603144400
     name: 土豆
