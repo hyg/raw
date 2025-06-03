@@ -1,212 +1,221 @@
 date: 20250603
 food:
-  - time: 20250603115000
+  - time: 20250603101700
     name: 人参果
-    amount: 125
+    amount: 99.0
     unit: g
-
-  - time: 20250603115400
-    name: 农家胚芽米
-    amount: 70.5
+  - time: 20250603101900
+    name: 枸杞
+    amount: 3.0
     unit: g
-  - time: 20250603115400
-    name: 绿豆
+  - time: 20250603101900
+    name: 油莎豆
     amount: 5.0
     unit: g
-  - time: 20250603115400
+  - time: 20250603101900
     name: 南瓜
-    amount: 60
+    amount: 46.0
     unit: g
-  - time: 20250603115400
+  - time: 20250603101900
     name: 芦笋
-    amount: 100
+    amount: 105.0
     unit: g
-  - time: 20250603115400
-    name: 卤牛肚2506a
-    amount: 50
+  - time: 20250603101900
+    name: 三文鱼骨
+    amount: 44.5
     unit: g
-  - time: 20250603115400
-    name: 康大熏香兔前腿
-    amount: 0
+    log:
+      - 鱼骨11.5g，鱼肉33.0g。
+  - time: 20250603101900
+    name: 牛肚
+    amount: 29.5
     unit: g
-  - time: 20250603115400
+  - time: 20250603101900
     name: 中盐绿色低钠湖盐
     amount: 1.0
     unit: g
-
-  - time: 20250603120000
+  - time: 20250603101900
+    name: 姜
+    amount: 5.0
+    unit: g
+  - time: 20250603101900
+    name: 胡椒粉
+    amount: 0.5
+    unit: g
+  - time: 20250603104000
     name: 麦胚芽
     amount: 15.0
     unit: g
-  - time: 20250603120000
+  - time: 20250603104000
     name: 亚麻籽粉
     amount: 10.0
     unit: g
-  - time: 20250603120000
+  - time: 20250603104000
     name: 浙梅免洗桑葚
     amount: 10.0
     unit: g
-
-  - time: 20250603105500
+  - time: 20250603104800
+    name: 农家胚芽米
+    amount: 70.5
+    unit: g
+  - time: 20250603104800
+    name: 绿豆
+    amount: 5.0
+    unit: g
+  - time: 20250603110000
     name: 河套全脂奶粉
     amount: 20.0
     unit: g
-  - time: 20250603105500
+  - time: 20250603110000
     name: 瑞幸每日黑咖浓郁深度烘焙
     amount: 0.5
     unit: 份
-
-  - time: 20250603144200
+  - time: 20250603153000
     name: 番茄酱
-    amount: 30
+    amount: 34.0
     unit: g
-  - time: 20250603144200
+  - time: 20250603153000
     name: 域尚楼兰沙棘全果原浆
-    amount: 20
+    amount: 21.0
     unit: g
-  - time: 20250603144200
+  - time: 20250603153000
     name: 百香果
-    amount: 80
+    amount: 73.5
     unit: g
-
-  - time: 20250603144400
+  - time: 20250603153200
+    name: 西瓜
+    amount: 390.0
+    unit: g
+  - time: 20250603154500
     name: 土豆
-    amount: 200
+    amount: 161.0
     unit: g
-  - time: 20250603144400
+  - time: 20250603154500
     name: 腌鸡腿肉2504c
-    amount: 72.5
+    amount: 69.5
     unit: g
     log:
       - 不预热、上下火、上层，180°C+15分钟。
-      - 翻面，上下火，上层，220°C+5分钟。
-  - time: 20250603144400
+      - 翻面，上下火，上层，200°C+5分钟。
+  - time: 20250603154500
     name: 油菜
-    amount: 150
+    amount: 160.5
     unit: g
-  - time: 20250603144400
+  - time: 20250603154500
     name: 快菜
-    amount: 80
+    amount: 97.5
     unit: g
-  - time: 20250603144400
+  - time: 20250603154500
     name: 中盐绿色低钠湖盐
     amount: 1.0
     unit: g
-  - time: 20250603144400
+  - time: 20250603154500
     name: 油
     amount: 0.5
     unit: g
-
-  - time: 20250603151200
+  - time: 20250603160200
     name: 河套全脂奶粉
     amount: 20.0
     unit: g
-  - time: 20250603151200
+  - time: 20250603160200
     name: 瑞幸每日黑咖浓郁深度烘焙
     amount: 0.5
     unit: 份
-
-  - time: 20250603191000
+  - time: 20250603210800
     name: 桔柚
-    amount: 100
+    amount: 182.0
     unit: g
-
-  - time: 20250603191300
+  - time: 20250603211100
     name: 馒头2506a
     amount: 1
     unit: 个
-  - time: 20250603191300
-    name: 鸡蛋
-    amount: 45
+  - time: 20250603211100
+    name: 香油臭豆腐乳
+    amount: 19.0
     unit: g
-  - time: 20250603191300
+  - time: 20250603211100
+    name: 锦悦和五城茶干
+    amount: 72.5
+    unit: g
+  - time: 20250603211100
     name: 菠菜
-    amount: 100
+    amount: 105.0
     unit: g
-  - time: 20250603191300
+  - time: 20250603211100
     name: 中盐绿色低钠湖盐
     amount: 1.0
     unit: g
-  - time: 20250603191300
-    name: 味精
-    amount: 0.5
-    unit: g
-  - time: 20250603191300
+  - time: 20250603211100
     name: 油
     amount: 0.5
     unit: g    
-
-  - time: 20250603195700
+  - time: 20250603212300
+    name: 锦悦和原味黄山烧饼
+    amount: 121.5
+    unit: g
+  - time: 20250603214400
     name: 河套全脂奶粉
     amount: 20.0
     unit: g
-  - time: 20250603195700
+  - time: 20250603214400
     name: 天然可可粉
     amount: 3.0
     unit: g
 water:
-  - time: 20250603101300
+  - time: 20250603083600
     name: 开水
-    amount: 175
+    amount: 250
     unit: ml
-  - time: 20250603112000
+  - time: 20250603094800
     name: 开水
     amount: 250
     unit: ml
   - time: 20250603121000
-    name: 汤水
-    amount: 255.5
+    name: 粥水汤水
+    amount: 650
     unit: ml
-    log:
-      - 结束后494.5克，汤水255.5克。
-  - time: 20250603105500
+  - time: 20250603110000
     name: 咖啡
-    amount: 82.0
+    amount: 80.0
     unit: ml
-  - time: 20250603115200
+  - time: 20250603120100
     name: 开水
     amount: 250
     unit: ml
-
   - time: 20250603125400
     name: 开水
     amount: 250
     unit: ml
-  - time: 20250603151200
+  - time: 20250603160200
     name: 咖啡
     amount: 80.0
     unit: ml
-  - time: 20250603165000
+  - time: 20250603175400
     name: 开水
     amount: 250
     unit: ml
-  - time: 20250603182800
-    name: 开水
-    amount: 250
-    unit: ml
-
-  - time: 20250603195700
+  - time: 20250603214400
     name: 可可奶
     amount: 80.0
     unit: ml
-  - time: 20250603221200
+  - time: 20250603222200
     name: 开水
-    amount: 150
+    amount: 50
     unit: ml
 med:
-  - time: 20250603105500
+  - time: 20250603110000
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
-  - time: 20250603115200
+  - time: 20250603120100
     name: 维生素D3
     amount: 125
     unit: μg
-  - time: 20250603115200
+  - time: 20250603120100
     name: selenium
     amount: 200
     unit: μg
-  - time: 20250603115200
+  - time: 20250603120100
     name: mature multi
     amount: 1
     unit: 片
