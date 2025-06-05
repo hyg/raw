@@ -1,0 +1,24 @@
+name: 宣掌柜五香虎皮鸡爪
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 911
+    unit: kj
+    nrv: 11
+  蛋白质:
+    amount: 15.0
+    unit: g
+    nrv: 25
+  脂肪:
+    amount: 16.2
+    unit: g
+    nrv: 27
+  碳水化合物:
+    amount: 3.3
+    unit: g
+    nrv: 1
+  钠:
+    amount: 1100
+    unit: mg
+    nrv: 55
