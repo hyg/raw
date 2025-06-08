@@ -1,0 +1,185 @@
+date: 20250607
+food:
+  - time: 20250607110500
+    name: 人参果
+    amount: 67.5
+    unit: g
+  - time: 20250607110700
+    name: 李子
+    amount: 87.5
+    unit: g
+  - time: 20250607110800
+    name: 馒头2506a
+    amount: 1
+    unit: 个
+  - time: 20250607110800
+    name: 南瓜
+    amount: 52.0
+    unit: g
+  - time: 20250607110800
+    name: 芦笋
+    amount: 127.0
+    unit: g
+  - time: 20250607112200
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20250607112200
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20250607112200
+    name: 浙梅免洗桑葚
+    amount: 10.0
+    unit: g
+  - time: 20250607113000
+    name: 枸杞
+    amount: 3.0
+    unit: g
+  - time: 20250607113000
+    name: 油莎豆
+    amount: 5.0
+    unit: g
+  - time: 20250607113000
+    name: 三文鱼骨
+    amount: 226.0
+    unit: g
+    log:
+      - 骨重54.5g，肉重171.5g。
+  - time: 20250607113000
+    name: 冬瓜
+    amount: 282.0
+    unit: g
+  - time: 20250607113000
+    name: 洋葱
+    amount: 40.5
+    unit: g
+  - time: 20250607113000
+    name: 中盐绿色低钠湖盐
+    amount: 2.0
+    unit: g
+  - time: 20250607113000
+    name: 姜
+    amount: 6.0
+    unit: g
+  - time: 20250607113000
+    name: 胡椒粉
+    amount: 0.5
+    unit: g
+  - time: 20250607115800
+    name: 河套全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250607115800
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+
+  - time: 20250607192300
+    name: 番茄酱
+    amount: 32.5
+    unit: g
+  - time: 20250607192300
+    name: 域尚楼兰沙棘全果原浆
+    amount: 22.5
+    unit: g
+  - time: 20250607192300
+    name: 百香果
+    amount: 44.5
+    unit: g
+  - time: 20250607192500
+    name: 桔柚
+    amount: 84.0
+    unit: g
+  - time: 20250607192600
+    name: 西瓜
+    amount: 554.5
+    unit: g
+  - time: 20250607193400
+    name: 裕湘A+细挂面
+    amount: 150.0
+    unit: g
+  - time: 20250607193400
+    name: 卤牛肚2506a
+    amount: 155.0
+    unit: g
+  - time: 20250607193400
+    name: 苦菊
+    amount: 178.0
+    unit: g
+  - time: 20250607193400
+    name: 中盐绿色低钠湖盐
+    amount: 1.5
+    unit: g
+  - time: 20250607205500
+    name: 伊利脱脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250607205500
+    name: 天然可可粉
+    amount: 1.0
+    unit: g
+water:
+  - time: 20250607092900
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20250607103300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250607113000
+    name: 汤水
+    amount: 250
+    unit: ml
+  - time: 20250607115800
+    name: 咖啡
+    amount: 89.5
+    unit: ml
+  - time: 20250607125000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250607143200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250607160500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250607172100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250607193400
+    name: 汤水
+    amount: 400
+    unit: ml
+  - time: 20250607205500
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20250607222200
+    name: 开水
+    amount: 220
+    unit: ml
+med:
+  - time: 20250607115800
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20250607125000
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20250607125000
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20250607125000
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |

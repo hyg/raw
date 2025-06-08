@@ -23,7 +23,7 @@ var ftable = new Object();  // food data
 // element detail tables
 //const Keyelement = "热量";
 //const Keyelement = "蛋白质";
-const Keyelement = "脂肪";
+//const Keyelement = "脂肪";
 //const Keyelement = "碳水化合物";
 //const Keyelement = "钠";
 //const Keyelement = "膳食纤维";
@@ -155,6 +155,11 @@ function loadmap() {
     // food -> element
     // food -> food
     try {
+        if (fs.existsSync('food/.last.yaml')){
+            f = yaml.load(fs.readFileSync("food/.last.yaml", 'utf8'));
+            fmap[f.date] = f;
+        }
+            
         fs.readdirSync("food").forEach(file => {
             if (file.substr(0, 2) == "d.") {
                 if ((file >= startfilename) & (file <= endfilename)) {
@@ -168,6 +173,10 @@ function loadmap() {
             }
         });
 
+        if (fs.existsSync('health/.last.yaml')){
+            f = yaml.load(fs.readFileSync("health/.last.yaml", 'utf8'));
+            hmap[f.date] = f;
+        }
         fs.readdirSync("health").forEach(file => {
             if (file.substr(0, 2) == "d.") {
                 if ((file >= startfilename) & (file <= endfilename)) {
@@ -182,14 +191,14 @@ function loadmap() {
         console.log("yaml read error！" + e);
     }
 
-/*         var sortelement = "蛋白质";
-        let keysSorted = Object.keys(emap).sort(function (a, b) { return ((emap[b].element== null)?0:((emap[b].element[sortelement]== null)?0:emap[b].element[sortelement].amount)) - ((emap[a].element==null)?0:((emap[a].element[sortelement]== null)?0:emap[a].element[sortelement].amount))});
-    
-        for (var j = 0; j < keysSorted.length; j++) {
-            //console.log("makeplan() > keysSorted[%d]: %s",j,keysSorted[j]);
-            var food = emap[keysSorted[j]];
-            console.log("%d:%s\t%d%s/%f%s",j,keysSorted[j],((emap[keysSorted[j]].element== null)?0:((emap[keysSorted[j]].element[sortelement]== null)?0:emap[keysSorted[j]].element[sortelement].amount)),((emap[keysSorted[j]].element==null)?"kcal":((emap[keysSorted[j]].element[sortelement]== null)?"kcal":emap[keysSorted[j]].element[sortelement].unit)),emap[keysSorted[j]].amount,emap[keysSorted[j]].unit);
-        } */
+    /*         var sortelement = "蛋白质";
+            let keysSorted = Object.keys(emap).sort(function (a, b) { return ((emap[b].element== null)?0:((emap[b].element[sortelement]== null)?0:emap[b].element[sortelement].amount)) - ((emap[a].element==null)?0:((emap[a].element[sortelement]== null)?0:emap[a].element[sortelement].amount))});
+        
+            for (var j = 0; j < keysSorted.length; j++) {
+                //console.log("makeplan() > keysSorted[%d]: %s",j,keysSorted[j]);
+                var food = emap[keysSorted[j]];
+                console.log("%d:%s\t%d%s/%f%s",j,keysSorted[j],((emap[keysSorted[j]].element== null)?0:((emap[keysSorted[j]].element[sortelement]== null)?0:emap[keysSorted[j]].element[sortelement].amount)),((emap[keysSorted[j]].element==null)?"kcal":((emap[keysSorted[j]].element[sortelement]== null)?"kcal":emap[keysSorted[j]].element[sortelement].unit)),emap[keysSorted[j]].amount,emap[keysSorted[j]].unit);
+            } */
 
     /*
     // make the Nutritional composition table of mixtures
@@ -552,15 +561,15 @@ function maketable() {
 
 
     if (etable["热量"] != null) {
-        if(etable["脂肪"].unit != "g"){
+        if (etable["脂肪"].unit != "g") {
             etable["脂肪"].amount = convert(etable["脂肪"].amount).from(etable["脂肪"].unit).to('g');
             etable["脂肪"].unit = "g";
         }
-        if(etable["蛋白质"].unit != "g"){
+        if (etable["蛋白质"].unit != "g") {
             etable["蛋白质"].amount = convert(etable["蛋白质"].amount).from(etable["蛋白质"].unit).to('g');
             etable["蛋白质"].unit = "g";
         }
-        if(etable["碳水化合物"].unit != "g"){
+        if (etable["碳水化合物"].unit != "g") {
             etable["碳水化合物"].amount = convert(etable["碳水化合物"].amount).from(etable["碳水化合物"].unit).to('g');
             etable["碳水化合物"].unit = "g";
         }
@@ -615,7 +624,7 @@ function maketable() {
             elementtable[name] = item;
         }
         //console.table(elementtable, ["总量", "日均", "单位", "NRV(%)", "RNI", "RNI(%)", "AI", "AI(%)", "UL", "UL(%)", "PI_NCD", "SPL"]);
-        console.table(elementtable, ["总量","日均", "单位", "NRV(%)", "RNI", "RNI(%)", "AI", "AI(%)", "UL", "UL(%)", "PI_NCD", "SPL"]);
+        console.table(elementtable, ["总量", "日均", "单位", "NRV(%)", "RNI", "RNI(%)", "AI", "AI(%)", "UL", "UL(%)", "PI_NCD", "SPL"]);
     } else {
         console.log("all food have not element data...");
     }
@@ -898,7 +907,7 @@ function foodsum(foodname, foodamount, foodunit, etable, ftable) {
             }else{
                 console.log("etable[e] before is undefined");
             } */
-            
+
             if (e in etable) {
                 /* console.log("foodsum()> e:",foodname,e);
                 if (item.unit != etable[e].unit) {

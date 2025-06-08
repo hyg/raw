@@ -1,0 +1,84 @@
+name: 冬瓜
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 12
+    unit: kcal
+    nrv: 0.59
+  蛋白质:
+    amount: 0.4
+    unit: g
+    nrv: 0.45
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0.35
+  碳水化合物:
+    amount: 2.6
+    unit: g
+    nrv: 0.88
+  VA(视黄醇等):
+    amount: 13
+    unit: μg
+    nrv: 1.69
+  VE(生育酚):
+    amount: 0.08
+    unit: mg
+    nrv: 0.57
+  VB1(硫胺素):
+    amount: 0.01
+    unit: mg
+    nrv: 0.71
+  VB2(核黄素):
+    amount: 0.01
+    unit: mg
+    nrv: 0.71
+  VB3(烟酸):
+    amount: 0.3
+    unit: mg
+    nrv: 2
+  VC(抗坏血酸):
+    amount: 18
+    unit: mg
+    nrv: 18
+  磷:
+    amount: 12
+    unit: mg
+    nrv: 1.69
+  钙:
+    amount: 19
+    unit: mg
+    nrv: 2.38
+  铁:
+    amount: 0.2
+    unit: mg
+    nrv: 1.67
+  钠:
+    amount: 2
+    unit: mg
+    nrv: 0.13
+  钾:
+    amount: 78
+    unit: mg
+    nrv: 3.9
+  镁:
+    amount: 8
+    unit: mg
+    nrv: 2.5
+  锌:
+    amount: 0.07
+    unit: mg
+    nrv: 0.58
+  硒:
+    amount: 0.2
+    unit: μg
+    nrv: 0.33
+  铜:
+    amount: 0.07
+    unit: mg
+    nrv: 8.75
+  锰:
+    amount: 0.03
+    unit: mg
+    nrv: 0.67

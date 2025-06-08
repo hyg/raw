@@ -1,0 +1,89 @@
+name: 苦菊
+nickname: 菊苣
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 23
+    unit: kcal
+    nrv: 1.12
+  蛋白质:
+    amount: 1.7
+    unit: g
+    nrv: 1.9
+  脂肪:
+    amount: 0.3
+    unit: g
+    nrv: 0.53
+  碳水化合物:
+    amount: 4.7
+    unit: g
+    nrv: 1.59
+  膳食纤维:
+    amount: 4
+    unit: g
+    nrv: 13.33
+  VA(视黄醇等):
+    amount: 286
+    unit: μg
+    nrv: 37.14
+  VE(生育酚):
+    amount: 2.26
+    unit: mg
+    nrv: 16.14
+  VB1(硫胺素):
+    amount: 0.06
+    unit: mg
+    nrv: 4.29
+  VB2(核黄素):
+    amount: 0.1
+    unit: mg
+    nrv: 7.14
+  VB3(烟酸):
+    amount: 0.5
+    unit: mg
+    nrv: 3.33
+  VB6(吡哆素):
+    amount: 0.1
+    unit: mg
+    nrv: 7.14
+  VB9(叶酸):
+    amount: 110
+    unit: μg
+    nrv: 27.5
+  VC(抗坏血酸):
+    amount: 24
+    unit: mg
+    nrv: 24
+  VK(凝血维生素):
+    amount: 297.6
+    unit: μg
+    nrv: 372
+  磷:
+    amount: 47
+    unit: mg
+    nrv: 6.62
+  钙:
+    amount: 100
+    unit: mg
+    nrv: 12.5
+  铁:
+    amount: 0.9
+    unit: mg
+    nrv: 7.5
+  钠:
+    amount: 45
+    unit: mg
+    nrv: 3
+  钾:
+    amount: 420
+    unit: mg
+    nrv: 21
+  镁:
+    amount: 30
+    unit: mg
+    nrv: 9.38
+  锌:
+    amount: 0.42
+    unit: mg
+    nrv: 3.5

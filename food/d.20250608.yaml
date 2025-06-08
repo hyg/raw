@@ -1,0 +1,159 @@
+date: 20250608
+food:
+  - time: 20250608114500
+    name: 人参果
+    amount: 113.5
+    unit: g
+  - time: 20250608114800
+    name: 馒头2506a
+    amount: 1
+    unit: 个
+  - time: 20250608114800
+    name: 南瓜
+    amount: 60.5
+    unit: g
+  - time: 20250608114800
+    name: 芦笋
+    amount: 125.0
+    unit: g
+  - time: 20250608114800
+    name: 枸杞
+    amount: 3.0
+    unit: g
+  - time: 20250608114800
+    name: 油莎豆
+    amount: 5.0
+    unit: g
+  - time: 20250608114800
+    name: 宣掌柜五香虎皮鸡爪
+    amount: 66.5
+    unit: g
+    log:
+      - 骨重10.0g，肉重56.5g。
+  - time: 20250608114800
+    name: 姜
+    amount: 5.0
+    unit: g
+  - time: 20250608120900
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20250608120900
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20250608120900
+    name: 浙梅免洗桑葚
+    amount: 10.0
+    unit: g
+  - time: 20250608183000
+    name: 河套全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250608183000
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+  - time: 20250608181600
+    name: 番茄酱
+    amount: 31.0
+    unit: g
+  - time: 20250608181600
+    name: 域尚楼兰沙棘全果原浆
+    amount: 20.0
+    unit: g
+  - time: 20250608181600
+    name: 百香果
+    amount: 45.0
+    unit: g
+  - time: 20250608181700
+    name: 西瓜
+    amount: 560.0
+    unit: g
+  - time: 20250608183000
+    name: 土豆
+    amount: 251.5
+    unit: g
+  - time: 20250608183000
+    name: 腌鸡腿肉2504c
+    amount: 67.0
+    unit: g
+    log:
+      - 不预热、上下火、上层，180°C+15分钟。
+      - 翻面，上下火，上层，210°C+5分钟。
+  - time: 20250608183000
+    name: 快菜
+    amount: 205.0
+    unit: g
+  - time: 20250608183000
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250608183000
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20250608190000
+    name: 河套全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250608190000
+    name: 天然可可粉
+    amount: 3.0
+    unit: g
+water:
+  - time: 20250608102500
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20250608112700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250608183000
+    name: 咖啡
+    amount: 83.0
+    unit: ml
+  - time: 20250608133000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250608142800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250608163000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250608181700
+    name: 西瓜汁
+    amount: 350
+    unit: ml
+  - time: 20250608190000
+    name: 可可奶
+    amount: 80.5
+    unit: ml
+  - time: 20250608195000
+    name: 开水
+    amount: 50
+    unit: ml
+med:
+  - time: 20250608183000
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20250608133000
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20250608133000
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20250608133000
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
