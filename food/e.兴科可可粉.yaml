@@ -1,0 +1,24 @@
+name: 兴科可可粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1713
+    unit: kj
+    nrv: 20
+  蛋白质:
+    amount: 23
+    unit: g
+    nrv: 38
+  脂肪:
+    amount: 11
+    unit: g
+    nrv: 18
+  碳水化合物:
+    amount: 53.8
+    unit: g
+    nrv: 18
+  钠:
+    amount: 20
+    unit: mg
+    nrv: 1

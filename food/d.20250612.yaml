@@ -1,0 +1,205 @@
+date: 20250612
+food:
+  - time: 20250612070700
+    name: 人参果
+    amount: 77.5
+    unit: g  
+  - time: 20250612070900
+    name: 李子
+    amount: 43.0
+    unit: g   
+  - time: 20250612071100
+    name: 荔枝
+    amount: 20.0
+    unit: g  
+  - time: 20250612071400
+    name: 土豆
+    amount: 123.0
+    unit: g
+  - time: 20250612071400
+    name: 南瓜
+    amount: 66.0
+    unit: g
+  - time: 20250612190100
+    name: 宣掌柜五香虎皮鸡爪
+    amount: 65.0
+    unit: g
+    log:
+      - 骨重12.0g，肉重53.0g。
+  - time: 20250612071400
+    name: 芦笋
+    amount: 89.5
+    unit: g
+  - time: 20250612071400
+    name: 枸杞
+    amount: 3.0
+    unit: g
+  - time: 20250612071400
+    name: 油莎豆
+    amount: 5.0
+    unit: g
+  - time: 20250612071400
+    name: 姜
+    amount: 5.0
+    unit: g  
+  - time: 20250612073400
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20250612073400
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20250612073400
+    name: 浙梅免洗桑葚
+    amount: 10.0
+    unit: g  
+  - time: 20250612074000
+    name: 河套全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250612074000
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g  
+  
+  - time: 20250612115900
+    name: 番茄酱
+    amount: 38.0
+    unit: g
+  - time: 20250612115900
+    name: 域尚楼兰沙棘全果原浆
+    amount: 25.5
+    unit: g
+  - time: 20250612115900
+    name: 菊粉
+    amount: 15.0
+    unit: g
+  - time: 20250612120000
+    name: 人参果
+    amount: 33.0
+    unit: g
+  - time: 20250612120100
+    name: 李子
+    amount: 87.5
+    unit: g
+  - time: 20250612120400
+    name: 荔枝
+    amount: 35.5
+    unit: g    
+  - time: 20250612120700
+    name: 扬农沁香米
+    amount: 70.0
+    unit: g
+  - time: 20250612120700
+    name: 卤羊腿肉2506a
+    amount: 59.0
+    unit: g
+  - time: 20250612120700
+    name: 菜心
+    amount: 161.0
+    unit: g
+  - time: 20250612120700
+    name: 中盐绿色低钠湖盐
+    amount: 0.5
+    unit: g
+  - time: 20250612122000
+    name: 河套全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250612122000
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g  
+  - time: 20250612182200
+    name: 橙
+    amount: 114.5
+    unit: g
+  - time: 20250612182500
+    name: 馒头2506b
+    amount: 1
+    unit: 个
+  - time: 20250612182500
+    name: 鸡蛋
+    amount: 45.0
+    unit: g
+  - time: 20250612182500
+    name: 苦菊
+    amount: 113.0
+    unit: g
+  - time: 20250612182500
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250612182500
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20250612184400
+    name: 河套全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250612184400
+    name: 天然可可粉
+    amount: 3.0
+    unit: g
+water:
+  - time: 20250612060800
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20250612065700
+    name: 开水
+    amount: 250
+    unit: ml  
+  - time: 20250612074000
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20250612078300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250612093100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250612102600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250612122000
+    name: 咖啡
+    amount: 80.0
+    unit: ml    
+  - time: 20250612140500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250612161200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250612184400
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20250612190000
+    name: 开水
+    amount: 100
+    unit: ml
+med:
+  - time: 20250612074000
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20250612078300
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20250612078300
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
