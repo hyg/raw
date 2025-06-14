@@ -1,0 +1,24 @@
+name: 闽宋唐咸绿豆饼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1688
+    unit: kj
+    nrv: 20
+  蛋白质:
+    amount: 6.8
+    unit: g
+    nrv: 11
+  脂肪:
+    amount: 20.9
+    unit: g
+    nrv: 35
+  碳水化合物:
+    amount: 47.0
+    unit: g
+    nrv: 16
+  钠:
+    amount: 177
+    unit: mg
+    nrv: 9
