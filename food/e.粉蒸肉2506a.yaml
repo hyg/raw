@@ -1,12 +1,12 @@
 name: 粉蒸肉2506a
-amount: 300
+amount: 317.0
 unit: g
 food:
   - name: 梅花肉
-    amount: 250
+    amount: 268.5
     unit: g
   - name: 蜀香山楂山药蒸肉米粉
-    amount: 50.0
+    amount: 48.5
     unit: g
 log: |
 comment: |
