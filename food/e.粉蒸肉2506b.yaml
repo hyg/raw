@@ -1,0 +1,16 @@
+name: 粉蒸肉2506b
+amount: 304.5
+unit: g
+food:
+  - name: 梅花肉
+    amount: 279.5
+    unit: g
+  - name: 蜀香山楂山药蒸肉米粉
+    amount: 49.0
+    unit: g
+log:
+  - 肉粉混合后，和馒头一起在发酵档腌25分钟。
+  - 下垫茄子装盘，蒸箱上层蒸20分钟。
+comment:
+  - 足够软熟，筷子很容易夹断。
+  
