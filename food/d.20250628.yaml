@@ -1,0 +1,224 @@
+date: 20250628
+food:
+  - time: 20250628085500
+    name: 黄桃
+    amount: 111.5
+    unit: g
+  - time: 20250628085600
+    name: 杏
+    amount: 66.5
+    unit: g
+  - time: 20250628090000
+    name: 馒头2506c
+    amount: 1
+    unit: 个
+  - time: 20250628090000
+    name: 南瓜
+    amount: 36.5
+    unit: g
+  - time: 20250628190100
+    name: 宣掌柜五香虎皮鸡爪
+    amount: 105.0
+    unit: g
+  - time: 20250628090000
+    name: 芦笋
+    amount: 105.0
+    unit: g
+  - time: 20250628090000
+    name: 枸杞
+    amount: 3.0
+    unit: g
+  - time: 20250628090000
+    name: 姜
+    amount: 16.0
+    unit: g
+  - time: 20250628093200
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20250628093200
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20250628093200
+    name: 浙梅免洗桑葚
+    amount: 10.0
+    unit: g
+  - time: 20250628094000
+    name: 河套全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250628094000
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+  - time: 20250628140300
+    name: 番茄酱
+    amount: 31.0
+    unit: g
+  - time: 20250628140300
+    name: 域尚楼兰沙棘全果原浆
+    amount: 22.5
+    unit: g
+  - time: 20250628140300
+    name: 艾斯蔗菊粉
+    amount: 15.0
+    unit: g
+  - time: 20250628140400
+    name: 杏
+    amount: 139.5
+    unit: g
+  - time: 20250628140800
+    name: 扬农沁香米
+    amount: 60.0
+    unit: g
+  - time: 20250628140800
+    name: 福润东方有机小米
+    amount: 20.0
+    unit: g
+  - time: 20250628140800
+    name: 泉嫁艳青麦仁
+    amount: 50.0
+    unit: g
+  - time: 20250628140800
+    name: 三都港黄鱼鯗
+    amount: 158.5
+    unit: g
+    log:
+      - 擦干、抹油、鱼皮向上，不预热、上下火、中层，180°C+30分钟。
+      - 翻面、上下火、上层、210°C+10分钟。
+  - time: 20250628140800
+    name: 胡萝卜
+    amount: 82.0
+    unit: g
+  - time: 20250628140800
+    name: 菜心
+    amount: 196.5
+    unit: g
+  - time: 20250628140800
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250628140800
+    name: 油
+    amount: 3.5
+    unit: g
+  - time: 20250628145800
+    name: 河套全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250628145800
+    name: 景兰冻干黑咖啡
+    amount: 1.5
+    unit: g
+  - time: 20250628185100
+    name: 圣女果
+    amount: 303.5
+    unit: g
+    log:
+      - 糖珀琥174.5g
+      - 青甜2号129.0g
+  - time: 20250628185900
+    name: 裕湘A+细挂面
+    amount: 100.0
+    unit: g
+  - time: 20250628185900
+    name: 锦悦和五城茶干
+    amount: 84.5
+    unit: g
+  - time: 20250628185900
+    name: 卤牛肚2506b
+    amount: 63.0
+    unit: g
+  - time: 20250628185900
+    name: 单山蘸水
+    amount: 3.0
+    unit: g
+  - time: 20250628185900
+    name: 油菜
+    amount: 103.5
+    unit: g
+  - time: 20250628185900
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250628185900
+    name: 香油
+    amount: 1.0
+    unit: g
+  - time: 20250628200000
+    name: 驼铃风干甜红葡萄酒
+    amount: 32.0
+    unit: g
+  - time: 20250628200000
+    name: 申浦72%黑巧克力
+    amount: 15.0
+    unit: g
+  - time: 20250628200500
+    name: 河套全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250628200500
+    name: 天然可可粉
+    amount: 3.0
+    unit: g
+water:
+  - time: 20250628072800
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20250628083100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250628094000
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20250628104500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250628120600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250628145800
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20250628162000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250628185900
+    name: 汤水
+    amount: 500
+    unit: ml
+  - time: 20250628200500
+    name: 可可奶
+    amount: 91.0
+    unit: ml
+  - time: 20250628223200
+    name: 开水
+    amount: 50
+    unit: ml
+med:
+  - time: 20250628094000
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20250628104500
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20250628104500
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20250628104500
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
