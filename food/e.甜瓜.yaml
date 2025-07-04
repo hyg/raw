@@ -1,0 +1,84 @@
+name: 甜瓜
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 27
+    unit: kcal
+    nrv: 1.32
+  蛋白质:
+    amount: 0.4
+    unit: g
+    nrv: 0.45
+  脂肪:
+    amount: 0.1
+    unit: g
+    nrv: 0.18
+  碳水化合物:
+    amount: 6.2
+    unit: g
+    nrv: 2.1
+  VA(视黄醇等):
+    amount: 5
+    unit: μg
+    nrv: 0.65
+  VE(生育酚):
+    amount: 0.47
+    unit: mg
+    nrv: 3.36
+  VB1(硫胺素):
+    amount: 0.02
+    unit: mg
+    nrv: 1.43
+  VB2(核黄素):
+    amount: 0.03
+    unit: mg
+    nrv: 2.14
+  VB3(烟酸):
+    amount: 0.3
+    unit: mg
+    nrv: 2
+  VC(抗坏血酸):
+    amount: 15
+    unit: mg
+    nrv: 15
+  磷:
+    amount: 17
+    unit: mg
+    nrv: 2.39
+  钙:
+    amount: 14
+    unit: mg
+    nrv: 1.75
+  铁:
+    amount: 0.7
+    unit: mg
+    nrv: 5.83
+  钠:
+    amount: 9
+    unit: mg
+    nrv: 0.6
+  钾:
+    amount: 139
+    unit: mg
+    nrv: 6.95
+  镁:
+    amount: 11
+    unit: mg
+    nrv: 3.44
+  锌:
+    amount: 0.09
+    unit: mg
+    nrv: 0.75
+  硒:
+    amount: 0.4
+    unit: μg
+    nrv: 0.67
+  铜:
+    amount: 0.04
+    unit: mg
+    nrv: 5
+  锰:
+    amount: 0.04
+    unit: mg
+    nrv: 0.89
