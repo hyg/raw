@@ -1,0 +1,24 @@
+name: 黄山原味毛豆腐乳
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 388
+    unit: kj
+    nrv: 5
+  蛋白质:
+    amount: 12
+    unit: g
+    nrv: 20
+  脂肪:
+    amount: 1.8
+    unit: g
+    nrv: 3
+  碳水化合物:
+    amount: 6.9
+    unit: g
+    nrv: 2
+  钠:
+    amount: 1788
+    unit: mg
+    nrv: 89

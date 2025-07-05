@@ -1,0 +1,209 @@
+date: 20250705
+food:
+  - time: 20250705111100
+    name: 甜瓜
+    amount: 446.0
+    unit: g
+    log:
+      - 实际是羊角蜜
+  - time: 20250705111600
+    name: 馒头2507a
+    amount: 1
+    unit: 个
+  - time: 20250705111600
+    name: 南瓜
+    amount: 31.5
+    unit: g
+  - time: 20250705190100
+    name: 宣掌柜五香虎皮鸡爪
+    amount: 20.0
+    unit: g
+  - time: 20250705190100
+    name: 粉蒸肉2507a
+    amount: 40.0
+    unit: g
+  - time: 20250705111600
+    name: 芦笋
+    amount: 188.0
+    unit: g
+  - time: 20250705111600
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250705113300
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20250705113300
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20250705113300
+    name: 浙梅免洗桑葚
+    amount: 10.0
+    unit: g
+  - time: 20250705114200
+    name: 河套全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250705114200
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+  - time: 20250705142600
+    name: 番茄酱
+    amount: 27.0
+    unit: g
+  - time: 20250705142600
+    name: 域尚楼兰沙棘全果原浆
+    amount: 20.0
+    unit: g
+  - time: 20250705142600
+    name: 艾斯蔗菊粉
+    amount: 10.5
+    unit: g
+  - time: 20250705142700
+    name: 李子
+    amount: 42.5
+    unit: g
+  - time: 20250705142800
+    name: 杏
+    amount: 61.5
+    unit: g
+  - time: 20250705143300
+    name: 土豆
+    amount: 34.0
+    unit: g
+    log:
+      - 实际是炸土豆块
+  - time: 20250705143300
+    name: 红薯
+    amount: 20.0
+    unit: g
+    log:
+      - 实际是炸红薯块
+  - time: 20250705143300
+    name: 乐享鸡块
+    amount: 218.0
+    unit: g
+    log:
+      - 实际是Obligi Chicken韩式炸鸡
+  - time: 20250705143300
+    name: 五桥宁波水磨年糕
+    amount: 76.0
+    unit: g
+    log:
+      - 实际是炸年糕条
+  - time: 20250705143300
+    name: 快菜
+    amount: 178.5
+    unit: g
+  - time: 20250705143300
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250705143300
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20250705150000
+    name: 香蕉
+    amount: 165.5
+    unit: g
+  - time: 20250705150300
+    name: 河套全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250705150300
+    name: 景兰冻干黑咖啡
+    amount: 1.5
+    unit: g
+  - time: 20250706025200
+    name: 圣女果
+    amount: 162.0
+    unit: g
+    log:
+      - 糖珀琥69.0g
+      - 圣女果93.0g
+  - time: 20250706025600
+    name: 油桃
+    amount: 79.0
+    unit: g
+  - time: 20250706025800
+    name: 乐享鸡块
+    amount: 111.5
+    unit: g
+    log:
+      - 实际是Obligi Chicken韩式炸鸡
+  - time: 20250706030400
+    name: 香蕉
+    amount: 250.5
+    unit: g
+  - time: 20250706030800
+    name: 河套全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250706030800
+    name: 天然可可粉
+    amount: 3.0
+    unit: g
+water:
+  - time: 20250705094900
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20250705105000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250705114200
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20250705124600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250705140300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250705150300
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20250705184200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250705194800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250706030800
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20250705205200
+    name: 开水
+    amount: 125
+    unit: ml
+med:
+  - time: 20250705114200
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20250705124600
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20250705124600
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20250705124600
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
