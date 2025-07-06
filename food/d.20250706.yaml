@@ -1,0 +1,165 @@
+date: 20250706
+food:
+  - time: 20250706124300
+    name: 李子
+    amount: 105.5
+    unit: g
+  - time: 20250706124500
+    name: 馒头2507a
+    amount: 1
+    unit: 个
+  - time: 20250706124500
+    name: 南瓜
+    amount: 42.0
+    unit: g
+  - time: 20250706190100
+    name: 卤牛肚2506b
+    amount: 54.5
+    unit: g
+  - time: 20250706124500
+    name: 芦笋
+    amount: 181.0
+    unit: g
+  - time: 20250706124500
+    name: 中盐绿色低钠湖盐
+    amount: 0.5
+    unit: g
+  - time: 20250706130300
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20250706130300
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20250706130300
+    name: 浙梅免洗桑葚
+    amount: 10.0
+    unit: g
+  - time: 20250706091300
+    name: 河套全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250706091300
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+  - time: 20250706180700
+    name: 番茄酱
+    amount: 23.0
+    unit: g
+  - time: 20250706180700
+    name: 域尚楼兰沙棘全果原浆
+    amount: 18.0
+    unit: g
+  - time: 20250706180700
+    name: 艾斯蔗菊粉
+    amount: 15.0
+    unit: g
+  - time: 20250706180900
+    name: 圣女果
+    amount: 175.5
+    unit: g
+    log:
+      - 青甜2号73.0g
+      - 圣女果102.5g
+  - time: 20250706181200
+    name: 李子
+    amount: 85.0
+    unit: g
+  - time: 20250706181400
+    name: 杏
+    amount: 65.0
+    unit: g
+  - time: 20250706181700
+    name: 扬农沁香米
+    amount: 50.0
+    unit: g
+  - time: 20250706181700
+    name: 福润东方有机小米
+    amount: 20.0
+    unit: g
+  - time: 20250706181700
+    name: 泉嫁艳青麦仁
+    amount: 38.5
+    unit: g
+  - time: 20250706181700
+    name: 腌鸡腿肉2504b
+    amount: 58.5
+    unit: g
+  - time: 20250706181700
+    name: 粉蒸肉2507a
+    amount: 54.0
+    unit: g
+  - time: 20250706181700
+    name: 木耳
+    amount: 10.0
+    unit: g
+  - time: 20250706181700
+    name: 快菜
+    amount: 264.5
+    unit: g
+  - time: 20250706181700
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250706181700
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20250706190500
+    name: 河套全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250706190500
+    name: 天然可可粉
+    amount: 3.0
+    unit: g
+water:
+  - time: 20250706111700
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20250706122100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250706091300
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20250706143900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250706150400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250706170700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250706190500
+    name: 可可奶
+    amount: 80.5
+    unit: ml
+  - time: 20250706201700
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20250706091300
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20250706143900
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20250706143900
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
