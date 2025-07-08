@@ -1,0 +1,154 @@
+date: 20250708
+food:
+  - time: 20250708085200
+    name: 蜜桃
+    amount: 235.5
+    unit: g
+  - time: 20250708085800
+    name: 馒头2507a
+    amount: 1
+    unit: 个
+  - time: 20250708085800
+    name: 南瓜
+    amount: 57.5
+    unit: g
+  - time: 20250708190100
+    name: 宣掌柜五香虎皮鸡爪
+    amount: 180.0
+    unit: g
+  - time: 20250708190100
+    name: 枸杞
+    amount: 3.0
+    unit: g
+  - time: 20250708085800
+    name: 芦笋
+    amount: 145.0
+    unit: g
+  - time: 20250708190100
+    name: 姜
+    amount: 6.0
+    unit: g
+  - time: 20250708093000
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20250708093000
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20250708093000
+    name: 浙梅免洗桑葚
+    amount: 10.0
+    unit: g
+  - time: 20250708094700
+    name: 河套全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250708094700
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+  - time: 20250708135300
+    name: 番茄酱
+    amount: 30.5
+    unit: g
+  - time: 20250708135300
+    name: 域尚楼兰沙棘全果原浆
+    amount: 27.5
+    unit: g
+  - time: 20250708135300
+    name: 艾斯蔗菊粉
+    amount: 12.0
+    unit: g
+  - time: 20250708135400
+    name: 李子
+    amount: 80.0
+    unit: g
+  - time: 20250708135500
+    name: 杏
+    amount: 53.5
+    unit: g
+  - time: 20250708135800
+    name: 土豆
+    amount: 225.0
+    unit: g
+  - time: 20250708135800
+    name: 毛豆仁
+    amount: 182.0
+    unit: g
+  - time: 20250708135800
+    name: 乐享鸡块
+    amount: 178.5
+    unit: g
+    log:
+      - 实际是外卖炸鸡块
+  - time: 20250708135800
+    name: 恒天然马苏里拉芝士
+    amount: 24.0
+    unit: g
+    log:
+      - 炸鸡块带的一小盒奶油芝士酱
+  - time: 20250708143800
+    name: 河套全脂奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250708143800
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+water:
+  - time: 20250708073700
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20250708084100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250708094700
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20250708111500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250708123300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250708143800
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20250708160300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250708171400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250708193500
+    name: 开水
+    amount: 150
+    unit: ml
+med:
+  - time: 20250708094700
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20250708111500
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20250708111500
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20250708111500
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
