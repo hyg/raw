@@ -1,0 +1,24 @@
+name: 圣农冷冻原汁原味脆皮炸鸡
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1057
+    unit: kj
+    nrv: 13
+  蛋白质:
+    amount: 11.6
+    unit: g
+    nrv: 19
+  脂肪:
+    amount: 16.8
+    unit: g
+    nrv: 28
+  碳水化合物:
+    amount: 14.0
+    unit: g
+    nrv: 5
+  钠:
+    amount: 638
+    unit: mg
+    nrv: 32
