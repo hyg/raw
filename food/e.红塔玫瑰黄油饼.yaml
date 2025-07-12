@@ -1,0 +1,24 @@
+name: 红塔玫瑰黄油饼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1961
+    unit: kj
+    nrv: 23
+  蛋白质:
+    amount: 5.2
+    unit: g
+    nrv: 9
+  脂肪:
+    amount: 26.4
+    unit: g
+    nrv: 44
+  碳水化合物:
+    amount: 52.7
+    unit: g
+    nrv: 18
+  钠:
+    amount: 58
+    unit: mg
+    nrv: 3
