@@ -1,0 +1,25 @@
+name: 无穷农场盐焗鸡蛋
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 958
+    unit: kj
+    nrv: 11
+  蛋白质:
+    amount: 16.4
+    unit: g
+    nrv: 27
+  脂肪:
+    amount: 17.8
+    unit: g
+    nrv: 30
+  碳水化合物:
+    amount: 1.2
+    unit: g
+    nrv: 9
+  钠:
+    amount: 1015
+    unit: mg
+    nrv: 51
+comment:
