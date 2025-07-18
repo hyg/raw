@@ -1,0 +1,24 @@
+name: 圣农原汁原味肉多多鸡块
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 980
+    unit: kj
+    nrv: 12
+  蛋白质:
+    amount: 10.6
+    unit: g
+    nrv: 18
+  脂肪:
+    amount: 14.5
+    unit: g
+    nrv: 28
+  碳水化合物:
+    amount: 15.5
+    unit: g
+    nrv: 5
+  钠:
+    amount: 436
+    unit: mg
+    nrv: 22
