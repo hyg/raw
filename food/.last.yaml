@@ -1,40 +1,38 @@
 date: 20250718
 food:
-  - time: 20250718103300
+  - time: 20250718112300
     name: 梨
-    amount: 240
+    amount: 251.0
     unit: g
-
-  - time: 20250718103800
+  - time: 20250718112700
     name: 馒头2507b
     amount: 1
     unit: 个
-  - time: 20250718103800
+  - time: 20250718112700
     name: 南瓜
-    amount: 86.0
+    amount: 82.5
     unit: g
-  - time: 20250718103800
+  - time: 20250718112700
     name: 卤牛肚2507a
-    amount: 50
+    amount: 46.0
     unit: g
-  - time: 20250718103800
+  - time: 20250718112700
     name: 芦笋
-    amount: 150
+    amount: 176.0
     unit: g
-
-  - time: 20250718105600
+  - time: 20250718115000
     name: 红塔玫瑰黄油饼
     amount: 25
     unit: g
-  - time: 20250718105600
+  - time: 20250718115000
     name: 麦胚芽
     amount: 15.0
     unit: g
-  - time: 20250718105600
+  - time: 20250718115000
     name: 亚麻籽粉
     amount: 10.0
     unit: g
-  - time: 20250718105600
+  - time: 20250718115000
     name: 浙梅免洗桑葚
     amount: 10.0
     unit: g
@@ -115,22 +113,23 @@ food:
     amount: 1.0
     unit: g
 water:
-  - time: 20250718090800
+  - time: 20250718095200
     name: 开水
     amount: 200
     unit: ml
-  - time: 20250718100700
+  - time: 20250718105500
     name: 开水
     amount: 250
     unit: ml
   - time: 20250718111600
     name: 咖啡
-    amount: 80.5
+    amount: 83.5
     unit: ml
   - time: 20250718122300
     name: 开水
     amount: 250
     unit: ml
+
   - time: 20250718132800
     name: 开水
     amount: 250
