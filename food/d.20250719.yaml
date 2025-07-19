@@ -1,0 +1,173 @@
+date: 20250719
+food:
+  - time: 20250719100600
+    name: 梨
+    amount: 189.5
+    unit: g
+  - time: 20250719101000
+    name: 裕湘A+细挂面
+    amount: 60.5
+    unit: g
+  - time: 20250719101000
+    name: 锦悦和蒲草香干
+    amount: 176.0
+    unit: g
+  - time: 20250719112700
+    name: 黑胡椒风味芊芊鱼排
+    amount: 57.0
+    unit: g
+  - time: 20250719101000
+    name: 菜心
+    amount: 66.5
+    unit: g
+  - time: 20250719101000
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250719101000
+    name: 香油
+    amount: 1.0
+    unit: g
+  - time: 20250719102300
+    name: 红塔玫瑰黄油饼
+    amount: 51.0
+    unit: g
+  - time: 20250719102300
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20250719102300
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20250719102300
+    name: 浙梅免洗桑葚
+    amount: 10.0
+    unit: g
+  - time: 20250719103700
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250719103700
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+  - time: 20250719191000
+    name: 番茄酱
+    amount: 42.0
+    unit: g
+  - time: 20250719191000
+    name: 域尚楼兰沙棘全果原浆
+    amount: 26.0
+    unit: g
+  - time: 20250719191000
+    name: 菊粉
+    amount: 8.0
+    unit: g
+  - time: 20250719191000
+    name: 百香果
+    amount: 43.0
+    unit: g
+  - time: 20250719191100
+    name: 李子
+    amount: 153.5
+    unit: g    
+  - time: 20250719191800
+    name: 土豆
+    amount: 281.0
+    unit: g
+  - time: 20250719191800
+    name: 圣农原汁原味肉多多鸡块
+    amount: 116.5
+    unit: g
+    log:
+      - 不预热、上下火、中层、180°C+15分钟
+      - 翻面、上下火、中层、220°C+5分钟
+  - time: 20250719191800
+    name: 油菜
+    amount: 229.0
+    unit: g
+  - time: 20250719191800
+    name: 胡萝卜
+    amount: 105.5
+    unit: g
+  - time: 20250719191800
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250719191800
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20250719193900
+    name: 红塔玫瑰黄油饼
+    amount: 25
+    unit: g
+  - time: 20250719194200
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250719194200
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+water:
+  - time: 20250719084200
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20250719094800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250719101000
+    name: 汤水
+    amount: 500
+    unit: ml
+  - time: 20250719103700
+    name: 咖啡
+    amount: 81.5
+    unit: ml
+  - time: 20250719111500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250719122400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250719141000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250719164000
+    name: 开水
+    amount: 300
+    unit: ml
+  - time: 20250719194200
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20250719212000
+    name: 开水
+    amount: 220
+    unit: ml
+med:
+  - time: 20250719103700
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20250719111500
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20250719111500
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20250719111500
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
