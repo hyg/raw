@@ -10,8 +10,8 @@ food:
     amount: 1
     unit: 个
   - time: 20250721112700
-    name: 卤牛肚2507a
-    amount: 50
+    name: 康大熏香兔前腿
+    amount: 65
     unit: g
   - time: 20250721074900
     name: 南瓜
@@ -54,7 +54,7 @@ food:
     unit: g
   - time: 20250721124300
     name: 菊粉
-    amount: 6.0
+    amount: 5
     unit: g
   - time: 20250721124300
     name: 百香果
@@ -106,7 +106,7 @@ food:
 
   - time: 20250721211500
     name: 土豆
-    amount: 250
+    amount: 200
     unit: g
   - time: 20250721211500
     name: 鸡蛋
@@ -125,10 +125,6 @@ food:
     amount: 0.5
     unit: g
 
-  - time: 20250721222900
-    name: 红塔玫瑰黄油饼
-    amount: 0
-    unit: g
   - time: 20250721223200
     name: 奶粉
     amount: 20.0
