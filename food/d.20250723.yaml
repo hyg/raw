@@ -1,0 +1,149 @@
+date: 20250723
+food:
+  - time: 20250723104000
+    name: 梨
+    amount: 210
+    unit: g
+  - time: 20250723104500
+    name: 馒头2507c
+    amount: 1
+    unit: 个
+  - time: 20250723112700
+    name: 卤牛肚2507a
+    amount: 41.5
+    unit: g
+  - time: 20250723104500
+    name: 南瓜
+    amount: 69.5
+    unit: g
+  - time: 20250723104500
+    name: 芦笋
+    amount: 129.0
+    unit: g
+  - time: 20250723111600
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20250723111600
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20250723111600
+    name: 浙梅免洗桑葚
+    amount: 10.0
+    unit: g
+  - time: 20250723113000
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250723113000
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+  - time: 20250723183300
+    name: 番茄酱
+    amount: 41.5
+    unit: g
+  - time: 20250723183300
+    name: 域尚楼兰沙棘全果原浆
+    amount: 28.5
+    unit: g
+  - time: 20250723183300
+    name: 菊粉
+    amount: 7.5
+    unit: g
+  - time: 20250723183300
+    name: 百香果
+    amount: 41.5
+    unit: g
+  - time: 20250723183400
+    name: 李子
+    amount: 150.5
+    unit: g
+  - time: 20250723183900
+    name: 土豆
+    amount: 356.0
+    unit: g
+  - time: 20250723183900
+    name: 圣农原汁原味肉多多鸡块
+    amount: 137.0
+    unit: g
+  - time: 20250723183900
+    name: 圣农冷冻原汁原味脆皮炸鸡
+    amount: 69.0
+    unit: g
+    log:
+      - 摆在熟土豆泥上，不预热、上下火、上层、180°C+15分钟。
+      - 翻面，上下火，上层，220°C+5分钟。
+  - time: 20250723183900
+    name: 快菜
+    amount: 88.0
+    unit: g
+  - time: 20250723183900
+    name: 油菜
+    amount: 131.0
+    unit: g
+  - time: 20250723183900
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250723183900
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20250723192500
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250723192500
+    name: 天然可可粉
+    amount: 2.5
+    unit: g
+water:
+  - time: 20250723111600
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20250723095700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250723113000
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20250723123200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250723151000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250723161500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250723192500
+    name: 可可奶
+    amount: 80.5
+    unit: ml
+  - time: 20250723195000
+    name: 开水
+    amount: 150
+    unit: ml
+med:
+  - time: 20250723113000
+    name: 楚牛牛磺酸
+    amount: 1.0
+    unit: g
+  - time: 20250723123200
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20250723123200
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
