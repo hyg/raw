@@ -1,0 +1,80 @@
+name: 鸡胗
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 118
+    unit: kcal
+    nrv: 5.76
+  蛋白质:
+    amount: 19.2
+    unit: g
+    nrv: 21.41
+  脂肪:
+    amount: 2.8
+    unit: g
+    nrv: 4.92
+  碳水化合物:
+    amount: 4
+    unit: g
+    nrv: 1.36
+  VA(视黄醇等):
+    amount: 36
+    unit: μg
+    nrv: 4.68
+  VE(生育酚):
+    amount: 0.87
+    unit: mg
+    nrv: 6.21
+  VB1(硫胺素):
+    amount: 0.04
+    unit: mg
+    nrv: 2.86
+  VB2(核黄素):
+    amount: 0.09
+    unit: mg
+    nrv: 6.43
+  VB3(烟酸):
+    amount: 3.4
+    unit: mg
+    nrv: 22.67
+  磷:
+    amount: 135
+    unit: mg
+    nrv: 19.01
+  钙:
+    amount: 7
+    unit: mg
+    nrv: 0.88
+  铁:
+    amount: 4.4
+    unit: mg
+    nrv: 36.67
+  钠:
+    amount: 75
+    unit: mg
+    nrv: 5
+  钾:
+    amount: 272
+    unit: mg
+    nrv: 13.6
+  镁:
+    amount: 15
+    unit: mg
+    nrv: 4.69
+  锌:
+    amount: 2.76
+    unit: mg
+    nrv: 23
+  硒:
+    amount: 10.5
+    unit: μg
+    nrv: 17.5
+  铜:
+    amount: 2.11
+    unit: mg
+    nrv: 263.75
+  锰:
+    amount: 0.06
+    unit: mg
+    nrv: 1.33

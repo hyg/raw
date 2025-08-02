@@ -1,0 +1,23 @@
+name: 蛋挞2508a
+amount: 8
+unit: 个
+food:
+  - name: 俏侬黄油原味蛋挞皮
+    amount: 180
+    unit: g
+  - name: 牛佰仕马苏里拉奶酪
+    amount: 61.5
+    unit: g
+  - name: 鸡蛋
+    amount: 47.0
+    unit: g
+  - name: 奶粉
+    amount: 40.0
+    unit: g
+log:
+  - 不预热、上下火、上层、190°C+15分钟。
+  - 加入其它食材，180°C+15分钟。
+  - 其它食材翻面，180°C+5分钟。
+comment:
+  - 中间位置的蛋挞明显更焦，底部发软、粘底。
+  - 下次180°C，中层甚至底层。

@@ -1,0 +1,194 @@
+date: 20250802
+food:
+  - time: 20250802112600
+    name: 油桃
+    amount: 136.0
+    unit: g
+  - time: 20250802201500
+    name: 圣农冷冻原汁原味脆皮炸鸡
+    amount: 90
+    unit: g
+    log:
+      - 实际是外卖炸鸡块
+  - time: 20250802201500
+    name: 五桥宁波水磨年糕
+    amount: 60.5
+    unit: g
+    log:
+      - 实际是外卖炸年糕
+  - time: 20250802201500
+    name: 烤红薯2504a
+    amount: 70.5
+    unit: g
+    log:
+      - 实际是外卖炸红薯丸子
+  - time: 20250802201500
+    name: 土豆
+    amount: 22.5
+    unit: g
+    log:
+      - 实际是外卖炸土豆块
+  - time: 20250802201500
+    name: 恒天然马苏里拉芝士
+    amount: 19
+    unit: g
+    log:
+      - 实际是外卖炸鸡块的奶油芝士酱
+  - time: 20250802201500
+    name: 西兰花
+    amount: 128
+    unit: g
+  - time: 20250802114800
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20250802114800
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20250802114800
+    name: 浙梅免洗桑葚
+    amount: 10.0
+    unit: g    
+  - time: 20250802115700
+    name: 海带
+    amount: 6.0
+    unit: g
+  - time: 20250802115700
+    name: 泉嫁艳青麦仁
+    amount: 49.0
+    unit: g
+  - time: 20250802115700
+    name: 绿豆
+    amount: 20.0
+    unit: g
+  - time: 20250802115700
+    name: 蜂蜜
+    amount: 20.0
+    unit: g
+  - time: 20250802122400
+    name: 奶粉
+    amount: 30.0
+    unit: g
+  - time: 20250802122400
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+  - time: 20250802200450
+    name: 番茄酱
+    amount: 33.5
+    unit: g
+  - time: 20250802200450
+    name: 域尚楼兰沙棘全果原浆
+    amount: 32.5
+    unit: g
+  - time: 20250802200450
+    name: 菊粉
+    amount: 15.0
+    unit: g
+  - time: 20250802200700
+    name: 李子
+    amount: 131.5
+    unit: g
+  - time: 20250802201100
+    name: 菇娘
+    amount: 100.0
+    unit: g
+  - time: 20250802201500
+    name: 圣农冷冻原汁原味脆皮炸鸡
+    amount: 90.0
+    unit: g
+    log:
+      - 实际是外卖炸鸡块
+  - time: 20250802201500
+    name: 恒天然马苏里拉芝士
+    amount: 17
+    unit: g
+    log:
+      - 实际是外卖炸鸡块的奶油芝士酱
+  - time: 20250802201500
+    name: 裕湘A+细挂面
+    amount: 100
+    unit: g
+  - time: 20250802201500
+    name: 卤牛肚2508a
+    amount: 31.0
+    unit: g
+  - time: 20250802201500
+    name: 卤鸭胗2508a
+    amount: 45.0
+    unit: g
+    log:
+      - 其实是鸭胗
+  - time: 20250802201500
+    name: 油菜
+    amount: 90.5
+    unit: g
+  - time: 20250802215500
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250802215500
+    name: 天然可可粉
+    amount: 4.0
+    unit: g
+water:
+  - time: 20250802095400
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20250802110600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250802115700
+    name: 粥水
+    amount: 300
+    unit: ml
+  - time: 20250802122400
+    name: 咖啡
+    amount: 120.0
+    unit: ml
+  - time: 20250802132300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250802150000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250802181100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250802201500
+    name: 汤水
+    amount: 500
+    unit: ml
+  - time: 20250802215500
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20250802222900
+    name: 开水
+    amount: 50
+    unit: ml
+med:
+  - time: 20250802122400
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20250802132300
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20250802132300
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20250802132300
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
