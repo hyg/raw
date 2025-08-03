@@ -1,0 +1,27 @@
+name: 俏侬黄油蛋挞皮
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1692
+    unit: kj
+    nrv: 20
+  蛋白质:
+    amount: 4.7
+    unit: g
+    nrv: 8
+  脂肪:
+    amount: 25.4
+    unit: g
+    nrv: 42
+  碳水化合物:
+    amount: 39.5
+    unit: g
+    nrv: 13
+  钠:
+    amount: 181
+    unit: mg
+    nrv: 9
+comment:
+  - 预热：上火220°C、下火200°C、10分钟
+  - 有蛋挞液：中上层，20分钟。
