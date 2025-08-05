@@ -1,0 +1,24 @@
+name: 桥头粉蒸肉调料
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1733
+    unit: kj
+    nrv: 21
+  蛋白质:
+    amount: 6.7
+    unit: g
+    nrv: 11
+  脂肪:
+    amount: 12.0
+    unit: g
+    nrv: 20
+  碳水化合物:
+    amount: 69.1
+    unit: g
+    nrv: 23
+  钠:
+    amount: 1108
+    unit: mg
+    nrv: 55

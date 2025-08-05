@@ -1,0 +1,28 @@
+name: 我的童年纯牛奶粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2035
+    unit: kj
+    nrv: 24
+  蛋白质:
+    amount: 24.0
+    unit: g
+    nrv: 40
+  脂肪:
+    amount: 26.5
+    unit: g
+    nrv: 44
+  碳水化合物:
+    amount: 38
+    unit: g
+    nrv: 1.3
+  钠:
+    amount: 450
+    unit: mg
+    nrv: 23
+  钙:
+    amount: 800
+    unit: mg
+    nrv: 100

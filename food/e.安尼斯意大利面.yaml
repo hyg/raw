@@ -1,0 +1,24 @@
+name: 安尼斯意大利面
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1521
+    unit: kcal
+    nrv: 18
+  蛋白质:
+    amount: 13.0
+    unit: g
+    nrv: 22
+  脂肪:
+    amount: 1.5
+    unit: g
+    nrv: 3
+  碳水化合物:
+    amount: 72.0
+    unit: g
+    nrv: 24
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0

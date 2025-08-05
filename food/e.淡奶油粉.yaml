@@ -1,0 +1,24 @@
+name: 淡奶油粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2196
+    unit: kj
+    nrv: 26
+  蛋白质:
+    amount: 3.1
+    unit: g
+    nrv: 5
+  脂肪:
+    amount: 30.6
+    unit: g
+    nrv: 51
+  碳水化合物:
+    amount: 59.5
+    unit: g
+    nrv: 20
+  钠:
+    amount: 370
+    unit: mg
+    nrv: 19

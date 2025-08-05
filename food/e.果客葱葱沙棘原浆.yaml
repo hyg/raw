@@ -1,0 +1,24 @@
+name: 果客葱葱沙棘原浆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 241
+    unit: kj
+    nrv: 3
+  蛋白质:
+    amount: 1.0
+    unit: g
+    nrv: 2
+  脂肪:
+    amount: 0.7
+    unit: g
+    nrv: 1
+  碳水化合物:
+    amount: 11.2
+    unit: g
+    nrv: 4
+  钠:
+    amount: 31
+    unit: mg
+    nrv: 6

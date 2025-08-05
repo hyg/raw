@@ -1,0 +1,28 @@
+name: 雀巢鹰唛炼奶
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1387
+    unit: kj
+    nrv: 17
+  蛋白质:
+    amount: 7.7
+    unit: g
+    nrv: 13
+  脂肪:
+    amount: 8.0
+    unit: g
+    nrv: 13
+  碳水化合物:
+    amount: 56.5
+    unit: g
+    nrv: 19
+  钠:
+    amount: 130
+    unit: mg
+    nrv: 7
+  钙:
+    amount: 250
+    unit: mg
+    nrv: 31
