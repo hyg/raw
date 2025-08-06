@@ -1,0 +1,24 @@
+name: 甘青精制小麦粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1710
+    unit: kj
+    nrv: 20
+  蛋白质:
+    amount: 12.6
+    unit: g
+    nrv: 21
+  脂肪:
+    amount: 1.0
+    unit: g
+    nrv: 2
+  碳水化合物:
+    amount: 85.8
+    unit: g
+    nrv: 29
+  钠:
+    amount: 7
+    unit: mg
+    nrv: 0

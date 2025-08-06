@@ -1,0 +1,28 @@
+name: 宇鸿黄鱼段
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 680
+    unit: kj
+    nrv: 8
+  蛋白质:
+    amount: 14.6
+    unit: g
+    nrv: 24
+  脂肪:
+    amount: 11.2
+    unit: g
+    nrv: 28
+  碳水化合物:
+    amount: 1.0
+    unit: g
+    nrv: 0
+  钠:
+    amount: 742
+    unit: mg
+    nrv: 37
+log:
+  - 黄鱼鯗解冻擦干，喷油3.0g。
+  - 不预热、上下火、中层(上下层都空）、鱼皮向上，180°C+30分钟。
+  - 翻面、预热、上下火、上层(下层可以消毒餐具)，210°C+7分钟。
