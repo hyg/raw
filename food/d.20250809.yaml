@@ -1,0 +1,164 @@
+date: 20250809
+food:
+  - time: 20250809113200
+    name: 李子
+    amount: 54.0
+    unit: g
+  - time: 20250809113300
+    name: 油桃
+    amount: 118.0
+    unit: g
+  - time: 20250809113700
+    name: 五桥宁波水磨年糕
+    amount: 83.0
+    unit: g
+    log:
+      - 实际是外卖年糕条
+  - time: 20250809113700
+    name: 南太湖鱼面筋
+    amount: 6.5
+    unit: g
+    log:
+      - 实际是外卖鱼豆腐
+  - time: 20250809113700
+    name: 圣农原汁原味肉多多鸡块
+    amount: 95.0
+    unit: g
+    log:
+      - 实际是外卖炸鸡块
+  - time: 20250809113700
+    name: 蜂蜜
+    amount: 25
+    unit: g
+    log:
+      - 实际是外卖蜂蜜芥末酱
+  - time: 20250809113700
+    name: 西兰花
+    amount: 134.5
+    unit: g
+  - time: 20250809113700
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250809115900
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20250809115900
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20250809115900
+    name: 浙梅免洗桑葚
+    amount: 10.0
+    unit: g
+  - time: 20250809121000
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250809121000
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+  - time: 20250809201300
+    name: 番茄酱
+    amount: 39.0
+    unit: g
+  - time: 20250809201300
+    name: 域尚楼兰沙棘全果原浆
+    amount: 30.5
+    unit: g
+  - time: 20250809201300
+    name: 菊粉
+    amount: 15.0
+    unit: g
+  - time: 20250809202200
+    name: 杏
+    amount: 50.0
+    unit: g
+  - time: 20250809201800
+    name: 李子
+    amount: 140.5
+    unit: g
+  - time: 20250809202200
+    name: 土豆
+    amount: 282.0
+    unit: g
+  - time: 20250809202200
+    name: 圣农原汁原味肉多多鸡块
+    amount: 158.0
+    unit: g
+    log:
+      - 其实是外卖炸鸡块
+  - time: 20250809202200
+    name: 快菜
+    amount: 124.0
+    unit: g
+  - time: 20250809202200
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20250809202200
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20250809210000
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20250809210000
+    name: 天然可可粉
+    amount: 3.0
+    unit: g
+water:
+  - time: 20250809100900
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20250809111800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250809121000
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20250809130800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250809161800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250809174400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20250809210000
+    name: 可可奶
+    amount: 90.0
+    unit: ml
+  - time: 20250809220100
+    name: 开水
+    amount: 220
+    unit: ml
+med:
+  - time: 20250809121000
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20250809130800
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20250809130800
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20250809130800
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |

@@ -1,0 +1,22 @@
+name: 腌鸡腿肉2508a
+amount: 300.0
+unit: g
+food:
+  - name: 鸡腿肉
+    amount: 297.0
+    unit: g
+  - name: 中盐绿色低钠湖盐
+    amount: 1.5
+    unit: g
+  - name: 味精
+    amount: 0.5
+    unit: g
+  - name: 嫩肉粉
+    amount: 1.0
+    unit: g
+  - name: 生姜汁
+    amount: 7.0
+    unit: g
+log: |
+comment: |
+  
