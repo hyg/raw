@@ -1,0 +1,24 @@
+name: 唯加南洋风味咖喱酱
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 974
+    unit: kj
+    nrv: 12
+  蛋白质:
+    amount: 4.3
+    unit: g
+    nrv: 7
+  脂肪:
+    amount: 12.3
+    unit: g
+    nrv: 21
+  碳水化合物:
+    amount: 26.2
+    unit: g
+    nrv: 9
+  钠:
+    amount: 2190
+    unit: mg
+    nrv: 110
