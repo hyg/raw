@@ -1,194 +1,184 @@
-date: 20250818
+date: 20250817
 food:
-  - time: 20250818094400
+  - time: 20250817094400
     name: 李子
-    amount: 105
+    amount: 104.5
     unit: g
-
-  - time: 20250818105700
+  - time: 20250817105700
     name: 咖喱鸡肉2508a
-    amount: 100
+    amount: 97.5
     unit: g
-  - time: 20250818105700
+  - time: 20250817105700
     name: 粉蒸肉2508a
     amount: 30.0
     unit: g
-  - time: 20250818105700
+  - time: 20250817105700
     name: 南瓜
-    amount: 75
+    amount: 73.0
     unit: g
-  - time: 20250818105700
-    name: 油菜
-    amount: 120
+  - time: 20250817105700
+    name: 西兰花
+    amount: 163.5
     unit: g
-  - time: 20250818105700
-    name: 中盐绿色低钠湖盐
-    amount: 0.5
-    unit: g
-
-  - time: 20250818100000
+  - time: 20250817100000
     name: 麦胚芽
     amount: 15.0
     unit: g
-  - time: 20250818100000
+  - time: 20250817100000
     name: 亚麻籽粉
     amount: 10.0
     unit: g
-  - time: 20250818100000
+  - time: 20250817100000
     name: 浙梅免洗桑葚
     amount: 10.0
     unit: g
-
-  - time: 20250818101200
+  - time: 20250817101200
     name: 奶粉
     amount: 20.0
     unit: g
-  - time: 20250818101200
+  - time: 20250817101200
     name: 景兰冻干黑咖啡
     amount: 1.0
     unit: g
-
-  - time: 20250818135300
+  - time: 20250817135300
     name: 番茄酱
-    amount: 30
+    amount: 29.0
     unit: g
-  - time: 20250818135300
+  - time: 20250817135300
     name: 域尚楼兰沙棘全果原浆
     amount: 28.0
     unit: g
-  - time: 20250818135300
+  - time: 20250817135300
     name: 菊粉
     amount: 15.0
-    unit: g
-   
-  - time: 20250818135400
+    unit: g        
+  - time: 20250817135400
     name: 芒果
-    amount: 150
+    amount: 143.4
     unit: g
-
-  - time: 20250818140300
+  - time: 20250817140300
     name: 扬农沁香米
-    amount: 65.0
+    amount: 45.0
     unit: g
-  - time: 20250818140300
+  - time: 20250817140300
     name: 紫米
     amount: 15.0
     unit: g
-  - time: 20250818140300
+  - time: 20250817140300
     name: 宇鸿黄鱼段
-    amount: 40
+    amount: 37.5
     unit: g
-  - time: 20250818140300
-    name: 小白菜
-    amount: 160
+  - time: 20250817140300
+    name: 菜心
+    amount: 140.5
     unit: g
-  - time: 20250818140300
+  - time: 20250817140300
     name: 中盐绿色低钠湖盐
     amount: 1.0
     unit: g
-  - time: 20250818140300
+  - time: 20250817140300
     name: 油
     amount: 0.5
     unit: g
-
-  - time: 20250818143700
+  - time: 20250817143700
     name: 奶粉
     amount: 20.0
     unit: g
-  - time: 20250818143700
+  - time: 20250817143700
     name: 景兰冻干黑咖啡
     amount: 1.0
     unit: g
-
-  - time: 20250818202000
+  - time: 20250817202000
     name: 杏
-    amount: 50
+    amount: 42.0
     unit: g
-  - time: 20250818202200
+  - time: 20250817202200
     name: 油桃
-    amount: 190
+    amount: 186.0
     unit: g
-
-  - time: 20250818202700
-    name: 红薯
-    amount: 240
+  - time: 20250817202700
+    name: 安尼斯意大利面
+    amount: 61.5
     unit: g
-  - time: 20250818202700
+  - time: 20250817202700
+    name: 胡萝卜
+    amount: 86.5
+    unit: g
+  - time: 20250817202700
+    name: 唯加南洋风味咖喱酱
+    amount: 20.0
+    unit: g
+  - time: 20250817202700
     name: 鸡蛋
-    amount: 45
-    unit: g
-  - time: 20250818202700
+    amount: 50.5
+    unit: g    
+  - time: 20250817202700
     name: 油菜
-    amount: 120
+    amount: 132.0
     unit: g
-  - time: 20250818202700
-    name: 中盐绿色低钠湖盐
-    amount: 1.0
-    unit: g
-  - time: 20250818202700
+  - time: 20250817202700
     name: 油
     amount: 0.5
     unit: g
-
-  - time: 20250818205000
+  - time: 20250817205000
     name: 奶粉
     amount: 20.0
     unit: g
-  - time: 20250818205000
+  - time: 20250817205000
     name: 天然可可粉
     amount: 3.0
     unit: g
 water:
-  - time: 20250818083200
+  - time: 20250817083200
     name: 开水
     amount: 200
     unit: ml
-  - time: 20250818093100
+  - time: 20250817093100
     name: 开水
     amount: 250
     unit: ml
-  - time: 20250818101200
+  - time: 20250817101200
     name: 咖啡
     amount: 80.5
     unit: ml
-  - time: 20250818105700
+  - time: 20250817105700
     name: 开水
     amount: 250
     unit: ml
-  - time: 20250818114300
+  - time: 20250817114300
     name: 开水
     amount: 250
     unit: ml
-  - time: 20250818131600
+  - time: 20250817131600
     name: 开水
     amount: 250
     unit: ml
-  - time: 20250818143700
+  - time: 20250817143700
     name: 咖啡
     amount: 80.0
     unit: ml
-  - time: 20250818163600
+  - time: 20250817163600
     name: 开水
     amount: 250
     unit: ml
-  - time: 20250818205000
+  - time: 20250817205000
     name: 可可奶
     amount: 80.0
     unit: ml
-  - time: 20250818211500
+  - time: 20250817211500
     name: 开水
     amount: 50
     unit: ml
 med:
-  - time: 20250818101200
+  - time: 20250817101200
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
-  - time: 20250818105700
+  - time: 20250817105700
     name: selenium
     amount: 200
     unit: μg
-  - time: 20250818105700
+  - time: 20250817105700
     name: mature multi
     amount: 1
     unit: 片
