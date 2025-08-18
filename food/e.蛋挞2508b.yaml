@@ -1,0 +1,27 @@
+name: 蛋挞2508b
+amount: 8
+unit: 个
+food:
+  - name: 俏侬黄油蛋挞皮
+    amount: 180
+    unit: g
+  - name: 鸡蛋
+    amount: 50
+    unit: g
+  - name: 奶粉
+    amount: 25.0
+    unit: g
+  - name: 淡奶油粉
+    amount: 25.0
+    unit: g
+  - name: 雀巢鹰唛炼奶
+    amount: 10
+    unit: g
+log:
+  - 加水70.0g水。
+  - 不预热、上下火、下层、180°C+30分钟。
+  - 不预热、上下火、上层、220°C+5分钟。
+comment:
+  - 上表面合适，下表面还发潮发软。下次190°C。
+  - 下次可以加100g水。
+  - 炼奶可以减到10克，足够甜了。淡奶油粉可以加到25克。
