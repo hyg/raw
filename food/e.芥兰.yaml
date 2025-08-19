@@ -1,0 +1,88 @@
+name: 芥兰
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 22
+    unit: kcal
+    nrv: 1.07
+  蛋白质:
+    amount: 1.1
+    unit: g
+    nrv: 1.23
+  脂肪:
+    amount: 0.7
+    unit: g
+    nrv: 1.23
+  碳水化合物:
+    amount: 3.8
+    unit: g
+    nrv: 1.29
+  膳食纤维:
+    amount: 2.5
+    unit: g
+    nrv: 8.33
+  VA(视黄醇等):
+    amount: 82
+    unit: μg
+    nrv: 10.65
+  VE(生育酚):
+    amount: 0.48
+    unit: mg
+    nrv: 3.43
+  VB1(硫胺素):
+    amount: 0.09
+    unit: mg
+    nrv: 6.43
+  VB2(核黄素):
+    amount: 0.15
+    unit: mg
+    nrv: 10.71
+  VB3(烟酸):
+    amount: 0.44
+    unit: mg
+    nrv: 2.93
+  VB6(吡哆素):
+    amount: 0.07
+    unit: mg
+    nrv: 5
+  VB9(叶酸):
+    amount: 99
+    unit: μg
+    nrv: 24.75
+  VC(抗坏血酸):
+    amount: 28.2
+    unit: mg
+    nrv: 28.2
+  VK(凝血维生素):
+    amount: 84.8
+    unit: μg
+    nrv: 106
+  磷:
+    amount: 41
+    unit: mg
+    nrv: 5.77
+  钙:
+    amount: 100
+    unit: mg
+    nrv: 12.5
+  铁:
+    amount: 0.6
+    unit: mg
+    nrv: 5
+  钠:
+    amount: 7
+    unit: mg
+    nrv: 0.47
+  钾:
+    amount: 261
+    unit: mg
+    nrv: 13.05
+  镁:
+    amount: 18
+    unit: mg
+    nrv: 5.63
+  锌:
+    amount: 0.39
+    unit: mg
+    nrv: 3.25
