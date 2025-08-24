@@ -1,0 +1,101 @@
+name: 排骨
+nickname: 猪边排骨大块肉（生，瘦肉和肥肉，带骨称重）
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 161
+    unit: kcal
+    nrv: 7.85
+  蛋白质:
+    amount: 13.1
+    unit: g
+    nrv: 14.61
+  脂肪:
+    amount: 12.1
+    unit: g
+    nrv: 21.25
+  VA(视黄醇等):
+    amount: .nan
+    unit: μg
+    nrv: .nan
+  VE(生育酚):
+    amount: 0.01
+    unit: mg
+    nrv: 0.07
+  VB1(硫胺素):
+    amount: 0.52
+    unit: mg
+    nrv: 37.14
+  VB2(核黄素):
+    amount: 0.2
+    unit: mg
+    nrv: 14.29
+  VB3(烟酸):
+    amount: 3.5
+    unit: mg
+    nrv: 23.33
+  VB6(吡哆素):
+    amount: 0.27
+    unit: mg
+    nrv: 19.29
+  VB9(叶酸):
+    amount: 7
+    unit: μg
+    nrv: 1.75
+  VB12(钴胺素):
+    amount: 1
+    unit: μg
+    nrv: 41.67
+  VD3(胆钙化醇):
+    amount: 0.6
+    unit: μg
+    nrv: 6
+  磷:
+    amount: 140
+    unit: mg
+    nrv: 19.72
+  钙:
+    amount: 6
+    unit: mg
+    nrv: 0.75
+  铁:
+    amount: 0.6
+    unit: mg
+    nrv: 5
+  钠:
+    amount: 45
+    unit: mg
+    nrv: 3
+  钾:
+    amount: 240
+    unit: mg
+    nrv: 12
+  镁:
+    amount: 15
+    unit: mg
+    nrv: 4.69
+  锌:
+    amount: 1.7
+    unit: mg
+    nrv: 14.17
+  碘:
+    amount: 4
+    unit: μg
+    nrv: 3.33
+  硒:
+    amount: 8
+    unit: μg
+    nrv: 13.33
+  铜:
+    amount: 0.05
+    unit: mg
+    nrv: 6.25
+  锰:
+    amount: .nan
+    unit: mg
+    nrv: .nan
+  生物素:
+    amount: 2
+    unit: μg
+    nrv: 5
