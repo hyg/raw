@@ -1,0 +1,77 @@
+name: 白桃
+nickname: 高山白桃
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 42
+    unit: kcal
+    nrv: 2.05
+  蛋白质:
+    amount: 0.7
+    unit: g
+    nrv: 0.78
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0.35
+  碳水化合物:
+    amount: 10.1
+    unit: g
+    nrv: 3.43
+  VA(视黄醇等):
+    amount: 3
+    unit: μg
+    nrv: 0.39
+  VE(生育酚):
+    amount: 1.05
+    unit: mg
+    nrv: 7.5
+  VB1(硫胺素):
+    amount: 0.04
+    unit: mg
+    nrv: 2.86
+  VB2(核黄素):
+    amount: 0.01
+    unit: mg
+    nrv: 0.71
+  VC(抗坏血酸):
+    amount: 10
+    unit: mg
+    nrv: 10
+  磷:
+    amount: 11
+    unit: mg
+    nrv: 1.55
+  钙:
+    amount: 7
+    unit: mg
+    nrv: 0.88
+  铁:
+    amount: 0.8
+    unit: mg
+    nrv: 6.67
+  钠:
+    amount: 1
+    unit: mg
+    nrv: 0.07
+  钾:
+    amount: 169
+    unit: mg
+    nrv: 8.45
+  镁:
+    amount: 4
+    unit: mg
+    nrv: 1.25
+  锌:
+    amount: 0.13
+    unit: mg
+    nrv: 1.08
+  铜:
+    amount: 0.05
+    unit: mg
+    nrv: 6.25
+  锰:
+    amount: 0.04
+    unit: mg
+    nrv: 0.89
