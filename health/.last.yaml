@@ -1,16 +1,16 @@
 date: 20250828
 sleep: 
-  time: 20250828031900
-  weight: 54.0
+  time: 20250828023300
+  weight: 54.5
 wake:
-  time: 20250828104000
-  weight: 53.5
-  SpO2: 95
-  PRbpm: 67
+  time: 20250828105200
+  weight: 53.7
+  SpO2: 94
+  PRbpm: 62
   log: |
-    补水0次，睡觉中间起来小便0次。
+    补水0次，睡觉中间起来小便1次。
 exercise: 
-- time: 20250828121000
+- time: 20250828114000
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -28,8 +28,8 @@ exercise:
     amount: 5
     unit: set
   SpO2: 97
-  PRbpm: 110
-  endheartrate: 106
+  PRbpm: 94
+  endheartrate: 100
   log: |
     室内运动后把脉: 寸脉关脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
 - time: 20250828154300

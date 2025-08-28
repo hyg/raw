@@ -1,13 +1,14 @@
 name: 粉蒸肉2508c
-amount: 500
+amount: 426.5
 unit: g
 food:
   - name: 猪前腿肉
-    amount: 400
+    amount: 366.5
     unit: g
   - name: 徐七二粉蒸肉粉
-    amount: 60
+    amount: 60.0
     unit: g
 log:
   - 肉粉混合后，高压锅蒸14分钟。
 comment:
+  - 熟了。
