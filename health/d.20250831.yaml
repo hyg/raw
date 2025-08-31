@@ -32,13 +32,6 @@ exercise:
   endheartrate: 101
   log: |
     室内运动后把脉: 寸脉关脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
-- time: 20250831154300
-  item:
-  - type: 臀腰激活L2
-    amount: 14
-    unit: minute
-  SpO2: 97
-  PRbpm: 87
 stool:
 - time: 20250831150500
   amount:   2   #	1:多; 2:适中;	3:少

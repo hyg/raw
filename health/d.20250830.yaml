@@ -29,7 +29,7 @@ exercise:
     unit: set
   SpO2: 97
   PRbpm: 98
-  endheartrate: 101=4
+  endheartrate: 104
   log: |
     室内运动后把脉: 寸脉关脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
 stool:

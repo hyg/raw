@@ -1,20 +1,20 @@
 name: 咖喱鸡肉2508b
-amount: 1400
+amount: 925.0
 unit: g
 food:
   - name: 鸡腿肉
-    amount: 300
+    amount: 299.5
     unit: g
   - name: 土豆
-    amount: 500
+    amount: 373.0
     unit: g
   - name: 胡萝卜
-    amount: 215
+    amount: 132.5
     unit: g
   - name: 唯加南洋风味咖喱酱
-    amount: 100
+    amount: 77.0
     unit: g
 log: |
   - 高压锅米饭档14分钟。
 comment: |
-  
+  - 意面要压在底下。
