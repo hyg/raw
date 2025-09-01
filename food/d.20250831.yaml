@@ -72,7 +72,7 @@ food:
     name: 菊粉
     amount: 9.0
     unit: g
-  - time: 202508312000600
+  - time: 20250831200600
     name: 白桃
     amount: 214.0
     unit: g
