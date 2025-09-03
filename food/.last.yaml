@@ -2,24 +2,20 @@ date: 20250903
 food:
   - time: 20250903132800
     name: 番茄酱
-    amount: 15
+    amount: 17.5
     unit: g
   - time: 20250903132800
     name: 棘密西梅原浆
-    amount: 50
+    amount: 53.0
     unit: g
   - time: 20250903132800
     name: 菊粉
     amount: 7.0
     unit: g
 
-  - time: 20250903132900
-    name: 葡萄
-    amount: 150
-    unit: g
-  - time: 20250903133300
-    name: 杏
-    amount: 90
+  - time: 20250903133000
+    name: 梨
+    amount: 310.0
     unit: g
 
   - time: 20250903192600
@@ -28,19 +24,19 @@ food:
     unit: 个
   - time: 20250903192600
     name: 广信水煮三文鱼
-    amount: 100
+    amount: 132.5
     unit: g
   - time: 20250903192600
     name: 双笑咸山黄皮果
-    amount: 10.0
+    amount: 10.5
     unit: g
   - time: 20250903192600
     name: 南瓜
-    amount: 80
+    amount: 72.0
     unit: g
   - time: 20250903192600
     name: 西兰花
-    amount: 130
+    amount: 136.5
     unit: g
 
   - time: 20250903135500
@@ -78,9 +74,13 @@ food:
     amount: 8.0
     unit: g
 
-  - time: 20250903192000
-    name: 白桃
-    amount: 215
+  - time: 20250903132900
+    name: 葡萄
+    amount: 150
+    unit: g
+  - time: 20250903133300
+    name: 杏
+    amount: 90
     unit: g
 
   - time: 20250903192600
@@ -117,18 +117,15 @@ food:
     amount: 4.5
     unit: g
 water:
-  - time: 20250903115700
+  - time: 20250903093100
     name: 开水
     amount: 200
     unit: ml
-  - time: 20250903130400
+  - time: 20250903102800
     name: 开水
     amount: 250
     unit: ml
-  - time: 20250903192600
-    name: 汤水
-    amount: 250
-    unit: ml
+
   - time: 20250903141400
     name: 咖啡
     amount: 120.5
