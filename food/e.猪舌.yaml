@@ -1,0 +1,80 @@
+name: 猪舌
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 233
+    unit: kcal
+    nrv: 11.37
+  蛋白质:
+    amount: 15.7
+    unit: g
+    nrv: 17.5
+  脂肪:
+    amount: 18.1
+    unit: g
+    nrv: 31.79
+  碳水化合物:
+    amount: 1.7
+    unit: g
+    nrv: 0.58
+  VA(视黄醇等):
+    amount: 15
+    unit: μg
+    nrv: 1.95
+  VE(生育酚):
+    amount: 0.73
+    unit: mg
+    nrv: 5.21
+  VB1(硫胺素):
+    amount: 0.13
+    unit: mg
+    nrv: 9.29
+  VB2(核黄素):
+    amount: 0.3
+    unit: mg
+    nrv: 21.43
+  VB3(烟酸):
+    amount: 4.6
+    unit: mg
+    nrv: 30.67
+  磷:
+    amount: 163
+    unit: mg
+    nrv: 22.96
+  钙:
+    amount: 13
+    unit: mg
+    nrv: 1.63
+  铁:
+    amount: 2.8
+    unit: mg
+    nrv: 23.33
+  钠:
+    amount: 79
+    unit: mg
+    nrv: 5.27
+  钾:
+    amount: 216
+    unit: mg
+    nrv: 10.8
+  镁:
+    amount: 14
+    unit: mg
+    nrv: 4.38
+  锌:
+    amount: 2.12
+    unit: mg
+    nrv: 17.67
+  硒:
+    amount: 11.7
+    unit: μg
+    nrv: 19.5
+  铜:
+    amount: 0.18
+    unit: mg
+    nrv: 22.5
+  锰:
+    amount: 0.04
+    unit: mg
+    nrv: 0.89

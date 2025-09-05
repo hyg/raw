@@ -1,0 +1,24 @@
+name: 伯香村五仁月饼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1883
+    unit: kj
+    nrv: 22
+  蛋白质:
+    amount: 9.3
+    unit: g
+    nrv: 16
+  脂肪:
+    amount: 15.8
+    unit: g
+    nrv: 26
+  碳水化合物:
+    amount: 67.1
+    unit: g
+    nrv: 22
+  钠:
+    amount: 15
+    unit: mg
+    nrv: 1
