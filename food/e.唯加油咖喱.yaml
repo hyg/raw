@@ -1,0 +1,24 @@
+name: 唯加油咖喱
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1314
+    unit: kj
+    nrv: 16
+  蛋白质:
+    amount: 2.2
+    unit: g
+    nrv: 4
+  脂肪:
+    amount: 28.2
+    unit: g
+    nrv: 47
+  碳水化合物:
+    amount: 13.7
+    unit: g
+    nrv: 5
+  钠:
+    amount: 2580
+    unit: mg
+    nrv: 129
