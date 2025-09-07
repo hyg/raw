@@ -20,25 +20,28 @@ var startdate, enddate;
 // Statistics report
 var etable = new Object();  // element data
 var ftable = new Object();  // food data
-// element detail tables
-//const Keyelement = "热量";
-//const Keyelement = "蛋白质";
-//const Keyelement = "脂肪";
-//const Keyelement = "碳水化合物";
-//const Keyelement = "钠";
-//const Keyelement = "膳食纤维";
-//const Keyelement = "钙";
-//const Keyelement = "VC(抗坏血酸)";
-//const Keyelement = "VA(视黄醇等)";
-//const Keyelement = "VD3(胆钙化醇)";
-//const Keyelement = "VB12(钴胺素)";
-//const Keyelement = "VB1(硫胺素)";
-//const Keyelement = "VK(凝血维生素)";
-//const Keyelement = "胆固醇";
-//const Keyelement = "钒";
-//const Keyelement = "铁";
-//const Keyelement = "镁";
-//const Keyelement = "磷";
+
+// element detail list
+const Keyelement = [
+//"热量",
+//"蛋白质",
+//"脂肪",
+//"碳水化合物",
+//"钠",
+//"膳食纤维",
+//"钙",
+//"VC(抗坏血酸)",
+//"VA(视黄醇等)",
+//"VD3(胆钙化醇)",
+//"VB12(钴胺素)",
+//"VB1(硫胺素)",
+//"VK(凝血维生素)",
+//"胆固醇",
+//"钒",
+//"铁",
+//"镁",
+//"磷"
+];
 
 var keycnt = 1;
 var Detailtable = new Object();
@@ -155,11 +158,11 @@ function loadmap() {
     // food -> element
     // food -> food
     try {
-        if (fs.existsSync('food/.last.yaml')){
+        if (fs.existsSync('food/.last.yaml')) {
             f = yaml.load(fs.readFileSync("food/.last.yaml", 'utf8'));
             fmap[f.date] = f;
         }
-            
+
         fs.readdirSync("food").forEach(file => {
             if (file.substr(0, 2) == "d.") {
                 if ((file >= startfilename) & (file <= endfilename)) {
@@ -173,7 +176,7 @@ function loadmap() {
             }
         });
 
-        if (fs.existsSync('health/.last.yaml')){
+        if (fs.existsSync('health/.last.yaml')) {
             f = yaml.load(fs.readFileSync("health/.last.yaml", 'utf8'));
             hmap[f.date] = f;
         }
@@ -190,16 +193,16 @@ function loadmap() {
         // failure
         console.log("yaml read error！" + e);
     }
-/*
-            var sortelement = "脂肪";
-            let keysSorted = Object.keys(emap).sort(function (a, b) { return ((emap[b].element== null)?0:((emap[b].element[sortelement]== null)?0:emap[b].element[sortelement].amount)) - ((emap[a].element==null)?0:((emap[a].element[sortelement]== null)?0:emap[a].element[sortelement].amount))});
-        
-            for (var j = 0; j < keysSorted.length; j++) {
-                //console.log("makeplan() > keysSorted[%d]: %s",j,keysSorted[j]);
-                var food = emap[keysSorted[j]];
-                console.log("%d:%s\t%d%s/%f%s",j,keysSorted[j],((emap[keysSorted[j]].element== null)?0:((emap[keysSorted[j]].element[sortelement]== null)?0:emap[keysSorted[j]].element[sortelement].amount)),((emap[keysSorted[j]].element==null)?"kcal":((emap[keysSorted[j]].element[sortelement]== null)?"kcal":emap[keysSorted[j]].element[sortelement].unit)),emap[keysSorted[j]].amount,emap[keysSorted[j]].unit);
-            }
-*/
+    /*
+                var sortelement = "脂肪";
+                let keysSorted = Object.keys(emap).sort(function (a, b) { return ((emap[b].element== null)?0:((emap[b].element[sortelement]== null)?0:emap[b].element[sortelement].amount)) - ((emap[a].element==null)?0:((emap[a].element[sortelement]== null)?0:emap[a].element[sortelement].amount))});
+            
+                for (var j = 0; j < keysSorted.length; j++) {
+                    //console.log("makeplan() > keysSorted[%d]: %s",j,keysSorted[j]);
+                    var food = emap[keysSorted[j]];
+                    console.log("%d:%s\t%d%s/%f%s",j,keysSorted[j],((emap[keysSorted[j]].element== null)?0:((emap[keysSorted[j]].element[sortelement]== null)?0:emap[keysSorted[j]].element[sortelement].amount)),((emap[keysSorted[j]].element==null)?"kcal":((emap[keysSorted[j]].element[sortelement]== null)?"kcal":emap[keysSorted[j]].element[sortelement].unit)),emap[keysSorted[j]].amount,emap[keysSorted[j]].unit);
+                }
+    */
     /*
     // make the Nutritional composition table of mixtures
     var z = new Object();
@@ -528,9 +531,14 @@ function foodmonthreport(argument) {
 }
 
 function maketable() {
-    if (typeof Keyelement !== "undefined" && Keyelement !== null) {
+    /* if (typeof Keyelement !== "undefined" && Keyelement !== null) {
         console.log(Keyelement + "明细表");
         console.table(Detailtable);
+    } */
+
+    for (var i in Keyelement) {
+        console.log(Keyelement[i] + "明细表");
+        console.table(Detailtable[Keyelement[i]]);
     }
 
     var NRV = yaml.load(fs.readFileSync(NRVfilename));
@@ -660,9 +668,14 @@ function maketable() {
 
 // display the tables
 function showtables() {
-    if (typeof Keyelement !== "undefined" && Keyelement !== null) {
-        console.log(Keyelement + "明细表");
-        console.table(Detailtable);
+    /*     if (typeof Keyelement !== "undefined" && Keyelement !== null) {
+            console.log(Keyelement + "明细表");
+            console.table(Detailtable);
+        }
+         */
+    for (var i in Keyelement) {
+        console.log(Keyelement[i] + "明细表");
+        console.table(Detailtable[Keyelement[i]]);
     }
 
     if (JSON.stringify(etable) === "{}") {
@@ -820,20 +833,32 @@ function fooddaysum(date, etable, ftable) {
                     // new element
                     etable[e] = item;
                 }
-                // detail data
-                if (typeof Keyelement !== "undefined" && Keyelement !== null) {
-                    if (e == Keyelement) {
-                        var data = new Object();
-                        data["名称"] = med[id].name;
-                        data["摄入数量"] = med[id].amount.toFixed(2) + med[id].unit;
-                        data["含有" + Keyelement] = item.amount.toFixed(3) + item.unit;
-                        data["累计摄入"] = etable[e].amount.toFixed(3) + item.unit;
-                        data["累计nrv"] = etable[e].nrv.toFixed(2) + "%";
 
-                        Detailtable[keycnt++] = data;
-                    };
-                };
-                //if(e=="VC(抗坏血酸)") console.log(med[id].amount+med[id].unit+"的"+med[id].name+"\t含有"+item.amount.toFixed(10)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(10)+"\t累计nrv:"+etable[e].nrv.toFixed(2));
+                // detail data
+                if (Detailtable[e] == null) {
+                    Detailtable[e] = [];
+                }
+                var data = new Object();
+                data["名称"] = med[id].name;
+                data["摄入数量"] = med[id].amount.toFixed(2) + med[id].unit;
+                data["含有" + e] = item.amount.toFixed(3) + item.unit;
+                data["累计摄入"] = etable[e].amount.toFixed(3) + item.unit;
+                data["累计nrv"] = etable[e].nrv.toFixed(2) + "%";
+                Detailtable[e].push(data);
+
+                /*                 if (typeof Keyelement !== "undefined" && Keyelement !== null) {
+                                    if (e == Keyelement) {
+                                        var data = new Object();
+                                        data["名称"] = med[id].name;
+                                        data["摄入数量"] = med[id].amount.toFixed(2) + med[id].unit;
+                                        data["含有" + Keyelement] = item.amount.toFixed(3) + item.unit;
+                                        data["累计摄入"] = etable[e].amount.toFixed(3) + item.unit;
+                                        data["累计nrv"] = etable[e].nrv.toFixed(2) + "%";
+                
+                                        Detailtable[keycnt++] = data;
+                                    };
+                                };
+                 */                //if(e=="VC(抗坏血酸)") console.log(med[id].amount+med[id].unit+"的"+med[id].name+"\t含有"+item.amount.toFixed(10)+item.unit+"。\t累计摄入："+etable[e].amount.toFixed(10)+"\t累计nrv:"+etable[e].nrv.toFixed(2));
             }
 
             delete med[id];
@@ -924,6 +949,18 @@ function foodsum(foodname, foodamount, foodunit, etable, ftable) {
             //console.log("etable[e] after:%s %s",etable[e].amount,etable[e].unit);
 
             // detail data
+            if (Detailtable[e] == null) {
+                Detailtable[e] = [];
+            }
+            var data = new Object();
+            data["名称"] = foodname;
+            data["摄入数量"] = foodamount.toFixed(2) + foodunit;
+            data["含有" + e] = item.amount.toFixed(3) + item.unit;
+            data["累计摄入"] = etable[e].amount.toFixed(3) + etable[e].unit;
+            data["累计nrv"] = etable[e].nrv.toFixed(2) + "%";
+            Detailtable[e].push(data);
+/* 
+            // detail data
             if (typeof Keyelement !== "undefined" && Keyelement !== null) {
                 if (e == Keyelement) {
                     var data = new Object();
@@ -935,7 +972,7 @@ function foodsum(foodname, foodamount, foodunit, etable, ftable) {
 
                     Detailtable[keycnt++] = data;
                 };
-            };
+            }; */
         }
         //delete food[id];
         return true;
