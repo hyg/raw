@@ -20,19 +20,15 @@ food:
     unit: 个
   - time: 20250909091300
     name: 广信酱油鲭鱼
-    amount: 100
-    unit: g
-  - time: 20250909091300
-    name: 双笑咸山黄皮果
-    amount: 10
+    amount: 230.0
     unit: g
   - time: 20250909091300
     name: 南瓜
-    amount: 80
+    amount: 57.5
     unit: g
   - time: 20250909091300
     name: 西兰花
-    amount: 100
+    amount: 113.0
     unit: g
 
   - time: 20250909092100
@@ -147,10 +143,11 @@ food:
     amount: 3.0
     unit: g
 water:
-  - time: 20250909071600
+  - time: 20250909124400
     name: 开水
     amount: 200
     unit: ml
+
   - time: 20250909083000
     name: 开水
     amount: 250

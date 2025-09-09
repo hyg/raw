@@ -1,14 +1,14 @@
 date: 20250909
 sleep: 
-  time: 20250908235200
-  weight: 54.2
+  time: 20250909001000
+  weight: 54.0
 wake:
-  time: 20250909070900
-  weight: 53.3
-  SpO2: 95
-  PRbpm: 56
+  time: 20250909123800
+  weight: 52.9
+  SpO2: 94
+  PRbpm: 59
   log: |
-    补水0次，睡觉中间起来小便0次。
+    补水0次，睡觉中间起来小便2次。
 exercise: 
 - time: 20250909075500
   item:
