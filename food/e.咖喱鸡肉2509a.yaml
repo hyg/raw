@@ -1,0 +1,24 @@
+name: 咖喱鸡肉2509a
+amount: 830.0
+unit: g
+food:
+  - name: 鸡腿肉
+    amount: 307.5
+    unit: g
+  - name: 土豆
+    amount: 247.5
+    unit: g
+  - name: 胡萝卜
+    amount: 100.0
+    unit: g
+  - name: 洋葱
+    amount: 84.0
+    unit: g
+  - name: 唯加油咖喱
+    amount: 91.0
+    unit: g
+log: |
+  - 高压锅米饭档14分钟。
+comment: |
+  - 意面要压在底下。
+  - 太咸，可以试试80克油咖喱。
