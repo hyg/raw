@@ -1,14 +1,15 @@
 name: 卤猪舌2509a
-amount: 200
+amount: 169.0
 unit: g
 food:
   - name: 猪舌
-    amount: 250
+    amount: 250.0
     unit: g
   - name: 楚郡味豆瓣酱
-    amount: 20
+    amount: 20.5
     unit: g
 log:
   - 没有灼水，解冻洗净后直接加豆瓣酱在高压锅煮。
   - 高压锅20分钟。卤猪舌和卤汁移到密封罐冷却，浸泡着放到保鲜层待用。
 comment:
+  - 口感和咸淡都合适。
