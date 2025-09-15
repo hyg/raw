@@ -1,0 +1,27 @@
+name: 大希地牛油蛋挞皮
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1573
+    unit: kj
+    nrv: 19
+  蛋白质:
+    amount: 5.9
+    unit: g
+    nrv: 10
+  脂肪:
+    amount: 21.1
+    unit: g
+    nrv: 35
+  碳水化合物:
+    amount: 40.7
+    unit: g
+    nrv: 14
+  钠:
+    amount: 75
+    unit: mg
+    nrv: 4
+comment:
+  - 预热：上火略高于下火、190~220°C
+  - 有蛋挞液：烤18~25分钟。
