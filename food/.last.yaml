@@ -20,7 +20,7 @@ food:
 
   - time: 20250915135700
     name: 炖排骨2509a
-    amount: 90
+    amount: 67.5
     unit: g
   - time: 20250915135700
     name: 馒头2509a
@@ -41,7 +41,7 @@ food:
     unit: g
   - time: 20250915141800
     name: 家利原味烧饼
-    amount: 15
+    amount: 0
     unit: g
   - time: 20250915141800
     name: 麦胚芽
@@ -100,10 +100,11 @@ food:
     amount: 3.0
     unit: g
 water:
-  - time: 20250915112400
+  - time: 20250915125800
     name: 开水
     amount: 200
     unit: ml
+
   - time: 20250915125700
     name: 开水
     amount: 250
