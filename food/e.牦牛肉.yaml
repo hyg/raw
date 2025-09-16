@@ -1,0 +1,92 @@
+name: 牦牛肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 119
+    unit: kcal
+    nrv: 6.8
+  碳水化合物:
+    amount: 3.4
+    unit: g
+    nrv: 1.4
+  蛋白质:
+    amount: 23.1
+    unit: g
+    nrv: 30.2
+  脂肪:
+    amount: 1.4
+    unit: g
+    nrv: 3.2
+  水分:
+    amount: 70.9
+    unit: g
+    nrv:
+  灰分:
+    amount: 1.2
+    unit: g
+    nrv:
+  胆固醇:
+    amount: 63
+    unit: mg
+    nrv:
+  VA(视黄醇等):
+    amount: 1
+    unit: μg
+    nrv: 0.1
+  VE(生育酚):
+    amount: 0.68
+    unit: mg
+    nrv: 4.9
+  VB1(硫胺素):
+    amount: 0.05
+    unit: mg
+    nrv: 3.6
+  VB2(核黄素):
+    amount: 0.22
+    unit: mg
+    nrv: 15.7
+  VB3(烟酸):
+    amount: 4.44
+    unit: mg
+    nrv: 29.6
+  钙:
+    amount: 28
+    unit: mg
+    nrv: 3.5
+  磷:
+    amount: 208
+    unit: mg
+    nrv: 29.3
+  钾:
+    amount: 37
+    unit: mg
+    nrv: 1.9
+  钠:
+    amount: 25.8
+    unit: mg
+    nrv: 1.7
+  镁:
+    amount: 26
+    unit: mg
+    nrv: 8.1
+  铁:
+    amount: 3.6
+    unit: mg
+    nrv: 30
+  锌:
+    amount: 3.45
+    unit: mg
+    nrv: 28.8
+  硒:
+    amount: 0.98
+    unit: μg
+    nrv: 1.6
+  铜:
+    amount: 0.13
+    unit: mg
+    nrv: 16.3
+  锰:
+    amount: 0.08
+    unit: mg
+    nrv: 1.8
