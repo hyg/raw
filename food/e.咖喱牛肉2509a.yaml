@@ -1,0 +1,24 @@
+name: 咖喱牛肉2509a
+amount: 804.0
+unit: g
+food:
+  - name: 牦牛肉
+    amount: 248.5
+    unit: g
+  - name: 土豆
+    amount: 246.0
+    unit: g
+  - name: 胡萝卜
+    amount: 64.0
+    unit: g
+  - name: 洋葱
+    amount: 102.0
+    unit: g
+  - name: 唯加油咖喱
+    amount: 99.5
+    unit: g
+log: |
+  - 高压锅米饭档14分钟。
+comment: |
+  - 牛肉、洋葱压在底下。
+  - 出水很多。
