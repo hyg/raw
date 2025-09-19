@@ -1,0 +1,25 @@
+name: 蛋挞2509a
+amount: 9
+unit: 个
+food:
+  - name: 俏侬黄油蛋挞皮
+    amount: 180
+    unit: g
+  - name: 鸡蛋
+    amount: 45
+    unit: g
+  - name: 奶粉
+    amount: 25.0
+    unit: g
+  - name: 淡奶油粉
+    amount: 25.0
+    unit: g
+  - name: 雀巢鹰唛炼奶
+    amount: 10.0
+    unit: g
+log:
+  - 加水100.5g水。
+  - 不预热、上下火、下层烤盘、190°C+30分钟。
+  - 不预热、上下火、上层烤盘、200°C+5分钟。
+comment:
+  - 合适
