@@ -1,0 +1,84 @@
+name: 山药
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 57
+    unit: kcal
+    nrv: 2.78
+  蛋白质:
+    amount: 1.9
+    unit: g
+    nrv: 2.12
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0.35
+  碳水化合物:
+    amount: 12.4
+    unit: g
+    nrv: 4.21
+  VA(视黄醇等):
+    amount: 3
+    unit: μg
+    nrv: 0.39
+  VE(生育酚):
+    amount: 0.24
+    unit: mg
+    nrv: 1.71
+  VB1(硫胺素):
+    amount: 0.05
+    unit: mg
+    nrv: 3.57
+  VB2(核黄素):
+    amount: 0.02
+    unit: mg
+    nrv: 1.43
+  VB3(烟酸):
+    amount: 0.3
+    unit: mg
+    nrv: 2
+  VC(抗坏血酸):
+    amount: 5
+    unit: mg
+    nrv: 5
+  磷:
+    amount: 34
+    unit: mg
+    nrv: 4.79
+  钙:
+    amount: 16
+    unit: mg
+    nrv: 2
+  铁:
+    amount: 0.3
+    unit: mg
+    nrv: 2.5
+  钠:
+    amount: 19
+    unit: mg
+    nrv: 1.27
+  钾:
+    amount: 213
+    unit: mg
+    nrv: 10.65
+  镁:
+    amount: 20
+    unit: mg
+    nrv: 6.25
+  锌:
+    amount: 0.27
+    unit: mg
+    nrv: 2.25
+  硒:
+    amount: 0.6
+    unit: μg
+    nrv: 1
+  铜:
+    amount: 0.24
+    unit: mg
+    nrv: 30
+  锰:
+    amount: 0.12
+    unit: mg
+    nrv: 2.67
