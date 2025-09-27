@@ -1,0 +1,28 @@
+name: 泰森轻食鸡胸肉排
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 387
+    unit: kj
+    nrv: 5
+  蛋白质:
+    amount: 14.2
+    unit: g
+    nrv: 24
+  脂肪:
+    amount: 0.8
+    unit: g
+    nrv: 1
+  碳水化合物:
+    amount: 6.8
+    unit: g
+    nrv: 2
+  钠:
+    amount: 696
+    unit: mg
+    nrv: 35
+log:
+  - 包装：无需解冻，烤箱200°C、12~17分钟。
+  - 不预热、上下火、中层(上下层都空）、200°C+15分钟。随蛋挞烤：预热、上下火、中层(下层有烤架)、190°C+15分钟。
+  - 翻面、预热、上下火、中层层(下层可以消毒餐具)，200°C+5分钟。

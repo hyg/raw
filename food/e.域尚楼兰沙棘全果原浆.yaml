@@ -23,9 +23,9 @@ element:
     unit: mg
     nrv: 1
   VE(生育酚):
-    amount: 4.46
+    amount: 4.45
     unit: mg
-    nrv: 232
+    nrv: 32
   VB6(吡哆素):
     amount: 1.11
     unit: mg
