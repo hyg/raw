@@ -16,7 +16,7 @@ food:
     name: 菊粉
     amount: 15.0
     unit: g
-  - time: 202510011000000
+  - time: 20251001100000
     name: 猕猴桃
     amount: 83.0
     unit: g
