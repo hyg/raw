@@ -1,0 +1,24 @@
+name: 松花鸭皮蛋
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 684
+    unit: kj
+    nrv: 8
+  蛋白质:
+    amount: 13.2
+    unit: g
+    nrv: 22
+  脂肪:
+    amount: 10.8
+    unit: g
+    nrv: 18
+  碳水化合物:
+    amount: 3.5
+    unit: g
+    nrv: 1
+  钠:
+    amount: 598
+    unit: mg
+    nrv: 30

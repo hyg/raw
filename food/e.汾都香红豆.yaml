@@ -1,0 +1,76 @@
+name: 汾都香红豆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1443
+    unit: kj
+    nrv: 17
+  蛋白质:
+    amount: 20.2
+    unit: g
+    nrv: 34
+  脂肪:
+    amount: 0.6
+    unit: g
+    nrv: 1
+  碳水化合物:
+    amount: 63.4
+    unit: g
+    nrv: 21
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0
+  膳食纤维:
+    amount: 12.7
+    unit: g
+    nrv: 42.33
+  VA(视黄醇等):
+    amount: 1
+    unit: μg
+    nrv: 0.13
+  VB1(硫胺素):
+    amount: 0.46
+    unit: mg
+    nrv: 32.86
+  VB2(核黄素):
+    amount: 0.22
+    unit: mg
+    nrv: 15.71
+  VB3(烟酸):
+    amount: 2.63
+    unit: mg
+    nrv: 17.53
+  VB6(吡哆素):
+    amount: 0.35
+    unit: mg
+    nrv: 25
+  VB9(叶酸):
+    amount: 622
+    unit: μg
+    nrv: 155.5
+  磷:
+    amount: 381
+    unit: mg
+    nrv: 53.66
+  钙:
+    amount: 66
+    unit: mg
+    nrv: 8.25
+  铁:
+    amount: 5
+    unit: mg
+    nrv: 41.67
+  钾:
+    amount: 1254
+    unit: mg
+    nrv: 62.7
+  镁:
+    amount: 127
+    unit: mg
+    nrv: 39.69
+  锌:
+    amount: 5.04
+    unit: mg
+    nrv: 42
