@@ -1,0 +1,170 @@
+date: 20251007
+food:
+  - time: 20251007090700
+    name: 番石榴
+    amount: 168.0
+    unit: g
+  - time: 20251007091000
+    name: 馒头2510a
+    amount: 1
+    unit: 个
+  - time: 20251007091000
+    name: 卤猪舌2510a
+    amount: 27.5
+    unit: g
+  - time: 20251007091000
+    name: 炖排骨2510a
+    amount: 24.0
+    unit: g
+  - time: 20251007091000
+    name: 南瓜
+    amount: 98.5
+    unit: g
+  - time: 20251007091000
+    name: 秋葵
+    amount: 104.0
+    unit: g
+  - time: 20251007092800
+    name: 安居尔新疆味道五仁老月饼
+    amount: 77.0
+    unit: g
+  - time: 20251007094100
+    name: 楼外楼小烧饼
+    amount: 16.5
+    unit: g
+  - time: 20251007094500
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20251007094500
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20251007094500
+    name: 浙梅免洗桑葚
+    amount: 10.0
+    unit: g
+  - time: 20251007095300
+    name: 我的童年纯牛奶粉
+    amount: 20.0
+    unit: g
+  - time: 20251007095300
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+  - time: 20251007140800
+    name: 番茄酱
+    amount: 20.0
+    unit: g
+  - time: 20251007140800
+    name: 域尚楼兰沙棘全果原浆
+    amount: 49.5
+    unit: g
+  - time: 20251007140800
+    name: 菊粉
+    amount: 5.0
+    unit: g
+  - time: 20251007140800
+    name: 臻妍益生菌冻干粉
+    amount: 3.0
+    unit: g
+  - time: 20251007140900
+    name: 梨
+    amount: 123.0
+    unit: g
+  - time: 20251007141200
+    name: 面团2505a
+    amount: 182.0
+    unit: g
+  - time: 20251007141200
+    name: 甘青全麦粉
+    amount: 15.0
+    unit: g
+  - time: 20251007141200
+    name: 牛佰仕马苏里拉奶酪
+    amount: 51.5
+    unit: g
+  - time: 20251007141200
+    name: 泰森轻食鸡胸肉排
+    amount: 43.0
+    unit: g
+  - time: 20251007141200
+    name: 三文鱼
+    amount: 27.5
+    unit: g
+    log:
+      - 披萨加奶酪、肉、在上层；
+      - 不预热、上下火、140°C+30分钟；
+      - 上下火、160°C+2分钟.
+  - time: 20251007141200
+    name: 大白菜
+    amount: 230.5
+    unit: g
+  - time: 20251007141200
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20251007141200
+    name: 油
+    amount: 0.5
+    unit: g
+  - time: 20251007145000
+    name: 我的童年纯牛奶粉
+    amount: 20.0
+    unit: g
+  - time: 20251007145000
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+water:
+  - time: 20251007075200
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20251007085500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251007095300
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20251007102500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251007121700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251007123900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251007145000
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20251007160600
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20251007095300
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20251007102500
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20251007102500
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20251007102500
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |

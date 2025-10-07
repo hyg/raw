@@ -15,10 +15,6 @@ element:
     amount: 16.4
     unit: g
     nrv: 28.8
-  VA(视黄醇等):
-    amount: .nan
-    unit: μg
-    nrv: .nan
   VE(生育酚):
     amount: 0.02
     unit: mg
