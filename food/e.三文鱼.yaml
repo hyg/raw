@@ -42,10 +42,11 @@ element:
     amount: 4.4
     unit: μg
     nrv: 73
-  维生素D:
+  VD3(胆钙化醇):
     amount: 12.5
     unit: μg
     nrv: 250
+comment:
   欧米伽3脂肪酸:
     amount: 3324
     unit: mg

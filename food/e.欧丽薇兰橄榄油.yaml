@@ -1,0 +1,25 @@
+name: 欧丽薇兰橄榄油
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 3700
+    unit: kj
+    nrv: 44
+  脂肪:
+    amount: 100.0
+    unit: g
+    nrv: 167
+comment:
+  饱和脂肪:
+    amount: 14.0
+    unit: g
+    nrv: 23
+  单不饱和脂肪:
+    amount: 79.0
+    unit: g
+    nrv: 132
+  多不饱和脂肪:
+    amount: 7.0
+    unit: g
+    nrv: 12

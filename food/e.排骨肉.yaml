@@ -87,10 +87,6 @@ element:
     amount: 0.07
     unit: mg
     nrv: 8.75
-  锰:
-    amount: .nan
-    unit: mg
-    nrv: .nan
   生物素:
     amount: 2
     unit: μg
