@@ -42,6 +42,7 @@ const Keyelement = [
 //"镁",
 //"磷",
 //"锰"
+//"硒"
 ];
 
 var keycnt = 1;
