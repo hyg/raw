@@ -954,6 +954,7 @@ function foodsum(foodname, foodamount, foodunit, etable, ftable) {
             if (Detailtable[e] == null) {
                 Detailtable[e] = [];
             }
+            //console.log("foodamount:",foodamount);
             var data = new Object();
             data["名称"] = foodname;
             data["摄入数量"] = foodamount.toFixed(2) + foodunit;
