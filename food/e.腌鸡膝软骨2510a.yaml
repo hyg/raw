@@ -1,0 +1,12 @@
+name: 腌鸡膝软骨2510a
+amount: 947.0
+unit: g
+food:
+  - name: 鸡膝软骨
+    amount: 915.0
+    unit: g
+  - name: 阑绪儿童新奥尔良烤翅腌料
+    amount: 32.0
+    unit: g
+log:
+comment:

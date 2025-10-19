@@ -1,0 +1,24 @@
+name: 阑绪儿童新奥尔良烤翅腌料
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1275
+    unit: kj
+    nrv: 15
+  蛋白质:
+    amount: 4.6
+    unit: g
+    nrv: 8
+  脂肪:
+    amount: 1.7
+    unit: g
+    nrv: 3
+  碳水化合物:
+    amount: 66.7
+    unit: g
+    nrv: 22
+  钠:
+    amount: 8338
+    unit: mg
+    nrv: 417
