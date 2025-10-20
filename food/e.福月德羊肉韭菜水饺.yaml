@@ -1,0 +1,24 @@
+name: 福月德羊肉韭菜水饺
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 795
+    unit: kj
+    nrv: 9
+  蛋白质:
+    amount: 8.4
+    unit: g
+    nrv: 14
+  脂肪:
+    amount: 6.5
+    unit: g
+    nrv: 11
+  碳水化合物:
+    amount: 24.2
+    unit: g
+    nrv: 8
+  钠:
+    amount: 540
+    unit: mg
+    nrv: 27

@@ -1,0 +1,24 @@
+name: 福月德羊肉大葱水饺
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 836
+    unit: kj
+    nrv: 10
+  蛋白质:
+    amount: 9.5
+    unit: g
+    nrv: 16
+  脂肪:
+    amount: 3.6
+    unit: g
+    nrv: 6
+  碳水化合物:
+    amount: 31.9
+    unit: g
+    nrv: 11
+  钠:
+    amount: 720
+    unit: mg
+    nrv: 36

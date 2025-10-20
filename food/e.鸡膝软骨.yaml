@@ -19,18 +19,6 @@ element:
     amount: 0.4
     unit: g
     nrv: 1
-  胆固醇:
-    amount: 29
-    unit: mg
-    nrv: 10
-  饱和脂肪酸:
-    amount: 0.1
-    unit: g
-    nrv: 0
-  单不饱和脂肪酸:
-    amount: 0.1
-    unit: g
-    nrv: 0
   VA(视黄醇等):
     amount: 1
     unit: μg
@@ -103,5 +91,18 @@ element:
     amount: 0.02
     unit: mg
     nrv: 1
-comment:
+log:
   - https://www.tiantiancaipu.com/nutrition/food-39422.html
+comment:
+  饱和脂肪酸:
+    amount: 0.1
+    unit: g
+    nrv: 0
+  单不饱和脂肪酸:
+    amount: 0.1
+    unit: g
+    nrv: 0
+  胆固醇:
+    amount: 29
+    unit: mg
+    nrv: 10
