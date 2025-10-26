@@ -46,10 +46,5 @@ exercise:
     unit: minute
   SpO2: 95
   PRbpm: 110
-stool:
-- time: 202510251325000
-  amount:   1   #	1:多; 2:适中;	3:少
-  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
-  diffcult: 1   #	1:不困难;	2:困难
 log: |
 comment: |

@@ -1,0 +1,87 @@
+name: 山楂
+nickname: 
+  - 红果
+  - 山里红
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 102
+    unit: kcal
+    nrv: 4.98
+  蛋白质:
+    amount: 0.5
+    unit: g
+    nrv: 0.56
+  脂肪:
+    amount: 0.6
+    unit: g
+    nrv: 1.05
+  碳水化合物:
+    amount: 25.1
+    unit: g
+    nrv: 8.52
+  VA(视黄醇等):
+    amount: 17
+    unit: μg
+    nrv: 2.21
+  VE(生育酚):
+    amount: 7.32
+    unit: mg
+    nrv: 52.29
+  VB1(硫胺素):
+    amount: 0.02
+    unit: mg
+    nrv: 1.43
+  VB2(核黄素):
+    amount: 0.02
+    unit: mg
+    nrv: 1.43
+  VB3(烟酸):
+    amount: 0.4
+    unit: mg
+    nrv: 2.67
+  VC(抗坏血酸):
+    amount: 53
+    unit: mg
+    nrv: 53
+  磷:
+    amount: 24
+    unit: mg
+    nrv: 3.38
+  钙:
+    amount: 52
+    unit: mg
+    nrv: 6.5
+  铁:
+    amount: 0.9
+    unit: mg
+    nrv: 7.5
+  钠:
+    amount: 5
+    unit: mg
+    nrv: 0.33
+  钾:
+    amount: 299
+    unit: mg
+    nrv: 14.95
+  镁:
+    amount: 19
+    unit: mg
+    nrv: 5.94
+  锌:
+    amount: 0.28
+    unit: mg
+    nrv: 2.33
+  硒:
+    amount: 1.2
+    unit: μg
+    nrv: 2
+  铜:
+    amount: 0.11
+    unit: mg
+    nrv: 13.75
+  锰:
+    amount: 0.24
+    unit: mg
+    nrv: 5.33

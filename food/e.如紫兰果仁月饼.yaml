@@ -1,0 +1,24 @@
+name: 如紫兰果仁月饼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2038
+    unit: kj
+    nrv: 24
+  蛋白质:
+    amount: 10.8
+    unit: g
+    nrv: 18
+  脂肪:
+    amount: 24.9
+    unit: g
+    nrv: 42
+  碳水化合物:
+    amount: 54.9
+    unit: g
+    nrv: 18
+  钠:
+    amount: 114
+    unit: mg
+    nrv: 6
