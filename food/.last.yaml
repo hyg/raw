@@ -7,7 +7,7 @@ food:
 
   - time: 20251027103800
     name: 红薯
-    amount: 130
+    amount: 101.0
     unit: g
   - time: 20251027103800
     name: 山药豆
@@ -116,10 +116,11 @@ food:
     amount: 4.5
     unit: g
 water:
-  - time: 20251027091100
+  - time: 20251027100600
     name: 开水
-    amount: 200
+    amount: 150
     unit: ml
+
   - time: 20251027102200
     name: 开水
     amount: 250
