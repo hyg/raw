@@ -1,0 +1,28 @@
+name: 大成奥尔良味香煎鸡扒
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 521
+    unit: kj
+    nrv: 6
+  蛋白质:
+    amount: 14.5
+    unit: g
+    nrv: 24
+  脂肪:
+    amount: 4.8
+    unit: g
+    nrv: 8
+  碳水化合物:
+    amount: 5.7
+    unit: g
+    nrv: 2
+  钠:
+    amount: 606
+    unit: mg
+    nrv: 30
+log:
+  - 包装：无需解冻，烤箱200°C、12~13分钟。
+  - 不预热、上下火、中层(上下层都空）、200°C+15分钟。随蛋挞烤：预热、上下火、中层(下层有烤架)、190°C+15分钟。
+  - 翻面、预热、上下火、中层层(下层可以消毒餐具)，200°C+5分钟。
