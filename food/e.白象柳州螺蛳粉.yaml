@@ -1,0 +1,24 @@
+name: 白象柳州螺蛳粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1085
+    unit: kj
+    nrv: 13
+  蛋白质:
+    amount: 3.7
+    unit: g
+    nrv: 6
+  脂肪:
+    amount: 10.8
+    unit: g
+    nrv: 18
+  碳水化合物:
+    amount: 36.6
+    unit: g
+    nrv: 12
+  钠:
+    amount: 2130
+    unit: mg
+    nrv: 107
