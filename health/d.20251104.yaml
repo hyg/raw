@@ -1,9 +1,9 @@
-date: 20251105
+date: 20251104
 sleep: 
-  time: 20251104221700
+  time: 20251103221700
   weight: 55.5
 wake:
-  time: 20251105114500
+  time: 20251104114500
   weight: 54.0
   SpO2: 92
   PRbpm: 57
@@ -11,7 +11,7 @@ wake:
     补水0次，睡觉中间起来小便2次。
     腰围：肚脐85cm、腰节84cm。
 exercise: 
-- time: 20251105123400
+- time: 20251104123400
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -33,22 +33,8 @@ exercise:
   endheartrate: 94
   log: |
     室内运动后把脉: 寸脉关脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
-- time: 20251105162800
-  item:
-  - type: walk
-    amount: 30
-    unit: minute
-  SpO2: 96
-  PRbpm: 125
-- time: 20251105130000
-  item:
-  - type: 臀腰激活L2
-    amount: 14
-    unit: minute
-  SpO2: 97
-  PRbpm: 87
 stool:
-- time: 20251105150500
+- time: 20251104150500
   amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
