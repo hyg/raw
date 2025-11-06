@@ -126,7 +126,7 @@ food:
     amount: 0.5
     unit: g
   - time: 20251105192400
-    name: 伊利脱脂奶粉
+    name: 奶粉
     amount: 20.0
     unit: g
   - time: 20251105192400

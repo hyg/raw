@@ -1,0 +1,20 @@
+date: 20251106
+sleep: 
+  time: 20251105221200
+  weight: 54.8
+wake:
+  time: 20251106071900
+  weight: 54.1
+  SpO2: 95
+  PRbpm: 63
+  log: |
+    补水0次，睡觉中间起来小便0次。
+- time: 20251106073000
+  item:
+  - type: walk
+    amount: 38
+    unit: minute
+  SpO2: 96
+  PRbpm: 115
+log: |
+comment: |
