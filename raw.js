@@ -174,38 +174,38 @@ diff day mode:  "node raw -1"
 period mode: "node raw 20230101 20230331"
 today mode: "node raw"
 plan mode: "node raw plan 15"`;
-// read the arguments
-var arguments = process.argv.splice(2);
-if (arguments.length > 0) {
-  if ((arguments.length == 1) & (arguments[0].length == 4)) {
+// read the args
+var args = process.argv.splice(2);
+if (args.length > 0) {
+  if ((args.length == 1) & (args[0].length == 4)) {
     // year mode: "node raw 2023"
-    startdate = arguments[0] + "0101";
-    enddate = arguments[0] + "1231";
+    startdate = args[0] + "0101";
+    enddate = args[0] + "1231";
     loadmap();
-    foodyearlog(arguments[0]);
+    foodyearlog(args[0]);
     //showtables();
     maketable();
     makeRfile();
-  } else if ((arguments.length == 1) & (arguments[0].length == 6)) {
+  } else if ((args.length == 1) & (args[0].length == 6)) {
     // month mode: "node raw 202304"
-    //startdate = arguments[0]+"01";
-    foodmonthreport(arguments[0]);
-  } else if ((arguments.length == 1) & (arguments[0].length == 8)) {
+    //startdate = args[0]+"01";
+    foodmonthreport(args[0]);
+  } else if ((args.length == 1) & (args[0].length == 8)) {
     // day mode:"node raw 20230410"
-    startdate = arguments[0];
-    enddate = arguments[0];
+    startdate = args[0];
+    enddate = args[0];
     loadmap();
-    fooddaylog(arguments[0]);
+    fooddaylog(args[0]);
     //showtables();
     maketable();
     //makeRfile();
   } else if (
-    (arguments.length == 1) &
-    (arguments[0].length != 8) &
-    !isNaN(arguments[0])
+    (args.length == 1) &
+    (args[0].length != 8) &
+    !isNaN(args[0])
   ) {
     // diff day mode:"node raw -1"
-    var diff = parseInt(arguments[0]);
+    var diff = parseInt(args[0]);
 
     startdate = datestr(diff);
     enddate = datestr(diff);
@@ -215,21 +215,21 @@ if (arguments.length > 0) {
     //showtables();
     maketable();
     //makeRfile();
-  } else if (arguments.length == 2 && arguments[0] == "plan") {
+  } else if (args.length == 2 && args[0] == "plan") {
     // plan mode: "node raw plan 15"
-    var long = parseInt(arguments[1]);
+    var long = parseInt(args[1]);
     startdate = "20150401";
     enddate = datestr(-364 + long);
     loadmap();
     makeplan(long);
   } else if (
-    arguments.length == 2 &&
-    arguments[0].length == 8 &&
-    arguments[1].length == 8
+    args.length == 2 &&
+    args[0].length == 8 &&
+    args[1].length == 8
   ) {
     // period mode:"node raw 20230101 20230331"
-    startdate = arguments[0];
-    enddate = arguments[1];
+    startdate = args[0];
+    enddate = args[1];
     loadmap();
     foodperiodlog(startdate, enddate);
     //showtables();
@@ -296,16 +296,16 @@ function loadmap() {
     // failure
     console.log("yaml read error！" + e);
   }
-  /*
-                var sortelement = "脂肪";
-                let keysSorted = Object.keys(emap).sort(function (a, b) { return ((emap[b].element== null)?0:((emap[b].element[sortelement]== null)?0:emap[b].element[sortelement].amount)) - ((emap[a].element==null)?0:((emap[a].element[sortelement]== null)?0:emap[a].element[sortelement].amount))});
+/* 
+  var sortelement = "碳水化合物";
+  let keysSorted = Object.keys(emap).sort(function (a, b) { return ((emap[b].element == null) ? 0 : ((emap[b].element[sortelement] == null) ? 0 : emap[b].element[sortelement].amount)) - ((emap[a].element == null) ? 0 : ((emap[a].element[sortelement] == null) ? 0 : emap[a].element[sortelement].amount)) });
 
-                for (var j = 0; j < keysSorted.length; j++) {
-                    //console.log("makeplan() > keysSorted[%d]: %s",j,keysSorted[j]);
-                    var food = emap[keysSorted[j]];
-                    console.log("%d:%s\t%d%s/%f%s",j,keysSorted[j],((emap[keysSorted[j]].element== null)?0:((emap[keysSorted[j]].element[sortelement]== null)?0:emap[keysSorted[j]].element[sortelement].amount)),((emap[keysSorted[j]].element==null)?"kcal":((emap[keysSorted[j]].element[sortelement]== null)?"kcal":emap[keysSorted[j]].element[sortelement].unit)),emap[keysSorted[j]].amount,emap[keysSorted[j]].unit);
-                }
-    */
+  for (var j = 0; j < keysSorted.length; j++) {
+    //console.log("makeplan() > keysSorted[%d]: %s",j,keysSorted[j]);
+    var food = emap[keysSorted[j]];
+    console.log("%d:%s\t%d%s/%f%s", j, keysSorted[j], ((emap[keysSorted[j]].element == null) ? 0 : ((emap[keysSorted[j]].element[sortelement] == null) ? 0 : emap[keysSorted[j]].element[sortelement].amount)), ((emap[keysSorted[j]].element == null) ? "kcal" : ((emap[keysSorted[j]].element[sortelement] == null) ? "kcal" : emap[keysSorted[j]].element[sortelement].unit)), emap[keysSorted[j]].amount, emap[keysSorted[j]].unit);
+  }
+ */
   /*
     // make the Nutritional composition table of mixtures
     var z = new Object();
@@ -845,15 +845,15 @@ function maketable() {
         } else {
           console.log(
             "maketalbe() > unit different between etable and DRIs: " +
-              name +
-              " [" +
-              DRIs.element[name].unit +
-              "] [" +
-              etable[name].unit +
-              "] " +
-              fRate[DRIs.element[name].unit] +
-              " " +
-              fRate[DRIs.element[name].unit][etable[name].unit],
+            name +
+            " [" +
+            DRIs.element[name].unit +
+            "] [" +
+            etable[name].unit +
+            "] " +
+            fRate[DRIs.element[name].unit] +
+            " " +
+            fRate[DRIs.element[name].unit][etable[name].unit],
           );
         }
 
@@ -922,12 +922,12 @@ function maketable() {
       }
       console.log(
         name +
-          nametab +
-          ftable[name].amount.toFixed(2) +
-          amounttab +
-          dayamount.toFixed(2) +
-          "\t" +
-          ftable[name].unit,
+        nametab +
+        ftable[name].amount.toFixed(2) +
+        amounttab +
+        dayamount.toFixed(2) +
+        "\t" +
+        ftable[name].unit,
       );
     }
   }
@@ -987,26 +987,26 @@ function showtables() {
       if (name.replace(/[^\x00-\xff]/g, "**").length < 8) {
         console.log(
           name +
-            "\t\t" +
-            etable[name].amount.toFixed(2) +
-            amounttab +
-            dayamount.toFixed(2) +
-            "\t" +
-            etable[name].unit +
-            "\t" +
-            daynrv.toFixed(2),
+          "\t\t" +
+          etable[name].amount.toFixed(2) +
+          amounttab +
+          dayamount.toFixed(2) +
+          "\t" +
+          etable[name].unit +
+          "\t" +
+          daynrv.toFixed(2),
         );
       } else {
         console.log(
           name +
-            "\t" +
-            etable[name].amount.toFixed(2) +
-            amounttab +
-            dayamount.toFixed(2) +
-            "\t" +
-            etable[name].unit +
-            "\t" +
-            daynrv.toFixed(2),
+          "\t" +
+          etable[name].amount.toFixed(2) +
+          amounttab +
+          dayamount.toFixed(2) +
+          "\t" +
+          etable[name].unit +
+          "\t" +
+          daynrv.toFixed(2),
         );
       }
     }
@@ -1038,12 +1038,12 @@ function showtables() {
       }
       console.log(
         name +
-          nametab +
-          ftable[name].amount.toFixed(2) +
-          amounttab +
-          dayamount.toFixed(2) +
-          "\t" +
-          ftable[name].unit,
+        nametab +
+        ftable[name].amount.toFixed(2) +
+        amounttab +
+        dayamount.toFixed(2) +
+        "\t" +
+        ftable[name].unit,
       );
     }
   }
@@ -1213,13 +1213,13 @@ function foodsum(foodname, foodamount, foodunit, etable, ftable) {
     } else {
       console.log(
         "unknow unit:\t" +
-          foodunit +
-          "\t" +
-          fooddata.unit +
-          "\tfoodname:" +
-          foodname +
-          "\tfoodamount:" +
-          foodamount,
+        foodunit +
+        "\t" +
+        fooddata.unit +
+        "\tfoodname:" +
+        foodname +
+        "\tfoodamount:" +
+        foodamount,
       );
       return false;
     }
@@ -1376,27 +1376,27 @@ function makeRfile() {
       if (sleeplongtime > 1100) {
         console.log(
           "debug: sleeplongtime>1100\t" +
-            sleeplongtime +
-            "\tday:\t" +
-            day +
-            "\tsleeptime:" +
-            sleeptime +
-            "\twaketime:" +
-            waketime,
+          sleeplongtime +
+          "\tday:\t" +
+          day +
+          "\tsleeptime:" +
+          sleeptime +
+          "\twaketime:" +
+          waketime,
         );
       }
       if (sleeplongtime < 0) {
         console.log(
           "debug: sleeplongtime<0\t" +
-            sleeplongtime +
-            "\tday:\t" +
-            day +
-            "\tsleepday:\t" +
-            sleepday +
-            "\tsleeptime:" +
-            sleeptime +
-            "\twaketime:" +
-            waketime,
+          sleeplongtime +
+          "\tday:\t" +
+          day +
+          "\tsleepday:\t" +
+          sleepday +
+          "\tsleeptime:" +
+          sleeptime +
+          "\twaketime:" +
+          waketime,
         );
       }
 
