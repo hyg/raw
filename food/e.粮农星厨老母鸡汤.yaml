@@ -1,0 +1,24 @@
+name: 粮农星厨老母鸡汤
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 68
+    unit: kj
+    nrv: 1
+  蛋白质:
+    amount: 1.6
+    unit: g
+    nrv: 3
+  脂肪:
+    amount: 0.6
+    unit: g
+    nrv: 1
+  碳水化合物:
+    amount: 1.1
+    unit: g
+    nrv: 0
+  钠:
+    amount: 248
+    unit: mg
+    nrv: 12

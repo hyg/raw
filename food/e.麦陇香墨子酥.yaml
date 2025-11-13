@@ -1,0 +1,24 @@
+name: 麦陇香墨子酥
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2151
+    unit: kj
+    nrv: 26
+  蛋白质:
+    amount: 15.1
+    unit: g
+    nrv: 25
+  脂肪:
+    amount: 27.9
+    unit: g
+    nrv: 47
+  碳水化合物:
+    amount: 50.7
+    unit: g
+    nrv: 17
+  钠:
+    amount: 52
+    unit: mg
+    nrv: 3
