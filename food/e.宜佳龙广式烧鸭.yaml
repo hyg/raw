@@ -1,0 +1,24 @@
+name: 宜佳龙广式烧鸭
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1095
+    unit: kj
+    nrv: 13
+  蛋白质:
+    amount: 19.4
+    unit: g
+    nrv: 32
+  脂肪:
+    amount: 18.6
+    unit: g
+    nrv: 31
+  碳水化合物:
+    amount: 4.5
+    unit: g
+    nrv: 2
+  钠:
+    amount: 463
+    unit: mg
+    nrv: 23
