@@ -1,0 +1,170 @@
+date: 20251115
+food:
+  - time: 20251115134600
+    name: 苹果
+    amount: 161.0
+    unit: g
+  - time: 20251115135200
+    name: 馒头2511a
+    amount: 1
+    unit: 个
+  - time: 20251115135200
+    name: 益佳龙广式烧鸭
+    amount: 227.0
+    unit: g
+  - time: 20251115135200
+    name: 南瓜
+    amount: 65.6
+    unit: g
+  - time: 20251115135200
+    name: 西兰苔
+    amount: 156.0
+    unit: g
+  - time: 20251115135200
+    name: 海利酸梅酱
+    amount: 14.0
+    unit: g
+  - time: 20251115142300
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20251115142300
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20251115142300
+    name: 浙梅免洗桑葚
+    amount: 10.0
+    unit: g
+  - time: 20251115143200
+    name: 奶粉
+    amount: 30.0
+    unit: g
+  - time: 20251115143200
+    name: 景兰冻干黑咖啡
+    amount: 1.5
+    unit: g
+  - time: 20251115211900
+    name: 番茄酱
+    amount: 26.0
+    unit: g
+  - time: 20251115211900
+    name: 东棘沙棘原浆
+    amount: 30.0
+    unit: g
+  - time: 20251115211900
+    name: 百香果
+    amount: 45.5
+    unit: g
+  - time: 20251115211900
+    name: 菊粉
+    amount: 8.0
+    unit: g
+  - time: 20251115211900
+    name: 臻妍益生菌冻干粉2509
+    amount: 3.0
+    unit: g
+  - time: 20251115212100
+    name: 梨
+    amount: 73.0
+    unit: g
+  - time: 20251115212500
+    name: 红薯
+    amount: 351.0
+    unit: g
+  - time: 20251115212500
+    name: 杏鲍菇
+    amount: 114.0
+    unit: g
+  - time: 20251115212500
+    name: 益佳龙广式烧鸭
+    amount: 139.5
+    unit: g
+    log:
+      - 上下火+140°C+10分钟
+      - 下火+180°C+10分钟
+      - 上下火+180°C+5分钟
+  - time: 20251115212500
+    name: 黄心菜
+    amount: 247.5
+    unit: g
+  - time: 20251115212500
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20251115212500
+    name: 欧丽薇兰橄榄油
+    amount: 0.5
+    unit: g
+  - time: 20251115220600
+    name: 伊利脱脂奶粉
+    amount: 31.0
+    unit: g
+  - time: 20251115220600
+    name: 兴科可可粉
+    amount: 4.5
+    unit: g
+water:
+  - time: 20251115121600
+    name: 开水
+    amount: 150
+    unit: ml
+  - time: 20251115132800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251115143200
+    name: 咖啡
+    amount: 120.0
+    unit: ml
+  - time: 20251115152000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251115155500
+    name: 红茶
+    amount: 250
+    unit: ml
+  - time: 20251115163600
+    name: 红茶
+    amount: 250
+    unit: ml
+  - time: 20251115165200
+    name: 红茶
+    amount: 250
+    unit: ml
+  - time: 20251115175400
+    name: 红茶
+    amount: 250
+    unit: ml
+  - time: 20251115190200
+    name: 红茶
+    amount: 250
+    unit: ml
+  - time: 20251115220600
+    name: 可可奶
+    amount: 121.0
+    unit: ml
+  - time: 20251115221400
+    name: 红茶
+    amount: 250
+    unit: ml
+med:
+  - time: 20251115143200
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20251115152000
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20251115152000
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20251115152000
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
