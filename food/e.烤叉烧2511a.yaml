@@ -1,0 +1,16 @@
+name: 烤叉烧2511a
+amount: 167.0
+unit: g
+food:
+  - name: 松板肉
+    amount: 210.5
+    unit: g
+  - name: 东古叉烧酱
+    amount: 27.0
+    unit: g
+log:
+  - 边角往下往内卷，锡纸内包护住；
+  - 烤箱中层、不预热、210°C+12分钟、180°C+8分钟；
+  - 翻面再烤170°C+15分钟。
+comment:
+  合适，剪成四块用。
