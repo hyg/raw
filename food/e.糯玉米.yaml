@@ -1,0 +1,44 @@
+name: 糯玉米
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 165
+    unit: kcal
+    nrv: 9
+  碳水化合物:
+    amount: 34.39
+    unit: g
+    nrv: 11
+  蛋白质:
+    amount: 4.39
+    unit: g
+    nrv: 7
+  脂肪:
+    amount: 2.12
+    unit: g
+    nrv: 3
+  饱和脂肪:
+    amount: 0.302
+    unit: g
+    nrv: 2
+  多不饱和脂肪:
+    amount: 0.971
+    unit: g
+    nrv: 3
+  单不饱和脂肪:
+    amount: 0.567
+    unit: g
+    nrv: 3
+  膳食纤维:
+    amount: 3.5
+    unit: g
+    nrv: 12
+  钠:
+    amount: 18
+    unit: mg
+    nrv: 1
+  钾:
+    amount: 170
+    unit: mg
+    nrv: 9

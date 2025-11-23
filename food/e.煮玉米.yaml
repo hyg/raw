@@ -1,0 +1,44 @@
+name: 煮玉米
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 108
+    unit: kcal
+    nrv: 6
+  碳水化合物:
+    amount: 25.11
+    unit: g
+    nrv: 8
+  蛋白质:
+    amount: 3.32
+    unit: g
+    nrv: 5
+  脂肪:
+    amount: 1.28
+    unit: g
+    nrv: 2
+  饱和脂肪:
+    amount: 0.197
+    unit: g
+    nrv: 1
+  多不饱和脂肪:
+    amount: 0.603
+    unit: g
+    nrv: 2
+  单不饱和脂肪:
+    amount: 0.374
+    unit: g
+    nrv: 2
+  膳食纤维:
+    amount: 2.8
+    unit: g
+    nrv: 9
+  钠:
+    amount: 17
+    unit: mg
+    nrv: 1
+  钾:
+    amount: 249
+    unit: mg
+    nrv: 12
