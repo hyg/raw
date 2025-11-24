@@ -1,0 +1,28 @@
+name: 简醇0蔗糖酸奶
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 290
+    unit: kj
+    nrv: 3
+  蛋白质:
+    amount: 3.0
+    unit: g
+    nrv: 5
+  脂肪:
+    amount: 3.6
+    unit: g
+    nrv: 6
+  碳水化合物:
+    amount: 6.2
+    unit: g
+    nrv: 2
+  钠:
+    amount: 60
+    unit: mg
+    nrv: 3
+  钙:
+    amount: 100
+    unit: mg
+    nrv: 13
