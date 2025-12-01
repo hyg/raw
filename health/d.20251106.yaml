@@ -9,6 +9,7 @@ wake:
   PRbpm: 63
   log: |
     补水0次，睡觉中间起来小便0次。
+exercise: 
 - time: 20251106073000
   item:
   - type: walk
