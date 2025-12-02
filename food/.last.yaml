@@ -2,7 +2,7 @@ date: 20251203
 food:
   - time: 20251203112300
     name: 苹果
-    amount: 220
+    amount: 120
     unit: g
 
   - time: 20251203112800
