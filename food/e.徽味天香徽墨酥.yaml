@@ -1,0 +1,24 @@
+name: 徽味天香徽墨酥
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1976
+    unit: kj
+    nrv: 24
+  蛋白质:
+    amount: 16.8
+    unit: g
+    nrv: 28
+  脂肪:
+    amount: 23.8
+    unit: g
+    nrv: 40
+  碳水化合物:
+    amount: 47.7
+    unit: g
+    nrv: 16
+  钠:
+    amount: 71
+    unit: mg
+    nrv: 4

@@ -1,0 +1,24 @@
+name: 千海蓝有机干海带
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 956
+    unit: kj
+    nrv: 11
+  蛋白质:
+    amount: 13.9
+    unit: g
+    nrv: 23
+  脂肪:
+    amount: 1.3
+    unit: g
+    nrv: 2
+  碳水化合物:
+    amount: 39.5
+    unit: g
+    nrv: 13
+  钠:
+    amount: 2462
+    unit: mg
+    nrv: 123
