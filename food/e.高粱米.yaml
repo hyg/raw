@@ -1,0 +1,76 @@
+name: 高粱米
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 360
+    unit: kcal
+    nrv: 17.56
+  蛋白质:
+    amount: 10.4
+    unit: g
+    nrv: 11.6
+  脂肪:
+    amount: 3.1
+    unit: g
+    nrv: 5.44
+  碳水化合物:
+    amount: 74.7
+    unit: g
+    nrv: 25.35
+  VE(生育酚):
+    amount: 1.88
+    unit: mg
+    nrv: 13.43
+  VB1(硫胺素):
+    amount: 0.29
+    unit: mg
+    nrv: 20.71
+  VB2(核黄素):
+    amount: 0.1
+    unit: mg
+    nrv: 7.14
+  VB3(烟酸):
+    amount: 1.6
+    unit: mg
+    nrv: 10.67
+  磷:
+    amount: 329
+    unit: mg
+    nrv: 46.34
+  钙:
+    amount: 22
+    unit: mg
+    nrv: 2.75
+  铁:
+    amount: 6.3
+    unit: mg
+    nrv: 52.5
+  钠:
+    amount: 6
+    unit: mg
+    nrv: 0.4
+  钾:
+    amount: 281
+    unit: mg
+    nrv: 14.05
+  镁:
+    amount: 129
+    unit: mg
+    nrv: 40.31
+  锌:
+    amount: 1.64
+    unit: mg
+    nrv: 13.67
+  硒:
+    amount: 2.8
+    unit: μg
+    nrv: 4.67
+  铜:
+    amount: 0.53
+    unit: mg
+    nrv: 66.25
+  锰:
+    amount: 1.22
+    unit: mg
+    nrv: 27.11
