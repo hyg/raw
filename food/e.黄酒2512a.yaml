@@ -1,0 +1,14 @@
+name: 黄酒2512a
+amount: 998.5
+unit: g
+food:
+  - name: 扬农沁香米
+    amount: 501.5
+    unit: g
+  - name: 力克甜黄酒曲
+    amount: 21.0
+    unit: g
+log:
+  - 大米用热水洗净，倒出洗米水后再加纯净水到1500.0g
+  - 加酒曲搅拌均匀，水封。
+comment:
