@@ -1,16 +1,16 @@
-date: 20251209
+date: 20251210
 sleep: 
-  time: 20251208232800
-  weight: 54.9
+  time: 20251208222000
+  weight: 55.7
 wake:
-  time: 20251209092500
-  weight: 53.5
+  time: 20251210040900
+  weight: 54.6
   SpO2: 96
-  PRbpm: 61
+  PRbpm: 68
   log: |
     补水0次，睡觉中间起来小便1次。
 exercise: 
-- time: 20251209100900
+- time: 20251210045400
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -29,26 +29,8 @@ exercise:
     unit: set
   SpO2: 97
   PRbpm: 86
-  endheartrate: 93
+  endheartrate: 92
   log: |
     室内运动后把脉: 寸脉关脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
-- time: 20251209151600
-  item:
-  - type: walk
-    amount: 11
-    unit: minute
-  SpO2: 98
-  PRbpm: 117
-stool:
-- time: 20251209135500
-  amount:   2   #	1:多; 2:适中;	3:少
-  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
-  diffcult: 1   #	1:不困难;	2:困难
-- time: 20251209215000
-  amount:   1   #	1:多; 2:适中;	3:少
-  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
-  diffcult: 1   #	1:不困难;	2:困难
 log:
-  - 右脚后蹬时足弓中间疼。
-  - 散步吸入冷空气，天黑后气管略有点发痒。晚餐加维生素C和银黄颗粒。
 comment:

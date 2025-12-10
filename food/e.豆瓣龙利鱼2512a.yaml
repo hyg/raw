@@ -1,0 +1,21 @@
+name: 豆瓣龙利鱼2512a
+amount: 179.5
+unit: g
+food:
+  - name: 龙利鱼肉
+    amount: 189.0
+    unit: g
+  - name: 楚郡味豆瓣酱
+    amount: 26.5
+    unit: g
+  - name: 姜
+    amount: 22.0
+    unit: g
+  - name: 欧丽薇兰橄榄油
+    amount: 16.0
+    unit: g
+log:
+  - 鱼肉洗净去冰，沥干加其它配料，高压锅30分钟。
+comment:
+  - 偏咸。骨刺勉强都能嚼碎。下次试试40分钟。
+  - 下次试试先用油浸着烤，然后再煮。最好是大点的鱼块表面烤干之后再煮。
