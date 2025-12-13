@@ -1,0 +1,36 @@
+name: 红菜苔
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 25
+    unit: kcal
+    nrv: 1.4
+  碳水化合物:
+    amount: 4
+    unit: g
+    nrv: 1.3
+  蛋白质:
+    amount: 2
+    unit: g
+    nrv: 3.1
+  脂肪:
+    amount: 0.35
+    unit: g
+    nrv: 0.6
+  VC(抗坏血酸):
+    amount: 60
+    unit: mg
+    nrv: 60
+  钙:
+    amount: 65
+    unit: mg
+    nrv: 8.1
+  钾:
+    amount: 250
+    unit: mg
+    nrv: 12.5
+  铁:
+    amount: 1.5
+    unit: mg
+    nrv: 12.5

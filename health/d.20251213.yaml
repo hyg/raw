@@ -1,16 +1,16 @@
-date: 20251211
+date: 20251213
 sleep: 
-  time: 20251208152800
-  weight: 55.3
+  time: 20251208152000
+  weight: 54.9
 wake:
-  time: 20251211013300
-  weight: 54.1
-  SpO2: 95
-  PRbpm: 65
+  time: 20251213022600
+  weight: 53.3
+  SpO2: 94
+  PRbpm: 62
   log: |
-    补水0次，睡觉中间起来小便0次。
+    补水0次，睡觉中间起来小便3次。
 exercise: 
-- time: 20251211020900
+- time: 20251213025000
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -28,10 +28,9 @@ exercise:
     amount: 5
     unit: set
   SpO2: 98
-  PRbpm: 88
+  PRbpm: 96
   endheartrate: 95
   log: |
     室内运动后把脉: 寸脉关脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
 log:
-  - 向左转、且右脚在后蹬地时，右脚弓中部发痛。
 comment:

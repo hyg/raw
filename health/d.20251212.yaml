@@ -1,16 +1,16 @@
-date: 20251211
+date: 20251212
 sleep: 
-  time: 20251208152800
-  weight: 55.3
+  time: 20251208143300
+  weight: 55.1
 wake:
-  time: 20251211013300
-  weight: 54.1
-  SpO2: 95
-  PRbpm: 65
+  time: 20251212024900
+  weight: 53.7
+  SpO2: 94
+  PRbpm: 61
   log: |
-    补水0次，睡觉中间起来小便0次。
+    补水0次，睡觉中间起来小便2次。
 exercise: 
-- time: 20251211020900
+- time: 20251212034000
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -28,10 +28,16 @@ exercise:
     amount: 5
     unit: set
   SpO2: 98
-  PRbpm: 88
+  PRbpm: 95
   endheartrate: 95
   log: |
     室内运动后把脉: 寸脉关脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
+stool:
+- time: 20251212133000
+  amount:   2   #	1:多; 2:适中;	3:少
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  diffcult: 1   #	1:不困难;	2:困难
 log:
-  - 向左转、且右脚在后蹬地时，右脚弓中部发痛。
+  - 中心在右脚时，急停也会引起右脚弓中间发痛。
+  - 室外下雪，今天在左云门增加取暖贴。
 comment:
