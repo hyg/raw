@@ -1,0 +1,81 @@
+name: 猪扇骨
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 157
+    unit: kcal
+    nrv: 7.66
+  蛋白质:
+    amount: 20.5
+    unit: g
+    nrv: 22.86
+  脂肪:
+    amount: 7.9
+    unit: g
+    nrv: 13.87
+  碳水化合物:
+    amount: 0.8
+    unit: g
+    nrv: 0.27
+  VA(视黄醇等):
+    amount: 4
+    unit: μg
+    nrv: 0.52
+  VE(生育酚):
+    amount: 0.19
+    unit: mg
+    nrv: 1.36
+  VB1(硫胺素):
+    amount: 0.6
+    unit: mg
+    nrv: 42.86
+  VB2(核黄素):
+    amount: 0.23
+    unit: mg
+    nrv: 16.43
+  VB3(烟酸):
+    amount: 6.56
+    unit: mg
+    nrv: 43.73
+  VB6(吡哆素):
+    amount: 0.55
+    unit: mg
+    nrv: 39.29
+  VB12(钴胺素):
+    amount: 0.49
+    unit: μg
+    nrv: 20.42
+  VD3(胆钙化醇):
+    amount: 0.5
+    unit: μg
+    nrv: 5
+  磷:
+    amount: 233
+    unit: mg
+    nrv: 32.82
+  钙:
+    amount: 6
+    unit: mg
+    nrv: 0.75
+  铁:
+    amount: 0.7
+    unit: mg
+    nrv: 5.83
+  钠:
+    amount: 64
+    unit: mg
+    nrv: 4.27
+  钾:
+    amount: 372
+    unit: mg
+    nrv: 18.6
+  镁:
+    amount: 21
+    unit: mg
+    nrv: 6.56
+  锌:
+    amount: 1.74
+    unit: mg
+    nrv: 14.5
+comment: 猪里脊肩胛肉（肉块或烤肉块）（新鲜，去骨，半肥瘦，生）

@@ -1,0 +1,76 @@
+name: 豌豆尖
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 225
+    unit: kcal
+    nrv: 10.98
+  蛋白质:
+    amount: 3.1
+    unit: g
+    nrv: 3.46
+  碳水化合物:
+    amount: 53.9
+    unit: g
+    nrv: 18.29
+  VA(视黄醇等):
+    amount: 452
+    unit: μg
+    nrv: 58.7
+  VE(生育酚):
+    amount: 0.22
+    unit: mg
+    nrv: 1.57
+  VB1(硫胺素):
+    amount: 0.07
+    unit: mg
+    nrv: 5
+  VB2(核黄素):
+    amount: 0.23
+    unit: mg
+    nrv: 16.43
+  VC(抗坏血酸):
+    amount: 11
+    unit: mg
+    nrv: 11
+  磷:
+    amount: 65
+    unit: mg
+    nrv: 9.15
+  钙:
+    amount: 17
+    unit: mg
+    nrv: 2.13
+  铁:
+    amount: 5.1
+    unit: mg
+    nrv: 42.5
+  钠:
+    amount: 3
+    unit: mg
+    nrv: 0.2
+  钾:
+    amount: 160
+    unit: mg
+    nrv: 8
+  镁:
+    amount: 24
+    unit: mg
+    nrv: 7.5
+  锌:
+    amount: 0.93
+    unit: mg
+    nrv: 7.75
+  硒:
+    amount: 1.9
+    unit: μg
+    nrv: 3.17
+  铜:
+    amount: 0.06
+    unit: mg
+    nrv: 7.5
+  锰:
+    amount: 0.98
+    unit: mg
+    nrv: 21.78
