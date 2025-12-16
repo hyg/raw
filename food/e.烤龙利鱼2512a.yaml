@@ -1,0 +1,23 @@
+name: 烤龙利鱼2512a
+amount: 175.5
+unit: g
+food:
+  - name: 龙利鱼肉
+    amount: 379.0
+    unit: g
+  - name: 炸鸡裹粉
+    amount: 20.0
+    unit: g
+  - name: 姜
+    amount: 7.0
+    unit: g
+  - name: 欧丽薇兰橄榄油
+    amount: 7.5
+    unit: g
+log:
+  - 鱼肉洗净去冰，用牙刷清楚黑膜，沥干加其它配料；
+  - 烤箱，不预热，上下火，中层烤架，120°C+90分钟；
+  - 上下火，中层烤架，220°C+15分钟。
+comment:
+  - 这次没有翻面，下测没有烤干。
+  - 鱼刺没有烤酥，嚼不碎。需要挑出来。
