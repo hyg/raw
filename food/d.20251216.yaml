@@ -116,36 +116,6 @@ food:
     name: 景兰冻干黑咖啡
     amount: 1.0
     unit: g
-
-  - time: 20251216220000
-    name: 山药豆
-    amount: 50
-    unit: g
-  - time: 20251216220000
-    name: 鸡蛋
-    amount: 45
-    unit: g
-  - time: 20251216220000
-    name: 红菜苔
-    amount: 120
-    unit: g
-  - time: 20251216220000
-    name: 中盐绿色低钠湖盐
-    amount: 1.0
-    unit: g
-  - time: 20251216220000
-    name: 欧丽薇兰橄榄油
-    amount: 0.5
-    unit: g
-
-  - time: 20251216055000
-    name: 奶粉
-    amount: 20.0
-    unit: g
-  - time: 20251216055000
-    name: 品儿Piner天然可可粉
-    amount: 3.0
-    unit: g
 water:
   - time: 20251216020200
     name: 开水
@@ -175,22 +145,9 @@ water:
     name: 咖啡
     amount: 80.5
     unit: ml
-
-  - time: 20251216115000
+  - time: 20251216154700
     name: 开水
-    amount: 250
-    unit: ml
-  - time: 20251216161200
-    name: 开水
-    amount: 160
-    unit: ml
-  - time: 20251216055000
-    name: 可可奶
-    amount: 80.0
-    unit: ml
-  - time: 20251216202800
-    name: 开水
-    amount: 50
+    amount: 200
     unit: ml
 med:
   - time: 20251216050400

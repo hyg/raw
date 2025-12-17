@@ -1,0 +1,161 @@
+name: 豌豆苗
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 38
+    unit: kcal
+    nrv: 2
+  碳水化合物:
+    amount: 4.6
+    unit: g
+    nrv: 2
+  蛋白质:
+    amount: 4
+    unit: g
+    nrv: 6
+  脂肪:
+    amount: 0.8
+    unit: g
+    nrv: 1
+  膳食纤维:
+    amount: 1.9
+    unit: g
+    nrv: 6
+  胡萝卜素:
+    amount: 2667
+    unit: μg
+    nrv: 0
+  钙:
+    amount: 40
+    unit: mg
+    nrv: 5
+  镁:
+    amount: 21
+    unit: mg
+    nrv: 7
+  钠:
+    amount: 18.5
+    unit: mg
+    nrv: 1
+  钾:
+    amount: 222
+    unit: mg
+    nrv: 11
+  磷:
+    amount: 67
+    unit: mg
+    nrv: 10
+  硫:
+    amount: 24.02
+    unit: mg
+    nrv: 2
+  氯:
+    amount: 28.53
+    unit: mg
+    nrv: 1
+  铁:
+    amount: 4.2
+    unit: mg
+    nrv: 35
+  碘:
+    amount: 0.1
+    unit: μg
+    nrv: 0
+  锌:
+    amount: 0.77
+    unit: mg
+    nrv: 6
+  硒:
+    amount: 1.09
+    unit: μg
+    nrv: 2
+  铜:
+    amount: 0.2
+    unit: mg
+    nrv: 25
+  锰:
+    amount: 0.76
+    unit: mg
+    nrv: 17
+  VA(视黄醇等):
+    amount: 222.25
+    unit: μg
+    nrv: 29
+  VC(抗坏血酸):
+    amount: 67
+    unit: mg
+    nrv: 67
+  VB1(硫胺素):
+    amount: 0.05
+    unit: mg
+    nrv: 4
+  VB2(核黄素):
+    amount: 0.11
+    unit: mg
+    nrv: 8
+  VB3(烟酸):
+    amount: 1.1
+    unit: mg
+    nrv: 7
+  VB5(泛酸):
+    amount: 1.029
+    unit: mg
+    nrv: 21
+  VB6(吡哆素):
+    amount: 0.05
+    unit: mg
+    nrv: 4
+  生物素:
+    amount: 8.7
+    unit: μg
+    nrv: 22
+  VB9(叶酸):
+    amount: 99.5
+    unit: μg
+    nrv: 25
+comment:
+  单不饱和脂肪酸:
+    amount: 0.061
+    unit: g
+    nrv: 0
+  多不饱和脂肪酸:
+    amount: 0.326
+    unit: g
+    nrv: 0
+  亮氨酸:
+    amount: 328
+    unit: mg
+    nrv: 0
+  蛋氨酸:
+    amount: 53
+    unit: mg
+    nrv: 0
+  苏氨酸:
+    amount: 206
+    unit: mg
+    nrv: 0
+  赖氨酸:
+    amount: 276
+    unit: mg
+    nrv: 0
+  色氨酸:
+    amount: 52
+    unit: mg
+    nrv: 0
+  缬氨酸:
+    amount: 239
+    unit: mg
+    nrv: 0
+  组氨酸:
+    amount: 111
+    unit: mg
+    nrv: 0
+  异亮氨酸:
+    amount: 200
+    unit: mg
+    nrv: 0
+  苯丙氨酸:
+    amount: 152
+    unit: mg
+    nrv: 0
