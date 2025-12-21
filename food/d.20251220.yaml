@@ -1,0 +1,181 @@
+date: 20251220
+food:
+  - time: 20251220040400
+    name: 柿子
+    amount: 88.0
+    unit: g
+  - time: 20251220040600
+    name: 塞北雪龙须挂面
+    amount: 100.0
+    unit: g
+  - time: 20251220040600
+    name: 豌豆苗
+    amount: 23.5
+    unit: g
+  - time: 20251220040600
+    name: 炖羊腿2512a
+    amount: 104.5
+    unit: g
+  - time: 20251220040600
+    name: 中盐绿色低钠湖盐
+    amount: 2.0
+    unit: g
+  - time: 20251220042500
+    name: 盼月枣肉核桃老月饼
+    amount: 43.0
+    unit: g
+  - time: 20251220042500
+    name: 蛋挞2512a
+    amount: 2
+    unit: 个
+  - time: 20251220042500
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20251220042500
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20251220042500
+    name: 浙梅免洗桑葚
+    amount: 10.0
+    unit: g
+  - time: 20251220044000
+    name: 熊猫咖啡奶油
+    amount: 9.0
+    unit: g
+  - time: 20251220044000
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20251220044000
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+  - time: 20251220102500
+    name: 番茄酱
+    amount: 28.0
+    unit: g
+  - time: 20251220102500
+    name: 东棘沙棘原浆
+    amount: 21.0
+    unit: g
+  - time: 20251220102500
+    name: 百香果
+    amount: 67.0
+    unit: g
+  - time: 20251220102500
+    name: 菊粉
+    amount: 10.0
+    unit: g
+  - time: 20251220102700
+    name: 柿子
+    amount: 99.5
+    unit: g
+  - time: 20251220103000
+    name: 大米
+    amount: 50.0
+    unit: g
+  - time: 20251220103000
+    name: 高粱米
+    amount: 10.0
+    unit: g
+  - time: 20251220103000
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20251220103000
+    name: 麦片
+    amount: 5.0
+    unit: g
+  - time: 20251220103000
+    name: 木耳
+    amount: 10.0
+    unit: g
+  - time: 20251220103000
+    name: 亚太中慧鸡肌堡
+    amount: 68.0
+    unit: g
+    log:
+      - 不预热、中层、上下火、180°C+15分钟。
+      - 翻面、中层、上下火、210°C+5分钟。
+  - time: 20251220103000
+    name: 双合黄皮酱
+    amount: 11.0
+    unit: g
+  - time: 20251220103000
+    name: 豌豆苗
+    amount: 112.5
+    unit: g
+  - time: 20251220103000
+    name: 西兰苔
+    amount: 109.0
+    unit: g
+  - time: 20251220103000
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20251220103000
+    name: 欧丽薇兰橄榄油
+    amount: 0.5
+    unit: g
+water:
+  - time: 20251220024000
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20251220040600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251220040600
+    name: 汤水
+    amount: 500
+    unit: ml
+  - time: 20251220044000
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20251220053300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251220065900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251220082100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251220095000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251220112400
+    name: 咖啡
+    amount: 82.0
+    unit: ml
+  - time: 20251220114700
+    name: 开水
+    amount: 100
+    unit: ml
+med:
+  - time: 20251220044000
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20251220053300
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20251220053300
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20251220053300
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |

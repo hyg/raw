@@ -1,0 +1,27 @@
+name: 亚太中慧鸡肌堡
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1022
+    unit: kj
+    nrv: 12
+  蛋白质:
+    amount: 12.6
+    unit: g
+    nrv: 21
+  脂肪:
+    amount: 12.0
+    unit: g
+    nrv: 20
+  碳水化合物:
+    amount: 21.5
+    unit: g
+    nrv: 7
+  钠:
+    amount: 387
+    unit: mg
+    nrv: 19
+log:
+  - 不预热、中层、上下火、180°C+15分钟。
+  - 翻面、中层、上下火、200°C+5分钟。

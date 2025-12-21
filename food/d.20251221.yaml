@@ -1,0 +1,173 @@
+date: 20251221
+food:
+  - time: 20251221044400
+    name: 柿子
+    amount: 101.0
+    unit: g
+  - time: 20251221044800
+    name: 馒头2512b
+    amount: 1
+    unit: 个
+  - time: 20251221044800
+    name: 南瓜
+    amount: 103.0
+    unit: g
+  - time: 20251221044800
+    name: 西兰苔
+    amount: 159.0
+    unit: g
+  - time: 20251221044800
+    name: 炖羊腿2512a
+    amount: 199.5
+    unit: g
+  - time: 20251221044800
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20251221050900
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20251221050900
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20251221050900
+    name: 浙梅免洗桑葚
+    amount: 10.0
+    unit: g
+  - time: 20251221051600
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20251221051600
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+  - time: 20251221103600
+    name: 番茄酱
+    amount: 33.5
+    unit: g
+  - time: 20251221103600
+    name: 疆二姐有机沙棘原浆
+    amount: 30.0
+    unit: g
+  - time: 20251221103600
+    name: 百香果
+    amount: 65.5
+    unit: g
+  - time: 20251221103600
+    name: 菊粉
+    amount: 5.0
+    unit: g
+  - time: 20251221103600
+    name: 臻妍益生菌冻干粉2509
+    amount: 3.0
+    unit: g
+  - time: 20251221103800
+    name: 柿子
+    amount: 86.5
+    unit: g
+  - time: 20251221104200
+    name: 大米
+    amount: 50.0
+    unit: g
+  - time: 20251221104200
+    name: 高粱米
+    amount: 10.0
+    unit: g
+  - time: 20251221104200
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20251221104200
+    name: 汾都香红豆
+    amount: 10.0
+    unit: g
+  - time: 20251221104200
+    name: 木耳
+    amount: 10.0
+    unit: g
+  - time: 20251221104200
+    name: 亚太中慧鸡肌堡
+    amount: 69.0
+    unit: g
+    log:
+      - 不预热、中层、上下火、180°C+15分钟。
+      - 翻面、中层、上下火、180°C+5分钟。
+  - time: 20251221104200
+    name: 双合黄皮酱
+    amount: 8.0
+    unit: g
+  - time: 20251221104200
+    name: 黄心菜
+    amount: 243.5
+    unit: g
+  - time: 20251221104200
+    name: 中盐绿色低钠湖盐
+    amount: 1.5
+    unit: g
+  - time: 20251221104200
+    name: 欧丽薇兰橄榄油
+    amount: 1.0
+    unit: g
+  - time: 20251221113400
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20251221113400
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+  - time: 20251221113400
+    name: 菊粉
+    amount: 5.0
+    unit: g
+water:
+  - time: 20251221031400
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20251221042600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251221051600
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20251221060200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251221071300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251221090600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251221113400
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20251221131900
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20251221051600
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20251221060200
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20251221060200
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |

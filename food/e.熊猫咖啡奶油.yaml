@@ -1,0 +1,24 @@
+name: 熊猫咖啡奶油
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 658
+    unit: kj
+    nrv: 8
+  蛋白质:
+    amount: 3.1
+    unit: g
+    nrv: 5
+  脂肪:
+    amount: 14.9
+    unit: g
+    nrv: 25
+  碳水化合物:
+    amount: 3.2
+    unit: g
+    nrv: 1
+  钠:
+    amount: 127
+    unit: mg
+    nrv: 16

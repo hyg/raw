@@ -1,0 +1,24 @@
+name: 真霜柿饼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1088
+    unit: kj
+    nrv: 13
+  蛋白质:
+    amount: 1.8
+    unit: g
+    nrv: 3
+  脂肪:
+    amount: 0
+    unit: g
+    nrv: 0
+  碳水化合物:
+    amount: 62.2
+    unit: g
+    nrv: 21
+  钠:
+    amount: 6
+    unit: mg
+    nrv: 0

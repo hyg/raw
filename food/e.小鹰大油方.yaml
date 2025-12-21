@@ -1,0 +1,29 @@
+name: 小鹰大油方
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1572
+    unit: kj
+    nrv: 19
+  蛋白质:
+    amount: 20.2
+    unit: g
+    nrv: 34
+  脂肪:
+    amount: 32.1
+    unit: g
+    nrv: 54
+  碳水化合物:
+    amount: 2.4
+    unit: g
+    nrv: 1
+  钠:
+    amount: 7
+    unit: mg
+    nrv: 0
+comment:
+  饱和脂肪:
+    amount: 5.2
+    unit: g
+    nrv: 26

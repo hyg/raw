@@ -1,0 +1,70 @@
+name: 羊腿肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 217
+    unit: kcal
+    nrv: 10.59
+  蛋白质:
+    amount: 26.7
+    unit: g
+    nrv: 29.77
+  脂肪:
+    amount: 11.4
+    unit: g
+    nrv: 20.02
+  VB1(硫胺素):
+    amount: 0.1
+    unit: mg
+    nrv: 7.14
+  VB2(核黄素):
+    amount: 0.27
+    unit: mg
+    nrv: 19.29
+  VB3(烟酸):
+    amount: 6.52
+    unit: mg
+    nrv: 43.47
+  VB6(吡哆素):
+    amount: 0.16
+    unit: mg
+    nrv: 11.43
+  VB9(叶酸):
+    amount: 23
+    unit: μg
+    nrv: 5.75
+  VB12(钴胺素):
+    amount: 2.68
+    unit: μg
+    nrv: 111.67
+  磷:
+    amount: 200
+    unit: mg
+    nrv: 28.17
+  钙:
+    amount: 9
+    unit: mg
+    nrv: 1.13
+  铁:
+    amount: 2
+    unit: mg
+    nrv: 16.67
+  钠:
+    amount: 65
+    unit: mg
+    nrv: 4.33
+  钾:
+    amount: 329
+    unit: mg
+    nrv: 16.45
+  镁:
+    amount: 25
+    unit: mg
+    nrv: 7.81
+  锌:
+    amount: 4.72
+    unit: mg
+    nrv: 39.33
+comment:
+  - https://www.eshian.com/sat/yyss/detail/LXMjAyNS0xMi0xOQ==/4146

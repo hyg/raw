@@ -1,0 +1,66 @@
+name: 羊前腿肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 215
+    unit: kcal
+    nrv: 10.49
+  蛋白质:
+    amount: 18.2
+    unit: g
+    nrv: 20.29
+  脂肪:
+    amount: 15.2
+    unit: g
+    nrv: 26.69
+  VB1(硫胺素):
+    amount: 0.14
+    unit: mg
+    nrv: 10
+  VB2(核黄素):
+    amount: 0.29
+    unit: mg
+    nrv: 20.71
+  VB3(烟酸):
+    amount: 4.96
+    unit: mg
+    nrv: 33.07
+  VB6(吡哆素):
+    amount: 0.36
+    unit: mg
+    nrv: 25.71
+  VB12(钴胺素):
+    amount: 2.7
+    unit: μg
+    nrv: 112.5
+  磷:
+    amount: 173
+    unit: mg
+    nrv: 24.37
+  钙:
+    amount: 10
+    unit: mg
+    nrv: 1.25
+  铁:
+    amount: 1.5
+    unit: mg
+    nrv: 12.5
+  钠:
+    amount: 73
+    unit: mg
+    nrv: 4.87
+  钾:
+    amount: 295
+    unit: mg
+    nrv: 14.75
+  镁:
+    amount: 20
+    unit: mg
+    nrv: 6.25
+  锌:
+    amount: 3.75
+    unit: mg
+    nrv: 31.25
+commanet:
+  - https://www.eshian.com/sat/yyss/detail/LXMjAyNS0xMi0xOQ==/4294
