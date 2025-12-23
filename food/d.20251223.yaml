@@ -1,0 +1,197 @@
+date: 20251223
+food:
+  - time: 20251223022800
+    name: 柿子
+    amount: 101.5
+    unit: g
+  - time: 20251223023000
+    name: 螺蛳粉米粉
+    amount: 125.5
+    unit: g
+  - time: 20251223023000
+    name: 螺蛳粉配料
+    amount: 149.5
+    unit: g
+    comment: 
+      - 实际是白象柳州螺蛳粉，包装上把米粉和配料混合一份营养成分表。
+      - 汤料55.0克
+      - 什锦蔬菜40.0克
+      - 酸笋35.0
+      - 花生10.0
+      - 炸腐竹9.5克
+  - time: 20251223023000
+    name: 豌豆苗
+    amount: 44.0
+    unit: g
+  - time: 20251223023000
+    name: 炖猪扇骨2512a
+    amount: 147.0
+    unit: g
+  - time: 20251223030000
+    name: 徽韵棠原味黄山烧饼
+    amount: 40.5
+    unit: g
+  - time: 20251223030000
+    name: 盼月枣肉核桃老月饼
+    amount: 49.5
+    unit: g
+  - time: 20251223030000
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20251223030000
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20251223030000
+    name: 浙梅免洗桑葚
+    amount: 10.0
+    unit: g
+  - time: 20251223031600
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20251223031600
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+  - time: 20251223092700
+    name: 番茄酱
+    amount: 25.5
+    unit: g
+  - time: 20251223092700
+    name: 东棘沙棘原浆
+    amount: 31
+    unit: g
+  - time: 20251223092700
+    name: 百香果
+    amount: 61.5
+    unit: g
+  - time: 20251223092700
+    name: 菊粉
+    amount: 7.0
+    unit: g
+  - time: 20251223092700
+    name: 臻妍益生菌冻干粉2509
+    amount: 3.0
+    unit: g
+  - time: 20251223092900
+    name: 柿子
+    amount: 98.0
+    unit: g
+  - time: 20251223093200
+    name: 麦片
+    amount: 5.0
+    unit: g
+  - time: 20251223093200
+    name: 高粱米
+    amount: 10.0
+    unit: g
+  - time: 20251223093200
+    name: 绿豆
+    amount: 40.0
+    unit: g
+  - time: 20251223093200
+    name: 汾都香红豆
+    amount: 10.0
+    unit: g
+  - time: 20251223093200
+    name: 海带
+    amount: 5.0
+    unit: g
+  - time: 20251223093200
+    name: 豌豆苗
+    amount: 136.0
+    unit: g
+  - time: 20251223093200
+    name: 松花鸭皮蛋
+    amount: 40.0
+    unit: g
+  - time: 20251223093200
+    name: 鸡蛋
+    amount: 48.5
+    unit: g
+  - time: 20251223093200
+    name: 十三村原味腐乳
+    amount: 14.5
+    unit: g
+  - time: 20251223093200
+    name: 蜂蜜
+    amount: 34.5
+    unit: g
+  - time: 20251223095700
+    name: 蛋挞2512b
+    amount: 2
+    unit: 个
+  - time: 20251223102700
+    name: 雀巢鹰唛炼奶
+    amount: 10.0
+    unit: g
+  - time: 20251223102700
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20251223102700
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+water:
+  - time: 20251223010500
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20251223015700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251223023000
+    name: 汤水
+    amount: 500
+    unit: ml
+  - time: 20251223031600
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20251223034600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251223052400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251223063900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251223093200
+    name: 粥水
+    amount: 400
+    unit: ml
+  - time: 20251223102700
+    name: 咖啡
+    amount: 80.5
+    unit: ml
+  - time: 20251223124900
+    name: 开水
+    amount: 100
+    unit: ml
+med:
+  - time: 20251223031600
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20251223034600
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20251223034600
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20251223034600
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
