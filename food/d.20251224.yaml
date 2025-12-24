@@ -1,0 +1,165 @@
+date: 20251224
+food:
+  - time: 20251224015500
+    name: 柿子
+    amount: 103.5
+    unit: g
+  - time: 20251224015800
+    name: 馒头2512b
+    amount: 1
+    unit: 个
+  - time: 20251224015800
+    name: 南瓜
+    amount: 103.0
+    unit: g
+  - time: 20251224015800
+    name: 炖猪扇骨2512a
+    amount: 45.5
+    unit: g
+  - time: 20251224015800
+    name: 西兰苔
+    amount: 127.5
+    unit: g
+  - time: 20251224021000
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20251224021000
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20251224021000
+    name: 浙梅免洗桑葚
+    amount: 10.0
+    unit: g
+  - time: 20251224022200
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20251224022200
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+  - time: 20251224084800
+    name: 番茄酱
+    amount: 29.5
+    unit: g
+  - time: 20251224084800
+    name: 东棘沙棘原浆
+    amount: 30.0
+    unit: g
+  - time: 20251224084800
+    name: 百香果
+    amount: 63.5
+    unit: g
+  - time: 20251224084800
+    name: 菊粉
+    amount: 5.0
+    unit: g
+  - time: 20251224084800
+    name: 臻妍益生菌冻干粉2509
+    amount: 3.0
+    unit: g
+  - time: 20251224085100
+    name: 柿子
+    amount: 98.0
+    unit: g
+  - time: 20251224085400
+    name: 大米
+    amount: 40.0
+    unit: g
+  - time: 20251224085400
+    name: 高粱米
+    amount: 10.0
+    unit: g
+  - time: 20251224085400
+    name: 绿豆
+    amount: 10.0
+    unit: g
+  - time: 20251224085400
+    name: 汾都香红豆
+    amount: 10.0
+    unit: g
+  - time: 20251224085400
+    name: 黄心菜
+    amount: 213.5
+    unit: g
+  - time: 20251224085400
+    name: 亚太中慧鸡肌堡
+    amount: 77.0
+    unit: g
+    log:
+      - 不预热、中层、上下火、180°C+15分钟。
+      - 翻面、中层、上下火、180°C+5分钟。
+  - time: 20251224085400
+    name: 双合黄皮酱
+    amount: 10.0
+    unit: g
+  - time: 20251224085400
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20251224085400
+    name: 欧丽薇兰橄榄油
+    amount: 5.5
+    unit: g
+  - time: 20251224091900
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20251224091900
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+water:
+  - time: 20251224005500
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20251224014400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251224022200
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20251224031600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251224043700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251224050600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251224063600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20251224091900
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20251224114900
+    name: 开水
+    amount: 100
+    unit: ml
+med:
+  - time: 20251224022200
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20251224031600
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20251224031600
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |

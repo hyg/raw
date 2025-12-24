@@ -1,0 +1,24 @@
+name: 荣昌鹅大叔卤鹅
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 914
+    unit: kj
+    nrv: 11
+  蛋白质:
+    amount: 23.5
+    unit: g
+    nrv: 39
+  脂肪:
+    amount: 13.9
+    unit: g
+    nrv: 23
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  钠:
+    amount: 970
+    unit: mg
+    nrv: 49
