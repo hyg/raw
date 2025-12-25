@@ -1,16 +1,16 @@
-date: 20251226
+date: 20251225
 sleep: 
-  time: 20251225144300
+  time: 20251224144300
   weight: 55.1
 wake:
-  time: 20251226003400
+  time: 20251225003400
   weight: 54.2
   SpO2: 95
   PRbpm: 67
   log: |
     补水0次，睡觉中间起来小便1次。
 exercise: 
-- time: 20251226011100
+- time: 20251225011100
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -31,25 +31,13 @@ exercise:
   PRbpm: 85
   endheartrate: 92
   log: |
-    室内运动后把脉: 寸脉关脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
-- time: 20251226234000
-  item:
-  - type: walk
-    amount: 180
-    unit: minute
-  SpO2: 96
-  PRbpm: 115
-- time: 20251226230000
-  item:
-  - type: 臀腰激活L2
-    amount: 14
-    unit: minute
-  SpO2: 97
-  PRbpm: 87
+    室内运动后把脉: 寸脉关脉中偏浅、尺脉深度中；侧向居中；三处清晰有力
 stool:
-- time: 20251226044000
+- time: 20251225044000
   amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log:
+  - 昨天下午开始右后腰有些酸痛，睡醒时更明显。餐前运动基本不受影响。
+  - 早餐后换衣时，在右后腰加一个取暖贴。
 comment:

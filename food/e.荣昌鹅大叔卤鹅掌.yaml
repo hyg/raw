@@ -1,0 +1,24 @@
+name: 荣昌鹅大叔卤鹅掌
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 749
+    unit: kj
+    nrv: 9
+  蛋白质:
+    amount: 18.6
+    unit: g
+    nrv: 31
+  脂肪:
+    amount: 11.7
+    unit: g
+    nrv: 20
+  碳水化合物:
+    amount: 0
+    unit: g
+    nrv: 0
+  钠:
+    amount: 1047
+    unit: mg
+    nrv: 52

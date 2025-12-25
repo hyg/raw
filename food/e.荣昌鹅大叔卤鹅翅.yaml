@@ -1,0 +1,24 @@
+name: 荣昌鹅大叔卤鹅翅
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 3032
+    unit: kj
+    nrv: 36
+  蛋白质:
+    amount: 3.1
+    unit: g
+    nrv: 5
+  脂肪:
+    amount: 80.2
+    unit: g
+    nrv: 134
+  碳水化合物:
+    amount: 0.7
+    unit: g
+    nrv: 0
+  钠:
+    amount: 136
+    unit: mg
+    nrv: 7
