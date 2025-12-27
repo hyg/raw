@@ -15,7 +15,7 @@ food:
     unit: g
   - time: 20251228043400
     name: 豌豆苗
-    amount: 40
+    amount: 58.5
     unit: g
   - time: 20251228043400
     name: 中盐绿色低钠湖盐
@@ -75,6 +75,10 @@ food:
     amount: 1
     unit: 个
   - time: 20251228113900
+    name: 南瓜
+    amount: 120
+    unit: g
+  - time: 20251228113900
     name: 黄心菜
     amount: 200
     unit: g
@@ -130,14 +134,15 @@ f:
     amount: 3.0
     unit: g
 water:
-  - time: 20251228025500
+  - time: 20251228014800
     name: 开水
     amount: 200
     unit: ml
-  - time: 20251228034300
+  - time: 20251228023900
     name: 开水
     amount: 250
     unit: ml
+
   - time: 20251228034300
     name: 汤水
     amount: 500
