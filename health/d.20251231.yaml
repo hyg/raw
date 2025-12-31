@@ -1,16 +1,16 @@
-date: 20260101
+date: 20251231
 sleep: 
-  time: 20251231164900
+  time: 20251230164900
   weight: 55.7
 wake:
-  time: 20260101020700
+  time: 20251231020700
   weight: 54.5
   SpO2: 98
   PRbpm: 65
   log: |
     补水0次，睡觉中间起来小便1次。
 exercise: 
-- time: 20260101024000
+- time: 20251231024000
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -32,24 +32,6 @@ exercise:
   endheartrate: 102
   log: |
     室内运动后把脉: 关脉中偏浅、寸脉尺脉深度中；侧向居中；三处清晰有力。
-- time: 20260101234000
-  item:
-  - type: walk
-    amount: 180
-    unit: minute
-  SpO2: 96
-  PRbpm: 115
-- time: 20260101230000
-  item:
-  - type: 臀腰激活L2
-    amount: 14
-    unit: minute
-  SpO2: 97
-  PRbpm: 87
-stool:
-- time: 20260101042000
-  amount:   1   #	1:多; 2:适中;	3:少
-  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
-  diffcult: 1   #	1:不困难;	2:困难
 log:
+  - 早起洗脸时，左鼻孔擤出没有完全凝结的血块。但没有明显疼痛，只是呼吸略有堵塞。
 comment:
