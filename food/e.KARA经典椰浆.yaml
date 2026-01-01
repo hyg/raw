@@ -1,0 +1,24 @@
+name: KARA经典椰浆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 744
+    unit: kj
+    nrv: 9
+  蛋白质:
+    amount: 2.0
+    unit: g
+    nrv: 3
+  脂肪:
+    amount: 17.8
+    unit: g
+    nrv: 30
+  碳水化合物:
+    amount: 3.0
+    unit: g
+    nrv: 1
+  钠:
+    amount: 13
+    unit: mg
+    nrv: 1
