@@ -1,0 +1,24 @@
+name: 白鲨年糕专用粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1505
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 7.1
+    unit: g
+    nrv: 12
+  脂肪:
+    amount: 0
+    unit: g
+    nrv: 0
+  碳水化合物:
+    amount: 81.2
+    unit: g
+    nrv: 27
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0

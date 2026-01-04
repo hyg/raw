@@ -1,0 +1,24 @@
+name: 白鲨萝卜糕专用粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1534
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 2.2
+    unit: g
+    nrv: 4
+  脂肪:
+    amount: 0.7
+    unit: g
+    nrv: 1
+  碳水化合物:
+    amount: 86.5
+    unit: g
+    nrv: 29
+  钠:
+    amount: 14
+    unit: mg
+    nrv: 1
