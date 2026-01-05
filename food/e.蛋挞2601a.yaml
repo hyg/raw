@@ -1,0 +1,22 @@
+name: 蛋挞2601a
+amount: 9
+unit: 个
+food:
+  - name: 大希地牛油蛋挞皮
+    amount: 185
+    unit: g
+  - name: 鸡蛋
+    amount: 42.0
+    unit: g
+  - name: 奶粉
+    amount: 30.0
+    unit: g
+  - name: 淡奶油粉
+    amount: 30.0
+    unit: g
+log:
+  - 加水100.0g水，部分奶粉没能溶解。
+  - 不预热、上下火、中层烤盘、190°C+22分钟。
+comment:
+  - 蛋挞液太早烤焦，皮还没好。奶油粉减到30克，去掉炼奶。再下次加1个鸡蛋试试。
+  - 下次奶粉30克，或者先加水溶解奶粉、然后再加奶油粉。

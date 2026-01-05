@@ -108,37 +108,6 @@ food:
     name: 年糕2601a
     amount: 132.5
     unit: g
-
-f:
-  - time: 20260104220000
-    name: 山药豆
-    amount: 50
-    unit: g
-  - time: 20260104220000
-    name: 鸡蛋
-    amount: 45
-    unit: g
-  - time: 20260104220000
-    name: 油菜
-    amount: 120
-    unit: g
-  - time: 20260104220000
-    name: 中盐绿色低钠湖盐
-    amount: 1.0
-    unit: g
-  - time: 20260104220000
-    name: 欧丽薇兰橄榄油
-    amount: 0.5
-    unit: g
-
-  - time: 20260104055000
-    name: 奶粉
-    amount: 20.0
-    unit: g
-  - time: 20260104055000
-    name: 品儿Piner天然可可粉
-    amount: 3.0
-    unit: g
 water:
   - time: 20260104060000
     name: 开水
@@ -175,19 +144,6 @@ water:
   - time: 20260104172600
     name: 开水
     amount: 250
-    unit: ml
-w:
-  - time: 20260104161200
-    name: 开水
-    amount: 100
-    unit: ml
-  - time: 20260104055000
-    name: 可可奶
-    amount: 80.0
-    unit: ml
-  - time: 20260104202800
-    name: 开水
-    amount: 50
     unit: ml
 med:
   - time: 20260104084400

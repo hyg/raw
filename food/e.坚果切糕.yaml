@@ -1,0 +1,24 @@
+name: 坚果切糕
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1940
+    unit: kcal
+    nrv: 23
+  蛋白质:
+    amount: 12.8
+    unit: g
+    nrv: 21
+  脂肪:
+    amount: 21.6
+    unit: g
+    nrv: 36
+  碳水化合物:
+    amount: 54.3
+    unit: g
+    nrv: 18
+  钠:
+    amount: 11
+    unit: mg
+    nrv: 1
