@@ -1,0 +1,26 @@
+name: 象大厨经典卤水老豆腐
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 325
+    unit: kj
+    nrv: 4
+  蛋白质:
+    amount: 7.8
+    unit: g
+    nrv: 13
+  脂肪:
+    amount: 2.3
+    unit: g
+    nrv: 4
+  碳水化合物:
+    amount: 6.3
+    unit: g
+    nrv: 2
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0
+comment:
+  - 凝固剂主要是氯化镁

@@ -1,0 +1,83 @@
+name: 银耳
+nickname: 银耳（干）[白木耳]
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 261
+    unit: kcal
+    nrv: 12.73
+  蛋白质:
+    amount: 10
+    unit: g
+    nrv: 11.15
+  脂肪:
+    amount: 1.4
+    unit: g
+    nrv: 2.46
+  碳水化合物:
+    amount: 67.3
+    unit: g
+    nrv: 22.84
+  VA(视黄醇等):
+    amount: 8
+    unit: μg
+    nrv: 1.04
+  VE(生育酚):
+    amount: 1.26
+    unit: mg
+    nrv: 9
+  VB1(硫胺素):
+    amount: 0.05
+    unit: mg
+    nrv: 3.57
+  VB2(核黄素):
+    amount: 0.25
+    unit: mg
+    nrv: 17.86
+  VB3(烟酸):
+    amount: 5.3
+    unit: mg
+    nrv: 35.33
+  磷:
+    amount: 369
+    unit: mg
+    nrv: 51.97
+  钙:
+    amount: 36
+    unit: mg
+    nrv: 4.5
+  铁:
+    amount: 4.1
+    unit: mg
+    nrv: 34.17
+  钠:
+    amount: 82
+    unit: mg
+    nrv: 5.47
+  钾:
+    amount: 1588
+    unit: mg
+    nrv: 79.4
+  镁:
+    amount: 54
+    unit: mg
+    nrv: 16.88
+  锌:
+    amount: 3.03
+    unit: mg
+    nrv: 25.25
+  硒:
+    amount: 3
+    unit: μg
+    nrv: 5
+  铜:
+    amount: 0.08
+    unit: mg
+    nrv: 10
+  锰:
+    amount: 0.17
+    unit: mg
+    nrv: 3.78
+comment:
+  - https://www.eshian.com/sat/yyss/detail/LXMjAyNi0wMS0wOA==/763

@@ -1,0 +1,83 @@
+name: 莲子
+nickname: 莲子（干）
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 350
+    unit: kcal
+    nrv: 17.07
+  蛋白质:
+    amount: 17.2
+    unit: g
+    nrv: 19.18
+  脂肪:
+    amount: 2
+    unit: g
+    nrv: 3.51
+  碳水化合物:
+    amount: 67.2
+    unit: g
+    nrv: 22.8
+  VE(生育酚):
+    amount: 2.71
+    unit: mg
+    nrv: 19.36
+  VB1(硫胺素):
+    amount: 0.16
+    unit: mg
+    nrv: 11.43
+  VB2(核黄素):
+    amount: 0.08
+    unit: mg
+    nrv: 5.71
+  VB3(烟酸):
+    amount: 4.2
+    unit: mg
+    nrv: 28
+  VC(抗坏血酸):
+    amount: 5
+    unit: mg
+    nrv: 5
+  磷:
+    amount: 550
+    unit: mg
+    nrv: 77.46
+  钙:
+    amount: 97
+    unit: mg
+    nrv: 12.13
+  铁:
+    amount: 3.6
+    unit: mg
+    nrv: 30
+  钠:
+    amount: 5
+    unit: mg
+    nrv: 0.33
+  钾:
+    amount: 846
+    unit: mg
+    nrv: 42.3
+  镁:
+    amount: 242
+    unit: mg
+    nrv: 75.63
+  锌:
+    amount: 2.78
+    unit: mg
+    nrv: 23.17
+  硒:
+    amount: 3.4
+    unit: μg
+    nrv: 5.67
+  铜:
+    amount: 1.33
+    unit: mg
+    nrv: 166.25
+  锰:
+    amount: 8.23
+    unit: mg
+    nrv: 182.89
+comment:
+  - https://www.eshian.com/sat/yyss/detail/LXMjAyNi0wMS0wOA==/1442

@@ -104,36 +104,6 @@ food:
     name: 臻妍益生菌冻干粉2509
     amount: 3.0
     unit: g
-f:
-  - time: 20260105220000
-    name: 土豆
-    amount: 150
-    unit: g
-  - time: 20260105220000
-    name: 鸡蛋
-    amount: 45
-    unit: g
-  - time: 20260105220000
-    name: 油菜
-    amount: 120
-    unit: g
-  - time: 20260105220000
-    name: 中盐绿色低钠湖盐
-    amount: 1.0
-    unit: g
-  - time: 20260105220000
-    name: 欧丽薇兰橄榄油
-    amount: 0.5
-    unit: g
-
-  - time: 20260105055000
-    name: 奶粉
-    amount: 20.0
-    unit: g
-  - time: 20260105055000
-    name: 品儿Piner天然可可粉
-    amount: 3.0
-    unit: g
 water:
   - time: 20260105004200
     name: 开水
@@ -178,19 +148,6 @@ water:
   - time: 20260105122100
     name: 开水
     amount: 200
-    unit: ml
-w:
-  - time: 20260105161200
-    name: 开水
-    amount: 100
-    unit: ml
-  - time: 20260105055000
-    name: 可可奶
-    amount: 80.0
-    unit: ml
-  - time: 20260105202800
-    name: 开水
-    amount: 50
     unit: ml
 med:
   - time: 20260105022700
