@@ -21,10 +21,22 @@ food:
     name: 红菜苔
     amount: 150
     unit: g
+  - time: 20260111052600
+    name: 十三村原味腐乳
+    amount: 10
+    unit: g
 
   - time: 20260111054200
+    name: 徽韵棠原味黄山烧饼
+    amount: 10
+    unit: g
+  - time: 20260111054200
+    name: 蛋挞2601a
+    amount: 1
+    unit: 个
+  - time: 20260111054200
     name: 坚果切糕
-    amount: 30
+    amount: 0
     unit: g
   - time: 20260111054200
     name: 麦胚芽
@@ -88,7 +100,7 @@ food:
     unit: g
   - time: 20260111130800
     name: 中盐绿色低钠湖盐
-    amount: 1.0
+    amount: 1.5
     unit: g
   - time: 20260111130800
     name: 欧丽薇兰橄榄油
