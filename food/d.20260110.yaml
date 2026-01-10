@@ -1,0 +1,194 @@
+date: 20260110
+food:
+  - time: 20260110043200
+    name: 番石榴
+    amount: 175.0
+    unit: g
+  - time: 20260110043500
+    name: 螺蛳粉米粉
+    amount: 128.5
+    unit: g
+  - time: 20260110043500
+    name: 螺蛳粉配料
+    amount: 153.0
+    unit: g
+    comment: 
+      - 实际是白象柳州螺蛳粉，包装上把米粉和配料混合一份营养成分表。
+      - 汤料55.5克
+      - 什锦蔬菜40.0克
+      - 酸笋37.0
+      - 花生11.0
+      - 炸腐竹9.5克
+  - time: 20260110043500
+    name: 小鹰大油方
+    amount: 27.0
+    unit: g
+  - time: 20260110043500
+    name: 油菜
+    amount: 49.5
+    unit: g
+  - time: 20260110043500
+    name: 猪扇骨
+    amount: 415.0
+    unit: g
+    log: 生重528.0克，骨重113.0克，肉重415.0克。
+  - time: 20260110043500
+    name: 双笑咸山黄皮果
+    amount: 16.0
+    unit: g
+  - time: 20260110051100
+    name: 蛋挞2601a
+    amount: 2
+    unit: 个
+  - time: 20260110051100
+    name: 徽韵棠原味黄山烧饼
+    amount: 18.5
+    unit: g
+  - time: 20260110051100
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20260110051100
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20260110051100
+    name: 浙梅免洗桑葚
+    amount: 10.0
+    unit: g
+  - time: 20260110052500
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20260110052500
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+  - time: 20260110140100
+    name: 番茄酱
+    amount: 23.0
+    unit: g
+  - time: 20260110140100
+    name: 百香果
+    amount: 20.5
+    unit: g
+  - time: 20260110140100
+    name: 菊粉
+    amount: 7.0
+    unit: g
+  - time: 20260110140100
+    name: 维生素C
+    amount: 2.0
+    unit: g
+  - time: 20251207140200
+    name: 猕猴桃
+    amount: 95.0
+    unit: g
+  - time: 20251207140600
+    name: 金桔
+    amount: 197.5
+    unit: g
+  - time: 20260110141400
+    name: 红薯
+    amount: 263.0
+    unit: g
+  - time: 20260110141400
+    name: 炖娃娃鱼2601a
+    amount: 70
+    unit: g
+  - time: 20260110141400
+    name: 红菜苔
+    amount: 255.5
+    unit: g
+  - time: 20260110141400
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20260110141400
+    name: 欧丽薇兰橄榄油
+    amount: 0.5
+    unit: g
+  - time: 20251207142600
+    name: 坚果切糕
+    amount: 27.5
+    unit: g
+  - time: 20251207143000
+    name: 徽味天香徽墨酥
+    amount: 25.0
+    unit: g
+  - time: 20260110143400
+    name: 奶粉
+    amount: 20.0
+    unit: g
+  - time: 20260110143400
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+  - time: 20260110143400
+    name: 熊猫咖啡奶油
+    amount: 9.5
+    unit: g
+  - time: 20260110143400
+    name: 臻妍益生菌冻干粉2509
+    amount: 3.0
+    unit: g
+water:
+  - time: 20260110030400
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20260110040200
+    name: 开水
+    amount: 220
+    unit: ml
+  - time: 20260110043500
+    name: 汤水
+    amount: 600
+    unit: ml
+  - time: 20260110052500
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20260110060000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260110092400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260110110100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260110115300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260110143400
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20260110190600
+    name: 开水
+    amount: 150
+    unit: ml
+med:
+  - time: 20260110052500
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20260110060000
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20260110060000
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20260110060000
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: 
