@@ -1,0 +1,63 @@
+name: 大薯
+nickname:
+  - 参薯
+  - 毛薯
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 108
+    unit: kcal
+    nrv: 5.27
+  蛋白质:
+    amount: 2.1
+    unit: g
+    nrv: 2.34
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0.35
+  碳水化合物:
+    amount: 24.9
+    unit: g
+    nrv: 8.45
+  VE(生育酚):
+    amount: 0.25
+    unit: mg
+    nrv: 1.79
+  VB1(硫胺素):
+    amount: 0.05
+    unit: mg
+    nrv: 3.57
+  VB3(烟酸):
+    amount: 0.5
+    unit: mg
+    nrv: 3.33
+  磷:
+    amount: 45
+    unit: mg
+    nrv: 6.34
+  钙:
+    amount: 10
+    unit: mg
+    nrv: 1.25
+  铁:
+    amount: 0.8
+    unit: mg
+    nrv: 6.67
+  镁:
+    amount: 16
+    unit: mg
+    nrv: 5
+  锌:
+    amount: 0.38
+    unit: mg
+    nrv: 3.17
+  硒:
+    amount: 0.7
+    unit: μg
+    nrv: 1.17
+  铜:
+    amount: 0.17
+    unit: mg
+    nrv: 21.25
