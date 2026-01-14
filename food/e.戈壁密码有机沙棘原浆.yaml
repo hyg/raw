@@ -1,0 +1,24 @@
+name: 戈壁密码有机沙棘原浆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 391
+    unit: kj
+    nrv: 5
+  蛋白质:
+    amount: 1.3
+    unit: g
+    nrv: 2
+  脂肪:
+    amount: 6.2
+    unit: g
+    nrv: 10
+  碳水化合物:
+    amount: 8.2
+    unit: g
+    nrv: 3
+  钠:
+    amount: 13
+    unit: mg
+    nrv: 1
