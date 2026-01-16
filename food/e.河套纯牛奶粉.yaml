@@ -1,0 +1,28 @@
+name: 河套纯牛奶粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2172
+    unit: kj
+    nrv: 26
+  蛋白质:
+    amount: 24.0
+    unit: g
+    nrv: 40
+  脂肪:
+    amount: 27.0
+    unit: g
+    nrv: 45
+  碳水化合物:
+    amount: 45.0
+    unit: g
+    nrv: 15
+  钠:
+    amount: 380
+    unit: mg
+    nrv: 19
+  钙:
+    amount: 820
+    unit: mg
+    nrv: 103
