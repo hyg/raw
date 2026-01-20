@@ -1,0 +1,22 @@
+name: 蛋挞2601b
+amount: 10
+unit: 个
+food:
+  - name: 大希地牛油蛋挞皮
+    amount: 215.0
+    unit: g
+  - name: 鸡蛋
+    amount: 98.5
+    unit: g
+  - name: 河套纯牛奶粉
+    amount: 25.0
+    unit: g
+  - name: 淡奶油粉
+    amount: 12.0
+    unit: g
+log:
+  - 先加奶粉，用水100.0g摇匀溶解后，再加淡奶油粉和鸡蛋两个。
+  - 不预热、上下火、中层烤架、210°C+25分钟。
+comment:
+  - 这次用两个鸡蛋，蛋挞液合适。
+  - 蛋挞皮还没有完全展开，下次不遮挡、中层210°C+25分钟。
