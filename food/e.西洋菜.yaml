@@ -1,0 +1,86 @@
+name: 西洋菜
+nickname: 豆瓣菜[西洋菜，水田芥]
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 20
+    unit: kcal
+    nrv: 0.98
+  蛋白质:
+    amount: 2.9
+    unit: g
+    nrv: 3.23
+  脂肪:
+    amount: 0.5
+    unit: g
+    nrv: 0.88
+  碳水化合物:
+    amount: 1.5
+    unit: g
+    nrv: 0.51
+  VA(视黄醇等):
+    amount: 1592
+    unit: μg
+    nrv: 206.75
+  VE(生育酚):
+    amount: 0.59
+    unit: mg
+    nrv: 4.21
+  VB1(硫胺素):
+    amount: 0.01
+    unit: mg
+    nrv: 0.71
+  VB2(核黄素):
+    amount: 0.11
+    unit: mg
+    nrv: 7.86
+  VB3(烟酸):
+    amount: 0.3
+    unit: mg
+    nrv: 2
+  VC(抗坏血酸):
+    amount: 52
+    unit: mg
+    nrv: 52
+  磷:
+    amount: 26
+    unit: mg
+    nrv: 3.66
+  钙:
+    amount: 30
+    unit: mg
+    nrv: 3.75
+  铁:
+    amount: 1
+    unit: mg
+    nrv: 8.33
+  钠:
+    amount: 61
+    unit: mg
+    nrv: 4.07
+  钾:
+    amount: 179
+    unit: mg
+    nrv: 8.95
+  镁:
+    amount: 9
+    unit: mg
+    nrv: 2.81
+  锌:
+    amount: 0.69
+    unit: mg
+    nrv: 5.75
+  硒:
+    amount: 0.7
+    unit: μg
+    nrv: 1.17
+  铜:
+    amount: 0.06
+    unit: mg
+    nrv: 7.5
+  锰:
+    amount: 0.25
+    unit: mg
+    nrv: 5.56
+comment: https://www.eshian.com/sat/yyss/detail/LXMjAyNi0wMS0yMw==/414
