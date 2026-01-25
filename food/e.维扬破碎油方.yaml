@@ -1,0 +1,24 @@
+name: 维扬破碎油方
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1000
+    unit: kj
+    nrv: 13
+  蛋白质:
+    amount: 18.2
+    unit: g
+    nrv: 30
+  脂肪:
+    amount: 20.0
+    unit: g
+    nrv: 33
+  碳水化合物:
+    amount: 3.0
+    unit: g
+    nrv: 1
+  钠:
+    amount: 28
+    unit: mg
+    nrv: 1

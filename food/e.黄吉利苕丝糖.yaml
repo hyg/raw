@@ -1,0 +1,24 @@
+name: 黄吉利苕丝糖
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2066
+    unit: kj
+    nrv: 25
+  蛋白质:
+    amount: 2.2
+    unit: g
+    nrv: 4
+  脂肪:
+    amount: 22.7
+    unit: g
+    nrv: 38
+  碳水化合物:
+    amount: 69.6
+    unit: g
+    nrv: 23
+  钠:
+    amount: 132
+    unit: mg
+    nrv: 7
