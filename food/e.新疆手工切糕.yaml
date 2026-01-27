@@ -1,0 +1,24 @@
+name: 新疆手工切糕
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2637
+    unit: kj
+    nrv: 31
+  蛋白质:
+    amount: 14.0
+    unit: g
+    nrv: 23
+  脂肪:
+    amount: 50.5
+    unit: g
+    nrv: 84
+  碳水化合物:
+    amount: 31.2
+    unit: g
+    nrv: 10
+  钠:
+    amount: 6
+    unit: mg
+    nrv: 0
