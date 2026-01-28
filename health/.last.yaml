@@ -1,16 +1,16 @@
-date: 20260128
+date: 20260129
 sleep: 
-  time: 20260127194900
-  weight: 54.8
+  time: 20260128214700
+  weight: 55.4
 wake:
-  time: 20260128060100
-  weight: 54.2
-  SpO2: 94
-  PRbpm: 72
+  time: 20260129041000
+  weight: 54.8
+  SpO2: 95
+  PRbpm: 80
   log: |
-    补水0次，睡觉中间起来小便1次。
+    补水0次，睡觉中间起来小便0次。
 exercise: 
-- time: 20260128063000
+- time: 20260129044000
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -28,18 +28,18 @@ exercise:
     amount: 5
     unit: set
   SpO2: 97
-  PRbpm: 100
-  endheartrate: 103
+  PRbpm: 108
+  endheartrate: 113
   log: |
     室内运动后把脉: 关脉中偏浅、尺脉寸脉深度中；侧向居中；三处清晰有力。
-- time: 20260128610000
+- time: 20260129610000
   item:
   - type: walk
     amount: 180
     unit: minute
   SpO2: 96
   PRbpm: 115
-- time: 20260128230000
+- time: 20260129230000
   item:
   - type: 臀腰激活L2
     amount: 14
@@ -47,11 +47,9 @@ exercise:
   SpO2: 97
   PRbpm: 87
 stool:
-- time: 20260128075500
+- time: 20260129075500
   amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log:
-  - 久坐到接近中午时，呼吸略有痰味。
-  - 午饭后用一包银黄颗粒。
 comment:
