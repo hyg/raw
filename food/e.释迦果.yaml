@@ -1,0 +1,79 @@
+name: 释迦果
+nickname: 番荔枝
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 94
+    unit: kcal
+    nrv: 4.59
+  蛋白质:
+    amount: 2.1
+    unit: g
+    nrv: 2.34
+  脂肪:
+    amount: 0.3
+    unit: g
+    nrv: 0.53
+  碳水化合物:
+    amount: 23.6
+    unit: g
+    nrv: 8.01
+  膳食纤维:
+    amount: 4.4
+    unit: g
+    nrv: 14.67
+  VB1(硫胺素):
+    amount: 0.11
+    unit: mg
+    nrv: 7.86
+  VB2(核黄素):
+    amount: 0.11
+    unit: mg
+    nrv: 7.86
+  VB3(烟酸):
+    amount: 0.88
+    unit: mg
+    nrv: 5.87
+  VB6(吡哆素):
+    amount: 0.2
+    unit: mg
+    nrv: 14.29
+  VB9(叶酸):
+    amount: 14
+    unit: μg
+    nrv: 3.5
+  VC(抗坏血酸):
+    amount: 36.3
+    unit: mg
+    nrv: 36.3
+  磷:
+    amount: 32
+    unit: mg
+    nrv: 4.51
+  钙:
+    amount: 24
+    unit: mg
+    nrv: 3
+  铁:
+    amount: 0.6
+    unit: mg
+    nrv: 5
+  钠:
+    amount: 9
+    unit: mg
+    nrv: 0.6
+  钾:
+    amount: 247
+    unit: mg
+    nrv: 12.35
+  镁:
+    amount: 21
+    unit: mg
+    nrv: 6.56
+  锌:
+    amount: 0.1
+    unit: mg
+    nrv: 0.83
+comment:
+  - https://www.eshian.com/sat/yyss/detail/LXMjAyNi0wMS0zMA==/2685

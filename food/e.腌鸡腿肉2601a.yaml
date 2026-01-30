@@ -1,0 +1,19 @@
+name: 腌鸡腿肉2601a
+amount: 441.0
+unit: g
+food:
+  - name: 鸡胸肉
+    amount: 300.0
+    unit: g
+  - name: 鸡腿肉
+    amount: 108.5
+    unit: g
+  - name: 阑绪儿童新奥尔良烤翅腌料
+    amount: 32.5
+    unit: g
+log:
+  - 不预热、中层、上下火、200°C+15分钟
+  - 翻面、230°C+5分钟。
+comment:
+  - 象大厨的冰鲜鸡腿排，实际上一大半是鸡胸肉。共计408.5g，按照300.0g鸡胸肉、108.5g鸡腿肉计算。
+  
