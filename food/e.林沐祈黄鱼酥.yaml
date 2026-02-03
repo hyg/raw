@@ -1,0 +1,41 @@
+name: 林沐祈黄鱼酥
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1660
+    unit: kj
+    nrv: 20
+  蛋白质:
+    amount: 51.6
+    unit: g
+    nrv: 86
+  脂肪:
+    amount: 18.5
+    unit: g
+    nrv: 31
+  碳水化合物:
+    amount: 5.8
+    unit: g
+    nrv: 2
+  钠:
+    amount: 1080
+    unit: mg
+    nrv: 54
+  钙:
+    amount: 1250
+    unit: mg
+    nrv: 156
+log:
+  - 黄鱼鯗解冻擦干，喷油3.0g。
+  - 不预热、上下火、中层(上下层都空）、鱼皮向上，180°C+30分钟。
+  - 翻面、预热、上下火、上层(下层可以消毒餐具)，210°C+7分钟。
+comment:
+  饱和脂肪:
+    amount: 8.4
+    unit: g
+    nrv: 42
+  糖:
+    amount: 4.5
+    unit: g
+    nrv: 1.6

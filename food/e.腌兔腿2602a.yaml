@@ -1,0 +1,15 @@
+name: 腌兔腿2602a
+amount: 294.0
+unit: g
+food:
+  - name: 兔肉
+    amount: 250.5
+    unit: g
+  - name: 东古叉烧酱
+    amount: 43.5
+    unit: g
+log:
+  - 不预热、中层、上下火、190°C+15分钟
+  - 翻面、200°C+5分钟。
+comment:
+  

@@ -1,0 +1,14 @@
+name: 腌梅花肉2602a
+amount: 442.5
+unit: g
+food:
+  - name: 梅花肉
+    amount: 392.5
+    unit: g
+  - name: 东古叉烧酱
+    amount: 50.0
+    unit: g
+log:
+  - 不预热、中层、上下火、190°C+15分钟
+  - 翻面、200°C+5分钟。
+comment:
