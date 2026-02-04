@@ -178,7 +178,7 @@ plan mode: "node raw plan 15"`;
 // read the args
 var args = process.argv.splice(2);
 if (args.length > 0) {
-  if ((args.length == 1) & (args[0].length == 4)) {
+  if ((args.length == 1) && (args[0].length == 4)) {
     // year mode: "node raw 2023"
     startdate = args[0] + "0101";
     enddate = args[0] + "1231";
@@ -187,11 +187,11 @@ if (args.length > 0) {
     //showtables();
     maketable();
     makeRfile();
-  } else if ((args.length == 1) & (args[0].length == 6)) {
+  } else if ((args.length == 1) && (args[0].length == 6)) {
     // month mode: "node raw 202304"
     //startdate = args[0]+"01";
     foodmonthreport(args[0]);
-  } else if ((args.length == 1) & (args[0].length == 8)) {
+  } else if ((args.length == 1) && (args[0].length == 8)) {
     // day mode:"node raw 20230410"
     startdate = args[0];
     enddate = args[0];
@@ -269,7 +269,7 @@ function loadmap() {
 
     fs.readdirSync("food").forEach((file) => {
       if (file.substr(0, 2) == "d.") {
-        if ((file >= startfilename) & (file <= endfilename)) {
+        if ((file >= startfilename) && (file <= endfilename)) {
           f = yaml.load(fs.readFileSync("food/" + file, "utf8"));
           fmap[f.date] = f;
         }
@@ -286,7 +286,7 @@ function loadmap() {
     }
     fs.readdirSync("health").forEach((file) => {
       if (file.substr(0, 2) == "d.") {
-        if ((file >= startfilename) & (file <= endfilename)) {
+        if ((file >= startfilename) && (file <= endfilename)) {
           h = yaml.load(fs.readFileSync("health/" + file, "utf8"));
           //if(!h.wake.weight) {console.log("can find wake data"+h.date);}
           hmap[h.date] = h;
@@ -470,7 +470,7 @@ function foodseasonreport(argument) {
   daycnt = 0;
   loadmap();
   for (var date in fmap) {
-    if ((date >= startdate) & (date <= enddate)) {
+    if ((date >= startdate) && (date <= enddate)) {
       fooddaysum(date, etable, ftable);
       daycnt++;
     }
@@ -494,7 +494,7 @@ function foodseasonreport(argument) {
   var ftableoflastseason = new Object(); // food data
   loadmap();
   for (var date in fmap) {
-    if ((date >= startdate) & (date < enddate)) {
+    if ((date >= startdate) && (date < enddate)) {
       fooddaysum(date, etableoflastseason, ftableoflastseason);
       daycntoflastseason++;
     }
@@ -514,7 +514,7 @@ function foodseasonreport(argument) {
   //console.log("the same season of last year:",startdate,enddate);
   loadmap();
   for (var date in fmap) {
-    if ((date >= startdate) & (date < enddate)) {
+    if ((date >= startdate) && (date < enddate)) {
       fooddaysum(date, etableoflastsameseason, ftableoflastsameseason);
       daycntoflastsameseason++;
     }
@@ -635,7 +635,7 @@ function foodmonthreport(argument) {
   var ftableoflastmonth = new Object(); // food data
   loadmap();
   for (var date in fmap) {
-    if ((date >= startdate) & (date < enddate)) {
+    if ((date >= startdate) && (date < enddate)) {
       fooddaysum(date, etableoflastmonth, ftableoflastmonth);
       daycntoflastmonth++;
     }
@@ -653,7 +653,7 @@ function foodmonthreport(argument) {
   //console.log("the same month of last year:",startdate,enddate);
   loadmap();
   for (var date in fmap) {
-    if ((date >= startdate) & (date < enddate)) {
+    if ((date >= startdate) && (date < enddate)) {
       fooddaysum(date, etableoflastsamemonth, ftableoflastsamemonth);
       daycntoflastsamemonth++;
     }

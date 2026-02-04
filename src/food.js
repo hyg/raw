@@ -16,7 +16,7 @@ module.exports = {
         try {
             fs.readdirSync("../food").forEach(file => {
                 if (file.substr(0, 2) == "d.") {
-                    if ((file >= startfilename) & (file <= endfilename)) {
+                    if ((file >= startfilename) && (file <= endfilename)) {
                         f = yaml.load(fs.readFileSync("food/" + file, 'utf8'));
                         this.fmap[f.date] = f;
                     }
