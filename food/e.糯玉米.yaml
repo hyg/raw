@@ -18,18 +18,6 @@ element:
     amount: 2.12
     unit: g
     nrv: 3
-  饱和脂肪:
-    amount: 0.302
-    unit: g
-    nrv: 2
-  多不饱和脂肪:
-    amount: 0.971
-    unit: g
-    nrv: 3
-  单不饱和脂肪:
-    amount: 0.567
-    unit: g
-    nrv: 3
   膳食纤维:
     amount: 3.5
     unit: g
@@ -42,3 +30,16 @@ element:
     amount: 170
     unit: mg
     nrv: 9
+comment:
+  饱和脂肪:
+    amount: 0.302
+    unit: g
+    nrv: 2
+  多不饱和脂肪:
+    amount: 0.971
+    unit: g
+    nrv: 3
+  单不饱和脂肪:
+    amount: 0.567
+    unit: g
+    nrv: 3

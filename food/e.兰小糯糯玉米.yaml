@@ -1,0 +1,32 @@
+name: 兰小糯糯玉米
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 739
+    unit: kj
+    nrv: 9
+  蛋白质:
+    amount: 4.49
+    unit: g
+    nrv: 7
+  脂肪:
+    amount: 1.1
+    unit: g
+    nrv: 2
+  碳水化合物:
+    amount: 36.6
+    unit: g
+    nrv: 12
+  钠:
+    amount: 3.29
+    unit: mg
+    nrv: 0
+  膳食纤维:
+    amount: 3.5
+    unit: g
+    nrv: 12
+  钾:
+    amount: 170
+    unit: mg
+    nrv: 9
