@@ -1,0 +1,24 @@
+name: 榄仁手工沙琪玛
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1939
+    unit: kj
+    nrv: 23
+  蛋白质:
+    amount: 6.0
+    unit: g
+    nrv: 10
+  脂肪:
+    amount: 25.4
+    unit: g
+    nrv: 42
+  碳水化合物:
+    amount: 52.0
+    unit: g
+    nrv: 18
+  钠:
+    amount: 120
+    unit: mg
+    nrv: 6
