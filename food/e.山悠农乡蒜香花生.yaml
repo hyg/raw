@@ -1,0 +1,24 @@
+name: 山悠农乡蒜香花生
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2443
+    unit: kj
+    nrv: 29
+  蛋白质:
+    amount: 25.0
+    unit: g
+    nrv: 42
+  脂肪:
+    amount: 43.0
+    unit: g
+    nrv: 72
+  碳水化合物:
+    amount: 25.1
+    unit: g
+    nrv: 8
+  钠:
+    amount: 503
+    unit: mg
+    nrv: 25
