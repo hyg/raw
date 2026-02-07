@@ -1,0 +1,15 @@
+name: 腌鸡腿肉2602a
+amount: 441.0
+unit: g
+food:
+  - name: 泰森去皮鸡上腿肉
+    amount: 461.0
+    unit: g
+  - name: 阑绪儿童新奥尔良烤翅腌料
+    amount: 33.0
+    unit: g
+log:
+  - 不预热、上层、上下火、180°C+15分钟
+  - 翻面、190°C+5分钟。
+comment:
+  

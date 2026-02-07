@@ -1,0 +1,24 @@
+name: 富昌海米
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 995
+    unit: kj
+    nrv: 12
+  蛋白质:
+    amount: 46.1
+    unit: g
+    nrv: 77
+  脂肪:
+    amount: 2.4
+    unit: g
+    nrv: 4
+  碳水化合物:
+    amount: 7.2
+    unit: g
+    nrv: 2
+  钠:
+    amount: 2630
+    unit: mg
+    nrv: 132

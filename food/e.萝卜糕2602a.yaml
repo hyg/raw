@@ -1,29 +1,33 @@
 name: 萝卜糕2602a
-amount: 2302.5
+amount: 2285.0
 unit: g
 food:
   - name: 白鲨萝卜糕专用粉
-    amount: 508.0
+    amount: 510.0
     unit: g
   - name: 萝卜
-    amount: 500
+    amount: 692.0
     unit: g
   - name: 腌梅花肉2602a
-    amount: 442.5
+    amount: 424.0
+    unit: g
+  - name: 富昌海米
+    amount: 52.5
     unit: g
   - name: 中盐绿色低钠湖盐
     amount: 8.0
     unit: g
   - name: 味精
-    amount: 5.0
+    amount: 3.0
     unit: g
   - name: 胡椒粉
     amount: 0.5
     unit: g
 log:
+  - 腌梅花肉：不预热、上下火、上层、180°C+15分钟，翻面、在空余位置倒入海米、200°C+10分钟。
+  - 萝卜去皮切丝加202.5g水、调味料煮熟。
   - 粉糊 = 萝卜糕专用粉508.0g+650.0g水，搅拌均匀。
-  - 萝卜去皮切丝加202.0g水、调味料煮熟。
-  - 叉烧切丁，和萝卜丝汤一起倒入面糊，搅拌成半生熟奖。
+  - 叉烧切丁，和海米、萝卜丝汤一起倒入面糊，搅拌成半生熟奖。
   - 蒸40分钟，冷却脱模、密封冷冻。
 comment:
-  - 下次增减：叉烧500g，胡椒粉0.5g，盐8g、味精5g。
+  - 比例合适。
