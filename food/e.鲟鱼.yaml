@@ -1,0 +1,84 @@
+name: 鲟鱼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 105
+    unit: kcal
+    nrv: 5.12
+  蛋白质:
+    amount: 16.1
+    unit: g
+    nrv: 17.95
+  脂肪:
+    amount: 4
+    unit: g
+    nrv: 7.02
+  VA(视黄醇等):
+    amount: 210
+    unit: μg
+    nrv: 27.27
+  VE(生育酚):
+    amount: 0.5
+    unit: mg
+    nrv: 3.57
+  VB1(硫胺素):
+    amount: 0.07
+    unit: mg
+    nrv: 5
+  VB2(核黄素):
+    amount: 0.07
+    unit: mg
+    nrv: 5
+  VB3(烟酸):
+    amount: 8.3
+    unit: mg
+    nrv: 55.33
+  VB6(吡哆素):
+    amount: 0.2
+    unit: mg
+    nrv: 14.29
+  VB9(叶酸):
+    amount: 15
+    unit: μg
+    nrv: 3.75
+  VB12(钴胺素):
+    amount: 2.2
+    unit: μg
+    nrv: 91.67
+  VD3(胆钙化醇):
+    amount: 10.3
+    unit: μg
+    nrv: 103
+  VK(凝血维生素):
+    amount: 0.1
+    unit: μg
+    nrv: 0.13
+  磷:
+    amount: 211
+    unit: mg
+    nrv: 29.72
+  钙:
+    amount: 13
+    unit: mg
+    nrv: 1.63
+  铁:
+    amount: 0.7
+    unit: mg
+    nrv: 5.83
+  钠:
+    amount: 54
+    unit: mg
+    nrv: 3.6
+  钾:
+    amount: 284
+    unit: mg
+    nrv: 14.2
+  镁:
+    amount: 35
+    unit: mg
+    nrv: 10.94
+  锌:
+    amount: 0.42
+    unit: mg
+    nrv: 3.5
