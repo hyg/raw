@@ -1,0 +1,76 @@
+name: 猪蹄筋
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 156
+    unit: kcal
+    nrv: 7.61
+  蛋白质:
+    amount: 35.3
+    unit: g
+    nrv: 39.36
+  脂肪:
+    amount: 1.4
+    unit: g
+    nrv: 2.46
+  碳水化合物:
+    amount: 0.5
+    unit: g
+    nrv: 0.17
+  VE(生育酚):
+    amount: 0.1
+    unit: mg
+    nrv: 0.71
+  VB1(硫胺素):
+    amount: 0.01
+    unit: mg
+    nrv: 0.71
+  VB2(核黄素):
+    amount: 0.09
+    unit: mg
+    nrv: 6.43
+  VB3(烟酸):
+    amount: 2.9
+    unit: mg
+    nrv: 19.33
+  磷:
+    amount: 40
+    unit: mg
+    nrv: 5.63
+  钙:
+    amount: 15
+    unit: mg
+    nrv: 1.88
+  铁:
+    amount: 2.2
+    unit: mg
+    nrv: 18.33
+  钠:
+    amount: 178
+    unit: mg
+    nrv: 11.87
+  钾:
+    amount: 46
+    unit: mg
+    nrv: 2.3
+  镁:
+    amount: 4
+    unit: mg
+    nrv: 1.25
+  锌:
+    amount: 2.3
+    unit: mg
+    nrv: 19.17
+  硒:
+    amount: 10.3
+    unit: μg
+    nrv: 17.17
+  铜:
+    amount: 0.04
+    unit: mg
+    nrv: 5
+  锰:
+    amount: 0.02
+    unit: mg
+    nrv: 0.44
