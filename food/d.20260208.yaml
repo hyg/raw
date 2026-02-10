@@ -1,10 +1,10 @@
 date: 20260208
 food:
-  - time: 202602080920000
+  - time: 20260208092000
     name: 番石榴
     amount: 134.5
     unit: g
-  - time: 202602080922000
+  - time: 20260208092200
     name: 香蕉
     amount: 86.0
     unit: g

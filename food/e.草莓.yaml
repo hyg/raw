@@ -1,0 +1,88 @@
+name: 草莓
+nickname: 
+  - 洋莓
+  - 凤阳草莓
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 32
+    unit: kcal
+    nrv: 1.56
+  蛋白质:
+    amount: 1
+    unit: g
+    nrv: 1.11
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0.35
+  碳水化合物:
+    amount: 7.1
+    unit: g
+    nrv: 2.41
+  VA(视黄醇等):
+    amount: 5
+    unit: μg
+    nrv: 0.65
+  VE(生育酚):
+    amount: 0.71
+    unit: mg
+    nrv: 5.07
+  VB1(硫胺素):
+    amount: 0.02
+    unit: mg
+    nrv: 1.43
+  VB2(核黄素):
+    amount: 0.03
+    unit: mg
+    nrv: 2.14
+  VB3(烟酸):
+    amount: 0.3
+    unit: mg
+    nrv: 2
+  VC(抗坏血酸):
+    amount: 47
+    unit: mg
+    nrv: 47
+  磷:
+    amount: 27
+    unit: mg
+    nrv: 3.8
+  钙:
+    amount: 18
+    unit: mg
+    nrv: 2.25
+  铁:
+    amount: 1.8
+    unit: mg
+    nrv: 15
+  钠:
+    amount: 4
+    unit: mg
+    nrv: 0.27
+  钾:
+    amount: 131
+    unit: mg
+    nrv: 6.55
+  镁:
+    amount: 12
+    unit: mg
+    nrv: 3.75
+  锌:
+    amount: 0.14
+    unit: mg
+    nrv: 1.17
+  硒:
+    amount: 0.7
+    unit: μg
+    nrv: 1.17
+  铜:
+    amount: 0.04
+    unit: mg
+    nrv: 5
+  锰:
+    amount: 0.49
+    unit: mg
+    nrv: 10.89
+comment: https://www.eshian.com/sat/yyss/detail/LXMjAyNi0wMi0xMA==/1142
