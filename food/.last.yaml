@@ -11,12 +11,16 @@ food:
     unit: g
   - time: 20260214055100
     name: 猪蹄筋
-    amount: 200
+    amount: 242.0
     unit: g
     log: 实际是猪元宝、猪窝骨
   - time: 20260214055100
     name: 胡萝卜
-    amount: 75
+    amount: 118.0
+    unit: g
+  - time: 20260214055100
+    name: 楚郡味豆瓣酱
+    amount: 15.0
     unit: g
   - time: 20260214055100
     name: 黄心菜
