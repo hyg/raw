@@ -1,168 +1,160 @@
-date: 20260220
+date: 20260219
 food:
-  - time: 20260220073500
+  - time: 20260219073500
     name: 释迦果
-    amount: 120
+    amount: 107.5
     unit: g
-
-  - time: 20260220073900
+  - time: 20260219073900
     name: 萝卜糕2602a
     amount: 150.0
     unit: g
-  - time: 20260220073900
+  - time: 20260219073900
     name: 兰小糯糯玉米
-    amount: 95
+    amount: 92.5
     unit: g
-  - time: 20260220073900
+  - time: 20260219073900
     name: 南瓜
-    amount: 45
+    amount: 44.0
     unit: g
-  - time: 20260220073900
+  - time: 20260219073900
     name: 红菜苔
-    amount: 100
+    amount: 97.0
     unit: g
-  - time: 20260220073900
+  - time: 20260219073900
     name: 十三村原味腐乳
     amount: 8.0
     unit: g
-
-  - time: 20260220075700
+  - time: 20260219075700
     name: 麦胚芽
     amount: 15.0
     unit: g
-  - time: 20260220075700
+  - time: 20260219075700
     name: 亚麻籽粉
     amount: 10.0
     unit: g
-  - time: 20260220075700
+  - time: 20260219075700
     name: 浙梅免洗桑葚
     amount: 10.0
     unit: g
-
-  - time: 20260220080200
+  - time: 20260219080200
     name: 河套纯牛奶粉
     amount: 25.5
     unit: g
-  - time: 20260220080200
+  - time: 20260219080200
     name: 景兰冻干黑咖啡
     amount: 1.5
     unit: g
-
-  - time: 20260220131300
+  - time: 20260219131300
     name: 番茄酱
-    amount: 25
+    amount: 30.5
     unit: g
-  - time: 20260220131300
+  - time: 20260219131300
     name: 戈壁密码有机沙棘原浆
-    amount: 25
+    amount: 31.5
     unit: g
-  - time: 20260220131300
+  - time: 20260219131300
     name: 菊粉
     amount: 12.0
     unit: g
-
-  - time: 20260220131400
+  - time: 20260219131400
     name: 苹果
-    amount: 165
+    amount: 165.5
     unit: g
-
-  - time: 20260220131800
+  - time: 20260219131800
     name: 柿子
-    amount: 220
+    amount: 204.5
     unit: g
-
-  - time: 20260220132500
+  - time: 20260219132500
     name: 一品寒香大米
     amount: 40.0
     unit: g
-  - time: 20260220132500
+  - time: 20260219132500
     name: 高粱米
     amount: 10.0
     unit: g
-  - time: 20260220132500
+  - time: 20260219132500
     name: 红豆
     amount: 10.0
     unit: g
-  - time: 20260220132500
+  - time: 20260219132500
     name: 绿豆
     amount: 10.0
     unit: g
-  - time: 20260220132500
+  - time: 20260219132500
     name: 炖鲟鱼2602b
-    amount: 90
+    amount: 74.0
     unit: g
-  - time: 20260220132500
+  - time: 20260219132500
     name: 油菜
-    amount: 220
+    amount: 199.0
     unit: g
-  - time: 20260220132500
+  - time: 20260219132500
     name: 中盐绿色低钠湖盐
     amount: 1.0
     unit: g
-  - time: 20260220132500
+  - time: 20260219132500
     name: 欧丽薇兰橄榄油
     amount: 0.5
     unit: g
-
-  - time: 20260220134000
+  - time: 20260219134000
     name: 河套纯牛奶粉
     amount: 25.0
     unit: g
-  - time: 20260220134000
+  - time: 20260219134000
     name: 品儿Piner天然可可粉
     amount: 3.0
     unit: g
 water:
-  - time: 20260220062700
+  - time: 20260219062700
     name: 开水
     amount: 200
     unit: ml
-  - time: 20260220072200
+  - time: 20260219072200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20260220080200
+  - time: 20260219080200
     name: 咖啡
     amount: 100.0
     unit: ml
-  - time: 20260220081500
+  - time: 20260219081500
     name: 红茶
     amount: 250
     unit: ml
-  - time: 20260220084500
+  - time: 20260219084500
     name: 红茶
     amount: 250
     unit: ml
-  - time: 20260220092500
+  - time: 20260219092500
     name: 红茶
     amount: 250
     unit: ml
-  - time: 20260220101500
+  - time: 20260219101500
     name: 红茶
     amount: 250
     unit: ml
-  - time: 20260220104000
+  - time: 20260219104000
     name: 红茶
     amount: 250
     unit: ml
-  - time: 20260220134000
+  - time: 20260219134000
     name: 可可奶
     amount: 100.0
     unit: ml
-  - time: 20260220154000
+  - time: 20260219154000
     name: 红茶
     amount: 250
     unit: ml
 med:
-  - time: 20260220080200
+  - time: 20260219080200
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
-  - time: 20260220081500
+  - time: 20260219081500
     name: selenium
     amount: 200
     unit: μg
-  - time: 20260220081500
+  - time: 20260219081500
     name: mature multi
     amount: 1
     unit: 片
