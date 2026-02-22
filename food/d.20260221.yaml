@@ -10,7 +10,7 @@ food:
     unit: g
   - time: 20260221092300
     name: 猪蹄筋
-    amount: 145.5
+    amount: 110.0
     unit: g
     log: 实际是猪元宝、猪窝骨
   - time: 20260221092300
