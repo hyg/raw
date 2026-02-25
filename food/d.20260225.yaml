@@ -1,159 +1,153 @@
-date: 20260226
+date: 20260225
 food:
-  - time: 20260226090800
+  - time: 20260225090800
     name: 苹果
-    amount: 170
+    amount: 156.5
     unit: g
-
-  - time: 20260226091300
-    name: 黑米饭2505a
-    amount: 200
+  - time: 20260225091300
+    name: 萝卜糕2602a
+    amount: 151.0
     unit: g
-  - time: 20260226091300
-    name: 粮农星厨老母鸡汤
-    amount: 350
-    unit: g
-  - time: 20260226091300
+  - time: 20260225091300
     name: 兰小糯糯玉米
-    amount: 110
+    amount: 110.5
     unit: g
-  - time: 20260226091300
+  - time: 20260225091300
     name: 南瓜
-    amount: 65
+    amount: 55.5
     unit: g
-  - time: 20260226091300
+  - time: 20260225091300
     name: 西兰花
-    amount: 160
+    amount: 149.5
     unit: g
-  - time: 20260226091300
+  - time: 20260225091300
     name: 十三村原味腐乳
     amount: 6.5
     unit: g
-
-  - time: 20260226093600
-    name: 新疆手工切糕
-    amount: 35
-    unit: g
-  - time: 20260226093600
+  - time: 20260225093600
     name: 麦胚芽
     amount: 15.0
     unit: g
-  - time: 20260226093600
+  - time: 20260225093600
     name: 亚麻籽粉
     amount: 10.0
     unit: g
-  - time: 20260226093600
+  - time: 20260225093600
     name: 浙梅免洗桑葚
     amount: 10.0
     unit: g
-
-  - time: 20260226094800
+  - time: 20260225094800
     name: 河套纯牛奶粉
     amount: 25.5
     unit: g
-  - time: 20260226094800
+  - time: 20260225094800
     name: 景兰冻干黑咖啡
     amount: 1.5
     unit: g
-
-  - time: 20260226175100
+  - time: 20260225175100
     name: 番茄酱
     amount: 24.0
     unit: g
-  - time: 20260226175100
+  - time: 20260225175100
     name: 戈壁密码有机沙棘原浆
     amount: 23.5
     unit: g
-  - time: 20260226175100
+  - time: 20260225175100
     name: 菊粉
-    amount: 15.0
+    amount: 11.0
     unit: g
-
-  - time: 20260226175200
+  - time: 20260225175200
     name: 胡柚
-    amount: 200.0
+    amount: 133.0
     unit: g
-
-  - time: 20260226175600
-    name: 萝卜糕2602b
-    amount: 150
+  - time: 20260225175600
+    name: 土豆
+    amount: 292.0
     unit: g
-  - time: 20260226175600
-    name: 芹菜
-    amount: 220
+  - time: 20260225175600
+    name: 兔肉
+    amount: 232.0
     unit: g
-  - time: 20260226175600
+    log: 带骨生重161.5克、骨重29.5克。
+  - time: 20260225175600
+    name: 楚郡味豆瓣酱
+    amount: 17.0
+    unit: g
+  - time: 20260225175600
+    name: 菜心
+    amount: 137.5
+    unit: g
+  - time: 20260225175600
     name: 中盐绿色低钠湖盐
     amount: 1.0
     unit: g
-  - time: 20260226175600
+  - time: 20260225175600
     name: 欧丽薇兰橄榄油
     amount: 0.5
     unit: g
-
-  - time: 20260226183900
+  - time: 20260225183900
     name: 山悠农乡蒜香花生
-    amount: 0
+    amount: 5.0
     unit: g
-  - time: 20260226184200
+  - time: 20260225184200
     name: 河套纯牛奶粉
     amount: 25.5
     unit: g
-  - time: 20260226184200
+  - time: 20260225184200
     name: 品儿Piner天然可可粉
     amount: 3.0
     unit: g
 water:
-  - time: 20260226075600
+  - time: 20260225075600
     name: 开水
     amount: 200
     unit: ml
-  - time: 20260226085500
+  - time: 20260225085500
     name: 开水
     amount: 250
     unit: ml
-  - time: 20260226094800
+  - time: 20260225094800
     name: 咖啡
     amount: 100.0
     unit: ml
-  - time: 20260226101600
+  - time: 20260225101600
     name: 红茶
     amount: 250
     unit: ml
-  - time: 20260226110900
+  - time: 20260225110900
     name: 红茶
     amount: 250
     unit: ml
-  - time: 20260226115200
+  - time: 20260225115200
     name: 红茶
     amount: 250
     unit: ml
-  - time: 20260226122500
+  - time: 20260225122500
     name: 红茶
     amount: 250
     unit: ml
-  - time: 20260226131800
+  - time: 20260225131800
     name: 红茶
     amount: 250
     unit: ml
-  - time: 20260226184200
+  - time: 20260225184200
     name: 可可奶
     amount: 100.0
     unit: ml
-  - time: 20260226195500
+  - time: 20260225195500
     name: 红茶
     amount: 250
     unit: ml
 med:
-  - time: 20260226094800
+  - time: 20260225094800
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
-  - time: 20260226101600
+  - time: 20260225101600
     name: selenium
     amount: 200
     unit: μg
-  - time: 20260226101600
+  - time: 20260225101600
     name: mature multi
     amount: 1
     unit: 片
