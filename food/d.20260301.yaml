@@ -1,167 +1,144 @@
-date: 20260302
+date: 20260301
 food:
-  - time: 20260302110900
+  - time: 20260301110900
     name: 释迦果
-    amount: 110
+    amount: 111.5
     unit: g
-
-  - time: 20260302111300
+  - time: 20260301111300
     name: 萝卜糕2602b
-    amount: 200
+    amount: 200.5
     unit: g
-  - time: 20260302111300
+  - time: 20260301111300
     name: 兰小糯糯玉米
-    amount: 115
+    amount: 118.5
     unit: g
-  - time: 20260302111300
+  - time: 20260301111300
     name: 南瓜
-    amount: 65
+    amount: 65.5
     unit: g
-  - time: 20260302111300
-    name: 芦笋
-    amount: 150
+  - time: 20260301111300
+    name: 西兰花
+    amount: 169.5
     unit: g
-
-  - time: 20260302114000
+  - time: 20260301114000
     name: 麦胚芽
     amount: 15.0
     unit: g
-  - time: 20260302114000
+  - time: 20260301114000
     name: 亚麻籽粉
     amount: 10.0
     unit: g
-  - time: 20260302114000
+  - time: 20260301114000
     name: 浙梅免洗桑葚
     amount: 10.0
     unit: g
-
-  - time: 20260302115100
+  - time: 20260301115100
     name: 河套纯牛奶粉
     amount: 25.5
     unit: g
-  - time: 20260302115100
+  - time: 20260301115100
     name: 景兰冻干黑咖啡
     amount: 1.5
     unit: g
-
-  - time: 20260302180800
+  - time: 20260301180800
     name: 番茄酱
     amount: 25.0
     unit: g
-  - time: 20260302180800
+  - time: 20260301180800
     name: 戈壁密码有机沙棘原浆
     amount: 25.5
     unit: g
-  - time: 20260302180800
+  - time: 20260301180800
     name: 菊粉
-    amount: 12.0
+    amount: 7.0
     unit: g
-
-  - time: 20260302180900
+  - time: 20260301180900
     name: 苹果
-    amount: 170
+    amount: 176.0
     unit: g
-
-  - time: 20260302181500
-    name: 一品寒香大米
-    amount: 50
+  - time: 20260301181500
+    name: 土豆
+    amount: 275.0
     unit: g
-  - time: 20260302181500
-    name: 高粱米
-    amount: 10
-    unit: g
-  - time: 20260302181500
-    name: 红豆
-    amount: 10
-    unit: g
-  - time: 20260302181500
-    name: 绿豆
-    amount: 10
-    unit: g
-  - time: 20260302181500
+  - time: 20260301181500
     name: 腌鸡腿肉2602b
-    amount: 100
+    amount: 140.0
     unit: g
-  - time: 20260302181500
-    name: 油菜
-    amount: 200
+  - time: 20260301181500
+    name: 西兰花
+    amount: 236.0
     unit: g
-  - time: 20260302181500
+  - time: 20260301181500
     name: 中盐绿色低钠湖盐
-    amount: 1.0
+    amount: 1.5
     unit: g
-  - time: 20260302181500
+  - time: 20260301181500
     name: 欧丽薇兰橄榄油
     amount: 0.5
     unit: g
-
-  - time: 20260302190000
-    name: 胡柚
-    amount: 150
-    unit: g
-  - time: 20260302190000
+  - time: 20260301190000
     name: 河套纯牛奶粉
     amount: 25.5
     unit: g
-  - time: 20260302190000
+  - time: 20260301190000
     name: 品儿Piner天然可可粉
-    amount: 3.0
+    amount: 3.5
     unit: g
 water:
-  - time: 20260302092400
+  - time: 20260301092400
     name: 开水
     amount: 200
     unit: ml
-  - time: 20260302105200
+  - time: 20260301105200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20260302115100
+  - time: 20260301115100
     name: 咖啡
     amount: 100.5
     unit: ml
-  - time: 20260302120900
+  - time: 20260301120900
     name: 红茶
     amount: 250
     unit: ml
-  - time: 20260302125300
+  - time: 20260301125300
     name: 红茶
     amount: 250
     unit: ml
-  - time: 20260302131900
+  - time: 20260301131900
     name: 红茶
     amount: 250
     unit: ml
-  - time: 20260302134400
+  - time: 20260301134400
     name: 红茶
     amount: 250
     unit: ml
-  - time: 20260302143600
+  - time: 20260301143600
     name: 红茶
     amount: 250
     unit: ml
-  - time: 20260302151100
+  - time: 20260301151100
     name: 红茶
     amount: 250
     unit: ml
-  - time: 20260302190000
+  - time: 20260301190000
     name: 可可奶
     amount: 100.0
     unit: ml
-  - time: 20260302192500
+  - time: 20260301192500
     name: 红茶
     amount: 250
     unit: ml
 med:
-  - time: 20260302115100
+  - time: 20260301115100
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
-  - time: 20260302120900
+  - time: 20260301120900
     name: selenium
     amount: 200
     unit: μg
-  - time: 20260302120900
+  - time: 20260301120900
     name: mature multi
     amount: 1
     unit: 片
