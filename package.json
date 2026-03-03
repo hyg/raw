@@ -2,9 +2,10 @@
   "dependencies": {
     "commander": "^12.1.0",
     "convert-units": "^2.3.4",
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.1.0",
+    "mqtt": "^5.15.0"
   },
-  "scripts":{
+  "scripts": {
     "over": "git add . && git commit -m \"day over\" && git push all",
     "overs": "git add . && git commit -m \"day over\" && git push alls"
   }
