@@ -34,6 +34,7 @@ element:
     amount: 30
     unit: "mg"
     nrv: 3.0
+comment:    
   胡萝卜素:
     amount: 0.01
     unit: "mg"

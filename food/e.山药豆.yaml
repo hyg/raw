@@ -30,10 +30,6 @@ element:
     amount: 20
     unit: μg
     nrv: 5
-  胡萝卜素:
-    amount: 24
-    unit: μg
-    nrv: 4
   镁:
     amount: 19
     unit: mg
@@ -93,4 +89,9 @@ element:
   VE(生育酚):
     amount: 0.6
     unit: mg
+    nrv: 4
+comment:
+  胡萝卜素:
+    amount: 24
+    unit: μg
     nrv: 4

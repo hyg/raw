@@ -1,0 +1,84 @@
+name: 柑橘
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 51
+    unit: kcal
+    nrv: 2.49
+  蛋白质:
+    amount: 0.7
+    unit: g
+    nrv: 0.78
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0.35
+  碳水化合物:
+    amount: 11.9
+    unit: g
+    nrv: 4.04
+  VA(视黄醇等):
+    amount: 148
+    unit: μg
+    nrv: 19.22
+  VE(生育酚):
+    amount: 0.92
+    unit: mg
+    nrv: 6.57
+  VB1(硫胺素):
+    amount: 0.08
+    unit: mg
+    nrv: 5.71
+  VB2(核黄素):
+    amount: 0.04
+    unit: mg
+    nrv: 2.86
+  VB3(烟酸):
+    amount: 0.4
+    unit: mg
+    nrv: 2.67
+  VC(抗坏血酸):
+    amount: 28
+    unit: mg
+    nrv: 28
+  磷:
+    amount: 18
+    unit: mg
+    nrv: 2.54
+  钙:
+    amount: 35
+    unit: mg
+    nrv: 4.38
+  铁:
+    amount: 0.2
+    unit: mg
+    nrv: 1.67
+  钠:
+    amount: 1
+    unit: mg
+    nrv: 0.07
+  钾:
+    amount: 154
+    unit: mg
+    nrv: 7.7
+  镁:
+    amount: 11
+    unit: mg
+    nrv: 3.44
+  锌:
+    amount: 0.08
+    unit: mg
+    nrv: 0.67
+  硒:
+    amount: 0.3
+    unit: μg
+    nrv: 0.5
+  铜:
+    amount: 0.04
+    unit: mg
+    nrv: 5
+  锰:
+    amount: 0.14
+    unit: mg
+    nrv: 3.11

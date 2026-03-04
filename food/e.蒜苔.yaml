@@ -50,10 +50,6 @@ element:
     amount: 276
     unit: mg
     nrv: 14
-  胡萝卜素:
-    amount: 0
-    unit: μg
-    nrv: 0
   硒:
     amount: 0.8
     unit: μg

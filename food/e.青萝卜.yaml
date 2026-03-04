@@ -26,10 +26,6 @@ element:
     amount: 22.0
     unit: mg
     nrv: 24.4
-  胡萝卜素:
-    amount: 0.01
-    unit: mg
-    nrv: 0.1
   钙:
     amount: 32.0
     unit: mg
@@ -42,3 +38,8 @@ element:
     amount: 220
     unit: mg
     nrv: 11.0
+comment:
+  胡萝卜素:
+    amount: 0.01
+    unit: mg
+    nrv: 0.1

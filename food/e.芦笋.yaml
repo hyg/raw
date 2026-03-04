@@ -38,6 +38,7 @@ element:
     amount: 25
     unit: "mg"
     nrv: 2.5
+comment:
   胡萝卜素:
     amount: 0.21
     unit: "mg"

@@ -22,10 +22,6 @@ element:
     amount: 1
     unit: g
     nrv: 3.33
-  胡萝卜素:
-    amount: 70
-    unit: μg
-    nrv: 0
   VA(视黄醇等):
     amount: 12
     unit: μg
@@ -86,3 +82,8 @@ element:
     amount: 40
     unit: μg
     nrv: 5
+comment:
+  胡萝卜素:
+    amount: 70
+    unit: μg
+    nrv: 0

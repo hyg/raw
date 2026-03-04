@@ -25,7 +25,7 @@ element:
   胡萝卜素:
     amount: 2667
     unit: μg
-    nrv: 0
+    nrv: 333
   钙:
     amount: 40
     unit: mg

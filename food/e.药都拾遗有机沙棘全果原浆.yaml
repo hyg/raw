@@ -1,0 +1,35 @@
+name: 药都拾遗有机沙棘全果原浆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 391
+    unit: kj
+    nrv: 5
+  蛋白质:
+    amount: 1.0
+    unit: g
+    nrv: 2
+  脂肪:
+    amount: 5.6
+    unit: g
+    nrv: 9
+  碳水化合物:
+    amount: 9.8
+    unit: g
+    nrv: 3
+  钠:
+    amount: 50
+    unit: mg
+    nrv: 3
+  VC(抗坏血酸):
+    amount: 37.0
+    unit: mg
+    nrv: 37
+comment:
+  原花青素:
+    amount: 66.9
+    unit: mg
+  总黄酮:
+    amount: 91.91
+    unit: mg

@@ -22,10 +22,6 @@ element:
     amount: 1.5
     unit: g
     nrv: 5
-  胡萝卜素:
-    amount: 2.8
-    unit: mg
-    nrv: 77.8
   VB2(核黄素):
     amount: 0.31
     unit: mg
@@ -54,3 +50,8 @@ element:
     amount: 3.2
     unit: mg
     nrv: 26.7
+comment:
+  胡萝卜素:
+    amount: 2.8
+    unit: mg
+    nrv: 77.8

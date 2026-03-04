@@ -46,10 +46,6 @@ element:
     amount: 2.8
     unit: mg
     nrv: 3
-  胡萝卜素:
-    amount: 16
-    unit: μg
-    nrv: 2
   VB9(叶酸):
     amount: 7
     unit: μg
@@ -66,3 +62,8 @@ element:
     amount: 0.1
     unit: μg
     nrv: 0
+comment:
+  胡萝卜素:
+    amount: 16
+    unit: μg
+    nrv: 2

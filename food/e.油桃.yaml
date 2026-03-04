@@ -94,6 +94,7 @@ element:
     amount: 0.10
     unit: mg
     nrv: 2
+comment:
   胡萝卜素:
     amount: 114
     unit: μg

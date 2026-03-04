@@ -34,10 +34,6 @@ element:
     amount: 0.57
     unit: mg
     nrv: 4
-  胡萝卜素:
-    amount: 180
-    unit: μg
-    nrv: 2
   镁:
     amount: 10
     unit: mg
@@ -58,3 +54,8 @@ element:
     amount: 3
     unit: mg
     nrv: 0
+comment:
+  胡萝卜素:
+    amount: 180
+    unit: μg
+    nrv: 2

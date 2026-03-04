@@ -43,10 +43,6 @@ element:
     amount: 4
     unit: μg
     nrv: 0
-  胡萝卜素:
-    amount: 23
-    unit: μg
-    nrv: 0
   VE(生育酚):
     amount: 0.3
     unit: mg
@@ -87,3 +83,8 @@ element:
     amount: 28
     unit: mg
     nrv: 31
+comment:
+  胡萝卜素:
+    amount: 23
+    unit: μg
+    nrv: 0
