@@ -1,33 +1,32 @@
 date: 20260305
 food:
-  - time: 20260305075300
+  - time: 20260305095600
     name: 释迦果
-    amount: 140
+    amount: 131.0
     unit: g
-
-  - time: 20260305075700
+  - time: 20260305100100
     name: 萝卜糕2602b
-    amount: 180
+    amount: 172.0
     unit: g
-  - time: 20260305075700
+  - time: 20260305100100
     name: 兰小糯糯玉米
-    amount: 112.0
+    amount: 109.5
     unit: g
-  - time: 20260305075700
+  - time: 20260305100100
     name: 南瓜
-    amount: 75
+    amount: 88.5
     unit: g
-  - time: 20260305075700
+  - time: 20260305100100
     name: 芦笋
-    amount: 100.0
+    amount: 75.0
     unit: g
-  - time: 20260305075700
+  - time: 20260305100100
     name: 西兰苔
-    amount: 120
+    amount: 85.0
     unit: g
-  - time: 20260305075700
+  - time: 20260305100100
     name: 十三村原味腐乳
-    amount: 9.0
+    amount: 8.0
     unit: g
 
   - time: 20260305082300
@@ -109,22 +108,23 @@ food:
     amount: 3.0
     unit: g
 water:
-  - time: 20260305062000
+  - time: 20260305082800
     name: 开水
     amount: 200
     unit: ml
-  - time: 20260305073300
+  - time: 20260305094400
     name: 开水
     amount: 250
     unit: ml
   - time: 20260305083500
     name: 咖啡
-    amount: 101.0
+    amount: 100.0
     unit: ml
   - time: 20260305091200
     name: 红茶
     amount: 250
     unit: ml
+
   - time: 20260305094500
     name: 红茶
     amount: 250
@@ -154,10 +154,6 @@ med:
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
-  - time: 20260305091200
-    name: 维生素D3
-    amount: 125
-    unit: μg
   - time: 20260305091200
     name: selenium
     amount: 200

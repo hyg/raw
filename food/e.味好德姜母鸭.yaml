@@ -1,0 +1,24 @@
+name: 味好德姜母鸭
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 978
+    unit: kj
+    nrv: 12
+  蛋白质:
+    amount: 20.5
+    unit: g
+    nrv: 34
+  脂肪:
+    amount: 16.7
+    unit: g
+    nrv: 28
+  碳水化合物:
+    amount: 0.7
+    unit: g
+    nrv: 0
+  钠:
+    amount: 960
+    unit: mg
+    nrv: 48
