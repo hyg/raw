@@ -1,6 +1,6 @@
 date: 20260304
 sleep: 
-  time: 20260306002400
+  time: 20260305002400
   weight: 55.8
 wake:
   time: 20260304081900
@@ -32,20 +32,6 @@ exercise:
   endheartrate: 110
   log: |
     室内运动后把脉: 关脉中偏浅、尺脉寸脉深度深；侧向居中；三处脉清晰有力。
-- time: 20260304610000
-  item:
-  - type: walk
-    amount: 180
-    unit: minute
-  SpO2: 96
-  PRbpm: 115
-- time: 20260304230000
-  item:
-  - type: 臀腰激活L2
-    amount: 14
-    unit: minute
-  SpO2: 97
-  PRbpm: 87
 stool:
 - time: 20260304111800
   amount:   2   #	1:多; 2:适中;	3:少
