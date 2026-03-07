@@ -1,0 +1,170 @@
+date: 20260307
+food:
+  - time: 20260307121200
+    name: 释迦果
+    amount: 99.0
+    unit: g
+  - time: 20260307121700
+    name: 柑橘
+    amount: 102.0
+    unit: g
+  - time: 20260307122000
+    name: 苏贝尔新疆拉条子挂面
+    amount: 100.0
+    unit: g
+  - time: 20260307122000
+    name: 客道爽脆腰花
+    amount: 234.5
+    unit: g
+  - time: 20260307122000
+    name: 油菜
+    amount: 95.5
+    unit: g
+  - time: 20260307124000
+    name: 凤城鸡仔饼
+    amount: 14.5
+    unit: g
+  - time: 20260307124000
+    name: 新疆手工切糕
+    amount: 38.5
+    unit: g
+  - time: 20260307124000
+    name: 徽韵棠原味黄山烧饼
+    amount: 24.0
+    unit: g
+  - time: 20260307124000
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20260307124000
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20260307124000
+    name: 浙梅免洗桑葚
+    amount: 10.0
+    unit: g
+  - time: 20260307125000
+    name: 河套纯牛奶粉
+    amount: 25.5
+    unit: g
+  - time: 20260307125000
+    name: 景兰冻干黑咖啡
+    amount: 1.5
+    unit: g
+  - time: 20260307225500
+    name: 番茄酱
+    amount: 25.5
+    unit: g
+  - time: 20260307225500
+    name: 药都拾遗有机沙棘全果原浆
+    amount: 27.0
+    unit: g
+  - time: 20260307225500
+    name: 菊粉
+    amount: 15.0
+    unit: g
+  - time: 20260307225700
+    name: 人参果
+    amount: 173.0
+    unit: g
+  - time: 20260307230000
+    name: 湾仔码头黑芝麻香糯汤圆
+    amount: 265.5
+    unit: g
+  - time: 20260307230000
+    name: 枸杞
+    amount: 6.5
+    unit: g
+  - time: 20260307230000
+    name: 姜
+    amount: 8.0
+    unit: g
+  - time: 20260307115100
+    name: 油菜
+    amount: 219.0
+    unit: g
+  - time: 20260307115100
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20260307115100
+    name: 欧丽薇兰橄榄油
+    amount: 0.5
+    unit: g
+  - time: 20260308001800
+    name: 河套纯牛奶粉
+    amount: 25.0
+    unit: g
+  - time: 20260308001800
+    name: 品儿Piner天然可可粉
+    amount: 3.0
+    unit: g
+water:
+  - time: 20260307102300
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20260307114500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260307122000
+    name: 汤水
+    amount: 500
+    unit: ml
+  - time: 20260307125000
+    name: 咖啡
+    amount: 104.5
+    unit: ml
+  - time: 20260307135100
+    name: 红茶
+    amount: 250
+    unit: ml
+  - time: 20260307142200
+    name: 红茶
+    amount: 250
+    unit: ml
+  - time: 20260307153100
+    name: 红茶
+    amount: 250
+    unit: ml
+  - time: 20260307163000
+    name: 红茶
+    amount: 250
+    unit: ml
+  - time: 20260307172600
+    name: 红茶
+    amount: 250
+    unit: ml
+  - time: 20260307185100
+    name: 红茶
+    amount: 250
+    unit: ml
+  - time: 20260307230000
+    name: 汤水
+    amount: 350
+    unit: ml
+  - time: 20260308001800
+    name: 可可奶
+    amount: 100.0
+    unit: ml
+med:
+  - time: 20260307125000
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20260307135100
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20260307135100
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20260307135100
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
