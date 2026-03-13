@@ -78,6 +78,7 @@ element:
     amount: 34.63
     unit: μg
     nrv: 49.54
+comment:
   胆固醇:
     amount: 82
     unit: mg

@@ -14,10 +14,6 @@ element:
     amount: 200
     unit: mg
     nrv: 0
-  胆固醇:
-    amount: 94
-    unit: mg
-    nrv: 31.33
   热量:
     amount: 240
     unit: kcal
@@ -54,3 +50,8 @@ element:
     amount: 12.25
     unit: μg
     nrv: 24.5
+comment:
+  胆固醇:
+    amount: 94
+    unit: mg
+    nrv: 31.33

@@ -14,10 +14,6 @@ element:
     amount: 3.9
     unit: g
     nrv: 0
-  胆固醇:
-    amount: 390
-    unit: mg
-    nrv: 130
   碳水化合物:
     amount: 3.1
     unit: g
@@ -58,3 +54,8 @@ element:
     amount: 180
     unit: kcal
     nrv: 9
+comment:
+  胆固醇:
+    amount: 390
+    unit: mg
+    nrv: 130

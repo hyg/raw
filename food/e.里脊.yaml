@@ -18,10 +18,6 @@ element:
     amount: 49
     unit: mg
     nrv: 3.5
-  胆固醇:
-    amount: 85
-    unit: mg
-    nrv: 28
   钙:
     amount: 6
     unit: mg
@@ -78,3 +74,8 @@ element:
     amount: 0.4
     unit: mg
     nrv: 6
+comment:
+  胆固醇:
+    amount: 85
+    unit: mg
+    nrv: 28

@@ -42,10 +42,6 @@ element:
     amount: 0.19
     unit: mg
     nrv: 2
-  胆固醇:
-    amount: 0
-    unit: mg
-    nrv: 0
   钾:
     amount: 276
     unit: mg
@@ -86,3 +82,8 @@ element:
     amount: 0.15
     unit: mg
     nrv: 8
+comment:
+  胆固醇:
+    amount: 0
+    unit: mg
+    nrv: 0

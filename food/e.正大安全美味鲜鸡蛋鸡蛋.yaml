@@ -22,10 +22,6 @@ element:
     amount: 130
     unit: mg
     nrv: 6
-  胆固醇:
-    amount: 585
-    unit: mg
-    nrv: 195
   VB1(硫胺素):
     amount: 500
     unit: mg
@@ -74,3 +70,8 @@ element:
     amount: 13.83
     unit: μg
     nrv: 27.66
+comment:
+  胆固醇:
+    amount: 585
+    unit: mg
+    nrv: 195

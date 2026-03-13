@@ -10,10 +10,6 @@ element:
     amount: 23.3
     unit: g
     nrv: 38.83
-  胆固醇:
-    amount: 65
-    unit: mg
-    nrv: 21.67
   钙:
     amount: 500
     unit: mg
@@ -50,3 +46,8 @@ element:
     amount: 220
     unit: kcal
     nrv: 11
+comment:
+  胆固醇:
+    amount: 65
+    unit: mg
+    nrv: 21.67

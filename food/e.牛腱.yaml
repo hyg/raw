@@ -18,10 +18,6 @@ element:
     amount: 2.2
     unit: g
     nrv: 0.7
-  胆固醇:
-    amount: 54
-    unit: mg
-    nrv: 18
   VA(视黄醇等):
     amount: 3
     unit: μg
@@ -70,3 +66,8 @@ element:
     amount: 85.3
     unit: mg
     nrv: 4.26
+comment:
+  胆固醇:
+    amount: 54
+    unit: mg
+    nrv: 18

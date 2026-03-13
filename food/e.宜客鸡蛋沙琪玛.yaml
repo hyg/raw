@@ -1,0 +1,24 @@
+name: 宜客鸡蛋沙琪玛沙琪玛
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2364
+    unit: kj
+    nrv: 28
+  蛋白质:
+    amount: 8.0
+    unit: g
+    nrv: 13
+  脂肪:
+    amount: 34.4
+    unit: g
+    nrv: 57
+  碳水化合物:
+    amount: 56.2
+    unit: g
+    nrv: 19
+  钠:
+    amount: 86
+    unit: mg
+    nrv: 4
