@@ -1,0 +1,36 @@
+name: 嘉罗螺旋意面
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1434
+    unit: kj
+    nrv: 17
+  蛋白质:
+    amount: 12.0
+    unit: g
+    nrv: 20
+  脂肪:
+    amount: 2.0
+    unit: g
+    nrv: 3
+  碳水化合物:
+    amount: 68.0
+    unit: g
+    nrv: 23
+  钠:
+    amount: 12
+    unit: mg
+    nrv: 1
+  膳食纤维:
+    amount: 3.0
+    unit: g
+    nrv: 12
+comment:
+  饱和脂肪:
+    amount: 0.5
+    unit: g
+    nrv: 3
+  糖:
+    amount: 3.5
+    unit: g
