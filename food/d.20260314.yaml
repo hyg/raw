@@ -13,13 +13,18 @@ food:
     amount: 100.0
     unit: g
   - time: 20260314145600
-    name: 味好德姜母鸭
-    amount: 155.5
+    name: 羊蝎子
+    amount: 150
+    unit: g
+  - time: 20260314145600
+    name: 双笑咸山黄皮果
+    amount: 15
     unit: g
   - time: 20260314145600
     name: 菜心
     amount: 68.0
     unit: g
+
   - time: 20260314152100
     name: 凤城鸡仔饼
     amount: 15.0

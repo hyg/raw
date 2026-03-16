@@ -1,0 +1,78 @@
+name: 羊肉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 203
+    unit: kcal
+    nrv: 9.9
+  蛋白质:
+    amount: 19
+    unit: g
+    nrv: 21.18
+  脂肪:
+    amount: 14.1
+    unit: g
+    nrv: 24.76
+  VA(视黄醇等):
+    amount: 22
+    unit: μg
+    nrv: 2.86
+  VE(生育酚):
+    amount: 0.26
+    unit: mg
+    nrv: 1.86
+  VB1(硫胺素):
+    amount: 0.05
+    unit: mg
+    nrv: 3.57
+  VB2(核黄素):
+    amount: 0.14
+    unit: mg
+    nrv: 10
+  VB3(烟酸):
+    amount: 4.5
+    unit: mg
+    nrv: 30
+  磷:
+    amount: 146
+    unit: mg
+    nrv: 20.56
+  钙:
+    amount: 6
+    unit: mg
+    nrv: 0.75
+  铁:
+    amount: 2.3
+    unit: mg
+    nrv: 19.17
+  钠:
+    amount: 81
+    unit: mg
+    nrv: 5.4
+  钾:
+    amount: 232
+    unit: mg
+    nrv: 11.6
+  镁:
+    amount: 20
+    unit: mg
+    nrv: 6.25
+  锌:
+    amount: 3.22
+    unit: mg
+    nrv: 26.83
+  硒:
+    amount: 32.2
+    unit: μg
+    nrv: 53.67
+  铜:
+    amount: 0.75
+    unit: mg
+    nrv: 93.75
+  锰:
+    amount: 0.02
+    unit: mg
+    nrv: 0.44
+comment:
+  - https://www.eshian.com/sat/yyss/detail/LXMjAyNi0wMy0xNg==/1869
