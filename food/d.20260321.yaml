@@ -1,0 +1,166 @@
+date: 20260321
+food:
+  - time: 20260321132600
+    name: 柑橘
+    amount: 85.5
+    unit: g
+  - time: 20260321132900
+    name: 苏贝尔新疆拉条子挂面
+    amount: 100.0
+    unit: g
+  - time: 20260321132900
+    name: 炖羊蝎子2603a
+    amount: 73.0
+    unit: g
+  - time: 20260321132900
+    name: 西兰花
+    amount: 134.0
+    unit: g
+  - time: 20260321134900
+    name: 凤城鸡仔饼
+    amount: 15.5
+    unit: g
+  - time: 20260321134900
+    name: 宜客鸡蛋沙琪玛
+    amount: 41.0
+    unit: g
+  - time: 20260321134900
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20260321134900
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20260321134900
+    name: 浙梅免洗桑葚
+    amount: 10.0
+    unit: g
+  - time: 20260321140000
+    name: 奶粉
+    amount: 30.0
+    unit: g
+  - time: 20260321140000
+    name: 景兰冻干黑咖啡
+    amount: 1.5
+    unit: g
+  - time: 20260321204600
+    name: 番茄酱
+    amount: 27.0
+    unit: g
+  - time: 20260321204600
+    name: 药都拾遗有机沙棘全果原浆
+    amount: 28.0
+    unit: g
+  - time: 20260321204600
+    name: 菊粉
+    amount: 15.0
+    unit: g
+  - time: 20260321204700
+    name: 人参果
+    amount: 196.0
+    unit: g
+  - time: 20260321205100
+    name: 蛋糕2603a
+    amount: 98.0
+    unit: g
+  - time: 20260321205100
+    name: 馒头2603a
+    amount: 1
+    unit: 个
+  - time: 20260321205100
+    name: 兔肉
+    amount: 208.0
+    unit: g
+    log:
+      - 和馒头一起蒸
+      - 上下火、下层、180°C+10分钟。
+      - 上下火、上层、翻面、180°C+5分钟。
+  - time: 20260321205100
+    name: 东古叉烧酱
+    amount: 20.5
+    unit: g
+  - time: 20260321115100
+    name: 小白菜
+    amount: 241.0
+    unit: g
+  - time: 20260321115100
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20260321115100
+    name: 欧丽薇兰橄榄油
+    amount: 0.5
+    unit: g
+  - time: 20260321212300
+    name: 胡柚
+    amount: 293.0
+    unit: g
+  - time: 20260321213600
+    name: 山悠农乡蒜香花生
+    amount: 16.0
+    unit: g
+  - time: 20260321220000
+    name: 河套纯牛奶粉
+    amount: 25.5
+    unit: g
+  - time: 20260321220000
+    name: 品儿Piner天然可可粉
+    amount: 3.0
+    unit: g
+water:
+  - time: 20260321115400
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20260321125700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260321132900
+    name: 汤水
+    amount: 600
+    unit: ml
+  - time: 20260321140000
+    name: 咖啡
+    amount: 120.0
+    unit: ml
+  - time: 20260321150200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260321154900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260321173600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260321182400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260321220000
+    name: 可可奶
+    amount: 120.0
+    unit: ml
+med:
+  - time: 20260321140000
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20260321150200
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20260321150200
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20260321150200
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
