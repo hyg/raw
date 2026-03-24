@@ -1,0 +1,159 @@
+# 每日食物摄入日志 Schema
+# 文件位置：food/d.yyyymmdd.yaml
+# 说明：记录每日食物、饮水、补充剂摄入情况
+
+$schema: http://json-schema.org/draft-07/schema#
+type: object
+required:
+  - date
+  - food
+
+properties:
+  # 日期，格式 YYYYMMDD
+  date:
+    type: integer
+    description: 日期，格式为 YYYYMMDD 的 8 位数字
+    examples:
+      - 20260323
+      - 20150401
+
+  # 食物摄入记录
+  food:
+    type: array
+    description: 食物摄入记录列表
+    items:
+      type: object
+      required:
+        - time
+        - name
+        - amount
+        - unit
+      properties:
+        # 摄入时间，格式 YYYYMMDDHHMMSS
+        time:
+          type: integer
+          description: 摄入时间，格式为 YYYYMMDDHHMMSS 的 14 位数字
+          examples:
+            - 20260323113400  # 2026-03-23 11:34:00
+            - 20150401062500  # 2015-04-01 06:25:00
+
+        # 食物名称，对应 e.xxx.yaml 文件名（不含前缀和扩展名）
+        name:
+          type: string
+          description: 食物名称，引用食材营养数据文件的名称
+          examples:
+            - 馒头 2603a
+            - 炖羊蝎子 2603a
+            - 大米
+            - 菠菜
+
+        # 摄入数量
+        amount:
+          type: number
+          description: 摄入数量
+          examples:
+            - 104.0
+            - 1
+            - 73.0
+
+        # 单位
+        unit:
+          type: string
+          description: 计量单位
+          enum:
+            - g      # 克
+            - kg     # 千克
+            - ml     # 毫升
+            - L      # 升
+            - 个     # 个
+            - 片     # 片
+            - 碗     # 碗
+            - 杯     # 杯
+            - 勺     # 勺
+          examples:
+            - g
+            - 个
+            - ml
+
+  # 饮水记录
+  water:
+    type: array
+    description: 饮水记录列表
+    items:
+      type: object
+      required:
+        - time
+        - name
+        - amount
+        - unit
+      properties:
+        time:
+          type: integer
+          description: 饮水时间，格式为 YYYYMMDDHHMMSS
+        name:
+          type: string
+          description: 饮品名称
+          examples:
+            - 开水
+            - 龙井茶
+            - 咖啡
+            - 可可奶
+            - 汤水
+        amount:
+          type: number
+          description: 饮用量
+        unit:
+          type: string
+          enum:
+            - ml
+            - L
+
+  # 补充剂/药物记录
+  med:
+    type: array
+    description: 补充剂/药物记录列表
+    items:
+      type: object
+      required:
+        - time
+        - name
+        - amount
+        - unit
+      properties:
+        time:
+          type: integer
+          description: 服用时间，格式为 YYYYMMDDHHMMSS
+        name:
+          type: string
+          description: 补充剂/药物名称
+          examples:
+            - 楚牛牛磺酸
+            - selenium
+            - mature multi
+            - 维生素 D3
+        amount:
+          type: number
+          description: 服用量
+        unit:
+          type: string
+          description: 计量单位
+          examples:
+            - g
+            - μg
+            - mg
+            - 片
+
+  # 日志文本（可选）
+  log:
+    type: string
+    description: 当日日志备注，多行文本
+
+  # 评论文本（可选）
+  comment:
+    type: string
+    description: 当日评论，多行文本
+    examples:
+      - |
+          粗粮摄入良好
+          水摄入良好
+          蔬菜水果数量良好，种类略不足建议至少增加一种

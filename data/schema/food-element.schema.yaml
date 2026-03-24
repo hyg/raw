@@ -1,0 +1,156 @@
+# 食材营养成分数据 Schema
+# 文件位置：food/e.xxx.yaml
+# 说明：记录食材的营养成分数据或复合食材的配方
+
+$schema: http://json-schema.org/draft-07/schema#
+type: object
+required:
+  - name
+  - amount
+  - unit
+
+properties:
+  # 食材名称
+  name:
+    type: string
+    description: 食材名称，与文件名对应（e.xxx.yaml 中的 xxx）
+    examples:
+      - 大米
+      - 菠菜
+      - 鸡蛋
+      - 炖羊蝎子 2603a
+      - selenium
+
+  # 基准量
+  amount:
+    type: number
+    description: 营养成分计算的基准量
+    examples:
+      - 100    # 100g
+      - 200    # 200μg
+      - 1      # 1 片
+
+  # 单位
+  unit:
+    type: string
+    description: 基准量的单位
+    enum:
+      - g      # 克（最常见）
+      - mg     # 毫克
+      - μg     # 微克
+      - 片     # 片剂
+      - 粒     # 胶囊
+    examples:
+      - g
+      - μg
+      - 片
+
+  # 营养成分表（基础食材和补充剂）
+  element:
+    type: object
+    description: |
+      营养成分表。仅基础食材和补充剂有此字段。
+      复合食材（如炖菜、加工食品）可能没有此字段，而是使用 food 字段记录原料。
+    
+    additionalProperties:
+      type: object
+      description: 每种营养成分的详细信息
+      required:
+        - amount
+        - unit
+      properties:
+        amount:
+          type: number
+          description: 营养成分含量
+        unit:
+          type: string
+          description: 单位
+          examples:
+            - kj       # 千焦
+            - kcal     # 千卡
+            - g        # 克
+            - mg       # 毫克
+            - μg       # 微克
+        nrv:
+          type: number
+          description: 营养素参考值百分比（NRV%），表示该营养成分占每日推荐摄入量的百分比
+
+  # 原料列表（复合食材）
+  food:
+    type: array
+    description: |
+      复合食材的原料列表。仅复合食材（如炖菜、加工食品）有此字段。
+      例如：炖羊蝎子由羊肉、山黄皮果等原料制成。
+    items:
+      type: object
+      required:
+        - name
+        - amount
+        - unit
+      properties:
+        name:
+          type: string
+          description: 原料名称
+        amount:
+          type: number
+          description: 原料用量
+        unit:
+          type: string
+          description: 原料单位
+
+  # 制作日志（复合食材）
+  log:
+    type: array
+    description: 复合食材的制作过程记录
+    items:
+      type: string
+    examples:
+      - 羊蝎子带骨生重 480.0 克，带骨熟重 411.5 克.
+      - 羊蝎子加山黄皮在高压锅煮 40 分钟。
+      - 炖蝎子和汤汁移到密封罐冷却，浸泡着放到保鲜层待用。
+
+  # 评论/备注
+  comment:
+    oneOf:
+      # 类型 1：营养成分补充说明（用于扩展 element 中未包含的营养成分）
+      - type: object
+        description: |
+          营养成分补充说明。当 comment 为对象类型时，用于记录额外的营养成分，
+          如胆固醇、饱和脂肪、糖等，这些成分在 element 中可能未列出。
+        additionalProperties:
+          type: object
+          properties:
+            amount:
+              type: number
+            unit:
+              type: string
+            nrv:
+              type: number
+        examples:
+          胆固醇:
+            amount: 585
+            unit: mg
+            nrv: 195
+          饱和脂肪:
+            amount: 14.0
+            unit: g
+            nrv: 23
+          单不饱和脂肪:
+            amount: 79.0
+            unit: g
+            nrv: 132
+          糖:
+            amount: 3.5
+            unit: g
+
+      # 类型 2：文本评论（用于复合食材的口感、食用建议等）
+      - type: array
+        description: |
+          文本评论。当 comment 为数组类型时，用于记录复合食材的口感描述、
+          食用建议、分量说明等文本信息。
+        items:
+          type: string
+        examples:
+          - 足够软烂，筋和骨髓都能吸到嘴里。
+          - 第一餐带骨熟重 113.5 克、骨重 40.5 克、肉重 73.0 克，骨重从总量中减去。
+          - 第二餐带骨熟重 116.0 克、骨重 59.0 克、肉重 57.0 克，骨重从总量中减去。

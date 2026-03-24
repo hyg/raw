@@ -1,0 +1,134 @@
+# 配餐目标数据 Schema
+# 文件位置：food/NRV.xxx.yaml
+# 说明：定义每日配餐目标的营养素推荐摄入量
+
+$schema: http://json-schema.org/draft-07/schema#
+type: object
+required:
+  - name
+  - DRIs
+  - element
+
+properties:
+  # 配餐目标名称
+  name:
+    type: string
+    description: |
+      配餐目标名称，与文件名对应（NRV.xxx.yaml 中的 xxx）。
+      命名规则：
+      - 数字命名：表示目标热量值（kcal），如 "1800"、"2000"
+      - 日期版本命名：YYYYMMx 格式，如 "202405a" 表示 2024 年 5 月第 a 版
+    examples:
+      - "1800"
+      - "2000"
+      - "202405a"
+      - "202409b"
+
+  # 膳食营养素参考摄入量标准
+  DRIs:
+    type: string
+    description: 采用的膳食营养素参考摄入量标准版本
+    examples:
+      - DRIforChina2023  # 《中国居民膳食营养素参考摄入量（2023 版）》
+
+  # 营养素目标值
+  element:
+    type: object
+    description: 各类营养素的目标摄入量
+    required:
+      - 热量
+      - 蛋白质
+      - 脂肪
+      - 碳水化合物
+      - 水
+    properties:
+      # 热量
+      热量:
+        type: object
+        description: 每日能量目标
+        required:
+          - amount
+          - unit
+        properties:
+          amount:
+            type: number
+            description: 热量目标值
+          unit:
+            type: string
+            enum:
+              - kcal  # 千卡
+              - kj    # 千焦
+
+      # 蛋白质
+      蛋白质:
+        type: object
+        description: 每日蛋白质目标
+        required:
+          - amount
+          - unit
+        properties:
+          amount:
+            type: number
+            description: 蛋白质目标值（克）
+          unit:
+            type: string
+            enum:
+              - g
+
+      # 脂肪
+      脂肪:
+        type: object
+        description: 每日脂肪目标
+        required:
+          - amount
+          - unit
+        properties:
+          amount:
+            type: number
+            description: 脂肪目标值（克）
+          unit:
+            type: string
+            enum:
+              - g
+
+      # 碳水化合物
+      碳水化合物:
+        type: object
+        description: 每日碳水化合物目标
+        required:
+          - amount
+          - unit
+        properties:
+          amount:
+            type: number
+            description: 碳水化合物目标值（克）
+          unit:
+            type: string
+            enum:
+              - g
+
+      # 水
+      水:
+        type: object
+        description: 每日水摄入目标
+        required:
+          - amount
+          - unit
+        properties:
+          amount:
+            type: number
+            description: 水摄入目标值
+          unit:
+            type: string
+            enum:
+              - ml
+              - L
+
+    additionalProperties:
+      type: object
+      description: 其他可选的营养素目标
+      properties:
+        amount:
+          type: number
+        unit:
+          type: string
