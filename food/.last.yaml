@@ -1,49 +1,46 @@
 date: 20260327
 food:
-  - time: 20260327122900
+  - time: 20260327132900
     name: 释迦果
-    amount: 90
+    amount: 130
     unit: g
-
-  - time: 20260327123300
+  - time: 20260327133300
     name: 馒头2603a
     amount: 1
     unit: 个
-  - time: 20260327123300
+  - time: 20260327133300
     name: 炖鲟鱼2603a
     amount: 93.0
     unit: g
-  - time: 20260327123300
+  - time: 20260327133300
     name: 枸杞
     amount: 5.0
     unit: g
-  - time: 20260327123300
+  - time: 20260327133300
     name: 西兰苔
     amount: 127.0
     unit: g
-  - time: 20260327123300
+  - time: 20260327133300
     name: 南瓜
     amount: 67.5
     unit: g
-
-  - time: 20260327125200
+  - time: 20260327135000
     name: 麦胚芽
     amount: 15.0
     unit: g
-  - time: 20260327125200
+  - time: 20260327135000
     name: 亚麻籽粉
     amount: 10.0
     unit: g
-  - time: 20260327125200
+  - time: 20260327135000
     name: 浙梅免洗桑葚
     amount: 10.0
     unit: g
-
-  - time: 20260327130400
+  - time: 20260327141400
     name: 奶粉
     amount: 30.0
     unit: g
-  - time: 20260327130400
+  - time: 20260327141400
     name: 景兰冻干黑咖啡
     amount: 1.5
     unit: g
@@ -133,7 +130,7 @@ water:
     amount: 250
     unit: ml
 
-  - time: 20260327130400
+  - time: 20260327141400
     name: 咖啡
     amount: 121.0
     unit: ml
@@ -158,7 +155,7 @@ water:
     amount: 50
     unit: ml
 med:
-  - time: 20260327130400
+  - time: 20260327141400
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
