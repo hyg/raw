@@ -1,0 +1,14 @@
+name: 腌梅花肉2603a
+amount: 424.0
+unit: g
+food:
+  - name: 梅花肉
+    amount: 354.5
+    unit: g
+  - name: 阑绪儿童新奥尔良烤翅腌料
+    amount: 32.5
+    unit: g
+log:
+  - 不预热、中层、上下火、190°C+15分钟
+  - 翻面、200°C+5分钟。
+comment:
