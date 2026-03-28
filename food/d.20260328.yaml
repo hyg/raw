@@ -1,0 +1,182 @@
+date: 20260328
+food:
+  - time: 20260328131900
+    name: 柑橘
+    amount: 90.0
+    unit: g
+  - time: 20260328132200
+    name: 苏贝尔新疆拉条子挂面
+    amount: 100.0
+    unit: g
+  - time: 20260328132200
+    name: 腌梅花肉2603a
+    amount: 72.5
+    unit: g
+  - time: 20260328132200
+    name: 西兰苔
+    amount: 117.0
+    unit: g
+  - time: 20260328132200
+    name: 中盐绿色低钠湖盐
+    amount: 1.5
+    unit: g
+  - time: 20260328132200
+    name: 味精
+    amount: 1.0
+    unit: g
+  - time: 20260328133900
+    name: 凤城鸡仔饼
+    amount: 15.0
+    unit: g
+  - time: 20260328133900
+    name: 宜客鸡蛋沙琪玛
+    amount: 39.5
+    unit: g
+  - time: 20260328133900
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20260328133900
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20260328133900
+    name: 浙梅免洗桑葚
+    amount: 10.0
+    unit: g
+  - time: 20260328135200
+    name: 奶粉
+    amount: 30.0
+    unit: g
+  - time: 20260328135200
+    name: 景兰冻干黑咖啡
+    amount: 1.5
+    unit: g
+  - time: 20260328184600
+    name: 番茄酱
+    amount: 23.0
+    unit: g
+  - time: 20260328184600
+    name: 药都拾遗有机沙棘全果原浆
+    amount: 23.5
+    unit: g
+  - time: 20260328184600
+    name: 菊粉
+    amount: 9.0
+    unit: g
+  - time: 20260328194800
+    name: 人参果
+    amount: 209.5
+    unit: g
+  - time: 20260328185300
+    name: 绿豆
+    amount: 20.0
+    unit: g
+  - time: 20260328185300
+    name: 汾都香红豆
+    amount: 40.0
+    unit: g
+  - time: 20260328185300
+    name: 海带
+    amount: 9.5
+    unit: g
+  - time: 20260328185300
+    name: 红糖
+    amount: 40.0
+    unit: g
+  - time: 20260328185300
+    name: 姜
+    amount: 5.0
+    unit: g
+  - time: 20260328185300
+    name: 维扬破碎油方
+    amount: 40.0
+    unit: g
+  - time: 20260328115100
+    name: 小白菜
+    amount: 189.0
+    unit: g
+  - time: 20260328115100
+    name: 中盐绿色低钠湖盐
+    amount: 1.5
+    unit: g
+  - time: 20260328115100
+    name: 欧丽薇兰橄榄油
+    amount: 0.5
+    unit: g
+  - time: 20260328191800
+    name: 胡柚
+    amount: 286.5
+    unit: g
+  - time: 20260328193400
+    name: 山悠农乡蒜香花生
+    amount: 6.0
+    unit: g
+  - time: 20260328201800
+    name: 河套纯牛奶粉
+    amount: 30.0
+    unit: g
+  - time: 20260328201800
+    name: 品儿Piner天然可可粉
+    amount: 3.0
+    unit: g
+water:
+  - time: 20260328112700
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20260328124400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260328132200
+    name: 汤水
+    amount: 500
+    unit: ml
+  - time: 20260328135200
+    name: 咖啡
+    amount: 120.0
+    unit: ml
+  - time: 20260328150400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260328154700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260328170300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260328185300
+    name: 汤水
+    amount: 300
+    unit: ml
+  - time: 20260328201800
+    name: 可可奶
+    amount: 120.0
+    unit: ml
+  - time: 20260328223200
+    name: 开水
+    amount: 50
+    unit: ml
+med:
+  - time: 20260328135200
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20260328150400
+    name: 维生素D3
+    amount: 125
+    unit: μg
+  - time: 20260328150400
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20260328150400
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
