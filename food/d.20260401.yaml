@@ -1,155 +1,160 @@
-date: 20260402
+date: 20260401
 food:
-  - time: 20260402124800
+  - time: 20260401124800
     name: 释迦果
     amount: 103.0
     unit: g
-
-  - time: 20260402125300
-    name: 苏贝尔新疆拉条子挂面
-    amount: 100
+  - time: 20260401125300
+    name: 馒头2603b
+    amount: 1
+    unit: 个
+  - time: 20260401125300
+    name: 广信酱油鲭鱼
+    amount: 54.0
     unit: g
-  - time: 20260402125300
-    name: 炖羊蝎子2604a
-    amount: 80
+  - time: 20260401125300
+    name: 韩三顺辣白菜
+    amount: 50.0
     unit: g
-  - time: 20260402125300
-    name: 菜心
-    amount: 100
+  - time: 20260401125300
+    name: 枸杞
+    amount: 5.0
     unit: g
-
-  - time: 20260402131100
+  - time: 20260401125300
+    name: 西兰苔
+    amount: 93.0
+    unit: g
+  - time: 20260401125300
+    name: 南瓜
+    amount: 78.5
+    unit: g
+  - time: 20260401131100
     name: 麦胚芽
     amount: 15.0
     unit: g
-  - time: 20260402131100
+  - time: 20260401131100
     name: 亚麻籽粉
     amount: 10.0
     unit: g
-  - time: 20260402131100
+  - time: 20260401131100
     name: 浙梅免洗桑葚
     amount: 10.0
     unit: g
-
-  - time: 20260402132300
+  - time: 20260401132300
     name: 奶粉
     amount: 30.0
     unit: g
-  - time: 20260402132300
+  - time: 20260401132300
     name: 景兰冻干黑咖啡
     amount: 1.5
     unit: g
-
-  - time: 20260402212100
+  - time: 20260401212100
     name: 番茄酱
-    amount: 25.0
+    amount: 28.0
     unit: g
-  - time: 20260402212100
+  - time: 20260401212100
     name: 药都拾遗有机沙棘全果原浆
-    amount: 25.0
+    amount: 24.0
     unit: g
-  - time: 20260402212100
+  - time: 20260401212100
     name: 菊粉
-    amount: 15.0
+    amount: 8.0
     unit: g
-
-  - time: 20260402212200
+  - time: 20260401212200
     name: 柑橘
-    amount: 105
+    amount: 116.0
     unit: g
-
-  - time: 20260402212600
+  - time: 20260401212600
     name: 一品寒香大米
-    amount: 55.0
+    amount: 60.0
     unit: g
-  - time: 20260402212600
+  - time: 20260401212600
     name: 高粱米
     amount: 10.0
     unit: g
-  - time: 20260402212600
+  - time: 20260401212600
     name: 汾都香红豆
     amount: 10.0
     unit: g
-  - time: 20260402212600
+  - time: 20260401212600
     name: 绿豆
     amount: 10.0
     unit: g
-  - time: 20260402212600
-    name: 鸡蛋
-    amount: 50
+  - time: 20260401212600
+    name: 腌梅花肉2603a
+    amount: 96.5
     unit: g
-  - time: 20260402212600
-    name: 维扬破碎油方
-    amount: 30
+  - time: 20260401212600
+    name: 木耳
+    amount: 10.5
     unit: g
-  - time: 20260402212600
+  - time: 20260401212600
     name: 菜心
-    amount: 230
+    amount: 230.5
     unit: g
-  - time: 20260402212600
+  - time: 20260401212600
     name: 中盐绿色低钠湖盐
     amount: 1.5
     unit: g
-  - time: 20260402212600
+  - time: 20260401212600
     name: 欧丽薇兰橄榄油
     amount: 0.5
     unit: g
-
-  - time: 20260402215600
+  - time: 20260401215600
     name: 奶粉
     amount: 30.0
     unit: g
-  - time: 20260402215600
+  - time: 20260401215600
     name: 品儿Piner天然可可粉
     amount: 3.0
     unit: g
 water:
-  - time: 20260402131100
+  - time: 20260401131100
     name: 开水
     amount: 200
     unit: ml
-  - time: 20260402122500
+  - time: 20260401122500
     name: 开水
     amount: 250
     unit: ml
-  - time: 20260402132300
+  - time: 20260401132300
     name: 咖啡
     amount: 120.0
     unit: ml
-  - time: 20260402121200
+  - time: 20260401121200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20260402164400
+  - time: 20260401164400
     name: 开水
     amount: 250
     unit: ml
-  - time: 20260402212600
+  - time: 20260401212600
     name: 开水
     amount: 250
     unit: ml
-  - time: 20260402194700
+  - time: 20260401194700
     name: 开水
     amount: 250
     unit: ml
-  - time: 20260402215600
+  - time: 20260401215600
     name: 可可奶
     amount: 120.0
     unit: ml
-  - time: 20260402223000
+  - time: 20260401223000
     name: 开水
     amount: 100
     unit: ml
 med:
-  - time: 20260402132300
+  - time: 20260401132300
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
-  - time: 20260402121200
+  - time: 20260401121200
     name: selenium
     amount: 200
     unit: μg
-  - time: 20260402121200
+  - time: 20260401121200
     name: mature multi
     amount: 1
     unit: 片
