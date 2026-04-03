@@ -52,7 +52,6 @@ food:
     name: 景兰冻干黑咖啡
     amount: 1.5
     unit: g
-
   - time: 20260331194200
     name: 番茄酱
     amount: 25.0
