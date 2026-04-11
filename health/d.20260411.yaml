@@ -1,16 +1,16 @@
-date: 20260410
+date: 20260411
 sleep: 
-  time: 20260409221000
-  weight: 56.7
+  time: 20260410233700
+  weight: 56.3
 wake:
-  time: 20260410095700
-  weight: 55.8
+  time: 20260411103800
+  weight: 55.4
   SpO2: 94
-  PRbpm: 66
+  PRbpm: 64
   log: |
-   睡前小便1次，补水0次，睡觉中间起来小便0次。
+   睡前小便0次，补水0次，睡觉中间起来小便2次。
 exercise: 
-- time: 20260410103700
+- time: 20260411112600
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -28,24 +28,21 @@ exercise:
     amount: 5
     unit: set
   SpO2: 97
-  PRbpm: 98
-  endheartrate: 111
+  PRbpm: 89
+  endheartrate: 100
   log: |
     室内运动后把脉: 关脉寸脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
-- time: 20260410160900
+- time: 20260411184600
   item:
   - type: walk
-    amount: 26
+    amount: 16
     unit: minute
-  SpO2: 94
-  PRbpm: 133
+  SpO2: 95
+  PRbpm: 130
 stool:
-- time: 20260410130800
+- time: 20260411162000
   amount:   2   #	1:多; 2:适中;	3:少
-  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
+  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log:
-  - 左嘴角还在疼，左下巴淋巴开始发胀。
-  - 洗澡看到胸口的带状疱疹旧疤发黄、发绿，有点痒。
-  - 果汁里加2克维生素C，伤口用碘伏。
 comment:
