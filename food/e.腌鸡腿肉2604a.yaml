@@ -1,0 +1,16 @@
+name: 腌鸡腿肉2604a
+amount: 363.0
+unit: g
+food:
+  - name: 鸡腿肉
+    amount: 312.5
+    unit: g
+  - name: 中盐绿色低钠湖盐
+    amount: 6.0
+    unit: g
+log:
+  - 料酒44.5g
+  - 不预热、上层、上下火、180°C+15分钟
+  - 翻面、190°C+5分钟。
+comment:
+  
