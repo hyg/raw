@@ -1,16 +1,16 @@
-date: 20260415
+date: 20260414
 sleep: 
   time: 20260413235200
   weight: 56.7
 wake:
-  time: 20260415115400
+  time: 20260414115400
   weight: 55.5
   SpO2: 94
   PRbpm: 63
   log: |
    睡前小便1次，补水0次，睡觉中间起来小便2次。
 exercise: 
-- time: 20260415124500
+- time: 20260414124500
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -32,24 +32,6 @@ exercise:
   endheartrate: 112
   log: |
     室内运动后把脉: 关脉寸脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
-- time: 202604151652300
-  item:
-  - type: walk
-    amount: 26
-    unit: minute
-  SpO2: 95
-  PRbpm: 128
-- time: 20260415230000
-  item:
-  - type: 臀腰激活L2
-    amount: 14
-    unit: minute
-  SpO2: 97
-  PRbpm: 87
-stool:
-- time: 20260415154000
-  amount:   2   #	1:多; 2:适中;	3:少
-  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
-  diffcult: 1   #	1:不困难;	2:困难
 log:
+  - 左嘴角伤口在吃水果张大嘴时，还是裂开了。疼痛不是很明显，毛巾上看到血迹。
 comment:
