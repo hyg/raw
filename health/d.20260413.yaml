@@ -32,7 +32,7 @@ exercise:
   endheartrate: 93
   log: |
     室内运动后把脉: 关脉寸脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
-- time: 202604131652300
+- time: 20260413162300
   item:
   - type: walk
     amount: 26
