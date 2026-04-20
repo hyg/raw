@@ -1,16 +1,16 @@
-date: 20260421
+date: 20260418
 sleep: 
-  time: 20260420233000
+  time: 20260417235000
   weight: 56.6
 wake:
-  time: 20260421063700
+  time: 20260418044400
   weight: 55.5
-  SpO2: 94
-  PRbpm: 70
+  SpO2: 95
+  PRbpm: 65
   log: |
    睡前小便0次，补水0次，睡觉中间起来小便0次。
 exercise: 
-- time: 20260421064800
+- time: 20260418045500
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -27,29 +27,15 @@ exercise:
   - type: 腹部拉伸(Cobra Pose) + 颈部拉伸*5
     amount: 5
     unit: set
-  SpO2: 96
-  PRbpm: 96
-  endheartrate: 98
-  log: |
-    室内运动后把脉: 关脉寸脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
-- time: 20260421190100
-  item:
-  - type: walk
-    amount: 25
-    unit: minute
-  SpO2: 95
-  PRbpm: 130
-- time: 20260421230000
-  item:
-  - type: 臀腰激活L2
-    amount: 14
-    unit: minute
   SpO2: 97
   PRbpm: 87
+  endheartrate: 96
+  log: |
+    室内运动后把脉: 关脉寸脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
 stool:
-- time: 20260421100000
+- time: 20260419000500
   amount:   3   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
-  diffcult: 1   #	1:不困难;	2:困难
+  diffcult: 2   #	1:不困难;	2:困难
 log:
 comment:

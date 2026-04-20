@@ -1,0 +1,82 @@
+date: 20260420
+food:
+  - time: 20260420065400
+    name: 木薯
+    amount: 100
+    unit: g
+  - time: 20260420114500
+    name: 黑米饭2505a
+    amount: 100
+    unit: g
+  - time: 20260420114500
+    name: 红薯叶
+    amount: 200
+    unit: g
+  - time: 20260420114500
+    name: 香菇
+    amount: 5
+    unit: g
+  - time: 20260420114500
+    name: 排骨
+    amount: 50
+    unit: g
+  - time: 20260420114500
+    name: 大白菜
+    amount: 60
+    unit: g
+  - time: 20260420114500
+    name: 油
+    amount: 5
+    unit: g
+  - time: 20260420114500
+    name: 低钠盐
+    amount: 5
+    unit: g
+  - time: 20260420162000
+    name: 奶粉
+    amount: 30.4
+    unit: g
+  - time: 20260420192800
+    name: 思朗纤麸高纤消化饼干
+    amount: 76.5
+    unit: g
+  - time: 20260420193700
+    name: 奶酪
+    amount: 52.0
+    unit: g
+water:
+  - time: 20260420064500
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20260420071600
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20260420092000
+    name: 咖啡
+    amount: 120
+    unit: ml
+  - time: 20260420101500
+    name: 开水
+    amount: 300
+    unit: ml
+  - time: 20260420193600
+    name: 六堡茶
+    amount: 400
+    unit: ml
+  - time: 20260420203000
+    name: 六堡茶
+    amount: 300
+    unit: ml
+med:
+  - time: 20260420101500
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20260420101500
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |

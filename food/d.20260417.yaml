@@ -1,0 +1,90 @@
+date: 20260417
+food:
+  - time: 20260417043800
+    name: 人参果
+    amount: 143.0
+    unit: g
+  - time: 20260417044000
+    name: 鸡蛋
+    amount: 93.0
+    unit: g
+  - time: 20260417102100
+    name: 冠生园葱油压缩饼干
+    amount: 118.0
+    unit: g
+  - time: 20260417164000
+    name: 苹果
+    amount: 120
+    unit: g
+  - time: 20260417190000
+    name: 大米
+    amount: 80
+    unit: g
+  - time: 20260417190000
+    name: 鸡肉
+    amount: 100
+    unit: g
+  - time: 20260417190000
+    name: 生菜
+    amount: 200
+    unit: g
+  - time: 20260417190000
+    name: 低钠盐
+    amount: 2
+    unit: g
+  - time: 20260417190000
+    name: 油
+    amount: 2
+    unit: g
+  - time: 20260417190000
+    name: 奶粉
+    amount: 60
+    unit: g
+water:
+  - time: 20260417042300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260417044300
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20260417102000
+    name: 绿茶
+    amount: 200
+    unit: ml
+  - time: 20260417113000
+    name: 六堡茶
+    amount: 400
+    unit: ml
+  - time: 20260417150400
+    name: 六堡茶
+    amount: 400
+    unit: ml
+  - time: 20260417172600
+    name: 六堡茶
+    amount: 400
+    unit: ml
+  - time: 20260417190000
+    name: 汤水
+    amount: 200
+    unit: ml
+  - time: 20260417200000
+    name: 开水
+    amount: 300
+    unit: ml
+med:
+  - time: 20260417044300
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20260417044300
+    name: mature multi
+    amount: 1
+    unit: 片
+  - time: 20260417044300
+    name: 维生素D3
+    amount: 125
+    unit: μg
+log: |
+comment: |

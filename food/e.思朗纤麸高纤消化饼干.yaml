@@ -1,0 +1,28 @@
+name: 思朗纤麸高纤消化饼干
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 2040
+    unit: kj
+    nrv: 24
+  蛋白质:
+    amount: 8.1
+    unit: g
+    nrv: 14
+  脂肪:
+    amount: 24.3
+    unit: g
+    nrv: 41
+  碳水化合物:
+    amount: 56.2.9
+    unit: g
+    nrv: 19
+  钠:
+    amount: 218
+    unit: mg
+    nrv: 11
+  膳食纤维:
+    amount: 6.0
+    unit: g
+    nrv: 24
