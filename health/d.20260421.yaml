@@ -1,16 +1,16 @@
-date: 20260422
+date: 20260421
 sleep: 
-  time: 20260421214700
+  time: 20260420214700
   weight: 56.3
 wake:
-  time: 20260422073300
+  time: 20260421073300
   weight: 55.6
   SpO2: 93
   PRbpm: 61
   log: |
    睡前小便0次，补水0次，睡觉中间起来小便1次。
 exercise: 
-- time: 20260422085200
+- time: 20260421085200
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -31,25 +31,14 @@ exercise:
   PRbpm: 88
   endheartrate: 97
   log: |
-    室内运动后把脉: 关脉寸脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
-- time: 20260422190100
-  item:
-  - type: walk
-    amount: 25
-    unit: minute
-  SpO2: 95
-  PRbpm: 130
-- time: 20260422230000
-  item:
-  - type: 臀腰激活L2
-    amount: 14
-    unit: minute
-  SpO2: 97
-  PRbpm: 87
+    室内运动后把脉: 关脉寸脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。q
 stool:
-- time: 20260422191500
+- time: 20260421191500
   amount:   1   #	1:多; 2:适中;	3:少
   type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log:
+  - 昨晚到家后穿拖鞋整理数据，受凉后左膝无法伸直。
+  - 用热水袋垫在左膝下睡，今早恢复可以伸直，但不敢用力。餐前运动时左膝弯曲角度受限，坐不到左脚跟。
+  - 左舌沿有点溃疡。
 comment:
