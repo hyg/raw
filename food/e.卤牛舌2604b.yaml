@@ -1,0 +1,15 @@
+name: 卤牛舌2604b
+amount: 627.0
+unit: g
+food:
+  - name: 牛舌
+    amount: 886.5
+    unit: g
+  - name: 楚郡味豆瓣酱
+    amount: 40.0
+    unit: g
+log:
+  - 牛舌没有灼水，直接加豆瓣酱在高压锅煮。
+  - 高压锅30分钟。卤牛舌和卤汁移到密封罐冷却，浸泡着放到保鲜层待用。
+comment:
+  - 软烂合适，咸淡合适。

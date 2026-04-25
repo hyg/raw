@@ -1,16 +1,16 @@
-date: 20260426
+date: 20260424
 sleep: 
-  time: 20260426010000
-  weight: 56.4
+  time: 20260423205800
+  weight: 57.4
 wake:
-  time: 20260426110300
-  weight: 55.4
-  SpO2: 92
-  PRbpm: 61
+  time: 20260424120300
+  weight: 55.6
+  SpO2: 94
+  PRbpm: 63
   log: |
-   睡前小便0次，补水0次，睡觉中间起来小便2次。
+   睡前小便1次，补水0次，睡觉中间起来小便2次。
 exercise: 
-- time: 20260426120900
+- time: 20260424124600
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -27,31 +27,19 @@ exercise:
   - type: 腹部拉伸(Cobra Pose) + 颈部拉伸*5
     amount: 5
     unit: set
-  SpO2: 96
-  PRbpm: 95
-  endheartrate: 101
+  SpO2: 97
+  PRbpm: 82
+  endheartrate: 100
   log: |
     室内运动后把脉: 关脉寸脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
-- time: 20260426173500
-  item:
-  - type: walk
-    amount: 27
-    unit: minute
-  SpO2: 94
-  PRbpm: 129
-- time: 20260426330000
-  item:
-  - type: 臀腰激活L2
-    amount: 14
-    unit: minute
-  SpO2: 97
-  PRbpm: 87
 stool:
-- time: 20260426144500
+- time: 20260424171000
   amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log:
-  - 左膝已经基本不影响行动。
-  - 左嘴角伤口在张大嘴时有点疼，但没有出血。舌左侧溃疡位置已经不疼。 
+  - 左膝基本正常。
+  - 左嘴角上唇伤口在打哈欠、吃水果张大嘴时还会撑破，舌左侧溃疡基本恢复。
+  - 脸上皮肤开始粗糙，颧骨位置尤其明显。在南方和刚回来的几天非常嫩滑。
+  - 今天停维生素C。
 comment:

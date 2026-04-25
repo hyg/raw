@@ -109,7 +109,7 @@ food:
     amount: 3.0
     unit: g
 water:
-  - time: 202604231008700
+  - time: 20260423100800
     name: 开水
     amount: 200
     unit: ml
