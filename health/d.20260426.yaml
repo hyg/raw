@@ -1,16 +1,16 @@
-date: 20260428
+date: 20260426
 sleep: 
-  time: 20260427225000
-  weight: 56.3
+  time: 20260425232500
+  weight: 56.2
 wake:
-  time: 20260428064200
-  weight: 55.5
-  SpO2: 95
-  PRbpm: 64
+  time: 20260426092200
+  weight: 55.3
+  SpO2: 92
+  PRbpm: 63
   log: |
    睡前小便1次，补水0次，睡觉中间起来小便0次。
 exercise: 
-- time: 20260428071700
+- time: 20260426100700
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -27,30 +27,24 @@ exercise:
   - type: 腹部拉伸(Cobra Pose) + 颈部拉伸*5
     amount: 5
     unit: set
-  SpO2: 98
-  PRbpm: 83
-  endheartrate: 96
+  SpO2: 97
+  PRbpm: 85
+  endheartrate: 109
   log: |
     室内运动后把脉: 关脉寸脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
-- time: 20260428092000
+- time: 20260426125800
   item:
   - type: walk
-    amount: 37
+    amount: 35
     unit: minute
   SpO2: 95
-  PRbpm: 119
-- time: 20260428330000
-  item:
-  - type: 臀腰激活L2
-    amount: 14
-    unit: minute
-  SpO2: 97
-  PRbpm: 87
+  PRbpm: 130
 stool:
-- time: 20260428101000
+- time: 20260426123500
   amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log:
-  - 已洗牙。牙周健康，楔状缺损有些敏感，右后下大牙外侧的龋面还是硬的，磨掉一点观察六个月后随访。
+  - 左膝已经基本不影响行动。今天室内去掉护膝。
+  - 左嘴角伤口在张大嘴时也不疼。可以预约洗牙。
 comment:
