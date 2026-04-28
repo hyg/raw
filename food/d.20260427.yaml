@@ -92,7 +92,6 @@ food:
     name: 欧丽薇兰橄榄油
     amount: 0.5
     unit: g
-
   - time: 20260427124900
     name: 奶粉
     amount: 20.0
