@@ -1,0 +1,20 @@
+name: 鸡里脊
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 425
+    unit: kj
+    nrv: 5
+  蛋白质:
+    amount: 23.2
+    unit: g
+    nrv: 39
+  脂肪:
+    amount: 0.7
+    unit: g
+    nrv: 1
+  钠:
+    amount: 40
+    unit: mg
+    nrv: 2

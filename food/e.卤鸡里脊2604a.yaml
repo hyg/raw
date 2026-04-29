@@ -1,0 +1,15 @@
+name: 卤鸡里脊2604a
+amount: 40
+unit: g
+food:
+  - name: 鸡里脊
+    amount: 53.0
+    unit: g
+  - name: 厝味潮汕卤汁
+    amount: 6.14
+    unit: g
+log:
+  - 没有灼水，直接加卤汁在高压锅煮。
+  - 高压锅60分钟。卤肉和卤汁移到密封罐冷却，浸泡着放到保鲜层待用。
+comment:
+  - 软烂合适，咸淡合适。

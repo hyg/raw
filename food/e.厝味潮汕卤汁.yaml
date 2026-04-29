@@ -1,0 +1,32 @@
+name: 厝味潮汕卤汁
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 601
+    unit: kj
+    nrv: 7
+  蛋白质:
+    amount: 3.6
+    unit: g
+    nrv: 6
+  脂肪:
+    amount: 10.8
+    unit: g
+    nrv: 18
+  碳水化合物:
+    amount: 8.8
+    unit: g
+    nrv: 3
+  钠:
+    amount: 4275
+    unit: mg
+    nrv: 214
+comment:
+  饱和脂肪:
+    amount: 3.3
+    unit: g
+    nrv: 16
+  糖:
+    amount: 7.2
+    unit: g

@@ -1,0 +1,15 @@
+name: 卤松板肉2604a
+amount: 35
+unit: g
+food:
+  - name: 松板肉
+    amount: 42.0
+    unit: g
+  - name: 厝味潮汕卤汁
+    amount: 4.86
+    unit: g
+log:
+  - 没有灼水，直接加卤汁在高压锅煮。
+  - 高压锅60分钟。卤肉和卤汁移到密封罐冷却，浸泡着放到保鲜层待用。
+comment:
+  - 软烂合适，咸淡合适。

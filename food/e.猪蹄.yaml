@@ -1,0 +1,77 @@
+name: 猪蹄
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 260
+    unit: kcal
+    nrv: 12.68
+  蛋白质:
+    amount: 22.6
+    unit: g
+    nrv: 25.2
+  脂肪:
+    amount: 18.8
+    unit: g
+    nrv: 33.02
+  VA(视黄醇等):
+    amount: 3
+    unit: μg
+    nrv: 0.39
+  VE(生育酚):
+    amount: 0.01
+    unit: mg
+    nrv: 0.07
+  VB1(硫胺素):
+    amount: 0.05
+    unit: mg
+    nrv: 3.57
+  VB2(核黄素):
+    amount: 0.1
+    unit: mg
+    nrv: 7.14
+  VB3(烟酸):
+    amount: 1.5
+    unit: mg
+    nrv: 10
+  磷:
+    amount: 33
+    unit: mg
+    nrv: 4.65
+  钙:
+    amount: 33
+    unit: mg
+    nrv: 4.13
+  铁:
+    amount: 1.1
+    unit: mg
+    nrv: 9.17
+  钠:
+    amount: 101
+    unit: mg
+    nrv: 6.73
+  钾:
+    amount: 54
+    unit: mg
+    nrv: 2.7
+  镁:
+    amount: 5
+    unit: mg
+    nrv: 1.56
+  锌:
+    amount: 1.14
+    unit: mg
+    nrv: 9.5
+  硒:
+    amount: 5.8
+    unit: μg
+    nrv: 9.67
+  铜:
+    amount: 0.09
+    unit: mg
+    nrv: 11.25
+  锰:
+    amount: 0.01
+    unit: mg
+    nrv: 0.22
+commnet: https://www.eshian.com/sat/yyss/detail/LXMjAyNi0wNC0yOQ==/1538

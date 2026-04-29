@@ -1,0 +1,24 @@
+name: 西湖春天酱麻鸭
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1652
+    unit: kj
+    nrv: 20
+  蛋白质:
+    amount: 19.7
+    unit: g
+    nrv: 33
+  脂肪:
+    amount: 30.3
+    unit: g
+    nrv: 50
+  碳水化合物:
+    amount: 11.5
+    unit: g
+    nrv: 4
+  钠:
+    amount: 1190
+    unit: mg
+    nrv: 60
