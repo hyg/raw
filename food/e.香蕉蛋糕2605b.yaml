@@ -1,0 +1,23 @@
+name: 香蕉蛋糕2605b
+amount: 400
+unit: g
+food:
+  - name: 鸡蛋 
+    amount: 97.0
+    unit: g
+  - name: 香蕉
+    amount: 133.5
+    unit: g
+  - name: 奶粉
+    amount: 40.0
+    unit: g
+  - name: 欧丽薇兰橄榄油
+    amount: 0.5
+    unit: g
+log:
+  - 加水160.0g，全部搅拌均匀。喷油，倒入锡碗。
+  - 烤箱上下火、中层160°C+20分钟、200°C+5分钟。
+  - 空锡碗3.5g，生毛重510.5g，生净重507.0g。
+  - 烤好带锡碗重491.0g，蛋糕净重488.5g。
+comment:
+  - 甜度合适。
