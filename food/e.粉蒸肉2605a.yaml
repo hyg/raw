@@ -1,0 +1,14 @@
+name: 粉蒸肉2605a
+amount: 300
+unit: g
+food:
+  - name: 鸡里脊
+    amount: 250
+    unit: g
+  - name: 徐七二粉蒸肉粉
+    amount: 45.0
+    unit: g
+log:
+  - 肉粉混合后，蒸箱下层蒸30分钟。
+comment:
+  - 口感合适。

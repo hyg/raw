@@ -32,24 +32,17 @@ exercise:
   endheartrate: 104
   log: |
     室内运动后把脉: 关脉寸脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
-- time: 20260506155600
+- time: 20260506124400
   item:
   - type: walk
-    amount: 27
+    amount: 53
     unit: minute
   SpO2: 95
-  PRbpm: 135
-- time: 20260506330000
-  item:
-  - type: 臀腰激活L2
-    amount: 14
-    unit: minute
-  SpO2: 97
-  PRbpm: 87
+  PRbpm: 127
 stool:
-- time: 20260506141500
+- time: 20260506093000
   amount:   2   #	1:多; 2:适中;	3:少
-  type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
+  type:     1   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log:
   - 补了左下3、4，右下4、5的楔形缺损。
