@@ -1,0 +1,14 @@
+name: 粉蒸肉2605b
+amount: 131.0
+unit: g
+food:
+  - name: 松板肉
+    amount: 115.5
+    unit: g
+  - name: 徐七二粉蒸肉粉
+    amount: 21.13
+    unit: g
+log:
+  - 肉粉混合后，蒸箱下层蒸20分钟。
+comment:
+  - 口感合适，咸淡合适。

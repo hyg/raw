@@ -1,0 +1,73 @@
+name: 干百合
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 346
+    unit: kcal
+    nrv: 16.88
+  蛋白质:
+    amount: 6.7
+    unit: g
+    nrv: 7.47
+  脂肪:
+    amount: 0.5
+    unit: g
+    nrv: 0.88
+  碳水化合物:
+    amount: 79.5
+    unit: g
+    nrv: 26.98
+  VB1(硫胺素):
+    amount: 0.05
+    unit: mg
+    nrv: 3.57
+  VB2(核黄素):
+    amount: 0.09
+    unit: mg
+    nrv: 6.43
+  VB3(烟酸):
+    amount: 0.9
+    unit: mg
+    nrv: 6
+  磷:
+    amount: 92
+    unit: mg
+    nrv: 12.96
+  钙:
+    amount: 32
+    unit: mg
+    nrv: 4
+  铁:
+    amount: 5.9
+    unit: mg
+    nrv: 49.17
+  钠:
+    amount: 37
+    unit: mg
+    nrv: 2.47
+  钾:
+    amount: 344
+    unit: mg
+    nrv: 17.2
+  镁:
+    amount: 42
+    unit: mg
+    nrv: 13.13
+  锌:
+    amount: 1.31
+    unit: mg
+    nrv: 10.92
+  硒:
+    amount: 2.3
+    unit: μg
+    nrv: 3.83
+  铜:
+    amount: 1.09
+    unit: mg
+    nrv: 136.25
+  锰:
+    amount: 0.59
+    unit: mg
+    nrv: 13.11
+comment: https://www.eshian.com/sat/yyss/detail/LXMjAyNi0wNS0wOA==/408
