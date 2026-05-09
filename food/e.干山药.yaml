@@ -1,0 +1,69 @@
+name: 干山药
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 327
+    unit: kcal
+    nrv: 15.95
+  蛋白质:
+    amount: 9.4
+    unit: g
+    nrv: 10.48
+  脂肪:
+    amount: 1
+    unit: g
+    nrv: 1.76
+  碳水化合物:
+    amount: 70.8
+    unit: g
+    nrv: 24.03
+  VE(生育酚):
+    amount: 0.44
+    unit: mg
+    nrv: 3.14
+  VB1(硫胺素):
+    amount: 0.25
+    unit: mg
+    nrv: 17.86
+  VB2(核黄素):
+    amount: 0.28
+    unit: mg
+    nrv: 20
+  磷:
+    amount: 17
+    unit: mg
+    nrv: 2.39
+  钙:
+    amount: 62
+    unit: mg
+    nrv: 7.75
+  铁:
+    amount: 0.4
+    unit: mg
+    nrv: 3.33
+  钠:
+    amount: 104
+    unit: mg
+    nrv: 6.93
+  钾:
+    amount: 269
+    unit: mg
+    nrv: 13.45
+  锌:
+    amount: 0.95
+    unit: mg
+    nrv: 7.92
+  硒:
+    amount: 3.1
+    unit: μg
+    nrv: 5.17
+  铜:
+    amount: 0.63
+    unit: mg
+    nrv: 78.75
+  锰:
+    amount: 0.23
+    unit: mg
+    nrv: 5.11
+comment: https://www.eshian.com/sat/yyss/detail/LXMjAyNi0wNS0wOQ==/426
