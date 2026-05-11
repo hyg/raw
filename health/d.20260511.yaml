@@ -1,0 +1,14 @@
+date: 20260511
+sleep: 
+  time: 20260510233200
+  weight: 56.0
+wake:
+  time: 20260511083500
+  weight: 55.3
+  SpO2: 95
+  PRbpm: 63
+  log: |
+   睡前小便0次，补水0次，睡觉中间起来小便1次。
+log:
+  - 补牙，右上4号。
+comment:
