@@ -68,7 +68,11 @@ food:
     unit: g
   - time: 20260512192000
     name: 娃娃鱼肉
-    amount: 160
+    amount: 0
+    unit: g
+  - time: 20260512192000
+    name: 卤牛舌2604b
+    amount: 80
     unit: g
   - time: 20260512192000
     name: 灰枣
