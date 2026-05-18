@@ -1,0 +1,97 @@
+name: 带鱼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 108
+    unit: kcal
+    nrv: 5.27
+  蛋白质:
+    amount: 17.6
+    unit: g
+    nrv: 19.62
+  脂肪:
+    amount: 4.2
+    unit: g
+    nrv: 7.38
+  VA(视黄醇等):
+    amount: 19
+    unit: μg
+    nrv: 2.47
+  VE(生育酚):
+    amount: 0.42
+    unit: mg
+    nrv: 3
+  VB1(硫胺素):
+    amount: 0.02
+    unit: mg
+    nrv: 1.43
+  VB2(核黄素):
+    amount: 0.08
+    unit: mg
+    nrv: 5.71
+  VB3(烟酸):
+    amount: 1.45
+    unit: mg
+    nrv: 9.67
+  VB6(吡哆素):
+    amount: 0.02
+    unit: mg
+    nrv: 1.43
+  VB12(钴胺素):
+    amount: 2.02
+    unit: μg
+    nrv: 84.17
+  VC(抗坏血酸):
+    amount: .nan
+    unit: mg
+    nrv: .nan
+  磷:
+    amount: 282
+    unit: mg
+    nrv: 39.72
+  钙:
+    amount: 431
+    unit: mg
+    nrv: 53.87
+  铁:
+    amount: 1.1
+    unit: mg
+    nrv: 9.17
+  钠:
+    amount: 246
+    unit: mg
+    nrv: 16.4
+  钾:
+    amount: 361
+    unit: mg
+    nrv: 18.05
+  镁:
+    amount: 30
+    unit: mg
+    nrv: 9.38
+  锌:
+    amount: 2.23
+    unit: mg
+    nrv: 18.58
+  硒:
+    amount: 26.6
+    unit: μg
+    nrv: 44.33
+  铜:
+    amount: 0.07
+    unit: mg
+    nrv: 8.75
+  锰:
+    amount: 0.09
+    unit: mg
+    nrv: 2
+  生物素:
+    amount: 2.2
+    unit: μg
+    nrv: 5.5
+  胆碱:
+    amount: 107.9
+    unit: mg
+    nrv: 23.98
+comment: https://www.eshian.com/sat/yyss/detail/LXMjAyNi0wNS0xOA==/1007

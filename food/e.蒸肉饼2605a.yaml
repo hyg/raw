@@ -1,0 +1,24 @@
+name: 蒸肉饼2605a
+amount: 500
+unit: g
+food:
+  - name: 猪前腿肉
+    amount: 350
+    unit: g
+  - name: 鱼籽
+    amount: 40
+    unit: g
+  - name: 猪肝
+    amount: 40
+    unit: g
+  - name: 姜
+    amount: 20
+    unit: g
+  - name: 楚郡味豆瓣酱
+    amount: 15
+    unit: g
+log:
+  - 肉粉混合后，蒸箱下层蒸20分钟。
+  - 容器重，熟肉饼毛重，净重。
+comment:
+  - 口感合适，咸淡合适。至今保留水份最好的做法。
