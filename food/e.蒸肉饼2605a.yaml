@@ -1,24 +1,22 @@
 name: 蒸肉饼2605a
-amount: 500
+amount: 547.0
 unit: g
 food:
   - name: 猪前腿肉
-    amount: 350
+    amount: 352.0
     unit: g
-  - name: 鱼籽
-    amount: 40
-    unit: g
-  - name: 猪肝
-    amount: 40
+  - name: 胡萝卜
+    amount: 151.5
     unit: g
   - name: 姜
-    amount: 20
+    amount: 27.0
     unit: g
-  - name: 楚郡味豆瓣酱
-    amount: 15
+  - name: 中盐绿色低钠湖盐
+    amount: 10.0
     unit: g
 log:
-  - 肉粉混合后，蒸箱下层蒸20分钟。
-  - 容器重，熟肉饼毛重，净重。
+  - 食材切块、冷藏几个小时降温，抵消搅拌是热量；
+  - 食材混合、搅拌成肉泥后，蒸箱下层蒸20分钟。
+  - 容器重324.5g，熟肉饼毛重871.5g，净重547.0g。
 comment:
-  - 口感合适，咸淡合适。至今保留水份最好的做法。
+  - 偏咸，下次试试7克盐。

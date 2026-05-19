@@ -3,7 +3,7 @@ amount: 8
 unit: 个
 food:
   - name: 小象全麦粉
-    amount: 450.0
+    amount: 480.0
     unit: g
 log: |
   - 酵母液 = 鲜酵母9.5克 + 水
