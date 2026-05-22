@@ -1,45 +1,43 @@
 date: 20260522
 food:
-  - time: 20260522123400
+  - time: 20260522101100
     name: 西瓜
-    amount: 400
+    amount: 466.0
     unit: g
-
-  - time: 20260522124500
+    log: 728.5-262.5
+  - time: 20260522102000
     name: 馒头2605b
     amount: 1
     unit: 个
-  - time: 20260522124500
+  - time: 20260522102000
     name: 红烧带鱼2605a
-    amount: 90
+    amount: 82.0
     unit: g
-  - time: 20260522124500
+  - time: 20260522102000
     name: 南瓜
-    amount: 65
+    amount: 52.0
     unit: g
-  - time: 20260522124500
+  - time: 20260522102000
     name: 西兰花
-    amount: 150
+    amount: 134.0
     unit: g
-
-  - time: 20260522130500
+  - time: 20260522103800
     name: 麦胚芽
     amount: 15.0
     unit: g
-  - time: 20260522130500
+  - time: 20260522103800
     name: 亚麻籽粉
     amount: 10.0
     unit: g
-  - time: 20260522130500
+  - time: 20260522103800
     name: 浙梅免洗桑葚
     amount: 10.0
     unit: g
-
-  - time: 20260522132000
+  - time: 20260522104600
     name: 奶粉
     amount: 30.0
     unit: g
-  - time: 20260522132000
+  - time: 20260522104600
     name: 景兰冻干黑咖啡
     amount: 1.5
     unit: g
@@ -80,7 +78,7 @@ food:
     unit: g
   - time: 20260522190900
     name: 维扬破碎油方
-    amount: 30
+    amount: 40
     unit: g
   - time: 20260522190900
     name: 油菜
@@ -104,15 +102,15 @@ food:
     amount: 3.0
     unit: g
 water:
-  - time: 20260522104800
+  - time: 20260522085100
     name: 开水
     amount: 200
     unit: ml
-  - time: 20260522121200
+  - time: 20260522100100
     name: 开水
     amount: 250
     unit: ml
-  - time: 20260522132000
+  - time: 20260522104600
     name: 咖啡
     amount: 120.0
     unit: ml
@@ -120,14 +118,15 @@ water:
     name: 开水
     amount: 250
     unit: ml
-  - time: 20260522155200
+  - time: 20260522162000
     name: 开水
     amount: 250
     unit: ml
-  - time: 20260522163500
+  - time: 20260522163100
     name: 开水
     amount: 250
     unit: ml
+
   - time: 20260522200600
     name: 可可奶
     amount: 120.0
@@ -137,7 +136,7 @@ water:
     amount: 50
     unit: ml
 med:
-  - time: 20260522132000
+  - time: 20260522104600
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
