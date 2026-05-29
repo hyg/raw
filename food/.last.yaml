@@ -1,154 +1,161 @@
-date: 20260529
+date: 20260530
 food:
-  - time: 20260529135400
+  - time: 20260530144100
     name: 甜瓜
-    amount: 300
+    amount: 330
     unit: g
 
-  - time: 20260529135900
+  - time: 20260530144700
     name: 白象茯苓薏米山药面
-    amount: 100
+    amount: 100.0
     unit: g
-  - time: 20260529135900
-    name: 松板肉
+  - time: 20260530144700
+    name: 盐水松板肉2605a
     amount: 50
     unit: g
-  - time: 20260529135900
+  - time: 20260530144700
     name: 油菜
-    amount: 100
+    amount: 75
     unit: g
-  - time: 20260529135900
+  - time: 20260530144700
+    name: 单山蘸水
+    amount: 3.0
+    unit: g
+  - time: 20260530144700
     name: 中盐绿色低钠湖盐
     amount: 2.0
     unit: g
 
-  - time: 20260529141400
+  - time: 20260530150400
+    name: 福厚桦遮浪马仔
+    amount: 30
+    unit: g
+  - time: 20260530150400
     name: 麦胚芽
     amount: 15.0
     unit: g
-  - time: 20260529141400
+  - time: 20260530150400
     name: 亚麻籽粉
     amount: 10.0
     unit: g
-  - time: 20260529141400
+  - time: 20260530150400
     name: 浙梅免洗桑葚
     amount: 10.0
     unit: g
 
-  - time: 20260529142500
+  - time: 20260530153000
     name: 奶粉
     amount: 30.0
     unit: g
-  - time: 20260529142500
+  - time: 20260530153000
     name: 景兰冻干黑咖啡
     amount: 1.5
     unit: g
 
-  - time: 20260529204600
+  - time: 20260530213800
     name: 番茄酱
     amount: 25
     unit: g
-  - time: 20260529204600
+  - time: 20260530213800
     name: 东棘沙棘原浆
-    amount: 25
+    amount: 20
     unit: g
-  - time: 20260529204600
+  - time: 20260530213800
     name: 菊粉
-    amount: 12.0
+    amount: 5.0
     unit: g
 
-  - time: 20260529204700
+  - time: 20260530213900
     name: 芒果
-    amount: 115.0
+    amount: 115
     unit: g
-  - time: 20260529204700
+  - time: 20260530214400
     name: 人参果
-    amount: 230
+    amount: 235
     unit: g
 
-  - time: 20260529205800
-    name: 香蕉蛋糕2605b
-    amount: 130
+  - time: 20260530215300
+    name: 馒头2605b
+    amount: 1
+    unit: 个
+  - time: 20260530215300
+    name: 盐水鸡胸肉2605a
+    amount: 75
     unit: g
-  - time: 20260529205800
+  - time: 20260530215300
     name: 木耳
-    amount: 10.0
+    amount: 10
     unit: g
-  - time: 20260529205800
-    name: 鸡胸肉
-    amount: 70
+  - time: 20260530215300
+    name: 芹菜
+    amount: 240
     unit: g
-  - time: 20260529205800
-    name: 小白菜
-    amount: 200
-    unit: g
-  - time: 20260529205800
+  - time: 20260530215300
     name: 中盐绿色低钠湖盐
-    amount: 1.0
+    amount: 1.5
     unit: g
-  - time: 20260529205800
+  - time: 20260530215300
     name: 欧丽薇兰橄榄油
     amount: 0.5
     unit: g
 
-  - time: 20260529213700
+  - time: 20260530230500
     name: 奶粉
     amount: 30.0
     unit: g
-  - time: 20260529213700
+  - time: 20260530230500
     name: 品儿Piner天然可可粉
     amount: 3.0
     unit: g
 water:
-  - time: 20260529123100
+  - time: 20260530124300
     name: 开水
     amount: 200
     unit: ml
-  - time: 20260529152000
+  - time: 20260530135200
     name: 开水
-    amount: 250
+    amount: 300
     unit: ml
-  - time: 20260529142500
+  - time: 20260530144700
+    name: 汤水
+    amount: 500
+    unit: ml
+  - time: 20260530153000
     name: 咖啡
     amount: 120.0
     unit: ml
-  - time: 20260529152000
+  - time: 20260530180600
     name: 开水
     amount: 250
     unit: ml
-  - time: 20260529163000
+  - time: 20260530165000
     name: 开水
     amount: 250
     unit: ml
-  - time: 20260529172100
-    name: 开水
-    amount: 250
+  - time: 20260530181800
+    name: 汤水
+    amount: 450
     unit: ml
-  - time: 20260529213700
+  - time: 20260530230500
     name: 可可奶
-    amount: 120.5
+    amount: 121.0
     unit: ml
-  - time: 20260529223300
+  - time: 20260530232500
     name: 开水
-    amount: 100
+    amount: 50
     unit: ml
 med:
-  - time: 20260529142500
+  - time: 20260530153000
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
-  - time: 20260529152000
+  - time: 20260530180600
     name: selenium
     amount: 200
     unit: μg
-  - time: 202605291520002026
+  - time: 20260530180600
     name: mature multi
     amount: 1
     unit: 片
-  - time: 20260529152000
-    name: 维生素D3
-    amount: 50
-    unit: μg
-log:
-  - 松板肉345.5g+低钠盐10.0g，加少量料酒揉均匀，冷藏腌制。20:32开始，预计48小时。
+log: |
 comment: |
