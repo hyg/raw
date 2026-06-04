@@ -1,0 +1,20 @@
+name: 汾都香绿豆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1342
+    unit: kj
+    nrv: 16
+  蛋白质:
+    amount: 21.6
+    unit: g
+    nrv: 36
+  脂肪:
+    amount: 0.8
+    unit: g
+    nrv: 1
+  碳水化合物:
+    amount: 55.6
+    unit: g
+    nrv: 19
