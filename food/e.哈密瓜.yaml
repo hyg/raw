@@ -1,0 +1,69 @@
+name: 哈密瓜
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 34
+    unit: kcal
+    nrv: 1.66
+  蛋白质:
+    amount: 0.5
+    unit: g
+    nrv: 0.56
+  脂肪:
+    amount: 0.1
+    unit: g
+    nrv: 0.18
+  碳水化合物:
+    amount: 7.9
+    unit: g
+    nrv: 2.68
+  VA(视黄醇等):
+    amount: 153
+    unit: μg
+    nrv: 19.87
+  VB2(核黄素):
+    amount: 0.01
+    unit: mg
+    nrv: 0.71
+  VC(抗坏血酸):
+    amount: 12
+    unit: mg
+    nrv: 12
+  磷:
+    amount: 19
+    unit: mg
+    nrv: 2.68
+  钙:
+    amount: 4
+    unit: mg
+    nrv: 0.5
+  钠:
+    amount: 27
+    unit: mg
+    nrv: 1.8
+  钾:
+    amount: 190
+    unit: mg
+    nrv: 9.5
+  镁:
+    amount: 19
+    unit: mg
+    nrv: 5.94
+  锌:
+    amount: 0.13
+    unit: mg
+    nrv: 1.08
+  硒:
+    amount: 1.1
+    unit: μg
+    nrv: 1.83
+  铜:
+    amount: 0.01
+    unit: mg
+    nrv: 1.25
+  锰:
+    amount: 0.01
+    unit: mg
+    nrv: 0.22
+comment: https://www.eshian.com/sat/yyss/detail/LXMjAyNi0wNi0wNQ==/1275

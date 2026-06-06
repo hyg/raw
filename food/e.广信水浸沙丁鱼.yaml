@@ -1,0 +1,20 @@
+name: 广信水浸沙丁鱼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 439
+    unit: kj
+    nrv: 5
+  蛋白质:
+    amount: 13.2
+    unit: g
+    nrv: 22
+  脂肪:
+    amount: 5.8
+    unit: g
+    nrv: 10
+  钠:
+    amount: 59
+    unit: mg
+    nrv: 3
