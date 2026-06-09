@@ -1,0 +1,32 @@
+name: 诸老大酱香黑猪肉粽
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 943
+    unit: kj
+    nrv: 11
+  蛋白质:
+    amount: 5.4
+    unit: g
+    nrv: 9
+  脂肪:
+    amount: 8.3
+    unit: g
+    nrv: 14
+  碳水化合物:
+    amount: 32.0
+    unit: g
+    nrv: 11
+  钠:
+    amount: 398
+    unit: mg
+    nrv: 20
+comment:
+  饱和脂肪:
+    amount: 3.4
+    unit: g
+    nrv: 17
+  糖:
+    amount: 1.3
+    unit: g
