@@ -1,0 +1,81 @@
+name: 腰果
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 559
+    unit: kcal
+    nrv: 27.27
+  蛋白质:
+    amount: 17.3
+    unit: g
+    nrv: 19.29
+  脂肪:
+    amount: 36.7
+    unit: g
+    nrv: 64.45
+  碳水化合物:
+    amount: 41.6
+    unit: g
+    nrv: 14.12
+  VA(视黄醇等):
+    amount: 8
+    unit: μg
+    nrv: 1.04
+  VE(生育酚):
+    amount: 3.17
+    unit: mg
+    nrv: 22.64
+  VB1(硫胺素):
+    amount: 0.27
+    unit: mg
+    nrv: 19.29
+  VB2(核黄素):
+    amount: 0.13
+    unit: mg
+    nrv: 9.29
+  VB3(烟酸):
+    amount: 1.3
+    unit: mg
+    nrv: 8.67
+  磷:
+    amount: 395
+    unit: mg
+    nrv: 55.63
+  钙:
+    amount: 26
+    unit: mg
+    nrv: 3.25
+  铁:
+    amount: 4.8
+    unit: mg
+    nrv: 40
+  钠:
+    amount: 251
+    unit: mg
+    nrv: 16.73
+  钾:
+    amount: 503
+    unit: mg
+    nrv: 25.15
+  镁:
+    amount: 153
+    unit: mg
+    nrv: 47.81
+  锌:
+    amount: 4.3
+    unit: mg
+    nrv: 35.83
+  硒:
+    amount: 34
+    unit: μg
+    nrv: 56.67
+  铜:
+    amount: 1.43
+    unit: mg
+    nrv: 178.75
+  锰:
+    amount: 1.8
+    unit: mg
+    nrv: 40
+comment: https://www.eshian.com/sat/yyss/detail/LXMjAyNi0wNi0xNQ==/1399

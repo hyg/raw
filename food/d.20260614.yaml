@@ -88,6 +88,18 @@ food:
     name: 欧丽薇兰橄榄油
     amount: 4.0
     unit: g
+  - time: 20260614235900
+    name: 杏
+    amount: 154.0
+    unit: g
+  - time: 20260615001500
+    name: 桂柿柿饼
+    amount: 121.5
+    unit: g
+  - time: 20260615003000
+    name: 六州花生糖
+    amount: 34.0
+    unit: g
 water:
   - time: 20260614105100
     name: 开水
@@ -115,11 +127,15 @@ water:
     unit: ml
   - time: 2026061417500
     name: 绿茶
-    amount: 1500
+    amount: 1000
     unit: ml
   - time: 20260614231300
     name: 开水
     amount: 100
+    unit: ml
+  - time: 20260615003900
+    name: 开水
+    amount: 150
     unit: ml
 med:
   - time: 20260614130600

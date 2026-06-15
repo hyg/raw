@@ -1,0 +1,81 @@
+name: 金针菇
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 32
+    unit: kcal
+    nrv: 1.56
+  蛋白质:
+    amount: 2.4
+    unit: g
+    nrv: 2.68
+  脂肪:
+    amount: 0.4
+    unit: g
+    nrv: 0.7
+  碳水化合物:
+    amount: 6
+    unit: g
+    nrv: 2.04
+  VA(视黄醇等):
+    amount: 5
+    unit: μg
+    nrv: 0.65
+  VE(生育酚):
+    amount: 1.14
+    unit: mg
+    nrv: 8.14
+  VB1(硫胺素):
+    amount: 0.15
+    unit: mg
+    nrv: 10.71
+  VB2(核黄素):
+    amount: 0.19
+    unit: mg
+    nrv: 13.57
+  VB3(烟酸):
+    amount: 4.1
+    unit: mg
+    nrv: 27.33
+  VC(抗坏血酸):
+    amount: 2
+    unit: mg
+    nrv: 2
+  磷:
+    amount: 97
+    unit: mg
+    nrv: 13.66
+  铁:
+    amount: 1.4
+    unit: mg
+    nrv: 11.67
+  钠:
+    amount: 4
+    unit: mg
+    nrv: 0.27
+  钾:
+    amount: 195
+    unit: mg
+    nrv: 9.75
+  镁:
+    amount: 17
+    unit: mg
+    nrv: 5.31
+  锌:
+    amount: 0.39
+    unit: mg
+    nrv: 3.25
+  硒:
+    amount: 0.3
+    unit: μg
+    nrv: 0.5
+  铜:
+    amount: 0.14
+    unit: mg
+    nrv: 17.5
+  锰:
+    amount: 0.1
+    unit: mg
+    nrv: 2.22
+comment: https://www.eshian.com/sat/yyss/detail/LXMjAyNi0wNi0xNQ==/704

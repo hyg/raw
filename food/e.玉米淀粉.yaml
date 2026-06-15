@@ -1,0 +1,73 @@
+name: 玉米淀粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 346
+    unit: kcal
+    nrv: 16.88
+  蛋白质:
+    amount: 1.2
+    unit: g
+    nrv: 1.34
+  脂肪:
+    amount: 0.1
+    unit: g
+    nrv: 0.18
+  碳水化合物:
+    amount: 85
+    unit: g
+    nrv: 28.84
+  VB1(硫胺素):
+    amount: 0.03
+    unit: mg
+    nrv: 2.14
+  VB2(核黄素):
+    amount: 0.04
+    unit: mg
+    nrv: 2.86
+  VB3(烟酸):
+    amount: 1.1
+    unit: mg
+    nrv: 7.33
+  磷:
+    amount: 25
+    unit: mg
+    nrv: 3.52
+  钙:
+    amount: 18
+    unit: mg
+    nrv: 2.25
+  铁:
+    amount: 4
+    unit: mg
+    nrv: 33.33
+  钠:
+    amount: 6
+    unit: mg
+    nrv: 0.4
+  钾:
+    amount: 8
+    unit: mg
+    nrv: 0.4
+  镁:
+    amount: 6
+    unit: mg
+    nrv: 1.88
+  锌:
+    amount: 0.09
+    unit: mg
+    nrv: 0.75
+  硒:
+    amount: 0.7
+    unit: μg
+    nrv: 1.17
+  铜:
+    amount: 0.07
+    unit: mg
+    nrv: 8.75
+  锰:
+    amount: 0.05
+    unit: mg
+    nrv: 1.11
+comment: https://www.eshian.com/sat/yyss/detail/LXMjAyNi0wNi0xNQ==/179
