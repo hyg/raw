@@ -1,0 +1,45 @@
+name: 白砂糖
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 400
+    unit: kcal
+    nrv: 19.51
+  碳水化合物:
+    amount: 99.9
+    unit: g
+    nrv: 33.9
+  磷:
+    amount: 8
+    unit: mg
+    nrv: 1.13
+  钙:
+    amount: 20
+    unit: mg
+    nrv: 2.5
+  铁:
+    amount: 0.6
+    unit: mg
+    nrv: 5
+  钾:
+    amount: 5
+    unit: mg
+    nrv: 0.25
+  镁:
+    amount: 3
+    unit: mg
+    nrv: 0.94
+  锌:
+    amount: 0.06
+    unit: mg
+    nrv: 0.5
+  铜:
+    amount: 0.04
+    unit: mg
+    nrv: 5
+  锰:
+    amount: 0.09
+    unit: mg
+    nrv: 2
+comment: https://www.eshian.com/sat/yyss/detail/LXMjAyNi0wNi0xNg==/668
