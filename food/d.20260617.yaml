@@ -1,172 +1,161 @@
-date: 20260618
+date: 20260617
 food:
-  - time: 20260618152200
+  - time: 20260617152200
     name: 甜瓜
-    amount: 240
+    amount: 248.5
     unit: g
-
-  - time: 20260618152700
+  - time: 20260617152700
     name: 馒头2606a
     amount: 1
     unit: 个
-  - time: 20260618152700
+  - time: 20260617152700
     name: 盐水鸡腿肉2606a
-    amount: 40
+    amount: 41.0
     unit: g
-  - time: 20260618152700
+  - time: 20260617152700
     name: 南瓜
-    amount: 75
+    amount: 97.0
     unit: g
-    log: 白浪源南瓜
-  - time: 20260618152700
+    log: 水果南瓜
+  - time: 20260617152700
     name: 西兰花
-    amount: 160
+    amount: 144.5
     unit: g
-  - time: 20260618152700
+  - time: 20260617152700
     name: 十三村原味腐乳
     amount: 9.5
     unit: g
-
-  - time: 20260618154000
+  - time: 20260617154000
     name: 麦胚芽
     amount: 15.0
     unit: g
-  - time: 20260618154000
+  - time: 20260617154000
     name: 亚麻籽粉
     amount: 10.0
     unit: g
-  - time: 20260618154000
+  - time: 20260617154000
     name: 桑葚干
     amount: 15.0
     unit: g
-
-  - time: 20260618154800
+  - time: 20260617154800
     name: 奶粉
     amount: 30.0
     unit: g
-  - time: 20260618154800
+  - time: 20260617154800
     name: 景兰冻干黑咖啡
     amount: 1.5
     unit: g
-
-  - time: 20260618220500
+  - time: 20260617220500
     name: 番茄酱
-    amount: 25
+    amount: 22.5
     unit: g
-  - time: 20260618220500
+  - time: 20260617220500
     name: 疆二姐有机沙棘原浆
-    amount: 20
+    amount: 21.0
     unit: g
-  - time: 20260618220500
+  - time: 20260617220500
     name: 百香果
     amount: 64.0
     unit: g
-  - time: 20260618220500
+  - time: 20260617220500
     name: 菊粉
     amount: 5.0
     unit: g
-
-  - time: 20260618220600
+  - time: 20260617220600
     name: 杏
     amount: 164.0
     unit: g
-
-  - time: 20260618221000
+  - time: 20260617221000
     name: 一品寒香大米
     amount: 60.0
     unit: g
-  - time: 20260618221000
+  - time: 20260617221000
     name: 汾都香红豆
     amount: 10.0
     unit: g
-  - time: 20260618221000
+  - time: 20260617221000
     name: 高粱米
     amount: 20.0
     unit: g
-  - time: 20260618221000
+  - time: 20260617221000
     name: 紫米
     amount: 20.0
     unit: g
-  - time: 20260618221000
+  - time: 20260617221000
     name: 鸡蛋
     amount: 50.0
     unit: g
-  - time: 20260618221000
+  - time: 20260617221000
     name: 盐水梅花肉2606a
-    amount: 25
+    amount: 32.5
     unit: g
-  - time: 20260618221000
+  - time: 20260617221000
     name: 木耳
     amount: 5.0
     unit: g
-  - time: 20260618221000
-    name: 油菜
+  - time: 20260617221000
+    name: 小白菜
     amount: 150.0
     unit: g
-  - time: 20260618221000
+  - time: 20260617221000
     name: 中盐绿色低钠湖盐
     amount: 2.0
     unit: g
-  - time: 20260618221000
-    name: 欧丽薇兰橄榄油
-    amount: 0.5
-    unit: g
-
-  - time: 20260618230500
+  - time: 20260617230500
     name: 奶粉
     amount: 30.0
     unit: g
-  - time: 20260618230500
+  - time: 20260617230500
     name: 品儿Piner天然可可粉
     amount: 3.0
     unit: g
 water:
-  - time: 20260618132000
+  - time: 20260617132000
     name: 开水
     amount: 200
     unit: ml
-  - time: 20260618150200
+  - time: 20260617150200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20260618154800
+  - time: 20260617154800
     name: 咖啡
     amount: 120.5
     unit: ml
-  - time: 20260618165900
+  - time: 20260617165900
     name: 开水
     amount: 250
     unit: ml
-  - time: 20260618181200
+  - time: 20260617181200
     name: 开水
     amount: 250
     unit: ml
-  - time: 20260618195100
+  - time: 20260617195100
     name: 开水
     amount: 250
     unit: ml
-  - time: 20260618230500
+  - time: 20260617230500
     name: 可可奶
     amount: 120.0
     unit: ml
-  - time: 20260618232400
+  - time: 20260617232400
     name: 开水
     amount: 100
     unit: ml
 med:
-  - time: 20260618152700
+  - time: 20260617152700
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
-  - time: 20260618165900
+  - time: 20260617165900
     name: selenium
     amount: 200
     unit: μg
-  - time: 202606181659002026
+  - time: 202606171659002026
     name: mature multi
     amount: 1
     unit: 片
-  - time: 20260618165900
+  - time: 20260617165900
     name: 维生素D3
     amount: 50
     unit: μg
