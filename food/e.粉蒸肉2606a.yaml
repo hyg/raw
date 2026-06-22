@@ -1,0 +1,14 @@
+name: 粉蒸肉2606a
+amount: 560
+unit: g
+food:
+  - name: 梅花肉
+    amount: 500.0
+    unit: g
+  - name: 徐七二粉蒸肉粉
+    amount: 60
+    unit: g
+log:
+  - 肉粉混合后，蒸箱下层蒸20分钟。
+comment:
+  - 口感合适，咸淡合适。至今保留水份最好的做法。

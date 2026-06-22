@@ -1,0 +1,25 @@
+name: 耘鲜坊轻胚芽软米
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1495
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 7.7
+    unit: g
+    nrv: 13
+  脂肪:
+    amount: 1.5
+    unit: g
+    nrv: 3
+  碳水化合物:
+    amount: 77
+    unit: g
+    nrv: 26
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0
+comment: 声农4号
