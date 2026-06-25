@@ -1,0 +1,97 @@
+name: 羽衣甘蓝
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 32
+    unit: kcal
+    nrv: 1.56
+  蛋白质:
+    amount: 5
+    unit: g
+    nrv: 5.57
+  脂肪:
+    amount: 0.4
+    unit: g
+    nrv: 0.7
+  碳水化合物:
+    amount: 5.7
+    unit: g
+    nrv: 1.93
+  膳食纤维:
+    amount: 3.7
+    unit: g
+    nrv: 12.33
+  VA(视黄醇等):
+    amount: 728
+    unit: μg
+    nrv: 94.55
+  VE(生育酚):
+    amount: 1.12
+    unit: mg
+    nrv: 8
+  VB1(硫胺素):
+    amount: 0.07
+    unit: mg
+    nrv: 5
+  VB2(核黄素):
+    amount: 0.18
+    unit: mg
+    nrv: 12.86
+  VB3(烟酸):
+    amount: 1.09
+    unit: mg
+    nrv: 7.27
+  VB6(吡哆素):
+    amount: 0.26
+    unit: mg
+    nrv: 18.57
+  VB9(叶酸):
+    amount: 113
+    unit: μg
+    nrv: 28.25
+  VC(抗坏血酸):
+    amount: 63
+    unit: mg
+    nrv: 63
+  磷:
+    amount: 82
+    unit: mg
+    nrv: 11.55
+  钙:
+    amount: 66
+    unit: mg
+    nrv: 8.25
+  铁:
+    amount: 1.6
+    unit: mg
+    nrv: 13.33
+  钠:
+    amount: 67
+    unit: mg
+    nrv: 4.47
+  钾:
+    amount: 395
+    unit: mg
+    nrv: 19.75
+  镁:
+    amount: 53
+    unit: mg
+    nrv: 16.56
+  锌:
+    amount: 0.56
+    unit: mg
+    nrv: 4.67
+  铜:
+    amount: 0.06
+    unit: mg
+    nrv: 7.5
+  锰:
+    amount: 0.4
+    unit: mg
+    nrv: 8.89
+  生物素:
+    amount: 9.8
+    unit: μg
+    nrv: 24.5
+comment: https://www.eshian.com/sat/yyss/detail/LXMjAyNi0wNi0yNg==/1998
