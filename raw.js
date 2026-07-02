@@ -24,7 +24,7 @@ var ftable = new Object(); // food data
 // element detail list
 const Keyelement = [
   //"热量",
-  //"蛋白质",
+  "蛋白质",
   //"脂肪",
   //"饱和脂肪酸",
   //"单不饱和脂肪酸",
