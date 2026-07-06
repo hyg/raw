@@ -1,0 +1,85 @@
+name: 干枣
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 276
+    unit: kcal
+    nrv: 13.46
+  蛋白质:
+    amount: 3.2
+    unit: g
+    nrv: 3.57
+  脂肪:
+    amount: 0.5
+    unit: g
+    nrv: 0.88
+  碳水化合物:
+    amount: 67.8
+    unit: g
+    nrv: 23.01
+  VA(视黄醇等):
+    amount: 2
+    unit: μg
+    nrv: 0.26
+  VE(生育酚):
+    amount: 3.04
+    unit: mg
+    nrv: 21.71
+  VB1(硫胺素):
+    amount: 0.04
+    unit: mg
+    nrv: 2.86
+  VB2(核黄素):
+    amount: 0.16
+    unit: mg
+    nrv: 11.43
+  VB3(烟酸):
+    amount: 0.9
+    unit: mg
+    nrv: 6
+  VC(抗坏血酸):
+    amount: 14
+    unit: mg
+    nrv: 14
+  磷:
+    amount: 51
+    unit: mg
+    nrv: 7.18
+  钙:
+    amount: 64
+    unit: mg
+    nrv: 8
+  铁:
+    amount: 2.3
+    unit: mg
+    nrv: 19.17
+  钠:
+    amount: 6
+    unit: mg
+    nrv: 0.4
+  钾:
+    amount: 524
+    unit: mg
+    nrv: 26.2
+  镁:
+    amount: 36
+    unit: mg
+    nrv: 11.25
+  锌:
+    amount: 0.65
+    unit: mg
+    nrv: 5.42
+  硒:
+    amount: 1
+    unit: μg
+    nrv: 1.67
+  铜:
+    amount: 0.27
+    unit: mg
+    nrv: 33.75
+  锰:
+    amount: 0.39
+    unit: mg
+    nrv: 8.67
+comment: https://www.eshian.com/sat/yyss/detail/LXMjAyNi0wNy0wNg==/1028
