@@ -1,0 +1,24 @@
+name: 法芙娜可可粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1491
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 19
+    unit: g
+    nrv: 32
+  脂肪:
+    amount: 21
+    unit: g
+    nrv: 36
+  碳水化合物:
+    amount: 8.9
+    unit: g
+    nrv: 3
+  钠:
+    amount: 20
+    unit: mg
+    nrv: 1
