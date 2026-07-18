@@ -1,0 +1,120 @@
+date: 20260718
+food:
+  - time: 20260718193500
+    name: 杏
+    amount: 96.5
+    unit: g
+  - time: 20260718184500
+    name: 黄桃
+    amount: 255.5
+    unit: g
+    log: 中油蟠7号
+  - time: 20260718184900
+    name: 象大厨韭菜猪肉水饺
+    amount: 142.0
+    unit: g
+  - time: 20260718184900
+    name: 油条
+    amount: 167.0
+    unit: g
+    log:
+      - 外卖油条：49.0g
+      - 韭菜盒子：142.0g
+      - 糖油饼：118.0g
+  - time: 20260718184900
+    name: 鸭肉
+    amount: 125.5
+    unit: g
+    log: 带骨165.0g，皮骨重39.5g
+  - time: 20260718184900
+    name: 香菇
+    amount: 17.5
+    unit: g
+  - time: 20260718184900
+    name: 生姜汁
+    amount: 13.0
+    unit: g
+  - time: 20260718184900
+    name: 豆瓣酱
+    amount: 9
+    unit: g
+  - time: 20260718184900
+    name: 秋葵
+    amount: 163.0
+    unit: g
+  - time: 20260718184900
+    name: 十三村原味腐乳
+    amount: 10.0
+    unit: g
+  - time: 20260718192800
+    name: 桂柿柿饼
+    amount: 55.5
+    unit: g
+  - time: 20260718193500
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20260718193500
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20260718193500
+    name: 桑葚干
+    amount: 15.0
+    unit: g
+  - time: 20260718200400
+    name: 奶粉
+    amount: 30.0
+    unit: g
+  - time: 20260718200400
+    name: 景兰冻干黑咖啡
+    amount: 1.5
+    unit: g
+water:
+  - time: 20260718165600
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20260718182600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260718184900
+    name: 汤水
+    amount: 350
+    unit: ml
+  - time: 20260718200400
+    name: 咖啡
+    amount: 120.5
+    unit: ml
+  - time: 20260718220400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260718224500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260719002400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260719013000
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20260718200400
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20260718220400
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20260718220400
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |

@@ -60,6 +60,24 @@ food:
     name: 景兰冻干黑咖啡
     amount: 1.5
     unit: g
+  - time: 20260718071500
+    name: 李子
+    amount: 151.5
+    unit: g
+  - time: 20260718072000
+    name: 油条
+    amount: 196.5
+    unit: g
+    log: 
+      - 外卖油条：47.0g
+      - 韭菜盒子：
+      - 糖油饼：74.5g
+      - 糯米炸糕：75.0g
+  - time: 20260718072000
+    name: 韩三顺辣白菜
+    amount: 47
+    unit: g
+    log: 外卖咸菜
 water:
   - time: 20260717145600
     name: 开水
@@ -90,6 +108,10 @@ water:
     amount: 250
     unit: ml
   - time: 20260717232800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260718074000
     name: 开水
     amount: 250
     unit: ml
