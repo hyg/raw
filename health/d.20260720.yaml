@@ -32,20 +32,6 @@ exercise:
   endheartrate: 110
   log: |
     室内运动后把脉: 关脉寸脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
-- time: 20260720205300
-  item:
-  - type: walk
-    amount: 27
-    unit: minute
-  SpO2: 95
-  PRbpm: 115
-- time: 20260720330000
-  item:
-  - type: 臀腰激活L2
-    amount: 14
-    unit: minute
-  SpO2: 97
-  PRbpm: 87
 stool:
 - time: 20260720191700
   amount:   1   #	1:多; 2:适中;	3:少
