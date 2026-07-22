@@ -1,0 +1,24 @@
+name: 小象高纤快熟燕麦片
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1673
+    unit: kj
+    nrv: 20
+  蛋白质:
+    amount: 11.2
+    unit: g
+    nrv: 19
+  脂肪:
+    amount: 10.1
+    unit: g
+    nrv: 17
+  碳水化合物:
+    amount: 62.3
+    unit: g
+    nrv: 20
+  膳食纤维:
+    amount: 8.4
+    unit: g
+    nrv: 34
