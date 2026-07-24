@@ -1,0 +1,119 @@
+date: 20260724
+food:
+  - time: 20260724192000
+    name: 杏
+    amount: 86.0
+    unit: g
+  - time: 20260724192200
+    name: 蜜桃
+    amount: 218.5
+    unit: g
+    log: 连平鹰嘴桃
+  - time: 20260724192800
+    name: 小象高纤快熟燕麦片
+    amount: 20.0
+    unit: g
+  - time: 20260724192800
+    name: 汾都香红豆
+    amount: 10.0
+    unit: g
+  - time: 20260724192800
+    name: 干山药
+    amount: 9.5
+    unit: g
+  - time: 20260724192800
+    name: 银耳
+    amount: 5.0
+    unit: g
+  - time: 20260724192800
+    name: 莲子
+    amount: 4.5
+    unit: g
+  - time: 20260724192800
+    name: 薏米
+    amount: 5.0
+    unit: g
+  - time: 20260724192800
+    name: 干百合
+    amount: 2.0
+    unit: g
+    log: 
+      - 黄芪2.0g
+      - 麦冬2.0g
+  - time: 20260724192800
+    name: 盐水牛肉2607a
+    amount: 41.0
+    unit: g
+  - time: 20260724192800
+    name: 南瓜
+    amount: 159.5
+    unit: g
+    log: 贝栗美
+  - time: 20260724192800
+    name: 芦笋
+    amount: 148.5
+    unit: g
+  - time: 20260724192800
+    name: 十三村原味腐乳
+    amount: 8.5
+    unit: g
+  - time: 20260724195500
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20260724195500
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20260724195500
+    name: 桑葚干
+    amount: 15.0
+    unit: g
+  - time: 20260724201400
+    name: 奶粉
+    amount: 30.0
+    unit: g
+  - time: 20260724201400
+    name: 景兰冻干黑咖啡
+    amount: 1.5
+    unit: g
+water:
+  - time: 20260724170500
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20260724184900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260724192800
+    name: 粥水
+    amount: 500
+    unit: ml
+  - time: 20260724201400
+    name: 咖啡
+    amount: 120.0
+    unit: ml
+  - time: 20260724220600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260724225000
+    name: 开水
+    amount: 250
+    unit: ml
+med:
+  - time: 20260724201400
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20260724220600
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20260724220600
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
