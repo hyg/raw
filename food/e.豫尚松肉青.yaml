@@ -1,0 +1,24 @@
+name: 豫尚松肉青
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 800
+    unit: kj
+    nrv: 10
+  蛋白质:
+    amount: 14.5
+    unit: g
+    nrv: 24
+  脂肪:
+    amount: 9.7
+    unit: g
+    nrv: 16
+  碳水化合物:
+    amount: 11.5
+    unit: g
+    nrv: 4
+  钠:
+    amount: 38
+    unit: mg
+    nrv: 2
