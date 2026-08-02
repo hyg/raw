@@ -1,0 +1,24 @@
+name: 象大厨广式烧鸭
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1152
+    unit: kj
+    nrv: 13
+  蛋白质:
+    amount: 19.0
+    unit: g
+    nrv: 32
+  脂肪:
+    amount: 20.2
+    unit: g
+    nrv: 34
+  碳水化合物:
+    amount: 3.6
+    unit: g
+    nrv: 1
+  钠:
+    amount: 598
+    unit: mg
+    nrv: 30

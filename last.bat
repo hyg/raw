@@ -15,16 +15,17 @@ set /a min=100%min% %% 100
 :: 计算当前总分钟数
 set /a total=hour*60+min
 
+:: 14:00 对应的总分钟数为 14*60=840
 :: 17:00 对应的总分钟数为 17*60=1020
-if %total% geq 1020 (
+if %total% geq 840 (
     goto After
 ) else (
     goto Before
 )
 
 :After
-echo 当前时间在 17:00 及以后。
-:: 在这里放置 17:00 以后要执行的代码
+echo 当前时间在 14:00 及以后。
+:: 在这里放置 14:00 以后要执行的代码
 
 :: 获取当前日期（格式：20251015）
 ::for /f "tokens=1-4 delims=/ " %%a in ("%date%") do ( set "ymd=%%a%%b%%c")
@@ -38,8 +39,8 @@ edit health\d.%ymd%.yaml
 goto End
 
 :Before
-echo 当前时间在 17:00 之前。
-:: 在这里放置 17:00 以前要执行的代码
+echo 当前时间在 14:00 之前。
+:: 在这里放置 14:00 以前要执行的代码
 rem 例如：your_command_before.exe
 goto End
 
