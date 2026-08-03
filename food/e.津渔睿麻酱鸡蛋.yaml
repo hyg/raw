@@ -1,0 +1,24 @@
+name: 津渔睿麻酱鸡蛋
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 532
+    unit: kj
+    nrv: 6
+  蛋白质:
+    amount: 12.5
+    unit: g
+    nrv: 21
+  脂肪:
+    amount: 7.4
+    unit: g
+    nrv: 12
+  碳水化合物:
+    amount: 2.7
+    unit: g
+    nrv: 1
+  钠:
+    amount: 1160
+    unit: mg
+    nrv: 58
