@@ -127,5 +127,9 @@ med:
     name: mature multi
     amount: 1
     unit: 片
+  - time: 20260730214900
+    name: 维生素D3
+    amount: 50
+    unit: μg
 log: |
 comment: |
