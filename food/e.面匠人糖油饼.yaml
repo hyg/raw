@@ -1,0 +1,24 @@
+name: 面匠人糖油饼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1417
+    unit: kj
+    nrv: 17
+  蛋白质:
+    amount: 6.0
+    unit: g
+    nrv: 10
+  脂肪:
+    amount: 16.6
+    unit: g
+    nrv: 28
+  碳水化合物:
+    amount: 41.2
+    unit: g
+    nrv: 14
+  钠:
+    amount: 288
+    unit: mg
+    nrv: 14
