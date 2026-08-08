@@ -107,7 +107,7 @@ food:
     name: 品儿Piner天然可可粉
     amount: 2.0
     unit: g
-f:
+plan:
   - time: 20260807180000
     name: 小象高纤快熟燕麦片
     amount: 40.0
@@ -173,6 +173,10 @@ water:
   - time: 20260807130800
     name: 开水
     amount: 250
+    unit: ml
+  - time: 20260807164800
+    name: 开水
+    amount: 300
     unit: ml
 med:
   - time: 20260807050400
