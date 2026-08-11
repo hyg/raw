@@ -1,0 +1,163 @@
+date: 20260811
+food:
+  - time: 20260811050300
+    name: 芒果
+    amount: 197.0
+    unit: g
+  - time: 20260811051200
+    name: 白鲨沙河粉
+    amount: 75.0
+    unit: g
+  - time: 20260811051200
+    name: 盐水牛肉2608a
+    amount: 60.5
+    unit: g
+  - time: 20260811051200
+    name: 油菜
+    amount: 74.5
+    unit: g
+  - time: 20260811051200
+    name: 中盐绿色低钠湖盐
+    amount: 2.0
+    unit: g
+  - time: 20260811052700
+    name: 伯香村五仁月饼
+    amount: 49.0
+    unit: g
+  - time: 20260811052700
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20260811052700
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20260811052700
+    name: 桑葚干
+    amount: 15.0
+    unit: g
+  - time: 20260811053700
+    name: 河套草原纯奶粉
+    amount: 20.0
+    unit: g
+  - time: 20260811053700
+    name: 景兰冻干黑咖啡
+    amount: 1.0
+    unit: g
+  - time: 20260811122600
+    name: 番茄酱
+    amount: 26.0
+    unit: g
+  - time: 20260811122600
+    name: 棘密沙棘原浆
+    amount: 28.5
+    unit: g
+  - time: 20260811122600
+    name: 菊粉
+    amount: 15.0
+    unit: g
+  - time: 20260811122900
+    name: 烤红薯2608a
+    amount: 128.0
+    unit: g
+  - time: 20260811122900
+    name: 青椒
+    amount: 211.5
+    unit: g
+  - time: 20260811122900
+    name: 盐水鸡腿肉2607b
+    amount: 25.5
+    unit: g
+  - time: 20260811122900
+    name: 维扬破碎油方
+    amount: 23.5
+    unit: g
+  - time: 20260811122900
+    name: 津渔睿麻酱鸡蛋
+    amount: 58.0
+    unit: g
+  - time: 20260811122900
+    name: 小象原制马苏里拉芝士碎
+    amount: 32.0
+    unit: g
+    log: 180°C+15分钟，210°C+5分钟。
+  - time: 20260811122900
+    name: 菠菜
+    amount: 172.5
+    unit: g
+  - time: 20260811122900
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20260811122900
+    name: 欧丽薇兰橄榄油
+    amount: 0.5
+    unit: g
+  - time: 20260811124600
+    name: 龟苓膏粉
+    amount: 52.5
+    unit: g
+  - time: 20260811130500
+    name: 龙眼
+    amount: 135.5
+    unit: g
+  - time: 20260811133900
+    name: 河套草原纯奶粉
+    amount: 20.0
+    unit: g
+  - time: 20260811133900
+    name: 品儿Piner天然可可粉
+    amount: 2.0
+    unit: g
+water:
+  - time: 20260811031100
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20260811043700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260811051200
+    name: 汤
+    amount: 500
+    unit: ml
+  - time: 20260811053700
+    name: 咖啡
+    amount: 80.0
+    unit: ml
+  - time: 20260811064400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260811080400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260811094700
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260811133900
+    name: 可可奶
+    amount: 81.0
+    unit: ml
+  - time: 20260811154000
+    name: 开水
+    amount: 200
+    unit: ml
+med:
+  - time: 20260811053700
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20260811064400
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20260811064400
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |

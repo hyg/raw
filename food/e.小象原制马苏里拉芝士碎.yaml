@@ -1,0 +1,28 @@
+name: 小象原制马苏里拉芝士碎
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1172
+    unit: kj
+    nrv: 14
+  蛋白质:
+    amount: 25.4
+    unit: g
+    nrv: 39
+  脂肪:
+    amount: 20
+    unit: g
+    nrv: 33
+  碳水化合物:
+    amount: 2.0
+    unit: g
+    nrv: 1
+  钠:
+    amount: 486
+    unit: mg
+    nrv: 24
+  钙:
+    amount: 643
+    unit: mg
+    nrv: 80
