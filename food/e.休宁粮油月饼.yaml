@@ -1,0 +1,24 @@
+name: 休宁粮油月饼
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1850
+    unit: kj
+    nrv: 22
+  蛋白质:
+    amount: 3.5
+    unit: g
+    nrv: 10
+  脂肪:
+    amount: 19.8
+    unit: g
+    nrv: 33
+  碳水化合物:
+    amount: 59.4
+    unit: g
+    nrv: 20
+  钠:
+    amount: 75
+    unit: mg
+    nrv: 4
