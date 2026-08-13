@@ -1,16 +1,16 @@
-date: 20260814
+date: 20260813
 sleep: 
-  time: 20260813171600
+  time: 20260812171600
   weight: 55.2
 wake:
-  time: 20260814004000
+  time: 20260813004000
   weight: 54.4
   SpO2: 94
   PRbpm: 60
   log: |
    睡前小便0次，补水0次，睡觉中间起来小便1次。
 exercise: 
-- time: 20260814014800
+- time: 20260813014800
   item:
   - type: 大拉伸(Greatest Stretch)
     amount: 1
@@ -32,22 +32,15 @@ exercise:
   endheartrate: 114
   log: |
     室内运动后把脉: 寸脉关脉中偏浅、尺脉深度中；侧向居中；三处清晰有力。
-- time: 20260814063100
+- time: 20260813063100
   item:
   - type: walk
     amount: 28
     unit: minute
   SpO2: 95
   PRbpm: 116
-- time: 20260814330000
-  item:
-  - type: 臀腰激活L2
-    amount: 14
-    unit: minute
-  SpO2: 97
-  PRbpm: 87
 stool:
-- time: 20260814034000
+- time: 20260813034000
   amount:   2   #	1:多; 2:适中;	3:少
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
