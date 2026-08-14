@@ -1,0 +1,78 @@
+name: 牛上脑
+nickname: 牛肉（背部肉）[上脑]
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 193
+    unit: kcal
+    nrv: 9.41
+  蛋白质:
+    amount: 17.4
+    unit: g
+    nrv: 19.4
+  脂肪:
+    amount: 12.4
+    unit: g
+    nrv: 21.78
+  碳水化合物:
+    amount: 3
+    unit: g
+    nrv: 1.02
+  VA(视黄醇等):
+    amount: .nan
+    unit: μg
+    nrv: .nan
+  VE(生育酚):
+    amount: 0.17
+    unit: mg
+    nrv: 1.21
+  VB1(硫胺素):
+    amount: 0.04
+    unit: mg
+    nrv: 2.86
+  VB2(核黄素):
+    amount: 0.08
+    unit: mg
+    nrv: 5.71
+  VB3(烟酸):
+    amount: 2.28
+    unit: mg
+    nrv: 15.2
+  VB9(叶酸):
+    amount: 4
+    unit: μg
+    nrv: 1
+  VC(抗坏血酸):
+    amount: .nan
+    unit: mg
+    nrv: .nan
+  铁:
+    amount: 0.7
+    unit: mg
+    nrv: 5.83
+  锌:
+    amount: 4.65
+    unit: mg
+    nrv: 38.75
+  硒:
+    amount: 1.8
+    unit: μg
+    nrv: 3
+  铜:
+    amount: 0.01
+    unit: mg
+    nrv: 1.25
+  锰:
+    amount: .nan
+    unit: mg
+    nrv: .nan
+  生物素:
+    amount: 0.7
+    unit: μg
+    nrv: 1.75
+  胆碱:
+    amount: 38.9
+    unit: mg
+    nrv: 8.64
+comment: https://www.eshian.com/sat/yyss/detail/LXMjAyNi0wOC0xNA==/688
