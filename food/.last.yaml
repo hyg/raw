@@ -67,12 +67,8 @@ food:
     unit: g
 
   - time: 20260823112100
-    name: 光明谷锦崇明大米
-    amount: 60.0
-    unit: g
-  - time: 20260823112100
-    name: 紫米
-    amount: 10
+    name: 烤红薯2608a
+    amount: 100
     unit: g
   - time: 20260823112100
     name: 盐水鸡腿肉2608a
@@ -137,10 +133,11 @@ food:
     amount: 2.0
     unit: g
 water:
-  - time: 20260823034300
+  - time: 20260823041000
     name: 开水
     amount: 200
     unit: ml
+
   - time: 20260823050000
     name: 开水
     amount: 250

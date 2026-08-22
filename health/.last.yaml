@@ -1,14 +1,14 @@
 date: 20260823
 sleep: 
-  time: 20260822191200
-  weight: 54.9
+  time: 20260822203300
+  weight: 55.4
 wake:
-  time: 20260823042000
-  weight: 54.0
-  SpO2: 94
-  PRbpm: 60
+  time: 20260823040300
+  weight: 54.4
+  SpO2: 95
+  PRbpm: 62
   log: |
-   睡前小便0次，补水0次，睡觉中间起来小便2次。
+   睡前小便0次，补水0次，睡觉中间起来小便1次。
 exercise: 
 - time: 20260823052700
   item:
@@ -52,6 +52,5 @@ stool:
   type:     2   #	0:水样; 1:软;	2:适中;	3:硬;
   diffcult: 1   #	1:不困难;	2:困难
 log:
-  - 右耳和耳廓已经不痛了。
 comment:
  
