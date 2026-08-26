@@ -1,0 +1,105 @@
+name: 西梅
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 39
+    unit: kcal
+    nrv: 1.9
+  蛋白质:
+    amount: 0.7
+    unit: g
+    nrv: 0.78
+  脂肪:
+    amount: 0.1
+    unit: g
+    nrv: 0.18
+  碳水化合物:
+    amount: 10.3
+    unit: g
+    nrv: 3.5
+  膳食纤维:
+    amount: 1.5
+    unit: g
+    nrv: 5
+  VA(视黄醇等):
+    amount: 1
+    unit: μg
+    nrv: 0.13
+  VE(生育酚):
+    amount: 0.18
+    unit: mg
+    nrv: 1.29
+  VB1(硫胺素):
+    amount: 0.01
+    unit: mg
+    nrv: 0.71
+  VB2(核黄素):
+    amount: 0.01
+    unit: mg
+    nrv: 0.71
+  VB3(烟酸):
+    amount: 0.18
+    unit: mg
+    nrv: 1.2
+  VB6(吡哆素):
+    amount: 0.05
+    unit: mg
+    nrv: 3.57
+  VB9(叶酸):
+    amount: 2
+    unit: μg
+    nrv: 0.5
+  VC(抗坏血酸):
+    amount: 1.4
+    unit: mg
+    nrv: 1.4
+  磷:
+    amount: 16
+    unit: mg
+    nrv: 2.25
+  钙:
+    amount: 11
+    unit: mg
+    nrv: 1.38
+  铁:
+    amount: 0.1
+    unit: mg
+    nrv: 0.83
+  钠:
+    amount: 3
+    unit: mg
+    nrv: 0.2
+  钾:
+    amount: 155
+    unit: mg
+    nrv: 7.75
+  镁:
+    amount: 10
+    unit: mg
+    nrv: 3.13
+  锌:
+    amount: 0.04
+    unit: mg
+    nrv: 0.33
+  碘:
+    amount: .nan
+    unit: μg
+    nrv: .nan
+  硒:
+    amount: 0.1
+    unit: μg
+    nrv: 0.17
+  铜:
+    amount: 0.02
+    unit: mg
+    nrv: 2.5
+  锰:
+    amount: 0.04
+    unit: mg
+    nrv: 0.89
+  生物素:
+    amount: 0.2
+    unit: μg
+    nrv: 0.5
+comment: https://www.eshian.com/sat/yyss/detail/LXMjAyNi0wOC0yNg==/2108
