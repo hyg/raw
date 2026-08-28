@@ -1,54 +1,90 @@
 date: 20260828
 food:
-  - time: 20260828064500
+  - time: 20260828082000
     name: 柿子
-    amount: 45.5
+    amount: 92.5
     unit: g
-
-  - time: 20260828125100
+  - time: 20260828092600
     name: 馒头2608c
     amount: 1
     unit: 个
-  - time: 20260828125100
-    name: 盐水鸡腿肉2608b
-    amount: 50
+  - time: 20260828092600
+    name: 粉蒸肉2608a
+    amount: 41.0
     unit: g
-  - time: 20260828125100
+  - time: 20260828092600
     name: 南瓜
-    amount: 100
+    amount: 90.0
     unit: g
     log: 白浪源1号
-  - time: 20260828125100
+  - time: 20260828092600
     name: 芦笋
-    amount: 150
+    amount: 218.0
     unit: g
-  - time: 20260828125100
+  - time: 20260828092600
     name: 十三村原味腐乳
-    amount: 10
+    amount: 8.5
     unit: g
-
-  - time: 20260828071700
+  - time: 20260828084400
     name: 麦胚芽
     amount: 15.0
     unit: g
-  - time: 20260828071700
+  - time: 20260828084400
     name: 亚麻籽粉
     amount: 10.0
     unit: g
-  - time: 20260828071700
+  - time: 20260828084400
     name: 新边界云桑2号桑葚干
     amount: 15.0
     unit: g
-
-  - time: 20260828082200
+  - time: 20260828085400
     name: 河套草原纯奶粉
     amount: 20.0
     unit: g
-  - time: 20260828082200
+  - time: 20260828085400
     name: 景兰冻干黑咖啡
     amount: 1.0
     unit: g
 
+  - time: 20260828141627
+    name: 大米
+    amount: 100
+    unit: g
+  - time: 20260828141627
+    name: 菜心
+    amount: 60
+    unit: g
+  - time: 20260828141627
+    name: 荣昌鹅大叔卤鹅
+    amount: 160
+    unit: g
+  - time: 20260828141627
+    name: 烤叉烧2607a
+    amount: 60
+    unit: g
+  - time: 20260828141627
+    name: 中盐绿色低钠湖盐
+    amount: 2.0
+    unit: g
+  - time: 20260828141627
+    name: 油
+    amount: 2.0
+    unit: g
+    log: 实际是老广烧腊的烧鹅叉烧饭
+  - time: 20260828172500
+    name: 人参果
+    amount: 84.5
+    unit: g
+  - time: 20260828172700
+    name: 李子
+    amount: 85.5
+    unit: g
+    log: 青脆李
+  - time: 20260828172900
+    name: 西梅
+    amount: 38.5
+    unit: g
+plan:
   - time: 20260828130800
     name: 番茄酱
     amount: 25
@@ -80,7 +116,7 @@ food:
     name: 烤红薯2608a
     amount: 100
     unit: g
-  - time: 20260828125100
+  - time: 20260828092600
     name: 三文鱼
     amount: 50
     unit: g
@@ -150,30 +186,31 @@ food:
     amount: 2.0
     unit: g
 water:
-  - time: 20260828044900
+  - time: 20260828065300
     name: 开水
     amount: 200
     unit: ml
-  - time: 20260828061000
+  - time: 20260828080800
     name: 开水
     amount: 250
     unit: ml
-  - time: 20260828064700
-    name: 粥水
-    amount: 400
-    unit: ml
-  - time: 20260828082200
+  - time: 20260828085400
     name: 咖啡
-    amount: 82.5
+    amount: 80.5
     unit: ml
-  - time: 20260828082200
+  - time: 20260828092600
     name: 开水
     amount: 250
     unit: ml
-  - time: 20260828103300
+  - time: 20260828160600
     name: 开水
     amount: 250
     unit: ml
+  - time: 20260828165700
+    name: 开水
+    amount: 250
+    unit: ml
+w:
   - time: 20260828134800
     name: 可可奶
     amount: 80.0
@@ -191,19 +228,19 @@ water:
     amount: 100
     unit: ml
 med:
-  - time: 20260828082200
+  - time: 20260828092600
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
-  - time: 20260828082200
+  - time: 20260828092600
     name: selenium
     amount: 200
     unit: μg
-  - time: 20260828082200
+  - time: 20260828092600
     name: mature multi
     amount: 1
     unit: 片
-  - time: 20260828082200
+  - time: 20260828092600
     name: 维生素D3
     amount: 50
     unit: μg
