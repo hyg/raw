@@ -82,10 +82,6 @@ element:
     amount: 0.04
     unit: mg
     nrv: 0.33
-  碘:
-    amount: .nan
-    unit: μg
-    nrv: .nan
   硒:
     amount: 0.1
     unit: μg
