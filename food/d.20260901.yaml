@@ -183,9 +183,13 @@ water:
     name: 可可奶
     amount: 80.0
     unit: ml
-  - time: 2026090192000
+  - time: 20260901192000
     name: 开水
     amount: 200
+    unit: ml
+  - time: 20260901210500
+    name: 开水
+    amount: 100
     unit: ml
 w:
   - time: 20260901190700

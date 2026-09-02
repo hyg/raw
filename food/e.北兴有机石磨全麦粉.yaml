@@ -1,0 +1,24 @@
+name: 北兴有机石磨全麦粉
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1489
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 11.4
+    unit: g
+    nrv: 19
+  脂肪:
+    amount: 1.6
+    unit: g
+    nrv: 3
+  碳水化合物:
+    amount: 72.7
+    unit: g
+    nrv: 24
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0
