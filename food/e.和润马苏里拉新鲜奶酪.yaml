@@ -1,0 +1,33 @@
+name: 和润马苏里拉新鲜奶酪
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1380
+    unit: kj
+    nrv: 16
+  蛋白质:
+    amount: 24.0
+    unit: g
+    nrv: 40
+  脂肪:
+    amount: 26.0
+    unit: g
+    nrv: 43
+  碳水化合物:
+    amount: 0.6
+    unit: g
+    nrv: 0
+  钠:
+    amount: 360
+    unit: mg
+    nrv: 18
+  钙:
+    amount: 500
+    unit: mg
+    nrv: 63
+comment:
+  饱和脂肪:
+    amount: 15.5
+    unit: g
+    nrv: 78
