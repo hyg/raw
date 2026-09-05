@@ -1,0 +1,12 @@
+name: 蓬盐弱碱低钠盐
+amount: 100
+unit: g
+element:
+  钠:
+    amount: 29505
+    unit: mg
+    nrv: 1475
+  钾:
+    amount: 10450
+    unit: mg
+    nrv: 522
