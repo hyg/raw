@@ -84,6 +84,10 @@ food:
     name: 欧丽薇兰橄榄油
     amount: 0.5
     unit: g
+  - time: 20260906020700
+    name: 香蕉
+    amount: 97.0
+    unit: g
 plan:
   - time: 20260905140500
     name: 河套草原纯奶粉
@@ -183,6 +187,10 @@ water:
   - time: 20260905210800
     name: 开水
     amount: 100
+    unit: ml
+  - time: 20260906020800
+    name: 开水
+    amount: 50
     unit: ml
 w:
   - time: 20260905140500
