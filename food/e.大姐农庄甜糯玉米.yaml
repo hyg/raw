@@ -1,0 +1,32 @@
+name: 大姐农庄甜糯玉米
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 640
+    unit: kj
+    nrv: 8
+  蛋白质:
+    amount: 3.0
+    unit: g
+    nrv: 5
+  脂肪:
+    amount: 0.9
+    unit: g
+    nrv: 2
+  碳水化合物:
+    amount: 32.7
+    unit: g
+    nrv: 11
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0
+comment:
+  饱和脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 1
+  糖:
+    amount: 3.5
+    unit: g
