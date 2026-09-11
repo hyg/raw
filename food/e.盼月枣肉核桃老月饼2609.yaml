@@ -1,0 +1,28 @@
+name: 盼月枣肉核桃老月饼2609
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1709
+    unit: kj
+    nrv: 20
+  蛋白质:
+    amount: 4.3
+    unit: g
+    nrv: 7
+  脂肪:
+    amount: 14.2
+    unit: g
+    nrv: 24
+  碳水化合物:
+    amount: 55.3
+    unit: g
+    nrv: 22
+  钠:
+    amount: 27
+    unit: mg
+    nrv: 1
+comment:
+  糖:
+    amount: 24.2
+    unit: g
