@@ -1,0 +1,202 @@
+date: 20260918
+food:
+  - time: 20260918101500
+    name: 蜜桃
+    amount: 129.0
+    unit: g
+  - time: 20260918102000
+    name: 红薯燕麦蛋糕2609b
+    amount: 113.0
+    unit: g
+  - time: 20260918102000
+    name: 盐水梅花肉2609a
+    amount: 36.0
+    unit: g
+  - time: 20260918102000
+    name: 南瓜
+    amount: 41.0
+    unit: g
+    log: 贝栗美
+  - time: 20260918102000
+    name: 秋葵
+    amount: 78.5
+    unit: g
+  - time: 20260918103200
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20260918103200
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20260918103200
+    name: 新边界云桑2号桑葚干
+    amount: 15.0
+    unit: g
+  - time: 20260918104900
+    name: 河套草原纯奶粉
+    amount: 20.0
+    unit: g
+  - time: 20260918193800
+    name: 番茄酱
+    amount: 35.0
+    unit: g
+  - time: 20260918193800
+    name: 棘密沙棘原浆
+    amount: 33.0
+    unit: g
+  - time: 20260918193800
+    name: 菊粉
+    amount: 15.0
+    unit: g
+  - time: 20260918193900
+    name: 苹果
+    amount: 183.0
+    unit: g
+  - time: 20260918194600
+    name: 红薯
+    amount: 287.0
+    unit: g
+  - time: 20260918194600
+    name: 三文鱼
+    amount: 48.0
+    unit: g
+  - time: 20260918194600
+    name: 鸡蛋
+    amount: 42.5
+    unit: g
+  - time: 20260918194600
+    name: 十三村原味腐乳
+    amount: 9.5
+    unit: g
+  - time: 20260918194600
+    name: 小白菜
+    amount: 137.5
+    unit: g
+  - time: 20260918194600
+    name: 胡萝卜
+    amount: 113.5
+    unit: g
+  - time: 20260918194600
+    name: 中盐绿色低钠湖盐
+    amount: 3.0
+    unit: g
+  - time: 20260918194600
+    name: 欧丽薇兰橄榄油
+    amount: 0.5
+    unit: g
+  - time: 20260918201600
+    name: 葡萄
+    amount: 225.5
+    unit: g
+  - time: 20260918204200
+    name: 河套草原纯奶粉
+    amount: 20.0
+    unit: g
+  - time: 20260918204200
+    name: 法芙娜可可粉
+    amount: 2.0
+    unit: g
+plan:
+  - time: 20260918185300
+    name: 小象高纤快熟燕麦片
+    amount: 40.0
+    unit: g
+  - time: 20260918185300
+    name: 鸡蛋
+    amount: 50
+    unit: g
+  - time: 20260918185300
+    name: 小白菜
+    amount: 150
+    unit: g
+  - time: 20260918185300
+    name: 十三村原味腐乳
+    amount: 10.0
+    unit: g
+  - time: 20260918185300
+    name: 中盐绿色低钠湖盐
+    amount: 1.0
+    unit: g
+  - time: 20260918185300
+    name: 欧丽薇兰橄榄油
+    amount: 0.5
+    unit: g
+
+  - time: 20260918201100
+    name: 河套草原纯奶粉
+    amount: 20.0
+    unit: g
+  - time: 20260918201100
+    name: 法芙娜可可粉
+    amount: 2.0
+    unit: g
+water:
+  - time: 20260918075300
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20260918095000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260918104900
+    name: 咖啡
+    amount: 48.0
+    unit: ml
+  - time: 20260918122200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260918131600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260918151900
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260918161600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260918204200
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20260918210200
+    name: 开水
+    amount: 50
+    unit: ml
+w:
+  - time: 20260918194600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20260918201100
+    name: 可可奶
+    amount: 0
+    unit: ml
+  - time: 20260918193000
+    name: 开水
+    amount: 125
+    unit: ml
+med:
+  - time: 20260918104900
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20260918122200
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20260918122200
+    name: mature multi
+    amount: 1
+    unit: 片
+  - time: 20260918122200
+    name: 维生素D3
+    amount: 50
+    unit: μg
+log: |
+comment: |

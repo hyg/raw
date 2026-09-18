@@ -1,0 +1,102 @@
+name: 牛腿肉
+nickname: 牛腿端肉（生，瘦肉）
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 134
+    unit: kcal
+    nrv: 6.54
+  蛋白质:
+    amount: 23.8
+    unit: g
+    nrv: 26.54
+  脂肪:
+    amount: 4.3
+    unit: g
+    nrv: 7.55
+  VA(视黄醇等):
+    amount: .nan
+    unit: μg
+    nrv: .nan
+  VE(生育酚):
+    amount: 0.15
+    unit: mg
+    nrv: 1.07
+  VB1(硫胺素):
+    amount: 0.1
+    unit: mg
+    nrv: 7.14
+  VB2(核黄素):
+    amount: 0.27
+    unit: mg
+    nrv: 19.29
+  VB3(烟酸):
+    amount: 5.6
+    unit: mg
+    nrv: 37.33
+  VB6(吡哆素):
+    amount: 0.57
+    unit: mg
+    nrv: 40.71
+  VB9(叶酸):
+    amount: 16
+    unit: μg
+    nrv: 4
+  VB12(钴胺素):
+    amount: 2
+    unit: μg
+    nrv: 83.33
+  VD3(胆钙化醇):
+    amount: 0.5
+    unit: μg
+    nrv: 5
+  磷:
+    amount: 200
+    unit: mg
+    nrv: 28.17
+  钙:
+    amount: 6
+    unit: mg
+    nrv: 0.75
+  铁:
+    amount: 2
+    unit: mg
+    nrv: 16.67
+  钠:
+    amount: 62
+    unit: mg
+    nrv: 4.13
+  钾:
+    amount: 350
+    unit: mg
+    nrv: 17.5
+  镁:
+    amount: 23
+    unit: mg
+    nrv: 7.19
+  锌:
+    amount: 3.8
+    unit: mg
+    nrv: 31.67
+  碘:
+    amount: 6
+    unit: μg
+    nrv: 5
+  硒:
+    amount: 8
+    unit: μg
+    nrv: 13.33
+  铜:
+    amount: 0.02
+    unit: mg
+    nrv: 2.5
+  锰:
+    amount: .nan
+    unit: mg
+    nrv: .nan
+  生物素:
+    amount: 1
+    unit: μg
+    nrv: 2.5
+comment: https://www.eshian.com/sat/yyss/detail/LXMjAyNi0wOS0xOA==/17421
