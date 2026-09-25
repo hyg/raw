@@ -5,7 +5,6 @@
 菊粉、可可粉、香菇、紫菜、麦胚芽、油莎豆、百香果、番石榴、西梅、香蕉、秋葵、木耳。
 
 * 菊粉：
-	- https://shop245269337.taobao.com
 	- https://detail.1688.com/offer/555747966510.html
 	- 源头很集中，进口资质可靠的分装产品都可以买，买GR规格的。
 * 麦片：http://shop33278606.taobao.com
@@ -34,7 +33,6 @@
   	- 无水黄油：
   		- pdd：牛佰仕
   	- 酸奶菌种: 
-  		- https://shop110908838.taobao.com
    		- https://shop583274885.taobao.com
 * 豆制品：
   * 湘东情：https://xiangdongqing.tmall.com
@@ -46,9 +44,9 @@
 
 小分子肽粉、鸡蛋、肉类、奶制品、豆制品、亚麻籽、六旺果。
 
-* 小分子肽粉：罗氏贝特
-	- https://detail.1688.com/offer/682986272737.html
-	- https://detail.1688.com/offer/781106417689.html
+* 小分子肽粉：
+	- pdd:荣林生物植物原料厂家
+	- pdd: 小文德国嘉丽达胶原蛋白
 * 猪肉：
    	- https://laojuantou.taobao.com
    	- pdd：郑州洪宇冻品商行
@@ -98,7 +96,6 @@
   * https://detail.tmall.com/item.htm?id=595994374796
   * https://xinleshipin.tmall.com
 * 面条（低纳）：裕湘无盐挂面、白象无盐面条、塞北雪、大功河、盖亚农场（黑荞麦挂面、玉米面条）、阿拉里、健稚、周辉华
-  	- https://detail.tmall.com/item.htm?id=650501388515
 * 粉丝粉条：冬日、农辛、王华昌
 	- pdd：去种一块田、志合粉皮
 * 酵母：
@@ -131,7 +128,6 @@
 	- https://detail.tmall.com/item.htm?id=777136403641
 	- pdd：莲香楼、李禧记
 - 绿豆饼：
-	- https://51kjthpjpamgvfc4f3xxsaboku8j7jm.taobao.com
 	- pdd：正合
 - 拖罗饼（有防腐剂）：梅园居、东方月
 - 蛋挞：俏侬葡式牛油蛋挞、西厨贝可、麦谷笙
