@@ -1,0 +1,22 @@
+name: 蛋挞2609a
+amount: 9
+unit: 个
+food:
+  - name: 大希地牛油蛋挞皮
+    amount: 185.0
+    unit: g
+  - name: 鸡蛋
+    amount: 93.0
+    unit: g
+  - name: 河套草原纯奶粉
+    amount: 25.0
+    unit: g
+  - name: 小象原制马苏里拉芝士碎
+    amount: 22.0
+    unit: g
+log:
+  - 先加奶粉，用水60.0g摇匀溶解后，再加淡奶油粉和鸡蛋两个。
+  - 不预热、上下火、上层烤盘、160°C+25分钟。
+comment:
+  - 这次用两个鸡蛋，蛋挞液合适。
+  - 蛋挞皮烤硬了，下次190°C+25分钟。
