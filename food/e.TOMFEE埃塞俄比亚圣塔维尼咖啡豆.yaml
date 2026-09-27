@@ -1,0 +1,29 @@
+name: TOMFEE埃塞俄比亚圣塔维尼咖啡豆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1644
+    unit: kj
+    nrv: 20
+  蛋白质:
+    amount: 13.5
+    unit: g
+    nrv: 23
+  脂肪:
+    amount: 3.4
+    unit: g
+    nrv: 6
+  碳水化合物:
+    amount: 75.8
+    unit: g
+    nrv: 25
+  钠:
+    amount: 6
+    unit: mg
+    nrv: 0
+comment:
+  饱和脂肪:
+    amount: 1.5
+    unit: g
+    nrv: 8
