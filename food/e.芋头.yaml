@@ -1,0 +1,85 @@
+name: 芋头
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 81
+    unit: kcal
+    nrv: 3.95
+  蛋白质:
+    amount: 2.2
+    unit: g
+    nrv: 2.45
+  脂肪:
+    amount: 0.2
+    unit: g
+    nrv: 0.35
+  碳水化合物:
+    amount: 18.1
+    unit: g
+    nrv: 6.14
+  VA(视黄醇等):
+    amount: 27
+    unit: μg
+    nrv: 3.51
+  VE(生育酚):
+    amount: 0.45
+    unit: mg
+    nrv: 3.21
+  VB1(硫胺素):
+    amount: 0.06
+    unit: mg
+    nrv: 4.29
+  VB2(核黄素):
+    amount: 0.05
+    unit: mg
+    nrv: 3.57
+  VB3(烟酸):
+    amount: 0.7
+    unit: mg
+    nrv: 4.67
+  VC(抗坏血酸):
+    amount: 6
+    unit: mg
+    nrv: 6
+  磷:
+    amount: 55
+    unit: mg
+    nrv: 7.75
+  钙:
+    amount: 36
+    unit: mg
+    nrv: 4.5
+  铁:
+    amount: 1
+    unit: mg
+    nrv: 8.33
+  钠:
+    amount: 33
+    unit: mg
+    nrv: 2.2
+  钾:
+    amount: 378
+    unit: mg
+    nrv: 18.9
+  镁:
+    amount: 23
+    unit: mg
+    nrv: 7.19
+  锌:
+    amount: 0.49
+    unit: mg
+    nrv: 4.08
+  硒:
+    amount: 1.5
+    unit: μg
+    nrv: 2.5
+  铜:
+    amount: 0.37
+    unit: mg
+    nrv: 46.25
+  锰:
+    amount: 0.3
+    unit: mg
+    nrv: 6.67
+comment: https://www.eshian.com/sat/yyss/detail/LXMjAyNi0wOS0zMA==/427
