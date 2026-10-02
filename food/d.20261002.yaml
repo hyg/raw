@@ -1,0 +1,242 @@
+date: 20261002
+food:
+  - time: 20261002125700
+    name: 猕猴桃
+    amount: 80.0
+    unit: g
+    log: 红阳
+  - time: 20261002125800
+    name: 梨
+    amount: 111.0
+    unit: g
+    log: 京白梨
+  - time: 20261002130000
+    name: 馒头2609c
+    amount: 1
+    unit: 个
+  - time: 20261002130000
+    name: 盐水猪前腿肉2609a
+    amount: 37.5
+    unit: g
+  - time: 20261002130000
+    name: 鸡蛋
+    amount: 51.0
+    unit: g
+  - time: 20261002130000
+    name: 梦幻草原野生韭菜花酱
+    amount: 20
+    unit: g
+  - time: 20261002130000
+    name: 南瓜
+    amount: 44.5
+    unit: g
+    log: 贝栗美
+  - time: 20261002130000
+    name: 秋葵
+    amount: 146.0
+    unit: g
+  - time: 20261002132000
+    name: 蛋挞2609a
+    amount: 1
+    unit: 个
+  - time: 20261002132000
+    name: 盼月枣肉核桃老月饼2609
+    amount: 25.0
+    unit: g
+  - time: 20261002132000
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20261002132000
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20261002132000
+    name: 新边界云桑2号桑葚干
+    amount: 15.0
+    unit: g
+  - time: 20261002134000
+    name: 河套草原纯奶粉
+    amount: 20.0
+    unit: g
+  - time: 20261002134000
+    name: TOMFEE埃塞俄比亚圣塔维尼咖啡豆
+    amount: 10.0
+    unit: g
+    log:
+      - day1:
+        - 12.0g咖啡粉
+        - 90°C+20.5g焖蒸，共120.5g水
+      - day2:
+        - 8.5g咖啡粉+30.5g热水
+        - +昨天咖啡渣+热水，共130g，只出68克咖啡液，下次加到145g
+  - time: 20261002203300
+    name: 番茄酱
+    amount: 27.0
+    unit: g
+  - time: 20261002203300
+    name: 菊粉
+    amount: 10.0
+    unit: g
+  - time: 20261002203400
+    name: 梨
+    amount: 198.5
+    unit: g
+    log: 醉红颜
+  - time: 20261002203800
+    name: 李子
+    amount: 136.5
+    unit: g
+    log: 脆红李
+  - time: 20261002204200
+    name: 光明谷锦崇明大米
+    amount: 50.0
+    unit: g
+  - time: 20261002204200
+    name: 紫米
+    amount: 10.0
+    unit: g
+  - time: 20261002204200
+    name: 煮杂豆2610a
+    amount: 30.0
+    unit: g
+  - time: 20261002204200
+    name: 杏鲍菇
+    amount: 55.0
+    unit: g
+  - time: 20261002204200
+    name: 三文鱼
+    amount: 49.5
+    unit: g
+  - time: 20261002204200
+    name: 小白菜
+    amount: 155.0
+    unit: g
+  - time: 20261002204200
+    name: 蓬盐弱碱低钠盐
+    amount: 2.0
+    unit: g
+  - time: 20261002204200
+    name: 欧丽薇兰橄榄油
+    amount: 0.5
+    unit: g
+
+  - time: 20261002211800
+    name: 河套草原纯奶粉
+    amount: 20.0
+    unit: g
+  - time: 20261002211800
+    name: 法芙娜可可粉
+    amount: 2.0
+    unit: g
+plan:
+  - time: 20261002215400
+    name: 小象高纤快熟燕麦片
+    amount: 40
+    unit: g
+  - time: 20261002215400
+    name: 盐水猪前腿肉2609a
+    amount: 0
+    unit: g
+  - time: 20261002215400
+    name: 津渔睿麻酱鸡蛋
+    amount: 0
+    unit: g
+  - time: 20261002215400
+    name: 鸡蛋
+    amount: 50
+    unit: g
+  - time: 20261002215400
+    name: 十三村原味腐乳
+    amount: 10
+    unit: g
+  - time: 20261002215400
+    name: 油菜
+    amount: 150
+    unit: g
+  - time: 20261002215400
+    name: 胡萝卜
+    amount: 0
+    unit: g
+  - time: 20261002215400
+    name: 蓬盐弱碱低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20261002215400
+    name: 欧丽薇兰橄榄油
+    amount: 0.5
+    unit: g
+
+  - time: 20261002211800
+    name: 河套草原纯奶粉
+    amount: 20.0
+    unit: g
+  - time: 20261002211800
+    name: 法芙娜可可粉
+    amount: 2.0
+    unit: g
+water:
+  - time: 20261002110800
+    name: 开水
+    amount: 175
+    unit: ml
+  - time: 20261002124400
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20261002134000
+    name: 咖啡
+    amount: 68.0
+    unit: ml
+  - time: 20261002143000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20261002162000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20261002181600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20261002211800
+    name: 可可奶
+    amount: 81.0
+    unit: ml
+  - time: 20261002222200
+    name: 开水
+    amount: 50
+    unit: ml
+w:
+  - time: 20261002191500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20261002211800
+    name: 可可奶
+    amount: 80
+    unit: ml
+  - time: 20261002193000
+    name: 开水
+    amount: 125
+    unit: ml
+med:
+  - time: 20261002134000
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20261002143000
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20261002143000
+    name: mature multi
+    amount: 1
+    unit: 片
+  - time: 20261002143000
+    name: 维生素D3
+    amount: 50
+    unit: μg
+log: |
+comment: |

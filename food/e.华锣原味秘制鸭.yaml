@@ -1,0 +1,24 @@
+name: 华锣原味秘制鸭
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1850
+    unit: kj
+    nrv: 22
+  蛋白质:
+    amount: 21.9
+    unit: g
+    nrv: 37
+  脂肪:
+    amount: 39.2
+    unit: g
+    nrv: 65
+  碳水化合物:
+    amount: 1.6
+    unit: g
+    nrv: 1
+  钠:
+    amount: 1242
+    unit: mg
+    nrv: 62

@@ -1,0 +1,15 @@
+name: 煮杂豆2610a
+amount: 617.0
+unit: g
+food:
+  - name: 汾都香绿豆
+    amount: 130.0
+    unit: g
+  - name: 黄豆
+    amount: 130.0
+    unit: g
+log:
+  - 高压锅14分钟。
+comment:
+  - 黄豆软烂合适，绿豆太烂。下次试试8分钟，后面煮饭还有14分钟。
+  - 数量略多，密封碗盖子压到。下次各120g。
