@@ -1,0 +1,44 @@
+name: 醋柳山沙棘原浆
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 300
+    unit: kj
+    nrv: 4
+  蛋白质:
+    amount: 0.9
+    unit: g
+    nrv: 2
+  脂肪:
+    amount: 2.4
+    unit: g
+    nrv: 4
+  碳水化合物:
+    amount: 11.5
+    unit: g
+    nrv: 4
+  钠:
+    amount: 12
+    unit: mg
+    nrv: 1
+  VE(生育酚):
+    amount: 2.96
+    unit: mg
+    nrv: 21
+  VC(抗坏血酸):
+    amount: 308.0
+    unit: mg
+    nrv: 30
+  叶酸:
+    amount: 15
+    unit: μg
+    nrv: 4
+  钙:
+    amount: 13
+    unit: mg
+    nrv: 2
+  铁:
+    amount: 0.7
+    unit: mg
+    nrv: 5
