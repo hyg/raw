@@ -3,7 +3,7 @@ sleep:
   time: 20261005031300
   weight: 54.9
 wake:
-  time: 202610051100100
+  time: 20261005110000
   weight: 54.5
   SpO2: 95
   PRbpm: 62
