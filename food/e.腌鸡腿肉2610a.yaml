@@ -1,0 +1,16 @@
+name: 腌鸡腿肉2610a
+amount: 535.0
+unit: g
+food:
+  - name: 鸡腿肉
+    amount: 502.5
+    unit: g
+  - name: 阑绪儿童新奥尔良烤翅腌料
+    amount: 32.5
+    unit: g
+log:
+  - 加料酒适量、揉匀。
+  - 不预热、上层、上下火、180°C+15分钟
+  - 翻面、190°C+5分钟。
+comment:
+  
