@@ -1,0 +1,224 @@
+date: 20261010
+food:
+  - time: 20261010163800
+    name: 猕猴桃
+    amount: 154.0
+    unit: g
+    log: 郁香
+  - time: 20261010164000
+    name: 白象原味清水挂面
+    amount: 80.0
+    unit: g
+  - time: 20261010164000
+    name: 卤牛肉2610a
+    amount: 40.0
+    unit: g
+  - time: 20261010164000
+    name: 虾有虾途手剥虾仁
+    amount: 43.0
+    unit: g
+  - time: 20261010164000
+    name: 油菜
+    amount: 38.0
+    unit: g
+  - time: 20261010164000
+    name: 蓬盐弱碱低钠盐
+    amount: 0
+    unit: g
+  - time: 20261010170700
+    name: 蛋挞2610a
+    amount: 1
+    unit: 个
+  - time: 20261010170700
+    name: 夏威夷果
+    amount: 6.0
+    unit: g
+  - time: 20261010170700
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20261010170700
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20261010170700
+    name: 新边界云桑2号桑葚干
+    amount: 15.0
+    unit: g
+  - time: 20261010172300
+    name: 河套草原纯奶粉
+    amount: 20.0
+    unit: g
+  - time: 20261010172300
+    name: TOMFEE埃塞俄比亚圣塔维尼咖啡豆
+    amount: 10.0
+    unit: g
+    log:
+      - 实际是景兰意式咖啡豆
+      - day1:
+        - 12克咖啡粉
+        - 90°C热水，25克水焖蒸
+        - 加到110.0g水
+      - day2:
+        - 8克咖啡粉+day1咖啡渣
+        - 加热水到145克密封
+        - 降温后冷藏1天
+  - time: 20261011012900
+    name: 番茄酱
+    amount: 28.5
+    unit: g
+  - time: 20261011012900
+    name: 醋柳山沙棘原浆
+    amount: 26.5
+    unit: g
+  - time: 20261011012900
+    name: 菊粉
+    amount: 10.0
+    unit: g
+  - time: 20261011013000
+    name: 梨
+    amount: 96.0
+    unit: g
+    log: 京白梨
+  - time: 2026101101310000
+    name: 葡萄
+    amount: 160.0
+    unit: g
+    log: 黑皇
+  - time: 20261011013900
+    name: 馒头2610a
+    amount: 1
+    unit: 个
+  - time: 20261011013900
+    name: 华锣原味秘制鸭
+    amount: 43.5
+    unit: g
+    log: 
+      - 毛重97.0g
+      - 和馒头一起蒸。
+      - X 不预热、上下火、中层烤架、180°C+20分钟、210°C+5分钟。
+  - time: 20261011013900
+    name: 油菜
+    amount: 103.5
+    unit: g
+  - time: 20261011013900
+    name: 蓬盐弱碱低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20261011013900
+    name: 欧丽薇兰橄榄油
+    amount: 0.5
+    unit: g
+  - time: 20261010023500
+    name: 真霜柿饼
+    amount: 63.0
+    unit: g
+  - time: 20261007010400
+    name: 河套草原纯奶粉
+    amount: 20.0
+    unit: g
+  - time: 20261007010400
+    name: 法芙娜可可粉
+    amount: 2.0
+    unit: g
+plan:
+  - time: 20261010200000
+    name: 李子
+    amount: 0
+    unit: g
+
+  - time: 20261010201000
+    name: 小象高纤快熟燕麦片
+    amount: 40
+    unit: g
+  - time: 20261010201000
+    name: 广龙日溢海鸭咸蛋
+    amount: 60
+    unit: g
+  - time: 20261010201000
+    name: 油菜
+    amount: 150
+    unit: g
+  - time: 20261010201000
+    name: 蓬盐弱碱低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20261010201000
+    name: 欧丽薇兰橄榄油
+    amount: 0.5
+    unit: g
+
+  - time: 20261010190700
+    name: 河套草原纯奶粉
+    amount: 20.0
+    unit: g
+  - time: 20261010190700
+    name: 法芙娜可可粉
+    amount: 2.0
+    unit: g
+water:
+  - time: 20261010135200
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20261010154500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20261010164000
+    name: 汤水
+    amount: 726
+    unit: ml
+  - time: 20261010172300
+    name: 咖啡
+    amount: 79.0
+    unit: ml
+  - time: 20261010181100
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20261010193300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20261010225800
+    name: 开水
+    amount: 250
+    unit: ml
+
+  - time: 20261007010400
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20261007020500
+    name: 开水
+    amount: 50
+    unit: ml
+w:
+  - time: 20261010210500
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20261010190700
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20261010203600
+    name: 开水
+    amount: 120
+    unit: ml
+med:
+  - time: 20261010172300
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20261010181100
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20261010181100
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
