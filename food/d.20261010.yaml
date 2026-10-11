@@ -113,11 +113,11 @@ food:
     name: 真霜柿饼
     amount: 63.0
     unit: g
-  - time: 20261007010400
+  - time: 20261011031000
     name: 河套草原纯奶粉
     amount: 20.0
     unit: g
-  - time: 20261007010400
+  - time: 20261011031000
     name: 法芙娜可可粉
     amount: 2.0
     unit: g
@@ -185,14 +185,13 @@ water:
     name: 开水
     amount: 250
     unit: ml
-
-  - time: 20261007010400
+  - time: 20261011031000
     name: 可可奶
     amount: 80.0
     unit: ml
-  - time: 20261007020500
+  - time: 20261011040000
     name: 开水
-    amount: 50
+    amount: 100
     unit: ml
 w:
   - time: 20261010210500

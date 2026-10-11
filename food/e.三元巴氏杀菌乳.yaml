@@ -1,0 +1,36 @@
+name: 三元巴氏杀菌乳
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 270
+    unit: kj
+    nrv: 3
+  蛋白质:
+    amount: 3.1
+    unit: g
+    nrv: 5
+  脂肪:
+    amount: 3.7
+    unit: g
+    nrv: 6
+  碳水化合物:
+    amount: 4.7
+    unit: g
+    nrv: 2
+  钠:
+    amount: 60
+    unit: mg
+    nrv: 3
+  钙:
+    amount: 100
+    unit: mg
+    nrv: 13
+comment:
+  饱和脂肪:
+    amount: 2.6
+    unit: g
+    nrv: 13
+  糖:
+    amount: 4.7
+    unit: g
