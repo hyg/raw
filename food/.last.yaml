@@ -2,34 +2,36 @@ date: 20261014
 food:
   - time: 20261014130300
     name: 猕猴桃
-    amount: 180.0
+    amount: 170.0
     unit: g
     log: 郁香
+
   - time: 20261014130600
     name: 馒头2610a
     amount: 1
     unit: 个
   - time: 20261014130600
     name: 卤牛肉2610a
-    amount: 41.5
+    amount: 40
     unit: g
   - time: 20261014130600
     name: 鸡蛋
-    amount: 50
+    amount: 0
     unit: g
   - time: 20261014130600
     name: 梦幻草原野生韭菜花酱
-    amount: 12.5
+    amount: 15
     unit: g
   - time: 20261014130600
     name: 南瓜
-    amount: 76.5
+    amount: 75
     unit: g
     log: 贝栗美
   - time: 20261014130600
-    name: 西兰花
-    amount: 228.5
+    name: 秋葵
+    amount: 160
     unit: g
+
   - time: 20261014133000
     name: 蛋挞2610a
     amount: 0
@@ -50,6 +52,7 @@ food:
     name: 新边界云桑2号桑葚干
     amount: 15.0
     unit: g
+
   - time: 20261014141100
     name: 河套草原纯奶粉
     amount: 20
@@ -66,49 +69,57 @@ food:
       - day2:
         - 6.0g咖啡粉+32.0g热水焖蒸
         - +昨天咖啡渣+热水，共150.0g
+
   - time: 20261014193800
     name: 番茄酱
-    amount: 30.0
+    amount: 25.0
     unit: g
   - time: 20261014193800
     name: 醋柳山沙棘原浆
-    amount: 33.5
+    amount: 25
     unit: g
   - time: 20261014193800
     name: 菊粉
     amount: 10.0
     unit: g
+
   - time: 20261014194000
-    name: 蜜桃
-    amount: 245.5
+    name: 梨
+    amount: 160
     unit: g
-    log: 肥城桃
+    log: 红香酥梨
   - time: 20261014194600
     name: 葡萄
-    amount: 138.5
+    amount: 140
     unit: g
     log: 黑皇
+
   - time: 20261014195200
     name: 红薯
-    amount: 210.0
+    amount: 150.0
     unit: g
     log: 秦薯5号
   - time: 20261014195200
     name: 鸡腿肉
-    amount: 62.0
+    amount: 50
     unit: g
   - time: 20261014195200
     name: 小白菜
-    amount: 149.0
+    amount: 120
+    unit: g
+  - time: 20261014195200
+    name: 菜心
+    amount: 120
     unit: g
   - time: 20261014195200
     name: 蓬盐弱碱低钠盐
-    amount: 2.0
+    amount: 1.0
     unit: g
   - time: 20261014195200
     name: 欧丽薇兰橄榄油
     amount: 0.5
     unit: g
+
   - time: 20261014203000
     name: 河套草原纯奶粉
     amount: 20.0
@@ -117,7 +128,7 @@ food:
     name: 法芙娜可可粉
     amount: 2.0
     unit: g
-plan:
+
   - time: 20261014215400
     name: 小象高纤快熟燕麦片
     amount: 35
