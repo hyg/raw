@@ -1,0 +1,261 @@
+date: 20261017
+food:
+  - time: 20261017151300
+    name: 释迦果
+    amount: 190.0
+    unit: g
+  - time: 20261017151900
+    name: 娃娃鱼肉
+    amount: 220.0
+    unit: g
+    log: 毛重245.0g
+  - time: 20261017151900
+    name: 干山药
+    amount: 20.0
+    unit: g
+  - time: 20261017151900
+    name: 薏米
+    amount: 25.0
+    unit: g
+  - time: 20261017151900
+    name: 黄芪
+    amount: 10.0
+    unit: g
+  - time: 20261017151900
+    name: 北沙参
+    amount: 10.0
+    unit: g
+  - time: 20261017151900
+    name: 干百合
+    amount: 10.0
+    unit: g
+  - time: 20261017151900
+    name: 玉竹
+    amount: 8.0
+    unit: g
+  - time: 20261017151900
+    name: 莲子
+    amount: 10.5
+    unit: g
+  - time: 20261017151900
+    name: 干枣
+    amount: 21.0
+    unit: g
+  - time: 20261017151900
+    name: 枸杞
+    amount: 3.0
+    unit: g
+    log:
+      - 麦冬：10.0g
+  - time: 20261017151900
+    name: 苋菜
+    amount: 124.5
+    unit: g
+  - time: 20261017151900
+    name: 蓬盐弱碱低钠盐
+    amount: 3.0
+    unit: g
+  - time: 20261017151900
+    name: 味精
+    amount: 1.0
+    unit: g
+  - time: 20261017155100
+    name: 蛋挞2610a
+    amount: 1
+    unit: 个
+  - time: 20261017155100
+    name: 夏威夷果
+    amount: 9.5
+    unit: g
+  - time: 20261017155100
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20261017155100
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20261017155100
+    name: 新边界云桑2号桑葚干
+    amount: 15.0
+    unit: g
+  - time: 20261017161300
+    name: 河套草原纯奶粉
+    amount: 20.0
+    unit: g
+  - time: 20261017161300
+    name: TOMFEE埃塞俄比亚圣塔维尼咖啡豆
+    amount: 10.0
+    unit: g
+    log:
+      - 实际是景兰意式咖啡豆
+      - day1:
+        - 12克咖啡粉
+        - 90°C热水，25克水焖蒸
+        - 加到110.0g水
+      - day2:
+        - 8克咖啡粉+day1咖啡渣
+        - 加热水到145克密封
+        - 降温后冷藏1天
+  - time: 20261017232100
+    name: 番茄酱
+    amount: 28.5
+    unit: g
+  - time: 20261017232100
+    name: 醋柳山沙棘原浆
+    amount: 29.0
+    unit: g
+  - time: 20261017232100
+    name: 菊粉
+    amount: 6.0
+    unit: g
+  - time: 20261017232300
+    name: 猕猴桃
+    amount: 133.0
+    unit: g
+    log: 郁香
+  - time: 20261017232400
+    name: 葡萄
+    amount: 147.0
+    unit: g
+    log: 黑皇
+  - time: 20261017233000
+    name: 嘉罗螺旋意面
+    amount: 60.0
+    unit: g
+  - time: 20261017233000
+    name: 冷冻鱿鱼花
+    amount: 38.0
+    unit: g
+  - time: 20261017233000
+    name: 华锣原味秘制鸭
+    amount: 91.5
+    unit: g
+    log: 
+      - 毛重117.0g
+      - X 和馒头一起蒸。
+      - 不预热、上下火、中层烤架、160°C+20分钟。
+  - time: 20261017233000
+    name: 小白菜
+    amount: 121.0
+    unit: g
+  - time: 20261017233000
+    name: 胡萝卜
+    amount: 60.5
+    unit: g
+  - time: 20261017233000
+    name: 蓬盐弱碱低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20261017233000
+    name: 欧丽薇兰橄榄油
+    amount: 0.5
+    unit: g
+  - time: 20261017235600
+    name: 河套草原纯奶粉
+    amount: 20.0
+    unit: g
+  - time: 20261017235600
+    name: 法芙娜可可粉
+    amount: 2.0
+    unit: g
+plan:
+  - time: 20261017200000
+    name: 李子
+    amount: 0
+    unit: g
+
+  - time: 20261017201000
+    name: 小象高纤快熟燕麦片
+    amount: 40
+    unit: g
+  - time: 20261017201000
+    name: 广龙日溢海鸭咸蛋
+    amount: 60
+    unit: g
+  - time: 20261017201000
+    name: 油菜
+    amount: 150
+    unit: g
+  - time: 20261017201000
+    name: 蓬盐弱碱低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20261017201000
+    name: 欧丽薇兰橄榄油
+    amount: 0.5
+    unit: g
+
+  - time: 20261017190700
+    name: 河套草原纯奶粉
+    amount: 20.0
+    unit: g
+  - time: 20261017190700
+    name: 法芙娜可可粉
+    amount: 2.0
+    unit: g
+water:
+  - time: 20261017123500
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20261017142600
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20261017151900
+    name: 汤水
+    amount: 500
+    unit: ml
+  - time: 20261017161300
+    name: 咖啡
+    amount: 96.5
+    unit: ml
+  - time: 20261017175200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20261017195500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20261017214300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20261017235600
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20261018010800
+    name: 开水
+    amount: 150
+    unit: ml
+w:
+  - time: 20261017210500
+    name: 开水
+    amount: 100
+    unit: ml
+  - time: 20261017190700
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20261017203600
+    name: 开水
+    amount: 120
+    unit: ml
+med:
+  - time: 20261017161300
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20261017175200
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20261017175200
+    name: mature multi
+    amount: 1
+    unit: 片
+log: |
+comment: |
