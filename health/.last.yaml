@@ -1,14 +1,14 @@
 date: 20261019
 sleep: 
-  time: 20261019025500
-  weight: 55.6
+  time: 20261019022300
+  weight: 55.3
 wake:
-  time: 20261019133900
-  weight: 54.5
-  SpO2: 93
-  PRbpm: 68
+  time: 20261019110300
+  weight: 54.2
+  SpO2: 94
+  PRbpm: 65
   log: |
-   睡前小便0次，补水0次，睡觉中间起来小便1次。
+   睡前小便0次，补水0次，睡觉中间起来小便2次。
 exercise: 
 - time: 20261019144300
   item:

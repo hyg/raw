@@ -13,6 +13,9 @@ food:
     name: 腌梅花肉2610a
     amount: 50
     unit: g
+    log:
+      - 不预热、中层、上下火、190°C+15分钟
+      - 翻面、200°C+5分钟。
   - time: 20261019153200
     name: 南瓜
     amount: 50
@@ -25,11 +28,11 @@ food:
 
   - time: 20261019155300
     name: 蛋挞2610a
-    amount: 0
+    amount: 1
     unit: 个
   - time: 20261019155300
     name: 夏威夷果
-    amount: 0
+    amount: 10
     unit: g
   - time: 20261019155300
     name: 麦胚芽
@@ -87,11 +90,11 @@ food:
 
   - time: 20261019224900
     name: 嘉罗螺旋意面
-    amount: 30.0
+    amount: 50.0
     unit: g
   - time: 20261019224900
     name: 娃娃鱼肉
-    amount: 50
+    amount: 100
     unit: g
   - time: 20261019224900
     name: 楚郡味豆瓣酱
@@ -119,7 +122,7 @@ food:
     name: 法芙娜可可粉
     amount: 2.0
     unit: g
-
+plan:
   - time: 20261019181100
     name: 葡萄
     amount: 0
@@ -164,10 +167,11 @@ food:
     amount: 2.0
     unit: g
 water:
-  - time: 20261019134500
+  - time: 20261019111000
     name: 开水
     amount: 200
     unit: ml
+
   - time: 20261019151800
     name: 开水
     amount: 250
