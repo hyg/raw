@@ -1,0 +1,36 @@
+name: 有言有味小叶酸菜鱼调料
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 620
+    unit: kj
+    nrv: 7
+  蛋白质:
+    amount: 3.9
+    unit: g
+    nrv: 7
+  脂肪:
+    amount: 9.5
+    unit: g
+    nrv: 16
+  碳水化合物:
+    amount: 11.9
+    unit: g
+    nrv: 4
+  膳食纤维:
+    amount: 2.5
+    unit: g
+    nrv: 10
+  钠:
+    amount: 4803
+    unit: mg
+    nrv: 240
+comment:
+  饱和脂肪:
+    amount: 1.8
+    unit: g
+    nrv: 9
+  糖:
+    amount: 1.8
+    unit: g
