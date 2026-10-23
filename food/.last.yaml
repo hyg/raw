@@ -1,231 +1,218 @@
-date: 20261022
+date: 20261024
 food:
-  - time: 20261022134000
-    name: 释迦果
-    amount: 200
+  - time: 20261024140200
+    name: 猕猴桃
+    amount: 140
+    unit: g
+    log: 郁香
+
+  - time: 20261024140600
+    name: 白象原味清水挂面
+    amount: 80.0
+    unit: g
+  - time: 20261024140600
+    name: 酸菜鱼2610a
+    amount: 120
+    unit: g
+  - time: 20261024140600
+    name: 冷冻鱿鱼花
+    amount: 40
+    unit: g
+  - time: 20261024140600
+    name: 油菜
+    amount: 60
     unit: g
 
-  - time: 20261022134500
-    name: 馒头2610b
+  - time: 20261024143200
+    name: 蛋挞2610b
     amount: 1
     unit: 个
-  - time: 20261022134500
-    name: 酸菜鱼2610a
-    amount: 78.0
+  - time: 20261024143200
+    name: 夏威夷果
+    amount: 10
     unit: g
-  - time: 20261022134500
-    name: 鸡蛋
-    amount: 50
-    unit: g
-  - time: 20261022134500
-    name: 南瓜
-    amount: 45
-    unit: g
-    log: 贝栗美
-  - time: 20261022134500
-    name: 秋葵
-    amount: 150
-    unit: g
-
-  - time: 20261022141000
+  - time: 20261024143200
     name: 麦胚芽
     amount: 15.0
     unit: g
-  - time: 20261022141000
+  - time: 20261024143200
     name: 亚麻籽粉
     amount: 10.0
     unit: g
-  - time: 20261022141000
+  - time: 20261024143200
     name: 新边界云桑2号桑葚干
     amount: 15.0
     unit: g
 
-  - time: 20261022142200
+  - time: 20261024145600
     name: 河套草原纯奶粉
     amount: 20.0
     unit: g
-  - time: 20261022142200
+  - time: 20261024145600
     name: TOMFEE埃塞俄比亚圣塔维尼咖啡豆
     amount: 10.0
     unit: g
     log:
       - 实际是景兰意式咖啡豆
       - day1:
-        - 14.5g咖啡粉
-        - 100°C+48.0g焖蒸，共125.0g水
+        - 12克咖啡粉
+        - 90°C热水，25克水焖蒸
+        - 加到110.0g水
       - day2:
-        - 6.0g咖啡粉+32.0g热水焖蒸
-        - +昨天咖啡渣+热水，共150.0g
+        - 8克咖啡粉+day1咖啡渣
+        - 加热水到145克密封
+        - 降温后冷藏1天
 
-  - time: 20261022212200
+  - time: 20261024212900
     name: 番茄酱
     amount: 25
     unit: g
-  - time: 20261022212200
+  - time: 20261024212900
     name: 醋柳山沙棘原浆
-    amount: 25
+    amount: 0
     unit: g
-  - time: 20261022212200
+  - time: 20261024212900
     name: 菊粉
-    amount: 8.0
+    amount: 15
     unit: g
 
-  - time: 20261022212300
-    name: 猕猴桃
-    amount: 130
+  - time: 20261024213000
+    name: 蜜桃
+    amount: 260
     unit: g
-    log: 郁香
+    log: 肥城桃
 
-  - time: 20261022212600
-    name: 光明谷锦崇明大米
-    amount: 50.0
+  - time: 20261024213300
+    name: 烤红薯2610a
+    amount: 250
     unit: g
-  - time: 20261022212600
-    name: 紫米
-    amount: 10.0
-    unit: g
-  - time: 20261022212600
-    name: 煮杂豆2610a
-    amount: 30.0
-    unit: g
-  - time: 20261022212600
+  - time: 20261024213300
     name: 腌梅花肉2610a
-    amount: 55
+    amount: 50
     unit: g
-    log:
-      - 不预热、中层、上下火、190°C+15分钟
-      - 翻面、200°C+5分钟。
-  - time: 20261022212600
-    name: 苋菜
+  - time: 20261024213300
+    name: 芋头
+    amount: 100
+    unit: g
+
+  - time: 20261024213300
+    name: 小白菜
     amount: 200
     unit: g
-  - time: 20261022212600
+  - time: 20261024213300
     name: 蓬盐弱碱低钠盐
     amount: 1.0
     unit: g
-  - time: 20261022212600
+  - time: 20261024213300
     name: 欧丽薇兰橄榄油
     amount: 0.5
     unit: g
 
-  - time: 20261022215000
+  - time: 20261024220000
     name: 河套草原纯奶粉
     amount: 20.0
     unit: g
-  - time: 20261022215000
+  - time: 20261024220000
     name: 法芙娜可可粉
     amount: 2.0
     unit: g
 plan:
-  - time: 20261022181100
-    name: 蜜桃
-    amount: 300
-    unit: g
-    log: 肥城桃
-
-  - time: 20261022215400
-    name: 小象高纤快熟燕麦片
-    amount: 35
-    unit: g
-  - time: 20261022215400
-    name: 津渔睿麻酱鸡蛋
+  - time: 20261024200000
+    name: 李子
     amount: 0
     unit: g
-  - time: 20261022215400
-    name: 鸡蛋
-    amount: 50
+
+  - time: 20261024201000
+    name: 小象高纤快熟燕麦片
+    amount: 40
     unit: g
-  - time: 20261022215400
-    name: 十三村原味腐乳
-    amount: 10
+  - time: 20261024201000
+    name: 广龙日溢海鸭咸蛋
+    amount: 60
     unit: g
-  - time: 20261022215400
+  - time: 20261024201000
     name: 油菜
     amount: 150
     unit: g
-  - time: 20261022215400
+  - time: 20261024201000
     name: 蓬盐弱碱低钠盐
     amount: 1.0
     unit: g
-  - time: 20261022215400
+  - time: 20261024201000
     name: 欧丽薇兰橄榄油
     amount: 0.5
     unit: g
 
-  - time: 20261022215000
+  - time: 20261024190700
     name: 河套草原纯奶粉
     amount: 20.0
     unit: g
-  - time: 20261022215000
+  - time: 20261024190700
     name: 法芙娜可可粉
     amount: 2.0
     unit: g
 water:
-  - time: 20261022112400
+  - time: 20261024114100
     name: 开水
     amount: 200
     unit: ml
-  - time: 20261022133000
+  - time: 20261024133100
     name: 开水
     amount: 250
     unit: ml
-  - time: 20261022142200
+  - time: 20261024140600
+    name: 汤水
+    amount: 500
+    unit: ml
+  - time: 20261024145600
     name: 咖啡
-    amount: 99.5
+    amount: 63.5
     unit: ml
-  - time: 20261022153100
+  - time: 20261024161800
     name: 开水
     amount: 250
     unit: ml
-  - time: 20261022164200
+  - time: 20261024173000
+    name: 开水
+    amount: 300
+    unit: ml
+  - time: 20261024193600
     name: 开水
     amount: 250
     unit: ml
-  - time: 20261022174000
-    name: 开水
-    amount: 250
-    unit: ml
-  - time: 20261022194600
-    name: 开水
-    amount: 250
-    unit: ml
-  - time: 20261022215000
+  - time: 20261024220000
     name: 可可奶
     amount: 80.0
     unit: ml
-  - time: 20261022230800
+  - time: 20261024225600
+    name: 开水
+    amount: 120
+    unit: ml
+w:
+  - time: 20261024210500
     name: 开水
     amount: 100
     unit: ml
-w:
-  - time: 20261022191500
-    name: 开水
-    amount: 250
-    unit: ml
-  - time: 20261022215000
+  - time: 20261024190700
     name: 可可奶
-    amount: 80
+    amount: 80.0
     unit: ml
-  - time: 20261022193000
+  - time: 20261024203600
     name: 开水
-    amount: 125
+    amount: 120
     unit: ml
 med:
-  - time: 20261022142200
+  - time: 20261024145600
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
-  - time: 20261022153100
+  - time: 20261024161800
     name: selenium
     amount: 200
     unit: μg
-  - time: 20261022153100
+  - time: 20261024161800
     name: mature multi
     amount: 1
     unit: 片
-  - time: 20261022153100
-    name: 维生素D3
-    amount: 50
-    unit: μg
 log: |
 comment: |
