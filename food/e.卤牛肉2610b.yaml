@@ -1,0 +1,16 @@
+name: 卤牛肉2610b
+amount: 269.5
+unit: g
+food:
+  - name: 牛腿肉
+    amount: 426.5
+    unit: g
+  - name: 双笑咸山黄皮果
+    amount: 23.0
+    unit: g
+log:
+  - 途象牛腿肉
+  - 高压锅32分钟。
+comment:
+  - 咸淡合适。
+  - 软烂合适，粗纤维还有点塞牙。下次可以试试40+分钟。
