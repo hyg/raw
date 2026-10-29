@@ -1,0 +1,230 @@
+date: 20261029
+food:
+  - time: 20261029145000
+    name: 蜜桃
+    amount: 178.0
+    unit: g
+    log: 金秋红
+  - time: 20261029145500
+    name: 馒头2610b
+    amount: 1
+    unit: 个
+  - time: 20261029145500
+    name: 卤牛肉2610b
+    amount: 57.0
+    unit: g
+  - time: 20261029145500
+    name: 十三村原味腐乳
+    amount: 9.5
+    unit: g
+  - time: 20261029145500
+    name: 南瓜
+    amount: 36.0
+    unit: g
+    log: 贝栗美
+  - time: 20261029145500
+    name: 秋葵
+    amount: 168.5
+    unit: g
+  - time: 20261029151800
+    name: 夏威夷果
+    amount: 6.5
+    unit: g
+  - time: 20261029151800
+    name: 麦胚芽
+    amount: 15.0
+    unit: g
+  - time: 20261029151800
+    name: 亚麻籽粉
+    amount: 10.0
+    unit: g
+  - time: 20261029151800
+    name: 新边界云桑2号桑葚干
+    amount: 15.0
+    unit: g
+  - time: 20261029153100
+    name: 河套草原纯奶粉
+    amount: 20.0
+    unit: g
+  - time: 20261029153100
+    name: TOMFEE埃塞俄比亚圣塔维尼咖啡豆
+    amount: 10.0
+    unit: g
+    log:
+      - 实际是景兰意式咖啡豆
+      - day1:
+        - 15.5g咖啡粉
+        - 100°C+29.0g焖蒸，共125.0g水
+      - day2:
+        - 6.0g咖啡粉+36.0g热水焖蒸
+        - +昨天咖啡渣+热水，共160.0g
+  - time: 20261029221000
+    name: 番茄酱
+    amount: 27.5
+    unit: g
+  - time: 20261029221000
+    name: 棘密沙棘原浆
+    amount: 26.5
+    unit: g
+  - time: 20261029221000
+    name: 菊粉
+    amount: 15.0
+    unit: g
+  - time: 20261029220000
+    name: 苹果
+    amount: 262.5
+    unit: g
+    log: 云岫苹果
+  - time: 20261029220800
+    name: 香蕉
+    amount: 71.5
+    unit: g
+  - time: 20261029221000
+    name: 光明谷锦崇明大米
+    amount: 50.0
+    unit: g
+  - time: 20261029221000
+    name: 紫米
+    amount: 10.0
+    unit: g
+  - time: 20261029221000
+    name: 煮杂豆2610a
+    amount: 40.0
+    unit: g
+  - time: 20261029221000
+    name: 腌鸡腿肉2610b
+    amount: 74.5
+    unit: g
+  - time: 20261029221000
+    name: 油菜
+    amount: 242.5
+    unit: g
+  - time: 20261029221000
+    name: 木耳
+    amount: 10.0
+    unit: g
+  - time: 20261029221000
+    name: 蓬盐弱碱低钠盐
+    amount: 2.0
+    unit: g
+  - time: 20261029221000
+    name: 欧丽薇兰橄榄油
+    amount: 0.5
+    unit: g
+  - time: 20261029230000
+    name: 河套草原纯奶粉
+    amount: 20.0
+    unit: g
+  - time: 20261029230000
+    name: 法芙娜可可粉
+    amount: 3.0
+    unit: g
+plan:
+  - time: 20261029181100
+    name: 苹果
+    amount: 300
+    unit: g
+    log: 云岫苹果
+
+  - time: 20261029315400
+    name: 小象高纤快熟燕麦片
+    amount: 35
+    unit: g
+  - time: 20261029315400
+    name: 津渔睿麻酱鸡蛋
+    amount: 0
+    unit: g
+  - time: 20261029315400
+    name: 鸡蛋
+    amount: 50
+    unit: g
+  - time: 20261029315400
+    name: 十三村原味腐乳
+    amount: 10
+    unit: g
+  - time: 20261029315400
+    name: 油菜
+    amount: 150
+    unit: g
+  - time: 20261029315400
+    name: 蓬盐弱碱低钠盐
+    amount: 1.0
+    unit: g
+  - time: 20261029315400
+    name: 欧丽薇兰橄榄油
+    amount: 0.5
+    unit: g
+
+  - time: 20261029230000
+    name: 河套草原纯奶粉
+    amount: 20.0
+    unit: g
+  - time: 20261029230000
+    name: 法芙娜可可粉
+    amount: 2.0
+    unit: g
+water:
+  - time: 20261029122100
+    name: 开水
+    amount: 200
+    unit: ml
+  - time: 20261029143200
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20261029153100
+    name: 咖啡
+    amount: 85.0
+    unit: ml
+  - time: 20261029163000
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20261029170300
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20261029175800
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20261029230000
+    name: 可可奶
+    amount: 80.0
+    unit: ml
+  - time: 20261029231300
+    name: 开水
+    amount: 50
+    unit: ml
+w:
+  - time: 20261029191500
+    name: 开水
+    amount: 250
+    unit: ml
+  - time: 20261029230000
+    name: 可可奶
+    amount: 80
+    unit: ml
+  - time: 20261029193000
+    name: 开水
+    amount: 125
+    unit: ml
+med:
+  - time: 20261029153100
+    name: 楚牛牛磺酸
+    amount: 0.5
+    unit: g
+  - time: 20261029163000
+    name: selenium
+    amount: 200
+    unit: μg
+  - time: 20261029163000
+    name: mature multi
+    amount: 1
+    unit: 片
+  - time: 20261029163000
+    name: 维生素D3
+    amount: 50
+    unit: μg
+log: |
+comment: |
