@@ -1,0 +1,28 @@
+name: 龙都集市雪疆月牙面
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 1506
+    unit: kj
+    nrv: 18
+  蛋白质:
+    amount: 11.5
+    unit: g
+    nrv: 19
+  脂肪:
+    amount: 1.7
+    unit: g
+    nrv: 3
+  碳水化合物:
+    amount: 73.4
+    unit: g
+    nrv: 24
+  钠:
+    amount: 0
+    unit: mg
+    nrv: 0
+comment:
+  糖:
+    amount: 3.5
+    unit: g
