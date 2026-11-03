@@ -1,0 +1,21 @@
+name: 酸菜鱼2611a
+amount: 450
+unit: g
+food:
+  - name: 娃娃鱼肉
+    amount: 500
+    unit: g
+  - name: 望闲山泉水酸菜
+    amount: 125
+    unit: g
+  - name: 胡椒粉
+    amount: 2.5
+    unit: g
+  - name: 蓬盐弱碱低钠盐
+    amount: 7.5
+    unit: g
+log: |
+  - 高压锅12分钟。
+  - 只计算娃娃鱼肉熟重459.0g，酸菜和汤大致按比例跟随分配。
+comment: |
+  - 太辣，下次用纯酸菜+胡椒粉。
