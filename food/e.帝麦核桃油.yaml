@@ -1,0 +1,16 @@
+name: 帝麦核桃油
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 3696
+    unit: kj
+    nrv: 44
+  脂肪:
+    amount: 99.9
+    unit: g
+    nrv: 167
+comment:
+  多不饱和脂肪酸:
+    亚油酸: 55~70%
+    α-亚麻酸: 5.5~18%
