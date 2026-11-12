@@ -115,6 +115,10 @@ food:
     name: 法芙娜可可粉
     amount: 2.0
     unit: g
+  - time: 20261111234100
+    name: 盼月枣肉核桃老月饼2609
+    amount: 89.0
+    unit: g    
 plan:
   - time: 20261111181100
     name: 番石榴
@@ -190,6 +194,10 @@ water:
   - time: 20261111200300
     name: 开水
     amount: 200
+    unit: ml
+  - time: 20261111234500
+    name: 开水
+    amount: 50
     unit: ml
 w:
   - time: 20261111191500
