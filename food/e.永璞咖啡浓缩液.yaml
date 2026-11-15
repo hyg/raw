@@ -1,0 +1,22 @@
+name: 永璞咖啡浓缩液
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 29
+    unit: kj
+    nrv: 0
+  蛋白质:
+    amount: 0.4
+    unit: g
+    nrv: 1
+  碳水化合物:
+    amount: 1.3
+    unit: g
+    nrv: 0
+  钠:
+    amount: 25
+    unit: mg
+    nrv: 1
+comment: |+
+  每份净含量标25g。实际24.0g。
