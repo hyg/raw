@@ -1,46 +1,43 @@
 date: 20261124
 food:
-  - time: 20261124135300
+  - time: 20261124152200
     name: 柿子
-    amount: 160
+    amount: 177.5
     unit: g
-
-  - time: 20261124135600
+  - time: 20261124152600
     name: 河粉
     amount: 300
     unit: g
-  - time: 20261124135600
+  - time: 20261124152600
     name: 羊手把肉2611c
     amount: 130
     unit: g
     log: 带骨熟重147.0g
-  - time: 20261124135600
+  - time: 20261124152600
     name: 乌塌菜
     amount: 100
     unit: g
-  - time: 20261124135600
+  - time: 20261124152600
     name: 蓬盐弱碱低钠盐
     amount: 2.0
     unit: g
-
-  - time: 20261124143000
+  - time: 20261124154500
     name: 麦胚芽
     amount: 15.0
     unit: g
-  - time: 20261124143000
+  - time: 20261124154500
     name: 亚麻籽粉
     amount: 10.0
     unit: g
-  - time: 20261124143000
+  - time: 20261124154500
     name: 新边界云桑2号桑葚干
     amount: 15.0
     unit: g
-
-  - time: 20261124145800
+  - time: 20261124160000
     name: 河套草原纯奶粉
     amount: 20.0
     unit: g
-  - time: 20261124145800
+  - time: 20261124160000
     name: TOMFEE埃塞俄比亚圣塔维尼咖啡豆
     amount: 10.0
     unit: g
@@ -54,62 +51,55 @@ food:
         - 2.0克咖啡粉+day1咖啡渣
         - 加热水到200克密封
         - 降温后冷藏1天
-
-  - time: 20261124205500
+  - time: 20261124234700
     name: 番茄酱
-    amount: 25
+    amount: 27.0
     unit: g
-  - time: 20261124205500
+  - time: 20261124234700
     name: 棘密沙棘原浆
-    amount: 25
+    amount: 25.5
     unit: g
-
-  - time: 20261124205600
+  - time: 20261124234700
+    name: 菊粉
+    amount: 13.0
+    unit: g
+  - time: 20261124234800
     name: 猕猴桃
-    amount: 105
+    amount: 101.0
     unit: g
     log: 金艳
-
-  - time: 20261124210000
-    name: 蛋挞2611b
-    amount: 1
-    unit: 个
-  - time: 20261124210000
-    name: 红薯
-    amount: 200
+  - time: 20261124235500
+    name: 土豆
+    amount: 245.5
     unit: g
-  - time: 20261124210000
-    name: 梨
-    amount: 300
+  - time: 20261124235500
+    name: 芋头
+    amount: 159.5
     unit: g
-  - time: 20261124210000
-    name: 干枣
-    amount: 10
-    unit: g
-  - time: 20261124210000
+  - time: 20261124235500
     name: 三文鱼
-    amount: 100
+    amount: 73.0
     unit: g
-  - time: 20261124210000
+    log: 180度+15分钟，210度+5分钟
+  - time: 20261124235500
     name: 油菜
-    amount: 250
+    amount: 190.0
     unit: g
-  - time: 20261124210000
+  - time: 20261124235500
     name: 蓬盐弱碱低钠盐
-    amount: 1.5
+    amount: 2.0
     unit: g
-  - time: 20261124210000
+  - time: 20261124235500
     name: 帝麦核桃油
     amount: 0.5
     unit: g
-
-  - time: 20261124222800
+  - time: 20261125003000
     name: 河套草原纯奶粉
     amount: 20.0
     unit: g
-  - time: 20261124222800
+  - time: 20261125003000
     name: 法芙娜可可粉
-    amount: 2.5
+    amount: 2.0
     unit: g
 
 fplan:
@@ -149,39 +139,39 @@ fplan:
     amount: 2.0
     unit: g
 water:
-  - time: 20261124114000
+  - time: 202611241133500
     name: 开水
     amount: 200
     unit: ml
-  - time: 20261124134000
+  - time: 20261124150500
     name: 开水
     amount: 250
     unit: ml
-  - time: 20261124135600
+  - time: 20261124152600
     name: 汤水
     amount: 700
     unit: ml
-  - time: 20261124145800
+  - time: 20261124160000
     name: 咖啡
     amount: 116.5
     unit: ml
-  - time: 20261124161300
+  - time: 20261124170500
     name: 开水
     amount: 250
     unit: ml
-  - time: 20261124173300
+  - time: 202611241204100
     name: 开水
     amount: 250
     unit: ml
-  - time: 20261124192800
+  - time: 20261124224300
     name: 开水
     amount: 250
     unit: ml
-  - time: 20261124222800
+  - time: 20261125003000
     name: 可可奶
     amount: 81.5
     unit: ml
-  - time: 20261124230200
+  - time: 20261125012300
     name: 开水
     amount: 50
     unit: ml
@@ -199,7 +189,7 @@ wplan:
     amount: 120
     unit: ml
 med:
-  - time: 20261124145800
+  - time: 20261124160000
     name: 楚牛牛磺酸
     amount: 0.5
     unit: g
