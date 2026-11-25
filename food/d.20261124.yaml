@@ -10,9 +10,9 @@ food:
     unit: g
   - time: 20261124152600
     name: 羊手把肉2611c
-    amount: 130
+    amount: 89.0
     unit: g
-    log: 带骨熟重147.0g
+    log: 带骨熟重101.0g
   - time: 20261124152600
     name: 乌塌菜
     amount: 100

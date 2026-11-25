@@ -1,0 +1,24 @@
+name: 马恒兴无为板鸭
+amount: 100
+unit: g
+element:
+  热量:
+    amount: 951
+    unit: kj
+    nrv: 11
+  蛋白质:
+    amount: 20.8
+    unit: g
+    nrv: 35
+  脂肪:
+    amount: 13.7
+    unit: g
+    nrv: 23
+  碳水化合物:
+    amount: 5.3
+    unit: g
+    nrv: 2
+  钠:
+    amount: 1450
+    unit: mg
+    nrv: 73
