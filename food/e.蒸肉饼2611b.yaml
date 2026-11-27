@@ -1,0 +1,30 @@
+name: 蒸肉饼2611b
+amount: 641.5
+unit: g
+food:
+  - name: 猪前腿肉
+    amount: 294.5
+    unit: g
+  - name: 猪肝
+    amount: 70
+    unit: g
+  - name: 冷冻脆口鱿鱼须
+    amount: 100.0
+    unit: g
+  - name: 香菇
+    amount: 20.0
+    unit: g
+  - name: 姜
+    amount: 100
+    unit: g
+  - name: 豆瓣酱
+    amount: 34.5
+    unit: g
+    log: 实际是酱油膏11.5g
+log:
+  - 食材切块、冷藏几个小时降温，抵消搅拌时热量；
+  - 食材混合、搅拌成肉泥后，蒸箱下层蒸20分钟。
+  - 容器重325.5g、369.0g，熟肉饼毛重628.0g、728.0g，净重641.5g。
+comment:
+  - 咸淡合适。
+  - 打得太碎了，下次可以保留肉的颗粒。
