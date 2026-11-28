@@ -139,7 +139,7 @@ fplan:
     amount: 2.0
     unit: g
 water:
-  - time: 202611241133500
+  - time: 20261124133500
     name: 开水
     amount: 200
     unit: ml
@@ -159,7 +159,7 @@ water:
     name: 开水
     amount: 250
     unit: ml
-  - time: 202611241204100
+  - time: 20261124204100
     name: 开水
     amount: 250
     unit: ml
